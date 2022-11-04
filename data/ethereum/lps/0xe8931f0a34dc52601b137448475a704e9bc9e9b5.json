@@ -1,0 +1,10 @@
+{
+	"Id": "0xe8931f0a34dc52601b137448475a704e9bc9e9b5",
+	"Symbol": "VIEWS-WETH",
+	"UnderlyingTokens": [
+		"0x2b6dd33b57579d93f0fb799abbc47e16d589a024",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xaf119546a2391f0d2d3decb5eda6d54b75367380",
+	"Symbol": "FREN-WETH",
+	"UnderlyingTokens": [
+		"0x8e14c88ab0644ef41bd7138ab91c0160d8c1583a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

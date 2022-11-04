@@ -1,0 +1,24 @@
+{
+	"Id": "0x9c70724d2f72847174c2f7bbea25b36d883defe8",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x9c70724d2f72847174c2f7bbea25b36d883defe8",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9f41da75ab2b8c6f0dcef7173c4bf66bd4f6b36a"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PEANUTS-WETH",
+	"Chain": "ethereum"
+}

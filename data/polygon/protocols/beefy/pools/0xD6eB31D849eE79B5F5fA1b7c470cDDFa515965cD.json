@@ -1,0 +1,21 @@
+{
+	"Id": "0xD6eB31D849eE79B5F5fA1b7c470cDDFa515965cD",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xD6eB31D849eE79B5F5fA1b7c470cDDFa515965cD",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7805B64e2d99412d3b8F10Dfe8fc55217C5cc954"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MAI-MATIC LP",
+	"Chain": "polygon"
+}

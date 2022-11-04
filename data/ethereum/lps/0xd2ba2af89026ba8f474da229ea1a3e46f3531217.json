@@ -1,0 +1,10 @@
+{
+	"Id": "0xd2ba2af89026ba8f474da229ea1a3e46f3531217",
+	"Symbol": "XRA-WETH",
+	"UnderlyingTokens": [
+		"0x7025bab2ec90410de37f488d1298204cd4d6b29d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,24 @@
+{
+	"Id": "0xcf69db37abbb43f9e84daf1f0622d4ce91e6d0da",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xcf69db37abbb43f9e84daf1f0622d4ce91e6d0da",
+			"Apr": 0.987165,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x23157662a9cb9be32d4d9bd019d9bcbaa040a62b"
+		},
+		{
+			"Address": "0x57ab1ec28d129707052df4df418d58a2d46d5f51"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BASX-sUSD",
+	"Chain": "ethereum"
+}

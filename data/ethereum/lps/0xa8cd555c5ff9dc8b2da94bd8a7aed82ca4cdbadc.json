@@ -1,0 +1,10 @@
+{
+	"Id": "0xa8cd555c5ff9dc8b2da94bd8a7aed82ca4cdbadc",
+	"Symbol": "WETH-E-FLOKI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf1d8501d175e6fbf416f46caa74fbd3e85cae2bc"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

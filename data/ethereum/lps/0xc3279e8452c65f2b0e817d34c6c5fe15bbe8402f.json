@@ -1,0 +1,10 @@
+{
+	"Id": "0xc3279e8452c65f2b0e817d34c6c5fe15bbe8402f",
+	"Symbol": "WETH-MFF",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xcbfa5f7e44d7cd08666766c2935e2fdaa953178f"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

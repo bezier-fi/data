@@ -1,0 +1,24 @@
+{
+	"Id": "0xfb1833894e74ebe68b8ccb02ae2623b838b618af",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xfb1833894e74ebe68b8ccb02ae2623b838b618af",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2ba592f78db6436527729929aaf6c908497cb200"
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CREAM-USDC (1.00%)",
+	"Chain": "ethereum"
+}

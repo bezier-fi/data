@@ -1,0 +1,21 @@
+{
+	"Id": "0xE695fCeD8fD93eeE54204a7fC33323a60d41865A",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xE695fCeD8fD93eeE54204a7fC33323a60d41865A",
+			"Apr": 8.011352,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x396E655C309676cAF0acf4607a868e0CDed876dB"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CRV-ETH LP",
+	"Chain": "polygon"
+}

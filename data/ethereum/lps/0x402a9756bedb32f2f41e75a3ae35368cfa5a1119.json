@@ -1,0 +1,10 @@
+{
+	"Id": "0x402a9756bedb32f2f41e75a3ae35368cfa5a1119",
+	"Symbol": "MXNEKO-WETH",
+	"UnderlyingTokens": [
+		"0x94ff336d0b0257170b9c1e5df90c94b9a64d2a14",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

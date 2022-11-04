@@ -1,0 +1,10 @@
+{
+	"Id": "0xe3d3551bb608e7665472180a20280630d9e938aa",
+	"Symbol": "WETH-SAITAMA",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xce3f08e664693ca792cace4af1364d5e220827b2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

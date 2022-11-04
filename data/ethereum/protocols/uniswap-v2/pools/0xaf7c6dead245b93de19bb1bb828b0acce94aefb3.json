@@ -1,0 +1,24 @@
+{
+	"Id": "0xaf7c6dead245b93de19bb1bb828b0acce94aefb3",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xaf7c6dead245b93de19bb1bb828b0acce94aefb3",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1e950af2f6f8505c09f0ca42c4b38f10979cb22e"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BurnX20-WETH",
+	"Chain": "ethereum"
+}

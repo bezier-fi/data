@@ -1,0 +1,24 @@
+{
+	"Id": "0xcf15ad9be9d33384b74b94d63d06b4a9bd82f640",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xcf15ad9be9d33384b74b94d63d06b4a9bd82f640",
+			"Apr": 52.03703,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		},
+		{
+			"Address": "0xd33526068d116ce69f19a9ee46f0bd304f21a51f"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-RPL (1.00%)",
+	"Chain": "ethereum"
+}

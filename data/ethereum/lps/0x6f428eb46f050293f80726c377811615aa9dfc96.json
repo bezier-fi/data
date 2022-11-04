@@ -1,0 +1,10 @@
+{
+	"Id": "0x6f428eb46f050293f80726c377811615aa9dfc96",
+	"Symbol": "BID-WETH",
+	"UnderlyingTokens": [
+		"0x00000000000045166c45af0fc6e4cf31d9e14b9a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

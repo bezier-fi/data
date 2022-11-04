@@ -1,0 +1,10 @@
+{
+	"Id": "0xf13fd944aba186edb1cfd2446f60836b5405dd52",
+	"Symbol": "LADZ-WETH",
+	"UnderlyingTokens": [
+		"0x1287c0509df9a475ef178471ab2132b9dfd312b3",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

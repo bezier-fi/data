@@ -1,0 +1,24 @@
+{
+	"Id": "0x8c0411f2ad5470a66cb2e9c64536cfb8dcd54d51",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0x8c0411f2ad5470a66cb2e9c64536cfb8dcd54d51",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x160de4468586b6b2f8a92feb0c260fc6cfc743b1"
+		},
+		{
+			"Address": "0xea5edef1fcf717327440646e7302ca058dde844f"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ease.org-ez-yvCurve-IronBank (0.01%)",
+	"Chain": "ethereum"
+}

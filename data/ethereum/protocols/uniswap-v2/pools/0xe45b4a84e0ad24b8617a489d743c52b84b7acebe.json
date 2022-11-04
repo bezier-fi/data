@@ -1,0 +1,24 @@
+{
+	"Id": "0xe45b4a84e0ad24b8617a489d743c52b84b7acebe",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xe45b4a84e0ad24b8617a489d743c52b84b7acebe",
+			"Apr": 16.895731,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5b7533812759b45c2b44c19e320ba2cd2681b542"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "AGIX-WETH",
+	"Chain": "ethereum"
+}

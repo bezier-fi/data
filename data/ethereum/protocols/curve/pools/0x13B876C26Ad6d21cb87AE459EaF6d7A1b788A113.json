@@ -1,0 +1,30 @@
+{
+	"Id": "0x13B876C26Ad6d21cb87AE459EaF6d7A1b788A113",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0x09b2E090531228d1b8E3d948C73b990Cb6e60720",
+			"Apr": 0.8333178,
+			"GroupId": 0,
+			"Key": ""
+		},
+		{
+			"Address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+			"Apr": 31.77181,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3472A5A71965499acd81997a54BBA8D852C6E53d"
+		},
+		{
+			"Address": "0x3175Df0976dFA876431C2E9eE6Bc45b65d3473CC"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BADGERFRAX-f",
+	"Chain": "ethereum"
+}

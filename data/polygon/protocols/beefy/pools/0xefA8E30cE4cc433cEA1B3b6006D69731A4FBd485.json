@@ -1,0 +1,21 @@
+{
+	"Id": "0xefA8E30cE4cc433cEA1B3b6006D69731A4FBd485",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xefA8E30cE4cc433cEA1B3b6006D69731A4FBd485",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xcBF6f78981e63Ef813cb71852d72A060b583EECF"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FISH-MATIC LP",
+	"Chain": "polygon"
+}

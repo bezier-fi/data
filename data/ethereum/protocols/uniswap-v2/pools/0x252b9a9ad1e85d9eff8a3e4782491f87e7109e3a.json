@@ -1,0 +1,24 @@
+{
+	"Id": "0x252b9a9ad1e85d9eff8a3e4782491f87e7109e3a",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x252b9a9ad1e85d9eff8a3e4782491f87e7109e3a",
+			"Apr": 0.0033868244,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x67372e5b5279044e188e1a25ca95975bb9b7a0e8"
+		},
+		{
+			"Address": "0x6b175474e89094c44da98b954eedeac495271d0f"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "INU-DAI",
+	"Chain": "ethereum"
+}

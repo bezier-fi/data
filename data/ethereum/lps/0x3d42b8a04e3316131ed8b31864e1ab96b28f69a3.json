@@ -1,0 +1,10 @@
+{
+	"Id": "0x3d42b8a04e3316131ed8b31864e1ab96b28f69a3",
+	"Symbol": "YFIP-WETH",
+	"UnderlyingTokens": [
+		"0xb9782532fa7062a6f73df1ce71d75c0e16046ebc",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xac6776d1c8d455ad282c76eb4c2ade2b07170104",
+	"Symbol": "KIBA-WETH",
+	"UnderlyingTokens": [
+		"0x4b2c54b80b77580dc02a0f6734d3bad733f50900",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xd6bb4d186dc434fe5dd7fd6dcf6924032db7db28",
+	"Symbol": "YFIR-WETH",
+	"UnderlyingTokens": [
+		"0x8d81c4b79e36ed49e8c5f2d568dc1287d045bad2",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

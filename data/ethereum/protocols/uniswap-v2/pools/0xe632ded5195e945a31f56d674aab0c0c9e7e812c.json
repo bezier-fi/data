@@ -1,0 +1,24 @@
+{
+	"Id": "0xe632ded5195e945a31f56d674aab0c0c9e7e812c",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xe632ded5195e945a31f56d674aab0c0c9e7e812c",
+			"Apr": 3.321788,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		},
+		{
+			"Address": "0xdd1ad9a21ce722c151a836373babe42c868ce9a4"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-UBI",
+	"Chain": "ethereum"
+}

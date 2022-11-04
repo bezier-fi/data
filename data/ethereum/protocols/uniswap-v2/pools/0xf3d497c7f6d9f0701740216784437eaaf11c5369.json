@@ -1,0 +1,24 @@
+{
+	"Id": "0xf3d497c7f6d9f0701740216784437eaaf11c5369",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xf3d497c7f6d9f0701740216784437eaaf11c5369",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb48d768bc50e19e08a5ece0b7bed2a62c81d1d95"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Artemis Inu-WETH",
+	"Chain": "ethereum"
+}

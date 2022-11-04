@@ -1,0 +1,24 @@
+{
+	"Id": "0xd7d0381f2c6153daf4e921288143dfb1893ec230",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xd7d0381f2c6153daf4e921288143dfb1893ec230",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x469855ccc63f22fb4e17159e1cc3f51ed56d672a"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CAMEL-WETH",
+	"Chain": "ethereum"
+}

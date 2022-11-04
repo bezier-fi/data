@@ -1,0 +1,24 @@
+{
+	"Id": "0x28B0Cf1baFB707F2c6826d10caf6DD901a6540C5",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0x28B0Cf1baFB707F2c6826d10caf6DD901a6540C5",
+			"Apr": 3.0562887,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xe5c987F93734cb44AB03F1B18e30A374254891b6"
+		},
+		{
+			"Address": "0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "UZD3CRV-f",
+	"Chain": "ethereum"
+}

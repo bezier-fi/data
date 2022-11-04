@@ -1,0 +1,24 @@
+{
+	"Id": "0xc7e3eca6b26714ce1616ed1c7cb02bf6a6cc18c2",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xc7e3eca6b26714ce1616ed1c7cb02bf6a6cc18c2",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		},
+		{
+			"Address": "0xdfd5bb6ce8716822b2c9b255560194ca3509bebc"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-VICEx",
+	"Chain": "ethereum"
+}

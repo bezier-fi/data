@@ -1,0 +1,24 @@
+{
+	"Id": "0xacc8bb28878d19afd067e1491a9931b74691d857",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xacc8bb28878d19afd067e1491a9931b74691d857",
+			"Apr": 5.2262397,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8947da500eb47f82df21143d0c01a29862a8c3c5"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "THALES-WETH (0.30%)",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x6e29e9790cc23cda451ee72036aa8062b805b4bc",
+	"Symbol": "BLFI-WETH",
+	"UnderlyingTokens": [
+		"0x417ffdbc285dd2c4dc00937798ab901634137caa",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

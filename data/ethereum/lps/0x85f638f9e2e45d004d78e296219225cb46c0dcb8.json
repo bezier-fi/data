@@ -1,0 +1,10 @@
+{
+	"Id": "0x85f638f9e2e45d004d78e296219225cb46c0dcb8",
+	"Symbol": "WETH-TNDY (0.30%)",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe6525fbdfce39ec03e78c13ef556f7d331318b20"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

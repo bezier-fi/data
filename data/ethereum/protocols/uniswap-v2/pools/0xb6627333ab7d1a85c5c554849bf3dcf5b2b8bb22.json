@@ -1,0 +1,24 @@
+{
+	"Id": "0xb6627333ab7d1a85c5c554849bf3dcf5b2b8bb22",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xb6627333ab7d1a85c5c554849bf3dcf5b2b8bb22",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x141d747c237de7bcce3f2ea776e280235e1e06e0"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Dream-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x73465ca7f47e82033303e5d0aa0f49700e960eae",
+	"Symbol": "NITRO-WETH",
+	"UnderlyingTokens": [
+		"0x0335a7610d817aeca1bebbefbd392ecc2ed587b8",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

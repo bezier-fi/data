@@ -1,0 +1,24 @@
+{
+	"Id": "0xB2E113a6B8edeA086A44B1509013C4Fc69eC4bf0",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0x203Dd977cDB764176ac0fa12f96B3DA377fdF5e5",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+		},
+		{
+			"Address": "0x9416bA76e88D873050A06e5956A3EBF10386b863"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "VIRTETH-f",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x19f3076ab3bec6956c8b44ba324f52d6c353a23e",
+	"Symbol": "$BLINKINU-WETH",
+	"UnderlyingTokens": [
+		"0x25c552cac41fb69887ca8271de35b0546d7f1de8",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

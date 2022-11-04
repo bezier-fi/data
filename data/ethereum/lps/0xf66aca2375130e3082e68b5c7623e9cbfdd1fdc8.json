@@ -1,0 +1,10 @@
+{
+	"Id": "0xf66aca2375130e3082e68b5c7623e9cbfdd1fdc8",
+	"Symbol": "Balls-WETH",
+	"UnderlyingTokens": [
+		"0x174ed6e64a5903b59ca7910081e1e3a2c551afc6",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

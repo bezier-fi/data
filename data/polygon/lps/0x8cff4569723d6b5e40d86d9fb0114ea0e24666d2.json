@@ -1,0 +1,10 @@
+{
+	"Id": "0x8cff4569723d6b5e40d86d9fb0114ea0e24666d2",
+	"Symbol": "MEX-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x71dd3170decabe12afe717cfdae0a7b1cdd734b4",
+		"0x7ceb23fd6bc0add59e62ac25578270cff1b9f619"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "polygon"
+}

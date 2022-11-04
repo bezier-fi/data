@@ -1,0 +1,24 @@
+{
+	"Id": "0x80aa1a80a30055DAA084E599836532F3e58c95E2",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0x42ec68ca5c2C80036044f3EeAd675447aB3A8065",
+			"Apr": 3.3143194,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6a445E9F40e0b97c92d0b8a3366cEF1d67F700BF"
+		},
+		{
+			"Address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "fidu-usdc-f",
+	"Chain": "ethereum"
+}

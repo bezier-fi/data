@@ -1,0 +1,24 @@
+{
+	"Id": "0xeb1fa63c9a49ee22241082e80fa00fdb6bcd2a2f",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xeb1fa63c9a49ee22241082e80fa00fdb6bcd2a2f",
+			"Apr": 8.368967,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599"
+		},
+		{
+			"Address": "0xeb4c2781e4eba804ce9a9803c67d0893436bb27d"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WBTC-renBTC (0.01%)",
+	"Chain": "ethereum"
+}

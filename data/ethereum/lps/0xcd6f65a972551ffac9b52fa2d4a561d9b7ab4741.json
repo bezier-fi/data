@@ -1,0 +1,10 @@
+{
+	"Id": "0xcd6f65a972551ffac9b52fa2d4a561d9b7ab4741",
+	"Symbol": "MPS-USDC",
+	"UnderlyingTokens": [
+		"0x96c645d3d3706f793ef52c19bbace441900ed47d",
+		"0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

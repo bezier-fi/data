@@ -1,0 +1,21 @@
+{
+	"Id": "0x71d57De132b3a090BFF5027A1e88947Bed1a32ba",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x71d57De132b3a090BFF5027A1e88947Bed1a32ba",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x87Dee1cC9FFd464B79e058ba20387c1984aed86a"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DAI.e-AVAX LP",
+	"Chain": "avalanche"
+}

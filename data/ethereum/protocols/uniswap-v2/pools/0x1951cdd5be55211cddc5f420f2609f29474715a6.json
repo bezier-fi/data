@@ -1,0 +1,24 @@
+{
+	"Id": "0x1951cdd5be55211cddc5f420f2609f29474715a6",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x1951cdd5be55211cddc5f420f2609f29474715a6",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7e900f76ebcc015ba7d1bd0e5df052e5e96db495"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "tama.-WETH",
+	"Chain": "ethereum"
+}

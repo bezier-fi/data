@@ -1,0 +1,10 @@
+{
+	"Id": "0x896eebeb02f81445f5a88ff7884af8d937294ee8",
+	"Symbol": "SLICE-DAI",
+	"UnderlyingTokens": [
+		"0x0aee8703d34dd9ae107386d3eff22ae75dd616d1",
+		"0x6b175474e89094c44da98b954eedeac495271d0f"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

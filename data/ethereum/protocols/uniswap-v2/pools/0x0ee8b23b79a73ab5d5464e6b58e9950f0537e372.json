@@ -1,0 +1,24 @@
+{
+	"Id": "0x0ee8b23b79a73ab5d5464e6b58e9950f0537e372",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x0ee8b23b79a73ab5d5464e6b58e9950f0537e372",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		},
+		{
+			"Address": "0xf54a6d122967fa3c355c96de6aab399930f87952"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-Misfits",
+	"Chain": "ethereum"
+}

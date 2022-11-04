@@ -1,0 +1,10 @@
+{
+	"Id": "0xba470432de1f7cc406137379debb0192284a3031",
+	"Symbol": "WETH-MGCHI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc1a85faa09c7f7247899f155439c5488b43e8429"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,24 @@
+{
+	"Id": "0xc037ee929764f93d7a41fe8eb01e22a7b2927a2e",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xc037ee929764f93d7a41fe8eb01e22a7b2927a2e",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+		},
+		{
+			"Address": "0xfd9cd8c0d18cd7e06958f3055e0ec3adbdba0b17"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDT-STFI",
+	"Chain": "ethereum"
+}

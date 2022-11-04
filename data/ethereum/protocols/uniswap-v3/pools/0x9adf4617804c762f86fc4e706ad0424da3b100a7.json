@@ -1,0 +1,24 @@
+{
+	"Id": "0x9adf4617804c762f86fc4e706ad0424da3b100a7",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0x9adf4617804c762f86fc4e706ad0424da3b100a7",
+			"Apr": 1.6145216,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5aa158404fed6b4730c13f49d3a7f820e14a636f"
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ULX-USDT (0.30%)",
+	"Chain": "ethereum"
+}

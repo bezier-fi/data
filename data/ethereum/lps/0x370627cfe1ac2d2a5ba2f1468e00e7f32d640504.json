@@ -1,0 +1,10 @@
+{
+	"Id": "0x370627cfe1ac2d2a5ba2f1468e00e7f32d640504",
+	"Symbol": "VRT-WETH",
+	"UnderlyingTokens": [
+		"0xbe682c3e3beb8e82623d30e9608ca2313e47ba4d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

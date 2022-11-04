@@ -1,0 +1,10 @@
+{
+	"Id": "0x4dbe0898bb125a5fa7afd2b7c0c6f54743fdf808",
+	"Symbol": "VERSE-WETH",
+	"UnderlyingTokens": [
+		"0x7ae0d42f23c33338de15bfa89c7405c068d9dc0a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

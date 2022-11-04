@@ -1,0 +1,24 @@
+{
+	"Id": "0x9ddd23c1ec9c69bc833008d4d2f86f6aa491bc91",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x9ddd23c1ec9c69bc833008d4d2f86f6aa491bc91",
+			"Apr": 0.16077659,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3ea50b7ef6a7eaf7e966e2cb72b519c16557497c"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BUNNY-WETH",
+	"Chain": "ethereum"
+}

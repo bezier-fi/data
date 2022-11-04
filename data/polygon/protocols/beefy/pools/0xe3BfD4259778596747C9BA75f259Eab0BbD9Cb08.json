@@ -1,0 +1,21 @@
+{
+	"Id": "0xe3BfD4259778596747C9BA75f259Eab0BbD9Cb08",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xe3BfD4259778596747C9BA75f259Eab0BbD9Cb08",
+			"Apr": 6.6560736,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x421a018cC5839c4C0300AfB21C725776dc389B1a"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USD+-USDC sLP",
+	"Chain": "polygon"
+}

@@ -1,0 +1,24 @@
+{
+	"Id": "0xf047ee812b21050186f86106f6cabdfec35366c6",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xf047ee812b21050186f86106f6cabdfec35366c6",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x155ff1a85f440ee0a382ea949f24ce4e0b751c65"
+		},
+		{
+			"Address": "0x1b8568fbb47708e9e9d31ff303254f748805bf21"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "EYE-SCX",
+	"Chain": "ethereum"
+}

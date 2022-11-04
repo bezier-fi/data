@@ -1,0 +1,24 @@
+{
+	"Id": "0x3f759c3f4cdba32e69ddf607e0cdcc2547061b97",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x3f759c3f4cdba32e69ddf607e0cdcc2547061b97",
+			"Apr": 1.3620805,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x831091da075665168e01898c6dac004a867f1e1b"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GFARM2-WETH",
+	"Chain": "ethereum"
+}

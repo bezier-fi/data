@@ -1,0 +1,10 @@
+{
+	"Id": "0x819648fcbe2ccc1bcc6d27c35d5bc5b568676438",
+	"Symbol": "AYPER-WETH",
+	"UnderlyingTokens": [
+		"0x413548447ba4fcb9400f9a514c648048c76a9d32",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

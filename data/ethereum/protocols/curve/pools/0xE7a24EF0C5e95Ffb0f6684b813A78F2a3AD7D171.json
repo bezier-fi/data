@@ -1,0 +1,30 @@
+{
+	"Id": "0xE7a24EF0C5e95Ffb0f6684b813A78F2a3AD7D171",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0x6D65b498cb23deAba52db31c93Da9BFFb340FB8F",
+			"Apr": 0.07447196,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0E2EC54fC0B509F445631Bf4b91AB8168230C752"
+		},
+		{
+			"Address": "0x6B175474E89094C44Da98b954EedeAC495271d0F"
+		},
+		{
+			"Address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+		},
+		{
+			"Address": "0xdAC17F958D2ee523a2206206994597C13D831ec7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "linkusd",
+	"Chain": "ethereum"
+}

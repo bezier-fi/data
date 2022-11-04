@@ -1,0 +1,21 @@
+{
+	"Id": "0xcf9Dd1de1D02158B3d422779bd5184032674A6D1",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xcf9Dd1de1D02158B3d422779bd5184032674A6D1",
+			"Apr": 9.267355,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xA69b0D5c0C401BBA2d5162138613B5E38584F63F"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "jCAD-CADC LP",
+	"Chain": "polygon"
+}

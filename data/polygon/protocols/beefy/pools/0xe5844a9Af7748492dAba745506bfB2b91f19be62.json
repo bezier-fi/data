@@ -1,0 +1,21 @@
+{
+	"Id": "0xe5844a9Af7748492dAba745506bfB2b91f19be62",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xe5844a9Af7748492dAba745506bfB2b91f19be62",
+			"Apr": 27.923384,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xE89faE1B4AdA2c869f05a0C96C87022DaDC7709a"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MAI-USDT LP",
+	"Chain": "polygon"
+}

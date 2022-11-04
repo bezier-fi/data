@@ -1,0 +1,24 @@
+{
+	"Id": "0xb8e87ecdfc1c31da12fcebe48d415cda8a99abf9",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xb8e87ecdfc1c31da12fcebe48d415cda8a99abf9",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2f989a2a1706170c877baecdcf7b65df27488aab"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FUCKCALLERS-WETH",
+	"Chain": "ethereum"
+}

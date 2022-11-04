@@ -1,0 +1,10 @@
+{
+	"Id": "0x6321fc0af9bdf71b0152f28934b4a20cd19a702b",
+	"Symbol": "ELONPARK-WETH",
+	"UnderlyingTokens": [
+		"0x8a17877c8459bb2e1971b29219140fce6b61ad05",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

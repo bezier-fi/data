@@ -1,0 +1,10 @@
+{
+	"Id": "0xf8f571d2ace4c5c118933a3f8a8654d51ba455dd",
+	"Symbol": "PNL-USDC",
+	"UnderlyingTokens": [
+		"0x9fc8f0ca1668e87294941b7f627e9c15ea06b459",
+		"0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

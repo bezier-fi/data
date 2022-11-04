@@ -1,0 +1,24 @@
+{
+	"Id": "0x4085cafb2c519e6bf69ad410d91dbb6139948366",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x4085cafb2c519e6bf69ad410d91dbb6139948366",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7d5121505149065b562c789a0145ed750e6e8cdd"
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "VR-USDT",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x86eef186e891d1b8d3e95f9633cce83bb63441a3",
+	"Symbol": "HATE-WETH",
+	"UnderlyingTokens": [
+		"0x054bd236b42385c938357112f419dc5943687886",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

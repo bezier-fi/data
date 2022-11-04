@@ -1,0 +1,10 @@
+{
+	"Id": "0x98e75cd32ee37107bd19412fc0e629f295a25c81",
+	"Symbol": "RATC-WETH (0.30%)",
+	"UnderlyingTokens": [
+		"0x29614a58c601463017d8236faca1512d96354405",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

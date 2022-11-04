@@ -1,0 +1,21 @@
+{
+	"Id": "0xe4b3CCbB1E48c579Ea3D764Fb258Bc908e46487E",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xe4b3CCbB1E48c579Ea3D764Fb258Bc908e46487E",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "AAVE",
+	"Chain": "polygon"
+}

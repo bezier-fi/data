@@ -1,0 +1,10 @@
+{
+	"Id": "0x72942c39c7852ed3fe1dbe7f49b961714e08966c",
+	"Symbol": "WETH-BABYSHIB",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc21b8620f3cf59a14c8da19fd3651754e1637e02"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

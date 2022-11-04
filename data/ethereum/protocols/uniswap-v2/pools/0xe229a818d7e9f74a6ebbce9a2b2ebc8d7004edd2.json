@@ -1,0 +1,24 @@
+{
+	"Id": "0xe229a818d7e9f74a6ebbce9a2b2ebc8d7004edd2",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xe229a818d7e9f74a6ebbce9a2b2ebc8d7004edd2",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x557b933a7c2c45672b610f8954a3deb39a51a8ca"
+		},
+		{
+			"Address": "0x9b83f827928abdf18cf1f7e67053572b9bceff3a"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "REVV-ARTEM",
+	"Chain": "ethereum"
+}

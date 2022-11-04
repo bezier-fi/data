@@ -1,0 +1,10 @@
+{
+	"Id": "0x7ee092fd479185dd741e3e6994f255bb3624f765",
+	"Symbol": "USDC-FLOAT (0.05%)",
+	"UnderlyingTokens": [
+		"0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+		"0xb05097849bca421a3f51b249ba6cca4af4b97cb9"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

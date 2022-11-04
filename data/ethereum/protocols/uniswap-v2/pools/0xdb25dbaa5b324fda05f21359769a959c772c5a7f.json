@@ -1,0 +1,24 @@
+{
+	"Id": "0xdb25dbaa5b324fda05f21359769a959c772c5a7f",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xdb25dbaa5b324fda05f21359769a959c772c5a7f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x38cadcc4143631ee199e57ce6ffadbec93acfa89"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CABRON-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,21 @@
+{
+	"Id": "0xD437ba91922f7e0066C780cC17f175708Fd7b736",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xD437ba91922f7e0066C780cC17f175708Fd7b736",
+			"Apr": 3.2259765,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xC2b1DF84112619D190193E48148000e3990Bf627"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WBTC/renBTC",
+	"Chain": "avalanche"
+}

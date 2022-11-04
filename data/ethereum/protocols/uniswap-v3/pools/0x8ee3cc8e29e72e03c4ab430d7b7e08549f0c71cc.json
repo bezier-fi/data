@@ -1,0 +1,24 @@
+{
+	"Id": "0x8ee3cc8e29e72e03c4ab430d7b7e08549f0c71cc",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0x8ee3cc8e29e72e03c4ab430d7b7e08549f0c71cc",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+		},
+		{
+			"Address": "0xbbaec992fc2d637151daf40451f160bf85f3c8c1"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC-USDM (0.05%)",
+	"Chain": "ethereum"
+}

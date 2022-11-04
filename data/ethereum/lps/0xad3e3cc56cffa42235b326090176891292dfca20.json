@@ -1,0 +1,10 @@
+{
+	"Id": "0xad3e3cc56cffa42235b326090176891292dfca20",
+	"Symbol": "WETH-YFMS",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfef3bef71a5eb97e097039038776fd967ae5b106"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

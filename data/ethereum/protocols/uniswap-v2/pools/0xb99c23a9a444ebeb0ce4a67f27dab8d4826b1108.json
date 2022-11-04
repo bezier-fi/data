@@ -1,0 +1,24 @@
+{
+	"Id": "0xb99c23a9a444ebeb0ce4a67f27dab8d4826b1108",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xb99c23a9a444ebeb0ce4a67f27dab8d4826b1108",
+			"Apr": 0.49120906,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+		},
+		{
+			"Address": "0xb8647e90c0645152fccf4d9abb6b59eb4aa99052"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC-KEYFI",
+	"Chain": "ethereum"
+}

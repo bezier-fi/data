@@ -1,0 +1,24 @@
+{
+	"Id": "0xfecc29698ae163f232eb1368537c7544bae26254",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xfecc29698ae163f232eb1368537c7544bae26254",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xbd74429c4991b1e9da8e747861447b570f503330"
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DRAK-USDT",
+	"Chain": "ethereum"
+}

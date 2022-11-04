@@ -1,0 +1,24 @@
+{
+	"Id": "0xd0E24cB3e766581952dBf258b78e89c63A37f5fb",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0xd0E24cB3e766581952dBf258b78e89c63A37f5fb",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1Ee4dE3CD1505Ddb2e60C20651A4aB7FfABDc8F6"
+		},
+		{
+			"Address": "0x246BE97fda42375c39E21377Ad80D8290AfdB994"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "tclevCVX-f",
+	"Chain": "ethereum"
+}

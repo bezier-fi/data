@@ -1,0 +1,10 @@
+{
+	"Id": "0x0d5751e197830c7cdbf73d4c264fc00717534fb2",
+	"Symbol": "ZENI-WETH",
+	"UnderlyingTokens": [
+		"0x2e59d147962e2bb3fbdc52dc18cfba2653c06ccc",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

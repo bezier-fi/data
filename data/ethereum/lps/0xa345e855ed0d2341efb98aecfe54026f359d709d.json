@@ -1,0 +1,10 @@
+{
+	"Id": "0xa345e855ed0d2341efb98aecfe54026f359d709d",
+	"Symbol": "DOGEJR-WETH",
+	"UnderlyingTokens": [
+		"0x96482afdb638a034d8c769c228ad54b05241743c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

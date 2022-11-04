@@ -1,0 +1,24 @@
+{
+	"Id": "0xc62bf2c79f34ff24e2f97982af4f064161ed8949",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xc62bf2c79f34ff24e2f97982af4f064161ed8949",
+			"Apr": 0.08349388,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x93c9175e26f57d2888c7df8b470c9eea5c0b0a93"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BCUBE-WETH",
+	"Chain": "ethereum"
+}

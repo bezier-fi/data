@@ -1,0 +1,10 @@
+{
+	"Id": "0x0aebd4ea87c2b7059429716c49a2c1b25183c3b8",
+	"Symbol": "BUILD-WETH",
+	"UnderlyingTokens": [
+		"0x410e7696df8be2a123df2cf88808c6ddab2ae2bf",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

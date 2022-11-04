@@ -1,0 +1,24 @@
+{
+	"Id": "0x5e4d0baf57a68956180580b94c1271c37558d300",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x5e4d0baf57a68956180580b94c1271c37558d300",
+			"Apr": 12.084429,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9ac59862934ebc36072d4d8ada37c62373a13856"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "RYOSHI-WETH",
+	"Chain": "ethereum"
+}

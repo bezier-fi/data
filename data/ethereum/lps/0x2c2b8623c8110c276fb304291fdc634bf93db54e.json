@@ -1,0 +1,10 @@
+{
+	"Id": "0x2c2b8623c8110c276fb304291fdc634bf93db54e",
+	"Symbol": "KIGGAL-WETH",
+	"UnderlyingTokens": [
+		"0x005b217d6b73584e83809c5084d3d5910ba12579",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

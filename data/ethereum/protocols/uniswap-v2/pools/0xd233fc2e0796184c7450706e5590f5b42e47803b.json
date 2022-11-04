@@ -1,0 +1,24 @@
+{
+	"Id": "0xd233fc2e0796184c7450706e5590f5b42e47803b",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xd233fc2e0796184c7450706e5590f5b42e47803b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb93c0e5c3ebc2d736e8db6da4cb3ce03c425f336"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CRAMERSMARGIN-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,21 @@
+{
+	"Id": "0x491E09Eb736c0c4CD85DF694A22D1C0dec8c4C25",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x491E09Eb736c0c4CD85DF694A22D1C0dec8c4C25",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3052a75dfD7A9D9B0F81E510E01d3Fe80A9e7ec7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "EGG-AVAX JLP",
+	"Chain": "avalanche"
+}

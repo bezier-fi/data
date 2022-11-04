@@ -1,0 +1,24 @@
+{
+	"Id": "0x99992bb1EaB583BB4547468de234DC7B8Eede8e4",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0x99992bb1EaB583BB4547468de234DC7B8Eede8e4",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa24Cb79d9f9bFA48e5130321096F7847B51f9096"
+		},
+		{
+			"Address": "0xB74AE4f3818dEE1fAf66B66dcd35a10E57371227"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "EURIUSDI-f",
+	"Chain": "polygon"
+}

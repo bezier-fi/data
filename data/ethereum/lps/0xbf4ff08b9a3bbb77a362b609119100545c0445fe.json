@@ -1,0 +1,10 @@
+{
+	"Id": "0xbf4ff08b9a3bbb77a362b609119100545c0445fe",
+	"Symbol": "PMON-WETH",
+	"UnderlyingTokens": [
+		"0x1796ae0b0fa4862485106a0de9b654efe301d0b2",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

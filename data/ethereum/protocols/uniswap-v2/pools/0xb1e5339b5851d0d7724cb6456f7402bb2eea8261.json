@@ -1,0 +1,24 @@
+{
+	"Id": "0xb1e5339b5851d0d7724cb6456f7402bb2eea8261",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xb1e5339b5851d0d7724cb6456f7402bb2eea8261",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x68a528926ba3cfd9e45ab464bb36786f6c81a446"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GYOZA-WETH",
+	"Chain": "ethereum"
+}

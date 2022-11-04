@@ -1,0 +1,10 @@
+{
+	"Id": "0xab3f9bf1d81ddb224a2014e98b238638824bcf20",
+	"Symbol": "LEND-WETH",
+	"UnderlyingTokens": [
+		"0x80fb784b7ed66730e8b1dbd9820afd29931aab03",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

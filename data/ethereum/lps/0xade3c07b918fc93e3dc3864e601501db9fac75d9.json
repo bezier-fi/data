@@ -1,0 +1,10 @@
+{
+	"Id": "0xade3c07b918fc93e3dc3864e601501db9fac75d9",
+	"Symbol": "VEST-WETH",
+	"UnderlyingTokens": [
+		"0x1f19f83fc9a25f3c861260143e36c17706257986",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,21 @@
+{
+	"Id": "0xA413a9a99F2681c89369Fe1e5F91d209C8bc7d53",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xA413a9a99F2681c89369Fe1e5F91d209C8bc7d53",
+			"Apr": 2.2673333,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb8361D0E3F3B0fc5e6071f3a3C3271223C49e3d9"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MORE-AVAX LP",
+	"Chain": "avalanche"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x13c869bb9519353643269846ad6f96f59c1f4f3e",
+	"Symbol": "LIQ-WETH",
+	"UnderlyingTokens": [
+		"0x5f69b7ab8f7cab199a310fd5a27b43fef44ddcc0",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

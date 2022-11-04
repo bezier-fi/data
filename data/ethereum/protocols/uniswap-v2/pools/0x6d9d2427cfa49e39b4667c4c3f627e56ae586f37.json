@@ -1,0 +1,24 @@
+{
+	"Id": "0x6d9d2427cfa49e39b4667c4c3f627e56ae586f37",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x6d9d2427cfa49e39b4667c4c3f627e56ae586f37",
+			"Apr": 4.350686,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7eaf9c89037e4814dc0d9952ac7f888c784548db"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ROYA-WETH",
+	"Chain": "ethereum"
+}

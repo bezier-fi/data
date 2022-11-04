@@ -1,0 +1,24 @@
+{
+	"Id": "0xb2586aa320bc98371f89524bf9577c4a84e2739d",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xb2586aa320bc98371f89524bf9577c4a84e2739d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x07f89875b1f142abcba60ff1d7fcfb7fe404d4ed"
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CNYx-USDC",
+	"Chain": "ethereum"
+}

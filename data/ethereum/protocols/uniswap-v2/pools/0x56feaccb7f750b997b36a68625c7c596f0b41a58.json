@@ -1,0 +1,24 @@
+{
+	"Id": "0x56feaccb7f750b997b36a68625c7c596f0b41a58",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x56feaccb7f750b997b36a68625c7c596f0b41a58",
+			"Apr": 1.3012321,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa0246c9032bc3a600820415ae600c6388619a14d"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FARM-WETH",
+	"Chain": "ethereum"
+}

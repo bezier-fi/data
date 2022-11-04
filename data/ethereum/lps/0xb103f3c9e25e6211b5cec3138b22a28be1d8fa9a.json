@@ -1,0 +1,10 @@
+{
+	"Id": "0xb103f3c9e25e6211b5cec3138b22a28be1d8fa9a",
+	"Symbol": "UGT-WETH",
+	"UnderlyingTokens": [
+		"0x9cf98eb8a8b28c83e8612046cf55701ce3eb0063",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

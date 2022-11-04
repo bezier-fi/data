@@ -1,0 +1,24 @@
+{
+	"Id": "0xfd9e7aa7d4bf4c0338c9a194373bab02cc2e92b6",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xfd9e7aa7d4bf4c0338c9a194373bab02cc2e92b6",
+			"Apr": 0.18609735,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1ca02dd95f3f1e33da7f5afe15ea866dab07af04"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BKING-WETH",
+	"Chain": "ethereum"
+}

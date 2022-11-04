@@ -1,0 +1,10 @@
+{
+	"Id": "0x12896512e6d2b789ada84cfb33114b9454456001",
+	"Symbol": "WETH-MISHU",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf733e1ca52bb3a8e04af3f4ea6f6ba5cdc31d370"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

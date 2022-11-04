@@ -1,0 +1,21 @@
+{
+	"Id": "0x48e58c7E8d2063ae7ADe8a0829E00780155232eC",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x48e58c7E8d2063ae7ADe8a0829E00780155232eC",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xD2B61a42d3790533fEDC2829951a65120624034a"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FTM-MATIC LP",
+	"Chain": "polygon"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xed6c2f053af48cba6cbc0958124671376f01a903",
+	"Symbol": "ALD-WETH",
+	"UnderlyingTokens": [
+		"0xb26c4b3ca601136daf98593feaeff9e0ca702a8d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

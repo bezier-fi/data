@@ -1,0 +1,10 @@
+{
+	"Id": "0x73b42c1e584e10556b851db664b795fb647287fd",
+	"Symbol": "VIVY-WETH",
+	"UnderlyingTokens": [
+		"0x43c7bf973dd82e536d8f6ea9562d8fdf876ca707",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

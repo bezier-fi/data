@@ -1,0 +1,21 @@
+{
+	"Id": "0x544551E4E7D7bDd1CfbD55F07e304F5C9fD514Dd",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x544551E4E7D7bDd1CfbD55F07e304F5C9fD514Dd",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x211F8e61113eDAf00cf37A804B0bA721875Ef560"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MATIC-WOOFY SLP",
+	"Chain": "polygon"
+}

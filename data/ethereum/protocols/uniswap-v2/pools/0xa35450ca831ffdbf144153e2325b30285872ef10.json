@@ -1,0 +1,24 @@
+{
+	"Id": "0xa35450ca831ffdbf144153e2325b30285872ef10",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xa35450ca831ffdbf144153e2325b30285872ef10",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x809e130e10e787139c54e1d12d3d1971b7a675bf"
+		},
+		{
+			"Address": "0x839e71613f9aa06e5701cf6de63e303616b0dde3"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MTD-VVS",
+	"Chain": "ethereum"
+}

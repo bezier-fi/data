@@ -1,0 +1,21 @@
+{
+	"Id": "0x3404361876897A92579DcEBd9eDC94A1662dC4aF",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x3404361876897A92579DcEBd9eDC94A1662dC4aF",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7BA331A8b360F4c31E6014aBdd6852F92Fb21557"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "AXS-ETH SLP",
+	"Chain": "polygon"
+}

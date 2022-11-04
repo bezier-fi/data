@@ -1,0 +1,21 @@
+{
+	"Id": "0x05064BF1Bc9f6778c69c3f68E17Ba8d9427594D8",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x05064BF1Bc9f6778c69c3f68E17Ba8d9427594D8",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6fA867BBFDd025780a8CFE988475220AfF51FB8b"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DFYN-ETH LP",
+	"Chain": "polygon"
+}

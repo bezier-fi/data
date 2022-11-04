@@ -1,0 +1,10 @@
+{
+	"Id": "0xb41c91bf896b0ef30454ab10271e7c8fe9a74c2f",
+	"Symbol": "TROP-WETH",
+	"UnderlyingTokens": [
+		"0x2ec75589856562646afe393455986cad26c4cc5f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

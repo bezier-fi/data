@@ -1,0 +1,10 @@
+{
+	"Id": "0xaa34c8cba64b682e1fa38bdaf8b912e6e93efcb4",
+	"Symbol": "FLOWELL-WETH",
+	"UnderlyingTokens": [
+		"0x88453d33baa6ea5ec1a7e7b48784511093984fc0",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

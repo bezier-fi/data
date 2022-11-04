@@ -1,0 +1,24 @@
+{
+	"Id": "0x216a09bdf716b20b7c16bb164d9e3cc69b3c79fb",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x216a09bdf716b20b7c16bb164d9e3cc69b3c79fb",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7d2ee0a3856cffd58fb0963c0e24bf1277a0be0e"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ZENO-WETH",
+	"Chain": "ethereum"
+}

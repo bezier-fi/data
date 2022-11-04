@@ -1,0 +1,24 @@
+{
+	"Id": "0x2d7c55b16bb3524d1787347b5846a5d6536a5764",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x2d7c55b16bb3524d1787347b5846a5d6536a5764",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8a34d707189fbfa46930abfde3d22abdc48ab73d"
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "UNKAI-USDC",
+	"Chain": "ethereum"
+}

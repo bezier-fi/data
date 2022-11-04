@@ -1,0 +1,10 @@
+{
+	"Id": "0x202e161107455203f06d5944a09409cb7404fb38",
+	"Symbol": "PROGE-WETH",
+	"UnderlyingTokens": [
+		"0x282d0ad1fa03dfbdb88243b958e77349c73737d1",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

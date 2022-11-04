@@ -1,0 +1,10 @@
+{
+	"Id": "0x626fdfd9ece333f2f2e59d57a2f23d4595b5c820",
+	"Symbol": "SKY-WETH",
+	"UnderlyingTokens": [
+		"0x090fc4d5436d98e13473c4d6109de6a18bcfb0d4",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,24 @@
+{
+	"Id": "0xe618785149a1ee7d3042e304e2f899f7a4616b7d",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xe618785149a1ee7d3042e304e2f899f7a4616b7d",
+			"Apr": 13.331824,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x34950ff2b487d9e5282c5ab342d08a2f712eb79f"
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WOZX-USDT",
+	"Chain": "ethereum"
+}

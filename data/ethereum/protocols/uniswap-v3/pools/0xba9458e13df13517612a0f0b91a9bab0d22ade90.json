@@ -1,0 +1,24 @@
+{
+	"Id": "0xba9458e13df13517612a0f0b91a9bab0d22ade90",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xba9458e13df13517612a0f0b91a9bab0d22ade90",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0563dce613d559a47877ffd1593549fb9d3510d6"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SUPERBID-WETH (1.00%)",
+	"Chain": "ethereum"
+}

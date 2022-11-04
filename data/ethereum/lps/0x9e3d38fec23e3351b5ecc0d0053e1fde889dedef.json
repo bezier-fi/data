@@ -1,0 +1,10 @@
+{
+	"Id": "0x9e3d38fec23e3351b5ecc0d0053e1fde889dedef",
+	"Symbol": "ABC123-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x9ff4f50efd40c915f7d1476bf36acb8908e0c56d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

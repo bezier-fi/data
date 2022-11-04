@@ -1,0 +1,10 @@
+{
+	"Id": "0x37ac54dc7dd237eecfd0b61efdd57b15fe158be0",
+	"Symbol": "SHOPX-WETH",
+	"UnderlyingTokens": [
+		"0x7bef710a5759d197ec0bf621c3df802c2d60d848",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

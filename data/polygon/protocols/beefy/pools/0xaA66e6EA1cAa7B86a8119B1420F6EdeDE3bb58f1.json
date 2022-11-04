@@ -1,0 +1,21 @@
+{
+	"Id": "0xaA66e6EA1cAa7B86a8119B1420F6EdeDE3bb58f1",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xaA66e6EA1cAa7B86a8119B1420F6EdeDE3bb58f1",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xaf623E96d38191038C48990Df298e07Fb77b56c3"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "pWINGS-USDC LP",
+	"Chain": "polygon"
+}

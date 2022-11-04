@@ -1,0 +1,21 @@
+{
+	"Id": "0x3532b6f723948eF39d5DCf44C16855239aF81082",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x3532b6f723948eF39d5DCf44C16855239aF81082",
+			"Apr": 4.2210307,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x60c088234180b36EDcec7AA8Aa23912Bb6bed114"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC-MATIC vLP",
+	"Chain": "polygon"
+}

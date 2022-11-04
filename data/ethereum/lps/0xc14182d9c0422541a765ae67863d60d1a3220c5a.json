@@ -1,0 +1,10 @@
+{
+	"Id": "0xc14182d9c0422541a765ae67863d60d1a3220c5a",
+	"Symbol": "TRBT-WETH",
+	"UnderlyingTokens": [
+		"0x7031ab87dcc46818806ec07af46fa8c2ad2a2bfc",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

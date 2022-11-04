@@ -1,0 +1,24 @@
+{
+	"Id": "0xaa7b6f2c9cdf48333a99d0edd03941b4c82f133a",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xaa7b6f2c9cdf48333a99d0edd03941b4c82f133a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x36919a60a2b67b6d2329863093d180d23d5a0308"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Kusunoki-WETH",
+	"Chain": "ethereum"
+}

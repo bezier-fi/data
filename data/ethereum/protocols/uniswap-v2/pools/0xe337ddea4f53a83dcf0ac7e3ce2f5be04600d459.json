@@ -1,0 +1,24 @@
+{
+	"Id": "0xe337ddea4f53a83dcf0ac7e3ce2f5be04600d459",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xe337ddea4f53a83dcf0ac7e3ce2f5be04600d459",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x08037036451c768465369431da5c671ad9b37dbc"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "NFTS-WETH",
+	"Chain": "ethereum"
+}

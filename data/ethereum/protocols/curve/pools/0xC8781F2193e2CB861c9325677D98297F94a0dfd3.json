@@ -1,0 +1,24 @@
+{
+	"Id": "0xC8781F2193e2CB861c9325677D98297F94a0dfd3",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0xC8781F2193e2CB861c9325677D98297F94a0dfd3",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8b921e618dD3Fa5a199b0a8B7901f5530D74EF27"
+		},
+		{
+			"Address": "0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "QBITWELLS3CRV-f",
+	"Chain": "ethereum"
+}

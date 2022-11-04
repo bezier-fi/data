@@ -1,0 +1,24 @@
+{
+	"Id": "0x74c4a3df0d2057b925eb8270b40e1e50e8cfcbf4",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0x74c4a3df0d2057b925eb8270b40e1e50e8cfcbf4",
+			"Apr": 17.65334,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x839b2086ef84f25a07beeb61cd325b79b5e08a5d"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SHUNG-WETH (1.00%)",
+	"Chain": "ethereum"
+}

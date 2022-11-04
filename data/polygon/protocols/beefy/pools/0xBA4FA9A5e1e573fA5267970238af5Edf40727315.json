@@ -1,0 +1,21 @@
+{
+	"Id": "0xBA4FA9A5e1e573fA5267970238af5Edf40727315",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xBA4FA9A5e1e573fA5267970238af5Edf40727315",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1df7ADAeD1F7f36C822A3079198815b284aD8475"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PZAP-USDC LP",
+	"Chain": "polygon"
+}

@@ -1,0 +1,24 @@
+{
+	"Id": "0x9D5f024e1A83c783f47F38945654b13Ecaa26A5c",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0x9D5f024e1A83c783f47F38945654b13Ecaa26A5c",
+			"Apr": 0.62059593,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2d871631058827b703535228fb9Ab5F35cf19E76"
+		},
+		{
+			"Address": "0xE7a24EF0C5e95Ffb0f6684b813A78F2a3AD7D171"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "deFRAX-3CR3CRV-f",
+	"Chain": "polygon"
+}

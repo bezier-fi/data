@@ -1,0 +1,21 @@
+{
+	"Id": "0xEEc9a4Ecd1C0caB2Eb20081A10b8b0A07336dA14",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xEEc9a4Ecd1C0caB2Eb20081A10b8b0A07336dA14",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6Fd8aAe9f85A7Db14c45453daAB81aa3085E4bA3"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SPADE-USDC LP",
+	"Chain": "polygon"
+}

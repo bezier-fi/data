@@ -1,0 +1,10 @@
+{
+	"Id": "0xc8d2aaba076bc96505f6442d37deaa583295d030",
+	"Symbol": "WBTC-MM (1.00%)",
+	"UnderlyingTokens": [
+		"0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+		"0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

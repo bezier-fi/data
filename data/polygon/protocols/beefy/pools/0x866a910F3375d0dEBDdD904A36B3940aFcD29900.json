@@ -1,0 +1,21 @@
+{
+	"Id": "0x866a910F3375d0dEBDdD904A36B3940aFcD29900",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x866a910F3375d0dEBDdD904A36B3940aFcD29900",
+			"Apr": 5.8364067,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2813D43463C374a680f235c428FB1D7f08dE0B69"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "AAVE-ETH LP",
+	"Chain": "polygon"
+}

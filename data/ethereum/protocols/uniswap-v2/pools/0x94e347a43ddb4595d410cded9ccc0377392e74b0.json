@@ -1,0 +1,24 @@
+{
+	"Id": "0x94e347a43ddb4595d410cded9ccc0377392e74b0",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x94e347a43ddb4595d410cded9ccc0377392e74b0",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3593da74a0adb6b3504e677b8fa40c3e77ba90ec"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TRILL-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x92cc4300b9fd36242900bca782b2e9e000bd5099",
+	"Symbol": "ROUTE-WETH",
+	"UnderlyingTokens": [
+		"0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xfca090c1868004bec9c91f53db013288dc21c55b",
+	"Symbol": "WETH-MOD",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xea1ea0972fa092dd463f2968f9bb51cc4c981d71"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

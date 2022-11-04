@@ -1,0 +1,24 @@
+{
+	"Id": "0xcc94ddb5fa22fbd141279b31efa682e9bad0bb04",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xcc94ddb5fa22fbd141279b31efa682e9bad0bb04",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2adf819cef510393c7bb15d70fbf02126e523122"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PLUTO-WETH",
+	"Chain": "ethereum"
+}

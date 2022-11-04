@@ -1,0 +1,24 @@
+{
+	"Id": "0xf2514946f88930359a44ace160f73fda96e5b1db",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xf2514946f88930359a44ace160f73fda96e5b1db",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x34139b4371adff13d30e1efae20a26cec4b4aa0d"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "RTG-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,24 @@
+{
+	"Id": "0xdf60e6416fcf8c955fddf01148753a911f7a5905",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xdf60e6416fcf8c955fddf01148753a911f7a5905",
+			"Apr": 2.311507,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x48c276e8d03813224bb1e55f953adb6d02fd3e02"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "KUMA-WETH",
+	"Chain": "ethereum"
+}

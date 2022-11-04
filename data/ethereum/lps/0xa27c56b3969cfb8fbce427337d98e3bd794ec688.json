@@ -1,0 +1,10 @@
+{
+	"Id": "0xa27c56b3969cfb8fbce427337d98e3bd794ec688",
+	"Symbol": "DAI-WETH",
+	"UnderlyingTokens": [
+		"0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

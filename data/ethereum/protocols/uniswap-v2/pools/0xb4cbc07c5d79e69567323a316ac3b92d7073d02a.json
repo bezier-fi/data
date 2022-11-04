@@ -1,0 +1,24 @@
+{
+	"Id": "0xb4cbc07c5d79e69567323a316ac3b92d7073d02a",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xb4cbc07c5d79e69567323a316ac3b92d7073d02a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x43f486976a61ec7229ce9c94c3cdc9484aac0122"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Shibvegas-WETH",
+	"Chain": "ethereum"
+}

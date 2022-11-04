@@ -1,0 +1,24 @@
+{
+	"Id": "0x4180bc4d9b4a22b84c9b74af5dd56d76945554e4",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x4180bc4d9b4a22b84c9b74af5dd56d76945554e4",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x804b95789aed9f1a8e6907625c90f0d4a7b4c75d"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SHUNAV-WETH",
+	"Chain": "ethereum"
+}

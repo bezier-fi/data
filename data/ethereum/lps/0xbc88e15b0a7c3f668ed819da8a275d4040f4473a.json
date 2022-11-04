@@ -1,0 +1,10 @@
+{
+	"Id": "0xbc88e15b0a7c3f668ed819da8a275d4040f4473a",
+	"Symbol": "GATO-WETH",
+	"UnderlyingTokens": [
+		"0x99900b7e9d06b4a6b1eae6a187d7c92021c0f893",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

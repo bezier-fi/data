@@ -1,0 +1,10 @@
+{
+	"Id": "0xb1aaa9e4164c10d089e21ac6009b52842fb5b35f",
+	"Symbol": "WETH-MOZZA",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xde621989216a655f0fa604f077203323fa64788f"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xd64224a4c2bed96c75df9517b2d77aebb13f0e37",
+	"Symbol": "HXRO-WETH",
+	"UnderlyingTokens": [
+		"0x4bd70556ae3f8a6ec6c4080a0c327b24325438f3",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xa09a2e9be9abadeb28ea5cc9ccd7d7d0f0529e9f",
+	"Symbol": "$KIZO-WETH",
+	"UnderlyingTokens": [
+		"0x0040fd6b4cb50003ea9fc0651592a113ccba45bc",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

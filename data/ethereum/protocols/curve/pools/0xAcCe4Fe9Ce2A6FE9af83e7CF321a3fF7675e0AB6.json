@@ -1,0 +1,36 @@
+{
+	"Id": "0xAcCe4Fe9Ce2A6FE9af83e7CF321a3fF7675e0AB6",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0x22CF19EB64226e0E1A79c69b345b31466fD273A7",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		},
+		{
+			"Address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+			"Apr": 3.8499153,
+			"GroupId": 0,
+			"Key": ""
+		},
+		{
+			"Address": "0xEdB67Ee1B171c4eC66E6c10EC43EDBbA20FaE8e9",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x69681f8fde45345C3870BCD5eaf4A05a60E7D227"
+		},
+		{
+			"Address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ibGBPUSDC-f",
+	"Chain": "ethereum"
+}

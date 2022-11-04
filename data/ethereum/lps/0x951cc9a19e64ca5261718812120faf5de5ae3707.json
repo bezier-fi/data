@@ -1,0 +1,10 @@
+{
+	"Id": "0x951cc9a19e64ca5261718812120faf5de5ae3707",
+	"Symbol": "SHABI-WETH",
+	"UnderlyingTokens": [
+		"0x8de1eaa2b28dc3d8b1994bae5ea40fa0238bf2b9",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

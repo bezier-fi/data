@@ -1,0 +1,24 @@
+{
+	"Id": "0x25dd2692a9a1eff3831c5542345140f820850079",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x25dd2692a9a1eff3831c5542345140f820850079",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x127cfbc2e481b97e1068771381980767b750b527"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Alchemist-WETH",
+	"Chain": "ethereum"
+}

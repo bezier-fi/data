@@ -1,0 +1,21 @@
+{
+	"Id": "0xCefB5D22477394222F5C683E917Aa7c65847262C",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xCefB5D22477394222F5C683E917Aa7c65847262C",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xf895E6588585912e60b0131fa173e986859f69D5"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "aWOOL-AVAX LP",
+	"Chain": "avalanche"
+}

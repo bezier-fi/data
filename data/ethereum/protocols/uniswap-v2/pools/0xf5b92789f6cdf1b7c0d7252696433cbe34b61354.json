@@ -1,0 +1,24 @@
+{
+	"Id": "0xf5b92789f6cdf1b7c0d7252696433cbe34b61354",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xf5b92789f6cdf1b7c0d7252696433cbe34b61354",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1681bcb589b3cfcf0c0616b0ce9b19b240643dc1"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ISLE-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,36 @@
+{
+	"Id": "0x3eF6A01A0f81D6046290f3e2A8c5b843e738E604",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0x5B5CFE992AdAC0C9D48E05854B2d91C73a003858",
+			"Apr": 0.008173964,
+			"GroupId": 0,
+			"Key": ""
+		},
+		{
+			"Address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+			"Apr": 46.35724,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xdF574c24545E5FfEcb9a659c229253D4111d87e1"
+		},
+		{
+			"Address": "0x6B175474E89094C44Da98b954EedeAC495271d0F"
+		},
+		{
+			"Address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+		},
+		{
+			"Address": "0xdAC17F958D2ee523a2206206994597C13D831ec7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "husd",
+	"Chain": "ethereum"
+}

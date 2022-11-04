@@ -1,0 +1,10 @@
+{
+	"Id": "0xeea75e7eeef7b91bc3e1739e3fcd4859dd2e272e",
+	"Symbol": "TREATS-WETH",
+	"UnderlyingTokens": [
+		"0xb4e1bba882e1058dc9088c69f26f832394cabc77",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x6e25910a7b6fd6614ce592ef9f48c97394966f06",
+	"Symbol": "SHIBORG-WETH",
+	"UnderlyingTokens": [
+		"0x619ad981c63638ccdbad2e48e0fb97c4eba36d3c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

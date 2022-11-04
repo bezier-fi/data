@@ -1,0 +1,24 @@
+{
+	"Id": "0xf5d896be3349a751b9b383b58cf22f4966dc01ff",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xf5d896be3349a751b9b383b58cf22f4966dc01ff",
+			"Apr": 4.1593513,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x848592388097d2a3ca9e285f445e5b92b6af52ad"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BabyTsuka-WETH",
+	"Chain": "ethereum"
+}

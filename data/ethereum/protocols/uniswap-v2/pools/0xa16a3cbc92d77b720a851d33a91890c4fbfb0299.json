@@ -1,0 +1,24 @@
+{
+	"Id": "0xa16a3cbc92d77b720a851d33a91890c4fbfb0299",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xa16a3cbc92d77b720a851d33a91890c4fbfb0299",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2"
+		},
+		{
+			"Address": "0xd233d1f6fd11640081abb8db125f722b5dc729dc"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MKR-USD",
+	"Chain": "ethereum"
+}

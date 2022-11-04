@@ -1,0 +1,21 @@
+{
+	"Id": "0xcd1f50DFfbC44F5eeFBA2ae6a19dE8196B51427a",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xcd1f50DFfbC44F5eeFBA2ae6a19dE8196B51427a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x45324950c6ba08112EbF72754004a66a0a2b7721"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FIRE-AVAX LP",
+	"Chain": "avalanche"
+}

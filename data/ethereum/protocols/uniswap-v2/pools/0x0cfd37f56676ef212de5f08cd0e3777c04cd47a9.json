@@ -1,0 +1,24 @@
+{
+	"Id": "0x0cfd37f56676ef212de5f08cd0e3777c04cd47a9",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x0cfd37f56676ef212de5f08cd0e3777c04cd47a9",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x97bbbc5d96875fb78d2f14b7ff8d7a3a74106f17"
+		},
+		{
+			"Address": "0xba41ddf06b7ffd89d1267b5a93bfef2424eb2003"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ASTRAFER-MYTH",
+	"Chain": "ethereum"
+}

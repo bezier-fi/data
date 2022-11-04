@@ -1,0 +1,10 @@
+{
+	"Id": "0x4ce78b0c8324a0d3782a17ee8989485864c07866",
+	"Symbol": "DRF-WETH",
+	"UnderlyingTokens": [
+		"0x379ec11344929da69ddfd805d564608089c97e55",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

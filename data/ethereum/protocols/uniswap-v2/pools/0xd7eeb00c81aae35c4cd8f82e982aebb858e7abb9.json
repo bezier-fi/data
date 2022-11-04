@@ -1,0 +1,24 @@
+{
+	"Id": "0xd7eeb00c81aae35c4cd8f82e982aebb858e7abb9",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xd7eeb00c81aae35c4cd8f82e982aebb858e7abb9",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa01b656e49efbb8210d882a1f1a4d10f5cada8cc"
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ECGO-USDT",
+	"Chain": "ethereum"
+}

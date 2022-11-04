@@ -1,0 +1,10 @@
+{
+	"Id": "0x94d0ba2c98211852f0a41e13f83cbb522ebcc090",
+	"Symbol": "WETH-GYEN (0.05%)",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc08512927d12348f6620a698105e1baac6ecd911"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

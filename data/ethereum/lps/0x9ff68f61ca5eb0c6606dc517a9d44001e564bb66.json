@@ -1,0 +1,10 @@
+{
+	"Id": "0x9ff68f61ca5eb0c6606dc517a9d44001e564bb66",
+	"Symbol": "BOTTO-WETH",
+	"UnderlyingTokens": [
+		"0x9dfad1b7102d46b1b197b90095b5c4e9f5845bba",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

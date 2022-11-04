@@ -1,0 +1,10 @@
+{
+	"Id": "0xca94644e7f8e594f50a6764f6f3738bf574366ea",
+	"Symbol": "PEPITA-WETH",
+	"UnderlyingTokens": [
+		"0x96939020e626b31d9888d7f9c26a767802e6047a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

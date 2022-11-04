@@ -1,0 +1,24 @@
+{
+	"Id": "0xbc159c4ff09a134ee7d47df92c1be4f3ca136f53",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xbc159c4ff09a134ee7d47df92c1be4f3ca136f53",
+			"Apr": 0.4213281,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x87de305311d5788e8da38d19bb427645b09cb4e5"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "VRX-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,24 @@
+{
+	"Id": "0xfcc88d59f7b470e84a73ed092fe674eee5d83b19",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xfcc88d59f7b470e84a73ed092fe674eee5d83b19",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x83c141ee88c502cb9654de93598e9f16555082a8"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GenBlok-WETH",
+	"Chain": "ethereum"
+}

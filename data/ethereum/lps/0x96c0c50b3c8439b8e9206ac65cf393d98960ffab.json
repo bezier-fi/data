@@ -1,0 +1,10 @@
+{
+	"Id": "0x96c0c50b3c8439b8e9206ac65cf393d98960ffab",
+	"Symbol": "yBAN-WETH",
+	"UnderlyingTokens": [
+		"0x1706c33b9a5b12aeb85b862215378dee9480eb95",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

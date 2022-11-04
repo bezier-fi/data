@@ -1,0 +1,10 @@
+{
+	"Id": "0x52084d39d6f568a25d442460c2c455ba618cdade",
+	"Symbol": "DIGI-WETH",
+	"UnderlyingTokens": [
+		"0x41aa9df60c41b07bf4f4cc1b8b3e6c9e25669a9e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

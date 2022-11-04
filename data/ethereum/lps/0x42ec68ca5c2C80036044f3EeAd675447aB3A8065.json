@@ -1,0 +1,10 @@
+{
+	"Id": "0x42ec68ca5c2C80036044f3EeAd675447aB3A8065",
+	"Symbol": "fidu-usdc-f",
+	"UnderlyingTokens": [
+		"0x6a445E9F40e0b97c92d0b8a3366cEF1d67F700BF",
+		"0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+	],
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Chain": "ethereum"
+}

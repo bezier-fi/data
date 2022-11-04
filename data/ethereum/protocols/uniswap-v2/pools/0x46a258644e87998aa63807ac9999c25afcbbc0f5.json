@@ -1,0 +1,24 @@
+{
+	"Id": "0x46a258644e87998aa63807ac9999c25afcbbc0f5",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x46a258644e87998aa63807ac9999c25afcbbc0f5",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		},
+		{
+			"Address": "0xeb3429428ff64de984519925bd86f3ad6b3e667b"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-HUBBLE",
+	"Chain": "ethereum"
+}

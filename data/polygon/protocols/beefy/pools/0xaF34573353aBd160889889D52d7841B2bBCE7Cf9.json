@@ -1,0 +1,21 @@
+{
+	"Id": "0xaF34573353aBd160889889D52d7841B2bBCE7Cf9",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xaF34573353aBd160889889D52d7841B2bBCE7Cf9",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4B4C614b9219397c02296f6F4e2351259840B3C7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "QUICK-UNI LP",
+	"Chain": "polygon"
+}

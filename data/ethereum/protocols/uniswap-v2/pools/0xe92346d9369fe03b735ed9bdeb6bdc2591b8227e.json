@@ -1,0 +1,24 @@
+{
+	"Id": "0xe92346d9369fe03b735ed9bdeb6bdc2591b8227e",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xe92346d9369fe03b735ed9bdeb6bdc2591b8227e",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		},
+		{
+			"Address": "0xe54f9e6ab80ebc28515af8b8233c1aee6506a15e"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-PASTA",
+	"Chain": "ethereum"
+}

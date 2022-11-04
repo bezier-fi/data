@@ -1,0 +1,10 @@
+{
+	"Id": "0xf48865687dfd57593bd44afd6a04517646ecb37f",
+	"Symbol": "CAMI-WETH",
+	"UnderlyingTokens": [
+		"0xa809cedee9b61956c768eaa10272dd5e0fd1a985",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

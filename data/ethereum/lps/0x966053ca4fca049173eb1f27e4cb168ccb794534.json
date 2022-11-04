@@ -1,0 +1,10 @@
+{
+	"Id": "0x966053ca4fca049173eb1f27e4cb168ccb794534",
+	"Symbol": "VLT-WETH",
+	"UnderlyingTokens": [
+		"0x6b785a0322126826d8226d77e173d75dafb84d11",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

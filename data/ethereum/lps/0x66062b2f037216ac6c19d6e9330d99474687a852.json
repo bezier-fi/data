@@ -1,0 +1,10 @@
+{
+	"Id": "0x66062b2f037216ac6c19d6e9330d99474687a852",
+	"Symbol": "KPOP-WETH",
+	"UnderlyingTokens": [
+		"0x1bdaf408e897f9e3f4be06bed802124bc510d6fd",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

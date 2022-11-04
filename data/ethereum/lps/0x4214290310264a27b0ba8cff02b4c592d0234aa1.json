@@ -1,0 +1,10 @@
+{
+	"Id": "0x4214290310264a27b0ba8cff02b4c592d0234aa1",
+	"Symbol": "RFOX-WETH",
+	"UnderlyingTokens": [
+		"0xa1d6df714f91debf4e0802a542e13067f31b8262",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

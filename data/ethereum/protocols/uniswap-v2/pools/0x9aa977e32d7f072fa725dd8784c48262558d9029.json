@@ -1,0 +1,24 @@
+{
+	"Id": "0x9aa977e32d7f072fa725dd8784c48262558d9029",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x9aa977e32d7f072fa725dd8784c48262558d9029",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xaa2ded323944b25c0b6f1f891bc96f010b65622c"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TheRadio-WETH",
+	"Chain": "ethereum"
+}

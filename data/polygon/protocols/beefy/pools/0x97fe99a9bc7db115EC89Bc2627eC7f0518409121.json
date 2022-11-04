@@ -1,0 +1,21 @@
+{
+	"Id": "0x97fe99a9bc7db115EC89Bc2627eC7f0518409121",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x97fe99a9bc7db115EC89Bc2627eC7f0518409121",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xA0A6e9A5185d5737CF6F7920CB417EA2F07F03B3"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "pWINGS-MATIC LP",
+	"Chain": "polygon"
+}

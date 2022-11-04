@@ -1,0 +1,21 @@
+{
+	"Id": "0xba1548b3f673950094dc00eDc1eB71683f371696",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xba1548b3f673950094dc00eDc1eB71683f371696",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x10062ec62C0bE26cC9e2f50a1CF784a89ded075F"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "NEXO-ETH LP",
+	"Chain": "polygon"
+}

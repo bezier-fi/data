@@ -1,0 +1,21 @@
+{
+	"Id": "0xaa5a5AD8a27fEd7F791952705ce90134eac620dc",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xaa5a5AD8a27fEd7F791952705ce90134eac620dc",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x58f75d7745ec383491053947Cd2AE6Ee7fc8B8f8"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MAI-USDC.e LP",
+	"Chain": "avalanche"
+}

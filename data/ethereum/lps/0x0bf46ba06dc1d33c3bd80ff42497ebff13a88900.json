@@ -1,0 +1,10 @@
+{
+	"Id": "0x0bf46ba06dc1d33c3bd80ff42497ebff13a88900",
+	"Symbol": "rDPX-WETH",
+	"UnderlyingTokens": [
+		"0x0ff5a8451a839f5f0bb3562689d9a44089738d11",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

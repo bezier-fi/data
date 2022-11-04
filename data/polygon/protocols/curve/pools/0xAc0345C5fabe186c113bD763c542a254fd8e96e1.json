@@ -1,0 +1,24 @@
+{
+	"Id": "0xAc0345C5fabe186c113bD763c542a254fd8e96e1",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0xA1CFc3FFfA3B45AcF3B0Ca4665F144595242C0A0",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x624f468a020719B0c550508595F3b3eB3390A9cD"
+		},
+		{
+			"Address": "0x9a058f205173b06DC288aFBA0f13AA9BC0fdf49C"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "clevCVX-f",
+	"Chain": "polygon"
+}

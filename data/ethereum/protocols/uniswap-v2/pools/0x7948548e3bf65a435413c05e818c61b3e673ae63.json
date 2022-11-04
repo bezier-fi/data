@@ -1,0 +1,24 @@
+{
+	"Id": "0x7948548e3bf65a435413c05e818c61b3e673ae63",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x7948548e3bf65a435413c05e818c61b3e673ae63",
+			"Apr": 1.4341555,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4f640f2529ee0cf119a2881485845fa8e61a782a"
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ORE-USDC",
+	"Chain": "ethereum"
+}

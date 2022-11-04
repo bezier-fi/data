@@ -1,0 +1,24 @@
+{
+	"Id": "0xc1969d3deee81206e43e95b26b98da3d08940055",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xc1969d3deee81206e43e95b26b98da3d08940055",
+			"Apr": 0.3077001,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x186d0ba3dfc3386c464eecd96a61fbb1e2da00bf"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TRAVA-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xeb30e8ffcbd02fd4a14a52e28cd300698d00e2f7",
+	"Symbol": "DUCK-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x92e187a03b6cd19cb6af293ba17f2745fd2357d5",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

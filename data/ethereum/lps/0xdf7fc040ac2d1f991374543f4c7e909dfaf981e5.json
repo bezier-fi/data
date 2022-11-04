@@ -1,0 +1,10 @@
+{
+	"Id": "0xdf7fc040ac2d1f991374543f4c7e909dfaf981e5",
+	"Symbol": "VIXEN-WETH",
+	"UnderlyingTokens": [
+		"0x65a0025efa7f32913deeca74e93bc957758cf360",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

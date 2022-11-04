@@ -1,0 +1,30 @@
+{
+	"Id": "0xB89B080Bb9fb489516FC7Fc98bC4eb3f5A92c54E",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0xB89B080Bb9fb489516FC7Fc98bC4eb3f5A92c54E",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb599c3590F42f8F995ECfa0f85D2980B76862fc1"
+		},
+		{
+			"Address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70"
+		},
+		{
+			"Address": "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664"
+		},
+		{
+			"Address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USTtrio-f",
+	"Chain": "avalanche"
+}

@@ -1,0 +1,24 @@
+{
+	"Id": "0x5d95bb70e1d8b7fabc286bbc163642b3c39097a7",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x5d95bb70e1d8b7fabc286bbc163642b3c39097a7",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3845badade8e6dff049820680d1f14bd3903a5d0"
+		},
+		{
+			"Address": "0x557b933a7c2c45672b610f8954a3deb39a51a8ca"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SAND-REVV",
+	"Chain": "ethereum"
+}

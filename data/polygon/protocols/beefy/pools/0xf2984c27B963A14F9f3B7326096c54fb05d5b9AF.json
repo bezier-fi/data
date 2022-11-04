@@ -1,0 +1,21 @@
+{
+	"Id": "0xf2984c27B963A14F9f3B7326096c54fb05d5b9AF",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xf2984c27B963A14F9f3B7326096c54fb05d5b9AF",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xf627E14c318045066dAe0A36997c8C1F34fC0D4c"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PZAP-MATIC LP",
+	"Chain": "polygon"
+}

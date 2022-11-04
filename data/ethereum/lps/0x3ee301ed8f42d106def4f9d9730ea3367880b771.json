@@ -1,0 +1,10 @@
+{
+	"Id": "0x3ee301ed8f42d106def4f9d9730ea3367880b771",
+	"Symbol": "ASH-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x64d91f12ece7362f91a6f8e7940cd55f05060b92",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

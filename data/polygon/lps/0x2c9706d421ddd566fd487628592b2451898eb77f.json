@@ -1,0 +1,10 @@
+{
+	"Id": "0x2c9706d421ddd566fd487628592b2451898eb77f",
+	"Symbol": "USDC-BUSD (0.05%)",
+	"UnderlyingTokens": [
+		"0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+		"0x9c9e5fd8bbc25984b178fdce6117defa39d2db39"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "polygon"
+}

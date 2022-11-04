@@ -1,0 +1,24 @@
+{
+	"Id": "0x8a5d5864ccca335ec997bdf42dbd32ccec0b1d5e",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x8a5d5864ccca335ec997bdf42dbd32ccec0b1d5e",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0000000000085d4780b73119b644ae5ecd22b376"
+		},
+		{
+			"Address": "0x6e0dade58d2d89ebbe7afc384e3e4f15b70b14d8"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TUSD-QRX",
+	"Chain": "ethereum"
+}

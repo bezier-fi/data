@@ -1,0 +1,10 @@
+{
+	"Id": "0x0de0fa91b6dbab8c8503aaa2d1dfa91a192cb149",
+	"Symbol": "WBTC-USDT",
+	"UnderlyingTokens": [
+		"0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+		"0xdac17f958d2ee523a2206206994597c13d831ec7"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

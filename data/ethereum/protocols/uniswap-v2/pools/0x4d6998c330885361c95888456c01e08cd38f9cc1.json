@@ -1,0 +1,24 @@
+{
+	"Id": "0x4d6998c330885361c95888456c01e08cd38f9cc1",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x4d6998c330885361c95888456c01e08cd38f9cc1",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xbc276f51184ec085cd1437601ecb4bbc3d981896"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SHIBTAMA-WETH",
+	"Chain": "ethereum"
+}

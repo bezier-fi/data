@@ -1,0 +1,24 @@
+{
+	"Id": "0xa7b0d77e322f7643f6eb7c8bb4ff83e49c6bdee8",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xa7b0d77e322f7643f6eb7c8bb4ff83e49c6bdee8",
+			"Apr": 5.28767,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+		},
+		{
+			"Address": "0xf56842af3b56fd72d17cb103f92d027bba912e89"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDT-BAMBOO",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,24 @@
+{
+	"Id": "0xdDBDCEBb989B1ef804338d6c9a902f91c2738936",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0xaf47cEd866c824FDBd3E00f651bDde19ac9CBd03",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+		},
+		{
+			"Address": "0xd6242E984E6db6B5286FB2c26C69330Da639da12"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "NAKAMOTO-f",
+	"Chain": "ethereum"
+}

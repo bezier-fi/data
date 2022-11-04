@@ -1,0 +1,10 @@
+{
+	"Id": "0x7a5ae802895d5f90b6edbafc870fd348fba2a3d2",
+	"Symbol": "UST-WETH (0.30%)",
+	"UnderlyingTokens": [
+		"0xa693b19d2931d498c5b318df961919bb4aee87a5",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

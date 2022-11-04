@@ -1,0 +1,24 @@
+{
+	"Id": "0xf431bf2e4058f1359af727a8bb2233c8a80e6bce",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xf431bf2e4058f1359af727a8bb2233c8a80e6bce",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4f5c3ede927367bbcd89f0866ab53a6c1198ec57"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ShibLion-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,24 @@
+{
+	"Id": "0xE6BbAf0B55ae430354B87a3f592dD5c8AD7A5E79",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0xB67D5887394Dbff888e0357C7bCeBA7cE60023a8",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x04545c88f0839B7FFFbfFD328C38C1Fc574ED6F1"
+		},
+		{
+			"Address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DETH-f",
+	"Chain": "ethereum"
+}

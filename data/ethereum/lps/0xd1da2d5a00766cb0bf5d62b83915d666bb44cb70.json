@@ -1,0 +1,10 @@
+{
+	"Id": "0xd1da2d5a00766cb0bf5d62b83915d666bb44cb70",
+	"Symbol": "DAI-ANC",
+	"UnderlyingTokens": [
+		"0x6b175474e89094c44da98b954eedeac495271d0f",
+		"0xbbe319b73744db9d54f5d29df7d8256b7e43995c"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

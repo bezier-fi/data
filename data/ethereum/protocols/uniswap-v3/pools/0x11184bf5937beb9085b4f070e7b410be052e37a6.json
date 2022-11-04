@@ -1,0 +1,24 @@
+{
+	"Id": "0x11184bf5937beb9085b4f070e7b410be052e37a6",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0x11184bf5937beb9085b4f070e7b410be052e37a6",
+			"Apr": 2.1078565,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5b52bfb8062ce664d74bbcd4cd6dc7df53fd7233"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ZENIQ-WETH (0.30%)",
+	"Chain": "ethereum"
+}

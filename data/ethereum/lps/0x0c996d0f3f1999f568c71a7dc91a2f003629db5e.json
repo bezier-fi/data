@@ -1,0 +1,10 @@
+{
+	"Id": "0x0c996d0f3f1999f568c71a7dc91a2f003629db5e",
+	"Symbol": "DPT-WETH",
+	"UnderlyingTokens": [
+		"0x100f4a7d21653e534535a6918901f685d37d9f21",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

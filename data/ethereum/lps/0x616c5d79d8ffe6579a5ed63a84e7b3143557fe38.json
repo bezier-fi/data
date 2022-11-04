@@ -1,0 +1,10 @@
+{
+	"Id": "0x616c5d79d8ffe6579a5ed63a84e7b3143557fe38",
+	"Symbol": "WETH-DUST (1.00%)",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe2e109f1b4eaa8915655fe8fdefc112a34acc5f0"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

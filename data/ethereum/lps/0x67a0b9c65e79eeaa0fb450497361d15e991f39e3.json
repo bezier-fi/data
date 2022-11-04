@@ -1,0 +1,10 @@
+{
+	"Id": "0x67a0b9c65e79eeaa0fb450497361d15e991f39e3",
+	"Symbol": "xSUNC-WETH",
+	"UnderlyingTokens": [
+		"0xbf4d18ae16f2deeb1e24a3c85b5f9dcc41d4a09e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

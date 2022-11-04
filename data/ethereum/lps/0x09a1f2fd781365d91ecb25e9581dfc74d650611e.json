@@ -1,0 +1,10 @@
+{
+	"Id": "0x09a1f2fd781365d91ecb25e9581dfc74d650611e",
+	"Symbol": "WETH-ZONE",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf6f1cabe6601138e5aa2cc60cfd80e62649e5ce0"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

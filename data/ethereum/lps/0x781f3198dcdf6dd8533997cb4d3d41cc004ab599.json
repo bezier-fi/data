@@ -1,0 +1,10 @@
+{
+	"Id": "0x781f3198dcdf6dd8533997cb4d3d41cc004ab599",
+	"Symbol": "VUDU-WETH",
+	"UnderlyingTokens": [
+		"0x644bb90b6e93d89db7fba4b6fc776a08f54ba4d6",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

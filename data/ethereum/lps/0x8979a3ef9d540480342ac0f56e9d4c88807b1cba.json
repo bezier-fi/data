@@ -1,0 +1,10 @@
+{
+	"Id": "0x8979a3ef9d540480342ac0f56e9d4c88807b1cba",
+	"Symbol": "REPv2-WETH",
+	"UnderlyingTokens": [
+		"0x221657776846890989a759ba2973e427dff5c9bb",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

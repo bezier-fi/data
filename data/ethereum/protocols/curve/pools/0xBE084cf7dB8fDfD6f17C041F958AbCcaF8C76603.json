@@ -1,0 +1,24 @@
+{
+	"Id": "0xBE084cf7dB8fDfD6f17C041F958AbCcaF8C76603",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0x97E27779146134cD35794bb4E04E2c31bd2C6656",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x03ab458634910AaD20eF5f1C8ee96F1D6ac54919"
+		},
+		{
+			"Address": "0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "RAI3Crv-f",
+	"Chain": "ethereum"
+}

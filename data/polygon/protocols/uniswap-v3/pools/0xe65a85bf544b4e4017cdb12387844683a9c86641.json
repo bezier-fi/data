@@ -1,0 +1,24 @@
+{
+	"Id": "0xe65a85bf544b4e4017cdb12387844683a9c86641",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xe65a85bf544b4e4017cdb12387844683a9c86641",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9c9e5fd8bbc25984b178fdce6117defa39d2db39"
+		},
+		{
+			"Address": "0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BUSD-BOB (0.01%)",
+	"Chain": "polygon"
+}

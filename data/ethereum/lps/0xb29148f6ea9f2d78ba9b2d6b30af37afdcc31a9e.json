@@ -1,0 +1,10 @@
+{
+	"Id": "0xb29148f6ea9f2d78ba9b2d6b30af37afdcc31a9e",
+	"Symbol": "STORJ-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

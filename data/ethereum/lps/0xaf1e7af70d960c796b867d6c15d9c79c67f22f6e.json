@@ -1,0 +1,10 @@
+{
+	"Id": "0xaf1e7af70d960c796b867d6c15d9c79c67f22f6e",
+	"Symbol": "WETH-SOJO",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf7573a62f3ffdf1e1d5e6a65436d84852fc83340"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

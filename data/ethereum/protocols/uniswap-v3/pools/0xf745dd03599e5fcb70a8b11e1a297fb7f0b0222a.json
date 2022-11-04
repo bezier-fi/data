@@ -1,0 +1,24 @@
+{
+	"Id": "0xf745dd03599e5fcb70a8b11e1a297fb7f0b0222a",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xf745dd03599e5fcb70a8b11e1a297fb7f0b0222a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x87d73e916d7057945c9bcd8cdd94e42a6f47f776"
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "NFTX-USDC (1.00%)",
+	"Chain": "ethereum"
+}

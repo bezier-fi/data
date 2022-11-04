@@ -1,0 +1,10 @@
+{
+	"Id": "0xabc2330da0bc89c2d141e955bf4f83cd2b61ea4f",
+	"Symbol": "OKINU-WETH",
+	"UnderlyingTokens": [
+		"0x7d1356bfcaa08af4ab0d643af1b6b4cd75ccc2d0",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

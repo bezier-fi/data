@@ -1,0 +1,10 @@
+{
+	"Id": "0x072b8f05c1389437fa25479dab4326593213e44c",
+	"Symbol": "DJBZ-WETH",
+	"UnderlyingTokens": [
+		"0xbf825207c74b6c3c01ab807c4f4a4fce26ebdf0f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

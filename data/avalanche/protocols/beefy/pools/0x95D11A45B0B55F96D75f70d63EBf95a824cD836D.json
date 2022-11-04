@@ -1,0 +1,21 @@
+{
+	"Id": "0x95D11A45B0B55F96D75f70d63EBf95a824cD836D",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x95D11A45B0B55F96D75f70d63EBf95a824cD836D",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa6908C7E3Be8F4Cd2eB704B5cB73583eBF56Ee62"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDT.e-DAI.e LP",
+	"Chain": "avalanche"
+}

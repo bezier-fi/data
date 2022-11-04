@@ -1,0 +1,24 @@
+{
+	"Id": "0xcb0c5d9d92f4f2f80cce7aa271a1e148c226e19d",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xcb0c5d9d92f4f2f80cce7aa271a1e148c226e19d",
+			"Apr": 1.7179053,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x03ab458634910aad20ef5f1c8ee96f1d6ac54919"
+		},
+		{
+			"Address": "0x6b175474e89094c44da98b954eedeac495271d0f"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "RAI-DAI (0.05%)",
+	"Chain": "ethereum"
+}

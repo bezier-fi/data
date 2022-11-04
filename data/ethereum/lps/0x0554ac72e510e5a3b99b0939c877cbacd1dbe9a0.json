@@ -1,0 +1,10 @@
+{
+	"Id": "0x0554ac72e510e5a3b99b0939c877cbacd1dbe9a0",
+	"Symbol": "GFIv2-WETH",
+	"UnderlyingTokens": [
+		"0xad45320077fc7a0f0a43976ac7dbacc65ad21d8f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

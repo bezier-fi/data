@@ -1,0 +1,10 @@
+{
+	"Id": "0xad6d2f2cb7bf2c55c7493fd650d3a66a4c72c483",
+	"Symbol": "PAPER-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x7ae1d57b58fa6411f32948314badd83583ee0e8c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,24 @@
+{
+	"Id": "0x83e74a76fee2e7f11f1b95b00c3888b5537d4ba5",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x83e74a76fee2e7f11f1b95b00c3888b5537d4ba5",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb7c2fcd6d7922eddd2a7a9b0524074a60d5b472c"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "VST-WETH",
+	"Chain": "ethereum"
+}

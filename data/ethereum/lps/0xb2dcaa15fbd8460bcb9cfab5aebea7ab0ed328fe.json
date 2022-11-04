@@ -1,0 +1,10 @@
+{
+	"Id": "0xb2dcaa15fbd8460bcb9cfab5aebea7ab0ed328fe",
+	"Symbol": "WBTC-BTCM (0.05%)",
+	"UnderlyingTokens": [
+		"0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+		"0x36f9975d8184a65be42290d5a8764dc97f3d9396"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

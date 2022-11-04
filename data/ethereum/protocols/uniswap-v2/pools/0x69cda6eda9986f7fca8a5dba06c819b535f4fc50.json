@@ -1,0 +1,24 @@
+{
+	"Id": "0x69cda6eda9986f7fca8a5dba06c819b535f4fc50",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x69cda6eda9986f7fca8a5dba06c819b535f4fc50",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599"
+		},
+		{
+			"Address": "0xbf15797bb5e47f6fb094a4abdb2cfc43f77179ef"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WBTC-KlonX",
+	"Chain": "ethereum"
+}

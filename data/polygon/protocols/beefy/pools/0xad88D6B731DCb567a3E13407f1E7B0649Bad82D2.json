@@ -1,0 +1,21 @@
+{
+	"Id": "0xad88D6B731DCb567a3E13407f1E7B0649Bad82D2",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xad88D6B731DCb567a3E13407f1E7B0649Bad82D2",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xB0dc320ea9eea823a150763AbB4A7bA8286Cd08B"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ROUTE-DFYN LP",
+	"Chain": "polygon"
+}

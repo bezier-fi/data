@@ -1,0 +1,10 @@
+{
+	"Id": "0x851d5bdc21d93df502d81db438c2cdf4254576e8",
+	"Symbol": "Vik-WETH",
+	"UnderlyingTokens": [
+		"0xa791dbc054ece11bf241ecb8602a4dd9bfe7710c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

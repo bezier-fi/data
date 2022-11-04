@@ -1,0 +1,10 @@
+{
+	"Id": "0xd7d0381f2c6153daf4e921288143dfb1893ec230",
+	"Symbol": "CAMEL-WETH",
+	"UnderlyingTokens": [
+		"0x469855ccc63f22fb4e17159e1cc3f51ed56d672a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

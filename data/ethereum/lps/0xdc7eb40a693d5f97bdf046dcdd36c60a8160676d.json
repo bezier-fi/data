@@ -1,0 +1,10 @@
+{
+	"Id": "0xdc7eb40a693d5f97bdf046dcdd36c60a8160676d",
+	"Symbol": "$300-WETH",
+	"UnderlyingTokens": [
+		"0x6f8de2804e0c8c48287fe7df40e4bd7d2f183aa5",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

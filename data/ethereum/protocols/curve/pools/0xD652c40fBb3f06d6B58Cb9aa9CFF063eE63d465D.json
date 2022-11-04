@@ -1,0 +1,24 @@
+{
+	"Id": "0xD652c40fBb3f06d6B58Cb9aa9CFF063eE63d465D",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0xD652c40fBb3f06d6B58Cb9aa9CFF063eE63d465D",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xDC59ac4FeFa32293A95889Dc396682858d52e5Db"
+		},
+		{
+			"Address": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BEANLUSD-f",
+	"Chain": "ethereum"
+}

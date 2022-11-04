@@ -1,0 +1,42 @@
+{
+	"Id": "0xA5407eAE9Ba41422680e2e00537571bcC53efBfD",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0xC25a3A3b969415c80451098fa907EC722572917F",
+			"Apr": 0.14949888,
+			"GroupId": 0,
+			"Key": ""
+		},
+		{
+			"Address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+			"Apr": 0.8608652,
+			"GroupId": 0,
+			"Key": ""
+		},
+		{
+			"Address": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
+			"Apr": 0.95342255,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6B175474E89094C44Da98b954EedeAC495271d0F"
+		},
+		{
+			"Address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+		},
+		{
+			"Address": "0xdAC17F958D2ee523a2206206994597C13D831ec7"
+		},
+		{
+			"Address": "0x57Ab1ec28D129707052df4dF418D58a2D46d5f51"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "susd",
+	"Chain": "ethereum"
+}

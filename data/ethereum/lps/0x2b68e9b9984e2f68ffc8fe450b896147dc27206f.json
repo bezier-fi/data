@@ -1,0 +1,10 @@
+{
+	"Id": "0x2b68e9b9984e2f68ffc8fe450b896147dc27206f",
+	"Symbol": "OLY-WETH",
+	"UnderlyingTokens": [
+		"0x6595b8fd9c920c81500dca94e53cdc712513fb1f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

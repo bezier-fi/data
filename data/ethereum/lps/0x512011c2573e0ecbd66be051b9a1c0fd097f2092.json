@@ -1,0 +1,10 @@
+{
+	"Id": "0x512011c2573e0ecbd66be051b9a1c0fd097f2092",
+	"Symbol": "WETH-CMB (0.30%)",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc6db556fd9ec09bab6dfea320e52d8476f61d424"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

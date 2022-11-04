@@ -1,0 +1,24 @@
+{
+	"Id": "0xcd8733d1ac7233370350e3d18b09211bdf38051d",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xcd8733d1ac7233370350e3d18b09211bdf38051d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xdc9470972c794de00a0dfa8e35159a0ced3e5e64"
+		},
+		{
+			"Address": "0xf16d45806bfb0abe59087cd8f388e0042ec7d0d3"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "RON-FOM",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,24 @@
+{
+	"Id": "0xA69b0D5c0C401BBA2d5162138613B5E38584F63F",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0xA69b0D5c0C401BBA2d5162138613B5E38584F63F",
+			"Apr": 0.00034408725,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8ca194A3b22077359b5732DE53373D4afC11DeE3"
+		},
+		{
+			"Address": "0x5d146d8B1dACb1EBBA5cb005ae1059DA8a1FbF57"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "jCAD+CADC-f",
+	"Chain": "polygon"
+}

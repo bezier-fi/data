@@ -1,0 +1,21 @@
+{
+	"Id": "0xFe4519d295089aC689a6EC6779De4740c06D4707",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xFe4519d295089aC689a6EC6779De4740c06D4707",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xfeC2385b26a4446A7813d16263348FdE7E99FEe4"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "cxADA-cxETH LP",
+	"Chain": "polygon"
+}

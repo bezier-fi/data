@@ -1,0 +1,21 @@
+{
+	"Id": "0xE87151D8dd8695e3e69e8B2f0eB8cf79BD2227d1",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xE87151D8dd8695e3e69e8B2f0eB8cf79BD2227d1",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9f03309A588e33A239Bf49ed8D68b2D45C7A1F11"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DINO-ETH LP",
+	"Chain": "polygon"
+}

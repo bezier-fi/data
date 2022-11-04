@@ -1,0 +1,10 @@
+{
+	"Id": "0x0b52501f02dd4bfd7dde82354458daa407a3c3f3",
+	"Symbol": "WETH-SUDORUG",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf57b152de454abc13aee9c1ecce9097eb922fd7f"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

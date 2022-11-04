@@ -1,0 +1,24 @@
+{
+	"Id": "0xc3418e1bcb146912d5ee8104c40ef26a64d6025d",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xc3418e1bcb146912d5ee8104c40ef26a64d6025d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xad1232f41674997fffc648208ee612f26cea1bb4"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PLUMBER🔧-WETH",
+	"Chain": "ethereum"
+}

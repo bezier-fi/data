@@ -1,0 +1,10 @@
+{
+	"Id": "0x0ff5929dcd5071b098c240fcf7ab4baaf725b287",
+	"Symbol": "WETH-HMT (1.00%)",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd1ba9bac957322d6e8c07a160a3a8da11a0d2867"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

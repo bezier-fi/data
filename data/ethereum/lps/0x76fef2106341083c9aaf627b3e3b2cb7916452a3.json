@@ -1,0 +1,10 @@
+{
+	"Id": "0x76fef2106341083c9aaf627b3e3b2cb7916452a3",
+	"Symbol": "WETH-Koma",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfe88c952dfd9595f266bae053daaac411ccfaf07"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

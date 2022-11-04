@@ -1,0 +1,10 @@
+{
+	"Id": "0x69f4ea8f9de06dbd55251c34cca79e0e66cd0d81",
+	"Symbol": "WETH-SQUAWK (1.00%)",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xeff3f1b9400d6d0f1e8805bdde592f61535f5ecd"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

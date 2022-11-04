@@ -1,0 +1,21 @@
+{
+	"Id": "0x66df1B2d22759D03A9f37BAaAc826089e56a5936",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x66df1B2d22759D03A9f37BAaAc826089e56a5936",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1Bd06B96dd42AdA85fDd0795f3B4A79DB914ADD5"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "QUICK-ETH LP",
+	"Chain": "polygon"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xa961ba3daa48376d3f6d7d6420be34c3a11d232e",
+	"Symbol": "BANANA-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x94e496474f1725f1c1824cb5bdb92d7691a4f03a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

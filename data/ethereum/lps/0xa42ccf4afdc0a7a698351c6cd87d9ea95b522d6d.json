@@ -1,0 +1,10 @@
+{
+	"Id": "0xa42ccf4afdc0a7a698351c6cd87d9ea95b522d6d",
+	"Symbol": "DMEX-WETH",
+	"UnderlyingTokens": [
+		"0x6263e260ff6597180c9538c69af8284edeacec80",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

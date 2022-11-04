@@ -1,0 +1,24 @@
+{
+	"Id": "0x500dcb12218a66b4aca4cc246af1e4003d02e042",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0x500dcb12218a66b4aca4cc246af1e4003d02e042",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa6610ed604047e7b76c1da288172d15bcda57596"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SACKS-WETH (0.05%)",
+	"Chain": "ethereum"
+}

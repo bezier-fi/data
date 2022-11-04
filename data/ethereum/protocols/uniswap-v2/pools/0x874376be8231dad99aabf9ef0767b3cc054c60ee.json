@@ -1,0 +1,24 @@
+{
+	"Id": "0x874376be8231dad99aabf9ef0767b3cc054c60ee",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x874376be8231dad99aabf9ef0767b3cc054c60ee",
+			"Apr": 14.92994,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x27c70cd1946795b66be9d954418546998b546634"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "LEASH-WETH",
+	"Chain": "ethereum"
+}

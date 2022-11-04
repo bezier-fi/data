@@ -1,0 +1,24 @@
+{
+	"Id": "0xbb6da27f31ef3b12639dd8e17eeaaf15e2e36e11",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xbb6da27f31ef3b12639dd8e17eeaaf15e2e36e11",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4fdbcc7331a03b1e323ccd8968966282950ad769"
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "QMT-USDT",
+	"Chain": "ethereum"
+}

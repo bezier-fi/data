@@ -1,0 +1,10 @@
+{
+	"Id": "0x768d5c16a34e11e8383ec294e989a8d704545b61",
+	"Symbol": "WETH-LAYERX",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfe56e974c1c85e9351325fb2d62963a022ad624f"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

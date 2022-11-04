@@ -1,0 +1,24 @@
+{
+	"Id": "0xaafac42f553bbf80862fce24dac292eec5173f72",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xaafac42f553bbf80862fce24dac292eec5173f72",
+			"Apr": 19.505089,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		},
+		{
+			"Address": "0xe1c7e30c42c24582888c758984f6e382096786bd"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-XCUR (0.30%)",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xf99110f141c36bde7fb21f1de10392cc33ff0c9b",
+	"Symbol": "WETH-KIRI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd90ed51734974a22c0631013c51397692bed6514"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

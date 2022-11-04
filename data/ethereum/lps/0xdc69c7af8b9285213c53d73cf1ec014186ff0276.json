@@ -1,0 +1,10 @@
+{
+	"Id": "0xdc69c7af8b9285213c53d73cf1ec014186ff0276",
+	"Symbol": "Hades-WETH",
+	"UnderlyingTokens": [
+		"0xbb4b2f7f1c6d52de6e84d74ace6c07b344d3f6bf",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

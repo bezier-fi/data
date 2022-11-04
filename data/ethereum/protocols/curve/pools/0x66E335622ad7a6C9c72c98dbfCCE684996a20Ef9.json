@@ -1,0 +1,30 @@
+{
+	"Id": "0x66E335622ad7a6C9c72c98dbfCCE684996a20Ef9",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0x66E335622ad7a6C9c72c98dbfCCE684996a20Ef9",
+			"Apr": 0.041111372,
+			"GroupId": 0,
+			"Key": ""
+		},
+		{
+			"Address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+			"Apr": 3.1436126,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8D6CeBD76f18E1558D4DB88138e2DeFB3909fAD6"
+		},
+		{
+			"Address": "0x3175Df0976dFA876431C2E9eE6Bc45b65d3473CC"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MAIPool3CRV-f",
+	"Chain": "ethereum"
+}

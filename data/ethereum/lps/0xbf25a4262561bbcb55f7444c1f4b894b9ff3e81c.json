@@ -1,0 +1,10 @@
+{
+	"Id": "0xbf25a4262561bbcb55f7444c1f4b894b9ff3e81c",
+	"Symbol": "WETH-RKFL (0.05%)",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xdbf0fac1499a931ed6e5f6122dbbcd3b80f66c7e"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

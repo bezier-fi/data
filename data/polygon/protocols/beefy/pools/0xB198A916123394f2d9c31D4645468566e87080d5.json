@@ -1,0 +1,21 @@
+{
+	"Id": "0xB198A916123394f2d9c31D4645468566e87080d5",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xB198A916123394f2d9c31D4645468566e87080d5",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9bb608dc0F9308B9beCA2F7c80865454d02E74cA"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ICE-DFYN LP",
+	"Chain": "polygon"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x7b28470032da06051f2e620531adbaeadb285408",
+	"Symbol": "MPL-USDC",
+	"UnderlyingTokens": [
+		"0x33349b282065b0284d756f0577fb39c158f935e6",
+		"0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

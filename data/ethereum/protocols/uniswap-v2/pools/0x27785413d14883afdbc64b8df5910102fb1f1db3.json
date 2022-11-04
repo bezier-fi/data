@@ -1,0 +1,24 @@
+{
+	"Id": "0x27785413d14883afdbc64b8df5910102fb1f1db3",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x27785413d14883afdbc64b8df5910102fb1f1db3",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x23a84704796c959367a77cd12b7de80f212757da"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "POOL-WETH",
+	"Chain": "ethereum"
+}

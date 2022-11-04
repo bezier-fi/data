@@ -1,0 +1,24 @@
+{
+	"Id": "0xcabebc0c5a9d6522640d81c22975ca31b8f8ff48",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xcabebc0c5a9d6522640d81c22975ca31b8f8ff48",
+			"Apr": 0.002531257,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x24e3794605c84e580eea4972738d633e8a7127c8"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "KTLYO-WETH",
+	"Chain": "ethereum"
+}

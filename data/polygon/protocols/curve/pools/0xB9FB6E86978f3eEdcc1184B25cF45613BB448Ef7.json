@@ -1,0 +1,24 @@
+{
+	"Id": "0xB9FB6E86978f3eEdcc1184B25cF45613BB448Ef7",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0xB9FB6E86978f3eEdcc1184B25cF45613BB448Ef7",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"
+		},
+		{
+			"Address": "0xE7a24EF0C5e95Ffb0f6684b813A78F2a3AD7D171"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ETHUSDC3CRV-f",
+	"Chain": "polygon"
+}

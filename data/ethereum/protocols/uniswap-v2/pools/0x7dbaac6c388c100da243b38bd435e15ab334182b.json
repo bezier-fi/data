@@ -1,0 +1,24 @@
+{
+	"Id": "0x7dbaac6c388c100da243b38bd435e15ab334182b",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x7dbaac6c388c100da243b38bd435e15ab334182b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x420904134ffd1badbd1df179fa7d02105d1d69bb"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "YYIBA-WETH",
+	"Chain": "ethereum"
+}

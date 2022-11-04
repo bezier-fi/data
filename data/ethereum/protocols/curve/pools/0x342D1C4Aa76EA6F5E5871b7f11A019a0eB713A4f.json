@@ -1,0 +1,24 @@
+{
+	"Id": "0x342D1C4Aa76EA6F5E5871b7f11A019a0eB713A4f",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0x6C280dB098dB673d30d5B34eC04B6387185D3620",
+			"Apr": 0.6697226,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+		},
+		{
+			"Address": "0x72953a5C32413614d24C29c84a66AE4B59581Bbf"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CLEVETH-f",
+	"Chain": "ethereum"
+}

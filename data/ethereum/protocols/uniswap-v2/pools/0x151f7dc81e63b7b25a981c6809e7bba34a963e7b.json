@@ -1,0 +1,24 @@
+{
+	"Id": "0x151f7dc81e63b7b25a981c6809e7bba34a963e7b",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x151f7dc81e63b7b25a981c6809e7bba34a963e7b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2f05577606f1ae37dc3a553f28916e22de49a2f9"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "THICC-WETH",
+	"Chain": "ethereum"
+}

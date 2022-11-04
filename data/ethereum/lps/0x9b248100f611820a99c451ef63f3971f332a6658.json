@@ -1,0 +1,10 @@
+{
+	"Id": "0x9b248100f611820a99c451ef63f3971f332a6658",
+	"Symbol": "WETH-KALLY",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfd30c9bea1a952feeed2ef2c6b2ff8a8fc4aad07"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,21 @@
+{
+	"Id": "0xeCBb84E73760d0E22BDBeE79490c691386B5008F",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xeCBb84E73760d0E22BDBeE79490c691386B5008F",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8312A29A91D9Fac706F4d2ADEB1FA4540faD1673"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MATIC-USDC LP",
+	"Chain": "polygon"
+}

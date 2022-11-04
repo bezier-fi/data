@@ -1,0 +1,24 @@
+{
+	"Id": "0xb8784a63baa63ca26b40debf916540c6ee3291e6",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xb8784a63baa63ca26b40debf916540c6ee3291e6",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x31de994710629896b41e7415c89bd5ba0849f15b"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "OIL-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x83a8d24e40a23e0120b1d540ca48acef0c8bb4c1",
+	"Symbol": "BI-WETH",
+	"UnderlyingTokens": [
+		"0x3ba7bd4ca6feba7553521f5ba763b512983a6202",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

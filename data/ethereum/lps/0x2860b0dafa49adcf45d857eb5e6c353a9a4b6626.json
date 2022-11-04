@@ -1,0 +1,10 @@
+{
+	"Id": "0x2860b0dafa49adcf45d857eb5e6c353a9a4b6626",
+	"Symbol": "APW-WETH (0.30%)",
+	"UnderlyingTokens": [
+		"0x4104b135dbc9609fc1a9490e61369036497660c8",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

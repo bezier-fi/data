@@ -1,0 +1,10 @@
+{
+	"Id": "0x5c89674c4ad1ccd10a29bcc9aabc303cd5f2da1d",
+	"Symbol": "TOMOE-WETH",
+	"UnderlyingTokens": [
+		"0x05d3606d5c81eb9b7b18530995ec9b29da05faba",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

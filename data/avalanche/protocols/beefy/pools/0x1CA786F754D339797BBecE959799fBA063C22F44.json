@@ -1,0 +1,21 @@
+{
+	"Id": "0x1CA786F754D339797BBecE959799fBA063C22F44",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x1CA786F754D339797BBecE959799fBA063C22F44",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2774516897AC629aD3ED9dCac7e375Dda78412b9"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "QI-AVAX LP",
+	"Chain": "avalanche"
+}

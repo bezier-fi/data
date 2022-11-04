@@ -1,0 +1,24 @@
+{
+	"Id": "0xC68ffDdea3a77b456227B50EbFdCC3C33bc2a8a4",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0x1B8b8a78E12397e18a2BD2b400205d1EB8897573",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x03ab458634910AaD20eF5f1C8ee96F1D6ac54919"
+		},
+		{
+			"Address": "0x853d955aCEf822Db058eb8505911ED77F175b99e"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "RAIFRAX-f",
+	"Chain": "ethereum"
+}

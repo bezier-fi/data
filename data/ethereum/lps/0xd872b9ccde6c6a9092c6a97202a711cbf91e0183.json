@@ -1,0 +1,10 @@
+{
+	"Id": "0xd872b9ccde6c6a9092c6a97202a711cbf91e0183",
+	"Symbol": "POG2-WETH",
+	"UnderlyingTokens": [
+		"0x70452b33b432db191c519f2a0c75c3d51a65a9f2",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

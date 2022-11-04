@@ -1,0 +1,24 @@
+{
+	"Id": "0xba7872534a6c9097d805d8bee97e030f4e372e54",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xba7872534a6c9097d805d8bee97e030f4e372e54",
+			"Apr": 6.426707,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x961c8c0b1aad0c0b10a51fef6a867e3091bcef17"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DYP-WETH",
+	"Chain": "ethereum"
+}

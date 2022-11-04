@@ -1,0 +1,24 @@
+{
+	"Id": "0xfe4cbc2fa559f6e9c960a5d5e1bb8786bde8e18b",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xfe4cbc2fa559f6e9c960a5d5e1bb8786bde8e18b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0e43ef1274fe603ed4fe86a7d8577cc77bdc3a3e"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "NFC-WETH",
+	"Chain": "ethereum"
+}

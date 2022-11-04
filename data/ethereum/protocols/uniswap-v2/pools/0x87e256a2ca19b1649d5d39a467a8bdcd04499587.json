@@ -1,0 +1,24 @@
+{
+	"Id": "0x87e256a2ca19b1649d5d39a467a8bdcd04499587",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x87e256a2ca19b1649d5d39a467a8bdcd04499587",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8d5b1dce49970a1841f9444b496f458ef4495748"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "AIRSHIB-WETH",
+	"Chain": "ethereum"
+}

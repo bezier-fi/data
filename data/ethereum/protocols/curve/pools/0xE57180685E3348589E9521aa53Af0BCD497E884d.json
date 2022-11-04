@@ -1,0 +1,30 @@
+{
+	"Id": "0xE57180685E3348589E9521aa53Af0BCD497E884d",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0xE57180685E3348589E9521aa53Af0BCD497E884d",
+			"Apr": 0.43396866,
+			"GroupId": 0,
+			"Key": ""
+		},
+		{
+			"Address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+			"Apr": 5.2531657,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x865377367054516e17014CcdED1e7d814EDC9ce4"
+		},
+		{
+			"Address": "0x3175Df0976dFA876431C2E9eE6Bc45b65d3473CC"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DOLAFRAXBP3CRV-f",
+	"Chain": "ethereum"
+}

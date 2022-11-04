@@ -1,0 +1,24 @@
+{
+	"Id": "0x84fb672541721f39c57bbb5f74ca1493d7819f6c",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x84fb672541721f39c57bbb5f74ca1493d7819f6c",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6046b3515ed57cc5457a0e700b3a775d6fd54afe"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BABYBORIS-WETH",
+	"Chain": "ethereum"
+}

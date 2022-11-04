@@ -1,0 +1,10 @@
+{
+	"Id": "0x306a64ccd8121169ac0f24189a0dc9cb00e7b3d7",
+	"Symbol": "TeRM-WETH",
+	"UnderlyingTokens": [
+		"0x6592ac72f07c2a2f13c5bda5ae6e4c6fe965980c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

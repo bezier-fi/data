@@ -1,0 +1,24 @@
+{
+	"Id": "0xc2e9f25be6257c210d7adf0d4cd6e3e881ba25f8",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xc2e9f25be6257c210d7adf0d4cd6e3e881ba25f8",
+			"Apr": 23.236189,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6b175474e89094c44da98b954eedeac495271d0f"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DAI-WETH (0.30%)",
+	"Chain": "ethereum"
+}

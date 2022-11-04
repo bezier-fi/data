@@ -1,0 +1,21 @@
+{
+	"Id": "0xB1893a79fcCe73aEfc878e5AC918698Ee0110444",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xB1893a79fcCe73aEfc878e5AC918698Ee0110444",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x767f8BD67a5f133BdDF3b285c5E2FD3D157A2cdC"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PUP-USDC QLP",
+	"Chain": "polygon"
+}

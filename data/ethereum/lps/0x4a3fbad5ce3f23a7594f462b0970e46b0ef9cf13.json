@@ -1,0 +1,10 @@
+{
+	"Id": "0x4a3fbad5ce3f23a7594f462b0970e46b0ef9cf13",
+	"Symbol": "AWC-WETH",
+	"UnderlyingTokens": [
+		"0xad22f63404f7305e4713ccbd4f296f34770513f4",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

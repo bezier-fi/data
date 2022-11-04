@@ -1,0 +1,24 @@
+{
+	"Id": "0xf083FBa98dED0f9C970e5a418500bad08D8b9732",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0xf083FBa98dED0f9C970e5a418500bad08D8b9732",
+			"Apr": 2.0929346,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4e3FBD56CD56c3e72c1403e103b45Db9da5B9D2B"
+		},
+		{
+			"Address": "0x9E0441E084F5dB0606565737158aa6Ab6B970fE0"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "bentcvx-f",
+	"Chain": "ethereum"
+}

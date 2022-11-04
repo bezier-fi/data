@@ -1,0 +1,21 @@
+{
+	"Id": "0x5Da31E310bb83e89BF85A4100A98C7b33530395c",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x5Da31E310bb83e89BF85A4100A98C7b33530395c",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xB8e54c9Ea1616beEBe11505a419DD8dF1000E02a"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CRYSTL-WMATIC LP",
+	"Chain": "polygon"
+}

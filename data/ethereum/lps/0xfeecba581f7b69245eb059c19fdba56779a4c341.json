@@ -1,0 +1,10 @@
+{
+	"Id": "0xfeecba581f7b69245eb059c19fdba56779a4c341",
+	"Symbol": "SNAP!-WETH",
+	"UnderlyingTokens": [
+		"0x4c5813b8c6fbbac76caa148aaf8910f236b56fdf",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

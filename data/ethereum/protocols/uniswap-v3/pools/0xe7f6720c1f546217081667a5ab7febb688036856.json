@@ -1,0 +1,24 @@
+{
+	"Id": "0xe7f6720c1f546217081667a5ab7febb688036856",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xe7f6720c1f546217081667a5ab7febb688036856",
+			"Apr": 22.473886,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x467719ad09025fcc6cf6f8311755809d45a5e5f3"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "AXL-WETH (0.30%)",
+	"Chain": "ethereum"
+}

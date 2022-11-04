@@ -1,0 +1,10 @@
+{
+	"Id": "0xfb6ae43a999ff66287f8d4d896a5d32a67b4453b",
+	"Symbol": "SNM-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x46d0dac0926fa16707042cadc23f1eb4141fe86b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

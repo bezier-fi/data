@@ -1,0 +1,24 @@
+{
+	"Id": "0x66f8256267b062c0b33c80a05f37eb4856a545e6",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0x66f8256267b062c0b33c80a05f37eb4856a545e6",
+			"Apr": 117.6004,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+		},
+		{
+			"Address": "0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC-HOP (1.00%)",
+	"Chain": "ethereum"
+}

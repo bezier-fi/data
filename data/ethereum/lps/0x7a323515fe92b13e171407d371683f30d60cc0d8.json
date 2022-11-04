@@ -1,0 +1,10 @@
+{
+	"Id": "0x7a323515fe92b13e171407d371683f30d60cc0d8",
+	"Symbol": "WETH-MONK (1.00%)",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf8640b0b79c236b0c14f67344b4d203ffcedc712"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xbe44e5dd67276f53b2aca540b4ed32c84ed0e7b3",
+	"Symbol": "BigSB-WETH",
+	"UnderlyingTokens": [
+		"0x131157c6760f78f7ddf877c0019eba175ba4b6f6",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

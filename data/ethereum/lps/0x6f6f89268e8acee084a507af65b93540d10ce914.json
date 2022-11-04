@@ -1,0 +1,10 @@
+{
+	"Id": "0x6f6f89268e8acee084a507af65b93540d10ce914",
+	"Symbol": "WRAWL-WETH",
+	"UnderlyingTokens": [
+		"0x805f0fd1bc16fbe8cfd94454bfc4c8f49aece63e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

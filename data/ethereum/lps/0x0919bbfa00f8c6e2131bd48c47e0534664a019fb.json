@@ -1,0 +1,10 @@
+{
+	"Id": "0x0919bbfa00f8c6e2131bd48c47e0534664a019fb",
+	"Symbol": "LDN-WETH",
+	"UnderlyingTokens": [
+		"0xb29663aa4e2e81e425294193616c1b102b70a158",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

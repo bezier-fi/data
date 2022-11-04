@@ -1,0 +1,24 @@
+{
+	"Id": "0x3cb75142bdae2bef3eb119affb288aeb0599dc4f",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0x3cb75142bdae2bef3eb119affb288aeb0599dc4f",
+			"Apr": 6.242064,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		},
+		{
+			"Address": "0xeb4c2781e4eba804ce9a9803c67d0893436bb27d"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-renBTC (0.30%)",
+	"Chain": "ethereum"
+}

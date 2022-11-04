@@ -1,0 +1,21 @@
+{
+	"Id": "0xfa6C93288250c67Ca620Efb096e9D23C8ECc587D",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xfa6C93288250c67Ca620Efb096e9D23C8ECc587D",
+			"Apr": 71346.16,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x304e57c752E854E9A233Ae82fcC42F7568b81180"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "IXT-USDT LP",
+	"Chain": "polygon"
+}

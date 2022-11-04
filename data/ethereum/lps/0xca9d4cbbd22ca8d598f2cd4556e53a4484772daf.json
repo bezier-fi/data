@@ -1,0 +1,10 @@
+{
+	"Id": "0xca9d4cbbd22ca8d598f2cd4556e53a4484772daf",
+	"Symbol": "LOCK-WETH",
+	"UnderlyingTokens": [
+		"0x95172ccbe8344fecd73d0a30f54123652981bd6f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

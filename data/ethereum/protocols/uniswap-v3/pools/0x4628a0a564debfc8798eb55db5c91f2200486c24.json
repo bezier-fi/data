@@ -1,0 +1,24 @@
+{
+	"Id": "0x4628a0a564debfc8798eb55db5c91f2200486c24",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0x4628a0a564debfc8798eb55db5c91f2200486c24",
+			"Apr": 16.451567,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6de037ef9ad2725eb40118bb1702ebb27e4aeb24"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "RNDR-WETH (0.30%)",
+	"Chain": "ethereum"
+}

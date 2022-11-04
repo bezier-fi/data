@@ -1,0 +1,10 @@
+{
+	"Id": "0xf654a4320ca09927de44b9b88fd9b5deaa067fd4",
+	"Symbol": "WETH-KIBBY",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd6fdaae53a89188e18b338a2ad4f8440c634ec39"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

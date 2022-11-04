@@ -1,0 +1,10 @@
+{
+	"Id": "0x5548f847fd9a1d3487d5fbb2e8d73972803c4cce",
+	"Symbol": "WBTC-SWAPP",
+	"UnderlyingTokens": [
+		"0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+		"0x8cb924583681cbfe487a62140a994a49f833c244"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

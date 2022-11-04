@@ -1,0 +1,10 @@
+{
+	"Id": "0x3012e36cc30eb7ed916b8d4b82750b39551874dc",
+	"Symbol": "LYRA-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x01ba67aac7f75f647d94220cc98fb30fcc5105bf",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

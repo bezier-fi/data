@@ -1,0 +1,10 @@
+{
+	"Id": "0x860a1f08e5c0eb660c1d61bf937eaf6554b9b346",
+	"Symbol": "GY-WETH",
+	"UnderlyingTokens": [
+		"0x35fa0c1fe6a7b7a97490bcb9f0cb50742dbdb1b8",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,24 @@
+{
+	"Id": "0x48E8DCb9fbE51899Df8960415fB11dfb8745C2DB",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0x48E8DCb9fbE51899Df8960415fB11dfb8745C2DB",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E"
+		},
+		{
+			"Address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "AVAXUSDC-f",
+	"Chain": "avalanche"
+}

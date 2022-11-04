@@ -1,0 +1,10 @@
+{
+	"Id": "0xfd5124cb57cdd1f0cc72b6ee04af6af750f7fe35",
+	"Symbol": "WETH-PLATO",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe1bfd5cdfc0c55cc51e25f3c05943d296e307fa9"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xa4fbbd16c6c1c0d5debc171d8ed66d58a13f7259",
+	"Symbol": "SAITA-WETH",
+	"UnderlyingTokens": [
+		"0x1576c54d465dbd9ce621776fb42f2a19ac66a7ed",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

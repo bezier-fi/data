@@ -1,0 +1,10 @@
+{
+	"Id": "0xfc27b0cb97b0ce8346cfda5f1664922833c7a2ef",
+	"Symbol": "WETH-Sleepy-Shib",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf8e1d008a98350abb4241139fbc851aaad51eda6"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

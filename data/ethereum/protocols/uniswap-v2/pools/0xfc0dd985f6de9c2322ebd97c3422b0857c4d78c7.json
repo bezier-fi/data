@@ -1,0 +1,24 @@
+{
+	"Id": "0xfc0dd985f6de9c2322ebd97c3422b0857c4d78c7",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xfc0dd985f6de9c2322ebd97c3422b0857c4d78c7",
+			"Apr": 6.661293,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1337def16f9b486faed0293eb623dc8395dfe46a"
+		},
+		{
+			"Address": "0x6b175474e89094c44da98b954eedeac495271d0f"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ARMOR-DAI",
+	"Chain": "ethereum"
+}

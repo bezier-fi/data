@@ -1,0 +1,10 @@
+{
+	"Id": "0xab87037c8a096c89be7da237ca8ced74a38e9e48",
+	"Symbol": "DuiToken-WETH",
+	"UnderlyingTokens": [
+		"0x9316f40db60b242fc064dd1f6db01207f42cd03e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

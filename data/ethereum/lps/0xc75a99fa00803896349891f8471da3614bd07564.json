@@ -1,0 +1,10 @@
+{
+	"Id": "0xc75a99fa00803896349891f8471da3614bd07564",
+	"Symbol": "SOCKS-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x23b608675a2b2fb1890d3abbd85c5775c51691d5",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

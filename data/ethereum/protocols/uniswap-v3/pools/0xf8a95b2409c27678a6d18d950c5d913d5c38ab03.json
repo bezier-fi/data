@@ -1,0 +1,24 @@
+{
+	"Id": "0xf8a95b2409c27678a6d18d950c5d913d5c38ab03",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xf8a95b2409c27678a6d18d950c5d913d5c38ab03",
+			"Apr": 389.2995,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x15d4c048f83bd7e37d49ea4c83a07267ec4203da"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GALA-WETH (0.30%)",
+	"Chain": "ethereum"
+}

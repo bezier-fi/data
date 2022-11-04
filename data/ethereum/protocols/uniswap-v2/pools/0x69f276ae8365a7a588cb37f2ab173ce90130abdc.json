@@ -1,0 +1,24 @@
+{
+	"Id": "0x69f276ae8365a7a588cb37f2ab173ce90130abdc",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x69f276ae8365a7a588cb37f2ab173ce90130abdc",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8a8116a794744977941c7d3743517410969aacbb"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SPUNK-WETH",
+	"Chain": "ethereum"
+}

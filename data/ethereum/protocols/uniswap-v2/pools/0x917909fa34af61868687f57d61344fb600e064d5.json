@@ -1,0 +1,24 @@
+{
+	"Id": "0x917909fa34af61868687f57d61344fb600e064d5",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x917909fa34af61868687f57d61344fb600e064d5",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x25901f2a5a4bb0aaabe2cdb24e0e15a0d49b015d"
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BFX-USDT",
+	"Chain": "ethereum"
+}

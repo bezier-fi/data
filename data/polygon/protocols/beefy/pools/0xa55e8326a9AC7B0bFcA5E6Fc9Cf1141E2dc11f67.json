@@ -1,0 +1,21 @@
+{
+	"Id": "0xa55e8326a9AC7B0bFcA5E6Fc9Cf1141E2dc11f67",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xa55e8326a9AC7B0bFcA5E6Fc9Cf1141E2dc11f67",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x845E76A8691423fbc4ECb8Dd77556Cb61c09eE25"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "pWINGS",
+	"Chain": "polygon"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x9396c357befc79abfef7f229a3bd8dd0ae8e6bfd",
+	"Symbol": "SHPING-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x7c84e62859d0715eb77d1b1c4154ecd6abb21bec",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

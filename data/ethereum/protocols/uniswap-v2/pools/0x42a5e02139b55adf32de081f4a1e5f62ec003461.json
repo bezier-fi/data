@@ -1,0 +1,24 @@
+{
+	"Id": "0x42a5e02139b55adf32de081f4a1e5f62ec003461",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x42a5e02139b55adf32de081f4a1e5f62ec003461",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x192422d3a1a199f9dcbd2781fc462757c97409f5"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ZADDY-WETH",
+	"Chain": "ethereum"
+}

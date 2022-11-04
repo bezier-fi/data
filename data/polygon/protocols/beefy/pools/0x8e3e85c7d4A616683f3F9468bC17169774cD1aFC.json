@@ -1,0 +1,21 @@
+{
+	"Id": "0x8e3e85c7d4A616683f3F9468bC17169774cD1aFC",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x8e3e85c7d4A616683f3F9468bC17169774cD1aFC",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xaAa5B9e6c589642f98a1cDA99B9D024B8407285A"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TITAN",
+	"Chain": "polygon"
+}

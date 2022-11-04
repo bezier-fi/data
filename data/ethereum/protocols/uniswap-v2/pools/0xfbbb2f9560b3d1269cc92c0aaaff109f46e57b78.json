@@ -1,0 +1,24 @@
+{
+	"Id": "0xfbbb2f9560b3d1269cc92c0aaaff109f46e57b78",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xfbbb2f9560b3d1269cc92c0aaaff109f46e57b78",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3fa1216ca613497d038ef0ef680b4a6b3f7b5f7d"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ANDROTTWEILER-WETH",
+	"Chain": "ethereum"
+}

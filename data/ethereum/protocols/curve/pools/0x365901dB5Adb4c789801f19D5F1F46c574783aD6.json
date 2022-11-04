@@ -1,0 +1,24 @@
+{
+	"Id": "0x365901dB5Adb4c789801f19D5F1F46c574783aD6",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0xbcE2C09c6757Cf002dfbA4e8b9c6F3D3437dC8Dc",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x64aa3364F17a4D01c6f1751Fd97C2BD3D7e7f1D5"
+		},
+		{
+			"Address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "OHMETH-f",
+	"Chain": "ethereum"
+}

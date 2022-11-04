@@ -1,0 +1,10 @@
+{
+	"Id": "0xbcea1c03caae2184a4411a1da9d10c42b17c9419",
+	"Symbol": "LED-WETH",
+	"UnderlyingTokens": [
+		"0x72de803b67b6ab05b61efab2efdcd414d16ebf6d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

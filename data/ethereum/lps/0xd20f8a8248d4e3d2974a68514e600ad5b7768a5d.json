@@ -1,0 +1,10 @@
+{
+	"Id": "0xd20f8a8248d4e3d2974a68514e600ad5b7768a5d",
+	"Symbol": "WETH-SPY",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe4883bcb919386bb5f48ef59b7c31c1d93a51a57"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xd417f1fcab7947cb4ee838fb73d35b9541ca8211",
+	"Symbol": "SWFTC-WETH",
+	"UnderlyingTokens": [
+		"0x0bb217e40f8a5cb79adf04e1aab60e5abd0dfc1e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

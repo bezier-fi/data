@@ -1,0 +1,21 @@
+{
+	"Id": "0x7a670e849DB824364d1031DEAfB4cD603144F23D",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x7a670e849DB824364d1031DEAfB4cD603144F23D",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9EE0a4E21bd333a6bb2ab298194320b8DaA26516"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDT-AVAX LP",
+	"Chain": "avalanche"
+}

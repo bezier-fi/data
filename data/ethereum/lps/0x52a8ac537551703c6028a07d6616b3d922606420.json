@@ -1,0 +1,10 @@
+{
+	"Id": "0x52a8ac537551703c6028a07d6616b3d922606420",
+	"Symbol": "SCHNITZEL-WETH",
+	"UnderlyingTokens": [
+		"0x3051199794cc1108fe7f5a48186ccd389093646a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

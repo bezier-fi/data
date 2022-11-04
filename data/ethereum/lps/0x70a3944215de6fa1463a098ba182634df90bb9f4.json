@@ -1,0 +1,10 @@
+{
+	"Id": "0x70a3944215de6fa1463a098ba182634df90bb9f4",
+	"Symbol": "POOLZ-WETH",
+	"UnderlyingTokens": [
+		"0x69a95185ee2a045cdc4bcd1b1df10710395e4e23",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

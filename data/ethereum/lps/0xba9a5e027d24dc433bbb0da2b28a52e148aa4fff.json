@@ -1,0 +1,10 @@
+{
+	"Id": "0xba9a5e027d24dc433bbb0da2b28a52e148aa4fff",
+	"Symbol": "DAI-CORN",
+	"UnderlyingTokens": [
+		"0x6b175474e89094c44da98b954eedeac495271d0f",
+		"0xa456b515303b2ce344e9d2601f91270f8c2fea5e"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

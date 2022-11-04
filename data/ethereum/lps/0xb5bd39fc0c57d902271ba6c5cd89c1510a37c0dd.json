@@ -1,0 +1,10 @@
+{
+	"Id": "0xb5bd39fc0c57d902271ba6c5cd89c1510a37c0dd",
+	"Symbol": "POLC-WETH",
+	"UnderlyingTokens": [
+		"0xaa8330fb2b4d5d07abfe7a72262752a8505c6b37",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x8224f6854d925eac313095069c54b31c1a09b336",
+	"Symbol": "FABRIC-WETH",
+	"UnderlyingTokens": [
+		"0x8c6fa66c21ae3fc435790e451946a9ea82e6e523",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

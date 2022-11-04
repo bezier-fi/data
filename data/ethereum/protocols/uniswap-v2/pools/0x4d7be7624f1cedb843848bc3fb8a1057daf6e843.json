@@ -1,0 +1,24 @@
+{
+	"Id": "0x4d7be7624f1cedb843848bc3fb8a1057daf6e843",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x4d7be7624f1cedb843848bc3fb8a1057daf6e843",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6107f4901476c3449403a1d908e19148950c2bc5"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "YASHA-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xc72b1db2472b997f426341c57aa700b8e0480798",
+	"Symbol": "BROLYINU-WETH",
+	"UnderlyingTokens": [
+		"0xbbe56cc3b85714e0050dcd0837ebb8b9850b947c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

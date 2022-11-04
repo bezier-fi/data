@@ -1,0 +1,10 @@
+{
+	"Id": "0xc11147c129525d0c4406ec85fa357c873c3dbe99",
+	"Symbol": "Trumpkin-WETH",
+	"UnderlyingTokens": [
+		"0x4d82a1e174cfbf5b1ecb1050416b7f692a1cc95b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

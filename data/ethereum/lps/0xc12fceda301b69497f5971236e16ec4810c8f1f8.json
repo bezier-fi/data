@@ -1,0 +1,10 @@
+{
+	"Id": "0xc12fceda301b69497f5971236e16ec4810c8f1f8",
+	"Symbol": "PAZ-WETH",
+	"UnderlyingTokens": [
+		"0x8f298792b599365de2aa12af85ea7b9c265f47f3",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

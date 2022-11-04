@@ -1,0 +1,24 @@
+{
+	"Id": "0x93b24bd7c65ede4e7620f16a48e215318d1ad996",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0x93b24bd7c65ede4e7620f16a48e215318d1ad996",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x630bc7dd0abfc2d196289ce09db947dd2cafae7c"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "NABOX-WETH (1.00%)",
+	"Chain": "ethereum"
+}

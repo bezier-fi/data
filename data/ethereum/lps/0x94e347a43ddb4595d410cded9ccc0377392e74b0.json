@@ -1,0 +1,10 @@
+{
+	"Id": "0x94e347a43ddb4595d410cded9ccc0377392e74b0",
+	"Symbol": "TRILL-WETH",
+	"UnderlyingTokens": [
+		"0x3593da74a0adb6b3504e677b8fa40c3e77ba90ec",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

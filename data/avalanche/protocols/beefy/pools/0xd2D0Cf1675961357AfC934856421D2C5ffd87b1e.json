@@ -1,0 +1,21 @@
+{
+	"Id": "0xd2D0Cf1675961357AfC934856421D2C5ffd87b1e",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xd2D0Cf1675961357AfC934856421D2C5ffd87b1e",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x862905a82382Db9405a40DCAa8Ee9e8F4af52C89"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FRAX-AVAX LP",
+	"Chain": "avalanche"
+}

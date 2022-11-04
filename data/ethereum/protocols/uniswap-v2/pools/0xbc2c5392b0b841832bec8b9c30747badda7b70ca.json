@@ -1,0 +1,24 @@
+{
+	"Id": "0xbc2c5392b0b841832bec8b9c30747badda7b70ca",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xbc2c5392b0b841832bec8b9c30747badda7b70ca",
+			"Apr": 0.27133805,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x56de8bc61346321d4f2211e3ac3c0a7f00db9b76"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "RENA-WETH",
+	"Chain": "ethereum"
+}

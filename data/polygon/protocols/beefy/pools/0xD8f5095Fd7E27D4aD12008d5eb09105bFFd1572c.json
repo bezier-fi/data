@@ -1,0 +1,21 @@
+{
+	"Id": "0xD8f5095Fd7E27D4aD12008d5eb09105bFFd1572c",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xD8f5095Fd7E27D4aD12008d5eb09105bFFd1572c",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x46489f825f11d7473D20279699b108aCAA246e73"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "HONOR-USDC QLP",
+	"Chain": "polygon"
+}

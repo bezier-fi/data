@@ -1,0 +1,10 @@
+{
+	"Id": "0x1d5a1eaf90218e91f2bb32e42b0b02ff39827d16",
+	"Symbol": "PICA-WETH",
+	"UnderlyingTokens": [
+		"0xa7e0719a65128b2f6cdbc86096753ff7d5962106",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

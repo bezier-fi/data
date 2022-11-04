@@ -1,0 +1,21 @@
+{
+	"Id": "0x191E0b3B023fd8911c1D7632086A46C0D2dB39ed",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x191E0b3B023fd8911c1D7632086A46C0D2dB39ed",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa975CEEb05B379Cf67FdfA63e7b2770f9F1D72c6"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DEFI5-QUICK LP",
+	"Chain": "polygon"
+}

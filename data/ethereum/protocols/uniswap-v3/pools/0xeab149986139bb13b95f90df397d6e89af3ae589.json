@@ -1,0 +1,24 @@
+{
+	"Id": "0xeab149986139bb13b95f90df397d6e89af3ae589",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xeab149986139bb13b95f90df397d6e89af3ae589",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		},
+		{
+			"Address": "0xd291e7a03283640fdc51b121ac401383a46cc623"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-RGT (1.00%)",
+	"Chain": "ethereum"
+}

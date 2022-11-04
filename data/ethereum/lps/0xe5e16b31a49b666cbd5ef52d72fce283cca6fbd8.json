@@ -1,0 +1,10 @@
+{
+	"Id": "0xe5e16b31a49b666cbd5ef52d72fce283cca6fbd8",
+	"Symbol": "WETH-BECKY",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc3a1fc184f159574628d06a883676a38710ebb8d"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

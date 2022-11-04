@@ -1,0 +1,10 @@
+{
+	"Id": "0x710e8ef5baa62558d518f0a74e774cd440050559",
+	"Symbol": "WETH-HZONE",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfc07dfdd9f94ca4df1e147e0dc1cabf057a363e0"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

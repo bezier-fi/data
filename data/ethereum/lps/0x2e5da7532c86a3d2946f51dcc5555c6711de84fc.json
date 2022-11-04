@@ -1,0 +1,10 @@
+{
+	"Id": "0x2e5da7532c86a3d2946f51dcc5555c6711de84fc",
+	"Symbol": "NARUTO-WETH",
+	"UnderlyingTokens": [
+		"0xbfce0e06dedcbea3e170ba4df2a6793334cac5ef",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

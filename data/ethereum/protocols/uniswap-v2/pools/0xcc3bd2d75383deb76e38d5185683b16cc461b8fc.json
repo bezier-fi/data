@@ -1,0 +1,24 @@
+{
+	"Id": "0xcc3bd2d75383deb76e38d5185683b16cc461b8fc",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xcc3bd2d75383deb76e38d5185683b16cc461b8fc",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1ec1b3fffd5072d97b27110a667c35025c96d5c5"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GOBBLE-WETH",
+	"Chain": "ethereum"
+}

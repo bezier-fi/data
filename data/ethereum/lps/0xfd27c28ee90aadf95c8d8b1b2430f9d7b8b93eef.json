@@ -1,0 +1,10 @@
+{
+	"Id": "0xfd27c28ee90aadf95c8d8b1b2430f9d7b8b93eef",
+	"Symbol": "ADU-WETH",
+	"UnderlyingTokens": [
+		"0x22eee178a5781237c234cd7aeea4cba82c67306c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,24 @@
+{
+	"Id": "0xecfbe9b182f6477a93065c1c11271232147838e5",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xecfbe9b182f6477a93065c1c11271232147838e5",
+			"Apr": 1.3139011,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x865377367054516e17014ccded1e7d814edc9ce4"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DOLA-WETH",
+	"Chain": "ethereum"
+}

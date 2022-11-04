@@ -1,0 +1,10 @@
+{
+	"Id": "0x27852181b10c6aa95440d9f53af70d123178a0d8",
+	"Symbol": "JIGSAW-WETH",
+	"UnderlyingTokens": [
+		"0xb0d47dd82fb8facb1bc4ba534a836b545ad97d2b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

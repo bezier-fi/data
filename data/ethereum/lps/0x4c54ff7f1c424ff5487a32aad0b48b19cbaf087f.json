@@ -1,0 +1,10 @@
+{
+	"Id": "0x4c54ff7f1c424ff5487a32aad0b48b19cbaf087f",
+	"Symbol": "NEXO-WETH (0.30%)",
+	"UnderlyingTokens": [
+		"0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

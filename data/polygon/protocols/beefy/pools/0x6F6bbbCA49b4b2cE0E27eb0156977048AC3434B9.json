@@ -1,0 +1,21 @@
+{
+	"Id": "0x6F6bbbCA49b4b2cE0E27eb0156977048AC3434B9",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x6F6bbbCA49b4b2cE0E27eb0156977048AC3434B9",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xBF646010B1ae86aD7fBb4cFf5fd93C7019331Cc9"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CC10-ETH LP",
+	"Chain": "polygon"
+}

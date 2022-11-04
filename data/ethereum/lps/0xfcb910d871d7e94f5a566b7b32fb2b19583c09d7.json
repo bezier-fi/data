@@ -1,0 +1,10 @@
+{
+	"Id": "0xfcb910d871d7e94f5a566b7b32fb2b19583c09d7",
+	"Symbol": "LCX-WETH",
+	"UnderlyingTokens": [
+		"0x037a54aab062628c9bbae1fdb1583c195585fe41",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

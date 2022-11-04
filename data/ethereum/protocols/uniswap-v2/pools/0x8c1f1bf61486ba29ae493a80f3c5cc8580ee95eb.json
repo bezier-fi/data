@@ -1,0 +1,24 @@
+{
+	"Id": "0x8c1f1bf61486ba29ae493a80f3c5cc8580ee95eb",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x8c1f1bf61486ba29ae493a80f3c5cc8580ee95eb",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x77132bb08b02a7a87732ec289efab45edf49884f"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "RELIC-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,24 @@
+{
+	"Id": "0xb74b8fade150573a04738b8c116ae41501150cf0",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xb74b8fade150573a04738b8c116ae41501150cf0",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x347a29ea126a746c70e1ead570fddf438e66231a"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CUR-WETH (1.00%)",
+	"Chain": "ethereum"
+}

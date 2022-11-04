@@ -1,0 +1,21 @@
+{
+	"Id": "0xADA7F98fb2594E76914EB593e74B348A498Ea5Bd",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xADA7F98fb2594E76914EB593e74B348A498Ea5Bd",
+			"Apr": 48.458515,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x034293F21F1cCE5908BC605CE5850dF2b1059aC0"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BANANA-MATIC ALP",
+	"Chain": "polygon"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x97bc8c2c0606966ca4e8caa4389c67bd077888c4",
+	"Symbol": "WETH-TOPS",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf5a04b9e798892e96de68733ad8ffedda39b7e5a"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

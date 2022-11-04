@@ -1,0 +1,10 @@
+{
+	"Id": "0xa2fc0a09ed525ed1e1322472d3f71270c167e976",
+	"Symbol": "BASX-WETH",
+	"UnderlyingTokens": [
+		"0x23157662a9cb9be32d4d9bd019d9bcbaa040a62b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

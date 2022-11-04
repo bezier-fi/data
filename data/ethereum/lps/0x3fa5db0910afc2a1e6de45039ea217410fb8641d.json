@@ -1,0 +1,10 @@
+{
+	"Id": "0x3fa5db0910afc2a1e6de45039ea217410fb8641d",
+	"Symbol": "XCAD-USDC",
+	"UnderlyingTokens": [
+		"0x7659ce147d0e714454073a5dd7003544234b6aa0",
+		"0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

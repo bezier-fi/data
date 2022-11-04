@@ -1,0 +1,24 @@
+{
+	"Id": "0x5f5b3fe267c131f1680f3f64f835484d591a6d55",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x5f5b3fe267c131f1680f3f64f835484d591a6d55",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x38973ff6104a64c2d5d66d3f50a5fcd415f7b40d"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PerpMoon-WETH",
+	"Chain": "ethereum"
+}

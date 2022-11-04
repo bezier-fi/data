@@ -1,0 +1,10 @@
+{
+	"Id": "0x5d2c95651e0ee953b9abd8ec47ce2a165c852ae9",
+	"Symbol": "WETH-Pikachu",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe09fb60e8d6e7e1cebbe821bd5c3fc67a40f86bf"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

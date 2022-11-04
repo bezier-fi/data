@@ -1,0 +1,10 @@
+{
+	"Id": "0xaf72a4ea9fc3ab6c8b594c5dff0475a19e510912",
+	"Symbol": "WETH-DIBS",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xca5ad03ce960c0ef8954999cc3b0983c68c7ba8a"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,21 @@
+{
+	"Id": "0x1d7A7182043F521ab57Fe07a8420Fee9843E365e",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x1d7A7182043F521ab57Fe07a8420Fee9843E365e",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x25d56E2416f20De1Efb1F18fd06dD12eFeC3D3D0"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "QI-QUICK LP",
+	"Chain": "polygon"
+}

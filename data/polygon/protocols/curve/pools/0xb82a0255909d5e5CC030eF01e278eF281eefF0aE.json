@@ -1,0 +1,30 @@
+{
+	"Id": "0xb82a0255909d5e5CC030eF01e278eF281eefF0aE",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0xb82a0255909d5e5CC030eF01e278eF281eefF0aE",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x625E7708f30cA75bfd92586e17077590C60eb4cD"
+		},
+		{
+			"Address": "0x82E64f49Ed5EC1bC6e43DAD4FC8Af9bb3A2312EE"
+		},
+		{
+			"Address": "0xa3Fa99A148fA48D14Ed51d610c367C61876997F1"
+		},
+		{
+			"Address": "0x45c32fA6DF82ead1e2EF74d17b76547EDdFaFF89"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "4ROK-f",
+	"Chain": "polygon"
+}

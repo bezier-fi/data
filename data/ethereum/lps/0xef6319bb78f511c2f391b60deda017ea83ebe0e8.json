@@ -1,0 +1,10 @@
+{
+	"Id": "0xef6319bb78f511c2f391b60deda017ea83ebe0e8",
+	"Symbol": "DIE-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x6ef6610d24593805144d73b13d4405e00a4e4ac7",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

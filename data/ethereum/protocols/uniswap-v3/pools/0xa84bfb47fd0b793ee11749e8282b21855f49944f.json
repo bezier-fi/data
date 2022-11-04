@@ -1,0 +1,24 @@
+{
+	"Id": "0xa84bfb47fd0b793ee11749e8282b21855f49944f",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xa84bfb47fd0b793ee11749e8282b21855f49944f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5e9f7e92e742f73b990dca63c88325ed24666e84"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "KOO-WETH (1.00%)",
+	"Chain": "ethereum"
+}

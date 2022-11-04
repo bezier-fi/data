@@ -1,0 +1,10 @@
+{
+	"Id": "0x8da66b6e90cac30db0dce239086cfdb2dbf66a30",
+	"Symbol": "GNYerc20-WETH",
+	"UnderlyingTokens": [
+		"0xb1f871ae9462f1b2c6826e88a7827e76f86751d4",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

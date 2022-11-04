@@ -1,0 +1,24 @@
+{
+	"Id": "0x5b7daaa7d7a129f2cd9153ad0a3dcfa568e60662",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x5b7daaa7d7a129f2cd9153ad0a3dcfa568e60662",
+			"Apr": 32.09623,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		},
+		{
+			"Address": "0xcaa9ed6d7502595b555113d4517668ae24038c8a"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-MARVIN",
+	"Chain": "ethereum"
+}

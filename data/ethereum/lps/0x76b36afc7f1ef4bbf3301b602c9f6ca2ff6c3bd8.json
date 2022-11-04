@@ -1,0 +1,10 @@
+{
+	"Id": "0x76b36afc7f1ef4bbf3301b602c9f6ca2ff6c3bd8",
+	"Symbol": "INUGAMI-WETH",
+	"UnderlyingTokens": [
+		"0x5d8038644608d1f849ed2c6863a2ea667e53371a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

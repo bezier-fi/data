@@ -1,0 +1,10 @@
+{
+	"Id": "0xec05811cca9c3a918bc8ae13a27eaa4390541660",
+	"Symbol": "CORS-WETH",
+	"UnderlyingTokens": [
+		"0xac97f474845d68b946b5b93bbf6658c014c7720f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

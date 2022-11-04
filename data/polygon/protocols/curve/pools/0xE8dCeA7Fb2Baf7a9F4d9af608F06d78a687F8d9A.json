@@ -1,0 +1,24 @@
+{
+	"Id": "0xE8dCeA7Fb2Baf7a9F4d9af608F06d78a687F8d9A",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0xE8dCeA7Fb2Baf7a9F4d9af608F06d78a687F8d9A",
+			"Apr": 0.2409047,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8343091F2499FD4b6174A46D067A920a3b851FF9"
+		},
+		{
+			"Address": "0x6AE7Dfc73E0dDE2aa99ac063DcF7e8A63265108c"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "2jpy-f",
+	"Chain": "polygon"
+}

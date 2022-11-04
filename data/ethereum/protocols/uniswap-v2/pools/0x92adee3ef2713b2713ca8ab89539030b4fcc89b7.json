@@ -1,0 +1,24 @@
+{
+	"Id": "0x92adee3ef2713b2713ca8ab89539030b4fcc89b7",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x92adee3ef2713b2713ca8ab89539030b4fcc89b7",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5644bb2b594fcf6f74384d2ad26c68f02a47981c"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SMHDoge-WETH",
+	"Chain": "ethereum"
+}

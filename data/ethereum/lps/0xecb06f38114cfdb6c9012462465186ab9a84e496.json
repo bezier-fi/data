@@ -1,0 +1,10 @@
+{
+	"Id": "0xecb06f38114cfdb6c9012462465186ab9a84e496",
+	"Symbol": "BNV-WETH",
+	"UnderlyingTokens": [
+		"0x072987d5b36ad8d45552aed98879a7101ccdd749",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

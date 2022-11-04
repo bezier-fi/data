@@ -1,0 +1,24 @@
+{
+	"Id": "0xf50dde53ba7778023d12a7c198ed8aaecb5804c7",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xf50dde53ba7778023d12a7c198ed8aaecb5804c7",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x31bdfadc1c03bbbcaa807d8d28110e6d87c82e0d"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TAKA-WETH",
+	"Chain": "ethereum"
+}

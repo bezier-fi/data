@@ -1,0 +1,24 @@
+{
+	"Id": "0xd18748b9839b0081a867a1a871d5b562b2ec9884",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xd18748b9839b0081a867a1a871d5b562b2ec9884",
+			"Apr": 12.528703,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x57b946008913b82e4df85f501cbaed910e58d26c"
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "POND-USDC",
+	"Chain": "ethereum"
+}

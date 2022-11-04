@@ -1,0 +1,24 @@
+{
+	"Id": "0x02976320ef83e1413a9307b34c463a19ab484b5e",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0x02976320ef83e1413a9307b34c463a19ab484b5e",
+			"Apr": 44.82733,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		},
+		{
+			"Address": "0xfa14fa6958401314851a17d6c5360ca29f74b57b"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-SAITO (1.00%)",
+	"Chain": "ethereum"
+}

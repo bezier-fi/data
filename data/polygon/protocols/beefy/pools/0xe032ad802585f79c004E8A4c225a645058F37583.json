@@ -1,0 +1,21 @@
+{
+	"Id": "0xe032ad802585f79c004E8A4c225a645058F37583",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xe032ad802585f79c004E8A4c225a645058F37583",
+			"Apr": 37001184,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7D341B151DbFBFe97714f3EdEc98E26f2DD0e532"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CEL-MATIC LP",
+	"Chain": "polygon"
+}

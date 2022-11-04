@@ -1,0 +1,24 @@
+{
+	"Id": "0x3665ee432f5c0719de4ad58aa1af6772c81d182b",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0x3665ee432f5c0719de4ad58aa1af6772c81d182b",
+			"Apr": 24.213585,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x64df3aab3b21cc275bb76c4a581cf8b726478ee0"
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CRAMER-USDC (0.30%)",
+	"Chain": "ethereum"
+}

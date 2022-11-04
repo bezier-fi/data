@@ -1,0 +1,24 @@
+{
+	"Id": "0x81ae721d8b600a59a8a7196b1264fb976db2cc50",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x81ae721d8b600a59a8a7196b1264fb976db2cc50",
+			"Apr": 2.0163941,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6aedb157b9ca86e32200857aa2579d47098ace39"
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SPIRAL-USDC",
+	"Chain": "ethereum"
+}

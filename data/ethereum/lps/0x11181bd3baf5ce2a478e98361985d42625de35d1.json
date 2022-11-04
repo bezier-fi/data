@@ -1,0 +1,10 @@
+{
+	"Id": "0x11181bd3baf5ce2a478e98361985d42625de35d1",
+	"Symbol": "ASTO-USDC",
+	"UnderlyingTokens": [
+		"0x823556202e86763853b40e9cde725f412e294689",
+		"0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

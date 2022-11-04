@@ -1,0 +1,10 @@
+{
+	"Id": "0x03ebbcfa4d5542ca424139c0565d381cb59cbfa8",
+	"Symbol": "WETH-OROCHINU",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xdae3ac29efc14e25f7ec642534a70393499fa90f"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

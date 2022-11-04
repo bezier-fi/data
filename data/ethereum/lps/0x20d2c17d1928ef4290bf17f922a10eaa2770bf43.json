@@ -1,0 +1,10 @@
+{
+	"Id": "0x20d2c17d1928ef4290bf17f922a10eaa2770bf43",
+	"Symbol": "MUSE-WETH",
+	"UnderlyingTokens": [
+		"0xb6ca7399b4f9ca56fc27cbff44f4d2e4eef1fc81",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

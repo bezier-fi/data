@@ -1,0 +1,10 @@
+{
+	"Id": "0x12e80c27bffbb76b4a8d26ff2bfd3c9f310ffa01",
+	"Symbol": "SHKI-WETH",
+	"UnderlyingTokens": [
+		"0x9bd35a17c9c7c8820f89e0277e2046cdc57acb15",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

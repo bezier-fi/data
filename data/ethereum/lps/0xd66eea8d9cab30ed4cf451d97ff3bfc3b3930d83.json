@@ -1,0 +1,10 @@
+{
+	"Id": "0xd66eea8d9cab30ed4cf451d97ff3bfc3b3930d83",
+	"Symbol": "yUSD-WETH",
+	"UnderlyingTokens": [
+		"0x7438f341eac31d3449c8f62f9b8b3c65955f663b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

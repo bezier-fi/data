@@ -1,0 +1,21 @@
+{
+	"Id": "0xe95d14D09a8F6034C582bd993A2F2aA8ecEC72f0",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xe95d14D09a8F6034C582bd993A2F2aA8ecEC72f0",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x92Bb3233F59561FC1fEC53EfC3339E4Af8E917F4"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "AZUKI-ETH LP",
+	"Chain": "polygon"
+}

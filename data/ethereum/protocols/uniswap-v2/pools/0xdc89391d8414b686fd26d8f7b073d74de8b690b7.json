@@ -1,0 +1,24 @@
+{
+	"Id": "0xdc89391d8414b686fd26d8f7b073d74de8b690b7",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xdc89391d8414b686fd26d8f7b073d74de8b690b7",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3bd24cb2764f79e6f8f1328e42d7f8c7224c1e21"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USTAMA-WETH",
+	"Chain": "ethereum"
+}

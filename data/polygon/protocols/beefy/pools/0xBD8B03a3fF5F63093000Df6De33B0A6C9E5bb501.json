@@ -1,0 +1,21 @@
+{
+	"Id": "0xBD8B03a3fF5F63093000Df6De33B0A6C9E5bb501",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xBD8B03a3fF5F63093000Df6De33B0A6C9E5bb501",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7e2cc09d3d36b3aF6EdfF55B214fd62885234E95"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ICE-IRON LP",
+	"Chain": "polygon"
+}

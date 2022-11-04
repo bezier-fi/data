@@ -1,0 +1,27 @@
+{
+	"Id": "0xfA2AE38776b792f6629996B07FAa009a8cDEc5F9",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xfA2AE38776b792f6629996B07FAa009a8cDEc5F9",
+			"Apr": 1.9126045,
+			"GroupId": 0,
+			"Key": ""
+		},
+		{
+			"Address": "0xC3C7d422809852031b44ab29EEC9F1EfF2A58756",
+			"Apr": 15.512463,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1237feA0b26F68191d50900BfFD85E142697C423"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "stMATIC-MATIC sLP",
+	"Chain": "polygon"
+}

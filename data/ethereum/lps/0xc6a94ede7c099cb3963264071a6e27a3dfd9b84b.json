@@ -1,0 +1,10 @@
+{
+	"Id": "0xc6a94ede7c099cb3963264071a6e27a3dfd9b84b",
+	"Symbol": "PCI-WETH",
+	"UnderlyingTokens": [
+		"0xa1e6a81ec28f510d97dcd784aea23bae3837dffe",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

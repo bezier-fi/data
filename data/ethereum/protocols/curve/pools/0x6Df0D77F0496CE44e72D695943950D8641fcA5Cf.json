@@ -1,0 +1,36 @@
+{
+	"Id": "0x6Df0D77F0496CE44e72D695943950D8641fcA5Cf",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0x08ceA8E5B4551722dEB97113C139Dd83C26c5398",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		},
+		{
+			"Address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+			"Apr": 39.14935,
+			"GroupId": 0,
+			"Key": ""
+		},
+		{
+			"Address": "0xEdB67Ee1B171c4eC66E6c10EC43EDBbA20FaE8e9",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1CC481cE2BD2EC7Bf67d1Be64d4878b16078F309"
+		},
+		{
+			"Address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ibCHFUSDC-f",
+	"Chain": "ethereum"
+}

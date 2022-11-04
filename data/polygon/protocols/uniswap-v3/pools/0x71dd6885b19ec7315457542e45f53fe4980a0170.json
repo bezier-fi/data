@@ -1,0 +1,24 @@
+{
+	"Id": "0x71dd6885b19ec7315457542e45f53fe4980a0170",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0x71dd6885b19ec7315457542e45f53fe4980a0170",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2c826035c1c36986117a0e949bd6ad4bab54afe2"
+		},
+		{
+			"Address": "0xdc3326e71d45186f113a2f448984ca0e8d201995"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "XIDR-XSGD (0.05%)",
+	"Chain": "polygon"
+}

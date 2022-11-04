@@ -1,0 +1,24 @@
+{
+	"Id": "0x3ff06849fc887cc3ff31460bb37e505dbf860172",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0x3ff06849fc887cc3ff31460bb37e505dbf860172",
+			"Apr": 18.997839,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174"
+		},
+		{
+			"Address": "0xf2ae0038696774d65e67892c9d301c5f2cbbda58"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC-CXO (0.30%)",
+	"Chain": "polygon"
+}

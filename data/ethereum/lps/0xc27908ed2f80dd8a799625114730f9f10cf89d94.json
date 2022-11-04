@@ -1,0 +1,10 @@
+{
+	"Id": "0xc27908ed2f80dd8a799625114730f9f10cf89d94",
+	"Symbol": "EPIC-WETH",
+	"UnderlyingTokens": [
+		"0x4149195911eb592307d9acb08ac6a5de08b8717d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

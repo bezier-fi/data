@@ -1,0 +1,10 @@
+{
+	"Id": "0xf8b7db3268cc0bd9c61fbfbfde963a3727ba154d",
+	"Symbol": "TBAC-WETH (0.05%)",
+	"UnderlyingTokens": [
+		"0x591975253e25101f6e6f0383e13e82b7601d8c59",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

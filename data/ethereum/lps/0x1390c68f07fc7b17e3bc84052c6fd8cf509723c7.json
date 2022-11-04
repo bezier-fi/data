@@ -1,0 +1,10 @@
+{
+	"Id": "0x1390c68f07fc7b17e3bc84052c6fd8cf509723c7",
+	"Symbol": "WETH-BELLY",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xdac2ae92cfd3f32a557f7974bce63734912128da"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

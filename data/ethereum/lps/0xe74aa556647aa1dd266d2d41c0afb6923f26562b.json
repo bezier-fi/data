@@ -1,0 +1,10 @@
+{
+	"Id": "0xe74aa556647aa1dd266d2d41c0afb6923f26562b",
+	"Symbol": "WETH-Snake",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xea22020cb1dfcae1f977ddb3ef4506f0bf8056eb"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

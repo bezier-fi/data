@@ -1,0 +1,24 @@
+{
+	"Id": "0xf8d99cf7046dedcb1dc8cfc309aa96946c9b9db2",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xf8d99cf7046dedcb1dc8cfc309aa96946c9b9db2",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4aa41bc1649c9c3177ed16caaa11482295fc7441"
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "XFIT-USDT",
+	"Chain": "ethereum"
+}

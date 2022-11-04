@@ -1,0 +1,24 @@
+{
+	"Id": "0x34ff465ee92516e9855eb60f520df0384f410b45",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0x34ff465ee92516e9855eb60f520df0384f410b45",
+			"Apr": 0.116757184,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x57ab1ec28d129707052df4df418d58a2d46d5f51"
+		},
+		{
+			"Address": "0x853d955acef822db058eb8505911ed77f175b99e"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "sUSD-FRAX (0.05%)",
+	"Chain": "ethereum"
+}

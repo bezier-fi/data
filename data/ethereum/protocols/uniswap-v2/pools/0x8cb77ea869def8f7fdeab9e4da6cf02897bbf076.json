@@ -1,0 +1,24 @@
+{
+	"Id": "0x8cb77ea869def8f7fdeab9e4da6cf02897bbf076",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x8cb77ea869def8f7fdeab9e4da6cf02897bbf076",
+			"Apr": 0.8751439,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "AKRO-WETH",
+	"Chain": "ethereum"
+}

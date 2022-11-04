@@ -1,0 +1,10 @@
+{
+	"Id": "0x3ac1fb7b711fb8d0652f70327f9cb16729d779e3",
+	"Symbol": "WETH-BABBY",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe50b077ecaf6105a70f992fa83b0fdc6a062a349"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

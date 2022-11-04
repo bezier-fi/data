@@ -1,0 +1,10 @@
+{
+	"Id": "0x21d32b2dad83379adffae922395b10d6a94a99ec",
+	"Symbol": "SHICULT-WETH",
+	"UnderlyingTokens": [
+		"0x387c87975c5e36ebfe6f1e8f48bf988c0710fef2",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

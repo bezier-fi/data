@@ -1,0 +1,10 @@
+{
+	"Id": "0xc5d3c66133a6264b0f2e712b8e10ef96efb93eb2",
+	"Symbol": "LUA-WETH",
+	"UnderlyingTokens": [
+		"0xb1f66997a5760428d3a87d68b90bfe0ae64121cc",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

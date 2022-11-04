@@ -1,0 +1,10 @@
+{
+	"Id": "0xa5e79baee540f000ef6f23d067cd3ac22c7d9fe6",
+	"Symbol": "CEL-WETH",
+	"UnderlyingTokens": [
+		"0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

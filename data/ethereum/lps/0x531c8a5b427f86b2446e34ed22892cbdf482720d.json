@@ -1,0 +1,10 @@
+{
+	"Id": "0x531c8a5b427f86b2446e34ed22892cbdf482720d",
+	"Symbol": "HLNK-WETH",
+	"UnderlyingTokens": [
+		"0x536a7bcdccfaff3a9a2aa765369631db2f247b09",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

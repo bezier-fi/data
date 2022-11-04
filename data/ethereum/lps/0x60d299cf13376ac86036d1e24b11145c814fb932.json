@@ -1,0 +1,10 @@
+{
+	"Id": "0x60d299cf13376ac86036d1e24b11145c814fb932",
+	"Symbol": "WETH-IROH",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xdf8a9869001eac244a43c29ef8d0c7b2b2b26d3b"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

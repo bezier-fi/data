@@ -1,0 +1,24 @@
+{
+	"Id": "0x8927616110cf23c4e87dc98614eb9fbaae95216c",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x8927616110cf23c4e87dc98614eb9fbaae95216c",
+			"Apr": 1.5538592,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x68a3637ba6e75c0f66b61a42639c4e9fcd3d4824"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MOON-WETH",
+	"Chain": "ethereum"
+}

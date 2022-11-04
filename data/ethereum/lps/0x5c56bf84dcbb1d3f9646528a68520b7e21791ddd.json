@@ -1,0 +1,10 @@
+{
+	"Id": "0x5c56bf84dcbb1d3f9646528a68520b7e21791ddd",
+	"Symbol": "MYST-WETH",
+	"UnderlyingTokens": [
+		"0x4cf89ca06ad997bc732dc876ed2a7f26a9e7f361",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

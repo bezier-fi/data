@@ -1,0 +1,21 @@
+{
+	"Id": "0x5027da71EA7679775C3870A508cB1CdEFDbECa25",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x5027da71EA7679775C3870A508cB1CdEFDbECa25",
+			"Apr": 159861170000000,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xda7cd765DF426fCA6FB5E1438c78581E4e66bFe7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ETH-cxETH LP",
+	"Chain": "polygon"
+}

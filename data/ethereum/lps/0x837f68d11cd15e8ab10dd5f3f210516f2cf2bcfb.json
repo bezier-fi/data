@@ -1,0 +1,10 @@
+{
+	"Id": "0x837f68d11cd15e8ab10dd5f3f210516f2cf2bcfb",
+	"Symbol": "eMTRG-WETH",
+	"UnderlyingTokens": [
+		"0xbd2949f67dcdc549c6ebe98696449fa79d988a9f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

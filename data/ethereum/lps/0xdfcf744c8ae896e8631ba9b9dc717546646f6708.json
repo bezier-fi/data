@@ -1,0 +1,10 @@
+{
+	"Id": "0xdfcf744c8ae896e8631ba9b9dc717546646f6708",
+	"Symbol": "WETH-SAITO",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfa14fa6958401314851a17d6c5360ca29f74b57b"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xd0fbb87e47da9987d345dbdf3a34d4266cf5ebe9",
+	"Symbol": "DSLA-WETH",
+	"UnderlyingTokens": [
+		"0x3affcca64c2a6f4e3b6bd9c64cd2c969efd1ecbe",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

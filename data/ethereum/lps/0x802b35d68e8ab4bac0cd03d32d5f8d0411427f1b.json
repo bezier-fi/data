@@ -1,0 +1,10 @@
+{
+	"Id": "0x802b35d68e8ab4bac0cd03d32d5f8d0411427f1b",
+	"Symbol": "WETH-PLASMA",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd1e52726ad700ff6125570e780344d09d89ad9df"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

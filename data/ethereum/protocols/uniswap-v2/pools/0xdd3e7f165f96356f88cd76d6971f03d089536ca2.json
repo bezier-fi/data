@@ -1,0 +1,24 @@
+{
+	"Id": "0xdd3e7f165f96356f88cd76d6971f03d089536ca2",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xdd3e7f165f96356f88cd76d6971f03d089536ca2",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2559813bbb508c4c79e9ccce4703bcb1f149edd7"
+		},
+		{
+			"Address": "0x2e59d147962e2bb3fbdc52dc18cfba2653c06ccc"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WAIT-ZENI",
+	"Chain": "ethereum"
+}

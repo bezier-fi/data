@@ -1,0 +1,24 @@
+{
+	"Id": "0x0a824B5d4C96EA0EC46306Efbd34Bf88fE1277e0",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0x0a824B5d4C96EA0EC46306Efbd34Bf88fE1277e0",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0694bf58a4F48C5970454CD4874218eBa843Cf3e"
+		},
+		{
+			"Address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "renETH-f",
+	"Chain": "avalanche"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xcd4a2f72e3d646e8addab74a68c2175d6a36b0e3",
+	"Symbol": "WETH-DAFI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfc979087305a826c2b2a0056cfaba50aad3e6439"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

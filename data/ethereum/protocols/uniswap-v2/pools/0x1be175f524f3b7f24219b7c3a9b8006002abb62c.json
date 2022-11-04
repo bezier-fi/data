@@ -1,0 +1,24 @@
+{
+	"Id": "0x1be175f524f3b7f24219b7c3a9b8006002abb62c",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x1be175f524f3b7f24219b7c3a9b8006002abb62c",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		},
+		{
+			"Address": "0xdb0b407716954f69ee2be8cd21d578197bba4e0b"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-CHALLENGE",
+	"Chain": "ethereum"
+}

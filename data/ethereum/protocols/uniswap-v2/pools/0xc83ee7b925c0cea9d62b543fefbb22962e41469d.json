@@ -1,0 +1,24 @@
+{
+	"Id": "0xc83ee7b925c0cea9d62b543fefbb22962e41469d",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xc83ee7b925c0cea9d62b543fefbb22962e41469d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1533b4b0392b864a842a4ec57c258c2c1ac73806"
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "RYUTSUKA-USDC",
+	"Chain": "ethereum"
+}

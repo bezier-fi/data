@@ -1,0 +1,10 @@
+{
+	"Id": "0x0614b288dec998bf57c13f2d49fe5ecae732311b",
+	"Symbol": "NENRYO-WETH",
+	"UnderlyingTokens": [
+		"0x88e9b7261a0586242d83880824034ca0b5ddd5f6",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

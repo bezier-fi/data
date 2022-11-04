@@ -1,0 +1,10 @@
+{
+	"Id": "0xb0fb35cc576034b01bed6f4d0333b1bd3859615c",
+	"Symbol": "buidl-WETH",
+	"UnderlyingTokens": [
+		"0x7b123f53421b1bf8533339bfbdc7c98aa94163db",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

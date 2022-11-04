@@ -1,0 +1,21 @@
+{
+	"Id": "0x9F4316c10D5c3f148F072F6fa7E81413b7Da11a7",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x9F4316c10D5c3f148F072F6fa7E81413b7Da11a7",
+			"Apr": 57.377556,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x07D53b147eF96FAD1896D1156755A9Da7E06098E"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PAE-MATIC LP",
+	"Chain": "polygon"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x7d766c795cf1a5162eb7c20579fd6a925475dd13",
+	"Symbol": "YUMI-WETH",
+	"UnderlyingTokens": [
+		"0x25859743ed0861665611b81e47682e889b48313b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

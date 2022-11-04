@@ -1,0 +1,10 @@
+{
+	"Id": "0xda24d9aaa81529ecdba0b75e77375a34bf758fbb",
+	"Symbol": "RTGN-WETH",
+	"UnderlyingTokens": [
+		"0x304243a820d4a3718becc89a3f33513586162cf0",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

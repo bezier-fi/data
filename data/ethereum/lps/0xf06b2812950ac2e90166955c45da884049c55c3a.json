@@ -1,0 +1,10 @@
+{
+	"Id": "0xf06b2812950ac2e90166955c45da884049c55c3a",
+	"Symbol": "K9-WETH",
+	"UnderlyingTokens": [
+		"0x39682bb3f826e0461632284bc823e7cbd75e273b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

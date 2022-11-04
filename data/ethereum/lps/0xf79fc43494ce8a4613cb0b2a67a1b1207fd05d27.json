@@ -1,0 +1,10 @@
+{
+	"Id": "0xf79fc43494ce8a4613cb0b2a67a1b1207fd05d27",
+	"Symbol": "APE-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x4d224452801aced8b2f0aebe155379bb5d594381",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

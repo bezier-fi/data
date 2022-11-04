@@ -1,0 +1,10 @@
+{
+	"Id": "0xc3f6b81fb9e6db259272026601689e383f94c0b0",
+	"Symbol": "OVR-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x21bfbda47a0b4b5b1248c767ee49f7caa9b23697",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

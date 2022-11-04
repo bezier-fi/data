@@ -1,0 +1,10 @@
+{
+	"Id": "0xec7a6619c3b5c251ca6ac8ee3d126d66e9541050",
+	"Symbol": "WETH-HAPI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd9c2d319cd7e6177336b0a9c93c21cb48d84fb54"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

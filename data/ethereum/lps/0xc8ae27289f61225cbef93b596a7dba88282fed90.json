@@ -1,0 +1,10 @@
+{
+	"Id": "0xc8ae27289f61225cbef93b596a7dba88282fed90",
+	"Symbol": "EURO-HY",
+	"UnderlyingTokens": [
+		"0x25fd87d79a9fbe31b40a04728e00406311ccc369",
+		"0x9b53e429b0badd98ef7f01f03702986c516a5715"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

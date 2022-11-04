@@ -1,0 +1,30 @@
+{
+	"Id": "0x98a7F18d4E56Cfe84E3D081B40001B3d5bD3eB8B",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0x3D229E1B4faab62F621eF2F6A610961f7BD7b23B",
+			"Apr": 0.07283966,
+			"GroupId": 0,
+			"Key": ""
+		},
+		{
+			"Address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+			"Apr": 0.5686373,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+		},
+		{
+			"Address": "0xdB25f211AB05b1c97D595516F45794528a807ad8"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "eursusd",
+	"Chain": "ethereum"
+}

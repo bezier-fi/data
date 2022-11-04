@@ -1,0 +1,21 @@
+{
+	"Id": "0xe419f17821F10Ce741F67232406F6a8585d52005",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xe419f17821F10Ce741F67232406F6a8585d52005",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xD6d03fe131dB3dE3aF5E6326036BaC4C1Cf8C80d"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "miMatic-AVAX LP",
+	"Chain": "avalanche"
+}

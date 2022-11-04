@@ -1,0 +1,10 @@
+{
+	"Id": "0xa86fcb0a3b2b516a08e1369ece249ef467866ef2",
+	"Symbol": "WOPI-WETH",
+	"UnderlyingTokens": [
+		"0x7eaa78eac086eb73bfdb1c35cf5322dc5ccc54e9",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

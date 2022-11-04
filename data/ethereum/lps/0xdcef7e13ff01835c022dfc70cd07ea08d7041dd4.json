@@ -1,0 +1,10 @@
+{
+	"Id": "0xdcef7e13ff01835c022dfc70cd07ea08d7041dd4",
+	"Symbol": "BASAN-WETH",
+	"UnderlyingTokens": [
+		"0x970cf867ca0530a989f222be01fdd67c1ab5b2bf",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

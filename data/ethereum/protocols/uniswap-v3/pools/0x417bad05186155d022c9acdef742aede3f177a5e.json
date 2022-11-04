@@ -1,0 +1,24 @@
+{
+	"Id": "0x417bad05186155d022c9acdef742aede3f177a5e",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0x417bad05186155d022c9acdef742aede3f177a5e",
+			"Apr": 281.21304,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+		},
+		{
+			"Address": "0xd33526068d116ce69f19a9ee46f0bd304f21a51f"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC-RPL (1.00%)",
+	"Chain": "ethereum"
+}

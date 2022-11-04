@@ -1,0 +1,10 @@
+{
+	"Id": "0xbaa48ef52fe0cf3a2682c1247b18d4274a988132",
+	"Symbol": "HORD-WETH",
+	"UnderlyingTokens": [
+		"0x43a96962254855f16b925556f9e97be436a43448",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

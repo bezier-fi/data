@@ -1,0 +1,24 @@
+{
+	"Id": "0xd325774441083c87608745ced2cc16b4462b9d79",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xd325774441083c87608745ced2cc16b4462b9d79",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7714f320adca62b149df2579361afec729c5fe6a"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TUP-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,24 @@
+{
+	"Id": "0x91d9d17EFD378f38a48122AE6Ec01B2E83d1Ac98",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0x85bc2193Cd594CdDaFABeD3f4Fca48849A9968f8",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x03ab458634910AaD20eF5f1C8ee96F1D6ac54919"
+		},
+		{
+			"Address": "0x6B175474E89094C44Da98b954EedeAC495271d0F"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "RAIDAI-2-f",
+	"Chain": "ethereum"
+}

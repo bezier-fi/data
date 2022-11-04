@@ -1,0 +1,10 @@
+{
+	"Id": "0x9437ad40056ca3ec2fc1efe41885ad4b6ac46061",
+	"Symbol": "RNG-WETH (0.30%)",
+	"UnderlyingTokens": [
+		"0x3b94440c8c4f69d5c9f47bab9c5a93064df460f5",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

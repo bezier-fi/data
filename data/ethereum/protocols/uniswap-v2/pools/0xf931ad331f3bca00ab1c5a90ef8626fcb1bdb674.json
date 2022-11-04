@@ -1,0 +1,24 @@
+{
+	"Id": "0xf931ad331f3bca00ab1c5a90ef8626fcb1bdb674",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xf931ad331f3bca00ab1c5a90ef8626fcb1bdb674",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x454ac60ff1ca150d14b3cf41d27b1d0a45222ab4"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FRINU-WETH",
+	"Chain": "ethereum"
+}

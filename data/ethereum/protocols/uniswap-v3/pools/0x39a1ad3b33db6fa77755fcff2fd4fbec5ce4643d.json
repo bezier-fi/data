@@ -1,0 +1,24 @@
+{
+	"Id": "0x39a1ad3b33db6fa77755fcff2fd4fbec5ce4643d",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0x39a1ad3b33db6fa77755fcff2fd4fbec5ce4643d",
+			"Apr": 12.50062,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7e9c15c43f0d6c4a12e6bdff7c7d55d0f80e3e23"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ASTRA-WETH (0.30%)",
+	"Chain": "ethereum"
+}

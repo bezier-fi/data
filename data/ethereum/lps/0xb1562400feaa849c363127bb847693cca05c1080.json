@@ -1,0 +1,10 @@
+{
+	"Id": "0xb1562400feaa849c363127bb847693cca05c1080",
+	"Symbol": "FOUR-WETH",
+	"UnderlyingTokens": [
+		"0x4730fb1463a6f1f44aeb45f6c5c422427f37f4d0",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

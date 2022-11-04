@@ -1,0 +1,21 @@
+{
+	"Id": "0xbC94bDb5393CBABF9B319E892abC95B93B5949A8",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xbC94bDb5393CBABF9B319E892abC95B93B5949A8",
+			"Apr": 4.16397,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3f54C58092e9735AD23cf296ee3aF81F5a44a5bc"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MAI-FRAX sLP",
+	"Chain": "polygon"
+}

@@ -1,0 +1,21 @@
+{
+	"Id": "0xf7e1226F6f98D1981e88Da328347F0E2131A2864",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xf7e1226F6f98D1981e88Da328347F0E2131A2864",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2857Ec555c1E4fA20982AcBf985b8b8807157A5B"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SNX-ETH LP",
+	"Chain": "polygon"
+}

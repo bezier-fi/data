@@ -1,0 +1,10 @@
+{
+	"Id": "0x2a4d547ea2c35d03a501a8bb5d12d81d0a222dc5",
+	"Symbol": "WETH-GFI (1.00%)",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xdab396ccf3d84cf2d07c4454e10c8a6f5b008d2b"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

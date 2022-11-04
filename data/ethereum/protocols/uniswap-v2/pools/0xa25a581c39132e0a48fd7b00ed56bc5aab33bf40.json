@@ -1,0 +1,24 @@
+{
+	"Id": "0xa25a581c39132e0a48fd7b00ed56bc5aab33bf40",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xa25a581c39132e0a48fd7b00ed56bc5aab33bf40",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xae0344b086472e398f156ea4bcbb6de402b4c9e5"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BUSHI-WETH",
+	"Chain": "ethereum"
+}

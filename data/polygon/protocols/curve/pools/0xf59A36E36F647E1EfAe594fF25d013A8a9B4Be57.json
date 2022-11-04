@@ -1,0 +1,24 @@
+{
+	"Id": "0xf59A36E36F647E1EfAe594fF25d013A8a9B4Be57",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0xf59A36E36F647E1EfAe594fF25d013A8a9B4Be57",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1c40Ac03AacAF5F85808674E526E9c26309DB92F"
+		},
+		{
+			"Address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MALTDAI-f",
+	"Chain": "polygon"
+}

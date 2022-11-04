@@ -1,0 +1,10 @@
+{
+	"Id": "0xc0e30ff7e079a6ebb88d068dc27f98517dfb6b0c",
+	"Symbol": "TREND-WETH",
+	"UnderlyingTokens": [
+		"0x0cc0d75340c0658ec370859252f40ed92620a807",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

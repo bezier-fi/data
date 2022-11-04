@@ -1,0 +1,10 @@
+{
+	"Id": "0x7c7acba9e3474985c17f99430a6807c5ca29bb4d",
+	"Symbol": "WETH-RARI (1.00%)",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfca59cd816ab1ead66534d82bc21e7515ce441cf"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

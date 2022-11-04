@@ -1,0 +1,10 @@
+{
+	"Id": "0xa932dab125bcf1f5e2536e106409ea79847bb72a",
+	"Symbol": "POCHI-WETH",
+	"UnderlyingTokens": [
+		"0x8eb1779a32678452eb273a22d413207299904d90",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,21 @@
+{
+	"Id": "0xE71f3C11D4535a7F8c5FB03FDA57899B2C9c721F",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xE71f3C11D4535a7F8c5FB03FDA57899B2C9c721F",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC",
+	"Chain": "polygon"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xed3d14e625b92c2df18497129cca3023a3df208a",
+	"Symbol": "ORBS-WETH",
+	"UnderlyingTokens": [
+		"0xafbdee205cd3b4cd4358065f8a2781cf58eae514",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

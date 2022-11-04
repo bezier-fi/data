@@ -1,0 +1,24 @@
+{
+	"Id": "0x65831fa22e3c5ba2314f39e0f163a9c020c590b4",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x65831fa22e3c5ba2314f39e0f163a9c020c590b4",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984"
+		},
+		{
+			"Address": "0xcf9c692f7e62af3c571d4173fd4abf9a3e5330d0"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "UNI-ONIGIRI",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,21 @@
+{
+	"Id": "0x1A723371f9dc30653dafd826B60d9335bf867E35",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x1A723371f9dc30653dafd826B60d9335bf867E35",
+			"Apr": 68.42021,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xB5C064F955D8e7F38fE0460C556a72987494eE17"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "newQUICK",
+	"Chain": "polygon"
+}

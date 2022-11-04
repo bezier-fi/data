@@ -1,0 +1,10 @@
+{
+	"Id": "0xee09d851b4ba4642ab0f8a6ebebb1293fee9c0fb",
+	"Symbol": "CLIFF-WETH",
+	"UnderlyingTokens": [
+		"0x1b9baf2a3edea91ee431f02d449a1044d5726669",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x75efd92ff443c3d3342eaa64dd32be387f5ef328",
+	"Symbol": "CHUBBIES20-WETH",
+	"UnderlyingTokens": [
+		"0x48bef6bd05bd23b5e6800cf0406e524b517af250",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

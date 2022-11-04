@@ -1,0 +1,24 @@
+{
+	"Id": "0x84a349f82b124e16be4e3a1b762dc871672a9f53",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x84a349f82b124e16be4e3a1b762dc871672a9f53",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1504a36a58261d8201f6087bda6fb07f75d4e31b"
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Gotchu-USDC",
+	"Chain": "ethereum"
+}

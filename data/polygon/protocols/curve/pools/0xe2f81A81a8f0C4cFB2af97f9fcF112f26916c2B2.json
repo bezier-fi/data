@@ -1,0 +1,24 @@
+{
+	"Id": "0xe2f81A81a8f0C4cFB2af97f9fcF112f26916c2B2",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0xe2f81A81a8f0C4cFB2af97f9fcF112f26916c2B2",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xB355f4F4CC84a9429a59d5c2B98d77016f7EC482"
+		},
+		{
+			"Address": "0xE7a24EF0C5e95Ffb0f6684b813A78F2a3AD7D171"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDBTCBR3CRV-f",
+	"Chain": "polygon"
+}

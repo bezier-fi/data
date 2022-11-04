@@ -1,0 +1,24 @@
+{
+	"Id": "0xbf2b11394d69bba1f75b0f83ce446b6b1fdb87b9",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xbf2b11394d69bba1f75b0f83ce446b6b1fdb87b9",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		},
+		{
+			"Address": "0xcedd636c602da779754286ad6efeef7db99e3b22"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-SHIROX",
+	"Chain": "ethereum"
+}

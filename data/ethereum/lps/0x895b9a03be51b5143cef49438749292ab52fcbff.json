@@ -1,0 +1,10 @@
+{
+	"Id": "0x895b9a03be51b5143cef49438749292ab52fcbff",
+	"Symbol": "SHIBALDO-WETH",
+	"UnderlyingTokens": [
+		"0x6dc776fe7e5930ad824fc58e2eb39628d9f2e23d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xba08c283487849fe5c14d1d1e5f93f84092819f0",
+	"Symbol": "SLIME-WETH",
+	"UnderlyingTokens": [
+		"0x638f24096ff33e047e05e59fabc76325207090dc",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

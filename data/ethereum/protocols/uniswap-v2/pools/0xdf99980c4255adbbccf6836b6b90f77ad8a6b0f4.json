@@ -1,0 +1,24 @@
+{
+	"Id": "0xdf99980c4255adbbccf6836b6b90f77ad8a6b0f4",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xdf99980c4255adbbccf6836b6b90f77ad8a6b0f4",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2f0f622a93c85c43fd47f4ab119360f5846026c4"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MatsuSwap-WETH",
+	"Chain": "ethereum"
+}

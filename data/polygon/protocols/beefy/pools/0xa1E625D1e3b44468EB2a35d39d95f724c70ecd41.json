@@ -1,0 +1,21 @@
+{
+	"Id": "0xa1E625D1e3b44468EB2a35d39d95f724c70ecd41",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xa1E625D1e3b44468EB2a35d39d95f724c70ecd41",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x79b368B3Aa34fF2044F7869024b5367A284D3b0E"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ALPHA-MATIC LP",
+	"Chain": "polygon"
+}

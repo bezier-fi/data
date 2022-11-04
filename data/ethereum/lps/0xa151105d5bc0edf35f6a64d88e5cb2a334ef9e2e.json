@@ -1,0 +1,10 @@
+{
+	"Id": "0xa151105d5bc0edf35f6a64d88e5cb2a334ef9e2e",
+	"Symbol": "$PALS-WETH",
+	"UnderlyingTokens": [
+		"0x5b6a35c90d7f7d25899ee52f1aa63344a5be786f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

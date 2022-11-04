@@ -1,0 +1,10 @@
+{
+	"Id": "0x75001b3ffe0f77864c7dc64c55e1e22b205e4a07",
+	"Symbol": "FVT-WETH",
+	"UnderlyingTokens": [
+		"0x45080a6531d671ddff20db42f93792a489685e32",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

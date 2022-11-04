@@ -1,0 +1,24 @@
+{
+	"Id": "0xa703f8d610369088f14f2a9954cd1cb394032c03",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xa703f8d610369088f14f2a9954cd1cb394032c03",
+			"Apr": 0.794678,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x667102bd3413bfeaa3dffb48fa8288819e480a88"
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TKX-USDC",
+	"Chain": "ethereum"
+}

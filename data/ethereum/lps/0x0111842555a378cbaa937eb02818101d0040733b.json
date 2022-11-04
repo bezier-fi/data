@@ -1,0 +1,10 @@
+{
+	"Id": "0x0111842555a378cbaa937eb02818101d0040733b",
+	"Symbol": "BPF-WETH",
+	"UnderlyingTokens": [
+		"0x5197fbe1a86679ff1360e27862bf88b0c5119bd8",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

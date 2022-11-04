@@ -1,0 +1,10 @@
+{
+	"Id": "0x04ebbe0f7f8aeaeff397752260129a81fb2d8ce2",
+	"Symbol": "POCH-WETH",
+	"UnderlyingTokens": [
+		"0x4e13eb58e82e69df05160c7335ffb464c2a22c4a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

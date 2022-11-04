@@ -1,0 +1,24 @@
+{
+	"Id": "0x5421d5e6128a6be3eecfa06afd05f72cd7ab0284",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x5421d5e6128a6be3eecfa06afd05f72cd7ab0284",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		},
+		{
+			"Address": "0xec02f6e35183d46da66c55f2aac1ad6f45474a8c"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-APING",
+	"Chain": "ethereum"
+}

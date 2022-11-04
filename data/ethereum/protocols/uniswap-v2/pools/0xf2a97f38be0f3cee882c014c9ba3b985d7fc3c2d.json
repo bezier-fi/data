@@ -1,0 +1,24 @@
+{
+	"Id": "0xf2a97f38be0f3cee882c014c9ba3b985d7fc3c2d",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xf2a97f38be0f3cee882c014c9ba3b985d7fc3c2d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x55ae8e43172e91fab2a9e97636023f4c87b4c470"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BERSERK-WETH",
+	"Chain": "ethereum"
+}

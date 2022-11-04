@@ -1,0 +1,10 @@
+{
+	"Id": "0xb77d9e046acd08f3e71cfe5b42df45c53bb3c7fa",
+	"Symbol": "TWEETINU-WETH",
+	"UnderlyingTokens": [
+		"0x6b70e68f15722aee8e0354db1b780b2370fd96eb",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,24 @@
+{
+	"Id": "0xc6447cca7804a0b20b540977b299d2845e854c22",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xc6447cca7804a0b20b540977b299d2845e854c22",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3a0b022f32b3191d44e5847da12dc0b63fb07c91"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SPELLFIRE-WETH",
+	"Chain": "ethereum"
+}

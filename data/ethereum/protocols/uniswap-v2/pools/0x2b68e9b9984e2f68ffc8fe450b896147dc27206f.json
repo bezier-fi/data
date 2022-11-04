@@ -1,0 +1,24 @@
+{
+	"Id": "0x2b68e9b9984e2f68ffc8fe450b896147dc27206f",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x2b68e9b9984e2f68ffc8fe450b896147dc27206f",
+			"Apr": 1.3687481,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6595b8fd9c920c81500dca94e53cdc712513fb1f"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "OLY-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x6d051fe6f3f53dce2981757b480c468c22e91983",
+	"Symbol": "WETH-DCMC",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd85301d4ab345b901a0ef369f69f7e6ff06b97a3"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

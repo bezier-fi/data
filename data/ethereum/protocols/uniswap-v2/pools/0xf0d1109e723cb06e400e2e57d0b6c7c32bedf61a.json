@@ -1,0 +1,24 @@
+{
+	"Id": "0xf0d1109e723cb06e400e2e57d0b6c7c32bedf61a",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xf0d1109e723cb06e400e2e57d0b6c7c32bedf61a",
+			"Apr": 3.0551245,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa91ac63d040deb1b7a5e4d4134ad23eb0ba07e14"
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BEL-USDT",
+	"Chain": "ethereum"
+}

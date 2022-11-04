@@ -1,0 +1,24 @@
+{
+	"Id": "0x81212149b983602474fcD0943E202f38b38d7484",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0x81212149b983602474fcD0943E202f38b38d7484",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xE0B52e49357Fd4DAf2c15e02058DCE6BC0057db4"
+		},
+		{
+			"Address": "0xAd326c253A84e9805559b73A08724e11E49ca651"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "agEUR+4eur-f",
+	"Chain": "polygon"
+}

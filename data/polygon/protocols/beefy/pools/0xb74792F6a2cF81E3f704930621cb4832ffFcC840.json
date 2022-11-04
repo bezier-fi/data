@@ -1,0 +1,21 @@
+{
+	"Id": "0xb74792F6a2cF81E3f704930621cb4832ffFcC840",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xb74792F6a2cF81E3f704930621cb4832ffFcC840",
+			"Apr": 28.70984,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xaDdc9C73f3CBaD4E647eAFf691715898825Ac20c"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TEL-BTC QLP",
+	"Chain": "polygon"
+}

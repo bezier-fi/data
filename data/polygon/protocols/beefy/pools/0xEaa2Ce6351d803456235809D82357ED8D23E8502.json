@@ -1,0 +1,21 @@
+{
+	"Id": "0xEaa2Ce6351d803456235809D82357ED8D23E8502",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xEaa2Ce6351d803456235809D82357ED8D23E8502",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7E02A82a9F2b96eE2836c5C64c44e0aB13020f4b"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BICO-ETH LP",
+	"Chain": "polygon"
+}

@@ -1,0 +1,21 @@
+{
+	"Id": "0xa5529E47C3086D93bB59aB99ca2B20d0Ee2EFcAe",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xa5529E47C3086D93bB59aB99ca2B20d0Ee2EFcAe",
+			"Apr": 14.09459,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1e08A5B6A1694bC1A65395db6f4c506498DAA349"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DYST-MATIC vLP",
+	"Chain": "polygon"
+}

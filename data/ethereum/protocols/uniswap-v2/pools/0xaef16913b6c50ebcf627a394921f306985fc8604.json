@@ -1,0 +1,24 @@
+{
+	"Id": "0xaef16913b6c50ebcf627a394921f306985fc8604",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xaef16913b6c50ebcf627a394921f306985fc8604",
+			"Apr": 4.7136354,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "STORJ-WETH",
+	"Chain": "ethereum"
+}

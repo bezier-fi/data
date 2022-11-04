@@ -1,0 +1,24 @@
+{
+	"Id": "0xa986f2a12d85c44429f574ba50c0e21052b18ba1",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xa986f2a12d85c44429f574ba50c0e21052b18ba1",
+			"Apr": 7.1100316,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x55296f69f40ea6d20e478533c15a6b08b654e758"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "XYO-WETH",
+	"Chain": "ethereum"
+}

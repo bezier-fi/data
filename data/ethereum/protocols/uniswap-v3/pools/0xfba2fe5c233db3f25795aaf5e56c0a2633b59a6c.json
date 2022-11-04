@@ -1,0 +1,24 @@
+{
+	"Id": "0xfba2fe5c233db3f25795aaf5e56c0a2633b59a6c",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xfba2fe5c233db3f25795aaf5e56c0a2633b59a6c",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1571ed0bed4d987fe2b498ddbae7dfa19519f651"
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "iFARM-USDC (1.00%)",
+	"Chain": "ethereum"
+}

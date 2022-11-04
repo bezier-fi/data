@@ -1,0 +1,24 @@
+{
+	"Id": "0xcb57a7eac6ad4ba80e48edea2cb426d6576ab681",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xcb57a7eac6ad4ba80e48edea2cb426d6576ab681",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6b175474e89094c44da98b954eedeac495271d0f"
+		},
+		{
+			"Address": "0xd83c569268930fadad4cde6d0cb64450fef32b65"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DAI-ICAP",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x6d9d2427cfa49e39b4667c4c3f627e56ae586f37",
+	"Symbol": "ROYA-WETH",
+	"UnderlyingTokens": [
+		"0x7eaf9c89037e4814dc0d9952ac7f888c784548db",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

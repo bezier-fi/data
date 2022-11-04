@@ -1,0 +1,10 @@
+{
+	"Id": "0x2b1b8052eed6467967d047b58b71f8e9ffa057b5",
+	"Symbol": "CIV-WETH (0.30%)",
+	"UnderlyingTokens": [
+		"0x37fe0f067fa808ffbdd12891c0858532cfe7361d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

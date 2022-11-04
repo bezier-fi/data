@@ -1,0 +1,24 @@
+{
+	"Id": "0xde93684627d4e34d6ef96adf5bcabf10bbd8dd81",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xde93684627d4e34d6ef96adf5bcabf10bbd8dd81",
+			"Apr": 1.6716887,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xac51066d7bec65dc4589368da368b212745d63e8"
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ALICE-USDT",
+	"Chain": "ethereum"
+}

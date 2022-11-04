@@ -1,0 +1,10 @@
+{
+	"Id": "0x19a0d1D428425ef397966Bce6c798bEDC3030035",
+	"Symbol": "ethfrax-f",
+	"UnderlyingTokens": [
+		"0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+		"0x853d955aCEf822Db058eb8505911ED77F175b99e"
+	],
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Chain": "ethereum"
+}

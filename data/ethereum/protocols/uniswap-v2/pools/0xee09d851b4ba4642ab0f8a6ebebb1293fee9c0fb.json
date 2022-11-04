@@ -1,0 +1,24 @@
+{
+	"Id": "0xee09d851b4ba4642ab0f8a6ebebb1293fee9c0fb",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xee09d851b4ba4642ab0f8a6ebebb1293fee9c0fb",
+			"Apr": 1.074687,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1b9baf2a3edea91ee431f02d449a1044d5726669"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CLIFF-WETH",
+	"Chain": "ethereum"
+}

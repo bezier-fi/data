@@ -1,0 +1,10 @@
+{
+	"Id": "0x5d752f322befb038991579972e912b02f61a3dda",
+	"Symbol": "AGLD-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x32353a6c91143bfd6c7d363b546e62a9a2489a20",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

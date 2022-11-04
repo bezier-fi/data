@@ -1,0 +1,10 @@
+{
+	"Id": "0x8ed6bbe56121ae2c9d2f4ff5c2d42355a0053650",
+	"Symbol": "M31-WETH",
+	"UnderlyingTokens": [
+		"0x4f17589c1b4cff459abbe1456892c26ed8be7a2b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

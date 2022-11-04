@@ -1,0 +1,10 @@
+{
+	"Id": "0x6f23d2fedb4ff4f1e9f8c521f66e5f2a1451b6f3",
+	"Symbol": "MARK-WETH",
+	"UnderlyingTokens": [
+		"0x67c597624b17b16fb77959217360b7cd18284253",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

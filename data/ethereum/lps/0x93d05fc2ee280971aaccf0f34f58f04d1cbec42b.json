@@ -1,0 +1,10 @@
+{
+	"Id": "0x93d05fc2ee280971aaccf0f34f58f04d1cbec42b",
+	"Symbol": "WOLVERINU-WETH",
+	"UnderlyingTokens": [
+		"0x7cc97bf17c5adabe25f9d19d15a1ec8a1ad65f14",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

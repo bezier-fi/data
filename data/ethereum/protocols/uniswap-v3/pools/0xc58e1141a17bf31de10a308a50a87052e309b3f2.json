@@ -1,0 +1,24 @@
+{
+	"Id": "0xc58e1141a17bf31de10a308a50a87052e309b3f2",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xc58e1141a17bf31de10a308a50a87052e309b3f2",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7c8155909cd385f120a56ef90728dd50f9ccbe52"
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "NII-USDC (1.00%)",
+	"Chain": "ethereum"
+}

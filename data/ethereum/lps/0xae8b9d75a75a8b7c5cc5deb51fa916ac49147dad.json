@@ -1,0 +1,10 @@
+{
+	"Id": "0xae8b9d75a75a8b7c5cc5deb51fa916ac49147dad",
+	"Symbol": "DEPO-WETH",
+	"UnderlyingTokens": [
+		"0xa5def515cfd373d17830e7c1de1639cb3530a112",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,24 @@
+{
+	"Id": "0xf99110f141c36bde7fb21f1de10392cc33ff0c9b",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xf99110f141c36bde7fb21f1de10392cc33ff0c9b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		},
+		{
+			"Address": "0xd90ed51734974a22c0631013c51397692bed6514"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-KIRI",
+	"Chain": "ethereum"
+}

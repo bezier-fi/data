@@ -1,0 +1,10 @@
+{
+	"Id": "0x5fb253c88736d01b47ed894ee504a952cf91e4c0",
+	"Symbol": "WATERTIGER-WETH",
+	"UnderlyingTokens": [
+		"0x5b3a609509e1ccf197c18cc51fb32850a7cb818c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

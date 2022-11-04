@@ -1,0 +1,24 @@
+{
+	"Id": "0xfd76be67fff3bac84e3d5444167bbc018f5968b6",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xfd76be67fff3bac84e3d5444167bbc018f5968b6",
+			"Apr": 371.42505,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		},
+		{
+			"Address": "0xf57e7e7c23978c3caec3c3548e3d615c346e79ff"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-IMX (1.00%)",
+	"Chain": "ethereum"
+}

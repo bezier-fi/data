@@ -1,0 +1,10 @@
+{
+	"Id": "0x4ce3687fed17e19324f23e305593ab13bbd55c4d",
+	"Symbol": "FUSE-WETH",
+	"UnderlyingTokens": [
+		"0x970b9bb2c0444f5e81e9d0efb84c8ccdcdcaf84d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

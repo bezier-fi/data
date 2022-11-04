@@ -1,0 +1,10 @@
+{
+	"Id": "0x7aacf9e1e3f8e01d991628485e30a6641fcd8d81",
+	"Symbol": "JGN-WETH",
+	"UnderlyingTokens": [
+		"0x73374ea518de7addd4c2b624c0e8b113955ee041",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

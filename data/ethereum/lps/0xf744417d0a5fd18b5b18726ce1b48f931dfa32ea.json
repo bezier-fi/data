@@ -1,0 +1,10 @@
+{
+	"Id": "0xf744417d0a5fd18b5b18726ce1b48f931dfa32ea",
+	"Symbol": "WETH-RAC",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc22b30e4cce6b78aaaadae91e44e73593929a3e9"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

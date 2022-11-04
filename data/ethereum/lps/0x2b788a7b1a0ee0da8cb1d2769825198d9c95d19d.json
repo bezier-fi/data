@@ -1,0 +1,10 @@
+{
+	"Id": "0x2b788a7b1a0ee0da8cb1d2769825198d9c95d19d",
+	"Symbol": "TERA-WETH",
+	"UnderlyingTokens": [
+		"0x009668a9691e456972c8ec4cc84e99486308b84d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

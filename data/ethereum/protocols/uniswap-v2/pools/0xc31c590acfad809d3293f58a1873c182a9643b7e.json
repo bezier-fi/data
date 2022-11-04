@@ -1,0 +1,24 @@
+{
+	"Id": "0xc31c590acfad809d3293f58a1873c182a9643b7e",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xc31c590acfad809d3293f58a1873c182a9643b7e",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x60f5672a271c7e39e787427a18353ba59a4a3578"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PIKA-WETH",
+	"Chain": "ethereum"
+}

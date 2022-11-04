@@ -1,0 +1,24 @@
+{
+	"Id": "0xe53533f78787c63735c77c9e2f9c60081b942cdb",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xe53533f78787c63735c77c9e2f9c60081b942cdb",
+			"Apr": 0.1060061,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x88a9a52f944315d5b4e917b9689e65445c401e83"
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FEAR-USDT",
+	"Chain": "ethereum"
+}

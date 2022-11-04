@@ -1,0 +1,10 @@
+{
+	"Id": "0x95c4ad9e99121dcc33566b99c47e7deadcb72de1",
+	"Symbol": "CFLOKI-WETH",
+	"UnderlyingTokens": [
+		"0x84047ffa9aec28f45acd8b7072f0f1f00345d99a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

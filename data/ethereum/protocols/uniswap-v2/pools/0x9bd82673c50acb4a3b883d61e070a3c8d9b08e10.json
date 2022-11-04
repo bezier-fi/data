@@ -1,0 +1,24 @@
+{
+	"Id": "0x9bd82673c50acb4a3b883d61e070a3c8d9b08e10",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x9bd82673c50acb4a3b883d61e070a3c8d9b08e10",
+			"Apr": 5.681393,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6b175474e89094c44da98b954eedeac495271d0f"
+		},
+		{
+			"Address": "0xeef9f339514298c6a857efcfc1a762af84438dee"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DAI-HEZ",
+	"Chain": "ethereum"
+}

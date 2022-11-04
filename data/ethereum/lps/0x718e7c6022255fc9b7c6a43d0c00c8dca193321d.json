@@ -1,0 +1,10 @@
+{
+	"Id": "0x718e7c6022255fc9b7c6a43d0c00c8dca193321d",
+	"Symbol": "WETH-KRZ",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf54b304e2e4b28c7e46619d1a340f9b2b72383d7"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

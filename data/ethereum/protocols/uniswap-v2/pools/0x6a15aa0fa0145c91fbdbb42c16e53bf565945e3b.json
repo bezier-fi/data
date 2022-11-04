@@ -1,0 +1,24 @@
+{
+	"Id": "0x6a15aa0fa0145c91fbdbb42c16e53bf565945e3b",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x6a15aa0fa0145c91fbdbb42c16e53bf565945e3b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		},
+		{
+			"Address": "0xebc76e0407123a8ac29b851203e8a16f5bcb6728"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-SALUD",
+	"Chain": "ethereum"
+}

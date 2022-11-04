@@ -1,0 +1,10 @@
+{
+	"Id": "0xad36750ce07ce42978444c359c05cc88d087cbe1",
+	"Symbol": "MWG-WETH",
+	"UnderlyingTokens": [
+		"0x45128cb743951121fb70cb570c0784492732778a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,24 @@
+{
+	"Id": "0x3abb02fb560b07488e264a8e5934b1258503680d",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0x3abb02fb560b07488e264a8e5934b1258503680d",
+			"Apr": 763.8297,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0cba60ca5ef4d42f92a5070a8fedd13be93e2861"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "THE-WETH (1.00%)",
+	"Chain": "ethereum"
+}

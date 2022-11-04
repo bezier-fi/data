@@ -1,0 +1,21 @@
+{
+	"Id": "0x8440DAe4E1002e83D57fbFD6d33E6F3684a35036",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x8440DAe4E1002e83D57fbFD6d33E6F3684a35036",
+			"Apr": 3.45785,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5b13B583D4317aB15186Ed660A1E4C65C10da659"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC-DAI ALP",
+	"Chain": "polygon"
+}

@@ -1,0 +1,21 @@
+{
+	"Id": "0x91a55E4b057119e20334258f7C5EAB8822491CEb",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x91a55E4b057119e20334258f7C5EAB8822491CEb",
+			"Apr": 20.303362,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xF6a637525402643B0654a54bEAd2Cb9A83C8B498"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WBTC-USDC LP",
+	"Chain": "polygon"
+}

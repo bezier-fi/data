@@ -1,0 +1,21 @@
+{
+	"Id": "0x831AF875102d934894D1aE29BDf13deA3729cAeA",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x831AF875102d934894D1aE29BDf13deA3729cAeA",
+			"Apr": 88.330246,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa0f330F5Fc47eE7A3297DBD6Be6Fe60cd0346B26"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "LDO-MATIC LP",
+	"Chain": "polygon"
+}

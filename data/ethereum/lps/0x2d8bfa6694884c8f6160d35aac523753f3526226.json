@@ -1,0 +1,10 @@
+{
+	"Id": "0x2d8bfa6694884c8f6160d35aac523753f3526226",
+	"Symbol": "DNBUY-WETH",
+	"UnderlyingTokens": [
+		"0x576c1472cf47a8e033f20681222be604440eb283",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,24 @@
+{
+	"Id": "0x78Af761a6030B1011296BecAdA3068eEEdD97795",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0x5AF9840A5Ace0B99D3dfE57D07212e375ae4124c",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9a058f205173b06DC288aFBA0f13AA9BC0fdf49C"
+		},
+		{
+			"Address": "0x624f468a020719B0c550508595F3b3eB3390A9cD"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CLEVETH-f",
+	"Chain": "polygon"
+}

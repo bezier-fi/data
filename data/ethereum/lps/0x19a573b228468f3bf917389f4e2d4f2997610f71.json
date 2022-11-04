@@ -1,0 +1,10 @@
+{
+	"Id": "0x19a573b228468f3bf917389f4e2d4f2997610f71",
+	"Symbol": "WETH-PRE (1.00%)",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xec213f83defb583af3a000b1c0ada660b1902a0f"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

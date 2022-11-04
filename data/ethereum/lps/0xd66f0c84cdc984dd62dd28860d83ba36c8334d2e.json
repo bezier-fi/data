@@ -1,0 +1,10 @@
+{
+	"Id": "0xd66f0c84cdc984dd62dd28860d83ba36c8334d2e",
+	"Symbol": "ZVOID-WETH",
+	"UnderlyingTokens": [
+		"0x4526fd312105a0d89ec2c7632ae98518f7b059ea",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

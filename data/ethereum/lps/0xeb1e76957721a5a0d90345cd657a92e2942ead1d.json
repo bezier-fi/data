@@ -1,0 +1,10 @@
+{
+	"Id": "0xeb1e76957721a5a0d90345cd657a92e2942ead1d",
+	"Symbol": "WETH-HIKARI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd4126f195a8de772eeffa61a4ab6dd43462f4e39"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

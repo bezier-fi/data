@@ -1,0 +1,10 @@
+{
+	"Id": "0x93c63cab70225568de9f56559c63a0d2de30bc1b",
+	"Symbol": "GOO-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x600000000a36f3cd48407e35eb7c5c910dc1f7a8",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

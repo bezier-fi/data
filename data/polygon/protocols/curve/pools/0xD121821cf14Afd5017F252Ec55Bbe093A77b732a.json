@@ -1,0 +1,24 @@
+{
+	"Id": "0xD121821cf14Afd5017F252Ec55Bbe093A77b732a",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0xD121821cf14Afd5017F252Ec55Bbe093A77b732a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
+		},
+		{
+			"Address": "0x7D645CBbCAdE2A130bF1bf0528b8541d32D3f8Cf"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "LertoMatic-f",
+	"Chain": "polygon"
+}

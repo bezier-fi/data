@@ -1,0 +1,21 @@
+{
+	"Id": "0x3AD9cd8d75f7a711Caea58e725425A9dC0D249c4",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x3AD9cd8d75f7a711Caea58e725425A9dC0D249c4",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x116Ff0d1Caa91a6b94276b3471f33dbeB52073E7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SNX-ETH SLP",
+	"Chain": "polygon"
+}

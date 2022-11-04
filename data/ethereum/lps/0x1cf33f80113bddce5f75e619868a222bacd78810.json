@@ -1,0 +1,10 @@
+{
+	"Id": "0x1cf33f80113bddce5f75e619868a222bacd78810",
+	"Symbol": "ANITV-WETH",
+	"UnderlyingTokens": [
+		"0xaa601f6bde0c586a0045c5a185a4d4ca4124c865",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

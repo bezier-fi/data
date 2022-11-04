@@ -1,0 +1,10 @@
+{
+	"Id": "0xc122c429f9d5b8340acc52d2beb7155262f828fe",
+	"Symbol": "MNBASE-WETH",
+	"UnderlyingTokens": [
+		"0x3073b6384e32e103ea4ac09b4b14aed01275bc8f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

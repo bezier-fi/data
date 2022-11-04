@@ -1,0 +1,24 @@
+{
+	"Id": "0xBE775DEB31B4ee5841a8B4564c9F3294987023Fe",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0xBE775DEB31B4ee5841a8B4564c9F3294987023Fe",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
+		},
+		{
+			"Address": "0x62414D03084EeB269E18C970a21f45D2967F0170"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CRVTest-f",
+	"Chain": "polygon"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x6fad7d44640c5cd0120deec0301e8cf850becb68",
+	"Symbol": "CORE-cBTC",
+	"UnderlyingTokens": [
+		"0x62359ed7505efc61ff1d56fef82158ccaffa23d7",
+		"0x7b5982dcab054c377517759d0d2a3a5d02615ab8"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

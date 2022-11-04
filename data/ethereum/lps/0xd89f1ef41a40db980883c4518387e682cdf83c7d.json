@@ -1,0 +1,10 @@
+{
+	"Id": "0xd89f1ef41a40db980883c4518387e682cdf83c7d",
+	"Symbol": "AGRS-WETH",
+	"UnderlyingTokens": [
+		"0x738865301a9b7dd80dc3666dd48cf034ec42bdda",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

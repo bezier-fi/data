@@ -1,0 +1,24 @@
+{
+	"Id": "0xa2eba33af2de4432696b0eca8be114d3f028badc",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xa2eba33af2de4432696b0eca8be114d3f028badc",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x77777feddddffc19ff86db637967013e6c6a116c"
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TORN-USDC (1.00%)",
+	"Chain": "ethereum"
+}

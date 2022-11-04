@@ -1,0 +1,10 @@
+{
+	"Id": "0xb58347e7062c1d2b9ada674f08ca4707ab03d758",
+	"Symbol": "WETH-CONVOY",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc97a20bfc3f9755763648c5171b6763230954b7b"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

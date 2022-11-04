@@ -1,0 +1,24 @@
+{
+	"Id": "0x9572069ab3e6392fd6746b2c1ecb55da8538dcc3",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x9572069ab3e6392fd6746b2c1ecb55da8538dcc3",
+			"Apr": 5.522678,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		},
+		{
+			"Address": "0xee2b297408063e0967096bafdcfd1278d5bf1b8a"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-$DOSA",
+	"Chain": "ethereum"
+}

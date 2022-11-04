@@ -1,0 +1,24 @@
+{
+	"Id": "0xbd233d685ede81e00faaefebd55150c76778a34e",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xbd233d685ede81e00faaefebd55150c76778a34e",
+			"Apr": 41.58427,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		},
+		{
+			"Address": "0xf80d589b3dbe130c270a69f1a69d050f268786df"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-DAM (1.00%)",
+	"Chain": "ethereum"
+}

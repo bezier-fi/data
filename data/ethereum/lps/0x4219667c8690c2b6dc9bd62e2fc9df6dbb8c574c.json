@@ -1,0 +1,10 @@
+{
+	"Id": "0x4219667c8690c2b6dc9bd62e2fc9df6dbb8c574c",
+	"Symbol": "TCOMP-WETH",
+	"UnderlyingTokens": [
+		"0x0df33e0bd15aac2ae53bd1348232688904a00c0d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,24 @@
+{
+	"Id": "0x93e7dec988e24b08cc1606061b232deeb80ffbf8",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x93e7dec988e24b08cc1606061b232deeb80ffbf8",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x691ace5e56507c008d836c8c58ed93546bdc81ff"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "RCORE-WETH",
+	"Chain": "ethereum"
+}

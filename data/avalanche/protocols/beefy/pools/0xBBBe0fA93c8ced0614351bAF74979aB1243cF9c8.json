@@ -1,0 +1,21 @@
+{
+	"Id": "0xBBBe0fA93c8ced0614351bAF74979aB1243cF9c8",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xBBBe0fA93c8ced0614351bAF74979aB1243cF9c8",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5764b8D8039C6E32f1e5d8DE8Da05DdF974EF5D3"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WBTC.e-AVAX LP",
+	"Chain": "avalanche"
+}

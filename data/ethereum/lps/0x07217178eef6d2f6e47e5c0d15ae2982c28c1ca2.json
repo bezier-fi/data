@@ -1,0 +1,10 @@
+{
+	"Id": "0x07217178eef6d2f6e47e5c0d15ae2982c28c1ca2",
+	"Symbol": "TEH PPL-WETH",
+	"UnderlyingTokens": [
+		"0x84bb1a4f71ae8a2f088f3ea5c1caf26ee174fa78",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,24 @@
+{
+	"Id": "0x9ccd72368c13a92ea738bd885317c2ba5b667fad",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x9ccd72368c13a92ea738bd885317c2ba5b667fad",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x383b0b2ce2e1757b5e1d087d8f36013ea595541a"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "HEAL-WETH",
+	"Chain": "ethereum"
+}

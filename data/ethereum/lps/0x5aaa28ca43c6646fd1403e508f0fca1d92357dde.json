@@ -1,0 +1,10 @@
+{
+	"Id": "0x5aaa28ca43c6646fd1403e508f0fca1d92357dde",
+	"Symbol": "LCX-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x037a54aab062628c9bbae1fdb1583c195585fe41",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

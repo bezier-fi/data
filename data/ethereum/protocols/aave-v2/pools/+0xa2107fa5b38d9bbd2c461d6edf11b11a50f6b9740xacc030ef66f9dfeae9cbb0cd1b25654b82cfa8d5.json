@@ -1,0 +1,21 @@
+{
+	"Id": "0xa2107fa5b38d9bbd2c461d6edf11b11a50f6b9740xacc030ef66f9dfeae9cbb0cd1b25654b82cfa8d5",
+	"Protocol": "27d88614-071b-4e2b-a57b-1cc6a09c4cd1",
+	"Outputs": [
+		{
+			"Address": "0xb8db81b84d30e2387de0ff330420a4aaa6688134",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa2107fa5b38d9bbd2c461d6edf11b11a50f6b974"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "AmmUniLINKWETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x3a7466aa23669d895fd2d3cc020e067dbd252026",
+	"Symbol": "WAGMII-WETH",
+	"UnderlyingTokens": [
+		"0x508847a05868cfbc4f9f30a881dcbf1859d07cc7",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

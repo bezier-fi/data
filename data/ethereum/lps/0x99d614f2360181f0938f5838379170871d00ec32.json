@@ -1,0 +1,10 @@
+{
+	"Id": "0x99d614f2360181f0938f5838379170871d00ec32",
+	"Symbol": "GAMA-WETH",
+	"UnderlyingTokens": [
+		"0x5d578dfc2c60636bbaa07cbd22dfec56f9f8f945",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

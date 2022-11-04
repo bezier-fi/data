@@ -1,0 +1,10 @@
+{
+	"Id": "0xb6f301d1123434ffba2233905e5174683f8bc8d9",
+	"Symbol": "CRUNCH-WETH",
+	"UnderlyingTokens": [
+		"0x244bad271209c6f7c1758953157c8f0d2f8f7ce5",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

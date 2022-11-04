@@ -1,0 +1,30 @@
+{
+	"Id": "0xfB8814D005C5f32874391e888da6eB2fE7a27902",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0x6359B6d3e327c497453d4376561eE276c6933323",
+			"Apr": 0.058419082,
+			"GroupId": 0,
+			"Key": ""
+		},
+		{
+			"Address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+			"Apr": 9.027645,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+		},
+		{
+			"Address": "0x73968b9a57c6E53d41345FD57a6E6ae27d6CDB2F"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SDTETH-f",
+	"Chain": "ethereum"
+}

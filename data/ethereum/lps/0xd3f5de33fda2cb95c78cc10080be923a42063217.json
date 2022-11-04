@@ -1,0 +1,10 @@
+{
+	"Id": "0xd3f5de33fda2cb95c78cc10080be923a42063217",
+	"Symbol": "Kish-WETH",
+	"UnderlyingTokens": [
+		"0x4515eb2b008bc25a733d7eb1be3b84872259cc64",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

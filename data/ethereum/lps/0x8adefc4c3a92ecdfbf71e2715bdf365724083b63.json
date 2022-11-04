@@ -1,0 +1,10 @@
+{
+	"Id": "0x8adefc4c3a92ecdfbf71e2715bdf365724083b63",
+	"Symbol": "EGOD-WETH",
+	"UnderlyingTokens": [
+		"0x2f0b287275fc50a1cb854797927a12a98d3b9460",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

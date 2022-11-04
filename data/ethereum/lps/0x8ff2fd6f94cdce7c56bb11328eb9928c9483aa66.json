@@ -1,0 +1,10 @@
+{
+	"Id": "0x8ff2fd6f94cdce7c56bb11328eb9928c9483aa66",
+	"Symbol": "MINDS-WETH",
+	"UnderlyingTokens": [
+		"0xb26631c6dda06ad89b93c71400d25692de89c068",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

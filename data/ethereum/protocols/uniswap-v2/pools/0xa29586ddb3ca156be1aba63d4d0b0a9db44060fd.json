@@ -1,0 +1,24 @@
+{
+	"Id": "0xa29586ddb3ca156be1aba63d4d0b0a9db44060fd",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xa29586ddb3ca156be1aba63d4d0b0a9db44060fd",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		},
+		{
+			"Address": "0xf50a07e4ff052a14f3f608da8936d8ae0ed5be50"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-FLOKIPUP",
+	"Chain": "ethereum"
+}

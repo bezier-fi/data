@@ -1,0 +1,10 @@
+{
+	"Id": "0x2dfee82f4250dd3f3c6811c5d2926ede8b37a7d5",
+	"Symbol": "JUP-WETH",
+	"UnderlyingTokens": [
+		"0x4b1e80cac91e2216eeb63e29b957eb91ae9c2be8",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

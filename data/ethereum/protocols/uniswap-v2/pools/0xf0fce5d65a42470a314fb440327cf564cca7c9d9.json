@@ -1,0 +1,24 @@
+{
+	"Id": "0xf0fce5d65a42470a314fb440327cf564cca7c9d9",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xf0fce5d65a42470a314fb440327cf564cca7c9d9",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		},
+		{
+			"Address": "0xdffc63f92c939deb112d88735ade3b4d21b6d491"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-RESTAURANTS",
+	"Chain": "ethereum"
+}

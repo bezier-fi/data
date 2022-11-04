@@ -1,0 +1,10 @@
+{
+	"Id": "0xd8901e4b3681955635c9b41b144828629d59d739",
+	"Symbol": "TRL-WETH",
+	"UnderlyingTokens": [
+		"0x58f9102bf53cf186682bd9a281d3cd3c616eec41",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,21 @@
+{
+	"Id": "0xBe1C35d3349555Ba9eEa38AB1A21a6Db0Bb0fCdD",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xBe1C35d3349555Ba9eEa38AB1A21a6Db0Bb0fCdD",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xcFe2cF35D2bDDE84967e67d00aD74237e234CE59"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PUP",
+	"Chain": "polygon"
+}

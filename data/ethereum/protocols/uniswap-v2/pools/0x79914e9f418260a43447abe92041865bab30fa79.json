@@ -1,0 +1,24 @@
+{
+	"Id": "0x79914e9f418260a43447abe92041865bab30fa79",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x79914e9f418260a43447abe92041865bab30fa79",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa720a23756a1a98ee485724dcc793b1923d7a282"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "HALO-WETH",
+	"Chain": "ethereum"
+}

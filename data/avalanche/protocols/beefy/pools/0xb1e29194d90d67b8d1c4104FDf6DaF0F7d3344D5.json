@@ -1,0 +1,21 @@
+{
+	"Id": "0xb1e29194d90d67b8d1c4104FDf6DaF0F7d3344D5",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xb1e29194d90d67b8d1c4104FDf6DaF0F7d3344D5",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x361221991B3B6282fF3a62Bc874d018bfAF1f8C8"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BIFI-AVAX LP",
+	"Chain": "avalanche"
+}

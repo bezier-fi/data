@@ -1,0 +1,21 @@
+{
+	"Id": "0xa83171B123a18303c5aed8F5D20AeA6CfdF76Bc6",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xa83171B123a18303c5aed8F5D20AeA6CfdF76Bc6",
+			"Apr": 8.745484,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xC9e4a017ae5c2F89C085c534A38a3e6d3A183A43"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BIFI-MATIC vLP",
+	"Chain": "polygon"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0xD79138c49c49200a1Afc935171D1bDAd084FDc95",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0xD79138c49c49200a1Afc935171D1bDAd084FDc95",
+			"Apr": 0.21239403,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb599c3590F42f8F995ECfa0f85D2980B76862fc1"
+		},
+		{
+			"Address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E"
+		},
+		{
+			"Address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "3pool-f",
+	"Chain": "avalanche"
+}

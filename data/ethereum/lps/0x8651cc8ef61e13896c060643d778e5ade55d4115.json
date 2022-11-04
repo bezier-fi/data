@@ -1,0 +1,10 @@
+{
+	"Id": "0x8651cc8ef61e13896c060643d778e5ade55d4115",
+	"Symbol": "PLE-WETH",
+	"UnderlyingTokens": [
+		"0xaeeaa9c0ecd8d50ab7fcd159bddad0f52ce360c2",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

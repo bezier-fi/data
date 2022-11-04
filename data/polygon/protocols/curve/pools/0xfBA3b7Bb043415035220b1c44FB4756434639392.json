@@ -1,0 +1,24 @@
+{
+	"Id": "0xfBA3b7Bb043415035220b1c44FB4756434639392",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0xfBA3b7Bb043415035220b1c44FB4756434639392",
+			"Apr": 0.36756033,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x750e4C4984a9e0f12978eA6742Bc1c5D248f40ed"
+		},
+		{
+			"Address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "AXELARUSDC-f",
+	"Chain": "polygon"
+}

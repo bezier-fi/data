@@ -1,0 +1,10 @@
+{
+	"Id": "0x64c29aac69d3122f6e5531ceca1b753f95350af4",
+	"Symbol": "BOND-WETH",
+	"UnderlyingTokens": [
+		"0x5dc02ea99285e17656b8350722694c35154db1e8",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

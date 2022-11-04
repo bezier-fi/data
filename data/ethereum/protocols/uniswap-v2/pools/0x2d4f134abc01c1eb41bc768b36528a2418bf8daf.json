@@ -1,0 +1,24 @@
+{
+	"Id": "0x2d4f134abc01c1eb41bc768b36528a2418bf8daf",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x2d4f134abc01c1eb41bc768b36528a2418bf8daf",
+			"Apr": 1.7490447,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x82d3829d97fc2d9987f7ce966486e86bd04716d5"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GOWLD-WETH",
+	"Chain": "ethereum"
+}

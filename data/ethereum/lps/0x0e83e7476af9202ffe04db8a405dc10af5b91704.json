@@ -1,0 +1,10 @@
+{
+	"Id": "0x0e83e7476af9202ffe04db8a405dc10af5b91704",
+	"Symbol": "FlokiGame-WETH",
+	"UnderlyingTokens": [
+		"0x8f6835ae0caa8c40894cb6a36c3c4c47f5f6ee84",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

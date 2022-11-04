@@ -1,0 +1,24 @@
+{
+	"Id": "0xeaceac83cecca6beebc736edd6360d1633175b01",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xeaceac83cecca6beebc736edd6360d1633175b01",
+			"Apr": 2.241304,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3936ad01cf109a36489d93cabda11cf062fd3d48"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "COIL-WETH",
+	"Chain": "ethereum"
+}

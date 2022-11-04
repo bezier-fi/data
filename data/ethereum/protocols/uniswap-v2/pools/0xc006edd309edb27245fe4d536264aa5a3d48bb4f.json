@@ -1,0 +1,24 @@
+{
+	"Id": "0xc006edd309edb27245fe4d536264aa5a3d48bb4f",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xc006edd309edb27245fe4d536264aa5a3d48bb4f",
+			"Apr": 2.4313502,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3a82d3111ab5faf39d847d46023d9090261a658f"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TYC-WETH",
+	"Chain": "ethereum"
+}

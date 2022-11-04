@@ -1,0 +1,24 @@
+{
+	"Id": "0x45a54b0caa59c722da5f37d90ec8c5c09d870df0",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x45a54b0caa59c722da5f37d90ec8c5c09d870df0",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xaba8e97a0c1fcee7bf679585b343f11411ba5f55"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SLRR-WETH",
+	"Chain": "ethereum"
+}

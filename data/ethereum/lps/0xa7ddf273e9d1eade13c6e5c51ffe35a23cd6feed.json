@@ -1,0 +1,10 @@
+{
+	"Id": "0xa7ddf273e9d1eade13c6e5c51ffe35a23cd6feed",
+	"Symbol": "ARM-WETH",
+	"UnderlyingTokens": [
+		"0x330046ce4ca9d4556f814b466cd72d1065f22f4c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

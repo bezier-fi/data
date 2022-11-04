@@ -1,0 +1,10 @@
+{
+	"Id": "0xe5d028350093a743a9769e6fd7f5546eeddaa320",
+	"Symbol": "icETH-WETH (0.05%)",
+	"UnderlyingTokens": [
+		"0x7c07f7abe10ce8e33dc6c5ad68fe033085256a84",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,24 @@
+{
+	"Id": "0xb87b5cb00c8263a64e5cd51e777be3f6e65643ad",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xb87b5cb00c8263a64e5cd51e777be3f6e65643ad",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x557b933a7c2c45672b610f8954a3deb39a51a8ca"
+		},
+		{
+			"Address": "0x5c147e74d63b1d31aa3fd78eb229b65161983b2b"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "REVV-WFLOW (0.30%)",
+	"Chain": "ethereum"
+}

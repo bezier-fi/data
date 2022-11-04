@@ -1,0 +1,10 @@
+{
+	"Id": "0x80562222ec4d0f8a2bddd10ce972cbb2d6167802",
+	"Symbol": "CAVA-WETH",
+	"UnderlyingTokens": [
+		"0x456d8f0d25a4e787ee60c401f8b963a465148f70",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

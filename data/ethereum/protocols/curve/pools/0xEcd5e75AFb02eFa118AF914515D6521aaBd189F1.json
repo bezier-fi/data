@@ -1,0 +1,30 @@
+{
+	"Id": "0xEcd5e75AFb02eFa118AF914515D6521aaBd189F1",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0xEcd5e75AFb02eFa118AF914515D6521aaBd189F1",
+			"Apr": 0.08547549,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x085d4780B73119B644aE5ECd22b3760000000000"
+		},
+		{
+			"Address": "0x9094C44dA98B954EEdEAc495271D0F0000000000"
+		},
+		{
+			"Address": "0x218B36C1d19d4A2E9eb0cE3606Eb480000000000"
+		},
+		{
+			"Address": "0x2Ee523a2206206994597C13D831EC70000000000"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "tusd",
+	"Chain": "ethereum"
+}

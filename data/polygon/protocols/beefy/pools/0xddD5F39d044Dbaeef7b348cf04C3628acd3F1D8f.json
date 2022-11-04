@@ -1,0 +1,21 @@
+{
+	"Id": "0xddD5F39d044Dbaeef7b348cf04C3628acd3F1D8f",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xddD5F39d044Dbaeef7b348cf04C3628acd3F1D8f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xd53a56AE0f48c9a03660cd36c2E4ae20493a1Eca"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FRAX-FXS SLP",
+	"Chain": "polygon"
+}

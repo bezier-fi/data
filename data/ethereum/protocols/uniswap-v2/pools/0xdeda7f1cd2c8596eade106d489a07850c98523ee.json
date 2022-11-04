@@ -1,0 +1,24 @@
+{
+	"Id": "0xdeda7f1cd2c8596eade106d489a07850c98523ee",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xdeda7f1cd2c8596eade106d489a07850c98523ee",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		},
+		{
+			"Address": "0xdee6c4434727830d52171c23a56da1fa0c8d5864"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-Twoge",
+	"Chain": "ethereum"
+}

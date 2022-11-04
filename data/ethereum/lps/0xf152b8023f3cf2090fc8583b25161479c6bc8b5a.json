@@ -1,0 +1,10 @@
+{
+	"Id": "0xf152b8023f3cf2090fc8583b25161479c6bc8b5a",
+	"Symbol": "8BitInu-WETH",
+	"UnderlyingTokens": [
+		"0x2ace4e2e816c3fb0b6e6fd4d695bba63a62b4841",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

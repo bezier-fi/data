@@ -1,0 +1,10 @@
+{
+	"Id": "0x5390e2cf29f38c5969e014daf769d1da482ed329",
+	"Symbol": "WETH-MORK",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf552b656022c218c26dad43ad88881fc04116f76"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

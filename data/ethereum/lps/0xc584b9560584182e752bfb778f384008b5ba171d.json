@@ -1,0 +1,10 @@
+{
+	"Id": "0xc584b9560584182e752bfb778f384008b5ba171d",
+	"Symbol": "WETH-$CYNU",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc08aed2f49d3660714248bae28196e2f46c33d2b"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

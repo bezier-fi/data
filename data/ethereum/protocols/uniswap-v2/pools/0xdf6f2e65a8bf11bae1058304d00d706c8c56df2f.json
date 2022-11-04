@@ -1,0 +1,24 @@
+{
+	"Id": "0xdf6f2e65a8bf11bae1058304d00d706c8c56df2f",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xdf6f2e65a8bf11bae1058304d00d706c8c56df2f",
+			"Apr": 11.775787,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x340db8f29e85fe95d6355e49914127a8b88597ac"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PANDA-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,21 @@
+{
+	"Id": "0xa2e51538fce9d2D8082988921be4C0afC3Fe089a",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xa2e51538fce9d2D8082988921be4C0afC3Fe089a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x39BEd7f1C412ab64443196A6fEcb2ac20C707224"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "UST-USDT LP",
+	"Chain": "polygon"
+}

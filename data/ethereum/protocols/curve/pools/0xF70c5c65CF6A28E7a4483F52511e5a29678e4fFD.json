@@ -1,0 +1,27 @@
+{
+	"Id": "0xF70c5c65CF6A28E7a4483F52511e5a29678e4fFD",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0xF70c5c65CF6A28E7a4483F52511e5a29678e4fFD",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xEE586e7Eaad39207F0549BC65f19e336942C992f"
+		},
+		{
+			"Address": "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8"
+		},
+		{
+			"Address": "0x1aBaEA1f7C830bD89Acc67eC4af516284b1bC33c"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "europool-f",
+	"Chain": "ethereum"
+}

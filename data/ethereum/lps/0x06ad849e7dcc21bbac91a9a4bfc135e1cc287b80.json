@@ -1,0 +1,10 @@
+{
+	"Id": "0x06ad849e7dcc21bbac91a9a4bfc135e1cc287b80",
+	"Symbol": "ABYSS-WETH",
+	"UnderlyingTokens": [
+		"0x255dba44adc4ea0093d8327423c2ec57952fbf3a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

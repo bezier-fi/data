@@ -1,0 +1,10 @@
+{
+	"Id": "0x8f30ba1f75ec27a014591789d117a1bb4703bff8",
+	"Symbol": "SHAKE-WETH",
+	"UnderlyingTokens": [
+		"0x6006fc2a849fedaba8330ce36f5133de01f96189",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

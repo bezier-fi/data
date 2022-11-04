@@ -1,0 +1,27 @@
+{
+	"Id": "0x1da20Ac34187b2d9c74F729B85acB225D3341b25",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0x1da20Ac34187b2d9c74F729B85acB225D3341b25",
+			"Apr": 0.07512738,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x111111111111ed1D73f860F57b2798b683f2d325"
+		},
+		{
+			"Address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E"
+		},
+		{
+			"Address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "YUSDCRV-f",
+	"Chain": "avalanche"
+}

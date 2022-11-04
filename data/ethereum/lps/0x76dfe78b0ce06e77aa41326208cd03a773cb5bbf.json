@@ -1,0 +1,10 @@
+{
+	"Id": "0x76dfe78b0ce06e77aa41326208cd03a773cb5bbf",
+	"Symbol": "WETH-BABYSAITAMA",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf79f9020560963422ecc9c0c04d3a21190bbf045"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,24 @@
+{
+	"Id": "0x9e1dd0c33af7871b7a10e0bec8f913418894ed32",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x9e1dd0c33af7871b7a10e0bec8f913418894ed32",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		},
+		{
+			"Address": "0xf562a25108ea91642cb5a8e7c4c4a6cf91e4e4c8"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-ZILLA",
+	"Chain": "ethereum"
+}

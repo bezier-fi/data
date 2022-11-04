@@ -1,0 +1,10 @@
+{
+	"Id": "0x1921b852f38bc68430780242b2628d0ca14cef83",
+	"Symbol": "WETH-NCDT",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe0c8b298db4cffe05d1bea0bb1ba414522b33c1b"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

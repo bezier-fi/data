@@ -1,0 +1,10 @@
+{
+	"Id": "0xa2074f8857972ce0049ec8348ac2e75e7a32b821",
+	"Symbol": "CMERGE-WETH",
+	"UnderlyingTokens": [
+		"0x1190074795dad0e61b61270de48e108427f8f817",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

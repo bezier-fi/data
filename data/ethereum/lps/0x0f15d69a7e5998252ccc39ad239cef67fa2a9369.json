@@ -1,0 +1,10 @@
+{
+	"Id": "0x0f15d69a7e5998252ccc39ad239cef67fa2a9369",
+	"Symbol": "Ogopogo-WETH",
+	"UnderlyingTokens": [
+		"0x608a911ff9f2cf21e92f48f0c2f7a70390aa8f7e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

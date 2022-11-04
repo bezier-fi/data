@@ -1,0 +1,24 @@
+{
+	"Id": "0xb36ec83d844c0579ec2493f10b2087e96bb65460",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xb36ec83d844c0579ec2493f10b2087e96bb65460",
+			"Apr": 5.676113,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb2617246d0c6c0087f18703d576831899ca94f01"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ZIG-WETH",
+	"Chain": "ethereum"
+}

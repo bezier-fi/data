@@ -1,0 +1,10 @@
+{
+	"Id": "0x5929dd5c4df5ce2d816d237047eced0c2bca2c96",
+	"Symbol": "lowb-WETH",
+	"UnderlyingTokens": [
+		"0x69e5c11a7c30f0bf84a9faecbd5161aa7a94deca",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

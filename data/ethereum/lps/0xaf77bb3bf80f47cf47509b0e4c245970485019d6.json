@@ -1,0 +1,10 @@
+{
+	"Id": "0xaf77bb3bf80f47cf47509b0e4c245970485019d6",
+	"Symbol": "TDX-WETH",
+	"UnderlyingTokens": [
+		"0x317eb4ad9cfac6232f0046831322e895507bcbeb",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

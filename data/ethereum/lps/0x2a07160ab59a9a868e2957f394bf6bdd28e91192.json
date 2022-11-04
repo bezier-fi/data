@@ -1,0 +1,10 @@
+{
+	"Id": "0x2a07160ab59a9a868e2957f394bf6bdd28e91192",
+	"Symbol": "WETH-Totoro",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfc09c7cfd9c175dd9423ca02ae1249579ab12f12"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

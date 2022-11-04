@@ -1,0 +1,10 @@
+{
+	"Id": "0x06b162ba9decd83eb0d664b3e998311f4f8ceff0",
+	"Symbol": "YAKU-WETH",
+	"UnderlyingTokens": [
+		"0xaea6781e399c069d64926a5c518d40fbb69629c2",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

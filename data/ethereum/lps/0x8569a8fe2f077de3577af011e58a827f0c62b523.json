@@ -1,0 +1,10 @@
+{
+	"Id": "0x8569a8fe2f077de3577af011e58a827f0c62b523",
+	"Symbol": "$SMASH-WETH",
+	"UnderlyingTokens": [
+		"0x0e58b6db3aa6314b8ee275dceae9b25d9734b312",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

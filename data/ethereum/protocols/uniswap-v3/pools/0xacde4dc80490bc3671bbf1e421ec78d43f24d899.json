@@ -1,0 +1,24 @@
+{
+	"Id": "0xacde4dc80490bc3671bbf1e421ec78d43f24d899",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xacde4dc80490bc3671bbf1e421ec78d43f24d899",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0d97fee619d955509e54b046c9992b6e9f5b0630"
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PONY-USDC (0.05%)",
+	"Chain": "ethereum"
+}

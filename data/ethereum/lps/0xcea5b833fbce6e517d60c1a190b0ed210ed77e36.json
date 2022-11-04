@@ -1,0 +1,10 @@
+{
+	"Id": "0xcea5b833fbce6e517d60c1a190b0ed210ed77e36",
+	"Symbol": "WETH-BSAPE",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc8a29a4794c1fcdec43e5ea6d3a06de069f872c7"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

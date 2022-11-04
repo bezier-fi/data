@@ -1,0 +1,10 @@
+{
+	"Id": "0x74cfe0ed135f360513f89a72071ace991a0965b5",
+	"Symbol": "WETH-LGB",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe253a8c7ace13be372f3934addec95faf61aa5ef"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

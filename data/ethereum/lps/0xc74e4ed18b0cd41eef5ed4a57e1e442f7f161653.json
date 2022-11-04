@@ -1,0 +1,10 @@
+{
+	"Id": "0xc74e4ed18b0cd41eef5ed4a57e1e442f7f161653",
+	"Symbol": "WETH-LUCK",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xed997aa005143f1b5ca354756b7d3e52cd6ce9ca"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

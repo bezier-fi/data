@@ -1,0 +1,21 @@
+{
+	"Id": "0xBa58D7131Ca50DdFB458f37ea0De6fdcebFe836B",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xBa58D7131Ca50DdFB458f37ea0De6fdcebFe836B",
+			"Apr": 42.85476,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4917bC6b8E705Ad462ef525937E7eB7C6c87C356"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TEL-AAVE QLP",
+	"Chain": "polygon"
+}

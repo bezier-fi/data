@@ -1,0 +1,24 @@
+{
+	"Id": "0x56fdb1a3e9ad1630061ac7ee60dd75ba78307036",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x56fdb1a3e9ad1630061ac7ee60dd75ba78307036",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x99c6e435ec259a7e8d65e1955c9423db624ba54c"
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FMT-USDT",
+	"Chain": "ethereum"
+}

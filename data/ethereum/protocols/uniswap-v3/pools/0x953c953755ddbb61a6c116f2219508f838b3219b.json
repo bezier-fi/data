@@ -1,0 +1,24 @@
+{
+	"Id": "0x953c953755ddbb61a6c116f2219508f838b3219b",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0x953c953755ddbb61a6c116f2219508f838b3219b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6b7f87279982d919bbf85182ddeab179b366d8f2"
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ETHBTCTrend-USDC (0.05%)",
+	"Chain": "ethereum"
+}

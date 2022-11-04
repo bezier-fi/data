@@ -1,0 +1,10 @@
+{
+	"Id": "0xb5d7e3e9feca6ee5b23a3a5152124f1507b7524a",
+	"Symbol": "MR-WETH",
+	"UnderlyingTokens": [
+		"0xa4cb3ef5f41a4d89d6fced22ea8a1c57957629aa",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

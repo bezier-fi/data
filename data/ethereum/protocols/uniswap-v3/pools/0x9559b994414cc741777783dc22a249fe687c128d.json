@@ -1,0 +1,24 @@
+{
+	"Id": "0x9559b994414cc741777783dc22a249fe687c128d",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0x9559b994414cc741777783dc22a249fe687c128d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x582d872a1b094fc48f5de31d3b73f2d9be47def1"
+		},
+		{
+			"Address": "0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TONCOIN-HOP (1.00%)",
+	"Chain": "ethereum"
+}

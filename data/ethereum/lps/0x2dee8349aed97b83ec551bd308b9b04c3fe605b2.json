@@ -1,0 +1,10 @@
+{
+	"Id": "0x2dee8349aed97b83ec551bd308b9b04c3fe605b2",
+	"Symbol": "CDINU-WETH",
+	"UnderlyingTokens": [
+		"0x97ad070879be5c31a03a1fe7e35dfb7d51d0eef1",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

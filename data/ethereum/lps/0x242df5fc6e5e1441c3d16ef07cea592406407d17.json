@@ -1,0 +1,10 @@
+{
+	"Id": "0x242df5fc6e5e1441c3d16ef07cea592406407d17",
+	"Symbol": "VBHC-WETH",
+	"UnderlyingTokens": [
+		"0x60c817c0489681d67206a7b82593adb7ef6c63ff",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

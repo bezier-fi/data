@@ -1,0 +1,10 @@
+{
+	"Id": "0xc8ca3c0f011fe42c48258ecbbf5d94c51f141c17",
+	"Symbol": "CGG-WETH",
+	"UnderlyingTokens": [
+		"0x1fe24f25b1cf609b9c4e7e12d802e3640dfa5e43",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

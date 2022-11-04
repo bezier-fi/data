@@ -1,0 +1,10 @@
+{
+	"Id": "0xf5ef67632cd2256d939702a126fe2c047d0a07bf",
+	"Symbol": "HOT-WETH",
+	"UnderlyingTokens": [
+		"0x6c6ee5e31d828de241282b9606c8e98ea48526e2",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

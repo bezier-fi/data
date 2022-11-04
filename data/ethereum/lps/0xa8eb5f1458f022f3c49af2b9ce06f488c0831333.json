@@ -1,0 +1,10 @@
+{
+	"Id": "0xa8eb5f1458f022f3c49af2b9ce06f488c0831333",
+	"Symbol": "WETH-LAND",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xdb820690e855dc6071a702b56561e1c63ccb6e2f"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

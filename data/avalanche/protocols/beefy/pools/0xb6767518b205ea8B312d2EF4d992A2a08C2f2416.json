@@ -1,0 +1,21 @@
+{
+	"Id": "0xb6767518b205ea8B312d2EF4d992A2a08C2f2416",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xb6767518b205ea8B312d2EF4d992A2a08C2f2416",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDT.e",
+	"Chain": "avalanche"
+}

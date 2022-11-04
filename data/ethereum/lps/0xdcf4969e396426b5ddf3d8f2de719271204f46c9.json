@@ -1,0 +1,10 @@
+{
+	"Id": "0xdcf4969e396426b5ddf3d8f2de719271204f46c9",
+	"Symbol": "miniWCI-WETH",
+	"UnderlyingTokens": [
+		"0x88550e13b696a573eaadfe38dfd0806f67f6fd34",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

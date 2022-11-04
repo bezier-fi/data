@@ -1,0 +1,24 @@
+{
+	"Id": "0x231add80ca7602b23a5b497de54d8341c8333f50",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x231add80ca7602b23a5b497de54d8341c8333f50",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x24d35c3b5f76569c677f6f531c0da192d8c936d1"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MONGRAMEN-WETH",
+	"Chain": "ethereum"
+}

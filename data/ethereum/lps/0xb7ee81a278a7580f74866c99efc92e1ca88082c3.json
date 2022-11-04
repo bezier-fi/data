@@ -1,0 +1,10 @@
+{
+	"Id": "0xb7ee81a278a7580f74866c99efc92e1ca88082c3",
+	"Symbol": "PLA-WETH",
+	"UnderlyingTokens": [
+		"0x3a4f40631a4f906c2bad353ed06de7a5d3fcb430",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

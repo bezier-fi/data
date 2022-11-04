@@ -1,0 +1,10 @@
+{
+	"Id": "0xf61433d58883983563033ded52eae78f3907ada5",
+	"Symbol": "UNIDOGEINU-WETH",
+	"UnderlyingTokens": [
+		"0x21aa809488c1715f80d981d724b5dc78b8b5efe9",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

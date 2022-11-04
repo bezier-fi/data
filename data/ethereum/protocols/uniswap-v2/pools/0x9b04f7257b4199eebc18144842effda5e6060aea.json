@@ -1,0 +1,24 @@
+{
+	"Id": "0x9b04f7257b4199eebc18144842effda5e6060aea",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x9b04f7257b4199eebc18144842effda5e6060aea",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		},
+		{
+			"Address": "0xd1b529d62dc147f41185384c2e646434b62c3dc0"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-SANTA",
+	"Chain": "ethereum"
+}

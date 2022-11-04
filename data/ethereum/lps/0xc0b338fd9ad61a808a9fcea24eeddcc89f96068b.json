@@ -1,0 +1,10 @@
+{
+	"Id": "0xc0b338fd9ad61a808a9fcea24eeddcc89f96068b",
+	"Symbol": "STACK-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x56a86d648c435dc707c8405b78e2ae8eb4e60ba4",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

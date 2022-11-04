@@ -1,0 +1,24 @@
+{
+	"Id": "0xdb5d7a684ec561ae8478757740fea6b412f60077",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xdb5d7a684ec561ae8478757740fea6b412f60077",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x81a459c9f94d60019adc9d370d6a06f7e4e324fa"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TOSHI-WETH",
+	"Chain": "ethereum"
+}

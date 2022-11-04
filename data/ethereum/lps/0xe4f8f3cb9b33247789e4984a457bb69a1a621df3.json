@@ -1,0 +1,10 @@
+{
+	"Id": "0xe4f8f3cb9b33247789e4984a457bb69a1a621df3",
+	"Symbol": "WETH-SNOW",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfe9a29ab92522d14fc65880d817214261d8479ae"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

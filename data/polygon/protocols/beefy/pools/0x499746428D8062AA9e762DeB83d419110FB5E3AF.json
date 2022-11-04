@@ -1,0 +1,21 @@
+{
+	"Id": "0x499746428D8062AA9e762DeB83d419110FB5E3AF",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x499746428D8062AA9e762DeB83d419110FB5E3AF",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x28c5367D8A4E85F8d7B41A0CA2579e66A58FCcb6"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ONE-MATIC LP",
+	"Chain": "polygon"
+}

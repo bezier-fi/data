@@ -1,0 +1,10 @@
+{
+	"Id": "0x2a1a72b2f9df73ae57bbbd8b95669955ea1eb8ef",
+	"Symbol": "WETH-ODDZ",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xcd2828fc4d8e8a0ede91bb38cf64b1a81de65bf6"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

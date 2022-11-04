@@ -1,0 +1,21 @@
+{
+	"Id": "0xBdA8bC79705BC60226adCA2766e94Eb5512949a3",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xBdA8bC79705BC60226adCA2766e94Eb5512949a3",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xF54a719215622f602FCA5BF5a6509734C3574a4c"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "OLIVE-USDT LP",
+	"Chain": "avalanche"
+}

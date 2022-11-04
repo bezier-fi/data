@@ -1,0 +1,24 @@
+{
+	"Id": "0x5e882b5e77be2a567c7c39df772e385e33faf718",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x5e882b5e77be2a567c7c39df772e385e33faf718",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1ab052db3216835182926a6d516762b0f1634661"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "YORI-WETH",
+	"Chain": "ethereum"
+}

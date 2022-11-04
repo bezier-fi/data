@@ -1,0 +1,10 @@
+{
+	"Id": "0x89bb6aca49f39805285e2246f7bed823e0fa2545",
+	"Symbol": "DOGEV3-WETH (0.30%)",
+	"UnderlyingTokens": [
+		"0x0068bdd1ff7eed550e49d4015b5352364171a49f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

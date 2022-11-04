@@ -1,0 +1,24 @@
+{
+	"Id": "0xa6c6b56c70abf14ed63edaffb45bb82a64454a77",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xa6c6b56c70abf14ed63edaffb45bb82a64454a77",
+			"Apr": 2.2076123,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7b32e70e8d73ac87c1b342e063528b2930b15ceb"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "RBIF-WETH",
+	"Chain": "ethereum"
+}

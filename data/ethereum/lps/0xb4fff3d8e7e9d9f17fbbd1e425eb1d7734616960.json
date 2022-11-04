@@ -1,0 +1,10 @@
+{
+	"Id": "0xb4fff3d8e7e9d9f17fbbd1e425eb1d7734616960",
+	"Symbol": "METANO-WETH",
+	"UnderlyingTokens": [
+		"0x9d9e399e5385e2b9a58d4f775a1e16441b571afb",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

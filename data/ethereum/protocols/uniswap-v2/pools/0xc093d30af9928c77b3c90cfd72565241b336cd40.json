@@ -1,0 +1,24 @@
+{
+	"Id": "0xc093d30af9928c77b3c90cfd72565241b336cd40",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xc093d30af9928c77b3c90cfd72565241b336cd40",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x28c5805b64d163588a909012a628b5a03c1041f9"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CHOPPER-WETH",
+	"Chain": "ethereum"
+}

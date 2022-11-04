@@ -1,0 +1,10 @@
+{
+	"Id": "0x4eaf5857ea4d758ccc82897430cfceba9cc49784",
+	"Symbol": "NYR-WETH",
+	"UnderlyingTokens": [
+		"0x3ecf9840deb8e3c395e1941fc39ceb662bf5a1dd",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

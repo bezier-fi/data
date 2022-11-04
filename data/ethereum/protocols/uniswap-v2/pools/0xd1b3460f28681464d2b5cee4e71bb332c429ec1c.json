@@ -1,0 +1,24 @@
+{
+	"Id": "0xd1b3460f28681464d2b5cee4e71bb332c429ec1c",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xd1b3460f28681464d2b5cee4e71bb332c429ec1c",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0a7fe158fcbddd5e665e276aaf40f804261c653d"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Neuralink-WETH",
+	"Chain": "ethereum"
+}

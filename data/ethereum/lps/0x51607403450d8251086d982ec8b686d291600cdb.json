@@ -1,0 +1,10 @@
+{
+	"Id": "0x51607403450d8251086d982ec8b686d291600cdb",
+	"Symbol": "WETH-DCMC (1.00%)",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd85301d4ab345b901a0ef369f69f7e6ff06b97a3"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

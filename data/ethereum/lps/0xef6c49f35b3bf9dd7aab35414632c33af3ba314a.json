@@ -1,0 +1,10 @@
+{
+	"Id": "0xef6c49f35b3bf9dd7aab35414632c33af3ba314a",
+	"Symbol": "GOLD2.0-WETH",
+	"UnderlyingTokens": [
+		"0x95aa951ab3e6b5052af6ea34db50ddbb1ee8d3c7",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

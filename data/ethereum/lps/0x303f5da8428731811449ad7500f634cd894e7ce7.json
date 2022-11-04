@@ -1,0 +1,10 @@
+{
+	"Id": "0x303f5da8428731811449ad7500f634cd894e7ce7",
+	"Symbol": "Weezy-WETH",
+	"UnderlyingTokens": [
+		"0x7be45bc44b056dd4f4c736025cfaf2d2866f4a71",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

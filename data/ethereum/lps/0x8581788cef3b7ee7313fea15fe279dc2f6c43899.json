@@ -1,0 +1,10 @@
+{
+	"Id": "0x8581788cef3b7ee7313fea15fe279dc2f6c43899",
+	"Symbol": "FLX-WETH (0.30%)",
+	"UnderlyingTokens": [
+		"0x6243d8cea23066d098a15582d81a598b4e8391f4",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

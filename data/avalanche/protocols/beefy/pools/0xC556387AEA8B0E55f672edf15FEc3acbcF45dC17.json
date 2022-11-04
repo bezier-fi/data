@@ -1,0 +1,21 @@
+{
+	"Id": "0xC556387AEA8B0E55f672edf15FEc3acbcF45dC17",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xC556387AEA8B0E55f672edf15FEc3acbcF45dC17",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x42152bDD72dE8d6767FE3B4E17a221D6985E8B25"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "XAVA-AVAX LP",
+	"Chain": "avalanche"
+}

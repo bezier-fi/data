@@ -1,0 +1,21 @@
+{
+	"Id": "0x9649e6E5c689f21BC27B47CE4177f7c5f7281E20",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x9649e6E5c689f21BC27B47CE4177f7c5f7281E20",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xee3987aa1B20944EF4f8f049Cf1763007C06cFBC"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BIFI-ETH LP",
+	"Chain": "polygon"
+}

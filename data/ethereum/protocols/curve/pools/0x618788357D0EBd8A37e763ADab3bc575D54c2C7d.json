@@ -1,0 +1,30 @@
+{
+	"Id": "0x618788357D0EBd8A37e763ADab3bc575D54c2C7d",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0x6BA5b4e438FA0aAf7C1bD179285aF65d13bD3D90",
+			"Apr": 0.16742104,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x03ab458634910AaD20eF5f1C8ee96F1D6ac54919"
+		},
+		{
+			"Address": "0x6B175474E89094C44Da98b954EedeAC495271d0F"
+		},
+		{
+			"Address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+		},
+		{
+			"Address": "0xdAC17F958D2ee523a2206206994597C13D831ec7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "rai",
+	"Chain": "ethereum"
+}

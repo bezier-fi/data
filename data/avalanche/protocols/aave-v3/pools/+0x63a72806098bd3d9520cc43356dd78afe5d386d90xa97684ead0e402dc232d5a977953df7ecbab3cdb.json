@@ -1,0 +1,21 @@
+{
+	"Id": "0x63a72806098bd3d9520cc43356dd78afe5d386d90xa97684ead0e402dc232d5a977953df7ecbab3cdb",
+	"Protocol": "2823ce07-d4a3-492f-b207-434676337799",
+	"Outputs": [
+		{
+			"Address": "0xf329e36c7bf6e5e86ce2150875a84ce77f477375",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x63a72806098bd3d9520cc43356dd78afe5d386d9"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "AAVE.e",
+	"Chain": "avalanche"
+}

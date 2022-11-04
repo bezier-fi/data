@@ -1,0 +1,24 @@
+{
+	"Id": "0xaf996125e98b5804c00ffdb4f7ff386307c99a00",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xaf996125e98b5804c00ffdb4f7ff386307c99a00",
+			"Apr": 0.05066442,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5befbb272290dd5b8521d4a938f6c4757742c430"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "XFI-WETH",
+	"Chain": "ethereum"
+}

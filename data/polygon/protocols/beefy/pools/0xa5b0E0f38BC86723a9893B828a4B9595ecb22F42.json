@@ -1,0 +1,21 @@
+{
+	"Id": "0xa5b0E0f38BC86723a9893B828a4B9595ecb22F42",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xa5b0E0f38BC86723a9893B828a4B9595ecb22F42",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4935270Aa19bA0B88Fe99eA9FeB10519feAfA758"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FFF-ETH LP",
+	"Chain": "polygon"
+}

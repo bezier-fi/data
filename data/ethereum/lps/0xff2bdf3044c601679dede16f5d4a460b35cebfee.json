@@ -1,0 +1,10 @@
+{
+	"Id": "0xff2bdf3044c601679dede16f5d4a460b35cebfee",
+	"Symbol": "POOL-WETH (0.30%)",
+	"UnderlyingTokens": [
+		"0x0cec1a9154ff802e7934fc916ed7ca50bde6844e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

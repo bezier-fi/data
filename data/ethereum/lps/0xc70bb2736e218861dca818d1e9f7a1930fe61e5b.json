@@ -1,0 +1,10 @@
+{
+	"Id": "0xc70bb2736e218861dca818d1e9f7a1930fe61e5b",
+	"Symbol": "UNCX-WETH",
+	"UnderlyingTokens": [
+		"0xadb2437e6f65682b85f814fbc12fec0508a7b1d0",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

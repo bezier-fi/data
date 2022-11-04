@@ -1,0 +1,10 @@
+{
+	"Id": "0x807fdaaaa9632071a9d15b4ebeb92e05118645b2",
+	"Symbol": "WETH-CAP",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd405719fd7effba6449acbb377d1e6b542fd3b51"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xae2d4004241254aed3f93873604d39883c8259f0",
+	"Symbol": "WETH-PLR",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe3818504c1b32bf1557b16c238b2e01fd3149c17"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,24 @@
+{
+	"Id": "0xc05371628f77cd274d111ec9621b5d85f5945da2",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xc05371628f77cd274d111ec9621b5d85f5945da2",
+			"Apr": 4.8855677,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8686525d6627a25c68de82c228448f43c97999f2"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Ly-WETH",
+	"Chain": "ethereum"
+}

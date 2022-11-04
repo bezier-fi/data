@@ -1,0 +1,10 @@
+{
+	"Id": "0xec262c480b8917db5c5c0502281a73dae7b009a7",
+	"Symbol": "JOYS-WETH",
+	"UnderlyingTokens": [
+		"0x0341049bbf89b6255723e411fa1ff8655dcd9d69",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

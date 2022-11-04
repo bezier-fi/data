@@ -1,0 +1,24 @@
+{
+	"Id": "0xdef8367daf49af21c2c9c8af3b94377d1014650b",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xdef8367daf49af21c2c9c8af3b94377d1014650b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7e3ff03ca09da1daf166f19f3cf354952c377ca1"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FURBIES-WETH",
+	"Chain": "ethereum"
+}

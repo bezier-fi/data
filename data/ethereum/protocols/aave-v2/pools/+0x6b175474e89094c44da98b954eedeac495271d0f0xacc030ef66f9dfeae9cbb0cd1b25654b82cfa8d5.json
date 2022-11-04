@@ -1,0 +1,21 @@
+{
+	"Id": "0x6b175474e89094c44da98b954eedeac495271d0f0xacc030ef66f9dfeae9cbb0cd1b25654b82cfa8d5",
+	"Protocol": "27d88614-071b-4e2b-a57b-1cc6a09c4cd1",
+	"Outputs": [
+		{
+			"Address": "0x79be75ffc64dd58e66787e4eae470c8a1fd08ba4",
+			"Apr": 2.233884,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6b175474e89094c44da98b954eedeac495271d0f"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "AmmDAI",
+	"Chain": "ethereum"
+}

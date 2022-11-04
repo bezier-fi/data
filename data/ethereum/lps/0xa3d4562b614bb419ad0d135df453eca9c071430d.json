@@ -1,0 +1,10 @@
+{
+	"Id": "0xa3d4562b614bb419ad0d135df453eca9c071430d",
+	"Symbol": "STILT-WETH",
+	"UnderlyingTokens": [
+		"0xb5f1457d6fba1956fb8d31b0b7caca14bde0be4b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

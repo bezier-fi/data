@@ -1,0 +1,10 @@
+{
+	"Id": "0xd99db1ebab2a9887568e69bf90659732f0974de5",
+	"Symbol": "WETH-REDTIGER",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xed831dea0175616dcc8c01613398f85d299cc3dc"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

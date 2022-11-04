@@ -1,0 +1,10 @@
+{
+	"Id": "0xa486b074b9abe3dd51b257974e49173aeafd0ad9",
+	"Symbol": "Ching-WETH",
+	"UnderlyingTokens": [
+		"0x0b77f8d94b1d84906442a66253a33fe290efdda0",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

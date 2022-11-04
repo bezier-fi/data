@@ -1,0 +1,24 @@
+{
+	"Id": "0xde2e46992bd4f86471b52f21dac2d7c9f6deac26",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xde2e46992bd4f86471b52f21dac2d7c9f6deac26",
+			"Apr": 3.4741514,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6781a0f84c7e9e846dcb84a9a5bd49333067b104"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ZAP-WETH",
+	"Chain": "ethereum"
+}

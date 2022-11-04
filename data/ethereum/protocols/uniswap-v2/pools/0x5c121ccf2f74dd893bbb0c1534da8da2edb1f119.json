@@ -1,0 +1,24 @@
+{
+	"Id": "0x5c121ccf2f74dd893bbb0c1534da8da2edb1f119",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x5c121ccf2f74dd893bbb0c1534da8da2edb1f119",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x93f4823ed918a8eff40c675223ffb4aae8724a54"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TCASH-WETH",
+	"Chain": "ethereum"
+}

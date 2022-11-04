@@ -1,0 +1,10 @@
+{
+	"Id": "0xCb08717451aaE9EF950a2524E33B6DCaBA60147B",
+	"Symbol": "crvTETH",
+	"UnderlyingTokens": [
+		"0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+		"0xCdF7028ceAB81fA0C6971208e83fa7872994beE5"
+	],
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Chain": "ethereum"
+}

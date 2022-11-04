@@ -1,0 +1,21 @@
+{
+	"Id": "0x2e78D4Cc7e1dF9845B60A28980b28B3E9fc82fd1",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x2e78D4Cc7e1dF9845B60A28980b28B3E9fc82fd1",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x439E6A13a5ce7FdCA2CC03bF31Fb631b3f5EF157"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "jCHF-USDC LP",
+	"Chain": "polygon"
+}

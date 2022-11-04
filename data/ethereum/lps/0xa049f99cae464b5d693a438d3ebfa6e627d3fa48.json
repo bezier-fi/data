@@ -1,0 +1,10 @@
+{
+	"Id": "0xa049f99cae464b5d693a438d3ebfa6e627d3fa48",
+	"Symbol": "HPT-WETH (0.05%)",
+	"UnderlyingTokens": [
+		"0x615d8e5e1344b36a95f6ecd8e6cda020e84dc25b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

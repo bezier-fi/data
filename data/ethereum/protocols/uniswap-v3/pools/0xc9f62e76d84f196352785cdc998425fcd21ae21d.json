@@ -1,0 +1,24 @@
+{
+	"Id": "0xc9f62e76d84f196352785cdc998425fcd21ae21d",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xc9f62e76d84f196352785cdc998425fcd21ae21d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x491604c0fdf08347dd1fa4ee062a822a5dd06b5d"
+		},
+		{
+			"Address": "0xe53ec727dbdeb9e2d5456c3be40cff031ab40a55"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CTSI-SUPER (1.00%)",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,21 @@
+{
+	"Id": "0xc24Cf5fA29E619f2D5ccbEC46F2295876c3722ff",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xc24Cf5fA29E619f2D5ccbEC46F2295876c3722ff",
+			"Apr": 15.37336,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6Cf8654e85AB489cA7e70189046D507ebA233613"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ETH-MATIC ALP",
+	"Chain": "polygon"
+}

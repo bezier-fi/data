@@ -1,0 +1,10 @@
+{
+	"Id": "0x8867f20c1c63baccec7617626254a060eeb0e61e",
+	"Symbol": "PHA-WETH",
+	"UnderlyingTokens": [
+		"0x6c5ba91642f10282b576d91922ae6448c9d52f4e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xdc2c21f1b54ddaf39e944689a8f90cb844135cc9",
+	"Symbol": "BAL-WETH (0.30%)",
+	"UnderlyingTokens": [
+		"0xba100000625a3754423978a60c9317c58a424e3d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

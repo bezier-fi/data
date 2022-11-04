@@ -1,0 +1,24 @@
+{
+	"Id": "0x8bc1524e6fe8886e0960de18c6861d98b0d3696a",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x8bc1524e6fe8886e0960de18c6861d98b0d3696a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6fcf107ca12235ef4bbfe90e0f5b3bda6104906f"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SAITATE-WETH",
+	"Chain": "ethereum"
+}

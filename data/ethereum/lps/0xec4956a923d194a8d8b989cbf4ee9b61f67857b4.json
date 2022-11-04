@@ -1,0 +1,10 @@
+{
+	"Id": "0xec4956a923d194a8d8b989cbf4ee9b61f67857b4",
+	"Symbol": "WETH-SKWON",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf37cd5f8453138bde1f0fb64791b056ca8b7ed6d"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

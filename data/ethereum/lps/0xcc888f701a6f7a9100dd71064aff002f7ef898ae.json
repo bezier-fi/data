@@ -1,0 +1,10 @@
+{
+	"Id": "0xcc888f701a6f7a9100dd71064aff002f7ef898ae",
+	"Symbol": "SAFEHEDGE-WETH",
+	"UnderlyingTokens": [
+		"0x0f8bf37e79930c100f3d93ac0ee87f0d3e7a7fb0",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

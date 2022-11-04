@@ -1,0 +1,10 @@
+{
+	"Id": "0x10db37f4d9b3bc32ae8303b46e6166f7e9652d28",
+	"Symbol": "RBC-WETH",
+	"UnderlyingTokens": [
+		"0xa4eed63db85311e22df4473f87ccfc3dadcfa3e3",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

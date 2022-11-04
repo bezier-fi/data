@@ -1,0 +1,10 @@
+{
+	"Id": "0xf5ce0293c24fd0990e0a5758e53f66a36ca0118f",
+	"Symbol": "SNX-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

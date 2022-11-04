@@ -1,0 +1,21 @@
+{
+	"Id": "0x108c7a293162Adff86DA216AB5F91e56723125dc",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x108c7a293162Adff86DA216AB5F91e56723125dc",
+			"Apr": 3.62226,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x600743B1d8A96438bD46836fD34977a00293f6Aa"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "EURt/DAI/USDC/USDT",
+	"Chain": "polygon"
+}

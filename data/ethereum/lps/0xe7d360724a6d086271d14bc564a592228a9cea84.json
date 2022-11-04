@@ -1,0 +1,10 @@
+{
+	"Id": "0xe7d360724a6d086271d14bc564a592228a9cea84",
+	"Symbol": "WETH-GRUMPEE",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xdad57280919b81268e13591462fa80ef7d92b10c"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

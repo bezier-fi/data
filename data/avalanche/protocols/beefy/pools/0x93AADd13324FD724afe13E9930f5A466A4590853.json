@@ -1,0 +1,21 @@
+{
+	"Id": "0x93AADd13324FD724afe13E9930f5A466A4590853",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x93AADd13324FD724afe13E9930f5A466A4590853",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0b44F6F5a32De1b36CfCD5F68f181F6787fb3225"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BPT-AVAX LP",
+	"Chain": "avalanche"
+}

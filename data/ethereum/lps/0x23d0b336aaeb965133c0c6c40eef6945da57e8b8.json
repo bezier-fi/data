@@ -1,0 +1,10 @@
+{
+	"Id": "0x23d0b336aaeb965133c0c6c40eef6945da57e8b8",
+	"Symbol": "TALI-WETH",
+	"UnderlyingTokens": [
+		"0x6765fdd028be3d7874bc2bb3d7d5ca01c1bf14b2",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

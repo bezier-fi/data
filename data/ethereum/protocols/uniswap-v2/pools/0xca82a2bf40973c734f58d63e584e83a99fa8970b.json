@@ -1,0 +1,24 @@
+{
+	"Id": "0xca82a2bf40973c734f58d63e584e83a99fa8970b",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xca82a2bf40973c734f58d63e584e83a99fa8970b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4a35f16402e241aae74bbabaf64f524f7da6d2e8"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SAFESATURN-WETH",
+	"Chain": "ethereum"
+}

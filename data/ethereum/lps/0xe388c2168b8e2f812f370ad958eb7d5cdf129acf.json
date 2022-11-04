@@ -1,0 +1,10 @@
+{
+	"Id": "0xe388c2168b8e2f812f370ad958eb7d5cdf129acf",
+	"Symbol": "WETH-INUINU",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc6bdb96e29c38dc43f014eed44de4106a6a8eb5f"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

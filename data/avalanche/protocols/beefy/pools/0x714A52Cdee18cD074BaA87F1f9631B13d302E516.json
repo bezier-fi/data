@@ -1,0 +1,21 @@
+{
+	"Id": "0x714A52Cdee18cD074BaA87F1f9631B13d302E516",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x714A52Cdee18cD074BaA87F1f9631B13d302E516",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xebF50b8089a0c5E7c5de23F644fcD723818f65B3"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BOO-AVAX LP",
+	"Chain": "avalanche"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xeebbce0288149ccaaa839e3e06c5b28ca355c1bf",
+	"Symbol": "HRD-WETH",
+	"UnderlyingTokens": [
+		"0x461b71cff4d4334bba09489ace4b5dc1a1813445",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

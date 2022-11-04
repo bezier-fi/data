@@ -1,0 +1,21 @@
+{
+	"Id": "0xDC52e53f9E8b2cf42b557A6b3cE36e79De39ACd6",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xDC52e53f9E8b2cf42b557A6b3cE36e79De39ACd6",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xFc2fC983a411C4B1E238f7Eb949308CF0218C750"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TEL-ETH QLP",
+	"Chain": "polygon"
+}

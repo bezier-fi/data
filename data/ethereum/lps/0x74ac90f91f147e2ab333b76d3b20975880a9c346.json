@@ -1,0 +1,10 @@
+{
+	"Id": "0x74ac90f91f147e2ab333b76d3b20975880a9c346",
+	"Symbol": "XCV-WETH",
+	"UnderlyingTokens": [
+		"0xa7b8b741d2d4c55606268b59bcdb3582a52e71e6",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

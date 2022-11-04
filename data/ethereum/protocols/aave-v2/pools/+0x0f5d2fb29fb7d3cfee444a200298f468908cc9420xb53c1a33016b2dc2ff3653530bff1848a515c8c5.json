@@ -1,0 +1,21 @@
+{
+	"Id": "0x0f5d2fb29fb7d3cfee444a200298f468908cc9420xb53c1a33016b2dc2ff3653530bff1848a515c8c5",
+	"Protocol": "27d88614-071b-4e2b-a57b-1cc6a09c4cd1",
+	"Outputs": [
+		{
+			"Address": "0xa685a61171bb30d4072b338c80cb7b2c865c873e",
+			"Apr": 0.24000493,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MANA",
+	"Chain": "ethereum"
+}

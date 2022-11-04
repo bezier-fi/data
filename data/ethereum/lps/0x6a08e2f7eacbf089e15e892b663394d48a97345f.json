@@ -1,0 +1,10 @@
+{
+	"Id": "0x6a08e2f7eacbf089e15e892b663394d48a97345f",
+	"Symbol": "BOOST2-WETH",
+	"UnderlyingTokens": [
+		"0xa2eb4cd6bc9ba61571b12d3484a5688202851bbc",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

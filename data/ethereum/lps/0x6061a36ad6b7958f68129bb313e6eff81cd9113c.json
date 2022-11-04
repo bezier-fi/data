@@ -1,0 +1,10 @@
+{
+	"Id": "0x6061a36ad6b7958f68129bb313e6eff81cd9113c",
+	"Symbol": "SMARTCREDIT-WETH",
+	"UnderlyingTokens": [
+		"0x72e9d9038ce484ee986fea183f8d8df93f9ada13",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

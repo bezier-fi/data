@@ -1,0 +1,24 @@
+{
+	"Id": "0xb60e1bcd4759ca910179b2bc26a4f15989d15c4a",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xb60e1bcd4759ca910179b2bc26a4f15989d15c4a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2e59d147962e2bb3fbdc52dc18cfba2653c06ccc"
+		},
+		{
+			"Address": "0xc5fb36dd2fb59d3b98deff88425a3f425ee469ed"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ZENI-TSUKA",
+	"Chain": "ethereum"
+}

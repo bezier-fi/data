@@ -1,0 +1,21 @@
+{
+	"Id": "0x955EAC48a81D8a8A312884A022D806015E901CDE",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x955EAC48a81D8a8A312884A022D806015E901CDE",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7B93196CD4861f345509c2da31058CA4B1c30D63"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC-WUSD LP",
+	"Chain": "polygon"
+}

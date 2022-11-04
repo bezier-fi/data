@@ -1,0 +1,21 @@
+{
+	"Id": "0xbfd1a5525C47c229B9c0D82ca4B6567F9f74a3cC",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xbfd1a5525C47c229B9c0D82ca4B6567F9f74a3cC",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x40A5Df3E37152d4DaF279e0450289Af76472b02e"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BNB-USDC LP",
+	"Chain": "polygon"
+}

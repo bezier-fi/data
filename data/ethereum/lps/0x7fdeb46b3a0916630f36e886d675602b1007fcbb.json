@@ -1,0 +1,10 @@
+{
+	"Id": "0x7fdeb46b3a0916630f36e886d675602b1007fcbb",
+	"Symbol": "VOW-WETH",
+	"UnderlyingTokens": [
+		"0x1bbf25e71ec48b84d773809b4ba55b6f4be946fb",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,21 @@
+{
+	"Id": "0xd7C196571068EC51b86F378eF19387E6f3885748",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xd7C196571068EC51b86F378eF19387E6f3885748",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x723e866989Cacc8EFC346e1DCf5a9D73572bCFc8"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "pBREW-USDC LP",
+	"Chain": "polygon"
+}

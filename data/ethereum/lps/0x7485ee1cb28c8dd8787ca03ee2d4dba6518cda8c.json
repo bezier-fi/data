@@ -1,0 +1,10 @@
+{
+	"Id": "0x7485ee1cb28c8dd8787ca03ee2d4dba6518cda8c",
+	"Symbol": "SAITANOBI-WETH",
+	"UnderlyingTokens": [
+		"0x5e9f35e8163c44cd7e606bdd716abed32ad2f1c6",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

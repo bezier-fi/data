@@ -1,0 +1,21 @@
+{
+	"Id": "0x122E09FdD2FF73C8CEa51D432c45A474BAa1518a",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x122E09FdD2FF73C8CEa51D432c45A474BAa1518a",
+			"Apr": 8.608311,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xaA91CDD7abb47F821Cf07a2d38Cc8668DEAf1bdc"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "jJPY-JPYC LP",
+	"Chain": "polygon"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x87364df3036481b91f19cc01614cf7a0d81d1c01",
+	"Symbol": "WETH-RAGE",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xcb406a9bfef568904f8561662e8e3d187b166d3e"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,21 @@
+{
+	"Id": "0x2AaB02eDE64d4A686EA1d1A70B688E46cce50fFd",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x2AaB02eDE64d4A686EA1d1A70B688E46cce50fFd",
+			"Apr": 23.67852,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9b5c71936670e9f1F36e63F03384De7e06E60d2a"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TEL-MATIC QLP",
+	"Chain": "polygon"
+}

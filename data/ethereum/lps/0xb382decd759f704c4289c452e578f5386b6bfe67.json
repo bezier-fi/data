@@ -1,0 +1,10 @@
+{
+	"Id": "0xb382decd759f704c4289c452e578f5386b6bfe67",
+	"Symbol": "DED-WETH",
+	"UnderlyingTokens": [
+		"0x98004ec49e84215442932ee1428ed6369c3d94e8",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

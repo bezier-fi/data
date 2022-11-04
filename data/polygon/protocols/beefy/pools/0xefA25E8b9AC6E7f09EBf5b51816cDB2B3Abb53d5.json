@@ -1,0 +1,21 @@
+{
+	"Id": "0xefA25E8b9AC6E7f09EBf5b51816cDB2B3Abb53d5",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xefA25E8b9AC6E7f09EBf5b51816cDB2B3Abb53d5",
+			"Apr": 63.48568,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x501acE9c35E60f03A2af4d484f49F9B1EFde9f40"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SOLACE",
+	"Chain": "polygon"
+}

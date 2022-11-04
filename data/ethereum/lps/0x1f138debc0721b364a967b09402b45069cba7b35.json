@@ -1,0 +1,10 @@
+{
+	"Id": "0x1f138debc0721b364a967b09402b45069cba7b35",
+	"Symbol": "WETH-PHTR (0.30%)",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe1fc4455f62a6e89476f1072530c20cf1a0622da"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

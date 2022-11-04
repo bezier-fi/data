@@ -1,0 +1,24 @@
+{
+	"Id": "0xd6e1720b9a3bce9925e29f6b05204748097d287b",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xd6e1720b9a3bce9925e29f6b05204748097d287b",
+			"Apr": 69.975494,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6069c9223e8a5da1ec49ac5525d4bb757af72cd8"
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MUSK-USDT",
+	"Chain": "ethereum"
+}

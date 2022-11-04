@@ -1,0 +1,10 @@
+{
+	"Id": "0xd9b947e684030853b2cc6f4608e20f0930107f0c",
+	"Symbol": "TSP-WETH",
+	"UnderlyingTokens": [
+		"0x9324b5a1ca6e0255b9fcfe39b089ec28118aea10",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

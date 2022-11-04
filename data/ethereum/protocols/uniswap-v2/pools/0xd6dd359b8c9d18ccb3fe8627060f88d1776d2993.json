@@ -1,0 +1,24 @@
+{
+	"Id": "0xd6dd359b8c9d18ccb3fe8627060f88d1776d2993",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xd6dd359b8c9d18ccb3fe8627060f88d1776d2993",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xde12c7959e1a72bbe8a5f7a1dc8f8eef9ab011b3"
+		},
+		{
+			"Address": "0xde5ed76e7c05ec5e4572cfc88d1acea165109e44"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DEI-DEUS",
+	"Chain": "ethereum"
+}

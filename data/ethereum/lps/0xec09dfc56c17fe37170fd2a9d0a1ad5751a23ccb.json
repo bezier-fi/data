@@ -1,0 +1,10 @@
+{
+	"Id": "0xec09dfc56c17fe37170fd2a9d0a1ad5751a23ccb",
+	"Symbol": "ALK-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x6c16119b20fa52600230f074b349da3cb861a7e3",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

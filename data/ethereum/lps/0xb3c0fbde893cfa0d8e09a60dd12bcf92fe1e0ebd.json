@@ -1,0 +1,10 @@
+{
+	"Id": "0xb3c0fbde893cfa0d8e09a60dd12bcf92fe1e0ebd",
+	"Symbol": "WETH-METACEX",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd796b8eff23d5c4c71f43c99ffd7d8a3119f7475"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

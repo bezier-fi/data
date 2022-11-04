@@ -1,0 +1,36 @@
+{
+	"Id": "0x3F1B0278A9ee595635B61817630cC19DE792f506",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0x3F1B0278A9ee595635B61817630cC19DE792f506",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		},
+		{
+			"Address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+			"Apr": 4.9758406,
+			"GroupId": 0,
+			"Key": ""
+		},
+		{
+			"Address": "0xEdB67Ee1B171c4eC66E6c10EC43EDBbA20FaE8e9",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xFAFdF0C4c1CB09d430Bf88c75D88BB46DAe09967"
+		},
+		{
+			"Address": "0xF48e200EAF9906362BB1442fca31e0835773b8B4"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ibAUD+sAUD-f",
+	"Chain": "ethereum"
+}

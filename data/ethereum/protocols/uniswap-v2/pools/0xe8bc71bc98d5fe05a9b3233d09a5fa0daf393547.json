@@ -1,0 +1,24 @@
+{
+	"Id": "0xe8bc71bc98d5fe05a9b3233d09a5fa0daf393547",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xe8bc71bc98d5fe05a9b3233d09a5fa0daf393547",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x26ab960f20839766a84606abf6a885ff7b527073"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "LAWLIET-WETH",
+	"Chain": "ethereum"
+}

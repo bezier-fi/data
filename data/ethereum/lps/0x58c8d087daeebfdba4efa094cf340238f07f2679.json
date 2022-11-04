@@ -1,0 +1,10 @@
+{
+	"Id": "0x58c8d087daeebfdba4efa094cf340238f07f2679",
+	"Symbol": "SCROH-WETH",
+	"UnderlyingTokens": [
+		"0x73a058da53220d25bcb2c4cb8ff8520626ea26e7",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

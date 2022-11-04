@@ -1,0 +1,24 @@
+{
+	"Id": "0xc8a7C1c4B748970F57cA59326BcD49F5c9dc43E3",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0xc8a7C1c4B748970F57cA59326BcD49F5c9dc43E3",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x69e8b9528CABDA89fe846C67675B5D73d463a916"
+		},
+		{
+			"Address": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "OPEN MATIC-f",
+	"Chain": "ethereum"
+}

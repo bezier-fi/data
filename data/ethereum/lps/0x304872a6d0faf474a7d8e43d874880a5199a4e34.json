@@ -1,0 +1,10 @@
+{
+	"Id": "0x304872a6d0faf474a7d8e43d874880a5199a4e34",
+	"Symbol": "SPRAY-WETH",
+	"UnderlyingTokens": [
+		"0x24f4fe50f396ce359c493b4a80735622cedcccdc",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

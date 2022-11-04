@@ -1,0 +1,10 @@
+{
+	"Id": "0xce84867c3c02b05dc570d0135103d3fb9cc19433",
+	"Symbol": "SUSHI-WETH",
+	"UnderlyingTokens": [
+		"0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

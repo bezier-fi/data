@@ -1,0 +1,24 @@
+{
+	"Id": "0x079e43b3b26e1f86df43ba7ec584755456aa6311",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x079e43b3b26e1f86df43ba7ec584755456aa6311",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		},
+		{
+			"Address": "0xd9a4cb9dc9296e111c66dfacab8be034ee2e1c2c"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-ADX-LOYALTY",
+	"Chain": "ethereum"
+}

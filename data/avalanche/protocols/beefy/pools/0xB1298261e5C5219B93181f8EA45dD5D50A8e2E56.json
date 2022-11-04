@@ -1,0 +1,21 @@
+{
+	"Id": "0xB1298261e5C5219B93181f8EA45dD5D50A8e2E56",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xB1298261e5C5219B93181f8EA45dD5D50A8e2E56",
+			"Apr": 4.3242025,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x465460F46969F2bf969432956491dEE95A6ba493"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DEG-AVAX LP",
+	"Chain": "avalanche"
+}

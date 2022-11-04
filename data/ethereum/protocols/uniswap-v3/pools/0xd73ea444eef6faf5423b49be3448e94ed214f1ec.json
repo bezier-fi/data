@@ -1,0 +1,24 @@
+{
+	"Id": "0xd73ea444eef6faf5423b49be3448e94ed214f1ec",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xd73ea444eef6faf5423b49be3448e94ed214f1ec",
+			"Apr": 5.881211,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x15d4c048f83bd7e37d49ea4c83a07267ec4203da"
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GALA-USDC (1.00%)",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,21 @@
+{
+	"Id": "0xF082954596D3deB61D80dF135663C0fbDe4F7C37",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xF082954596D3deB61D80dF135663C0fbDe4F7C37",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2F051dB1634eEa2081590860ab8E756D452f2239"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DELIRIUM-USDC LP",
+	"Chain": "polygon"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xe0cfa17aa9b8f930fd936633c0252d5cb745c2c3",
+	"Symbol": "DYDX-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x92d6c1e31e14520e676a687f0a93788b716beff5",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

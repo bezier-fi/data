@@ -1,0 +1,10 @@
+{
+	"Id": "0x20ab25926f52d76214be3003688dd69f9bc41b3d",
+	"Symbol": "Coil-WETH",
+	"UnderlyingTokens": [
+		"0x3130c55d6138809687a1bfbe0f0cc258df37b81e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

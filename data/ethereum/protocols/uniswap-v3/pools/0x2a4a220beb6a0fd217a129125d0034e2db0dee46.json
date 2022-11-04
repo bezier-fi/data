@@ -1,0 +1,24 @@
+{
+	"Id": "0x2a4a220beb6a0fd217a129125d0034e2db0dee46",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0x2a4a220beb6a0fd217a129125d0034e2db0dee46",
+			"Apr": 5.3929696,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xade6fdaba1643e4d1eef68da7170f234470938c6"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "HARAMBE-WETH (1.00%)",
+	"Chain": "ethereum"
+}

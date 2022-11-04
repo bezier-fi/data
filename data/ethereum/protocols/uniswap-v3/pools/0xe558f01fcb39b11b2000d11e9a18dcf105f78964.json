@@ -1,0 +1,24 @@
+{
+	"Id": "0xe558f01fcb39b11b2000d11e9a18dcf105f78964",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xe558f01fcb39b11b2000d11e9a18dcf105f78964",
+			"Apr": 0.18518892,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+		},
+		{
+			"Address": "0xebf2096e01455108badcbaf86ce30b6e5a72aa52"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC-XIDR (0.05%)",
+	"Chain": "ethereum"
+}

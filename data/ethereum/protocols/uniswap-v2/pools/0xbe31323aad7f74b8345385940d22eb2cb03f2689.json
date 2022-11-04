@@ -1,0 +1,24 @@
+{
+	"Id": "0xbe31323aad7f74b8345385940d22eb2cb03f2689",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xbe31323aad7f74b8345385940d22eb2cb03f2689",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1d1e6c356301c2119c4c4000283dfed65015a333"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SHOOT-WETH",
+	"Chain": "ethereum"
+}

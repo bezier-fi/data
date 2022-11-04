@@ -1,0 +1,24 @@
+{
+	"Id": "0xc0d88b46699dc4c26282d991f221d42ca98af78b",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xc0d88b46699dc4c26282d991f221d42ca98af78b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x44ce0e50ac4a903dc9a0d458fef4fdaafa0ae5b3"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "REVIVE-WETH",
+	"Chain": "ethereum"
+}

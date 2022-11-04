@@ -1,0 +1,10 @@
+{
+	"Id": "0x5f98bc097ab74f85893c128cfb35a69170e6b2f5",
+	"Symbol": "MWII-WETH",
+	"UnderlyingTokens": [
+		"0x4b9f500ed7c571fca3bf049b877faa0ba131fc76",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

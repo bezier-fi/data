@@ -1,0 +1,24 @@
+{
+	"Id": "0xd3f5de33fda2cb95c78cc10080be923a42063217",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xd3f5de33fda2cb95c78cc10080be923a42063217",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4515eb2b008bc25a733d7eb1be3b84872259cc64"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Kish-WETH",
+	"Chain": "ethereum"
+}

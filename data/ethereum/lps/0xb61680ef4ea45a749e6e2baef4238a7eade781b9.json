@@ -1,0 +1,10 @@
+{
+	"Id": "0xb61680ef4ea45a749e6e2baef4238a7eade781b9",
+	"Symbol": "CSM-WETH",
+	"UnderlyingTokens": [
+		"0x2620638eda99f9e7e902ea24a285456ee9438861",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

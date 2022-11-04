@@ -1,0 +1,24 @@
+{
+	"Id": "0x9efd3ce9d953455160005713519e1d6d64971ef6",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0x9efd3ce9d953455160005713519e1d6d64971ef6",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5f98805a4e8be255a32880fdec7f6728c6568ba0"
+		},
+		{
+			"Address": "0x6dea81c8171d0ba574754ef6f8b412f2ed88c54d"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "LUSD-LQTY (1.00%)",
+	"Chain": "ethereum"
+}

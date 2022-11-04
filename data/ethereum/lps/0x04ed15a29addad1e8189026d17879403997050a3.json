@@ -1,0 +1,10 @@
+{
+	"Id": "0x04ed15a29addad1e8189026d17879403997050a3",
+	"Symbol": "PSWAP-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x519c1001d550c0a1dae7d1fc220f7d14c2a521bb",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

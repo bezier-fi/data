@@ -1,0 +1,10 @@
+{
+	"Id": "0xf37386b278d8862aa00a5fd4e872ce90e004a6dd",
+	"Symbol": "HUNT-WETH",
+	"UnderlyingTokens": [
+		"0x4387946a7ed6561cf3390faaac90c1f52b593f2e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,24 @@
+{
+	"Id": "0x6ae0cdc5d2b89a8dcb99ad6b3435b3e7f7290077",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0x6ae0cdc5d2b89a8dcb99ad6b3435b3e7f7290077",
+			"Apr": 20.467546,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3af33bef05c2dcb3c7288b77fe1c8d2aeba4d789"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "KROM-WETH (0.30%)",
+	"Chain": "ethereum"
+}

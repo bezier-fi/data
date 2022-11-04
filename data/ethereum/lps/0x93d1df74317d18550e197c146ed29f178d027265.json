@@ -1,0 +1,10 @@
+{
+	"Id": "0x93d1df74317d18550e197c146ed29f178d027265",
+	"Symbol": "PASG-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x083a96c390c942def68b6343d1c651eeae604b50",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,24 @@
+{
+	"Id": "0xd3ff34fe9692c563bafcb58c9a085c8c89c2f180",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xd3ff34fe9692c563bafcb58c9a085c8c89c2f180",
+			"Apr": 6.479597,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x85f6eb2bd5a062f5f8560be93fb7147e16c81472"
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FLy-USDT",
+	"Chain": "ethereum"
+}

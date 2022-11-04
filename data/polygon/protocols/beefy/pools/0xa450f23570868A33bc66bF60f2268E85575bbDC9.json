@@ -1,0 +1,21 @@
+{
+	"Id": "0xa450f23570868A33bc66bF60f2268E85575bbDC9",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xa450f23570868A33bc66bF60f2268E85575bbDC9",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6Ea785d8edeA0a99c7040839d8fA0498c3c9a319"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "xYELD-MATIC QLP",
+	"Chain": "polygon"
+}

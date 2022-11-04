@@ -1,0 +1,21 @@
+{
+	"Id": "0xeF1870FddC25586636bf8a3d7cCf4d298f6E072e",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xeF1870FddC25586636bf8a3d7cCf4d298f6E072e",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xEAA5E4620373d9Ded4DCB9267F46fcfc6698c867"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CEL-ETH LP",
+	"Chain": "polygon"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x4e37dcad9e6e1465f33387587cef22616aac2541",
+	"Symbol": "DIS-WETH",
+	"UnderlyingTokens": [
+		"0x220b71671b649c03714da9c621285943f3cbcdc6",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

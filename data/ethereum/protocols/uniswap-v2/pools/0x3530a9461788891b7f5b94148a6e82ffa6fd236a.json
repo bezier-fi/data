@@ -1,0 +1,24 @@
+{
+	"Id": "0x3530a9461788891b7f5b94148a6e82ffa6fd236a",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x3530a9461788891b7f5b94148a6e82ffa6fd236a",
+			"Apr": 0.9312545,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5d30ad9c6374bf925d0a75454fa327aacf778492"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PERI-WETH",
+	"Chain": "ethereum"
+}

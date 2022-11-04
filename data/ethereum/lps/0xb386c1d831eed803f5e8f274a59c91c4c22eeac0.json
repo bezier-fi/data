@@ -1,0 +1,10 @@
+{
+	"Id": "0xb386c1d831eed803f5e8f274a59c91c4c22eeac0",
+	"Symbol": "WETH-FLOOR (1.00%)",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf59257e961883636290411c11ec5ae622d19455e"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

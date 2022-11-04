@@ -1,0 +1,24 @@
+{
+	"Id": "0x9462F2b3C9bEeA8afc334Cdb1D1382B072e494eA",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0x9462F2b3C9bEeA8afc334Cdb1D1382B072e494eA",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2Fc6e9c1b2C07E18632eFE51879415a580AD22E1"
+		},
+		{
+			"Address": "0x6BeA7CFEF803D1e3d5f7C0103f7ded065644e197"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "tGAMMA-f",
+	"Chain": "ethereum"
+}

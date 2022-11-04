@@ -1,0 +1,10 @@
+{
+	"Id": "0x342c46a897e3dda3c76408c7f476a04c2bd189f1",
+	"Symbol": "PVE-WETH",
+	"UnderlyingTokens": [
+		"0xa34dce831caa3d40dfc4ce2d36b7f0db942e9f74",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

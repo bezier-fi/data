@@ -1,0 +1,10 @@
+{
+	"Id": "0x63dcc0898eb54f5595379388e59e7b094cbfc61b",
+	"Symbol": "WETH-CAKE",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xdd111a6c040b56bcf54d3c778a452bc30700ae3a"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

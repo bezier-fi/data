@@ -1,0 +1,24 @@
+{
+	"Id": "0x5e34cfcfd6d80edb52f7f6d8c4caa1980028dcb7",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0x5e34cfcfd6d80edb52f7f6d8c4caa1980028dcb7",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb8301d8023af4769e0cd53783014842571821cbc"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SOBLUE-WETH (0.30%)",
+	"Chain": "ethereum"
+}

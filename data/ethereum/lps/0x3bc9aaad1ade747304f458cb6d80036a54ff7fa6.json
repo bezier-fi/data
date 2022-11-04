@@ -1,0 +1,10 @@
+{
+	"Id": "0x3bc9aaad1ade747304f458cb6d80036a54ff7fa6",
+	"Symbol": "AXL-WETH",
+	"UnderlyingTokens": [
+		"0x25b24b3c47918b7962b3e49c4f468367f73cc0e0",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

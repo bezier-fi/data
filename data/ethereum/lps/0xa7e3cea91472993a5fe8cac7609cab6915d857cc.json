@@ -1,0 +1,10 @@
+{
+	"Id": "0xa7e3cea91472993a5fe8cac7609cab6915d857cc",
+	"Symbol": "AMT-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0xb65df73fc4f6591ebe00494a4bd47ed339a81210",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

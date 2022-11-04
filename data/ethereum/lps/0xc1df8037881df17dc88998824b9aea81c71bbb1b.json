@@ -1,0 +1,10 @@
+{
+	"Id": "0xc1df8037881df17dc88998824b9aea81c71bbb1b",
+	"Symbol": "FORTH-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x77fba179c79de5b7653f68b5039af940ada60ce0",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

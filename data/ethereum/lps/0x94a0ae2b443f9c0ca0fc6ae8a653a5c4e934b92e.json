@@ -1,0 +1,10 @@
+{
+	"Id": "0x94a0ae2b443f9c0ca0fc6ae8a653a5c4e934b92e",
+	"Symbol": "XCM-WETH",
+	"UnderlyingTokens": [
+		"0x36ac219f90f5a6a3c77f2a7b660e3cc701f68e25",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

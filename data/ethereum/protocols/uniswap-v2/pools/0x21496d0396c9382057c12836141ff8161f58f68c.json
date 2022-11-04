@@ -1,0 +1,24 @@
+{
+	"Id": "0x21496d0396c9382057c12836141ff8161f58f68c",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x21496d0396c9382057c12836141ff8161f58f68c",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2259d27a025eb4ad200ec6deb313b3b5bcb2cd74"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "HACKD 🚓-WETH",
+	"Chain": "ethereum"
+}

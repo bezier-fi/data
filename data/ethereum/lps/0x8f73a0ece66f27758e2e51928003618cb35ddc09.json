@@ -1,0 +1,10 @@
+{
+	"Id": "0x8f73a0ece66f27758e2e51928003618cb35ddc09",
+	"Symbol": "SMC-WETH",
+	"UnderlyingTokens": [
+		"0xb379b20bf605ba720b63501274a92b0ff717b293",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

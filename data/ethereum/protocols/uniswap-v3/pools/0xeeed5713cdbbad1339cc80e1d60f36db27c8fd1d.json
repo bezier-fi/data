@@ -1,0 +1,24 @@
+{
+	"Id": "0xeeed5713cdbbad1339cc80e1d60f36db27c8fd1d",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xeeed5713cdbbad1339cc80e1d60f36db27c8fd1d",
+			"Apr": 4.225365,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa1eb103f8187645ab29ef97038a1157f33bb69ab"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TGOLD-WETH (0.30%)",
+	"Chain": "ethereum"
+}

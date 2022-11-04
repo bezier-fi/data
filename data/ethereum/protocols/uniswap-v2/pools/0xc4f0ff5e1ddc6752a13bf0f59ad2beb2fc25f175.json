@@ -1,0 +1,24 @@
+{
+	"Id": "0xc4f0ff5e1ddc6752a13bf0f59ad2beb2fc25f175",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xc4f0ff5e1ddc6752a13bf0f59ad2beb2fc25f175",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc6e145421fd494b26dcf2bfeb1b02b7c5721978f"
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CPRX-USDT",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xb08055f04ee996e6d8485b4fd1e8e13846cedaf0",
+	"Symbol": "WETH-NELSON",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc4d96cc780e8980a2ad7a7c288937f3c81d03b2e"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

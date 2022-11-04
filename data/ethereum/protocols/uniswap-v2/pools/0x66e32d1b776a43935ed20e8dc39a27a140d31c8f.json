@@ -1,0 +1,24 @@
+{
+	"Id": "0x66e32d1b776a43935ed20e8dc39a27a140d31c8f",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x66e32d1b776a43935ed20e8dc39a27a140d31c8f",
+			"Apr": 1.7764393,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+		},
+		{
+			"Address": "0xdaf88906ac1de12ba2b1d2f7bfc94e9638ac40c4"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDT-ERC20-EPK",
+	"Chain": "ethereum"
+}

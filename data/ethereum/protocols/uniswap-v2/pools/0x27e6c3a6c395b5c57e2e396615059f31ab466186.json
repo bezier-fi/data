@@ -1,0 +1,24 @@
+{
+	"Id": "0x27e6c3a6c395b5c57e2e396615059f31ab466186",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x27e6c3a6c395b5c57e2e396615059f31ab466186",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0ace3734ef876533fbc4d2ed8bee34bc38a65344"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "NOVA-WETH",
+	"Chain": "ethereum"
+}

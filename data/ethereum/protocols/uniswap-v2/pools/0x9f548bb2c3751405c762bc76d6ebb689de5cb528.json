@@ -1,0 +1,24 @@
+{
+	"Id": "0x9f548bb2c3751405c762bc76d6ebb689de5cb528",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x9f548bb2c3751405c762bc76d6ebb689de5cb528",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x63677ac7d08d4676f79613ac9e71bbae168cb18a"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SHARKIE-WETH",
+	"Chain": "ethereum"
+}

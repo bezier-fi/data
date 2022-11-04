@@ -1,0 +1,24 @@
+{
+	"Id": "0xf20ef17b889b437c151eb5ba15a47bfc62bff469",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xf20ef17b889b437c151eb5ba15a47bfc62bff469",
+			"Apr": 2.5595388,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5f98805a4e8be255a32880fdec7f6728c6568ba0"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "LUSD-WETH",
+	"Chain": "ethereum"
+}

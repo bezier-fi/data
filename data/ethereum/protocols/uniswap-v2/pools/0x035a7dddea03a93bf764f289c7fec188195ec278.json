@@ -1,0 +1,24 @@
+{
+	"Id": "0x035a7dddea03a93bf764f289c7fec188195ec278",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x035a7dddea03a93bf764f289c7fec188195ec278",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x862a40783c37f4997cabd57faf2a79e8b90f445c"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FOREVER-WETH",
+	"Chain": "ethereum"
+}

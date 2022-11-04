@@ -1,0 +1,10 @@
+{
+	"Id": "0xe258890c1a0c7d54d8d3d54dd3a9476f020e7707",
+	"Symbol": "GELON-WETH",
+	"UnderlyingTokens": [
+		"0x3d09170936a74d02ed021840ca0313e519f3f683",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

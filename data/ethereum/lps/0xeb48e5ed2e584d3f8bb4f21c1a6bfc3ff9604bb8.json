@@ -1,0 +1,10 @@
+{
+	"Id": "0xeb48e5ed2e584d3f8bb4f21c1a6bfc3ff9604bb8",
+	"Symbol": "GenIm-WETH",
+	"UnderlyingTokens": [
+		"0x237c9e8a085663ebaa22a600c1b9846fb529e900",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

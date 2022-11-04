@@ -1,0 +1,21 @@
+{
+	"Id": "0xdb15F201529778b5e2dfa52D41615cd1AB24c765",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xdb15F201529778b5e2dfa52D41615cd1AB24c765",
+			"Apr": 21.44669,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x05eFa0Ed56DDdB4E950E3F5a54e349A137d4edC9"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "pMATIC-MATIC LP",
+	"Chain": "polygon"
+}

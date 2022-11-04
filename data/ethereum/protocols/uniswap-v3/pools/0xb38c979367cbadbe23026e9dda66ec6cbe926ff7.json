@@ -1,0 +1,24 @@
+{
+	"Id": "0xb38c979367cbadbe23026e9dda66ec6cbe926ff7",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xb38c979367cbadbe23026e9dda66ec6cbe926ff7",
+			"Apr": 3.0721245,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1321f1f1aa541a56c31682c57b80ecfccd9bb288"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ARCX-WETH (1.00%)",
+	"Chain": "ethereum"
+}

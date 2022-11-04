@@ -1,0 +1,24 @@
+{
+	"Id": "0x75bff91af9878f5ec3fede9b52d51159afc2430a",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0x75bff91af9878f5ec3fede9b52d51159afc2430a",
+			"Apr": 0.431239,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x419d0d8bdd9af5e606ae2232ed285aff190e711b"
+		},
+		{
+			"Address": "0x6b175474e89094c44da98b954eedeac495271d0f"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FUN-DAI (0.01%)",
+	"Chain": "ethereum"
+}

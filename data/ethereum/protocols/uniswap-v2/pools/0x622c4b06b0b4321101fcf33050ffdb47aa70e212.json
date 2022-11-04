@@ -1,0 +1,24 @@
+{
+	"Id": "0x622c4b06b0b4321101fcf33050ffdb47aa70e212",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x622c4b06b0b4321101fcf33050ffdb47aa70e212",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x095142f5a3ac51465b5add20c1e528b604afeab2"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TOKING-WETH",
+	"Chain": "ethereum"
+}

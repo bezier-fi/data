@@ -1,0 +1,10 @@
+{
+	"Id": "0xbd39b1f24b8960d3d7cd2c5471d0493496888185",
+	"Symbol": "UNIUSD-WETH",
+	"UnderlyingTokens": [
+		"0x256845e721c0c46d54e6afbd4fa3b52cb72353ea",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

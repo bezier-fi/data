@@ -1,0 +1,24 @@
+{
+	"Id": "0x808dB6E464279C6A77a1164E0b34d64Bd6fB526E",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0x23E7817bC73645063FB2fa85c1d098EfFE84bE90",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xE80C0cd204D654CEbe8dd64A4857cAb6Be8345a3"
+		},
+		{
+			"Address": "0x836A808d4828586A69364065A1e064609F5078c7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "JPEGpETH-f",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x3688ec45e6c03e78954f96a17d3dc4d7c4794ca4",
+	"Symbol": "UNIDX-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x95b3497bbcccc46a8f45f5cf54b0878b39f8d96c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

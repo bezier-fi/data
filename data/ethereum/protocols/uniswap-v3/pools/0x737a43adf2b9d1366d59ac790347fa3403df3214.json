@@ -1,0 +1,24 @@
+{
+	"Id": "0x737a43adf2b9d1366d59ac790347fa3403df3214",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0x737a43adf2b9d1366d59ac790347fa3403df3214",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7e291890b01e5181f7ecc98d79ffbe12ad23df9e"
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "NIF-USDT (1.00%)",
+	"Chain": "ethereum"
+}

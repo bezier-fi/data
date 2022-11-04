@@ -1,0 +1,10 @@
+{
+	"Id": "0x8c16076a3aa3fa9b39873f4ebc83bcbc102facda",
+	"Symbol": "WETH-CHRG",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xedc511cd6cf92877f755c3641141d416d65a4e10"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

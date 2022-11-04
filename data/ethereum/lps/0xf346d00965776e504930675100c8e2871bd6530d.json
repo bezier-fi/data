@@ -1,0 +1,10 @@
+{
+	"Id": "0xf346d00965776e504930675100c8e2871bd6530d",
+	"Symbol": "Skey-WETH",
+	"UnderlyingTokens": [
+		"0x06a01a4d579479dd5d884ebf61a31727a3d8d442",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

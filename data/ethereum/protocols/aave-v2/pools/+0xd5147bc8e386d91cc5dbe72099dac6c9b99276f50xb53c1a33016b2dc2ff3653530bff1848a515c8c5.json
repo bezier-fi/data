@@ -1,0 +1,21 @@
+{
+	"Id": "0xd5147bc8e386d91cc5dbe72099dac6c9b99276f50xb53c1a33016b2dc2ff3653530bff1848a515c8c5",
+	"Protocol": "27d88614-071b-4e2b-a57b-1cc6a09c4cd1",
+	"Outputs": [
+		{
+			"Address": "0x514cd6756ccbe28772d4cb81bc3156ba9d1744aa",
+			"Apr": 0.7356364,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xd5147bc8e386d91cc5dbe72099dac6c9b99276f5"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "RENFIL",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,24 @@
+{
+	"Id": "0xa1acce84bab309ba739ed24e07535caa93b8c48c",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xa1acce84bab309ba739ed24e07535caa93b8c48c",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xbe34652ed180bda7b9a757bac71a22e681c06c5f"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "KIZO-WETH",
+	"Chain": "ethereum"
+}

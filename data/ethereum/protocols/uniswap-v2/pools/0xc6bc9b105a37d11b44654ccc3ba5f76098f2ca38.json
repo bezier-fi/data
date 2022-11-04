@@ -1,0 +1,24 @@
+{
+	"Id": "0xc6bc9b105a37d11b44654ccc3ba5f76098f2ca38",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xc6bc9b105a37d11b44654ccc3ba5f76098f2ca38",
+			"Apr": 54.195778,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x519c1001d550c0a1dae7d1fc220f7d14c2a521bb"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PSWAP-WETH",
+	"Chain": "ethereum"
+}

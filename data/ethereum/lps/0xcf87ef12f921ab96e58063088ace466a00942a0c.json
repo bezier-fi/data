@@ -1,0 +1,10 @@
+{
+	"Id": "0xcf87ef12f921ab96e58063088ace466a00942a0c",
+	"Symbol": "MMINT-WETH",
+	"UnderlyingTokens": [
+		"0x6953f996026d291b0882213f7ad84c2b13b8cdbd",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

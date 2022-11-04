@@ -1,0 +1,10 @@
+{
+	"Id": "0xcf004dc08d908f2f437452c4011f3103f77098a8",
+	"Symbol": "AKI-WETH",
+	"UnderlyingTokens": [
+		"0x9efdfc77017cb9b878300ecdca21fab0529a22a0",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

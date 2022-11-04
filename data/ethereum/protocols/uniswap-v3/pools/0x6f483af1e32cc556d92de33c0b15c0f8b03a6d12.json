@@ -1,0 +1,24 @@
+{
+	"Id": "0x6f483af1e32cc556d92de33c0b15c0f8b03a6d12",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0x6f483af1e32cc556d92de33c0b15c0f8b03a6d12",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		},
+		{
+			"Address": "0xc7283b66eb1eb5fb86327f08e1b5816b0720212b"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-TRIBE (0.05%)",
+	"Chain": "ethereum"
+}

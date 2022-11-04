@@ -1,0 +1,24 @@
+{
+	"Id": "0x4d1eff861316396dd1915f69b49f4c2d7b11590d",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0x4d1eff861316396dd1915f69b49f4c2d7b11590d",
+			"Apr": 306.7594,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7420b4b9a0110cdc71fb720908340c03f9bc03ec"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "JASMY-WETH (1.00%)",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x06f59bb17a8657cf0a787d5a351523a7ea7c5aaf",
+	"Symbol": "GOLAZO-WETH",
+	"UnderlyingTokens": [
+		"0x2557d034c3b850305054da5ccaeb841d559c4b51",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

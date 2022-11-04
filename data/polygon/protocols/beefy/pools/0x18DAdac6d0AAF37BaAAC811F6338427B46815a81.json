@@ -1,0 +1,21 @@
+{
+	"Id": "0x18DAdac6d0AAF37BaAAC811F6338427B46815a81",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x18DAdac6d0AAF37BaAAC811F6338427B46815a81",
+			"Apr": 13.105247,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xeF75E9C7097842AcC5D0869E1dB4e5fDdf4BFDDA"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "jSGD-XSGD LP",
+	"Chain": "polygon"
+}

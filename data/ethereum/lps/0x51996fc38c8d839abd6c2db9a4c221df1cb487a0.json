@@ -1,0 +1,10 @@
+{
+	"Id": "0x51996fc38c8d839abd6c2db9a4c221df1cb487a0",
+	"Symbol": "rHEGIC2-WETH",
+	"UnderlyingTokens": [
+		"0xad7ca17e23f13982796d27d1e6406366def6ee5f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

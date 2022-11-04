@@ -1,0 +1,10 @@
+{
+	"Id": "0x277f51fb92f56426face7c0e6c487f0e9563b10d",
+	"Symbol": "$EDrain-WETH",
+	"UnderlyingTokens": [
+		"0x9f5e7f317385e51b39333107ac1c3de3957b0f73",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

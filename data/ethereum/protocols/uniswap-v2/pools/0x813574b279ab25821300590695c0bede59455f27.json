@@ -1,0 +1,24 @@
+{
+	"Id": "0x813574b279ab25821300590695c0bede59455f27",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x813574b279ab25821300590695c0bede59455f27",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x05b4af867dcff2e45d75d04d52cda919c7a27e08"
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GOV-USDC",
+	"Chain": "ethereum"
+}

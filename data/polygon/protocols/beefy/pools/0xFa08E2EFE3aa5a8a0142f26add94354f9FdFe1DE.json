@@ -1,0 +1,21 @@
+{
+	"Id": "0xFa08E2EFE3aa5a8a0142f26add94354f9FdFe1DE",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xFa08E2EFE3aa5a8a0142f26add94354f9FdFe1DE",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x97A95deb56d689802F02f50c25EBCda5d0A49591"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "xMARK-USDC LP",
+	"Chain": "polygon"
+}

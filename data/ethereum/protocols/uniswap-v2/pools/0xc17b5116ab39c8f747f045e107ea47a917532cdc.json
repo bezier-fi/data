@@ -1,0 +1,24 @@
+{
+	"Id": "0xc17b5116ab39c8f747f045e107ea47a917532cdc",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xc17b5116ab39c8f747f045e107ea47a917532cdc",
+			"Apr": 25.698515,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x852e5427c86a3b46dd25e5fe027bb15f53c4bcb8"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "NIIFI-WETH",
+	"Chain": "ethereum"
+}

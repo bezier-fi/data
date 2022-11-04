@@ -1,0 +1,24 @@
+{
+	"Id": "0xe3496358c6e16c0bd015c0d2f817029e7bfdd55e",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xe3496358c6e16c0bd015c0d2f817029e7bfdd55e",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6f80310ca7f2c654691d1383149fa1a57d8ab1f8"
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Silo-USDC (1.00%)",
+	"Chain": "ethereum"
+}

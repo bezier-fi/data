@@ -1,0 +1,24 @@
+{
+	"Id": "0x317ebce9e57902e2a614017436e87e5e3dc945ab",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x317ebce9e57902e2a614017436e87e5e3dc945ab",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa461258c192cb6057ad8729589b0d18b08ccace8"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PLANETINU-WETH",
+	"Chain": "ethereum"
+}

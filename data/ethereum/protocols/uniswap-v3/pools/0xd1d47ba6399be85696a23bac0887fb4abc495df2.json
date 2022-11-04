@@ -1,0 +1,24 @@
+{
+	"Id": "0xd1d47ba6399be85696a23bac0887fb4abc495df2",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xd1d47ba6399be85696a23bac0887fb4abc495df2",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xd0d7a9f2021958e51d60d6966b7bbed9d1cb22b5"
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ENX-USDT (0.30%)",
+	"Chain": "ethereum"
+}

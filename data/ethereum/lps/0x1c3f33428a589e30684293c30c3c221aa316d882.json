@@ -1,0 +1,10 @@
+{
+	"Id": "0x1c3f33428a589e30684293c30c3c221aa316d882",
+	"Symbol": "RELAX-WETH",
+	"UnderlyingTokens": [
+		"0x801de502c493aa9d3f9f79a0348fbc00521b3001",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

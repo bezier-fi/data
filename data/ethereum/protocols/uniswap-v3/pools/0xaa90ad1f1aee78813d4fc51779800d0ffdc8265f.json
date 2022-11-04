@@ -1,0 +1,24 @@
+{
+	"Id": "0xaa90ad1f1aee78813d4fc51779800d0ffdc8265f",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xaa90ad1f1aee78813d4fc51779800d0ffdc8265f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6bbc62e6d25dbcc78d5ee8cebdd256341da1ca5b"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "RYC-WETH (0.30%)",
+	"Chain": "ethereum"
+}

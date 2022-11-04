@@ -1,0 +1,24 @@
+{
+	"Id": "0x4D19E7fD118FD751fEa7c0324D7E7b0A3D05EbA4",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0x0d1d69876b55080e92119C9e2c3C8FF46667e7fe",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8CB24ed2e4f7e2065f4eB2bE5f6B0064B1919850"
+		},
+		{
+			"Address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ZARPUSDC-f",
+	"Chain": "ethereum"
+}

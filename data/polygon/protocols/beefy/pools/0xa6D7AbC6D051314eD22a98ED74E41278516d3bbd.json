@@ -1,0 +1,21 @@
+{
+	"Id": "0xa6D7AbC6D051314eD22a98ED74E41278516d3bbd",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xa6D7AbC6D051314eD22a98ED74E41278516d3bbd",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xd0f3121A190d85dE0AB6131f2bCEcdbfcfB38891"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "YELD",
+	"Chain": "polygon"
+}

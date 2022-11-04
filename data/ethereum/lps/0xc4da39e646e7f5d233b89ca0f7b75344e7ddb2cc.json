@@ -1,0 +1,10 @@
+{
+	"Id": "0xc4da39e646e7f5d233b89ca0f7b75344e7ddb2cc",
+	"Symbol": "KIMCHI-WETH",
+	"UnderlyingTokens": [
+		"0x1e18821e69b9faa8e6e75dffe54e7e25754beda0",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

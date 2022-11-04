@@ -1,0 +1,10 @@
+{
+	"Id": "0x48545cb7d415d98b652be3c02d6bc1b3b825c0bc",
+	"Symbol": "COMETINU-WETH",
+	"UnderlyingTokens": [
+		"0x1c985a54f2764470de87425a93d92c40feac5a8b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

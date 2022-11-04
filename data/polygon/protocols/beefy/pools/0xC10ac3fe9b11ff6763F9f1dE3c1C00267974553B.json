@@ -1,0 +1,21 @@
+{
+	"Id": "0xC10ac3fe9b11ff6763F9f1dE3c1C00267974553B",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xC10ac3fe9b11ff6763F9f1dE3c1C00267974553B",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xe11eb426206960e9533828031cDFED0B4B61749C"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BALL-MATIC QLP",
+	"Chain": "polygon"
+}

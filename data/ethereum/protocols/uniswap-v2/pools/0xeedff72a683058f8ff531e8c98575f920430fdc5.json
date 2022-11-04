@@ -1,0 +1,24 @@
+{
+	"Id": "0xeedff72a683058f8ff531e8c98575f920430fdc5",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xeedff72a683058f8ff531e8c98575f920430fdc5",
+			"Apr": 22.874725,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x89b69f2d1adffa9a253d40840b6baa7fc903d697"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Dione-WETH",
+	"Chain": "ethereum"
+}

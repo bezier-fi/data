@@ -1,0 +1,10 @@
+{
+	"Id": "0x916560c92f423bf7d20f34591a6b27a254c3bd7a",
+	"Symbol": "YUP-WETH",
+	"UnderlyingTokens": [
+		"0x69bbc3f8787d573f1bbdd0a5f40c7ba0aee9bcc9",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

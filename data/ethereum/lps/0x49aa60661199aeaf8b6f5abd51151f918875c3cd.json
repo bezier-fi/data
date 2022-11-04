@@ -1,0 +1,10 @@
+{
+	"Id": "0x49aa60661199aeaf8b6f5abd51151f918875c3cd",
+	"Symbol": "WETH-ASAP",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xcc665390b03c5d324d8faf81c15ecee29a73bcb4"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

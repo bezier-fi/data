@@ -1,0 +1,10 @@
+{
+	"Id": "0xcd4d1296330a20855062c9667e088612fff3c151",
+	"Symbol": "SHIFT-WETH",
+	"UnderlyingTokens": [
+		"0xb250382d6a8b5e366236af688a22e0036c4d63a9",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

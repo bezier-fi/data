@@ -1,0 +1,10 @@
+{
+	"Id": "0xe11aafbe117f75df84ae574893224cf4eb2145d9",
+	"Symbol": "GAYAPE-WETH",
+	"UnderlyingTokens": [
+		"0x905f0530f5eb0a91299a942ff1cec21d65c2e2ec",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

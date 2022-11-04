@@ -1,0 +1,10 @@
+{
+	"Id": "0xfa5562729fdc3ed3a52c3aab2e12bd504fd24991",
+	"Symbol": "AVG-WETH",
+	"UnderlyingTokens": [
+		"0xa41f142b6eb2b164f8164cae0716892ce02f311f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

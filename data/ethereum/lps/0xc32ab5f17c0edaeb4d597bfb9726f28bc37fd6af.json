@@ -1,0 +1,10 @@
+{
+	"Id": "0xc32ab5f17c0edaeb4d597bfb9726f28bc37fd6af",
+	"Symbol": "ZUT-WETH",
+	"UnderlyingTokens": [
+		"0x83f873388cd14b83a9f47fabde3c9850b5c74548",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

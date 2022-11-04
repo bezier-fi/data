@@ -1,0 +1,10 @@
+{
+	"Id": "0xf2f84c274f715ba1fe7d1d28a4e377fb59a33386",
+	"Symbol": "NAMI-WETH",
+	"UnderlyingTokens": [
+		"0x7eb4db4dddb16a329c5ade17a8a0178331267e28",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

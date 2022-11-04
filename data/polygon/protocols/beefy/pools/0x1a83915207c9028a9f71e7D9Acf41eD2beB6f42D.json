@@ -1,0 +1,21 @@
+{
+	"Id": "0x1a83915207c9028a9f71e7D9Acf41eD2beB6f42D",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x1a83915207c9028a9f71e7D9Acf41eD2beB6f42D",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9F77Ef7175032867d26E75D2fA267A6299E3fb57"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DPI-ETH LP",
+	"Chain": "polygon"
+}

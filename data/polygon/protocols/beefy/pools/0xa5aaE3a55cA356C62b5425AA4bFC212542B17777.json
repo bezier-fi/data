@@ -1,0 +1,21 @@
+{
+	"Id": "0xa5aaE3a55cA356C62b5425AA4bFC212542B17777",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xa5aaE3a55cA356C62b5425AA4bFC212542B17777",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x462390EA53F70F7570EEB2002c0150aF519f93A9"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ETH-MATIC LP",
+	"Chain": "polygon"
+}

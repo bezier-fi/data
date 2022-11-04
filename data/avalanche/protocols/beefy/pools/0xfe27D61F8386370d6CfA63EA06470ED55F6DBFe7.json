@@ -1,0 +1,21 @@
+{
+	"Id": "0xfe27D61F8386370d6CfA63EA06470ED55F6DBFe7",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xfe27D61F8386370d6CfA63EA06470ED55F6DBFe7",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x130966628846BFd36ff31a822705796e8cb8C18D"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MIM",
+	"Chain": "avalanche"
+}

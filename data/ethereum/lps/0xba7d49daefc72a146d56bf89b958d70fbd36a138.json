@@ -1,0 +1,10 @@
+{
+	"Id": "0xba7d49daefc72a146d56bf89b958d70fbd36a138",
+	"Symbol": "GLI-WETH",
+	"UnderlyingTokens": [
+		"0x29c33a4d0c10b45b8e8c8df25e5ce7fc1e8ae6b5",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

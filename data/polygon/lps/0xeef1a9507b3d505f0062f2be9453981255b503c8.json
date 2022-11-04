@@ -1,0 +1,10 @@
+{
+	"Id": "0xeef1a9507b3d505f0062f2be9453981255b503c8",
+	"Symbol": "WBTC-USDC (0.05%)",
+	"UnderlyingTokens": [
+		"0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6",
+		"0x2791bca1f2de4661ed88a30c99a7a9449aa84174"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "polygon"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xea5d8c302146f8506f71a968a71f0c02f9241e5a",
+	"Symbol": "KATSUDO-WETH",
+	"UnderlyingTokens": [
+		"0x10db98474ac7da7a4355007db02393cd6dff1ef6",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

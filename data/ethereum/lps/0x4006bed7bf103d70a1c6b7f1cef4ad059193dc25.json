@@ -1,0 +1,10 @@
+{
+	"Id": "0x4006bed7bf103d70a1c6b7f1cef4ad059193dc25",
+	"Symbol": "GAMMA-WETH (0.30%)",
+	"UnderlyingTokens": [
+		"0x6bea7cfef803d1e3d5f7c0103f7ded065644e197",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

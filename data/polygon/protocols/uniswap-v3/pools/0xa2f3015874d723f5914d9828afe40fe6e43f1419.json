@@ -1,0 +1,24 @@
+{
+	"Id": "0xa2f3015874d723f5914d9828afe40fe6e43f1419",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xa2f3015874d723f5914d9828afe40fe6e43f1419",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb832b1c86c79fa560ee817001f7b7ada1f0cdc85"
+		},
+		{
+			"Address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "OTM-USDT (0.30%)",
+	"Chain": "polygon"
+}

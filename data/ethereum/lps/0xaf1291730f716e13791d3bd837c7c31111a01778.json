@@ -1,0 +1,10 @@
+{
+	"Id": "0xaf1291730f716e13791d3bd837c7c31111a01778",
+	"Symbol": "QUICK-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x6c28aef8977c9b773996d0e8376d2ee379446f2f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

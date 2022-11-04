@@ -1,0 +1,10 @@
+{
+	"Id": "0xec3f48efcd7c8c12dd3c750adcd478b5a41c7375",
+	"Symbol": "DUCKY-WETH",
+	"UnderlyingTokens": [
+		"0x7f56462b1f302c832fd5cfb81971a759ff9d16cf",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

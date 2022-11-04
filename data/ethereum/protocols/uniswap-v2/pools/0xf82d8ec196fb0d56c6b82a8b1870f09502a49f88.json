@@ -1,0 +1,24 @@
+{
+	"Id": "0xf82d8ec196fb0d56c6b82a8b1870f09502a49f88",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xf82d8ec196fb0d56c6b82a8b1870f09502a49f88",
+			"Apr": 1.62571,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa2b4c0af19cc16a6cfacce81f192b024d625817d"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "KISHU-WETH",
+	"Chain": "ethereum"
+}

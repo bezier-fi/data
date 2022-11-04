@@ -1,0 +1,10 @@
+{
+	"Id": "0xee802b312a957e00dd7bbc08eec8bb93d40e981d",
+	"Symbol": "MILK2-WETH",
+	"UnderlyingTokens": [
+		"0x80c8c3dcfb854f9542567c8dac3f44d709ebc1de",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

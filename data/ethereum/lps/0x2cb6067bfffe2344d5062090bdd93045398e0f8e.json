@@ -1,0 +1,10 @@
+{
+	"Id": "0x2cb6067bfffe2344d5062090bdd93045398e0f8e",
+	"Symbol": "WETH-GRN",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xca7ac1dd35876a0dabec1ab1b37129c37b78a20f"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

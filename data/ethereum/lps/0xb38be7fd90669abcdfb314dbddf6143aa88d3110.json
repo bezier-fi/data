@@ -1,0 +1,10 @@
+{
+	"Id": "0xb38be7fd90669abcdfb314dbddf6143aa88d3110",
+	"Symbol": "WETH-GTH",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc3771d47e2ab5a519e2917e61e23078d0c05ed7f"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

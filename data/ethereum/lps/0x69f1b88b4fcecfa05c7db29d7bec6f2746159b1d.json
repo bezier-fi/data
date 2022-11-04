@@ -1,0 +1,10 @@
+{
+	"Id": "0x69f1b88b4fcecfa05c7db29d7bec6f2746159b1d",
+	"Symbol": "TICK-WETH",
+	"UnderlyingTokens": [
+		"0xafc0d7510a4e6521c2c282424d3e6bbc3f5d4cb8",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

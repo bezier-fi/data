@@ -1,0 +1,24 @@
+{
+	"Id": "0x62302794f11b4e8f99d5bb0f2616e667b677e8fd",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0x62302794f11b4e8f99d5bb0f2616e667b677e8fd",
+			"Apr": 4.2672925,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xd794dd1cada4cf79c9eebaab8327a1b0507ef7d4"
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "HYVE-USDT (0.30%)",
+	"Chain": "ethereum"
+}

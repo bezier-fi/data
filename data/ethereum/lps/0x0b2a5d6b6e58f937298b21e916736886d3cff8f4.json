@@ -1,0 +1,10 @@
+{
+	"Id": "0x0b2a5d6b6e58f937298b21e916736886d3cff8f4",
+	"Symbol": "Twige-WETH",
+	"UnderlyingTokens": [
+		"0x4389c9c4ff38b24ed09dc9dbea192041d178226e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

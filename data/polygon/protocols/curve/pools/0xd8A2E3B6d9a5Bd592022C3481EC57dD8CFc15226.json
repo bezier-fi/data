@@ -1,0 +1,24 @@
+{
+	"Id": "0xd8A2E3B6d9a5Bd592022C3481EC57dD8CFc15226",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0xd8A2E3B6d9a5Bd592022C3481EC57dD8CFc15226",
+			"Apr": 0.6156537,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B"
+		},
+		{
+			"Address": "0xE7a24EF0C5e95Ffb0f6684b813A78F2a3AD7D171"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BOBam3CRV3CRV-f",
+	"Chain": "polygon"
+}

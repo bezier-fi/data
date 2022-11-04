@@ -1,0 +1,10 @@
+{
+	"Id": "0xbdc7f66e71c3571454f04b195e8afaaf7867734b",
+	"Symbol": "WANKO-WETH",
+	"UnderlyingTokens": [
+		"0x94d74a745d36e55c295b0ef5e8b547edd7dc9a2d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

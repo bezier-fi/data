@@ -1,0 +1,10 @@
+{
+	"Id": "0x4d96369002fc5b9687ee924d458a7e5baa5df34e",
+	"Symbol": "MPH-WETH",
+	"UnderlyingTokens": [
+		"0x8888801af4d980682e47f1a9036e589479e835c5",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,24 @@
+{
+	"Id": "0xbf706e6852059638d547114659c66bad04463278",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xbf706e6852059638d547114659c66bad04463278",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0"
+		},
+		{
+			"Address": "0xa91c82b6933105c23298e631a0c1be751d239162"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MATIC-SOTU",
+	"Chain": "ethereum"
+}

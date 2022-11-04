@@ -1,0 +1,10 @@
+{
+	"Id": "0xc0bf97bffa94a50502265c579a3b7086d081664b",
+	"Symbol": "STRONG-WETH",
+	"UnderlyingTokens": [
+		"0x990f341946a3fdb507ae7e52d17851b87168017c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

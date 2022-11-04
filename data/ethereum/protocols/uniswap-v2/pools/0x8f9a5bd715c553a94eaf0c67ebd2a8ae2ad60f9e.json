@@ -1,0 +1,24 @@
+{
+	"Id": "0x8f9a5bd715c553a94eaf0c67ebd2a8ae2ad60f9e",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x8f9a5bd715c553a94eaf0c67ebd2a8ae2ad60f9e",
+			"Apr": 0.8955486,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4da34f8264cb33a5c9f17081b9ef5ff6091116f4"
+		},
+		{
+			"Address": "0x6b175474e89094c44da98b954eedeac495271d0f"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ELFI-DAI",
+	"Chain": "ethereum"
+}

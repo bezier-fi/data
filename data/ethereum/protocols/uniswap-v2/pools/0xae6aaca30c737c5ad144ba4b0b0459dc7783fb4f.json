@@ -1,0 +1,24 @@
+{
+	"Id": "0xae6aaca30c737c5ad144ba4b0b0459dc7783fb4f",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xae6aaca30c737c5ad144ba4b0b0459dc7783fb4f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		},
+		{
+			"Address": "0xd51ff2860f2ea47a03a7eb052b47ff7ea3138ab7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-TAIGA",
+	"Chain": "ethereum"
+}

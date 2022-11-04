@@ -1,0 +1,10 @@
+{
+	"Id": "0xd366ed22f5b2262a2da4c32d8a4607c93690134a",
+	"Symbol": "CHR-WETH",
+	"UnderlyingTokens": [
+		"0x8a2279d4a90b6fe1c4b30fa660cc9f926797baa2",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

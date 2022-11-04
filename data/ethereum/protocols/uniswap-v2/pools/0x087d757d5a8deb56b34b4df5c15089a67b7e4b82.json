@@ -1,0 +1,24 @@
+{
+	"Id": "0x087d757d5a8deb56b34b4df5c15089a67b7e4b82",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x087d757d5a8deb56b34b4df5c15089a67b7e4b82",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5425725b687b70b197c8ec2edb2e6e3f9703e3d1"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "KokaiShin-WETH",
+	"Chain": "ethereum"
+}

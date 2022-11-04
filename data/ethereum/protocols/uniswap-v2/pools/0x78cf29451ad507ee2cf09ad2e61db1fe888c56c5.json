@@ -1,0 +1,24 @@
+{
+	"Id": "0x78cf29451ad507ee2cf09ad2e61db1fe888c56c5",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x78cf29451ad507ee2cf09ad2e61db1fe888c56c5",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x550e6000663eaf96a65bbd930ec19b85f2392bf9"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SHINKNIGHT-WETH",
+	"Chain": "ethereum"
+}

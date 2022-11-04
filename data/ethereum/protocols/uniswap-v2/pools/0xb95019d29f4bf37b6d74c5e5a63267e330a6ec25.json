@@ -1,0 +1,24 @@
+{
+	"Id": "0xb95019d29f4bf37b6d74c5e5a63267e330a6ec25",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xb95019d29f4bf37b6d74c5e5a63267e330a6ec25",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2c48aa598aec45b20a493d6ede0f60c474a70d72"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "HUKR-WETH",
+	"Chain": "ethereum"
+}

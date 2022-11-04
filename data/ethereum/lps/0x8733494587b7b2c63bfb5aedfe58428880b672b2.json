@@ -1,0 +1,10 @@
+{
+	"Id": "0x8733494587b7b2c63bfb5aedfe58428880b672b2",
+	"Symbol": "NFTS-WETH",
+	"UnderlyingTokens": [
+		"0x3620614f7dc3df214e34393b6ec66336ac41479c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

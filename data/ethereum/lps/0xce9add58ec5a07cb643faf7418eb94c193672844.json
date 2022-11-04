@@ -1,0 +1,10 @@
+{
+	"Id": "0xce9add58ec5a07cb643faf7418eb94c193672844",
+	"Symbol": "DVD-WETH",
+	"UnderlyingTokens": [
+		"0x77dce26c03a9b833fc2d7c31c22da4f42e9d9582",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

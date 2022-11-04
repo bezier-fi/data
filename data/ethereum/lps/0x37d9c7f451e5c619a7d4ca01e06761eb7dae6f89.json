@@ -1,0 +1,10 @@
+{
+	"Id": "0x37d9c7f451e5c619a7d4ca01e06761eb7dae6f89",
+	"Symbol": "CYC-WETH",
+	"UnderlyingTokens": [
+		"0x8861cff2366c1128fd699b68304ad99a0764ef9a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

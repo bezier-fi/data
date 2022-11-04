@@ -1,0 +1,24 @@
+{
+	"Id": "0x0FaFaFD3C393ead5F5129cFC7e0E12367088c473",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0x0FaFaFD3C393ead5F5129cFC7e0E12367088c473",
+			"Apr": 0.089862294,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7945b0A6674b175695e5d1D08aE1e6F13744Abb0"
+		},
+		{
+			"Address": "0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "baoUSD-3CRV-f",
+	"Chain": "ethereum"
+}

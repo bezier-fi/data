@@ -1,0 +1,10 @@
+{
+	"Id": "0xf3ea2100e1b85772b76e342c955e22a01c970b8a",
+	"Symbol": "cUNI-WETH",
+	"UnderlyingTokens": [
+		"0x35a18000230da775cac24873d00ff85bccded550",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xea6f5ac04473093caf78c7b36a7d5ca55fc643eb",
+	"Symbol": "BLACKTAMA-WETH",
+	"UnderlyingTokens": [
+		"0x4c40b24cb4a4f12313765157611fd6ce02032f68",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

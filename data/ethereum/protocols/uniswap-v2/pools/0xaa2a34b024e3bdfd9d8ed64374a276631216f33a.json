@@ -1,0 +1,24 @@
+{
+	"Id": "0xaa2a34b024e3bdfd9d8ed64374a276631216f33a",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xaa2a34b024e3bdfd9d8ed64374a276631216f33a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x33cf519030235f75a13f29afcff5d6ff4fd10350"
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PEPEBET-USDC",
+	"Chain": "ethereum"
+}

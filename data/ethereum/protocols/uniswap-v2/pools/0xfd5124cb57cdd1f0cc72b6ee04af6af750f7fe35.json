@@ -1,0 +1,24 @@
+{
+	"Id": "0xfd5124cb57cdd1f0cc72b6ee04af6af750f7fe35",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xfd5124cb57cdd1f0cc72b6ee04af6af750f7fe35",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		},
+		{
+			"Address": "0xe1bfd5cdfc0c55cc51e25f3c05943d296e307fa9"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-PLATO",
+	"Chain": "ethereum"
+}

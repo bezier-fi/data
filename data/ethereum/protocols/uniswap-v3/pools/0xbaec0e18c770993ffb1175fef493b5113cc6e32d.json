@@ -1,0 +1,24 @@
+{
+	"Id": "0xbaec0e18c770993ffb1175fef493b5113cc6e32d",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xbaec0e18c770993ffb1175fef493b5113cc6e32d",
+			"Apr": 93.124146,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x767fe9edc9e0df98e07454847909b5e959d7ca0e"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ILV-WETH (1.00%)",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,21 @@
+{
+	"Id": "0xb2A56dFdbC890c102Dcd5e30afcfB43cD3343762",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xb2A56dFdbC890c102Dcd5e30afcfB43cD3343762",
+			"Apr": 2.3436134,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xf67DE5Cf1fB01DC4df842a846Df2a7Ec07c41b93"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WATCH-MATIC LP",
+	"Chain": "polygon"
+}

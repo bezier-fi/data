@@ -1,0 +1,24 @@
+{
+	"Id": "0xe45d8aa9a5497b8755e55bb91432fe8f555b94c0",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xe45d8aa9a5497b8755e55bb91432fe8f555b94c0",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x903bef1736cddf2a537176cf3c64579c3867a881"
+		},
+		{
+			"Address": "0xec4325f0518584f0774b483c215f65474eabd27f"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ICHI-oneBTC (1.00%)",
+	"Chain": "ethereum"
+}

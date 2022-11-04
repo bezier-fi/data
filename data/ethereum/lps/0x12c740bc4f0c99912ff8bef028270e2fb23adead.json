@@ -1,0 +1,10 @@
+{
+	"Id": "0x12c740bc4f0c99912ff8bef028270e2fb23adead",
+	"Symbol": "POO-WETH",
+	"UnderlyingTokens": [
+		"0x6a54ef1680f593574522422f3700194ec91ce57d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

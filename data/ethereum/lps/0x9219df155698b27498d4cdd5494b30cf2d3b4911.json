@@ -1,0 +1,10 @@
+{
+	"Id": "0x9219df155698b27498d4cdd5494b30cf2d3b4911",
+	"Symbol": "ACCEL-WETH",
+	"UnderlyingTokens": [
+		"0x7475c42f8bf2c19f4eaf12feaababa859fdc8914",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

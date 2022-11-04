@@ -1,0 +1,24 @@
+{
+	"Id": "0xe47f6c21c68bc07913577655d7c0c8421b280f66",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xe47f6c21c68bc07913577655d7c0c8421b280f66",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0"
+		},
+		{
+			"Address": "0xc2544a32872a91f4a553b404c6950e89de901fdb"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FXS-FPIS (1.00%)",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x718dd8b743ea19d71bdb4cb48bb984b73a65ce06",
+	"Symbol": "WETH-DONUT",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc0f9bd5fa5698b6505f643900ffa515ea5df54a9"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

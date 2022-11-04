@@ -1,0 +1,30 @@
+{
+	"Id": "0x3CFAa1596777CAD9f5004F9a0c443d912E262243",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0x3CFAa1596777CAD9f5004F9a0c443d912E262243",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x68037790A0229e9Ce6EaA8A99ea92964106C4703"
+		},
+		{
+			"Address": "0xC581b735A1688071A1746c968e0798D642EDE491"
+		},
+		{
+			"Address": "0xdB25f211AB05b1c97D595516F45794528a807ad8"
+		},
+		{
+			"Address": "0xD71eCFF9342A5Ced620049e616c5035F1dB98620"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "mEUR-f",
+	"Chain": "ethereum"
+}

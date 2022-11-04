@@ -1,0 +1,10 @@
+{
+	"Id": "0x85b7f804073c064ba05e8d7d5b72c6f26a80c84c",
+	"Symbol": "ElonTD-WETH",
+	"UnderlyingTokens": [
+		"0x98ecf3d8e21adaafe16c00cc3ff681e72690278b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

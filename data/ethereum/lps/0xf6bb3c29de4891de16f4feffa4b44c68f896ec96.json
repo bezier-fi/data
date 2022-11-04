@@ -1,0 +1,10 @@
+{
+	"Id": "0xf6bb3c29de4891de16f4feffa4b44c68f896ec96",
+	"Symbol": "DGNW-WETH",
+	"UnderlyingTokens": [
+		"0x4989b5ace8e387afcc2c3cfec697f2459d705bd7",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

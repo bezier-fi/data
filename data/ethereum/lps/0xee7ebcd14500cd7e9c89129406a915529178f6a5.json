@@ -1,0 +1,10 @@
+{
+	"Id": "0xee7ebcd14500cd7e9c89129406a915529178f6a5",
+	"Symbol": "ethTCG2-WETH (0.30%)",
+	"UnderlyingTokens": [
+		"0x0d31df7dedd78649a14aae62d99ccb23abcc3a5a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

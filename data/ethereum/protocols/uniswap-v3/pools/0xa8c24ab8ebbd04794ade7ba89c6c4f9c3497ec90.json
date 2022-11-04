@@ -1,0 +1,24 @@
+{
+	"Id": "0xa8c24ab8ebbd04794ade7ba89c6c4f9c3497ec90",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xa8c24ab8ebbd04794ade7ba89c6c4f9c3497ec90",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x70e8de73ce538da2beed35d14187f6959a8eca96"
+		},
+		{
+			"Address": "0x86b4dbe5d203e634a12364c0e428fa242a3fba98"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "XSGD-GBPT (0.30%)",
+	"Chain": "ethereum"
+}

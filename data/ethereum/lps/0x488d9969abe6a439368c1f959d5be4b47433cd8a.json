@@ -1,0 +1,10 @@
+{
+	"Id": "0x488d9969abe6a439368c1f959d5be4b47433cd8a",
+	"Symbol": "vesta-WETH",
+	"UnderlyingTokens": [
+		"0x3aef8e803bd9be47e69b9f36487748d30d940b96",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

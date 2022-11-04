@@ -1,0 +1,10 @@
+{
+	"Id": "0x1123bb74bbcfcaa5e5e021547e38979a4a580c7d",
+	"Symbol": "WETH-HEEL",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf941d3aabf2ee0f5589e68ba6047b8329592b366"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x0b5e1c50a1dc7aebcbb9194ff64aaf77af21789f",
+	"Symbol": "WETH-ABOI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf5b34808f42523bddbbd6c3a0f62b428ee60448c"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

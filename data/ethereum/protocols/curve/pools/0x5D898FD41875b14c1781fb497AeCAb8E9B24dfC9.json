@@ -1,0 +1,24 @@
+{
+	"Id": "0x5D898FD41875b14c1781fb497AeCAb8E9B24dfC9",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0x1979F8296492fF9E6527ECA47FC44BB30c391139",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+		},
+		{
+			"Address": "0x5A56Da75c50aA2733F5Fa9A2442AaEfcBc60B2e6"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CXDETH-f",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x8289b09c9154786b048e99f920528cd347241baf",
+	"Symbol": "WETH-IP",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe82842b814d6d8e290f6ac6401bd5355d6df91ae"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

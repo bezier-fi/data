@@ -1,0 +1,21 @@
+{
+	"Id": "0xB6B89a05ad8228b98d0D8a77e1a695c54500db3b",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xB6B89a05ad8228b98d0D8a77e1a695c54500db3b",
+			"Apr": 2.2562158,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4B1F1e2435A9C96f7330FAea190Ef6A7C8D70001"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC-USDT LP",
+	"Chain": "polygon"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x581fa23b7de257c579ed139dae145a42849ef9d8",
+	"Symbol": "CORLIBRI-WETH",
+	"UnderlyingTokens": [
+		"0xa83ff602675beca077093049ddd3b7aa5e42da2a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

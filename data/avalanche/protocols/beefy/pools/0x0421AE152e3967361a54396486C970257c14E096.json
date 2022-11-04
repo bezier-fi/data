@@ -1,0 +1,21 @@
+{
+	"Id": "0x0421AE152e3967361a54396486C970257c14E096",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x0421AE152e3967361a54396486C970257c14E096",
+			"Apr": 60.14327,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x00cB5b42684DA62909665d8151fF80D1567722c3"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WINE-MIM LP",
+	"Chain": "avalanche"
+}

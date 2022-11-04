@@ -1,0 +1,10 @@
+{
+	"Id": "0x432a1075e4c8c12e54df0e8b092a2b1e6579dc6e",
+	"Symbol": "WETH-EXP",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd137561c20be8e870d62e2ae92269f0950702f77"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

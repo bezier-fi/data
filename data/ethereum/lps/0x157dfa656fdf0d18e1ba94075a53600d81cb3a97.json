@@ -1,0 +1,10 @@
+{
+	"Id": "0x157dfa656fdf0d18e1ba94075a53600d81cb3a97",
+	"Symbol": "UMA-WETH (0.30%)",
+	"UnderlyingTokens": [
+		"0x04fa0d235c4abf4bcf4787af4cf447de572ef828",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

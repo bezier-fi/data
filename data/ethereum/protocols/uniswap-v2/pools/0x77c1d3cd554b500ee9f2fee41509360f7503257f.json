@@ -1,0 +1,24 @@
+{
+	"Id": "0x77c1d3cd554b500ee9f2fee41509360f7503257f",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x77c1d3cd554b500ee9f2fee41509360f7503257f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x77a2bf0bda9775fb3524a6720dd3b16bd455e2c2"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "$BREAST-WETH",
+	"Chain": "ethereum"
+}

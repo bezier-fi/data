@@ -1,0 +1,10 @@
+{
+	"Id": "0x7bd24d43c0d6531a8fd3766e121b469c9175b890",
+	"Symbol": "WETH-AstroLion",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf9e3a323957b172fdb2dd89c30bbda980cfac395"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

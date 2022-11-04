@@ -1,0 +1,10 @@
+{
+	"Id": "0xdb5c6d2de362606c2fa84bc948fe0401ea11e207",
+	"Symbol": "WETH-NETH (0.30%)",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf2e51185caaded6c63d587943369f0b5df169344"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

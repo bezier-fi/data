@@ -1,0 +1,10 @@
+{
+	"Id": "0xe1c6e41ee7d81a052c59a55469678632404c243b",
+	"Symbol": "WETH-BARA",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe8434efd177cc29b8550963f5c066fd2f7d623f9"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

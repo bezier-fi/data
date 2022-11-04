@@ -1,0 +1,10 @@
+{
+	"Id": "0xbbe19f3bed49191f341d58a00088144ba2ab48f9",
+	"Symbol": "WETH-USACOIN",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe70ea90718fd21471db240f3bae343daece65f53"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x46add4b3f80672989b9a1eaf62cad5206f5e2164",
+	"Symbol": "WETH-GRT (1.00%)",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc944e90c64b2c07662a292be6244bdf05cda44a7"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

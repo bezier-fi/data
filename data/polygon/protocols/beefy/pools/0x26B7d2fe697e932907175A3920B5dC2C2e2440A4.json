@@ -1,0 +1,21 @@
+{
+	"Id": "0x26B7d2fe697e932907175A3920B5dC2C2e2440A4",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x26B7d2fe697e932907175A3920B5dC2C2e2440A4",
+			"Apr": 6.8399496,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2C3cc8e698890271c8141be9F6fD6243d56B39f1"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "jEUR-EURt LP",
+	"Chain": "polygon"
+}

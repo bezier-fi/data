@@ -1,0 +1,24 @@
+{
+	"Id": "0x62979dff3b5eb032ecba1a5934d1fd4367bb695c",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0x62979dff3b5eb032ecba1a5934d1fd4367bb695c",
+			"Apr": 141.15735,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		},
+		{
+			"Address": "0xc5fb36dd2fb59d3b98deff88425a3f425ee469ed"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-TSUKA (1.00%)",
+	"Chain": "ethereum"
+}

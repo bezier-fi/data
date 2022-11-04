@@ -1,0 +1,24 @@
+{
+	"Id": "0xd3d2d97b54396821db0e25402babc8aba352e380",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xd3d2d97b54396821db0e25402babc8aba352e380",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x45804880de22913dafe09f4980848ece6ecbaf78"
+		},
+		{
+			"Address": "0x7ae1d57b58fa6411f32948314badd83583ee0e8c"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PAXG-PAPER (1.00%)",
+	"Chain": "ethereum"
+}

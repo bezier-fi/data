@@ -1,0 +1,10 @@
+{
+	"Id": "0x3e406eca97c1252d13455850055e2b008740e30d",
+	"Symbol": "CHIHUA-WETH",
+	"UnderlyingTokens": [
+		"0x26ff6d16549a00ba8b36ce3159b5277e6e798d18",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

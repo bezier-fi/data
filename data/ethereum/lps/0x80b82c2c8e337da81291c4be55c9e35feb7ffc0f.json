@@ -1,0 +1,10 @@
+{
+	"Id": "0x80b82c2c8e337da81291c4be55c9e35feb7ffc0f",
+	"Symbol": "ARCANE-WETH",
+	"UnderlyingTokens": [
+		"0x61a731bdb4e47fff364b8c89005a6bd8d76423dd",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

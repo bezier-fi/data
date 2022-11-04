@@ -1,0 +1,24 @@
+{
+	"Id": "0xef955a87ea16b7faa7524fbf5245c84c2f083821",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xef955a87ea16b7faa7524fbf5245c84c2f083821",
+			"Apr": 16.29135,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0000000000085d4780b73119b644ae5ecd22b376"
+		},
+		{
+			"Address": "0xa1eb103f8187645ab29ef97038a1157f33bb69ab"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TUSD-TGOLD (0.30%)",
+	"Chain": "ethereum"
+}

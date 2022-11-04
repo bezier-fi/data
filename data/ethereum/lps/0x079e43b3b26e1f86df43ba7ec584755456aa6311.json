@@ -1,0 +1,10 @@
+{
+	"Id": "0x079e43b3b26e1f86df43ba7ec584755456aa6311",
+	"Symbol": "WETH-ADX-LOYALTY",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd9a4cb9dc9296e111c66dfacab8be034ee2e1c2c"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

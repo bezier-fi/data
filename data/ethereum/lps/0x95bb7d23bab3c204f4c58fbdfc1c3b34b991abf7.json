@@ -1,0 +1,10 @@
+{
+	"Id": "0x95bb7d23bab3c204f4c58fbdfc1c3b34b991abf7",
+	"Symbol": "Genyōsha-WETH",
+	"UnderlyingTokens": [
+		"0x77381fd65aa144bddc393e0519052011bcaa9be2",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

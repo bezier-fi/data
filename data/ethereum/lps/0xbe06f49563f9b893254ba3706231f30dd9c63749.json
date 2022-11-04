@@ -1,0 +1,10 @@
+{
+	"Id": "0xbe06f49563f9b893254ba3706231f30dd9c63749",
+	"Symbol": "VANA-WETH",
+	"UnderlyingTokens": [
+		"0x790baf0c914898c62163a61f150637d4bd180697",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

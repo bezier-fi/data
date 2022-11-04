@@ -1,0 +1,24 @@
+{
+	"Id": "0xd4be0f30530cbf0707a3958e646da38647048e1c",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xd4be0f30530cbf0707a3958e646da38647048e1c",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		},
+		{
+			"Address": "0xdbb36c487b73d73e5336b86c379e7f82ac02e2b4"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-KHLOE 🔥",
+	"Chain": "ethereum"
+}

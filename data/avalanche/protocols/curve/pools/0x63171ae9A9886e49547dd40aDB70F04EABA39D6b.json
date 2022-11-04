@@ -1,0 +1,24 @@
+{
+	"Id": "0x63171ae9A9886e49547dd40aDB70F04EABA39D6b",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0x63171ae9A9886e49547dd40aDB70F04EABA39D6b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664"
+		},
+		{
+			"Address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDUSDT.e-f",
+	"Chain": "avalanche"
+}

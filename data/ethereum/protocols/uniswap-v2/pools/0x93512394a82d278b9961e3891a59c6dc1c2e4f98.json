@@ -1,0 +1,24 @@
+{
+	"Id": "0x93512394a82d278b9961e3891a59c6dc1c2e4f98",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x93512394a82d278b9961e3891a59c6dc1c2e4f98",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x72e5390edb7727e3d4e3436451dadaff675dbcc0"
+		},
+		{
+			"Address": "0xec4a1c7a4e9fdc7cc621b548a931c92bc08a679a"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "HANU-GOJ",
+	"Chain": "ethereum"
+}

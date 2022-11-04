@@ -1,0 +1,21 @@
+{
+	"Id": "0xFcC42a103d620125b580a0B76fD8a58cc1b6b06A",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xFcC42a103d620125b580a0B76fD8a58cc1b6b06A",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x384B41bD57D4Eb3ceC5eD8063C4b15A6071CEE29"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WBTC-cxBTC LP",
+	"Chain": "polygon"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xd9bb8ea58075fc68297669109496cb1c53785fdc",
+	"Symbol": "GHOST-WETH",
+	"UnderlyingTokens": [
+		"0x67d17df795f47ab41518f186cd7148ed94df6d54",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

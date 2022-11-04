@@ -1,0 +1,24 @@
+{
+	"Id": "0x16a94fedce57c26c1fff491471a6b6a55dfb83c3",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0x16a94fedce57c26c1fff491471a6b6a55dfb83c3",
+			"Apr": 0.97372866,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0abe60b7b5d10f7677e30bab914cea7511f498eb"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MTG-WETH (0.30%)",
+	"Chain": "ethereum"
+}

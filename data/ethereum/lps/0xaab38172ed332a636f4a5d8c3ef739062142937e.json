@@ -1,0 +1,10 @@
+{
+	"Id": "0xaab38172ed332a636f4a5d8c3ef739062142937e",
+	"Symbol": "Vulture-WETH",
+	"UnderlyingTokens": [
+		"0x55509c29853405d819ba611c393ce920bcca2c0b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

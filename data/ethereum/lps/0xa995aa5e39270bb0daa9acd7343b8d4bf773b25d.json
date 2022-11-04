@@ -1,0 +1,10 @@
+{
+	"Id": "0xa995aa5e39270bb0daa9acd7343b8d4bf773b25d",
+	"Symbol": "MCDOLLAR-WETH",
+	"UnderlyingTokens": [
+		"0x5d1525095dd25b4ee161269d92a37a8dea46a1fc",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

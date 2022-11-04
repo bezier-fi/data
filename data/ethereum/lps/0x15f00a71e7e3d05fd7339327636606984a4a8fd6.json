@@ -1,0 +1,10 @@
+{
+	"Id": "0x15f00a71e7e3d05fd7339327636606984a4a8fd6",
+	"Symbol": "GADDA-WETH",
+	"UnderlyingTokens": [
+		"0x657857f50a6855d6cf2d9d3f7d62c7b11550e696",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

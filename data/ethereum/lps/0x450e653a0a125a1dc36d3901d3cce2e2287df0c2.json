@@ -1,0 +1,10 @@
+{
+	"Id": "0x450e653a0a125a1dc36d3901d3cce2e2287df0c2",
+	"Symbol": "MONGOOSE-WETH",
+	"UnderlyingTokens": [
+		"0xa1817b6d8d890f3943b61648992730373b71f156",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x97436cb1ea2cfae7e17a587923d928edbf3e6545",
+	"Symbol": "POACHER-WETH",
+	"UnderlyingTokens": [
+		"0x68e92efe288dd992ade2c730549b5aa17925b85a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

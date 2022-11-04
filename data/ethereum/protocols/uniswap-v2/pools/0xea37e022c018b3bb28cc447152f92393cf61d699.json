@@ -1,0 +1,24 @@
+{
+	"Id": "0xea37e022c018b3bb28cc447152f92393cf61d699",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xea37e022c018b3bb28cc447152f92393cf61d699",
+			"Apr": 2.483306,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x05fb86775fd5c16290f1e838f5caaa7342bd9a63"
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "HAI-USDT",
+	"Chain": "ethereum"
+}

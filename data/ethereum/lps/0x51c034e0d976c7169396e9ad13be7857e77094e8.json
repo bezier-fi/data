@@ -1,0 +1,10 @@
+{
+	"Id": "0x51c034e0d976c7169396e9ad13be7857e77094e8",
+	"Symbol": "WETH-BUSHI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xebc5bc4e35cf850a0fcfce28af270b35a8fd3c47"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

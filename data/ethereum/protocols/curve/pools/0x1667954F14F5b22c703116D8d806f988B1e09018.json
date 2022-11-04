@@ -1,0 +1,24 @@
+{
+	"Id": "0x1667954F14F5b22c703116D8d806f988B1e09018",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0x27Ca67c8D7A060988c9F8F57bf7c784dD41816A6",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+		},
+		{
+			"Address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FXSETH-f",
+	"Chain": "ethereum"
+}

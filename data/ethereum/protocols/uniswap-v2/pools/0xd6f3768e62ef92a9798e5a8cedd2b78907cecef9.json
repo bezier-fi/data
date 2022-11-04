@@ -1,0 +1,24 @@
+{
+	"Id": "0xd6f3768e62ef92a9798e5a8cedd2b78907cecef9",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xd6f3768e62ef92a9798e5a8cedd2b78907cecef9",
+			"Apr": 1.7361645,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6243d8cea23066d098a15582d81a598b4e8391f4"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FLX-WETH",
+	"Chain": "ethereum"
+}

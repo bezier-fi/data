@@ -1,0 +1,10 @@
+{
+	"Id": "0x28e810d4b33ae24fe6f721a21e42230bcb019da1",
+	"Symbol": "WETH-DFND (0.30%)",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd2adc1c84443ad06f0017adca346bd9b6fc52cab"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

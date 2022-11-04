@@ -1,0 +1,24 @@
+{
+	"Id": "0x9d640080af7c81911d87632a7d09cc4ab6b133ac",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x9d640080af7c81911d87632a7d09cc4ab6b133ac",
+			"Apr": 0.36530215,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+		},
+		{
+			"Address": "0xaa4e3edb11afa93c41db59842b29de64b72e355b"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC-MFI",
+	"Chain": "ethereum"
+}

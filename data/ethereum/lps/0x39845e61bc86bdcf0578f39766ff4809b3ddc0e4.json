@@ -1,0 +1,10 @@
+{
+	"Id": "0x39845e61bc86bdcf0578f39766ff4809b3ddc0e4",
+	"Symbol": "Maximus-WETH",
+	"UnderlyingTokens": [
+		"0xba4f8bbee30181678ecb14564d78db39d223e960",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

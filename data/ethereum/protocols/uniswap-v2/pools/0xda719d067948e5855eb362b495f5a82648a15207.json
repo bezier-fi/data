@@ -1,0 +1,24 @@
+{
+	"Id": "0xda719d067948e5855eb362b495f5a82648a15207",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xda719d067948e5855eb362b495f5a82648a15207",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x26c5331a8aaede3d3af276fd61329163a55ecbca"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ABY*-WETH",
+	"Chain": "ethereum"
+}

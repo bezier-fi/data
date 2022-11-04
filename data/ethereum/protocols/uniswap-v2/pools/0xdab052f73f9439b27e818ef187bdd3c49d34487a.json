@@ -1,0 +1,24 @@
+{
+	"Id": "0xdab052f73f9439b27e818ef187bdd3c49d34487a",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xdab052f73f9439b27e818ef187bdd3c49d34487a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x734c90044a0ba31b3f2e640c10dc5d3540499bfd"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TSX-WETH",
+	"Chain": "ethereum"
+}

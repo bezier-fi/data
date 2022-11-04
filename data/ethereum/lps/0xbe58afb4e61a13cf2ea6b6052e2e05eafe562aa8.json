@@ -1,0 +1,10 @@
+{
+	"Id": "0xbe58afb4e61a13cf2ea6b6052e2e05eafe562aa8",
+	"Symbol": "SRM-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x476c5e26a75bd202a9683ffd34359c0cc15be0ff",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

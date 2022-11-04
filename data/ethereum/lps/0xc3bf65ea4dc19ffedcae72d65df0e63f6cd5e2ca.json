@@ -1,0 +1,10 @@
+{
+	"Id": "0xc3bf65ea4dc19ffedcae72d65df0e63f6cd5e2ca",
+	"Symbol": "APETV-WETH",
+	"UnderlyingTokens": [
+		"0xa79fa0cc48870d9a5fa2666df5e6aa42ac154fde",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

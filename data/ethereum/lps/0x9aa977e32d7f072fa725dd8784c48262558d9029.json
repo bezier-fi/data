@@ -1,0 +1,10 @@
+{
+	"Id": "0x9aa977e32d7f072fa725dd8784c48262558d9029",
+	"Symbol": "TheRadio-WETH",
+	"UnderlyingTokens": [
+		"0xaa2ded323944b25c0b6f1f891bc96f010b65622c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

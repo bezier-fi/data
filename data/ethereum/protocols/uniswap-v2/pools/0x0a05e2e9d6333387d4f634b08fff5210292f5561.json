@@ -1,0 +1,24 @@
+{
+	"Id": "0x0a05e2e9d6333387d4f634b08fff5210292f5561",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x0a05e2e9d6333387d4f634b08fff5210292f5561",
+			"Apr": 5.8300796,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x99ea4db9ee77acd40b119bd1dc4e33e1c070b80d"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "QSP-WETH",
+	"Chain": "ethereum"
+}

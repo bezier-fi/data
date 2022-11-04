@@ -1,0 +1,24 @@
+{
+	"Id": "0x40f891c24d6848e81b186498bc6ec394808d02b2",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x40f891c24d6848e81b186498bc6ec394808d02b2",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x227cb9abb8ec6b23c4efd5a1c4fa93883dc5ef66"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Akira-WETH",
+	"Chain": "ethereum"
+}

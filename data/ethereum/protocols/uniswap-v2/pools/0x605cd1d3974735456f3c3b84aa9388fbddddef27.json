@@ -1,0 +1,24 @@
+{
+	"Id": "0x605cd1d3974735456f3c3b84aa9388fbddddef27",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x605cd1d3974735456f3c3b84aa9388fbddddef27",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7f63908c962a0455b5e08560f5529726ac82a59f"
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SHIBALLER-USDC",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,24 @@
+{
+	"Id": "0x6b4de908a8329c95c63414375612fe52ffb8792e",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x6b4de908a8329c95c63414375612fe52ffb8792e",
+			"Apr": 1.532983,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7dd9c5cba05e151c895fde1cf355c9a1d5da6429"
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GLM-USDC",
+	"Chain": "ethereum"
+}

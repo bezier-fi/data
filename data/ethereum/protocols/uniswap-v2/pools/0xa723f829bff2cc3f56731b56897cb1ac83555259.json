@@ -1,0 +1,24 @@
+{
+	"Id": "0xa723f829bff2cc3f56731b56897cb1ac83555259",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xa723f829bff2cc3f56731b56897cb1ac83555259",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		},
+		{
+			"Address": "0xc92e75431614ecae3847842cc7f1b6bc58326427"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-KNUCKLES",
+	"Chain": "ethereum"
+}

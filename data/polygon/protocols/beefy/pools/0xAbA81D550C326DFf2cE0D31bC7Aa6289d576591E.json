@@ -1,0 +1,21 @@
+{
+	"Id": "0xAbA81D550C326DFf2cE0D31bC7Aa6289d576591E",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xAbA81D550C326DFf2cE0D31bC7Aa6289d576591E",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x47Be4b1b6921a36591142E108B8C9E04BB55E015"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "VISION-ETH LP",
+	"Chain": "polygon"
+}

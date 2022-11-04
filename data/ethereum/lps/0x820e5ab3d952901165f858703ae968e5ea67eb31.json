@@ -1,0 +1,10 @@
+{
+	"Id": "0x820e5ab3d952901165f858703ae968e5ea67eb31",
+	"Symbol": "OXT-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x4575f41308ec1483f3d399aa9a2826d74da13deb",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

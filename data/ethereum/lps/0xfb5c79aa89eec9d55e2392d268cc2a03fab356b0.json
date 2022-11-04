@@ -1,0 +1,10 @@
+{
+	"Id": "0xfb5c79aa89eec9d55e2392d268cc2a03fab356b0",
+	"Symbol": "STRY-WETH",
+	"UnderlyingTokens": [
+		"0xa3623fd12042ebb7e3703c7413865c02188db2bd",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

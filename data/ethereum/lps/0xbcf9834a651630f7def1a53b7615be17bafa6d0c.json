@@ -1,0 +1,10 @@
+{
+	"Id": "0xbcf9834a651630f7def1a53b7615be17bafa6d0c",
+	"Symbol": "WBTC-indexBTC (0.30%)",
+	"UnderlyingTokens": [
+		"0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+		"0x71e1b632f1ddc20f79df1472f7a464779588a6d1"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

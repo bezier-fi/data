@@ -1,0 +1,10 @@
+{
+	"Id": "0x98d266c51fc3c0a0b5a285c481d40b689d18e6f1",
+	"Symbol": "HUSL-WETH",
+	"UnderlyingTokens": [
+		"0xa2881f7f441267042f9778ffa0d4f834693426be",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

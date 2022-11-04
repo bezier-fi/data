@@ -1,0 +1,10 @@
+{
+	"Id": "0xaca52998a3cba700cd9d1f344d9fdfba3eb10ac9",
+	"Symbol": "YUKON-WETH",
+	"UnderlyingTokens": [
+		"0x724a4dbc096e8553120ec99d975ca62c1e4f9f51",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

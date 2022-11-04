@@ -1,0 +1,10 @@
+{
+	"Id": "0x1c9052e823b5f4611ef7d5fb4153995b040ccbf5",
+	"Symbol": "DXD-WETH",
+	"UnderlyingTokens": [
+		"0xa1d65e8fb6e87b60feccbc582f7f97804b725521",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

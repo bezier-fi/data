@@ -1,0 +1,10 @@
+{
+	"Id": "0x498498fa386ef2860e7abf8c60254580c8c41ec5",
+	"Symbol": "DC-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x7b4328c127b85369d9f82ca0503b000d09cf9180",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xd5d8fea5568b463646cf27d32ae913de303ed63b",
+	"Symbol": "GYRA-WETH",
+	"UnderlyingTokens": [
+		"0x44389c9255fae846c564d1e64db7a336f6bcf3a7",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

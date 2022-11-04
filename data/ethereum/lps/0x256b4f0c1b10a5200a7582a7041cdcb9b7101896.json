@@ -1,0 +1,10 @@
+{
+	"Id": "0x256b4f0c1b10a5200a7582a7041cdcb9b7101896",
+	"Symbol": "DACT-WETH",
+	"UnderlyingTokens": [
+		"0x343c6de13833bc7d9890eb6b1cd3fbebc730ebec",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

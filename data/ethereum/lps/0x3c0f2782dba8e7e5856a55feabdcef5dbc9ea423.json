@@ -1,0 +1,10 @@
+{
+	"Id": "0x3c0f2782dba8e7e5856a55feabdcef5dbc9ea423",
+	"Symbol": "FOREST-WETH",
+	"UnderlyingTokens": [
+		"0x03cf23efdb2a6cf6cf6eb8b5a3383966f5c6b6d5",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

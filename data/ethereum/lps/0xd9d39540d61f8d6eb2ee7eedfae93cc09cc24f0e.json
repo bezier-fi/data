@@ -1,0 +1,10 @@
+{
+	"Id": "0xd9d39540d61f8d6eb2ee7eedfae93cc09cc24f0e",
+	"Symbol": "FOAM-WETH",
+	"UnderlyingTokens": [
+		"0x4946fcea7c692606e8908002e55a582af44ac121",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

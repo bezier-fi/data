@@ -1,0 +1,10 @@
+{
+	"Id": "0x18f238a96392a8fabb87065b5129dd00192e6cb1",
+	"Symbol": "SHARE-WETH",
+	"UnderlyingTokens": [
+		"0x39795344cbcc76cc3fb94b9d1b15c23c2070c66d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

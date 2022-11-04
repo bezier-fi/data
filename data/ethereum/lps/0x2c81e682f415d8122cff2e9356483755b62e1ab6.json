@@ -1,0 +1,10 @@
+{
+	"Id": "0x2c81e682f415d8122cff2e9356483755b62e1ab6",
+	"Symbol": "BOMB-USDC",
+	"UnderlyingTokens": [
+		"0x8d4e72880735adcd73b64e8d2124739b3dd3a77a",
+		"0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

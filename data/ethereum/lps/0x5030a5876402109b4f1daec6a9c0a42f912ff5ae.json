@@ -1,0 +1,10 @@
+{
+	"Id": "0x5030a5876402109b4f1daec6a9c0a42f912ff5ae",
+	"Symbol": "WETH-MTS (0.30%)",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xcd4562425f5392f642dd56d1c967d9c35b5a83a8"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x336ef4e633b1117dca08c1a57f4139c62c32c935",
+	"Symbol": "BEND-WETH",
+	"UnderlyingTokens": [
+		"0x0d02755a5700414b26ff040e1de35d337df56218",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

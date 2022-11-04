@@ -1,0 +1,24 @@
+{
+	"Id": "0x3bd2035d08363a8cfdab70a41b0faad3510492dc",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x3bd2035d08363a8cfdab70a41b0faad3510492dc",
+			"Apr": 3.7610378,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa67e9f021b9d208f7e3365b2a155e3c55b27de71"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "KLEE-WETH",
+	"Chain": "ethereum"
+}

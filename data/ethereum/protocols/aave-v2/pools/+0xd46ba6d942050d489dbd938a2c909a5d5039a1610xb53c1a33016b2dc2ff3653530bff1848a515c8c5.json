@@ -1,0 +1,21 @@
+{
+	"Id": "0xd46ba6d942050d489dbd938a2c909a5d5039a1610xb53c1a33016b2dc2ff3653530bff1848a515c8c5",
+	"Protocol": "27d88614-071b-4e2b-a57b-1cc6a09c4cd1",
+	"Outputs": [
+		{
+			"Address": "0x1e6bb68acec8fefbd87d192be09bb274170a0548",
+			"Apr": 0.33733323,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xd46ba6d942050d489dbd938a2c909a5d5039a161"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "AMPL",
+	"Chain": "ethereum"
+}

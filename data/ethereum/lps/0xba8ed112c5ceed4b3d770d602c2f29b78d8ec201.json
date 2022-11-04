@@ -1,0 +1,10 @@
+{
+	"Id": "0xba8ed112c5ceed4b3d770d602c2f29b78d8ec201",
+	"Symbol": "CORN-WETH",
+	"UnderlyingTokens": [
+		"0xa456b515303b2ce344e9d2601f91270f8c2fea5e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

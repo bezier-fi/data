@@ -1,0 +1,10 @@
+{
+	"Id": "0xa31919f11cfa1f50c0eee80e3254e2d0c9b831b9",
+	"Symbol": "$POWELL-WETH",
+	"UnderlyingTokens": [
+		"0x1d50ee6d8c0a5fab41403bb1a1fa354f0259100d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

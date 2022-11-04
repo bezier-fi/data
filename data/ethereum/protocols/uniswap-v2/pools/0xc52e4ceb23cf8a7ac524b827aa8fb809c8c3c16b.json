@@ -1,0 +1,24 @@
+{
+	"Id": "0xc52e4ceb23cf8a7ac524b827aa8fb809c8c3c16b",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xc52e4ceb23cf8a7ac524b827aa8fb809c8c3c16b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x21a7c981905077cf876dd1258adccfe638d6d875"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BELLA-WETH",
+	"Chain": "ethereum"
+}

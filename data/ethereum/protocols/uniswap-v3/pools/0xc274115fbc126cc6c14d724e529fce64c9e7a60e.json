@@ -1,0 +1,24 @@
+{
+	"Id": "0xc274115fbc126cc6c14d724e529fce64c9e7a60e",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xc274115fbc126cc6c14d724e529fce64c9e7a60e",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		},
+		{
+			"Address": "0xf3afdc2525568ffe743801c8c54bdea1704c9adb"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-TURTLE (0.30%)",
+	"Chain": "ethereum"
+}

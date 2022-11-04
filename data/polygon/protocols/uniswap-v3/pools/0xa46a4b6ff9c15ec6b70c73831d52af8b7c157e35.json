@@ -1,0 +1,24 @@
+{
+	"Id": "0xa46a4b6ff9c15ec6b70c73831d52af8b7c157e35",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xa46a4b6ff9c15ec6b70c73831d52af8b7c157e35",
+			"Apr": 14.814546,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x111111517e4929d3dcbdfa7cce55d30d4b6bc4d6"
+		},
+		{
+			"Address": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ICHI-WETH (0.30%)",
+	"Chain": "polygon"
+}

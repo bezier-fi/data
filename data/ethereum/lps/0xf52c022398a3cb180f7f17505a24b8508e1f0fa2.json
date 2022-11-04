@@ -1,0 +1,10 @@
+{
+	"Id": "0xf52c022398a3cb180f7f17505a24b8508e1f0fa2",
+	"Symbol": "PTPA-WETH",
+	"UnderlyingTokens": [
+		"0x3a67430aee293a216f9963e3f19c06ae15824bf0",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

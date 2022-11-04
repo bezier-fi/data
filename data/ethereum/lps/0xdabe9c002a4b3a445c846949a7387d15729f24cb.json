@@ -1,0 +1,10 @@
+{
+	"Id": "0xdabe9c002a4b3a445c846949a7387d15729f24cb",
+	"Symbol": "WETH-JACKPOT",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xdf0a386e32e905d1d220080fbc8cf43b384e3ea3"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

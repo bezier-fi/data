@@ -1,0 +1,10 @@
+{
+	"Id": "0xee63a4d5afaafd94e19225251cb392c7c54ced1d",
+	"Symbol": "SELENA-WETH",
+	"UnderlyingTokens": [
+		"0x48e7cfc5862fe6a0ded9a083756114a872056f80",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x15a64850c72cb87ff40c97bca5bfd2947a0deed9",
+	"Symbol": "GALI-WETH",
+	"UnderlyingTokens": [
+		"0x40a11f82a8469c8dc015ba74438536584978d63c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

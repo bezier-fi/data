@@ -1,0 +1,10 @@
+{
+	"Id": "0x10b17d9b2aee94a65eeb4c71141add20caa4376f",
+	"Symbol": "wMBX-WETH",
+	"UnderlyingTokens": [
+		"0x71ba91dc68c6a206db0a6a92b4b1de3f9271432d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

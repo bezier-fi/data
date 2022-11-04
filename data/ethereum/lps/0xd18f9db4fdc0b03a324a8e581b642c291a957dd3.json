@@ -1,0 +1,10 @@
+{
+	"Id": "0xd18f9db4fdc0b03a324a8e581b642c291a957dd3",
+	"Symbol": "SHIBGEKI-WETH",
+	"UnderlyingTokens": [
+		"0x2327590bb709f1505b64d1e4573d7c0dcea4350c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

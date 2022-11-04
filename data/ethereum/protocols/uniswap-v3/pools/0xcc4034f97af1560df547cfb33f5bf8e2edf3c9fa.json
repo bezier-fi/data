@@ -1,0 +1,24 @@
+{
+	"Id": "0xcc4034f97af1560df547cfb33f5bf8e2edf3c9fa",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xcc4034f97af1560df547cfb33f5bf8e2edf3c9fa",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5218e472cfcfe0b64a064f055b43b4cdc9efd3a6"
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "eRSDL-USDT (1.00%)",
+	"Chain": "ethereum"
+}

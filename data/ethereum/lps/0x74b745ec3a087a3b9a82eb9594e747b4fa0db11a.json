@@ -1,0 +1,10 @@
+{
+	"Id": "0x74b745ec3a087a3b9a82eb9594e747b4fa0db11a",
+	"Symbol": "WETH-CURRY",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc2d3ae29c8309c14994d02ecd228cf86f3efde77"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

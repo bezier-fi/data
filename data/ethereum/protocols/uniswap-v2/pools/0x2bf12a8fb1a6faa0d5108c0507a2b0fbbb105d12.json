@@ -1,0 +1,24 @@
+{
+	"Id": "0x2bf12a8fb1a6faa0d5108c0507a2b0fbbb105d12",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x2bf12a8fb1a6faa0d5108c0507a2b0fbbb105d12",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x035f6bba43b9cf687bfebe7800514caa4aeb3daf"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "LUNATAMA-WETH",
+	"Chain": "ethereum"
+}

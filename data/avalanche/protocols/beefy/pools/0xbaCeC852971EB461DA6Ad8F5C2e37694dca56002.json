@@ -1,0 +1,21 @@
+{
+	"Id": "0xbaCeC852971EB461DA6Ad8F5C2e37694dca56002",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xbaCeC852971EB461DA6Ad8F5C2e37694dca56002",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7472887De3B0aA65168a1Da22164C81DE5fd4044"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BRIBE-AVAX LP",
+	"Chain": "avalanche"
+}

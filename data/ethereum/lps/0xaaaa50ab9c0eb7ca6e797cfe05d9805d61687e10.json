@@ -1,0 +1,10 @@
+{
+	"Id": "0xaaaa50ab9c0eb7ca6e797cfe05d9805d61687e10",
+	"Symbol": "AAA-WETH (0.30%)",
+	"UnderlyingTokens": [
+		"0x8c6bf16c273636523c29db7db04396143770f6a0",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

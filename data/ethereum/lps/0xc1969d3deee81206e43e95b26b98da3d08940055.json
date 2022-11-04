@@ -1,0 +1,10 @@
+{
+	"Id": "0xc1969d3deee81206e43e95b26b98da3d08940055",
+	"Symbol": "TRAVA-WETH",
+	"UnderlyingTokens": [
+		"0x186d0ba3dfc3386c464eecd96a61fbb1e2da00bf",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

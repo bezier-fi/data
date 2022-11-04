@@ -1,0 +1,10 @@
+{
+	"Id": "0x3356f51fb7c27034b8962ee457760dc34cb87ca8",
+	"Symbol": "JUVIAN-WETH",
+	"UnderlyingTokens": [
+		"0x031c9d3bae359239e03c94f08e0c4b7ac100b2e6",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

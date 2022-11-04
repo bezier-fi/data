@@ -1,0 +1,10 @@
+{
+	"Id": "0x077e0daf1c97b9a1f59e7ec6ef793da4e63dde20",
+	"Symbol": "SEGWIT-WETH",
+	"UnderlyingTokens": [
+		"0x05a0e4838202d181b6510669955f4133f500b830",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

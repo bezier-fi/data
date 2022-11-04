@@ -1,0 +1,10 @@
+{
+	"Id": "0x9b591a5bf6244fe1bb03815fc06fdb8bb50a1a7d",
+	"Symbol": "Anime-WETH",
+	"UnderlyingTokens": [
+		"0x8735de175334949db1a20ce8a46f6df6b4893aae",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

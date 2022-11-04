@@ -1,0 +1,21 @@
+{
+	"Id": "0xF7A5eC9168B4C5688b3ad599Aa5c8E1922fEacAE",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xF7A5eC9168B4C5688b3ad599Aa5c8E1922fEacAE",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xFdBDb3A2bbdC7d9dC6203DcEf9D53f1735135951"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DEGEN-ETH LP",
+	"Chain": "polygon"
+}

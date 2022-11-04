@@ -1,0 +1,10 @@
+{
+	"Id": "0xb9abcf33069f2df034f3219b2ff10beca3321364",
+	"Symbol": "PILOT-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x37c997b35c619c21323f3518b9357914e8b99525",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

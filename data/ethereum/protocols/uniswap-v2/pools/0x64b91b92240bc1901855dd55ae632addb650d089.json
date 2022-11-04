@@ -1,0 +1,24 @@
+{
+	"Id": "0x64b91b92240bc1901855dd55ae632addb650d089",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x64b91b92240bc1901855dd55ae632addb650d089",
+			"Apr": 0.9813751,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x66c0dded8433c9ea86c8cf91237b14e10b4d70b7"
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Mars-USDT",
+	"Chain": "ethereum"
+}

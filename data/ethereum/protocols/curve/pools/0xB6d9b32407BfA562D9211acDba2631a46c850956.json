@@ -1,0 +1,24 @@
+{
+	"Id": "0xB6d9b32407BfA562D9211acDba2631a46c850956",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0xcA7c3Ac4e5FB7B2Ae60472C80344ea9403C6D2b1",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x03ab458634910AaD20eF5f1C8ee96F1D6ac54919"
+		},
+		{
+			"Address": "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "RAIAGEUR-f",
+	"Chain": "ethereum"
+}

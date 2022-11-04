@@ -1,0 +1,10 @@
+{
+	"Id": "0x20228100b9c0bb28978087124e3afc36a99fa5cf",
+	"Symbol": "SHIT-WETH",
+	"UnderlyingTokens": [
+		"0x53c04c2cec60b08db00100de5408e8c1b6f19f27",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

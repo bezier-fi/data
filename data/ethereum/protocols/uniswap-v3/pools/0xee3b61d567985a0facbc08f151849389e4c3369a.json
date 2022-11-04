@@ -1,0 +1,24 @@
+{
+	"Id": "0xee3b61d567985a0facbc08f151849389e4c3369a",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xee3b61d567985a0facbc08f151849389e4c3369a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xcf78c7dd70d6f30f6e3609e905e78305da98c863"
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ONX-USDT (0.30%)",
+	"Chain": "ethereum"
+}

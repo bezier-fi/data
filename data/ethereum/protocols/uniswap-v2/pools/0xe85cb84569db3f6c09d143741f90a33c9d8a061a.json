@@ -1,0 +1,24 @@
+{
+	"Id": "0xe85cb84569db3f6c09d143741f90a33c9d8a061a",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xe85cb84569db3f6c09d143741f90a33c9d8a061a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8f3afeea19fd9d59eb19a69776cc906556c49f26"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ElonBirthday-WETH",
+	"Chain": "ethereum"
+}

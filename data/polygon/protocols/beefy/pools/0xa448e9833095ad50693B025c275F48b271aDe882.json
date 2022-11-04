@@ -1,0 +1,21 @@
+{
+	"Id": "0xa448e9833095ad50693B025c275F48b271aDe882",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xa448e9833095ad50693B025c275F48b271aDe882",
+			"Apr": 62.075096,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb0e69f24982791dd49e316313fD3A791020B8bF7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MaticX-MATIC LP",
+	"Chain": "polygon"
+}

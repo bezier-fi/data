@@ -1,0 +1,10 @@
+{
+	"Id": "0xf898301c2807e99abaa39396a696d1202122d23e",
+	"Symbol": "UCO-WETH",
+	"UnderlyingTokens": [
+		"0x8a3d77e9d6968b780564936d15b09805827c21fa",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xaac072e474841acbe95870d9993a2f1011dfe3e5",
+	"Symbol": "CORE-WETH",
+	"UnderlyingTokens": [
+		"0x77dea616395ad6989ddfd7c9eac6782a81747a4f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

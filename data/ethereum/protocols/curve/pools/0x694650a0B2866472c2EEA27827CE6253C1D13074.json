@@ -1,0 +1,24 @@
+{
+	"Id": "0x694650a0B2866472c2EEA27827CE6253C1D13074",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0x694650a0B2866472c2EEA27827CE6253C1D13074",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x94671A3ceE8C7A12Ea72602978D1Bb84E920eFB2"
+		},
+		{
+			"Address": "0x853d955aCEf822Db058eb8505911ED77F175b99e"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "tFRAX+FRAX-f",
+	"Chain": "ethereum"
+}

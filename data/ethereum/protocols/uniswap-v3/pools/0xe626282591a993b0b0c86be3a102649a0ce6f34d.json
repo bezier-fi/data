@@ -1,0 +1,24 @@
+{
+	"Id": "0xe626282591a993b0b0c86be3a102649a0ce6f34d",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xe626282591a993b0b0c86be3a102649a0ce6f34d",
+			"Apr": 52.21178,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+		},
+		{
+			"Address": "0xfa14fa6958401314851a17d6c5360ca29f74b57b"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC-SAITO (1.00%)",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,24 @@
+{
+	"Id": "0xfee8f24bdb6935d2fb9061cf26b98b271aaf9479",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xfee8f24bdb6935d2fb9061cf26b98b271aaf9479",
+			"Apr": 1.8527297,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x20e7125677311fca903a8897042b9983f22ea295"
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FWT-USDC",
+	"Chain": "ethereum"
+}

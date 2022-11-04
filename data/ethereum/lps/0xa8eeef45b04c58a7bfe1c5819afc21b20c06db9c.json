@@ -1,0 +1,10 @@
+{
+	"Id": "0xa8eeef45b04c58a7bfe1c5819afc21b20c06db9c",
+	"Symbol": "ORION-WETH",
+	"UnderlyingTokens": [
+		"0x727f064a78dc734d33eec18d5370aef32ffd46e4",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

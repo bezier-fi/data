@@ -1,0 +1,10 @@
+{
+	"Id": "0x656ead7e777f7f6cf51a8b0bbccc912175005660",
+	"Symbol": "CLOGE-WETH",
+	"UnderlyingTokens": [
+		"0x66c98075c12e631d4bfd732350b5717990acb3a0",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

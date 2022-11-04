@@ -1,0 +1,21 @@
+{
+	"Id": "0x4D42bD06425179e53498D364427Af4Bf50d27658",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x4D42bD06425179e53498D364427Af4Bf50d27658",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0d6fF4e5a446C3e7ae84C838bbF5e3b6b2E26093"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PUP-ETH QLP",
+	"Chain": "polygon"
+}

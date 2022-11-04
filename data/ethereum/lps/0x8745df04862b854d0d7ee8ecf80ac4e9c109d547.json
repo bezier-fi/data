@@ -1,0 +1,10 @@
+{
+	"Id": "0x8745df04862b854d0d7ee8ecf80ac4e9c109d547",
+	"Symbol": "MUNCH-WETH",
+	"UnderlyingTokens": [
+		"0x944eee930933be5e23b690c8589021ec8619a301",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

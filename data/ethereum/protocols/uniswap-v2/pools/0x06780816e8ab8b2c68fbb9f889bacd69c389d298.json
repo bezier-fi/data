@@ -1,0 +1,24 @@
+{
+	"Id": "0x06780816e8ab8b2c68fbb9f889bacd69c389d298",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x06780816e8ab8b2c68fbb9f889bacd69c389d298",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8642a849d0dcb7a15a974794668adcfbe4794b56"
+		},
+		{
+			"Address": "0xba41ddf06b7ffd89d1267b5a93bfef2424eb2003"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PROS-MYTH",
+	"Chain": "ethereum"
+}

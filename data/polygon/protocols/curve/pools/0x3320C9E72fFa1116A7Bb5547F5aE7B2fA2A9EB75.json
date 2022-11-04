@@ -1,0 +1,24 @@
+{
+	"Id": "0x3320C9E72fFa1116A7Bb5547F5aE7B2fA2A9EB75",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0x80790C3C76Fbbc8D670eB17d19b69bfD7898d54a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xBc0E38F2AE867d5364e01101A758D02167347c93"
+		},
+		{
+			"Address": "0xdAD97F7713Ae9437fa9249920eC8507e5FbB23d3"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "crvBTC-f",
+	"Chain": "polygon"
+}

@@ -1,0 +1,24 @@
+{
+	"Id": "0x7193d845f8991E27FfDCE54E78137dE036A6f743",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0x9f8410c4d683721a1acf9d79093CCceFBF1C8876",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2e60f6C4CA05bC55A8e577DEeBD61FCe727c4a6e"
+		},
+		{
+			"Address": "0x03ab458634910AaD20eF5f1C8ee96F1D6ac54919"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PETALrai-f",
+	"Chain": "ethereum"
+}

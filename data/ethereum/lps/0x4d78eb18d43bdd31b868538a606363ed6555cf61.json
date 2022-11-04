@@ -1,0 +1,10 @@
+{
+	"Id": "0x4d78eb18d43bdd31b868538a606363ed6555cf61",
+	"Symbol": "WETH-PINS (1.00%)",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf4922496163e8176ced096ed80c67ca8ea2168d6"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,24 @@
+{
+	"Id": "0x83D78bf3f861e898cCA47BD076b3839Ab5469d70",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0x83D78bf3f861e898cCA47BD076b3839Ab5469d70",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x061aee9ab655e73719577EA1df116D7139b2A7E7"
+		},
+		{
+			"Address": "0x4b13006980aCB09645131b91D259eaA111eaF5Ba"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "tMYC-f",
+	"Chain": "ethereum"
+}

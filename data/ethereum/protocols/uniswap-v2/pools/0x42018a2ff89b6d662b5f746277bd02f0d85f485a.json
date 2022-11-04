@@ -1,0 +1,24 @@
+{
+	"Id": "0x42018a2ff89b6d662b5f746277bd02f0d85f485a",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x42018a2ff89b6d662b5f746277bd02f0d85f485a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x08ad83d779bdf2bbe1ad9cc0f78aa0d24ab97802"
+		},
+		{
+			"Address": "0x7de91b204c1c737bcee6f000aaa6569cf7061cb7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "RWS-XRT",
+	"Chain": "ethereum"
+}

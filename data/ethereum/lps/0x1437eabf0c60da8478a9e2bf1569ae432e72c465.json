@@ -1,0 +1,10 @@
+{
+	"Id": "0x1437eabf0c60da8478a9e2bf1569ae432e72c465",
+	"Symbol": "HARM-WETH",
+	"UnderlyingTokens": [
+		"0xb8f78ae3df5c541657161194ddbd0c5b44d1bee9",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

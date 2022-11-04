@@ -1,0 +1,21 @@
+{
+	"Id": "0xba61Ae734e5348e83A75599Bc5a64CB6aAdC0247",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xba61Ae734e5348e83A75599Bc5a64CB6aAdC0247",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9Ab6E8197cfD366F920b54cb069cE6273898CB0B"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FUSE-ETH LP",
+	"Chain": "polygon"
+}

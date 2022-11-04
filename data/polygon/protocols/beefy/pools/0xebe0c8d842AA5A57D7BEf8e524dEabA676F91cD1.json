@@ -1,0 +1,21 @@
+{
+	"Id": "0xebe0c8d842AA5A57D7BEf8e524dEabA676F91cD1",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xebe0c8d842AA5A57D7BEf8e524dEabA676F91cD1",
+			"Apr": 5.930216,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x160532D2536175d65C03B97b0630A9802c274daD"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MAI-USDC LP",
+	"Chain": "polygon"
+}

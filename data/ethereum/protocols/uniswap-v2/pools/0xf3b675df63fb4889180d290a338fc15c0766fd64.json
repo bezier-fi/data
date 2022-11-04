@@ -1,0 +1,24 @@
+{
+	"Id": "0xf3b675df63fb4889180d290a338fc15c0766fd64",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xf3b675df63fb4889180d290a338fc15c0766fd64",
+			"Apr": 1.4245292,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x40803cea2b2a32bda1be61d3604af6a814e70976"
+		},
+		{
+			"Address": "0x6b175474e89094c44da98b954eedeac495271d0f"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SPOOL-DAI",
+	"Chain": "ethereum"
+}

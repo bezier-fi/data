@@ -1,0 +1,10 @@
+{
+	"Id": "0xb2c8b1b0e27e74f70345bca867c416bd41885581",
+	"Symbol": "CBR-WETH",
+	"UnderlyingTokens": [
+		"0x4ba012f6e411a1be55b98e9e62c3a4ceb16ec88b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

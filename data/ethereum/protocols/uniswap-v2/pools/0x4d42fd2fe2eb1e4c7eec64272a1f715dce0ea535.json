@@ -1,0 +1,24 @@
+{
+	"Id": "0x4d42fd2fe2eb1e4c7eec64272a1f715dce0ea535",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x4d42fd2fe2eb1e4c7eec64272a1f715dce0ea535",
+			"Apr": 75.2171,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+		},
+		{
+			"Address": "0xa888d9616c2222788fa19f05f77221a290eef704"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC-Daruma",
+	"Chain": "ethereum"
+}

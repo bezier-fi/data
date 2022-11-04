@@ -1,0 +1,24 @@
+{
+	"Id": "0x8d2a4cc2e2ca0f7ab011b686449dc82c3af924c7",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x8d2a4cc2e2ca0f7ab011b686449dc82c3af924c7",
+			"Apr": 3.722055,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3155ba85d5f96b2d030a4966af206230e46849cb"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "RUNE-WETH",
+	"Chain": "ethereum"
+}

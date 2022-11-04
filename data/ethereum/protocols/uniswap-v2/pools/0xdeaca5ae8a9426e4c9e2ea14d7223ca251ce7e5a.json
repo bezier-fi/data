@@ -1,0 +1,24 @@
+{
+	"Id": "0xdeaca5ae8a9426e4c9e2ea14d7223ca251ce7e5a",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xdeaca5ae8a9426e4c9e2ea14d7223ca251ce7e5a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x11b0a8c0fa626627601ed518c3538a39d92d609e"
+		},
+		{
+			"Address": "0xddec5cb890b066891151e5f6ffca101b4eb47409"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "YGY-RAM",
+	"Chain": "ethereum"
+}

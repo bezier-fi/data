@@ -1,0 +1,24 @@
+{
+	"Id": "0xb0f4a77bde7fee134265307c5cc19abff0ba409b",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xb0f4a77bde7fee134265307c5cc19abff0ba409b",
+			"Apr": 49.781967,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3506424f91fd33084466f402d5d97f05f8e3b4af"
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CHZ-USDT (0.30%)",
+	"Chain": "ethereum"
+}

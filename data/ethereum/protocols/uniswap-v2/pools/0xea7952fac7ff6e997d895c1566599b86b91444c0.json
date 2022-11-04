@@ -1,0 +1,24 @@
+{
+	"Id": "0xea7952fac7ff6e997d895c1566599b86b91444c0",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xea7952fac7ff6e997d895c1566599b86b91444c0",
+			"Apr": 3.372483,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6b175474e89094c44da98b954eedeac495271d0f"
+		},
+		{
+			"Address": "0xdd1ad9a21ce722c151a836373babe42c868ce9a4"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DAI-UBI",
+	"Chain": "ethereum"
+}

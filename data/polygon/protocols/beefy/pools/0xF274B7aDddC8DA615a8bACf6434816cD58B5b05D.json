@@ -1,0 +1,21 @@
+{
+	"Id": "0xF274B7aDddC8DA615a8bACf6434816cD58B5b05D",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xF274B7aDddC8DA615a8bACf6434816cD58B5b05D",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x944a8B12D898E878F92cfC18eee5E6f3f7e2E70d"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ALPHA-USDC LP",
+	"Chain": "polygon"
+}

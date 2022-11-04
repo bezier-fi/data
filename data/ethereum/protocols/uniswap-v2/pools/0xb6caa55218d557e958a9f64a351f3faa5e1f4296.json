@@ -1,0 +1,24 @@
+{
+	"Id": "0xb6caa55218d557e958a9f64a351f3faa5e1f4296",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xb6caa55218d557e958a9f64a351f3faa5e1f4296",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8afe41451694114eb49b7a684f2e1f11aaf6452f"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SHIBZORO-WETH",
+	"Chain": "ethereum"
+}

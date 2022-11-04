@@ -1,0 +1,10 @@
+{
+	"Id": "0xf5d90ce04151979d0a7c8eaced8ed1419e190477",
+	"Symbol": "CITIZEN-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x77f0cc420dea0ae726db6bef1460a4b69176a8ea",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,24 @@
+{
+	"Id": "0xd4292615a8e9edc07cba49c1a9cbb93b873a181e",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xd4292615a8e9edc07cba49c1a9cbb93b873a181e",
+			"Apr": 18.579983,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5c147e74d63b1d31aa3fd78eb229b65161983b2b"
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WFLOW-USDC (0.30%)",
+	"Chain": "ethereum"
+}

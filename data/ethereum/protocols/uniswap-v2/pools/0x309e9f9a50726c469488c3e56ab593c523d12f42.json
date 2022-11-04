@@ -1,0 +1,24 @@
+{
+	"Id": "0x309e9f9a50726c469488c3e56ab593c523d12f42",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x309e9f9a50726c469488c3e56ab593c523d12f42",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2d5bed63b0fe325ed3b865ae2cdaa3649eb25461"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TESLF-WETH",
+	"Chain": "ethereum"
+}

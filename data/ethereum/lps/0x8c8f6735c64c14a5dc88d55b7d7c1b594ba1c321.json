@@ -1,0 +1,10 @@
+{
+	"Id": "0x8c8f6735c64c14a5dc88d55b7d7c1b594ba1c321",
+	"Symbol": "LEAFTY-WETH",
+	"UnderlyingTokens": [
+		"0x9795676af4d2f7fb9fe181efc8e1e51b8d8c00ab",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

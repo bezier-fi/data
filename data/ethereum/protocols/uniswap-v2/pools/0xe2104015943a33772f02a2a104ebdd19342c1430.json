@@ -1,0 +1,24 @@
+{
+	"Id": "0xe2104015943a33772f02a2a104ebdd19342c1430",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xe2104015943a33772f02a2a104ebdd19342c1430",
+			"Apr": 3.1748726,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x602f65bb8b8098ad804e99db6760fd36208cd967"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MOPS-WETH",
+	"Chain": "ethereum"
+}

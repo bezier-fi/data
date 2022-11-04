@@ -1,0 +1,10 @@
+{
+	"Id": "0xf824a994e7e7794b7d6748cea0108a3d98aa8a67",
+	"Symbol": "LUMA-WETH",
+	"UnderlyingTokens": [
+		"0x072b32cc3bb6c07ca1eb46fe9e9702a44fd9b299",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

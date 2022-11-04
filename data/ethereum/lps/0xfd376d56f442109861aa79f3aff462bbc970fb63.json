@@ -1,0 +1,10 @@
+{
+	"Id": "0xfd376d56f442109861aa79f3aff462bbc970fb63",
+	"Symbol": "BLND-WETH",
+	"UnderlyingTokens": [
+		"0x72bf4427d6f433f6ee0229f2d81c267299aed9d1",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

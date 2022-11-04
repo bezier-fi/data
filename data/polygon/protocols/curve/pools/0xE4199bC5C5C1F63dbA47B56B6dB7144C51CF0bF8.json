@@ -1,0 +1,30 @@
+{
+	"Id": "0xE4199bC5C5C1F63dbA47B56B6dB7144C51CF0bF8",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0xE4199bC5C5C1F63dbA47B56B6dB7144C51CF0bF8",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xd6D9Bc8e2b894b5C73833947aBdb5031Cc7A4894"
+		},
+		{
+			"Address": "0xa7fD7D83E2d63f093b71C5F3B84c27cFF66A7802"
+		},
+		{
+			"Address": "0xAcfBe6979D58b55a681875Fc9adAD0da4A37A51b"
+		},
+		{
+			"Address": "0x7D645CBbCAdE2A130bF1bf0528b8541d32D3f8Cf"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ACentauri-f",
+	"Chain": "polygon"
+}

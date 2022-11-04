@@ -1,0 +1,24 @@
+{
+	"Id": "0x0111842555a378cbaa937eb02818101d0040733b",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x0111842555a378cbaa937eb02818101d0040733b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5197fbe1a86679ff1360e27862bf88b0c5119bd8"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BPF-WETH",
+	"Chain": "ethereum"
+}

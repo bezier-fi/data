@@ -1,0 +1,10 @@
+{
+	"Id": "0x96b0837489d046a4f5aa9ac2fc9e086bd14bac1e",
+	"Symbol": "RND-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x1c7e83f8c581a967940dbfa7984744646ae46b29",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

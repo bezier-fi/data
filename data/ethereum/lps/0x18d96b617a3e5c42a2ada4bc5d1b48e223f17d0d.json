@@ -1,0 +1,10 @@
+{
+	"Id": "0x18d96b617a3e5c42a2ada4bc5d1b48e223f17d0d",
+	"Symbol": "USDC-UST (0.01%)",
+	"UnderlyingTokens": [
+		"0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+		"0xa47c8bf37f92abed4a126bda807a7b7498661acd"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

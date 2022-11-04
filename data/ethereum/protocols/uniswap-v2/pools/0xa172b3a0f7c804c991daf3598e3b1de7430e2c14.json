@@ -1,0 +1,24 @@
+{
+	"Id": "0xa172b3a0f7c804c991daf3598e3b1de7430e2c14",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xa172b3a0f7c804c991daf3598e3b1de7430e2c14",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		},
+		{
+			"Address": "0xcb9a1969747bec55c4ff9474bc6da33117f81558"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-Cheddurai",
+	"Chain": "ethereum"
+}

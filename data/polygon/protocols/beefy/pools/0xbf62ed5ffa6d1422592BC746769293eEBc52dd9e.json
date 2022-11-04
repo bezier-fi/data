@@ -1,0 +1,21 @@
+{
+	"Id": "0xbf62ed5ffa6d1422592BC746769293eEBc52dd9e",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xbf62ed5ffa6d1422592BC746769293eEBc52dd9e",
+			"Apr": 0.0024479737,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x36128D5436d2d70cab39C9AF9CcE146C38554ff0"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC/LINK/ETH/BAL/AAVE",
+	"Chain": "polygon"
+}

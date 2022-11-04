@@ -1,0 +1,24 @@
+{
+	"Id": "0xa0f38f31531865ab37f1a0fe98cd4db9a79b2f1f",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xa0f38f31531865ab37f1a0fe98cd4db9a79b2f1f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x42f3a4901b2b2c5e2d6bc8dadb8c1d8d5afd2618"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "RBI-WETH",
+	"Chain": "ethereum"
+}

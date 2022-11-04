@@ -1,0 +1,24 @@
+{
+	"Id": "0xb370a9d1139e556ed93861a5111e9486e48bf369",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xb370a9d1139e556ed93861a5111e9486e48bf369",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9b83f827928abdf18cf1f7e67053572b9bceff3a"
+		},
+		{
+			"Address": "0xd9016a907dc0ecfa3ca425ab20b6b785b42f2373"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ARTEM-GMEE",
+	"Chain": "ethereum"
+}

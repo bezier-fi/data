@@ -1,0 +1,10 @@
+{
+	"Id": "0xf5906bfd9406c45061dc67f774da440d169b84d0",
+	"Symbol": "WETH-SWAP (0.30%)",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xcc4304a31d09258b0029ea7fe63d032f52e44efe"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

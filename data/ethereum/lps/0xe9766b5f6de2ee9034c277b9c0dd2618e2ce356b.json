@@ -1,0 +1,10 @@
+{
+	"Id": "0xe9766b5f6de2ee9034c277b9c0dd2618e2ce356b",
+	"Symbol": "SHINTAMA-WETH",
+	"UnderlyingTokens": [
+		"0x7e794ed35788b698ae60cefc98ee48015c4876da",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

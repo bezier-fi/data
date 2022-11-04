@@ -1,0 +1,10 @@
+{
+	"Id": "0x4c83a7f819a5c37d64b4c5a2f8238ea082fa1f4e",
+	"Symbol": "WETH-CRV (1.00%)",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd533a949740bb3306d119cc777fa900ba034cd52"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

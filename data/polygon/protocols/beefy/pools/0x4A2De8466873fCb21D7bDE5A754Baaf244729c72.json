@@ -1,0 +1,21 @@
+{
+	"Id": "0x4A2De8466873fCb21D7bDE5A754Baaf244729c72",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x4A2De8466873fCb21D7bDE5A754Baaf244729c72",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xbedEE6a7c572aa855a0c84d2f504311d482862F4"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "polyDOGE-QUICK LP",
+	"Chain": "polygon"
+}

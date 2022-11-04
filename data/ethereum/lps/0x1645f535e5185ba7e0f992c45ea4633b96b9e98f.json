@@ -1,0 +1,10 @@
+{
+	"Id": "0x1645f535e5185ba7e0f992c45ea4633b96b9e98f",
+	"Symbol": "RISK-WETH",
+	"UnderlyingTokens": [
+		"0x52e1a5a0d18a9f8158848c27533d99daff767942",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

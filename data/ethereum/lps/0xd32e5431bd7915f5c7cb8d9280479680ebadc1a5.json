@@ -1,0 +1,10 @@
+{
+	"Id": "0xd32e5431bd7915f5c7cb8d9280479680ebadc1a5",
+	"Symbol": "WETH-OKAY",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xeeacc07a85112acbb2649a5c37c0b60ecd3410fc"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

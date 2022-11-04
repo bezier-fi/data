@@ -1,0 +1,24 @@
+{
+	"Id": "0x2187d81332f433467338b0d6970a97885e79650e",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x2187d81332f433467338b0d6970a97885e79650e",
+			"Apr": 1.8341992,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x440238cc07186adea6653a2e8cb9a24737615609"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Shibmerican-WETH",
+	"Chain": "ethereum"
+}

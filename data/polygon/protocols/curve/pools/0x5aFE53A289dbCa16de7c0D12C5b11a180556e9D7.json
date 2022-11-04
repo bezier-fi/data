@@ -1,0 +1,24 @@
+{
+	"Id": "0x5aFE53A289dbCa16de7c0D12C5b11a180556e9D7",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0x5aFE53A289dbCa16de7c0D12C5b11a180556e9D7",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x486880FB16408b47f928F472f57beC55AC6089d1"
+		},
+		{
+			"Address": "0x69a8Aaa4318f4803B3517F78a2ca6c859F5349f3"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "2php-f",
+	"Chain": "polygon"
+}

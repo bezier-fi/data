@@ -1,0 +1,24 @@
+{
+	"Id": "0x68bb61c2021eb3ea84f2b561c5d04d6f93fa1279",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x68bb61c2021eb3ea84f2b561c5d04d6f93fa1279",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb2e20502c7593674509b8384ed9240a03869faf3"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SHIBRAMEN🍜-WETH",
+	"Chain": "ethereum"
+}

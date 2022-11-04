@@ -1,0 +1,21 @@
+{
+	"Id": "0xE37CeD3b5FBeDb523a48eB4eA3c3e13b2092352a",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xE37CeD3b5FBeDb523a48eB4eA3c3e13b2092352a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2E02539203256c83c7a9F6fA6f8608A32A2b1Ca2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC.e-USDT.e LP",
+	"Chain": "avalanche"
+}

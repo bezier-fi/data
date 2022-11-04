@@ -1,0 +1,10 @@
+{
+	"Id": "0x767514643d35cf9584ab50d369368fdc94929bfe",
+	"Symbol": "WETH-AYFI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf68dcd1ffa602ded88e3fe71fba5ab26c77663b7"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

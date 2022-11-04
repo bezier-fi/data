@@ -1,0 +1,10 @@
+{
+	"Id": "0xb14319a9290ef515931ed5dd83ff87d315750b05",
+	"Symbol": "Bas4r-WETH",
+	"UnderlyingTokens": [
+		"0x097adfc3157f3065ff09eee79e0d6292a2ec7d25",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,21 @@
+{
+	"Id": "0xE08d7B24E2D22B242dEA3DE85032261810F35B09",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xE08d7B24E2D22B242dEA3DE85032261810F35B09",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xfE1a200637464FBC9B60Bc7AeCb9b86c0E1d486E"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "LITHIUM",
+	"Chain": "polygon"
+}

@@ -1,0 +1,21 @@
+{
+	"Id": "0xB38cA58F325D293B143364591c00704c91DEcdaC",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xB38cA58F325D293B143364591c00704c91DEcdaC",
+			"Apr": 21.344236,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9C396cF96319C8EF2b662Af57DEA6EE374b9959F"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "LOST-AVAX LP",
+	"Chain": "avalanche"
+}

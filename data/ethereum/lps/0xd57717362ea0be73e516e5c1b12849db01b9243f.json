@@ -1,0 +1,10 @@
+{
+	"Id": "0xd57717362ea0be73e516e5c1b12849db01b9243f",
+	"Symbol": "DIREWOLF-WETH",
+	"UnderlyingTokens": [
+		"0xbdea5bb640dbfc4593809deec5cdb8f99b704cd2",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

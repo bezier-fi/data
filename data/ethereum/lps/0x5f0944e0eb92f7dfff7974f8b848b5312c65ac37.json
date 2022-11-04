@@ -1,0 +1,10 @@
+{
+	"Id": "0x5f0944e0eb92f7dfff7974f8b848b5312c65ac37",
+	"Symbol": "WOZX-WETH",
+	"UnderlyingTokens": [
+		"0x34950ff2b487d9e5282c5ab342d08a2f712eb79f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

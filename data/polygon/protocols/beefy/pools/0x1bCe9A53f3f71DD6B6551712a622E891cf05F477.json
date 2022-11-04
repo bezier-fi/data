@@ -1,0 +1,21 @@
+{
+	"Id": "0x1bCe9A53f3f71DD6B6551712a622E891cf05F477",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x1bCe9A53f3f71DD6B6551712a622E891cf05F477",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0097692463fD591aEf388851FE2d756505f498AC"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BALL-USDC QLP",
+	"Chain": "polygon"
+}

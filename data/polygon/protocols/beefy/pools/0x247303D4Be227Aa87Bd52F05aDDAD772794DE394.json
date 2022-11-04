@@ -1,0 +1,21 @@
+{
+	"Id": "0x247303D4Be227Aa87Bd52F05aDDAD772794DE394",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x247303D4Be227Aa87Bd52F05aDDAD772794DE394",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xE60afed80406190C3AB2C17501d417097Dd741DB"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BIFI-MATIC LP",
+	"Chain": "polygon"
+}

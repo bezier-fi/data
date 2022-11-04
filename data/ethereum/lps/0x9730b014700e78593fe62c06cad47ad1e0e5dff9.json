@@ -1,0 +1,10 @@
+{
+	"Id": "0x9730b014700e78593fe62c06cad47ad1e0e5dff9",
+	"Symbol": "WETH-NOW",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe9a95d175a5f4c9369f3b74222402eb1b837693b"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

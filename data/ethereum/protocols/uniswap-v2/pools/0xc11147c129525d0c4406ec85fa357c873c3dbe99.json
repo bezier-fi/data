@@ -1,0 +1,24 @@
+{
+	"Id": "0xc11147c129525d0c4406ec85fa357c873c3dbe99",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xc11147c129525d0c4406ec85fa357c873c3dbe99",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4d82a1e174cfbf5b1ecb1050416b7f692a1cc95b"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Trumpkin-WETH",
+	"Chain": "ethereum"
+}

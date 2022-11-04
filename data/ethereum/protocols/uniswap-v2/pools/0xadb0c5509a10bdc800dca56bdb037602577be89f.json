@@ -1,0 +1,24 @@
+{
+	"Id": "0xadb0c5509a10bdc800dca56bdb037602577be89f",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xadb0c5509a10bdc800dca56bdb037602577be89f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8ee04e1e9400d4e2091ff3a46509e246e2f34542"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MUSUBI-WETH",
+	"Chain": "ethereum"
+}

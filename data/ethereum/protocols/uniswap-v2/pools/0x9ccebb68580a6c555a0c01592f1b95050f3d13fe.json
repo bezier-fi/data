@@ -1,0 +1,24 @@
+{
+	"Id": "0x9ccebb68580a6c555a0c01592f1b95050f3d13fe",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x9ccebb68580a6c555a0c01592f1b95050f3d13fe",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8e0fe2947752be0d5acf73aae77362daf79cb379"
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "NFTD-USDT",
+	"Chain": "ethereum"
+}

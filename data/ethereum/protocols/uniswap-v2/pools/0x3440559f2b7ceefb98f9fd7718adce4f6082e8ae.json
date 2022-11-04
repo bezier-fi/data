@@ -1,0 +1,24 @@
+{
+	"Id": "0x3440559f2b7ceefb98f9fd7718adce4f6082e8ae",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x3440559f2b7ceefb98f9fd7718adce4f6082e8ae",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6b175474e89094c44da98b954eedeac495271d0f"
+		},
+		{
+			"Address": "0xf67192a8b9f269f23802d9ab94c7875a0abb7aea"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DAI-BBIT",
+	"Chain": "ethereum"
+}

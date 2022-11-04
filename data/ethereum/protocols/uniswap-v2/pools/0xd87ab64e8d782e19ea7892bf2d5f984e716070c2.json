@@ -1,0 +1,24 @@
+{
+	"Id": "0xd87ab64e8d782e19ea7892bf2d5f984e716070c2",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xd87ab64e8d782e19ea7892bf2d5f984e716070c2",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x84ab89a03530a37262bac4c67f6e7c2e631b19e0"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "IONIA-WETH",
+	"Chain": "ethereum"
+}

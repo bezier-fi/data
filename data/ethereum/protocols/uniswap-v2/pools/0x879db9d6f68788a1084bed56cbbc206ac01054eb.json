@@ -1,0 +1,24 @@
+{
+	"Id": "0x879db9d6f68788a1084bed56cbbc206ac01054eb",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x879db9d6f68788a1084bed56cbbc206ac01054eb",
+			"Apr": 0.059682835,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x52662717e448be36cb54588499d5a8328bd95292"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TENSHI-WETH",
+	"Chain": "ethereum"
+}

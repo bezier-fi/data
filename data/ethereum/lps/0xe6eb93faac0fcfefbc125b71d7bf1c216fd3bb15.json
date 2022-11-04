@@ -1,0 +1,10 @@
+{
+	"Id": "0xe6eb93faac0fcfefbc125b71d7bf1c216fd3bb15",
+	"Symbol": "DogeZilla-WETH",
+	"UnderlyingTokens": [
+		"0x631c6b3332dcc35314faf56e81eea792ffcc3c2a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

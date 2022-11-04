@@ -1,0 +1,10 @@
+{
+	"Id": "0x58384db3c24c4e104be064b4bde16cab9ad9d080",
+	"Symbol": "DGRO-WETH",
+	"UnderlyingTokens": [
+		"0x01b8bcc8b75dd86025b455373f3c0814a060e6a8",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,24 @@
+{
+	"Id": "0x339d2bb734bbe105b48a2983d504378cded3093b",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0x339d2bb734bbe105b48a2983d504378cded3093b",
+			"Apr": 0.079796724,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1f194578e7510a350fb517a9ce63c40fa1899427"
+		},
+		{
+			"Address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "oneBTC-USDC (0.05%)",
+	"Chain": "polygon"
+}

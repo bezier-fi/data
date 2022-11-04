@@ -1,0 +1,24 @@
+{
+	"Id": "0xf21fb46cf8561249f3c64e04c5dd4f4a7aa0352d",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xf21fb46cf8561249f3c64e04c5dd4f4a7aa0352d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4ca60bff981785d9b6cf3433914eeff60d5d8cd8"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ZPUMP-WETH",
+	"Chain": "ethereum"
+}

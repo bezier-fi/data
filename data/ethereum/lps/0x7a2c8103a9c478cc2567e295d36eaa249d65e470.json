@@ -1,0 +1,10 @@
+{
+	"Id": "0x7a2c8103a9c478cc2567e295d36eaa249d65e470",
+	"Symbol": "DRAK-WETH",
+	"UnderlyingTokens": [
+		"0xbd74429c4991b1e9da8e747861447b570f503330",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x7c6fd8bf8a8064a7a336724872bced5d7ee911a9",
+	"Symbol": "WETH-RIOT",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf56408077487cb879c992909c5b5c66d68c02eb4"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

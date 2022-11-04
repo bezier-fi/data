@@ -1,0 +1,24 @@
+{
+	"Id": "0xed978fe1236300500dadf25e15d30494ffef3c80",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xed978fe1236300500dadf25e15d30494ffef3c80",
+			"Apr": 19.53958,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270"
+		},
+		{
+			"Address": "0xdfce1e99a31c4597a3f8a8945cbfa9037655e335"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WMATIC-ASTRAFER (0.30%)",
+	"Chain": "polygon"
+}

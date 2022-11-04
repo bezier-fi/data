@@ -1,0 +1,10 @@
+{
+	"Id": "0x0404803421532ed2eddcf0ab5f68631e785f1401",
+	"Symbol": "SPACEX-WETH",
+	"UnderlyingTokens": [
+		"0x9527186ce4e756b181495f1d4f9ff76dc2779adb",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

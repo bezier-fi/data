@@ -1,0 +1,21 @@
+{
+	"Id": "0xA4D0b2100107479dd637526F9296D34D8CBdde13",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xA4D0b2100107479dd637526F9296D34D8CBdde13",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x199fb78019A08af2Cb6a078409D0C8233Eba8a0c"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH.e-USDC.e LP",
+	"Chain": "avalanche"
+}

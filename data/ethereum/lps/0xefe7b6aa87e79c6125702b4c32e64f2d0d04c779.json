@@ -1,0 +1,10 @@
+{
+	"Id": "0xefe7b6aa87e79c6125702b4c32e64f2d0d04c779",
+	"Symbol": "KEEP-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x85eee30c52b0b379b046fb0f85f4f3dc3009afec",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x33d39ea02d1a569ecc77fbfcbbdcd4300fa0b010",
+	"Symbol": "WETH-SIS",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd38bb40815d2b0c2d2c866e0c72c5728ffc76dd9"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

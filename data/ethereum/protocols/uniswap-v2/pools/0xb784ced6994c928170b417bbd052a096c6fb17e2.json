@@ -1,0 +1,24 @@
+{
+	"Id": "0xb784ced6994c928170b417bbd052a096c6fb17e2",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xb784ced6994c928170b417bbd052a096c6fb17e2",
+			"Apr": 5.6496677,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1776e1f26f98b1a5df9cd347953a26dd3cb46671"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "NMR-WETH",
+	"Chain": "ethereum"
+}

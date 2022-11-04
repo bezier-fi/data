@@ -1,0 +1,24 @@
+{
+	"Id": "0xf56d08221b5942c428acc5de8f78489a97fc5599",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xf56d08221b5942c428acc5de8f78489a97fc5599",
+			"Apr": 1.2042574,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6810e776880c02933d47db1b9fc05908e5386b96"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GNO-WETH (0.30%)",
+	"Chain": "ethereum"
+}

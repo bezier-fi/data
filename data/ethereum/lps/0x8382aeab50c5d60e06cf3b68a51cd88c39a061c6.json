@@ -1,0 +1,10 @@
+{
+	"Id": "0x8382aeab50c5d60e06cf3b68a51cd88c39a061c6",
+	"Symbol": "BCUG-WETH",
+	"UnderlyingTokens": [
+		"0x14da7b27b2e0fedefe0a664118b0c9bc68e2e9af",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

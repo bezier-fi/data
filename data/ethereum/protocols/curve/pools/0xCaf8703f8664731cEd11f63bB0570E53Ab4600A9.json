@@ -1,0 +1,24 @@
+{
+	"Id": "0xCaf8703f8664731cEd11f63bB0570E53Ab4600A9",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0xCaf8703f8664731cEd11f63bB0570E53Ab4600A9",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xDc0b02849Bb8E0F126a216A2840275Da829709B0"
+		},
+		{
+			"Address": "0x4104b135DBC9609Fc1A9490E61369036497660c8"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "tAPW-f",
+	"Chain": "ethereum"
+}

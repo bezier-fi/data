@@ -1,0 +1,21 @@
+{
+	"Id": "0x18a20abeba0086ac0c564B2bA3a7BaF18568667D",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x18a20abeba0086ac0c564B2bA3a7BaF18568667D",
+			"Apr": 5.0719666,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc48AE82ca34C63887b975F20ABA91a38f2a900B8"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ETH-MANA LP",
+	"Chain": "polygon"
+}

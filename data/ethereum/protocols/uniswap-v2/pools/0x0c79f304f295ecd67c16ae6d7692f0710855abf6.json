@@ -1,0 +1,24 @@
+{
+	"Id": "0x0c79f304f295ecd67c16ae6d7692f0710855abf6",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x0c79f304f295ecd67c16ae6d7692f0710855abf6",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xbff198b07b502a633dced3b4ea50de84107055fb"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PUMPKIN-WETH",
+	"Chain": "ethereum"
+}

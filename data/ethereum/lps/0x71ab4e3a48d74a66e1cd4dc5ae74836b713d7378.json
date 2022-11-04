@@ -1,0 +1,10 @@
+{
+	"Id": "0x71ab4e3a48d74a66e1cd4dc5ae74836b713d7378",
+	"Symbol": "KAWA-WETH",
+	"UnderlyingTokens": [
+		"0x5552e5a89a70cb2ef5adbbc45a6be442fe7160ec",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

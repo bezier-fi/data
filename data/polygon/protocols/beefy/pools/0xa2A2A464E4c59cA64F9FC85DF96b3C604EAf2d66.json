@@ -1,0 +1,21 @@
+{
+	"Id": "0xa2A2A464E4c59cA64F9FC85DF96b3C604EAf2d66",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xa2A2A464E4c59cA64F9FC85DF96b3C604EAf2d66",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1581802317f32A2665005109444233ca6E3e2D68"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CLAM-MAI LP",
+	"Chain": "polygon"
+}

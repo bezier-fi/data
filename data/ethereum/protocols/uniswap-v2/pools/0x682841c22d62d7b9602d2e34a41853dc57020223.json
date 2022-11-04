@@ -1,0 +1,24 @@
+{
+	"Id": "0x682841c22d62d7b9602d2e34a41853dc57020223",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x682841c22d62d7b9602d2e34a41853dc57020223",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x41bc0913ed789428e107c4ea9ed007815c5a8230"
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "KOMP-USDT",
+	"Chain": "ethereum"
+}

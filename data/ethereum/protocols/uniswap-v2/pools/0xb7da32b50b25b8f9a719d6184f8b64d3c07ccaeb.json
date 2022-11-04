@@ -1,0 +1,24 @@
+{
+	"Id": "0xb7da32b50b25b8f9a719d6184f8b64d3c07ccaeb",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xb7da32b50b25b8f9a719d6184f8b64d3c07ccaeb",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb8d313068891137952e7dff19d8afaa64dbc6fcb"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "RPILL-WETH",
+	"Chain": "ethereum"
+}

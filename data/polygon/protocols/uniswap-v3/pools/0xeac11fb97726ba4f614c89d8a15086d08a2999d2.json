@@ -1,0 +1,24 @@
+{
+	"Id": "0xeac11fb97726ba4f614c89d8a15086d08a2999d2",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xeac11fb97726ba4f614c89d8a15086d08a2999d2",
+			"Apr": 7.573769,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619"
+		},
+		{
+			"Address": "0xf2ae0038696774d65e67892c9d301c5f2cbbda58"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-CXO (1.00%)",
+	"Chain": "polygon"
+}

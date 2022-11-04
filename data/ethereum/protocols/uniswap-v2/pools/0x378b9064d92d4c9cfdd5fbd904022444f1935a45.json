@@ -1,0 +1,24 @@
+{
+	"Id": "0x378b9064d92d4c9cfdd5fbd904022444f1935a45",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x378b9064d92d4c9cfdd5fbd904022444f1935a45",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x53501f9421072d109b417e7683af76bb2f56e2b9"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "eLOL-WETH",
+	"Chain": "ethereum"
+}

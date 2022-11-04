@@ -1,0 +1,24 @@
+{
+	"Id": "0xb8cc2148074c8305f3b3405e0f3b2abc3c496771",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xb8cc2148074c8305f3b3405e0f3b2abc3c496771",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5a6d9de34fa1f09aaff941ec635e3f1c7689cf74"
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BANKAI-USDC",
+	"Chain": "ethereum"
+}

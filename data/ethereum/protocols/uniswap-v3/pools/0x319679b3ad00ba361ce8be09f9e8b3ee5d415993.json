@@ -1,0 +1,24 @@
+{
+	"Id": "0x319679b3ad00ba361ce8be09f9e8b3ee5d415993",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0x319679b3ad00ba361ce8be09f9e8b3ee5d415993",
+			"Apr": 2.670601,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x42d6622dece394b54999fbd73d108123806f6a18"
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SPANK-USDC (1.00%)",
+	"Chain": "ethereum"
+}

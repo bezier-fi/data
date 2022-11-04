@@ -1,0 +1,24 @@
+{
+	"Id": "0x5613c5cfbddbb95a42f7957b54ab8be79957040c",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x5613c5cfbddbb95a42f7957b54ab8be79957040c",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x465fbf296921e589e161695526abcbe09c48253d"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SHIQOM-WETH",
+	"Chain": "ethereum"
+}

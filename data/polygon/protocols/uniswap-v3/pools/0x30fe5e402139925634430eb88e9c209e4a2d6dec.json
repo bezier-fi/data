@@ -1,0 +1,24 @@
+{
+	"Id": "0x30fe5e402139925634430eb88e9c209e4a2d6dec",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0x30fe5e402139925634430eb88e9c209e4a2d6dec",
+			"Apr": 253.54605,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174"
+		},
+		{
+			"Address": "0x430ef9263e76dae63c84292c3409d61c598e9682"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC-PYR (1.00%)",
+	"Chain": "polygon"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x931e8d3c0fadf7a3549b9831d8c7b2b4c86981d7",
+	"Symbol": "PSLIP-WETH",
+	"UnderlyingTokens": [
+		"0x36ce7a52cda404b8fa87a98d0d17ec7dd0b144ed",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

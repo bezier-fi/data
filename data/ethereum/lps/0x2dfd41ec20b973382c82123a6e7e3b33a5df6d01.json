@@ -1,0 +1,10 @@
+{
+	"Id": "0x2dfd41ec20b973382c82123a6e7e3b33a5df6d01",
+	"Symbol": "PRDZ-WETH",
+	"UnderlyingTokens": [
+		"0x4e085036a1b732cbe4ffb1c12ddfdd87e7c3664d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

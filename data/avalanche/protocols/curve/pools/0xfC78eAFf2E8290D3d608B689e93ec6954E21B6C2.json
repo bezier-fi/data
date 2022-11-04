@@ -1,0 +1,24 @@
+{
+	"Id": "0xfC78eAFf2E8290D3d608B689e93ec6954E21B6C2",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0xfC78eAFf2E8290D3d608B689e93ec6954E21B6C2",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1687b16087B576E403C8d6926fBc0798e48FD0de"
+		},
+		{
+			"Address": "0xDBf31dF14B66535aF65AaC99C32e9eA844e14501"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "renGOLD-f",
+	"Chain": "avalanche"
+}

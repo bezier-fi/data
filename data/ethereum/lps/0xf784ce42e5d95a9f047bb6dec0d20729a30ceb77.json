@@ -1,0 +1,10 @@
+{
+	"Id": "0xf784ce42e5d95a9f047bb6dec0d20729a30ceb77",
+	"Symbol": "GLCH-WETH (0.30%)",
+	"UnderlyingTokens": [
+		"0x038a68ff68c393373ec894015816e33ad41bd564",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

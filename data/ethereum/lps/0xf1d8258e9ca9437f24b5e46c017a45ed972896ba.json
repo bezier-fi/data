@@ -1,0 +1,10 @@
+{
+	"Id": "0xf1d8258e9ca9437f24b5e46c017a45ed972896ba",
+	"Symbol": "WETH-NBU",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xeb58343b36c7528f23caae63a150240241310049"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x548887ba4daa5d0763a9ec8fdc6d76d462b4ddb2",
+	"Symbol": "WAXG-WETH",
+	"UnderlyingTokens": [
+		"0xb140a429c342083e97daf42d5d82634bd7ade7d4",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,21 @@
+{
+	"Id": "0xA1B2Ef1b6D5823D832DDa2AE2B489793832Fd082",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xA1B2Ef1b6D5823D832DDa2AE2B489793832Fd082",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xaE183DB956FAf760Aa29bFcfDa4BDDdB02fbdd0E"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WEXpoly-WBTC LP",
+	"Chain": "polygon"
+}

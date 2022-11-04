@@ -1,0 +1,10 @@
+{
+	"Id": "0x25325b77e33a1fbd267b65d692d17115a2b27c65",
+	"Symbol": "WBTC-ACH (1.00%)",
+	"UnderlyingTokens": [
+		"0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+		"0xed04915c23f00a313a544955524eb7dbd823143d"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

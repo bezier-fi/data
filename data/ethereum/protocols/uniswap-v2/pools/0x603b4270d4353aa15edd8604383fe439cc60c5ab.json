@@ -1,0 +1,24 @@
+{
+	"Id": "0x603b4270d4353aa15edd8604383fe439cc60c5ab",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x603b4270d4353aa15edd8604383fe439cc60c5ab",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5de83a4b2ca7d85476bb5ca5435e1bf1bbfde9a2"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "NUTRA-WETH",
+	"Chain": "ethereum"
+}

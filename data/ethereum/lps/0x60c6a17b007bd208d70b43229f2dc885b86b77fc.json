@@ -1,0 +1,10 @@
+{
+	"Id": "0x60c6a17b007bd208d70b43229f2dc885b86b77fc",
+	"Symbol": "SWEEP-WETH",
+	"UnderlyingTokens": [
+		"0x5fdaa123bf828d0d6a1c4ae62a95a6b3bade57c6",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

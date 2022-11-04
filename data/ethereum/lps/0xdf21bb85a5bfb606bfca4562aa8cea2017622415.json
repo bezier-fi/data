@@ -1,0 +1,10 @@
+{
+	"Id": "0xdf21bb85a5bfb606bfca4562aa8cea2017622415",
+	"Symbol": "WOWS-WETH",
+	"UnderlyingTokens": [
+		"0x672ef7e4fe230b5ca1466c5fdd40588d30fdf90a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x5eff9d52b84018f45d676314d83cd4a820c6cc8e",
+	"Symbol": "WETH-TOKI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xef29110dcbc58d4ddc364d70077f657bc42a22af"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

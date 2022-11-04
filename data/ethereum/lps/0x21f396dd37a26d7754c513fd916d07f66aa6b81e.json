@@ -1,0 +1,10 @@
+{
+	"Id": "0x21f396dd37a26d7754c513fd916d07f66aa6b81e",
+	"Symbol": "MON-WETH (0.30%)",
+	"UnderlyingTokens": [
+		"0x1ea48b9965bb5086f3b468e50ed93888a661fc17",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

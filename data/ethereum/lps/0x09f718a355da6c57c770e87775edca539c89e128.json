@@ -1,0 +1,10 @@
+{
+	"Id": "0x09f718a355da6c57c770e87775edca539c89e128",
+	"Symbol": "SPKU-WETH",
+	"UnderlyingTokens": [
+		"0x74beef5283f7605be17bd0bb3b118ad6ae9200e5",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

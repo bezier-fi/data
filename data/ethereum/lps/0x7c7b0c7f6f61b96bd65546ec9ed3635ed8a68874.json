@@ -1,0 +1,10 @@
+{
+	"Id": "0x7c7b0c7f6f61b96bd65546ec9ed3635ed8a68874",
+	"Symbol": "URCT-WETH",
+	"UnderlyingTokens": [
+		"0x2e0f46ec40defaf566d19523a9c3c135e1dbb5fb",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

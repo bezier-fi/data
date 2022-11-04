@@ -1,0 +1,21 @@
+{
+	"Id": "0x8FA93b7F89b5F563F20720EEa27A35d395D474F9",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x8FA93b7F89b5F563F20720EEa27A35d395D474F9",
+			"Apr": 1.5587009,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0297e37f1873D2DAb4487Aa67cD56B58E2F27875"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MATIC/USDC/ETH/BAL",
+	"Chain": "polygon"
+}

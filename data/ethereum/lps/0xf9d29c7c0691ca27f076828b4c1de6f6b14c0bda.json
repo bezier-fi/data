@@ -1,0 +1,10 @@
+{
+	"Id": "0xf9d29c7c0691ca27f076828b4c1de6f6b14c0bda",
+	"Symbol": "UBT-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x8400d94a5cb0fa0d041a3788e395285d61c9ee5e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

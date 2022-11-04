@@ -1,0 +1,24 @@
+{
+	"Id": "0xe5ba471dc4d14a8913a6b3b78a71cd0adab98cfb",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xe5ba471dc4d14a8913a6b3b78a71cd0adab98cfb",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		},
+		{
+			"Address": "0xe68bd4705011f032d5f5488cae6ccd7ae0ee3aa4"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-RHODES (0.05%)",
+	"Chain": "ethereum"
+}

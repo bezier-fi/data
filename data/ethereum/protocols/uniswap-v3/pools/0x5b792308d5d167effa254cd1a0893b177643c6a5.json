@@ -1,0 +1,24 @@
+{
+	"Id": "0x5b792308d5d167effa254cd1a0893b177643c6a5",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0x5b792308d5d167effa254cd1a0893b177643c6a5",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3845badade8e6dff049820680d1f14bd3903a5d0"
+		},
+		{
+			"Address": "0x6b175474e89094c44da98b954eedeac495271d0f"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SAND-DAI (1.00%)",
+	"Chain": "ethereum"
+}

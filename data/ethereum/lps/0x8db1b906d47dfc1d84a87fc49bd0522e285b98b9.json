@@ -1,0 +1,10 @@
+{
+	"Id": "0x8db1b906d47dfc1d84a87fc49bd0522e285b98b9",
+	"Symbol": "agEUR-WETH (0.05%)",
+	"UnderlyingTokens": [
+		"0x1a7e4e63778b4f12a199c062f3efdd288afcbce8",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

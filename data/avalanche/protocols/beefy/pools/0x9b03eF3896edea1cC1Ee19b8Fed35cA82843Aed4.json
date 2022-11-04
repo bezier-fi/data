@@ -1,0 +1,21 @@
+{
+	"Id": "0x9b03eF3896edea1cC1Ee19b8Fed35cA82843Aed4",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x9b03eF3896edea1cC1Ee19b8Fed35cA82843Aed4",
+			"Apr": 37.920307,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb382247667fe8CA5327cA1Fa4835AE77A9907Bc8"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GRAPE-MIM LP",
+	"Chain": "avalanche"
+}

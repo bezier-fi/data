@@ -1,0 +1,21 @@
+{
+	"Id": "0x659418cc3cf755F5367a51aDb586a7F770Da6d29",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x659418cc3cf755F5367a51aDb586a7F770Da6d29",
+			"Apr": 412.3672,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x831753DD7087CaC61aB5644b308642cc1c33Dc13"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "QUICK",
+	"Chain": "polygon"
+}

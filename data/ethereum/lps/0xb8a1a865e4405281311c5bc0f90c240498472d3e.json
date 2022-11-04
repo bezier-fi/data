@@ -1,0 +1,10 @@
+{
+	"Id": "0xb8a1a865e4405281311c5bc0f90c240498472d3e",
+	"Symbol": "NOIA-WETH",
+	"UnderlyingTokens": [
+		"0xa8c8cfb141a3bb59fea1e2ea6b79b5ecbcd7b6ca",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

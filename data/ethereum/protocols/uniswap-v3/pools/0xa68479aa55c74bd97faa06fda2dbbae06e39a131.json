@@ -1,0 +1,24 @@
+{
+	"Id": "0xa68479aa55c74bd97faa06fda2dbbae06e39a131",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xa68479aa55c74bd97faa06fda2dbbae06e39a131",
+			"Apr": 57.21739,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6b175474e89094c44da98b954eedeac495271d0f"
+		},
+		{
+			"Address": "0xf66cd2f8755a21d3c8683a10269f795c0532dd58"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DAI-CoreDAO (1.00%)",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xfca9090d2c91e11cc546b0d7e4918c79e0088194",
+	"Symbol": "XSGD-WETH (0.05%)",
+	"UnderlyingTokens": [
+		"0x70e8de73ce538da2beed35d14187f6959a8eca96",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

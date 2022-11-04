@@ -1,0 +1,10 @@
+{
+	"Id": "0xe94b0c4055c6d1eca5a37f57ea8c2c4ef08ad537",
+	"Symbol": "WETH-ZORP",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd4ffbb90173199e0ef8847e16f549fc254c765a7"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

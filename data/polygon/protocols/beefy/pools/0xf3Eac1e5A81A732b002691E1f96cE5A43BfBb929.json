@@ -1,0 +1,21 @@
+{
+	"Id": "0xf3Eac1e5A81A732b002691E1f96cE5A43BfBb929",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xf3Eac1e5A81A732b002691E1f96cE5A43BfBb929",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x81212149b983602474fcD0943E202f38b38d7484"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "agEUR-4EUR",
+	"Chain": "polygon"
+}

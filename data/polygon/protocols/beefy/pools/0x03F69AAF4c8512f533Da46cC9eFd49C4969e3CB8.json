@@ -1,0 +1,21 @@
+{
+	"Id": "0x03F69AAF4c8512f533Da46cC9eFd49C4969e3CB8",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x03F69AAF4c8512f533Da46cC9eFd49C4969e3CB8",
+			"Apr": 11.096947,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x180237bd326d5245D0898336F54b3c8012c5c62f"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BIFI-USDC SLP",
+	"Chain": "polygon"
+}

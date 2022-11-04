@@ -1,0 +1,10 @@
+{
+	"Id": "0xbc712076b86ecfa8de7653e03eca2c245970c7e4",
+	"Symbol": "FANZ-WETH (0.05%)",
+	"UnderlyingTokens": [
+		"0x124c31a823cdf7cd391adaee4aa32455eb3e76ca",
+		"0x7ceb23fd6bc0add59e62ac25578270cff1b9f619"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "polygon"
+}

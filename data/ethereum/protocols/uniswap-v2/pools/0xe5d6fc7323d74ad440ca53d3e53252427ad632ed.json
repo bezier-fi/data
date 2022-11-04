@@ -1,0 +1,24 @@
+{
+	"Id": "0xe5d6fc7323d74ad440ca53d3e53252427ad632ed",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xe5d6fc7323d74ad440ca53d3e53252427ad632ed",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x39317b8a1ae06c30bb615d88cdc5522781499f1c"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BRAINS-WETH",
+	"Chain": "ethereum"
+}

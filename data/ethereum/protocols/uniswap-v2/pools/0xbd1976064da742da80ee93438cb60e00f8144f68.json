@@ -1,0 +1,24 @@
+{
+	"Id": "0xbd1976064da742da80ee93438cb60e00f8144f68",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xbd1976064da742da80ee93438cb60e00f8144f68",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4521c9ad6a3d4230803ab752ed238be11f8b342f"
+		},
+		{
+			"Address": "0xfeeeef4d7b4bf3cc8bd012d02d32ba5fd3d51e31"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SANI-TAIL",
+	"Chain": "ethereum"
+}

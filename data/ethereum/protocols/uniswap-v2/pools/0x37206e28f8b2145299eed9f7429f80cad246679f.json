@@ -1,0 +1,24 @@
+{
+	"Id": "0x37206e28f8b2145299eed9f7429f80cad246679f",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x37206e28f8b2145299eed9f7429f80cad246679f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xba75fbc4c7a553081f7a137b6e652520db444660"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MONSTR-WETH",
+	"Chain": "ethereum"
+}

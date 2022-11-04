@@ -1,0 +1,21 @@
+{
+	"Id": "0x21280954C4F99747757076A0cC56ba594037075d",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x21280954C4F99747757076A0cC56ba594037075d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9b7e966fe005d616b5560E4BaA7cFA8747d6cBb9"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USTw-MATIC LP",
+	"Chain": "polygon"
+}

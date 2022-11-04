@@ -1,0 +1,10 @@
+{
+	"Id": "0xebe9cfd978f0db637d920e4ed4ae10282d9aba17",
+	"Symbol": "WETH-$ANRX",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xcae72a7a0fd9046cf6b165ca54c9e3a3872109e0"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

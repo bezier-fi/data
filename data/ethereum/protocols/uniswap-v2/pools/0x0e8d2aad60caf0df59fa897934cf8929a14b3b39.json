@@ -1,0 +1,24 @@
+{
+	"Id": "0x0e8d2aad60caf0df59fa897934cf8929a14b3b39",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x0e8d2aad60caf0df59fa897934cf8929a14b3b39",
+			"Apr": 1.7377093,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1a6658f40e51b372e593b7d2144c1402d5cf33e8"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PUBLX-WETH",
+	"Chain": "ethereum"
+}

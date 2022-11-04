@@ -1,0 +1,10 @@
+{
+	"Id": "0xf84b793e3e3a6498d0f1d266397ed1172f5b585c",
+	"Symbol": "WETH-RUBY",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd94cfa225f71acf73bbec4a08db58ba77558d8e7"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

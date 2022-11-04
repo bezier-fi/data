@@ -1,0 +1,10 @@
+{
+	"Id": "0x2365b0b7c42b1c69dcacb4f16f571fab57e787ad",
+	"Symbol": "WETH-LPTX",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf2d609ad0ae93d4935597384294182fe6d5d9497"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

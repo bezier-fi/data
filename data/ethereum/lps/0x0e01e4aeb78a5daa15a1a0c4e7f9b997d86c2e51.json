@@ -1,0 +1,10 @@
+{
+	"Id": "0x0e01e4aeb78a5daa15a1a0c4e7f9b997d86c2e51",
+	"Symbol": "KAMADA-WETH",
+	"UnderlyingTokens": [
+		"0x64d8d716438db2499e94b26bf07e0bb7f7d8b53d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

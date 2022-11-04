@@ -1,0 +1,10 @@
+{
+	"Id": "0x3f5228d0e7d75467366be7de2c31d0d098ba2c23",
+	"Symbol": "USDC-USDT (0.05%)",
+	"UnderlyingTokens": [
+		"0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+		"0xc2132d05d31c914a87c6611c10748aeb04b58e8f"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "polygon"
+}

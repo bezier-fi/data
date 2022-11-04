@@ -1,0 +1,21 @@
+{
+	"Id": "0xCC2755476B0573F0ee0D5a754Bb6fE720c3641Bb",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xCC2755476B0573F0ee0D5a754Bb6fE720c3641Bb",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xC6a23BDd628c3B17fc0dF270e6BF8E48511950e2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BIFI-QUICK LP",
+	"Chain": "polygon"
+}

@@ -1,0 +1,24 @@
+{
+	"Id": "0xF72beaCc6fD334E14a7DDAC25c3ce1Eb8a827E10",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0xF72beaCc6fD334E14a7DDAC25c3ce1Eb8a827E10",
+			"Apr": 0.15825275,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x026187BdbC6b751003517bcb30Ac7817D5B766f8"
+		},
+		{
+			"Address": "0x1337BedC9D22ecbe766dF105c9623922A27963EC"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DefrostH2O3CRV-f",
+	"Chain": "avalanche"
+}

@@ -1,0 +1,21 @@
+{
+	"Id": "0xb6D01251A085D9a58e8586cB04AC28d68b91f6c9",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xb6D01251A085D9a58e8586cB04AC28d68b91f6c9",
+			"Apr": 1.1913307,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xADB2395FEC4D096b5086d3Daf8B33f9F7568BA25"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MaticX-MATIC sLP",
+	"Chain": "polygon"
+}

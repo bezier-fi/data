@@ -1,0 +1,24 @@
+{
+	"Id": "0xf0ba4f42a484dd795a0fdba62d4982de55d3c52c",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xf0ba4f42a484dd795a0fdba62d4982de55d3c52c",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb7ec99181dc6b428534e7d50d297f11d69701173"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TTI-WETH",
+	"Chain": "ethereum"
+}

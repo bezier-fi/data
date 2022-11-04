@@ -1,0 +1,24 @@
+{
+	"Id": "0xded602c271888d5bbd263f2f2da8e6c23fe9e283",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xded602c271888d5bbd263f2f2da8e6c23fe9e283",
+			"Apr": 0.30155474,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb144bee313a905bac296f529eb385c7f3a44df0f"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "HoroSha-WETH",
+	"Chain": "ethereum"
+}

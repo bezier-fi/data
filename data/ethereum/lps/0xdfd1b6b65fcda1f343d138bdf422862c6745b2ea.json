@@ -1,0 +1,10 @@
+{
+	"Id": "0xdfd1b6b65fcda1f343d138bdf422862c6745b2ea",
+	"Symbol": "WETH-StellarInu",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfde57fee4bcca80485714bd640d6e5afe8ac4d66"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

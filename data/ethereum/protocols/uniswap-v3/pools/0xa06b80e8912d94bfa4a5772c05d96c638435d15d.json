@@ -1,0 +1,24 @@
+{
+	"Id": "0xa06b80e8912d94bfa4a5772c05d96c638435d15d",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xa06b80e8912d94bfa4a5772c05d96c638435d15d",
+			"Apr": 3050.4377,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4123a133ae3c521fd134d7b13a2dec35b56c2463"
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "QRDO-USDC (1.00%)",
+	"Chain": "ethereum"
+}

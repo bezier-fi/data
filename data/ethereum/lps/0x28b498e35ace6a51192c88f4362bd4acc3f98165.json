@@ -1,0 +1,10 @@
+{
+	"Id": "0x28b498e35ace6a51192c88f4362bd4acc3f98165",
+	"Symbol": "TRUMP-WETH",
+	"UnderlyingTokens": [
+		"0x51439fafd035fe8f5caa97a3fa49686d84d3483e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

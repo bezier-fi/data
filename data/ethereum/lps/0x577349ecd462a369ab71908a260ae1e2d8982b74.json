@@ -1,0 +1,10 @@
+{
+	"Id": "0x577349ecd462a369ab71908a260ae1e2d8982b74",
+	"Symbol": "KOMET-WETH",
+	"UnderlyingTokens": [
+		"0x6cfb6df56bbdb00226aeffcdb2cd1fe8da1abda7",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

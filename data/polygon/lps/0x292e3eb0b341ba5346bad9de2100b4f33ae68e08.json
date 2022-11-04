@@ -1,0 +1,10 @@
+{
+	"Id": "0x292e3eb0b341ba5346bad9de2100b4f33ae68e08",
+	"Symbol": "RETH-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x614af88dac8bbffc5a167bb79ff3f5e0769f1a3f",
+		"0x7ceb23fd6bc0add59e62ac25578270cff1b9f619"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "polygon"
+}

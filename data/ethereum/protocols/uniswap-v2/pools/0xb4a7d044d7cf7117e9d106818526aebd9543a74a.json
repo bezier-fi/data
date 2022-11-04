@@ -1,0 +1,24 @@
+{
+	"Id": "0xb4a7d044d7cf7117e9d106818526aebd9543a74a",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xb4a7d044d7cf7117e9d106818526aebd9543a74a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8f87ec6aad3b2a8c44f1298a1af56169b8e574cf"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "LYNC-WETH",
+	"Chain": "ethereum"
+}

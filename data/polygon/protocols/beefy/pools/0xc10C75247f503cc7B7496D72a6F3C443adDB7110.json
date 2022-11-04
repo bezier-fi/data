@@ -1,0 +1,21 @@
+{
+	"Id": "0xc10C75247f503cc7B7496D72a6F3C443adDB7110",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xc10C75247f503cc7B7496D72a6F3C443adDB7110",
+			"Apr": 60.265324,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x67eB41A14C0fe5CD701FC9d5A3D6597A72F641a6"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GIDDY",
+	"Chain": "polygon"
+}

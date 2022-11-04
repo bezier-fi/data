@@ -1,0 +1,10 @@
+{
+	"Id": "0x0e4dadf1ba9aee6379129bae2fcb09f1b385e7ef",
+	"Symbol": "CXN-WETH",
+	"UnderlyingTokens": [
+		"0xb48e0f69e6a3064f5498d495f77ad83e0874ab28",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

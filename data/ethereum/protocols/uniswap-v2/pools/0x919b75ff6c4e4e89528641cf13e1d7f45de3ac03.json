@@ -1,0 +1,24 @@
+{
+	"Id": "0x919b75ff6c4e4e89528641cf13e1d7f45de3ac03",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x919b75ff6c4e4e89528641cf13e1d7f45de3ac03",
+			"Apr": 4.612181,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2da719db753dfa10a62e140f436e1d67f2ddb0d6"
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CERE-USDT",
+	"Chain": "ethereum"
+}

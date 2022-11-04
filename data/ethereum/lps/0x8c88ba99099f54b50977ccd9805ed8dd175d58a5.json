@@ -1,0 +1,10 @@
+{
+	"Id": "0x8c88ba99099f54b50977ccd9805ed8dd175d58a5",
+	"Symbol": "JAC-WETH",
+	"UnderlyingTokens": [
+		"0x345972d4feb4beae93999c8a4573f8dff4d95da9",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

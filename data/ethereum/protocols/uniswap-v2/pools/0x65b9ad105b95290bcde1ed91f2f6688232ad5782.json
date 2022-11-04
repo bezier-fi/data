@@ -1,0 +1,24 @@
+{
+	"Id": "0x65b9ad105b95290bcde1ed91f2f6688232ad5782",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x65b9ad105b95290bcde1ed91f2f6688232ad5782",
+			"Apr": 10.651291,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x83249c6794bca5a77eb8c0af9f1a86e055459cea"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GIGA-WETH",
+	"Chain": "ethereum"
+}

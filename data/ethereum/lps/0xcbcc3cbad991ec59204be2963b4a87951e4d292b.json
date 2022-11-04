@@ -1,0 +1,10 @@
+{
+	"Id": "0xcbcc3cbad991ec59204be2963b4a87951e4d292b",
+	"Symbol": "VITA-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x81f8f0bb1cb2a06649e51913a151f0e7ef6fa321",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

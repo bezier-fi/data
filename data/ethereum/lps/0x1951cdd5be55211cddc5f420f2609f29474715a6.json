@@ -1,0 +1,10 @@
+{
+	"Id": "0x1951cdd5be55211cddc5f420f2609f29474715a6",
+	"Symbol": "tama.-WETH",
+	"UnderlyingTokens": [
+		"0x7e900f76ebcc015ba7d1bd0e5df052e5e96db495",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

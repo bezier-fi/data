@@ -1,0 +1,10 @@
+{
+	"Id": "0xb929ab35830ebe61a7edb8f3191b56fef5460d42",
+	"Symbol": "TITS-WETH",
+	"UnderlyingTokens": [
+		"0x3c5576b5fa220c886e561891f1956069ad50407a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

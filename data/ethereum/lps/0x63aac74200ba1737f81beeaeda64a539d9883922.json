@@ -1,0 +1,10 @@
+{
+	"Id": "0x63aac74200ba1737f81beeaeda64a539d9883922",
+	"Symbol": "USDI-WETH",
+	"UnderlyingTokens": [
+		"0x2a54ba2964c8cd459dc568853f79813a60761b58",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

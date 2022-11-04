@@ -1,0 +1,21 @@
+{
+	"Id": "0xAf9f33df60CA764307B17E62dde86e9F7090426c",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xAf9f33df60CA764307B17E62dde86e9F7090426c",
+			"Apr": 1.66375,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DAI.e",
+	"Chain": "avalanche"
+}

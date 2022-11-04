@@ -1,0 +1,24 @@
+{
+	"Id": "0xc5ee69662e7ef79e503be9d54c237d5aafac305d",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xc5ee69662e7ef79e503be9d54c237d5aafac305d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8cc0f052fff7ead7f2edcccac895502e884a8a71"
+		},
+		{
+			"Address": "0xb4d930279552397bba2ee473229f89ec245bc365"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ARTH-MAHA (1.00%)",
+	"Chain": "ethereum"
+}

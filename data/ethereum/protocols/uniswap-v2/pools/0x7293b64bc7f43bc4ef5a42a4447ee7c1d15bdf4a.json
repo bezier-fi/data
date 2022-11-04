@@ -1,0 +1,24 @@
+{
+	"Id": "0x7293b64bc7f43bc4ef5a42a4447ee7c1d15bdf4a",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x7293b64bc7f43bc4ef5a42a4447ee7c1d15bdf4a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x35ba8966aa3d81e007d2cbc167172583a07dff8c"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TAKE-WETH",
+	"Chain": "ethereum"
+}

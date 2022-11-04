@@ -1,0 +1,10 @@
+{
+	"Id": "0x5522c339d35a6c3e5f328c8746bdf88f599dab83",
+	"Symbol": "DAI-REQ",
+	"UnderlyingTokens": [
+		"0x6b175474e89094c44da98b954eedeac495271d0f",
+		"0x8f8221afbb33998d8584a2b05749ba73c37a938a"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

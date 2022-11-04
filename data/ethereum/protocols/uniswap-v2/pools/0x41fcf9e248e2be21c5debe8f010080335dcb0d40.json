@@ -1,0 +1,24 @@
+{
+	"Id": "0x41fcf9e248e2be21c5debe8f010080335dcb0d40",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x41fcf9e248e2be21c5debe8f010080335dcb0d40",
+			"Apr": 0.34277984,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		},
+		{
+			"Address": "0xcb8d1260f9c92a3a545d409466280ffdd7af7042"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-NFT",
+	"Chain": "ethereum"
+}

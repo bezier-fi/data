@@ -1,0 +1,24 @@
+{
+	"Id": "0x1cf33f80113bddce5f75e619868a222bacd78810",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x1cf33f80113bddce5f75e619868a222bacd78810",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xaa601f6bde0c586a0045c5a185a4d4ca4124c865"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ANITV-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,24 @@
+{
+	"Id": "0xb8d6d631aee8c67473ab362c6fd9dd94c95de7f0",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xb8d6d631aee8c67473ab362c6fd9dd94c95de7f0",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x15f0eedf9ce24fc4b6826e590a8292ce5524a1da"
+		},
+		{
+			"Address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DENA-WBTC",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,24 @@
+{
+	"Id": "0x7e836e605cb85540775842f4b13df0742fbb208e",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x7e836e605cb85540775842f4b13df0742fbb208e",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x297d33e17e61c2ddd812389c2105193f8348188a"
+		},
+		{
+			"Address": "0xe1406825186d63980fd6e2ec61888f7b91c4bae4"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "$TRDL-VBTC",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x16b70f44719b227278a2dc1122e8106cc929ecd1",
+	"Symbol": "WETH-LUNA (1.00%)",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd2877702675e6ceb975b4a1dff9fb7baf4c91ea9"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

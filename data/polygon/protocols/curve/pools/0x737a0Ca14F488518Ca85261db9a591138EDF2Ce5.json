@@ -1,0 +1,30 @@
+{
+	"Id": "0x737a0Ca14F488518Ca85261db9a591138EDF2Ce5",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0x737a0Ca14F488518Ca85261db9a591138EDF2Ce5",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x28424507fefb6f7f8E9D3860F56504E4e5f5f390"
+		},
+		{
+			"Address": "0x1a13F4Ca1d028320A707D99520AbFefca3998b7F"
+		},
+		{
+			"Address": "0x8dF3aad3a84da6b69A4DA8aeC3eA40d9091B2Ac4"
+		},
+		{
+			"Address": "0x6f57Ec3C983a04C9Bf9958C9E908c39a3cD0870d"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "AMISamUEM-f",
+	"Chain": "polygon"
+}

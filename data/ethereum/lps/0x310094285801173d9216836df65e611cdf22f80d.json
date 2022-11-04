@@ -1,0 +1,10 @@
+{
+	"Id": "0x310094285801173d9216836df65e611cdf22f80d",
+	"Symbol": "WETH-RISU",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xcb3c5438dae9fe30b18ea53da3dab0e7dcaa0e4b"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

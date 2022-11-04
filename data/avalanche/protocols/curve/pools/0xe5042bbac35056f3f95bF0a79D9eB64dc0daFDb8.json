@@ -1,0 +1,24 @@
+{
+	"Id": "0xe5042bbac35056f3f95bF0a79D9eB64dc0daFDb8",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0xe5042bbac35056f3f95bF0a79D9eB64dc0daFDb8",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc6636e205460bE6073b65094422910161d767ef2"
+		},
+		{
+			"Address": "0x130966628846BFd36ff31a822705796e8cb8C18D"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FUSD-MIM-f",
+	"Chain": "avalanche"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xdf18b03a85599a1d91a223a97f8282ad993f5290",
+	"Symbol": "WETH-CHANDRA",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xefe9c3f37affca0ba1b6b186fe3819b7d157f0ed"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

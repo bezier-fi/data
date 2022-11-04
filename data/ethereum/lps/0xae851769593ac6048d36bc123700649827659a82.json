@@ -1,0 +1,10 @@
+{
+	"Id": "0xae851769593ac6048d36bc123700649827659a82",
+	"Symbol": "EHIVE-WETH",
+	"UnderlyingTokens": [
+		"0x4ae2cd1f5b8806a973953b76f9ce6d5fab9cdcfd",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

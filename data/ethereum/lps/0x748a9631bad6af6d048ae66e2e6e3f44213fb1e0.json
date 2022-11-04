@@ -1,0 +1,10 @@
+{
+	"Id": "0x748a9631bad6af6d048ae66e2e6e3f44213fb1e0",
+	"Symbol": "TWA-WETH",
+	"UnderlyingTokens": [
+		"0xa2ef2757d2ed560c9e3758d1946d7bcccbd5a7fe",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

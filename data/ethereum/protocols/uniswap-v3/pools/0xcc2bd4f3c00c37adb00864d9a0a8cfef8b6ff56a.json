@@ -1,0 +1,24 @@
+{
+	"Id": "0xcc2bd4f3c00c37adb00864d9a0a8cfef8b6ff56a",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xcc2bd4f3c00c37adb00864d9a0a8cfef8b6ff56a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3b94440c8c4f69d5c9f47bab9c5a93064df460f5"
+		},
+		{
+			"Address": "0x58b6a8a3302369daec383334672404ee733ab239"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "RNG-LPT (0.30%)",
+	"Chain": "ethereum"
+}

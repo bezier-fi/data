@@ -1,0 +1,24 @@
+{
+	"Id": "0xdcb16563e5c4c8c0a9b90e3a8ba241bbb9dac37b",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xdcb16563e5c4c8c0a9b90e3a8ba241bbb9dac37b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xad8a12216c1d6e538b2ae333989c1bff8936c4fa"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MERGE-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x256e733cb85f03aeb16e58243e44d74631131254",
+	"Symbol": "UTA-WETH",
+	"UnderlyingTokens": [
+		"0x232084272b5679f2a7c775b1a86160ae71d235b4",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

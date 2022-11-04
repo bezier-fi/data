@@ -1,0 +1,10 @@
+{
+	"Id": "0xb85110d30df551ba403ea55bf6d49cf58bcf88b0",
+	"Symbol": "SRWD-WETH",
+	"UnderlyingTokens": [
+		"0xa518c9f3724cced4715e6813858dc2ce9b21ed78",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

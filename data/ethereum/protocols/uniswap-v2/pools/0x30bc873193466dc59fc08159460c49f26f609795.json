@@ -1,0 +1,24 @@
+{
+	"Id": "0x30bc873193466dc59fc08159460c49f26f609795",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x30bc873193466dc59fc08159460c49f26f609795",
+			"Apr": 1.0358586,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xac51066d7bec65dc4589368da368b212745d63e8"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ALICE-WETH",
+	"Chain": "ethereum"
+}

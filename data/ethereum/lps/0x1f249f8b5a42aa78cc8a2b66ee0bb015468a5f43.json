@@ -1,0 +1,10 @@
+{
+	"Id": "0x1f249f8b5a42aa78cc8a2b66ee0bb015468a5f43",
+	"Symbol": "WETH-wBAN",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe20b9e246db5a0d21bf9209e4858bc9a3ff7a034"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

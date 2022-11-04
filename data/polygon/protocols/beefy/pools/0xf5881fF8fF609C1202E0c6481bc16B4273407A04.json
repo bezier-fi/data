@@ -1,0 +1,21 @@
+{
+	"Id": "0xf5881fF8fF609C1202E0c6481bc16B4273407A04",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xf5881fF8fF609C1202E0c6481bc16B4273407A04",
+			"Apr": 8.250237,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1274De0DE2e9D9b1d0E06313c0E5EdD01CC335eF"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "AVAX-ETH SLP",
+	"Chain": "polygon"
+}

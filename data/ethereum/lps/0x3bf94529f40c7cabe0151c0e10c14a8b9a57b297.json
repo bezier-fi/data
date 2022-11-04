@@ -1,0 +1,10 @@
+{
+	"Id": "0x3bf94529f40c7cabe0151c0e10c14a8b9a57b297",
+	"Symbol": "USDC-GENI",
+	"UnderlyingTokens": [
+		"0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+		"0xaac1abdb4fb7a91a0e2e036dfacc45f708ed6a39"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

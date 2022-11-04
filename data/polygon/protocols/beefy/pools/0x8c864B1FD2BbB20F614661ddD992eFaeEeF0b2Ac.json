@@ -1,0 +1,21 @@
+{
+	"Id": "0x8c864B1FD2BbB20F614661ddD992eFaeEeF0b2Ac",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x8c864B1FD2BbB20F614661ddD992eFaeEeF0b2Ac",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8C1b40Ea78081B70F661C3286c74E71b4602C9C0"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "QI-ETH LP",
+	"Chain": "polygon"
+}

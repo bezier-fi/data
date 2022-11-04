@@ -1,0 +1,24 @@
+{
+	"Id": "0xe390d46326936b4046a52049fb055de07cec79aa",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xe390d46326936b4046a52049fb055de07cec79aa",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+		},
+		{
+			"Address": "0xe09629bae063fa2bea021809a7c3273a6e700315"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC-WCF",
+	"Chain": "ethereum"
+}

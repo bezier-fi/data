@@ -1,0 +1,24 @@
+{
+	"Id": "0xf04543fbf20daee9b0357db966428ef2a4ae0f5a",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xf04543fbf20daee9b0357db966428ef2a4ae0f5a",
+			"Apr": 4.321443,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FTX Token-WETH",
+	"Chain": "ethereum"
+}

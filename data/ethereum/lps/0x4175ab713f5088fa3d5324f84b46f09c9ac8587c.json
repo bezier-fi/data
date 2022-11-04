@@ -1,0 +1,10 @@
+{
+	"Id": "0x4175ab713f5088fa3d5324f84b46f09c9ac8587c",
+	"Symbol": "eSafe-WETH",
+	"UnderlyingTokens": [
+		"0xb162d03b44c64a5b874f46b8fd3ea54c1714ce34",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

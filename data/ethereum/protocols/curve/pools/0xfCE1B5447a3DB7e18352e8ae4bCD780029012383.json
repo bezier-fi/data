@@ -1,0 +1,24 @@
+{
+	"Id": "0xfCE1B5447a3DB7e18352e8ae4bCD780029012383",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0x77B46D22Ca8fBa667929e5b78D8cd1310F6B8504",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+		},
+		{
+			"Address": "0xd6242E984E6db6B5286FB2c26C69330Da639da12"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "RAREPEPE-f",
+	"Chain": "ethereum"
+}

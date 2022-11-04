@@ -1,0 +1,10 @@
+{
+	"Id": "0x0a173de9fd2d5d26139beb6ab9e009310ead80db",
+	"Symbol": "GRINGODOGE-WETH",
+	"UnderlyingTokens": [
+		"0x69f061a92b586a6df87b0ce5c0f2c4f758ff4aae",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

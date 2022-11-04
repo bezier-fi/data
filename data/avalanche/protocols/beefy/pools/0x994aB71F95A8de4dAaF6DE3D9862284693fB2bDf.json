@@ -1,0 +1,21 @@
+{
+	"Id": "0x994aB71F95A8de4dAaF6DE3D9862284693fB2bDf",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x994aB71F95A8de4dAaF6DE3D9862284693fB2bDf",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xFba4EdaAd3248B03f1a3261ad06Ad846A8e50765"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "LYD-AVAX LP",
+	"Chain": "avalanche"
+}

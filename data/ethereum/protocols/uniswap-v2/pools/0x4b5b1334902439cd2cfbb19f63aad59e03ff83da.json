@@ -1,0 +1,24 @@
+{
+	"Id": "0x4b5b1334902439cd2cfbb19f63aad59e03ff83da",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x4b5b1334902439cd2cfbb19f63aad59e03ff83da",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x601233d1b3429cca5d2dfe05808432e0491393a1"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "RONALDH-INU ⚽️ 🏃🏽-WETH",
+	"Chain": "ethereum"
+}

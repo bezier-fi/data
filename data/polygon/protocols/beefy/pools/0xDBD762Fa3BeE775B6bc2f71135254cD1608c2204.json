@@ -1,0 +1,21 @@
+{
+	"Id": "0xDBD762Fa3BeE775B6bc2f71135254cD1608c2204",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xDBD762Fa3BeE775B6bc2f71135254cD1608c2204",
+			"Apr": 1072.5984,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x60e70705b52a4A5bDc1d8614426bA5016a68aB38"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "newQUICK-ETH LP",
+	"Chain": "polygon"
+}

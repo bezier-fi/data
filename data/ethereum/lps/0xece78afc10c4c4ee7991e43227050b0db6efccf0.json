@@ -1,0 +1,10 @@
+{
+	"Id": "0xece78afc10c4c4ee7991e43227050b0db6efccf0",
+	"Symbol": "ARRIVAL-WETH",
+	"UnderlyingTokens": [
+		"0x40c9f52709644160139381317bee82f884cc563a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

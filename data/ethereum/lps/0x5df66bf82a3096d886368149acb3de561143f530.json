@@ -1,0 +1,10 @@
+{
+	"Id": "0x5df66bf82a3096d886368149acb3de561143f530",
+	"Symbol": "WETH-RUNE",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc68a4c68f17fed266a5e39e7140650acadfe78f8"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

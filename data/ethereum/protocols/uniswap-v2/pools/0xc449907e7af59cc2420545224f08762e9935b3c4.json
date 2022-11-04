@@ -1,0 +1,24 @@
+{
+	"Id": "0xc449907e7af59cc2420545224f08762e9935b3c4",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xc449907e7af59cc2420545224f08762e9935b3c4",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x37941b3fdb2bd332e667d452a58be01bcacb923e"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FREN-WETH",
+	"Chain": "ethereum"
+}

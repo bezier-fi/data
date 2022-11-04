@@ -1,0 +1,10 @@
+{
+	"Id": "0x0a48db500eb930dda5407e415252149b002b8132",
+	"Symbol": "HAJI-WETH",
+	"UnderlyingTokens": [
+		"0x2a4e05277e89db1f0c589e8e8f49f20bd059ea02",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

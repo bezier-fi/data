@@ -1,0 +1,24 @@
+{
+	"Id": "0xf1d2172d6c6051960a289e0d7dca9e16b65bfc64",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xf1d2172d6c6051960a289e0d7dca9e16b65bfc64",
+			"Apr": 49.56339,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xd2877702675e6ceb975b4a1dff9fb7baf4c91ea9"
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "LUNA-USDT (1.00%)",
+	"Chain": "ethereum"
+}

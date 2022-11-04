@@ -1,0 +1,10 @@
+{
+	"Id": "0xaabc7ffb616abb80656ba703e7045646b2cb7ca2",
+	"Symbol": "YTC-WETH",
+	"UnderlyingTokens": [
+		"0x6b51beeaa7d6704d48d088ec95735e21459385f0",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,24 @@
+{
+	"Id": "0x88000bc12717d8a4c6ab1a153b38f819e49310b2",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0x88000bc12717d8a4c6ab1a153b38f819e49310b2",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x86cfcaee76117001673ed22bd1b619937f92fc2d"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CTWTR-WETH (1.00%)",
+	"Chain": "ethereum"
+}

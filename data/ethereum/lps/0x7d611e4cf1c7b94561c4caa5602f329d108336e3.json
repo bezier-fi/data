@@ -1,0 +1,10 @@
+{
+	"Id": "0x7d611e4cf1c7b94561c4caa5602f329d108336e3",
+	"Symbol": "WETH-SHROOM",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xed0439eacf4c4965ae4613d77a5c2efe10e5f183"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

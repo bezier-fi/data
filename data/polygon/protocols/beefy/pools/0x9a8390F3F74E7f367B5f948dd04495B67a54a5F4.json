@@ -1,0 +1,21 @@
+{
+	"Id": "0x9a8390F3F74E7f367B5f948dd04495B67a54a5F4",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x9a8390F3F74E7f367B5f948dd04495B67a54a5F4",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xAD8f4c66b28756458Fc419AA67aD2207A21A6997"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "YELD-USDC QLP",
+	"Chain": "polygon"
+}

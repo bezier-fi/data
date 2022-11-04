@@ -1,0 +1,24 @@
+{
+	"Id": "0x9A7168Ea321121A8FaF52147fC596b73e07Ab8a3",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0xbF0aD19D3C8c965746Db7eAEf7F84414e2B796A1",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x20658291677a29EFddfd0E303f8b23113d837cC7"
+		},
+		{
+			"Address": "0xEd279fDD11cA84bEef15AF5D39BB4d4bEE23F0cA"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "bLUSDLUSD3-f",
+	"Chain": "ethereum"
+}

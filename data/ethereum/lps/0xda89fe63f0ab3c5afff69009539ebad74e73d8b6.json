@@ -1,0 +1,10 @@
+{
+	"Id": "0xda89fe63f0ab3c5afff69009539ebad74e73d8b6",
+	"Symbol": "LVJ-WETH",
+	"UnderlyingTokens": [
+		"0x87cdbe3c31f2a9e1c506dc2f827a02472a0660ce",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

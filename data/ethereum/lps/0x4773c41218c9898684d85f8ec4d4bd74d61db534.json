@@ -1,0 +1,10 @@
+{
+	"Id": "0x4773c41218c9898684d85f8ec4d4bd74d61db534",
+	"Symbol": "WETH-DOODL",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xcfc49b91cc35f6ff7c209f7c070bf6e1b66fb151"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

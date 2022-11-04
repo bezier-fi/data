@@ -1,0 +1,21 @@
+{
+	"Id": "0xe942A8Ef245EAC3CEa951486e3Df5764C79b9621",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xe942A8Ef245EAC3CEa951486e3Df5764C79b9621",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x75a4917aeE97BDA48D3572f431e04003743da85e"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DEGEN-QUICK LP",
+	"Chain": "polygon"
+}

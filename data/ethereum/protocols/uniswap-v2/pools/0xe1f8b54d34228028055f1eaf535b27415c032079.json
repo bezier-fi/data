@@ -1,0 +1,24 @@
+{
+	"Id": "0xe1f8b54d34228028055f1eaf535b27415c032079",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xe1f8b54d34228028055f1eaf535b27415c032079",
+			"Apr": 8.158012,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x59c6900949ad1835f07a04321f4d9934a054e114"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TROVE-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xa0c3645077b6ea895dbf83a2a6bcedce44f1322d",
+	"Symbol": "WETH-HallowInu",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd4759f573ca3d29f4362490fbb26f723548770ce"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

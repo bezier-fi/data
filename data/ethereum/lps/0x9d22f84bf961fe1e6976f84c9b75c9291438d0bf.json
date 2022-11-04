@@ -1,0 +1,10 @@
+{
+	"Id": "0x9d22f84bf961fe1e6976f84c9b75c9291438d0bf",
+	"Symbol": "WETH-SKFM",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc70e550f1c393e982bd0b08525ef7a40b12ea00c"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

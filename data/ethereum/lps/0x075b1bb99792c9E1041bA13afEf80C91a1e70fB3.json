@@ -1,0 +1,10 @@
+{
+	"Id": "0x075b1bb99792c9E1041bA13afEf80C91a1e70fB3",
+	"Symbol": "crvRenWSBTC",
+	"UnderlyingTokens": [
+		"0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+		"0xfE18be6b3Bd88A2D2A7f928d00292E7a9963CfC6"
+	],
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Chain": "ethereum"
+}

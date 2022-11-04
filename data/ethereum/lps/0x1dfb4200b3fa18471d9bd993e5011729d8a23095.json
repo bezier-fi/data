@@ -1,0 +1,10 @@
+{
+	"Id": "0x1dfb4200b3fa18471d9bd993e5011729d8a23095",
+	"Symbol": "WETH-HARU",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xef497b970f50286a9805b91809b8615e6d0ef19b"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,24 @@
+{
+	"Id": "0x9db1812a086f12875389128f344fa467cb1453d7",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x9db1812a086f12875389128f344fa467cb1453d7",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4c8c259962982aad9b7a594345daa3edef865132"
+		},
+		{
+			"Address": "0xaf4bc7927721ec88ac507889309f5f62a0c8c537"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BHT-BHC",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x81ae721d8b600a59a8a7196b1264fb976db2cc50",
+	"Symbol": "SPIRAL-USDC",
+	"UnderlyingTokens": [
+		"0x6aedb157b9ca86e32200857aa2579d47098ace39",
+		"0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

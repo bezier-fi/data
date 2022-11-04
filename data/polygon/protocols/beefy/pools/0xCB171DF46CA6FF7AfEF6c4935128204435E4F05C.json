@@ -1,0 +1,21 @@
+{
+	"Id": "0xCB171DF46CA6FF7AfEF6c4935128204435E4F05C",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xCB171DF46CA6FF7AfEF6c4935128204435E4F05C",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x679B8Ab80F298bF802fB294137765C6386D43dcA"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MATIC-ETH LP",
+	"Chain": "polygon"
+}

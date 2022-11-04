@@ -1,0 +1,10 @@
+{
+	"Id": "0xa16b52b83a9fbcfa3f899fe7786f6a57676e5ddd",
+	"Symbol": "miniSAITAMA-WETH",
+	"UnderlyingTokens": [
+		"0x0c3685559af6f3d20c501b1076a8056a0a14426a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

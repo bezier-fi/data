@@ -1,0 +1,24 @@
+{
+	"Id": "0x71cdcd504a3dc6f359b923df9cfc281bb9a0cd61",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x71cdcd504a3dc6f359b923df9cfc281bb9a0cd61",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1f805680e0366f09f5d71fda5c6d58f7d4f015f1"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BUDAI-WETH",
+	"Chain": "ethereum"
+}

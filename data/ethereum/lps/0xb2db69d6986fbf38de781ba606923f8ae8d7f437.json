@@ -1,0 +1,10 @@
+{
+	"Id": "0xb2db69d6986fbf38de781ba606923f8ae8d7f437",
+	"Symbol": "WETH-FPIS (1.00%)",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc2544a32872a91f4a553b404c6950e89de901fdb"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

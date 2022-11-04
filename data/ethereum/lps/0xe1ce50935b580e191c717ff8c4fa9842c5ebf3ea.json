@@ -1,0 +1,10 @@
+{
+	"Id": "0xe1ce50935b580e191c717ff8c4fa9842c5ebf3ea",
+	"Symbol": "WETH-DOGMEAT",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe5d7c81cf4701130a676ba69070e768994063b87"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

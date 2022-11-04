@@ -1,0 +1,10 @@
+{
+	"Id": "0xfcfd545c90483a3704653ea9a4ff8da81a86bdf1",
+	"Symbol": "MIAMI-WETH",
+	"UnderlyingTokens": [
+		"0x029e6960b7892666bd21fe5a1a6485687bbf6277",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,24 @@
+{
+	"Id": "0x3a3a0669f06ae44f38137dd4a83c1a2899fcf92a",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x3a3a0669f06ae44f38137dd4a83c1a2899fcf92a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4e114d405b9ba2f59524941733e505ae03fb1fb5"
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "JOY-USDC",
+	"Chain": "ethereum"
+}

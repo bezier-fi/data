@@ -1,0 +1,10 @@
+{
+	"Id": "0xf2692f152dc96cdac4ba5be7ac53762b4dbf2fc9",
+	"Symbol": "SATS-WETH",
+	"UnderlyingTokens": [
+		"0xa010e37405eb57437a381daae88e5c3913d0796c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

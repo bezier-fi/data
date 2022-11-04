@@ -1,0 +1,10 @@
+{
+	"Id": "0xe275eb6154cb4a73f0ba573e43b2b06e9e78b7f0",
+	"Symbol": "WETH-FSW",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfffffffff15abf397da76f1dcc1a1604f45126db"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

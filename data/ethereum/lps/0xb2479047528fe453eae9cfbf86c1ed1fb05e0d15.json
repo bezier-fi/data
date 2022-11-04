@@ -1,0 +1,10 @@
+{
+	"Id": "0xb2479047528fe453eae9cfbf86c1ed1fb05e0d15",
+	"Symbol": "CROPS-WETH",
+	"UnderlyingTokens": [
+		"0x9766d2e3f04ae13e8c2eb018ea51dc640d3f9f1f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

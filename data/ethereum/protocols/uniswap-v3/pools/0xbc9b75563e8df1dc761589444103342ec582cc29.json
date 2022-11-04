@@ -1,0 +1,24 @@
+{
+	"Id": "0xbc9b75563e8df1dc761589444103342ec582cc29",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xbc9b75563e8df1dc761589444103342ec582cc29",
+			"Apr": 9.216275,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x77fba179c79de5b7653f68b5039af940ada60ce0"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FORTH-WETH (0.30%)",
+	"Chain": "ethereum"
+}

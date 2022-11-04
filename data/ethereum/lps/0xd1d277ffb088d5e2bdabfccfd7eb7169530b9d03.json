@@ -1,0 +1,10 @@
+{
+	"Id": "0xd1d277ffb088d5e2bdabfccfd7eb7169530b9d03",
+	"Symbol": "ADAO-WETH",
+	"UnderlyingTokens": [
+		"0x18886577545377bb6b472cd4b489bfb3f84dfa75",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

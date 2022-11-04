@@ -1,0 +1,24 @@
+{
+	"Id": "0xf30d1fc5321998f43aac834037511bbf7fbdc23f",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xf30d1fc5321998f43aac834037511bbf7fbdc23f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xafbf03181833ab4e8dec24d708a2a24c2baaa4a4"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MANDOX-WETH",
+	"Chain": "ethereum"
+}

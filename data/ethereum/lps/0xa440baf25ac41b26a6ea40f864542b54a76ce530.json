@@ -1,0 +1,10 @@
+{
+	"Id": "0xa440baf25ac41b26a6ea40f864542b54a76ce530",
+	"Symbol": "MYOBU-WETH",
+	"UnderlyingTokens": [
+		"0x75d12e4f91df721fafcae4c6cd1d5280381370ac",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

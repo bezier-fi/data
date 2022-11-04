@@ -1,0 +1,10 @@
+{
+	"Id": "0x0929e64d57fa1ed37606a810d574d69c0d4a2b7e",
+	"Symbol": "CER-WETH",
+	"UnderlyingTokens": [
+		"0x36854136dcae99ab61b08776eb9ef6d9364d1e1b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

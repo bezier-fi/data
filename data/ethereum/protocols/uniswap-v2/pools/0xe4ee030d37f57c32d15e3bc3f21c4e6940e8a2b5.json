@@ -1,0 +1,24 @@
+{
+	"Id": "0xe4ee030d37f57c32d15e3bc3f21c4e6940e8a2b5",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xe4ee030d37f57c32d15e3bc3f21c4e6940e8a2b5",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x502367a78eb94f9fb7e6d100864ce1243fefd11b"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DRATINI-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x4eeea05c9318d6bd9ddaa5a6a001f1916fbd4c9f",
+	"Symbol": "dSATA-WETH",
+	"UnderlyingTokens": [
+		"0x49428f057dd9d20a8e4c6873e98afd8cd7146e3b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

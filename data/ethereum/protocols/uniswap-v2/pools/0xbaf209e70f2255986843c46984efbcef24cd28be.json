@@ -1,0 +1,24 @@
+{
+	"Id": "0xbaf209e70f2255986843c46984efbcef24cd28be",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xbaf209e70f2255986843c46984efbcef24cd28be",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0ab87046fbb341d058f17cbc4c1133f25a20a52f"
+		},
+		{
+			"Address": "0x56de8bc61346321d4f2211e3ac3c0a7f00db9b76"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "gOHM-RENA",
+	"Chain": "ethereum"
+}

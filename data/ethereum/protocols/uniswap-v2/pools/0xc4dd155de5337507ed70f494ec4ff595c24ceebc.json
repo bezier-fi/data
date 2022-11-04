@@ -1,0 +1,24 @@
+{
+	"Id": "0xc4dd155de5337507ed70f494ec4ff595c24ceebc",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xc4dd155de5337507ed70f494ec4ff595c24ceebc",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		},
+		{
+			"Address": "0xd49374d1d6d2b2d793035a0116f2b0d19230de26"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-BishuFi",
+	"Chain": "ethereum"
+}

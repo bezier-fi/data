@@ -1,0 +1,24 @@
+{
+	"Id": "0x4d8262e0f4b2e6e93fdc2e984ec55e12747249fa",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0x4d8262e0f4b2e6e93fdc2e984ec55e12747249fa",
+			"Apr": 3.6075962,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0d0b8488222f7f83b23e365320a4021b12ead608"
+		},
+		{
+			"Address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "NXTT-WMATIC (1.00%)",
+	"Chain": "polygon"
+}

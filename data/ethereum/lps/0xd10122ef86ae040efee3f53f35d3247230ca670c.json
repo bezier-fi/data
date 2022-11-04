@@ -1,0 +1,10 @@
+{
+	"Id": "0xd10122ef86ae040efee3f53f35d3247230ca670c",
+	"Symbol": "GEO-WETH",
+	"UnderlyingTokens": [
+		"0x147faf8de9d8d8daae129b187f0d02d819126750",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

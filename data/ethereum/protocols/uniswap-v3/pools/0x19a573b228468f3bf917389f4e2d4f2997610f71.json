@@ -1,0 +1,24 @@
+{
+	"Id": "0x19a573b228468f3bf917389f4e2d4f2997610f71",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0x19a573b228468f3bf917389f4e2d4f2997610f71",
+			"Apr": 26.885012,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		},
+		{
+			"Address": "0xec213f83defb583af3a000b1c0ada660b1902a0f"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-PRE (1.00%)",
+	"Chain": "ethereum"
+}

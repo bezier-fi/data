@@ -1,0 +1,24 @@
+{
+	"Id": "0xe262f3a8708a44b46d1eae0766a030390f0d5975",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xe262f3a8708a44b46d1eae0766a030390f0d5975",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6f3a01171542a11cfbd9bd61ed093c26c70d01a9"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Faith-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xeef0c752b92737f47e91355c5656203a2de31bdd",
+	"Symbol": "SKRT-WETH",
+	"UnderlyingTokens": [
+		"0x887168120cb89fb06f3e74dc4af20d67df0977f6",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

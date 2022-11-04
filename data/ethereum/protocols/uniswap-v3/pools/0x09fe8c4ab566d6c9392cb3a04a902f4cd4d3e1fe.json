@@ -1,0 +1,24 @@
+{
+	"Id": "0x09fe8c4ab566d6c9392cb3a04a902f4cd4d3e1fe",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0x09fe8c4ab566d6c9392cb3a04a902f4cd4d3e1fe",
+			"Apr": 34.600754,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4a220e6096b25eadb88358cb44068a3248254675"
+		},
+		{
+			"Address": "0x514910771af9ca656af840dff83e8264ecf986ca"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "QNT-LINK (0.30%)",
+	"Chain": "ethereum"
+}

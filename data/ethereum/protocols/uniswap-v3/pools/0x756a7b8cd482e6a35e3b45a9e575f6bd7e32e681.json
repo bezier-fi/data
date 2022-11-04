@@ -1,0 +1,24 @@
+{
+	"Id": "0x756a7b8cd482e6a35e3b45a9e575f6bd7e32e681",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0x756a7b8cd482e6a35e3b45a9e575f6bd7e32e681",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5d843fa9495d23de997c394296ac7b4d721e841c"
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "RELAY-USDT (1.00%)",
+	"Chain": "ethereum"
+}

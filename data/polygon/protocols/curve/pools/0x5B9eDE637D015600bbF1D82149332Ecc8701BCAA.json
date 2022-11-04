@@ -1,0 +1,27 @@
+{
+	"Id": "0x5B9eDE637D015600bbF1D82149332Ecc8701BCAA",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0x5B9eDE637D015600bbF1D82149332Ecc8701BCAA",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6D969cEA201e427d2875724Fd4E8044833fBc7f4"
+		},
+		{
+			"Address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174"
+		},
+		{
+			"Address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PHBDUSDC-f",
+	"Chain": "polygon"
+}

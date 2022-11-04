@@ -1,0 +1,10 @@
+{
+	"Id": "0x3eb82a25f844999339a76ac3c432a3b709687e6d",
+	"Symbol": "WBTC-indexBTC (0.30%)",
+	"UnderlyingTokens": [
+		"0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6",
+		"0xdcfba6e5fb7c491e98ee32e099048ae0cf34ac15"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "polygon"
+}

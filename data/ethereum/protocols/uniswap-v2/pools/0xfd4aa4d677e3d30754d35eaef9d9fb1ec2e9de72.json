@@ -1,0 +1,24 @@
+{
+	"Id": "0xfd4aa4d677e3d30754d35eaef9d9fb1ec2e9de72",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xfd4aa4d677e3d30754d35eaef9d9fb1ec2e9de72",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x78a0ee7ad08e2c746518387bea867be0199514b8"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MARTE-WETH",
+	"Chain": "ethereum"
+}

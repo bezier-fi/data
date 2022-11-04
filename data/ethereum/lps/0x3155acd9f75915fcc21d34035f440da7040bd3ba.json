@@ -1,0 +1,10 @@
+{
+	"Id": "0x3155acd9f75915fcc21d34035f440da7040bd3ba",
+	"Symbol": "PROS-USDC",
+	"UnderlyingTokens": [
+		"0x8642a849d0dcb7a15a974794668adcfbe4794b56",
+		"0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

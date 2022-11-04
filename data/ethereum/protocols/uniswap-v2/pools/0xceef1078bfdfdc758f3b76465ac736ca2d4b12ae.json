@@ -1,0 +1,24 @@
+{
+	"Id": "0xceef1078bfdfdc758f3b76465ac736ca2d4b12ae",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xceef1078bfdfdc758f3b76465ac736ca2d4b12ae",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		},
+		{
+			"Address": "0xf76fa30d86141fee20c03b25f0ae774aec298b3b"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-FLOKI",
+	"Chain": "ethereum"
+}

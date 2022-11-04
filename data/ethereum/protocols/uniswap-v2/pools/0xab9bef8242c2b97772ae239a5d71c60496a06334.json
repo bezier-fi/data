@@ -1,0 +1,24 @@
+{
+	"Id": "0xab9bef8242c2b97772ae239a5d71c60496a06334",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xab9bef8242c2b97772ae239a5d71c60496a06334",
+			"Apr": 0.060575236,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7865af71cf0b288b4e7f654f4f7851eb46a2b7f8"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SNTVT-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,21 @@
+{
+	"Id": "0xfE1779834EaDD60660a7F3f576448D6010f5e3Fc",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xfE1779834EaDD60660a7F3f576448D6010f5e3Fc",
+			"Apr": 7.055833,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0f110c55EfE62c16D553A3d3464B77e1853d0e97"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "jEUR-PAR LP",
+	"Chain": "polygon"
+}

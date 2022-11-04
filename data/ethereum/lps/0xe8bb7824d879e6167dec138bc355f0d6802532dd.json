@@ -1,0 +1,10 @@
+{
+	"Id": "0xe8bb7824d879e6167dec138bc355f0d6802532dd",
+	"Symbol": "WETH-SALTY",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf02b9ce106f35e8d873e296c16c7fb861ea7e6be"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

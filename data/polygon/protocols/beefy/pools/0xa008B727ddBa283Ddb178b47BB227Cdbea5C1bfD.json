@@ -1,0 +1,21 @@
+{
+	"Id": "0xa008B727ddBa283Ddb178b47BB227Cdbea5C1bfD",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xa008B727ddBa283Ddb178b47BB227Cdbea5C1bfD",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x019ba0325f1988213D448b3472fA1cf8D07618d7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "QUICK-MATIC LP",
+	"Chain": "polygon"
+}

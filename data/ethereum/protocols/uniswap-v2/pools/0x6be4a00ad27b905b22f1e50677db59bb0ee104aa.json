@@ -1,0 +1,24 @@
+{
+	"Id": "0x6be4a00ad27b905b22f1e50677db59bb0ee104aa",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x6be4a00ad27b905b22f1e50677db59bb0ee104aa",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x26487ec318b0138dcf6cd1f43ee68927756dbc1d"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FUTURA-WETH",
+	"Chain": "ethereum"
+}

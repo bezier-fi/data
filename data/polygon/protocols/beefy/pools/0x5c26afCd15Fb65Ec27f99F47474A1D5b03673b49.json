@@ -1,0 +1,21 @@
+{
+	"Id": "0x5c26afCd15Fb65Ec27f99F47474A1D5b03673b49",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x5c26afCd15Fb65Ec27f99F47474A1D5b03673b49",
+			"Apr": 21.252314,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xFc2fC983a411C4B1E238f7Eb949308CF0218C750"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ETH-TEL LP",
+	"Chain": "polygon"
+}

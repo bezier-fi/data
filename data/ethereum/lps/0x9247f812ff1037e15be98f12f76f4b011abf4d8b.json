@@ -1,0 +1,10 @@
+{
+	"Id": "0x9247f812ff1037e15be98f12f76f4b011abf4d8b",
+	"Symbol": "CHANGE-USDC",
+	"UnderlyingTokens": [
+		"0x7051faed0775f664a0286af4f75ef5ed74e02754",
+		"0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

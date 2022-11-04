@@ -1,0 +1,10 @@
+{
+	"Id": "0x94d5937ebe41f85c20aef13ac365085d0aa42638",
+	"Symbol": "WETH-TRA",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe74d6339890d6640ef12e6fbcaf7116f331d6d5d"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

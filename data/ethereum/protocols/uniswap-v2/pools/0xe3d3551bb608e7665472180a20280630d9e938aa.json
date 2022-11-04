@@ -1,0 +1,24 @@
+{
+	"Id": "0xe3d3551bb608e7665472180a20280630d9e938aa",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xe3d3551bb608e7665472180a20280630d9e938aa",
+			"Apr": 4.148579,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		},
+		{
+			"Address": "0xce3f08e664693ca792cace4af1364d5e220827b2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-SAITAMA",
+	"Chain": "ethereum"
+}

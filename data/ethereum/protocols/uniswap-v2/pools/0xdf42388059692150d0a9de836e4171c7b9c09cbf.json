@@ -1,0 +1,24 @@
+{
+	"Id": "0xdf42388059692150d0a9de836e4171c7b9c09cbf",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xdf42388059692150d0a9de836e4171c7b9c09cbf",
+			"Apr": 0.0026389458,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		},
+		{
+			"Address": "0xf5b1fd29d23e98db2d9ebb8435e1082e3b38fb65"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-KISHIMOTO",
+	"Chain": "ethereum"
+}

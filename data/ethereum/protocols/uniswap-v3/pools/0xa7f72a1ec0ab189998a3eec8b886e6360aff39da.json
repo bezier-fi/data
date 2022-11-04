@@ -1,0 +1,24 @@
+{
+	"Id": "0xa7f72a1ec0ab189998a3eec8b886e6360aff39da",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xa7f72a1ec0ab189998a3eec8b886e6360aff39da",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x398aea1c9ceb7de800284bb399a15e0efe5a9ec2"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "sILV-WETH (1.00%)",
+	"Chain": "ethereum"
+}

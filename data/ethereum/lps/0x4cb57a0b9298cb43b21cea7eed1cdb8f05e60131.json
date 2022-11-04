@@ -1,0 +1,10 @@
+{
+	"Id": "0x4cb57a0b9298cb43b21cea7eed1cdb8f05e60131",
+	"Symbol": "MOONPUG-WETH",
+	"UnderlyingTokens": [
+		"0x856710ea0007af7bdc387fe54f64db51dddaf0a2",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

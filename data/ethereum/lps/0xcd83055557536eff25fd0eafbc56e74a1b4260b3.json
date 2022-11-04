@@ -1,0 +1,10 @@
+{
+	"Id": "0xcd83055557536eff25fd0eafbc56e74a1b4260b3",
+	"Symbol": "PERP-WETH (0.30%)",
+	"UnderlyingTokens": [
+		"0xbc396689893d065f41bc2c6ecbee5e0085233447",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

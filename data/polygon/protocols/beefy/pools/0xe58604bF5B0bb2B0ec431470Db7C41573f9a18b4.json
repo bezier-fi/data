@@ -1,0 +1,21 @@
+{
+	"Id": "0xe58604bF5B0bb2B0ec431470Db7C41573f9a18b4",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xe58604bF5B0bb2B0ec431470Db7C41573f9a18b4",
+			"Apr": 6.5410156,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xCE1923D2242BBA540f1d56c8E23b1FBEAe2596dc"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ETH-USDC vLP",
+	"Chain": "polygon"
+}

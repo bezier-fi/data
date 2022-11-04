@@ -1,0 +1,10 @@
+{
+	"Id": "0x3549f155ec1233539c3e4b9200d4fc10df42f85f",
+	"Symbol": "WCF-WETH",
+	"UnderlyingTokens": [
+		"0x75ecdf4bb08d542d07ea8aec268b81ddcb1fc9d6",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

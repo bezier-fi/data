@@ -1,0 +1,24 @@
+{
+	"Id": "0x1a4154aa3fc63888a4181064e0a91f6e3382594d",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x1a4154aa3fc63888a4181064e0a91f6e3382594d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9eab8e97c6326901a322803b27cae25e9c61b05f"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PumpETH-WETH",
+	"Chain": "ethereum"
+}

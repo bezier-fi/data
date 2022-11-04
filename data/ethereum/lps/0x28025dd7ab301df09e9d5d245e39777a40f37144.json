@@ -1,0 +1,10 @@
+{
+	"Id": "0x28025dd7ab301df09e9d5d245e39777a40f37144",
+	"Symbol": "LBY-WETH",
+	"UnderlyingTokens": [
+		"0xac042d9284df95cc6bd35982f6a61e3e7a6f875b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

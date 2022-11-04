@@ -1,0 +1,24 @@
+{
+	"Id": "0x07d4d6845e2c713de83a42bd56b0efcb2302c533",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x07d4d6845e2c713de83a42bd56b0efcb2302c533",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		},
+		{
+			"Address": "0xd3d1615a2cdd71e209a3efb6a91fb9323bffd71d"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-AstroLion",
+	"Chain": "ethereum"
+}

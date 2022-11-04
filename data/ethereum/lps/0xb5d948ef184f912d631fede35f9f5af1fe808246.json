@@ -1,0 +1,10 @@
+{
+	"Id": "0xb5d948ef184f912d631fede35f9f5af1fe808246",
+	"Symbol": "WBUY-WETH",
+	"UnderlyingTokens": [
+		"0x396ec402b42066864c406d1ac3bc86b575003ed8",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

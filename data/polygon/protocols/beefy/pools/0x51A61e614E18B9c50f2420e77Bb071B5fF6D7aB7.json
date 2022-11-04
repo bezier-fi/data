@@ -1,0 +1,21 @@
+{
+	"Id": "0x51A61e614E18B9c50f2420e77Bb071B5fF6D7aB7",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x51A61e614E18B9c50f2420e77Bb071B5fF6D7aB7",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1b9c6d8b372C410426CF803fd20a815aA7B454c2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "LITHIUM-USDC LP",
+	"Chain": "polygon"
+}

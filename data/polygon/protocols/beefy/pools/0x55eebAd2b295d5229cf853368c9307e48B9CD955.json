@@ -1,0 +1,21 @@
+{
+	"Id": "0x55eebAd2b295d5229cf853368c9307e48B9CD955",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x55eebAd2b295d5229cf853368c9307e48B9CD955",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4282C6b1c21CD1A0C363a70e4292f8Bf4D7c898c"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ETH-WBTC LP",
+	"Chain": "polygon"
+}

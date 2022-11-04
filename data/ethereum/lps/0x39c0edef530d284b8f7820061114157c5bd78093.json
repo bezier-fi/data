@@ -1,0 +1,10 @@
+{
+	"Id": "0x39c0edef530d284b8f7820061114157c5bd78093",
+	"Symbol": "TCORE-WETH",
+	"UnderlyingTokens": [
+		"0x7a3d5d49d64e57dbd6fbb21df7202bd3ee7a2253",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

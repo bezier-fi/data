@@ -1,0 +1,33 @@
+{
+	"Id": "0xB755B949C126C04e0348DD881a5cF55d424742B2",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0x1daB6560494B04473A0BE3E7D83CF3Fdf3a51828",
+			"Apr": 1.0400012,
+			"GroupId": 0,
+			"Key": ""
+		},
+		{
+			"Address": "0x249848beca43ac405b8102ec90dd5f22ca513c06",
+			"Apr": 17.72654,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1337BedC9D22ecbe766dF105c9623922A27963EC"
+		},
+		{
+			"Address": "0x686bEF2417b6Dc32C50a3cBfbCC3bb60E1e9a15D"
+		},
+		{
+			"Address": "0x53f7c5869a859F0AeC3D334ee8B4Cf01E3492f21"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "atricrypto",
+	"Chain": "avalanche"
+}

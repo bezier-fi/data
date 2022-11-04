@@ -1,0 +1,10 @@
+{
+	"Id": "0x6a3d23fa07c455f88d70c29d230467c407a3964b",
+	"Symbol": "WETH-RMPL",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe17f017475a709de58e976081eb916081ff4c9d5"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

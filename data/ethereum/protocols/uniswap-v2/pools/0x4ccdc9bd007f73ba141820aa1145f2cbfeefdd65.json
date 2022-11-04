@@ -1,0 +1,24 @@
+{
+	"Id": "0x4ccdc9bd007f73ba141820aa1145f2cbfeefdd65",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x4ccdc9bd007f73ba141820aa1145f2cbfeefdd65",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7475c42f8bf2c19f4eaf12feaababa859fdc8914"
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ACCEL-USDC",
+	"Chain": "ethereum"
+}

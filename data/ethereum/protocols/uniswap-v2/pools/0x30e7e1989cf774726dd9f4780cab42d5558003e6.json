@@ -1,0 +1,24 @@
+{
+	"Id": "0x30e7e1989cf774726dd9f4780cab42d5558003e6",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x30e7e1989cf774726dd9f4780cab42d5558003e6",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3845badade8e6dff049820680d1f14bd3903a5d0"
+		},
+		{
+			"Address": "0xe53ec727dbdeb9e2d5456c3be40cff031ab40a55"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SAND-SUPER",
+	"Chain": "ethereum"
+}

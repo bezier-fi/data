@@ -1,0 +1,10 @@
+{
+	"Id": "0x6ae7e9e028a77ce3a043b2dae5b0308e06e787d3",
+	"Symbol": "FRINU-WETH",
+	"UnderlyingTokens": [
+		"0x5aa5ba99105469b10bd82cd22b3166c88d187e3b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

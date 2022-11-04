@@ -1,0 +1,10 @@
+{
+	"Id": "0xa908fad532f5f58cef5d1cf07c5b9844b6aa1b60",
+	"Symbol": "LZRS-WETH",
+	"UnderlyingTokens": [
+		"0x6dae2a082c80ed90bcf9128e2ef1d89053f50b67",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

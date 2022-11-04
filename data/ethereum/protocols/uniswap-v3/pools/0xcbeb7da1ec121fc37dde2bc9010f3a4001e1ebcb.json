@@ -1,0 +1,24 @@
+{
+	"Id": "0xcbeb7da1ec121fc37dde2bc9010f3a4001e1ebcb",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xcbeb7da1ec121fc37dde2bc9010f3a4001e1ebcb",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9d409a0a012cfba9b15f6d4b36ac57a46966ab9a"
+		},
+		{
+			"Address": "0xd533a949740bb3306d119cc777fa900ba034cd52"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "yvBOOST-CRV (0.30%)",
+	"Chain": "ethereum"
+}

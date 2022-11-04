@@ -1,0 +1,10 @@
+{
+	"Id": "0x63b61e73d3fa1fb96d51ce457cabe89fffa7a1f1",
+	"Symbol": "SHINJA-WETH",
+	"UnderlyingTokens": [
+		"0xab167e816e4d76089119900e941befdfa37d6b32",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xd93ee7ff539e3cf2ee1438a57aaea6b3b043e406",
+	"Symbol": "GLOOM-WETH",
+	"UnderlyingTokens": [
+		"0x99699fb1c23fe3fdcff6ba154695d49f5081f248",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,24 @@
+{
+	"Id": "0x95c4ad9e99121dcc33566b99c47e7deadcb72de1",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x95c4ad9e99121dcc33566b99c47e7deadcb72de1",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x84047ffa9aec28f45acd8b7072f0f1f00345d99a"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CFLOKI-WETH",
+	"Chain": "ethereum"
+}

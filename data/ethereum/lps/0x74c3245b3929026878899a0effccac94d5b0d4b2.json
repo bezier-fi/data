@@ -1,0 +1,10 @@
+{
+	"Id": "0x74c3245b3929026878899a0effccac94d5b0d4b2",
+	"Symbol": "RAMEN-WETH",
+	"UnderlyingTokens": [
+		"0x7fad127efa52e7e3f93903fc1bcc9dd73b8f9b16",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

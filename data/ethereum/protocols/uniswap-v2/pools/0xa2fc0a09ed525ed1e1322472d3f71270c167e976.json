@@ -1,0 +1,24 @@
+{
+	"Id": "0xa2fc0a09ed525ed1e1322472d3f71270c167e976",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xa2fc0a09ed525ed1e1322472d3f71270c167e976",
+			"Apr": 0.5631988,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x23157662a9cb9be32d4d9bd019d9bcbaa040a62b"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BASX-WETH",
+	"Chain": "ethereum"
+}

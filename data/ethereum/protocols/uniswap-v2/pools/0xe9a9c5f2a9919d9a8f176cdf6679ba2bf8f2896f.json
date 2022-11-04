@@ -1,0 +1,24 @@
+{
+	"Id": "0xe9a9c5f2a9919d9a8f176cdf6679ba2bf8f2896f",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xe9a9c5f2a9919d9a8f176cdf6679ba2bf8f2896f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		},
+		{
+			"Address": "0xd848f9b61affaaa2e5a7402e87d27eaa0cc27b6f"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-VAPE",
+	"Chain": "ethereum"
+}

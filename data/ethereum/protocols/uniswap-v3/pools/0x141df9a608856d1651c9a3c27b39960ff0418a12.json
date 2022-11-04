@@ -1,0 +1,24 @@
+{
+	"Id": "0x141df9a608856d1651c9a3c27b39960ff0418a12",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0x141df9a608856d1651c9a3c27b39960ff0418a12",
+			"Apr": 122.80176,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x12b6893ce26ea6341919fe289212ef77e51688c8"
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TAMA-USDT (1.00%)",
+	"Chain": "ethereum"
+}

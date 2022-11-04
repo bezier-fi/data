@@ -1,0 +1,21 @@
+{
+	"Id": "0xC8e3dee8d07C06568D62fcDBBD1bFA8c7fb9ae17",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xC8e3dee8d07C06568D62fcDBBD1bFA8c7fb9ae17",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x70c096187F8a9ac03E34a0e7ed41bCd516878158"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SAGE-MATIC LP",
+	"Chain": "polygon"
+}

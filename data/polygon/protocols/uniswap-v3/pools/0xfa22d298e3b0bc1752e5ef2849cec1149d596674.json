@@ -1,0 +1,24 @@
+{
+	"Id": "0xfa22d298e3b0bc1752e5ef2849cec1149d596674",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xfa22d298e3b0bc1752e5ef2849cec1149d596674",
+			"Apr": 4.2374125,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174"
+		},
+		{
+			"Address": "0xe2aa7db6da1dae97c5f5c6914d285fbfcc32a128"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC-PAR (0.05%)",
+	"Chain": "polygon"
+}

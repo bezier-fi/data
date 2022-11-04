@@ -1,0 +1,24 @@
+{
+	"Id": "0xc6730b88ace4979e37d08314d677f3b3ce4d6243",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xc6730b88ace4979e37d08314d677f3b3ce4d6243",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x07480a4ab14be384b2d33f0be128e954c58a8fb4"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Manson-WETH",
+	"Chain": "ethereum"
+}

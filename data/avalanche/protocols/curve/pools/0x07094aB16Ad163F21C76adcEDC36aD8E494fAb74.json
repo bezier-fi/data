@@ -1,0 +1,24 @@
+{
+	"Id": "0x07094aB16Ad163F21C76adcEDC36aD8E494fAb74",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0x07094aB16Ad163F21C76adcEDC36aD8E494fAb74",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E"
+		},
+		{
+			"Address": "0x1337BedC9D22ecbe766dF105c9623922A27963EC"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDCav3CRV3CRV-f",
+	"Chain": "avalanche"
+}

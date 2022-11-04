@@ -1,0 +1,10 @@
+{
+	"Id": "0x4533130aa02be3abc57b12b7ce5436cdee891b6b",
+	"Symbol": "WETH-DarkStar",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf2ab89a00f52e235ff2f4db3e7235bc68ea9e447"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

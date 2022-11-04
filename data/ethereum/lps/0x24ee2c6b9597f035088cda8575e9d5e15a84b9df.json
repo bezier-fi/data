@@ -1,0 +1,10 @@
+{
+	"Id": "0x24ee2c6b9597f035088cda8575e9d5e15a84b9df",
+	"Symbol": "QNT-WETH (0.30%)",
+	"UnderlyingTokens": [
+		"0x4a220e6096b25eadb88358cb44068a3248254675",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

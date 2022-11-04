@@ -1,0 +1,24 @@
+{
+	"Id": "0x75a63a58bcd7ddf799462fb50264974c5c6239cb",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0x75a63a58bcd7ddf799462fb50264974c5c6239cb",
+			"Apr": 0.66885066,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9469d013805bffb7d3debe5e7839237e535ec483"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "RING-WETH (0.30%)",
+	"Chain": "ethereum"
+}

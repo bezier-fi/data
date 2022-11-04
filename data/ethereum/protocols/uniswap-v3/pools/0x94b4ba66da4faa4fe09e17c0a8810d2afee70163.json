@@ -1,0 +1,24 @@
+{
+	"Id": "0x94b4ba66da4faa4fe09e17c0a8810d2afee70163",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0x94b4ba66da4faa4fe09e17c0a8810d2afee70163",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb5fe099475d3030dde498c3bb6f3854f762a48ad"
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FNK-USDT (1.00%)",
+	"Chain": "ethereum"
+}

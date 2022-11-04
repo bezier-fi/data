@@ -1,0 +1,10 @@
+{
+	"Id": "0xb03f87e577c4fe4685cf2c88a8473414bb1d04f1",
+	"Symbol": "FX-WETH (0.30%)",
+	"UnderlyingTokens": [
+		"0x8c15ef5b4b21951d50e53e4fbda8298ffad25057",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

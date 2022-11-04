@@ -1,0 +1,10 @@
+{
+	"Id": "0xd1fca736d6bf9a8798e4ecb0609cf89dd73ec315",
+	"Symbol": "MONKE-WETH",
+	"UnderlyingTokens": [
+		"0x920e4cc5c50548ed2825de9e380a4d7b2a7ff143",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

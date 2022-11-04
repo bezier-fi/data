@@ -1,0 +1,24 @@
+{
+	"Id": "0x4c9831fddbe7520887ec86611cd21b8101e78b36",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x4c9831fddbe7520887ec86611cd21b8101e78b36",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2dd1b9410c73e16b60240e529e38e30425f00d4e"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Pacha-WETH",
+	"Chain": "ethereum"
+}

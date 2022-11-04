@@ -1,0 +1,10 @@
+{
+	"Id": "0x35d7a9f09cd1322832098b61f9bf4cc5dd18e808",
+	"Symbol": "STREAMERINU-WETH",
+	"UnderlyingTokens": [
+		"0x0e8d2eb7d6bdf28393c25a1966385ad32ff0259a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

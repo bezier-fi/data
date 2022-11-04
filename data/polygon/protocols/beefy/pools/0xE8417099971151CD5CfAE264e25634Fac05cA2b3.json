@@ -1,0 +1,21 @@
+{
+	"Id": "0xE8417099971151CD5CfAE264e25634Fac05cA2b3",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xE8417099971151CD5CfAE264e25634Fac05cA2b3",
+			"Apr": 11.56515,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc2755915a85C6f6c1C0F3a86ac8C058F11Caa9C9"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ETH-USDT LP",
+	"Chain": "polygon"
+}

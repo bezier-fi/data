@@ -1,0 +1,10 @@
+{
+	"Id": "0x53275dc473057a12d4abad00f006975d0b6e3a8b",
+	"Symbol": "swissnftfund-WETH",
+	"UnderlyingTokens": [
+		"0x64c1c9a38038ae73c3699b8dc347fefda2221e93",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

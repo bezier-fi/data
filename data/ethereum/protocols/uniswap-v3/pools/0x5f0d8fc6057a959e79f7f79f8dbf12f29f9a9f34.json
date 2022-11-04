@@ -1,0 +1,24 @@
+{
+	"Id": "0x5f0d8fc6057a959e79f7f79f8dbf12f29f9a9f34",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0x5f0d8fc6057a959e79f7f79f8dbf12f29f9a9f34",
+			"Apr": 0.87236446,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599"
+		},
+		{
+			"Address": "0x582d872a1b094fc48f5de31d3b73f2d9be47def1"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WBTC-TONCOIN (0.30%)",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,21 @@
+{
+	"Id": "0x8798249c2e607446efb7ad49ec89dd1865ff42720xb53c1a33016b2dc2ff3653530bff1848a515c8c5",
+	"Protocol": "27d88614-071b-4e2b-a57b-1cc6a09c4cd1",
+	"Outputs": [
+		{
+			"Address": "0xf256cc7847e919fac9b808cc216cac87ccf2f47a",
+			"Apr": 8.653533e-8,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8798249c2e607446efb7ad49ec89dd1865ff4272"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "XSUSHI",
+	"Chain": "ethereum"
+}

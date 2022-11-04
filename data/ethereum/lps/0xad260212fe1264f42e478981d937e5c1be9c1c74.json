@@ -1,0 +1,10 @@
+{
+	"Id": "0xad260212fe1264f42e478981d937e5c1be9c1c74",
+	"Symbol": "XI-WETH (0.30%)",
+	"UnderlyingTokens": [
+		"0x295b42684f90c77da7ea46336001010f2791ec8c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

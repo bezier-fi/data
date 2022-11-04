@@ -1,0 +1,10 @@
+{
+	"Id": "0xed64e2f667cda074a1920ff6335ef9e083cd20cd",
+	"Symbol": "HAINU-WETH",
+	"UnderlyingTokens": [
+		"0x35c0756bcb97e8bcd1cf9ccce4242699b444b521",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

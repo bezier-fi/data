@@ -1,0 +1,21 @@
+{
+	"Id": "0x1b27b7083a9BdA1aCD04266F61DF646f8296a872",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x1b27b7083a9BdA1aCD04266F61DF646f8296a872",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xA28Ade2f27b9554b01964FDCe97eD643301411d9"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TITAN-ETH LP",
+	"Chain": "polygon"
+}

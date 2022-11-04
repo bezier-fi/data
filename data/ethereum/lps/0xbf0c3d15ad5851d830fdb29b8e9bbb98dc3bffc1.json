@@ -1,0 +1,10 @@
+{
+	"Id": "0xbf0c3d15ad5851d830fdb29b8e9bbb98dc3bffc1",
+	"Symbol": "$BATTLE-WETH",
+	"UnderlyingTokens": [
+		"0xa48f7a48bdaff54587a1c4e4b2f35459a2328e29",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

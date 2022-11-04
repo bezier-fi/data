@@ -1,0 +1,39 @@
+{
+	"Id": "0xb9446c4Ef5EBE66268dA6700D26f96273DE3d571",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0xb9446c4Ef5EBE66268dA6700D26f96273DE3d571",
+			"Apr": 0.21792015,
+			"GroupId": 0,
+			"Key": ""
+		},
+		{
+			"Address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+			"Apr": 4.4707775,
+			"GroupId": 0,
+			"Key": ""
+		},
+		{
+			"Address": "0x31429d1856aD1377A8A0079410B297e1a9e214c2",
+			"Apr": 0.008970954,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8"
+		},
+		{
+			"Address": "0xC581b735A1688071A1746c968e0798D642EDE491"
+		},
+		{
+			"Address": "0xdB25f211AB05b1c97D595516F45794528a807ad8"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "3EURpool-f",
+	"Chain": "ethereum"
+}

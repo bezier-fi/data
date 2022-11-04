@@ -1,0 +1,10 @@
+{
+	"Id": "0xba8080b0b09181e09bca0612b22b9475d8171055",
+	"Symbol": "WBNB-WETH (0.30%)",
+	"UnderlyingTokens": [
+		"0x418d75f65a02b3d53b2418fb8e1fe493759c7605",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

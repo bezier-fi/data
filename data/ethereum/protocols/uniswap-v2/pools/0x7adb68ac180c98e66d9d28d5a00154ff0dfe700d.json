@@ -1,0 +1,24 @@
+{
+	"Id": "0x7adb68ac180c98e66d9d28d5a00154ff0dfe700d",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x7adb68ac180c98e66d9d28d5a00154ff0dfe700d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		},
+		{
+			"Address": "0xdbc11f9713e56432116c3ade3e21f55b81bf4e38"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-Psycho",
+	"Chain": "ethereum"
+}

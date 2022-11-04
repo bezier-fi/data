@@ -1,0 +1,24 @@
+{
+	"Id": "0xdca19fac93729e44ccfb877fc570af7155f0f779",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xdca19fac93729e44ccfb877fc570af7155f0f779",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3155ba85d5f96b2d030a4966af206230e46849cb"
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "RUNE-USDC (1.00%)",
+	"Chain": "ethereum"
+}

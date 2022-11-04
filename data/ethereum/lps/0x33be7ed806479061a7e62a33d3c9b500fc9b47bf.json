@@ -1,0 +1,10 @@
+{
+	"Id": "0x33be7ed806479061a7e62a33d3c9b500fc9b47bf",
+	"Symbol": "REL-WETH",
+	"UnderlyingTokens": [
+		"0xb6c4267c4877bb0d6b1685cfd85b0fbe82f105ec",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

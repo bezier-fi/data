@@ -1,0 +1,10 @@
+{
+	"Id": "0x5474ebd853e2ce2c9d343f0469206350231670be",
+	"Symbol": "BCMC-WETH",
+	"UnderlyingTokens": [
+		"0x2ba8349123de45e931a8c8264c332e6e9cf593f9",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

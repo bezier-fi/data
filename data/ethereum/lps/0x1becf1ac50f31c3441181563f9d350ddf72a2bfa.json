@@ -1,0 +1,10 @@
+{
+	"Id": "0x1becf1ac50f31c3441181563f9d350ddf72a2bfa",
+	"Symbol": "SMT-WETH (0.30%)",
+	"UnderlyingTokens": [
+		"0xb17548c7b510427baac4e267bea62e800b247173",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

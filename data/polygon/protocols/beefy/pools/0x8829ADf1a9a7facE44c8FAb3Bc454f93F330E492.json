@@ -1,0 +1,21 @@
+{
+	"Id": "0x8829ADf1a9a7facE44c8FAb3Bc454f93F330E492",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x8829ADf1a9a7facE44c8FAb3Bc454f93F330E492",
+			"Apr": 37.034924,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x65752C54D9102BDFD69d351E1838A1Be83C924C6"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "stMATIC-MATIC LP",
+	"Chain": "polygon"
+}

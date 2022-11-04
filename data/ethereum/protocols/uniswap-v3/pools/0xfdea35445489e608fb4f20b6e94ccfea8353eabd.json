@@ -1,0 +1,24 @@
+{
+	"Id": "0xfdea35445489e608fb4f20b6e94ccfea8353eabd",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xfdea35445489e608fb4f20b6e94ccfea8353eabd",
+			"Apr": 17.483355,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x616e8bfa43f920657b3497dbf40d6b1a02d4608d"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "auraBAL-WETH (0.30%)",
+	"Chain": "ethereum"
+}

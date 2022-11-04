@@ -1,0 +1,10 @@
+{
+	"Id": "0x0254a309f5140d457c0699e2cd0457a692a69cc4",
+	"Symbol": "KOIN-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x66d28cb58487a7609877550e1a34691810a6b9fc",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

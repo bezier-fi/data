@@ -1,0 +1,10 @@
+{
+	"Id": "0x8b6ed5fa776f10787f1171bdeea4f3c40974df6e",
+	"Symbol": "DENT-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x3597bfd533a99c9aa083587b074434e61eb0a258",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

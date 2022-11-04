@@ -1,0 +1,10 @@
+{
+	"Id": "0x512e7e21c5e330c630f9d110074d02275d392c55",
+	"Symbol": "CFI-WETH",
+	"UnderlyingTokens": [
+		"0xbd8853aeb70452269832d335d4ac26f384a7c55c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

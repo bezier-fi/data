@@ -1,0 +1,10 @@
+{
+	"Id": "0xd613f5fca70706ba84cfb7381caf18d460e07336",
+	"Symbol": "WETH-DFI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc9d7312a439539b5cd6b7fdacf76821100605b5d"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xc7b7dac697b03e11e4af085d927f0c9b24b3f27d",
+	"Symbol": "ACYC-WETH",
+	"UnderlyingTokens": [
+		"0xb56a1f3310578f23120182fb2e58c087efe6e147",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

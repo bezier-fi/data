@@ -1,0 +1,10 @@
+{
+	"Id": "0xac86903cdda380f20a06cc8a2dea7749f1558c68",
+	"Symbol": "WETH-RAIL",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe76c6c83af64e4c60245d8c7de953df673a7a33d"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

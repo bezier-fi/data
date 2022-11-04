@@ -1,0 +1,24 @@
+{
+	"Id": "0xfccfea8860dd2fd7d6d89366f7a811dbfdcf7453",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xfccfea8860dd2fd7d6d89366f7a811dbfdcf7453",
+			"Apr": 0.5561288,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		},
+		{
+			"Address": "0xd4c64f0fe38ecdaf0baefd7859e18185a73b9aa3"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-UZUMAKI",
+	"Chain": "ethereum"
+}

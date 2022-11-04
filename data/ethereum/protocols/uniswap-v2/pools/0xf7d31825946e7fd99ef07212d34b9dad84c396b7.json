@@ -1,0 +1,24 @@
+{
+	"Id": "0xf7d31825946e7fd99ef07212d34b9dad84c396b7",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xf7d31825946e7fd99ef07212d34b9dad84c396b7",
+			"Apr": 30.47995,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9813037ee2218799597d83d4a5b6f3b6778218d9"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BONE-WETH",
+	"Chain": "ethereum"
+}

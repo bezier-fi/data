@@ -1,0 +1,24 @@
+{
+	"Id": "0x21a7afa9f7e2d48bfa8e8f384d77f3b5c19a5add",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x21a7afa9f7e2d48bfa8e8f384d77f3b5c19a5add",
+			"Apr": 0.6429051,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9e5bd9d9fad182ff0a93ba8085b664bcab00fa68"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DINGER-WETH",
+	"Chain": "ethereum"
+}

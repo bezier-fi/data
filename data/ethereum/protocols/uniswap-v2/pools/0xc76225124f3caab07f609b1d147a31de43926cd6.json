@@ -1,0 +1,24 @@
+{
+	"Id": "0xc76225124f3caab07f609b1d147a31de43926cd6",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xc76225124f3caab07f609b1d147a31de43926cd6",
+			"Apr": 8.34535,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb753428af26e81097e7fd17f40c88aaa3e04902c"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SFI-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xacb335638bce6cf2e6b85ed2546c665e9a892047",
+	"Symbol": "CLINU-WETH",
+	"UnderlyingTokens": [
+		"0x76cc895a0cb822a50d03ccafc7e99f2ba9462b25",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

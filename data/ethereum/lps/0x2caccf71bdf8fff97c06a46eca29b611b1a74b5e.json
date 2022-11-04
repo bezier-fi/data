@@ -1,0 +1,10 @@
+{
+	"Id": "0x2caccf71bdf8fff97c06a46eca29b611b1a74b5e",
+	"Symbol": "SWFL-WETH",
+	"UnderlyingTokens": [
+		"0xba21ef4c9f433ede00badefcc2754b8e74bd538a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

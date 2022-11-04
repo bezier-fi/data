@@ -1,0 +1,21 @@
+{
+	"Id": "0xe3B5a0d5dFDCD6dE7e22a5c2B6b957aB76d2A085",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xe3B5a0d5dFDCD6dE7e22a5c2B6b957aB76d2A085",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5DE6a3CcA10d3F788EEdbD4923e31D4658bf6f9a"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WEXpoly-USDC LP",
+	"Chain": "polygon"
+}

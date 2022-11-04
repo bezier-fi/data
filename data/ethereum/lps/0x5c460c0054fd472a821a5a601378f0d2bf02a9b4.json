@@ -1,0 +1,10 @@
+{
+	"Id": "0x5c460c0054fd472a821a5a601378f0d2bf02a9b4",
+	"Symbol": "WETH-R34P",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xcaeaf8381d4b20b43afa42061d6f80319a8881f6"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

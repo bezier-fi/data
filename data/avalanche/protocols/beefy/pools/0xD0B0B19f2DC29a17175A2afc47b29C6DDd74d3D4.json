@@ -1,0 +1,21 @@
+{
+	"Id": "0xD0B0B19f2DC29a17175A2afc47b29C6DDd74d3D4",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xD0B0B19f2DC29a17175A2afc47b29C6DDd74d3D4",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1643de2efB8e35374D796297a9f95f64C082a8ce"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "JOE-USDT.e LP",
+	"Chain": "avalanche"
+}

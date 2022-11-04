@@ -1,0 +1,24 @@
+{
+	"Id": "0x6d76f7d16ca40dd13e52df3e1615318f763c0241",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x6d76f7d16ca40dd13e52df3e1615318f763c0241",
+			"Apr": 0.21417224,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x70401dfd142a16dc7031c56e862fc88cb9537ce0"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BIRD-WETH",
+	"Chain": "ethereum"
+}

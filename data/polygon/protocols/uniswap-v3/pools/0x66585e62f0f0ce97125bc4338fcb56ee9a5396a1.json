@@ -1,0 +1,24 @@
+{
+	"Id": "0x66585e62f0f0ce97125bc4338fcb56ee9a5396a1",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0x66585e62f0f0ce97125bc4338fcb56ee9a5396a1",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2d4d235859ffcacfef923dcdd24ad39e387a70f8"
+		},
+		{
+			"Address": "0x9a5c2f40910b3d0e97defab7d775cd408085c14e"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "INFI-WRAC (0.30%)",
+	"Chain": "polygon"
+}

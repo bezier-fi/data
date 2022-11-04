@@ -1,0 +1,10 @@
+{
+	"Id": "0x98858a67b3975903b0e77ced4831105262aa7aa0",
+	"Symbol": "KINJA-WETH",
+	"UnderlyingTokens": [
+		"0x2d7a3accbe5f0402a9dd9657dae8281ac30fa1d4",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

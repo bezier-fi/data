@@ -1,0 +1,21 @@
+{
+	"Id": "0xD35B3733c2ceaf3635bE246B2c6C42f10e5b6B78",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xD35B3733c2ceaf3635bE246B2c6C42f10e5b6B78",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8F8e95Ff4B4c5E354ccB005c6B0278492D7B5907"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ibBTC-WBTC SLP",
+	"Chain": "polygon"
+}

@@ -1,0 +1,21 @@
+{
+	"Id": "0xAA7C2879DaF8034722A0977f13c343aF0883E92e",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xAA7C2879DaF8034722A0977f13c343aF0883E92e",
+			"Apr": 1.2368425,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xE7a24EF0C5e95Ffb0f6684b813A78F2a3AD7D171"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DAI/USDC/USDT",
+	"Chain": "polygon"
+}

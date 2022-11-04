@@ -1,0 +1,10 @@
+{
+	"Id": "0xdc6d77acbb439549bfafc7fc46a8639604a9fbe8",
+	"Symbol": "CYBERSHIB-WETH",
+	"UnderlyingTokens": [
+		"0x4c8fb1d082f5be43bad70c877706c9dd14585382",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x02588a657d1744cdec1bda2784c1c988b6947187",
+	"Symbol": "PASV-WETH",
+	"UnderlyingTokens": [
+		"0x1cea6313400ddbcb503c23f5a4facd3014f29872",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

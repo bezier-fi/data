@@ -1,0 +1,24 @@
+{
+	"Id": "0xc872d091fb0e314a88aa014479f22ac2045faa7d",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xc872d091fb0e314a88aa014479f22ac2045faa7d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc5fb36dd2fb59d3b98deff88425a3f425ee469ed"
+		},
+		{
+			"Address": "0xe22020f47b7378dfedcedd2c81d4137c22fe1152"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TSUKA-MLP (1.00%)",
+	"Chain": "ethereum"
+}

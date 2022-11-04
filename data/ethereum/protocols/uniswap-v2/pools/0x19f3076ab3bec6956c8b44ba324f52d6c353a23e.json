@@ -1,0 +1,24 @@
+{
+	"Id": "0x19f3076ab3bec6956c8b44ba324f52d6c353a23e",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x19f3076ab3bec6956c8b44ba324f52d6c353a23e",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x25c552cac41fb69887ca8271de35b0546d7f1de8"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "$BLINKINU-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x15ab0333985fd1e289adf4fbbe19261454776642",
+	"Symbol": "WETH-MLN",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xec67005c4e498ec7f55e092bd1d35cbc47c91892"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

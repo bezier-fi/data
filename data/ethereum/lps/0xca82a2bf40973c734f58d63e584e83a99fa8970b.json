@@ -1,0 +1,10 @@
+{
+	"Id": "0xca82a2bf40973c734f58d63e584e83a99fa8970b",
+	"Symbol": "SAFESATURN-WETH",
+	"UnderlyingTokens": [
+		"0x4a35f16402e241aae74bbabaf64f524f7da6d2e8",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

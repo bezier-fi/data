@@ -1,0 +1,21 @@
+{
+	"Id": "0x7CE2332fAF6328986C75e3A8fCc1CB79621aeB1F",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x7CE2332fAF6328986C75e3A8fCc1CB79621aeB1F",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8826C072657983939c26E684edcfb0e4133f0B3d"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MUST-ETH LP",
+	"Chain": "polygon"
+}

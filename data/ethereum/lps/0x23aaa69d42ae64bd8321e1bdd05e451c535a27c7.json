@@ -1,0 +1,10 @@
+{
+	"Id": "0x23aaa69d42ae64bd8321e1bdd05e451c535a27c7",
+	"Symbol": "WETH-WMLK",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf87c4b9c0c1528147cac4e05b7ac349a9ab23a12"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

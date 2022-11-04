@@ -1,0 +1,10 @@
+{
+	"Id": "0xbe4c85d788aaa0349b6d3d996738968f22bbe079",
+	"Symbol": "TOSHIRO-WETH",
+	"UnderlyingTokens": [
+		"0x5c44accd8c901698167da1b0a7f601ffb5413a98",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

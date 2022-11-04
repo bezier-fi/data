@@ -1,0 +1,24 @@
+{
+	"Id": "0xa1F8A6807c402E4A15ef4EBa36528A3FED24E577",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0xf43211935C781D5ca1a41d2041F397B8A7366C7A",
+			"Apr": 2.1221824,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
+		},
+		{
+			"Address": "0x5E8422345238F34275888049021821E8E08CAa1f"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Curve.fi ETH/frxETH",
+	"Chain": "ethereum"
+}

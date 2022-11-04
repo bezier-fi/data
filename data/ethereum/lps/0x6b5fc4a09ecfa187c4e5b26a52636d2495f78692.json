@@ -1,0 +1,10 @@
+{
+	"Id": "0x6b5fc4a09ecfa187c4e5b26a52636d2495f78692",
+	"Symbol": "SNP-USDC",
+	"UnderlyingTokens": [
+		"0x6911f552842236bd9e8ea8ddbb3fb414e2c5fa9d",
+		"0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

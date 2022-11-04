@@ -1,0 +1,10 @@
+{
+	"Id": "0x325365ed8275f6a74cac98917b7f6face8da533b",
+	"Symbol": "CHZ-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x3506424f91fd33084466f402d5d97f05f8e3b4af",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

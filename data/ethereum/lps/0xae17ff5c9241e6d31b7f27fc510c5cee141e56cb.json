@@ -1,0 +1,10 @@
+{
+	"Id": "0xae17ff5c9241e6d31b7f27fc510c5cee141e56cb",
+	"Symbol": "OSINA-WETH",
+	"UnderlyingTokens": [
+		"0x39ad22c916f42af5f67371d6f2fb0dab42321a89",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

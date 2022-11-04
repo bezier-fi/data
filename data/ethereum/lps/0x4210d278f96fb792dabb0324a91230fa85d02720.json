@@ -1,0 +1,10 @@
+{
+	"Id": "0x4210d278f96fb792dabb0324a91230fa85d02720",
+	"Symbol": "NIBIRU-WETH",
+	"UnderlyingTokens": [
+		"0x3353ca8ee06f6e3f9245214e1a5a118b29f03d19",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

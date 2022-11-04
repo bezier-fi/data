@@ -1,0 +1,10 @@
+{
+	"Id": "0x11dbd1a0afc4f99574f59add5cd22a44fe103b9f",
+	"Symbol": "VDICK-WETH",
+	"UnderlyingTokens": [
+		"0x2284c0100fc9146e7fa5ef9dceb1a822fbd6a403",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

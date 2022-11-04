@@ -1,0 +1,10 @@
+{
+	"Id": "0xbc7e4ae38655b0972d364af5b331171baec3e39a",
+	"Symbol": "WETH-CATFU",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xdf69ccc8e334df9514b79e6a69a645e598ef2454"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

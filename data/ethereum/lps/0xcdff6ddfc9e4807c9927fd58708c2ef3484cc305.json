@@ -1,0 +1,10 @@
+{
+	"Id": "0xcdff6ddfc9e4807c9927fd58708c2ef3484cc305",
+	"Symbol": "AVT-WETH (0.30%)",
+	"UnderlyingTokens": [
+		"0x0d88ed6e74bbfd96b831231638b66c05571e824f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

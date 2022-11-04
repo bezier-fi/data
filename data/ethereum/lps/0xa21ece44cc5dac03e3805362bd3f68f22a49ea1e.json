@@ -1,0 +1,10 @@
+{
+	"Id": "0xa21ece44cc5dac03e3805362bd3f68f22a49ea1e",
+	"Symbol": "SLICE-WETH",
+	"UnderlyingTokens": [
+		"0x0aee8703d34dd9ae107386d3eff22ae75dd616d1",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

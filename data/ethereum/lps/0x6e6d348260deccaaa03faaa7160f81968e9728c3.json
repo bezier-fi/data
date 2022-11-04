@@ -1,0 +1,10 @@
+{
+	"Id": "0x6e6d348260deccaaa03faaa7160f81968e9728c3",
+	"Symbol": "WETH-TZKI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf527d24391c767b86b8e91385e1ce9c54d230a2b"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

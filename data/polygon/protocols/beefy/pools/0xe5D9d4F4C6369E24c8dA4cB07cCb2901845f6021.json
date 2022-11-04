@@ -1,0 +1,21 @@
+{
+	"Id": "0xe5D9d4F4C6369E24c8dA4cB07cCb2901845f6021",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xe5D9d4F4C6369E24c8dA4cB07cCb2901845f6021",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2Bbe0F728f4d5821F84eeE0432D2A4be7C0cB7Fc"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "IRON-USDC LP",
+	"Chain": "polygon"
+}

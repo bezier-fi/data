@@ -1,0 +1,21 @@
+{
+	"Id": "0xdD32ca42a5bab4073D319BC26bb4e951e767Ba6E",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xdD32ca42a5bab4073D319BC26bb4e951e767Ba6E",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xDEA8f0F1E6E98C6AEE891601600E5fBa294B5e36"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "LINK-QUICK LP",
+	"Chain": "polygon"
+}

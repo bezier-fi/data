@@ -1,0 +1,21 @@
+{
+	"Id": "0x866c72B76fca4785aEE3656C2064476f98Fe9Cc9",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x866c72B76fca4785aEE3656C2064476f98Fe9Cc9",
+			"Apr": 2.667682,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x03cD191F589d12b0582a99808cf19851E468E6B5"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WBTC/USDC/ETH",
+	"Chain": "polygon"
+}

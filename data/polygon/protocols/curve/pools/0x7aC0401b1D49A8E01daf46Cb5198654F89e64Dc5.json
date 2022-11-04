@@ -1,0 +1,24 @@
+{
+	"Id": "0x7aC0401b1D49A8E01daf46Cb5198654F89e64Dc5",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0x2C16CF75DAeCa6a75797007fD274d3CD92451E31",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x00e5646f60AC6Fb446f621d146B6E1886f002905"
+		},
+		{
+			"Address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "RAIDAI-2-f",
+	"Chain": "polygon"
+}

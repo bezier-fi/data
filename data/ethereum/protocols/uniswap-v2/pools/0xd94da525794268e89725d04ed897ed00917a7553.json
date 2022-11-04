@@ -1,0 +1,24 @@
+{
+	"Id": "0xd94da525794268e89725d04ed897ed00917a7553",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xd94da525794268e89725d04ed897ed00917a7553",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x849ba2278cdae7fa7006c0661fea1c35d5af3336"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TheCitadel-WETH",
+	"Chain": "ethereum"
+}

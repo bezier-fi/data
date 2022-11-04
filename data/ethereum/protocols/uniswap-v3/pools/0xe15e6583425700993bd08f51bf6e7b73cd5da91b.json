@@ -1,0 +1,24 @@
+{
+	"Id": "0xe15e6583425700993bd08f51bf6e7b73cd5da91b",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xe15e6583425700993bd08f51bf6e7b73cd5da91b",
+			"Apr": 7.5098233,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599"
+		},
+		{
+			"Address": "0x3472a5a71965499acd81997a54bba8d852c6e53d"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WBTC-BADGER (0.30%)",
+	"Chain": "ethereum"
+}

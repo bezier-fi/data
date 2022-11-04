@@ -1,0 +1,10 @@
+{
+	"Id": "0xda719d067948e5855eb362b495f5a82648a15207",
+	"Symbol": "ABY*-WETH",
+	"UnderlyingTokens": [
+		"0x26c5331a8aaede3d3af276fd61329163a55ecbca",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

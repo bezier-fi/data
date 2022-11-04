@@ -1,0 +1,24 @@
+{
+	"Id": "0xc840464a8c3324e0bdc9429439dde3a12205424a",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xc840464a8c3324e0bdc9429439dde3a12205424a",
+			"Apr": 0.7838446,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0f51bb10119727a7e5ea3538074fb341f56b09ad"
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DAO-USDC (0.30%)",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xf4eae3218778510cc1d07ed22338d6d8df2adaf1",
+	"Symbol": "WETH-DWEB",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe7f58a92476056627f9fdb92286778abd83b285f"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

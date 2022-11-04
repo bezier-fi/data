@@ -1,0 +1,24 @@
+{
+	"Id": "0xfbb95f7eab811590fae540d0fdd12178dc478253",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xfbb95f7eab811590fae540d0fdd12178dc478253",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5b87cb46947ec94a79fa12caf1fa7987c67c77dc"
+		},
+		{
+			"Address": "0xd5811e1fd3222bb6a1485b071ee1b93ae7c5b68b"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GOV-UNV",
+	"Chain": "ethereum"
+}

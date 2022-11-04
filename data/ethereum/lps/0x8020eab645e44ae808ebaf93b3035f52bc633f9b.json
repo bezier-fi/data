@@ -1,0 +1,10 @@
+{
+	"Id": "0x8020eab645e44ae808ebaf93b3035f52bc633f9b",
+	"Symbol": "sETH-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x5e74c9036fb86bd7ecdcb084a0673efc32ea31cb",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

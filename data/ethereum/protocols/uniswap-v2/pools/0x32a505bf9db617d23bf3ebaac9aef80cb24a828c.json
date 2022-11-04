@@ -1,0 +1,24 @@
+{
+	"Id": "0x32a505bf9db617d23bf3ebaac9aef80cb24a828c",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x32a505bf9db617d23bf3ebaac9aef80cb24a828c",
+			"Apr": 0.15458342,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x16756ec1deb89a2106c35e0b586a799d0a61837d"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CHEDDA-WETH",
+	"Chain": "ethereum"
+}

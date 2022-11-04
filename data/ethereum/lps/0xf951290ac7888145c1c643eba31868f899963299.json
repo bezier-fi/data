@@ -1,0 +1,10 @@
+{
+	"Id": "0xf951290ac7888145c1c643eba31868f899963299",
+	"Symbol": "WETH-ARTY",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd0549d3c59facbd091e548600c1ec53d762aa66b"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

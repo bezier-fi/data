@@ -1,0 +1,10 @@
+{
+	"Id": "0x56ebf3ec044043efbcc13d66e46cc30bd0d35fd2",
+	"Symbol": "WETH-CRIT",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf00ea2f3761a730f414aee6dfdc7857b6a3ef086"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

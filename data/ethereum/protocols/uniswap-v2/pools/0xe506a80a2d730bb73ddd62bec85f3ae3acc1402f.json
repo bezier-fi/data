@@ -1,0 +1,24 @@
+{
+	"Id": "0xe506a80a2d730bb73ddd62bec85f3ae3acc1402f",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xe506a80a2d730bb73ddd62bec85f3ae3acc1402f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x580c8520deda0a441522aeae0f9f7a5f29629afa"
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DAWN-USDT",
+	"Chain": "ethereum"
+}

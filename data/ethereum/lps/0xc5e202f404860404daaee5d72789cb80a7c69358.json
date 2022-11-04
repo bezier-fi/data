@@ -1,0 +1,10 @@
+{
+	"Id": "0xc5e202f404860404daaee5d72789cb80a7c69358",
+	"Symbol": "MOTION-WETH",
+	"UnderlyingTokens": [
+		"0x0c56c64f54ff66252a72a1a81ab970e4bcdc2392",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

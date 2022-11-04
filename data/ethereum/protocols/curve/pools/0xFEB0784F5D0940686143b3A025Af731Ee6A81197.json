@@ -1,0 +1,24 @@
+{
+	"Id": "0xFEB0784F5D0940686143b3A025Af731Ee6A81197",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0x82aBdc39E7207555bc81ad58E8AeDCD6fcC96B98",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x92E187a03B6CD19CB6AF293ba17F2745Fd2357D5"
+		},
+		{
+			"Address": "0xdAC17F958D2ee523a2206206994597C13D831ec7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DUCKUSDT-f",
+	"Chain": "ethereum"
+}

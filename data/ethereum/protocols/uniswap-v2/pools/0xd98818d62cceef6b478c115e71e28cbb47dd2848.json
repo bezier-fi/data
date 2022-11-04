@@ -1,0 +1,24 @@
+{
+	"Id": "0xd98818d62cceef6b478c115e71e28cbb47dd2848",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xd98818d62cceef6b478c115e71e28cbb47dd2848",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x672e0a50dca95083127a43cade6e8f4fd6db9ebb"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CRDAO-WETH",
+	"Chain": "ethereum"
+}

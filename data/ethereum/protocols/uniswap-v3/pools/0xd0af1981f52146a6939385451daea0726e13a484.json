@@ -1,0 +1,24 @@
+{
+	"Id": "0xd0af1981f52146a6939385451daea0726e13a484",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xd0af1981f52146a6939385451daea0726e13a484",
+			"Apr": 1.6701043,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x55296f69f40ea6d20e478533c15a6b08b654e758"
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "XYO-USDT (0.30%)",
+	"Chain": "ethereum"
+}

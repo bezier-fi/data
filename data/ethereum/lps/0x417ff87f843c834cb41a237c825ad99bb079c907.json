@@ -1,0 +1,10 @@
+{
+	"Id": "0x417ff87f843c834cb41a237c825ad99bb079c907",
+	"Symbol": "DREAM-WETH",
+	"UnderlyingTokens": [
+		"0xb44377b74ef1773639b663d0754cb8410a847d02",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

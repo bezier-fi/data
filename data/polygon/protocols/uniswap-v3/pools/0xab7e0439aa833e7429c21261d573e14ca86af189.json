@@ -1,0 +1,24 @@
+{
+	"Id": "0xab7e0439aa833e7429c21261d573e14ca86af189",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xab7e0439aa833e7429c21261d573e14ca86af189",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x82640ebbbb4ed1fc61b2ebc906689b988b885ae2"
+		},
+		{
+			"Address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MOVIE-USDT (0.30%)",
+	"Chain": "polygon"
+}

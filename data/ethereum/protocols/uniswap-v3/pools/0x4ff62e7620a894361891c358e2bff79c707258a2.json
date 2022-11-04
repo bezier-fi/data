@@ -1,0 +1,24 @@
+{
+	"Id": "0x4ff62e7620a894361891c358e2bff79c707258a2",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0x4ff62e7620a894361891c358e2bff79c707258a2",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xaaef88cea01475125522e117bfe45cf32044e238"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GF-WETH (1.00%)",
+	"Chain": "ethereum"
+}

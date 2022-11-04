@@ -1,0 +1,24 @@
+{
+	"Id": "0x2009f19A8B46642E92Ea19adCdFB23ab05fC20A6",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0x2009f19A8B46642E92Ea19adCdFB23ab05fC20A6",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x810c4b2A31665ef77b75D2410ACeb29F0F099096"
+		},
+		{
+			"Address": "0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SifuETH3CRV-f",
+	"Chain": "ethereum"
+}

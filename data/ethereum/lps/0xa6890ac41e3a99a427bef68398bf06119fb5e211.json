@@ -1,0 +1,10 @@
+{
+	"Id": "0xa6890ac41e3a99a427bef68398bf06119fb5e211",
+	"Symbol": "ZCN-WETH",
+	"UnderlyingTokens": [
+		"0xb9ef770b6a5e12e45983c5d80545258aa38f3b78",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

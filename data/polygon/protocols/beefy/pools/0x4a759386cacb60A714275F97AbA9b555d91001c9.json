@@ -1,0 +1,21 @@
+{
+	"Id": "0x4a759386cacb60A714275F97AbA9b555d91001c9",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x4a759386cacb60A714275F97AbA9b555d91001c9",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x740d668883b0fAEf5eeF7E84BE28C7152D6f609D"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WMATIC-DFYN LP",
+	"Chain": "polygon"
+}

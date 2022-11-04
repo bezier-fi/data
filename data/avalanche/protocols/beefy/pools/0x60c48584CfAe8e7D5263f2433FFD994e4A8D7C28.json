@@ -1,0 +1,21 @@
+{
+	"Id": "0x60c48584CfAe8e7D5263f2433FFD994e4A8D7C28",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x60c48584CfAe8e7D5263f2433FFD994e4A8D7C28",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x565d20BD591b00EAD0C927e4b6D7DD8A33b0B319"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TUS-AVAX LP",
+	"Chain": "avalanche"
+}

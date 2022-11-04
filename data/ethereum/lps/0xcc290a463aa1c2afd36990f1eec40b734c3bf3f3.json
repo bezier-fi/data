@@ -1,0 +1,10 @@
+{
+	"Id": "0xcc290a463aa1c2afd36990f1eec40b734c3bf3f3",
+	"Symbol": "BIST-WETH",
+	"UnderlyingTokens": [
+		"0x6e8908cfa881c9f6f2c64d3436e7b80b1bf0093f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

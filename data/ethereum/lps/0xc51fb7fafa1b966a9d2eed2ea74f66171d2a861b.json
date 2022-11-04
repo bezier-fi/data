@@ -1,0 +1,10 @@
+{
+	"Id": "0xc51fb7fafa1b966a9d2eed2ea74f66171d2a861b",
+	"Symbol": "HEGIC-WETH (0.30%)",
+	"UnderlyingTokens": [
+		"0x584bc13c7d411c00c01a62e8019472de68768430",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

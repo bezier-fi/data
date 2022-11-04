@@ -1,0 +1,24 @@
+{
+	"Id": "0xc840e5fc0e790e40bc2b0686a0d4bb8641c3ca5d",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xc840e5fc0e790e40bc2b0686a0d4bb8641c3ca5d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x06c1a136a4994e8f2de2e5c6a4564021c324eeb0"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BARRETT-WETH",
+	"Chain": "ethereum"
+}

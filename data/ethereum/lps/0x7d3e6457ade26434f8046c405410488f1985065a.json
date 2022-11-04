@@ -1,0 +1,10 @@
+{
+	"Id": "0x7d3e6457ade26434f8046c405410488f1985065a",
+	"Symbol": "CHURCH-WETH",
+	"UnderlyingTokens": [
+		"0x71018cc3d0ccdc7e10c48550554ce4d4e3afd9c1",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xfcfdfc98062d13a11cec48c44e4613eb26a34293",
+	"Symbol": "WETH-COW (1.00%)",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xdef1ca1fb7fbcdc777520aa7f396b4e015f497ab"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

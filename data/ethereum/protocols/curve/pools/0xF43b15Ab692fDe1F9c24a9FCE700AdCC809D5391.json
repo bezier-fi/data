@@ -1,0 +1,24 @@
+{
+	"Id": "0xF43b15Ab692fDe1F9c24a9FCE700AdCC809D5391",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0xE160364FD8407FFc8b163e278300c6C5D18Ff61d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+		},
+		{
+			"Address": "0xC0d4Ceb216B3BA9C3701B291766fDCbA977ceC3A"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BTRFLYETH-f",
+	"Chain": "ethereum"
+}

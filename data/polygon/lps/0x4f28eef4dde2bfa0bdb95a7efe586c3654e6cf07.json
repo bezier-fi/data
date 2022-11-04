@@ -1,0 +1,10 @@
+{
+	"Id": "0x4f28eef4dde2bfa0bdb95a7efe586c3654e6cf07",
+	"Symbol": "WBTC-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6",
+		"0x7ceb23fd6bc0add59e62ac25578270cff1b9f619"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "polygon"
+}

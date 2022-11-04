@@ -1,0 +1,10 @@
+{
+	"Id": "0x99fb2811662bd1681e73bd5197916ff80078e3d6",
+	"Symbol": "WETH-CIMO",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc3f65b1c45b0d42a472cd0fbd37dd6678aef667a"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

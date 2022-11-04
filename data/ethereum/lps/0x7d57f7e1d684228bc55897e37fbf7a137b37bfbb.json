@@ -1,0 +1,10 @@
+{
+	"Id": "0x7d57f7e1d684228bc55897e37fbf7a137b37bfbb",
+	"Symbol": "SER-WETH",
+	"UnderlyingTokens": [
+		"0x9ab3e0560ec1f5c054849175f2e1a5b004ee4c8e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

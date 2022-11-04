@@ -1,0 +1,24 @@
+{
+	"Id": "0x0bebf49facd18d40915509cc1c0bc43fdc099269",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0x0bebf49facd18d40915509cc1c0bc43fdc099269",
+			"Apr": 0.2078957,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x783c68814126b66b9242c4c6538ae47db5e33169"
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "RODO-USDC (0.01%)",
+	"Chain": "ethereum"
+}

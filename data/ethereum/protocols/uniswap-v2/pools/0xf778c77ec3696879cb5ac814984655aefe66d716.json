@@ -1,0 +1,24 @@
+{
+	"Id": "0xf778c77ec3696879cb5ac814984655aefe66d716",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xf778c77ec3696879cb5ac814984655aefe66d716",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x395c8db957d743a62ac3aaaa4574553bcf2380b3"
+		},
+		{
+			"Address": "0xb638ab512dd766ca5e9eb9690fc4d66b663f7a06"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "UETH-DAPE",
+	"Chain": "ethereum"
+}

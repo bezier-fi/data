@@ -1,0 +1,24 @@
+{
+	"Id": "0xF8048E871dF466BD187078cb38CB914476319d33",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0xF8048E871dF466BD187078cb38CB914476319d33",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8D6CeBD76f18E1558D4DB88138e2DeFB3909fAD6"
+		},
+		{
+			"Address": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MAILUSD-f",
+	"Chain": "ethereum"
+}

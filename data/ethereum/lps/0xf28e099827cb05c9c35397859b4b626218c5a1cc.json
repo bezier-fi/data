@@ -1,0 +1,10 @@
+{
+	"Id": "0xf28e099827cb05c9c35397859b4b626218c5a1cc",
+	"Symbol": "RHO-WETH",
+	"UnderlyingTokens": [
+		"0x3f3cd642e81d030d7b514a2ab5e3a5536beb90ec",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

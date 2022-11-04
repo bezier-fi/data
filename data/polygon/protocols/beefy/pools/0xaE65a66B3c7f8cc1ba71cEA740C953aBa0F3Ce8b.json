@@ -1,0 +1,21 @@
+{
+	"Id": "0xaE65a66B3c7f8cc1ba71cEA740C953aBa0F3Ce8b",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xaE65a66B3c7f8cc1ba71cEA740C953aBa0F3Ce8b",
+			"Apr": 5.27372,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x74D23F21F780CA26B47Db16B0504F2e3832b9321"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "LINK-ETH LP",
+	"Chain": "polygon"
+}

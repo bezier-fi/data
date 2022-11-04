@@ -1,0 +1,24 @@
+{
+	"Id": "0xb6873431c2c0e6502143148cae4fab419a325826",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xb6873431c2c0e6502143148cae4fab419a325826",
+			"Apr": 56.509327,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3832d2f059e55934220881f831be501d180671a7"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "renDOGE-WETH (1.00%)",
+	"Chain": "ethereum"
+}

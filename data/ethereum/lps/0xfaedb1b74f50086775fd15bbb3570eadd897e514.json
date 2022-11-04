@@ -1,0 +1,10 @@
+{
+	"Id": "0xfaedb1b74f50086775fd15bbb3570eadd897e514",
+	"Symbol": "MP3-WETH",
+	"UnderlyingTokens": [
+		"0x018fb5af9d015af25592a014c4266a84143de7a0",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

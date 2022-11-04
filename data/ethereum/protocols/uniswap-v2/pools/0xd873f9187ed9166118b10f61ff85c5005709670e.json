@@ -1,0 +1,24 @@
+{
+	"Id": "0xd873f9187ed9166118b10f61ff85c5005709670e",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xd873f9187ed9166118b10f61ff85c5005709670e",
+			"Apr": 9.635143,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+		},
+		{
+			"Address": "0xf433089366899d83a9f26a773d59ec7ecf30355e"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDT-MTL",
+	"Chain": "ethereum"
+}

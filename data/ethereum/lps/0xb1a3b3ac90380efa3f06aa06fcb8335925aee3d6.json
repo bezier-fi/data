@@ -1,0 +1,10 @@
+{
+	"Id": "0xb1a3b3ac90380efa3f06aa06fcb8335925aee3d6",
+	"Symbol": "CINU-WETH",
+	"UnderlyingTokens": [
+		"0xac8cc32fab2368a1a095722aaf760c45f578e17b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

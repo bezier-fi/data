@@ -1,0 +1,24 @@
+{
+	"Id": "0xb0a115d33a93b6ee11c8c0539e30ae648aa5753f",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xb0a115d33a93b6ee11c8c0539e30ae648aa5753f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x27c70cd1946795b66be9d954418546998b546634"
+		},
+		{
+			"Address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "LEASH-SHIB (1.00%)",
+	"Chain": "ethereum"
+}

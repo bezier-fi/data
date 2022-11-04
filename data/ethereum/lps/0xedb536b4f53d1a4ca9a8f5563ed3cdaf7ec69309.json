@@ -1,0 +1,10 @@
+{
+	"Id": "0xedb536b4f53d1a4ca9a8f5563ed3cdaf7ec69309",
+	"Symbol": "Saja-WETH",
+	"UnderlyingTokens": [
+		"0x698c6ac9ca5f16cabc5a636d3a619329c0958cba",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

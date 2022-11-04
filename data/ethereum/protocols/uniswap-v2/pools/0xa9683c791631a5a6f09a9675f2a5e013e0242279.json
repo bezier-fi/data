@@ -1,0 +1,24 @@
+{
+	"Id": "0xa9683c791631a5a6f09a9675f2a5e013e0242279",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xa9683c791631a5a6f09a9675f2a5e013e0242279",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x15f2ed83abef5cdc462975310b958c237eae4710"
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SKOLL-USDC",
+	"Chain": "ethereum"
+}

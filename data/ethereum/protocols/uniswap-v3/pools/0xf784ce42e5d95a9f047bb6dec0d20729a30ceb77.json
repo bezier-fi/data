@@ -1,0 +1,24 @@
+{
+	"Id": "0xf784ce42e5d95a9f047bb6dec0d20729a30ceb77",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xf784ce42e5d95a9f047bb6dec0d20729a30ceb77",
+			"Apr": 2.1954908,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x038a68ff68c393373ec894015816e33ad41bd564"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GLCH-WETH (0.30%)",
+	"Chain": "ethereum"
+}

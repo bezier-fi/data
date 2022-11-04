@@ -1,0 +1,24 @@
+{
+	"Id": "0xC250B22d15e43d95fBE27B12d98B6098f8493eaC",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0xC250B22d15e43d95fBE27B12d98B6098f8493eaC",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x808D3E6b23516967ceAE4f17a5F9038383ED5311"
+		},
+		{
+			"Address": "0xc770EEfAd204B5180dF6a14Ee197D99d808ee52d"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "tFOX-f",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x7c9ac52857b71095ee28216609c0b5aeab684ca2",
+	"Symbol": "WETH-TheAD",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xcb056a2f3ca0b82ab69dcbd677875d68b74d6189"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

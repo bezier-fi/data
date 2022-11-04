@@ -1,0 +1,10 @@
+{
+	"Id": "0xc730ef0f4973da9cc0ab8ab291890d3e77f58f79",
+	"Symbol": "AUDIO-WETH",
+	"UnderlyingTokens": [
+		"0x18aaa7115705e8be94bffebde57af9bfc265b998",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

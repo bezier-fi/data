@@ -1,0 +1,24 @@
+{
+	"Id": "0xaea4d6809375bb973c8036d53db9e90970942738",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xaea4d6809375bb973c8036d53db9e90970942738",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4086692d53262b2be0b13909d804f0491ff6ec3e"
+		},
+		{
+			"Address": "0xf911a7ec46a2c6fa49193212fe4a2a9b95851c27"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "YFKA-XAMP",
+	"Chain": "ethereum"
+}

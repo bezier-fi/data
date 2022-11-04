@@ -1,0 +1,10 @@
+{
+	"Id": "0xd63751b0fbef5f0153c69d6429ed1429b6f79247",
+	"Symbol": "WETH-PONYO",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf03f082bf49fe71c2ab8dfaf4f8d0aeaa1d3de14"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

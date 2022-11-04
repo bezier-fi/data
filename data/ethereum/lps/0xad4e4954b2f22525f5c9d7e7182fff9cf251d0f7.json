@@ -1,0 +1,10 @@
+{
+	"Id": "0xad4e4954b2f22525f5c9d7e7182fff9cf251d0f7",
+	"Symbol": "MUSKITO-WETH",
+	"UnderlyingTokens": [
+		"0x7ef790d9bccc87989be0fdb88ffb955bec3d5e92",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

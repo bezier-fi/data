@@ -1,0 +1,24 @@
+{
+	"Id": "0xc8d02f2669ef9aabe6b3b75e2813695aed63748d",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xc8d02f2669ef9aabe6b3b75e2813695aed63748d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1e18821e69b9faa8e6e75dffe54e7e25754beda0"
+		},
+		{
+			"Address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "KIMCHI-SUSHI",
+	"Chain": "ethereum"
+}

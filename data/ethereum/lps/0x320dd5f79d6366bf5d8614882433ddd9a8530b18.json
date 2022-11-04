@@ -1,0 +1,10 @@
+{
+	"Id": "0x320dd5f79d6366bf5d8614882433ddd9a8530b18",
+	"Symbol": "HULK-WETH",
+	"UnderlyingTokens": [
+		"0x91a5de30e57831529a3c1af636a78a7e4e83f3aa",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,36 @@
+{
+	"Id": "0xD6Ac1CB9019137a896343Da59dDE6d097F710538",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0xD6Ac1CB9019137a896343Da59dDE6d097F710538",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		},
+		{
+			"Address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+			"Apr": 3.4934502,
+			"GroupId": 0,
+			"Key": ""
+		},
+		{
+			"Address": "0xEdB67Ee1B171c4eC66E6c10EC43EDBbA20FaE8e9",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x69681f8fde45345C3870BCD5eaf4A05a60E7D227"
+		},
+		{
+			"Address": "0x97fe22E7341a0Cd8Db6F6C021A24Dc8f4DAD855F"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ibGBP+sGBP-f",
+	"Chain": "ethereum"
+}

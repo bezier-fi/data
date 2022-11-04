@@ -1,0 +1,24 @@
+{
+	"Id": "0x668cd043e137c81f811bb71e36e94ded77e4a5ca",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x668cd043e137c81f811bb71e36e94ded77e4a5ca",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7777770f8a6632ff043c8833310e245eba9209e6"
+		},
+		{
+			"Address": "0xf9c36c7ad7fa0f0862589c919830268d1a2581a1"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TOB-BOA",
+	"Chain": "ethereum"
+}

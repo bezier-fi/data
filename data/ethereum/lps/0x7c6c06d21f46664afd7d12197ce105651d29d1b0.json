@@ -1,0 +1,10 @@
+{
+	"Id": "0x7c6c06d21f46664afd7d12197ce105651d29d1b0",
+	"Symbol": "WETH-STARS",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc55c2175e90a46602fd42e931f62b3acc1a013ca"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,24 @@
+{
+	"Id": "0x9042f4971dc890b599e4d90dca9dba0d582ffe6d",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x9042f4971dc890b599e4d90dca9dba0d582ffe6d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xba41ddf06b7ffd89d1267b5a93bfef2424eb2003"
+		},
+		{
+			"Address": "0xda9fdab21bc4a5811134a6e0ba6ca06624e67c07"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MYTH-QUIDD",
+	"Chain": "ethereum"
+}

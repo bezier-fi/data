@@ -1,0 +1,10 @@
+{
+	"Id": "0xd5cbfa59e127b18e6c530d4e76c685ade9d7ee08",
+	"Symbol": "LIL-WETH",
+	"UnderlyingTokens": [
+		"0x1b67e91a30868f00bd6c7a4c7b4da3e339a61f55",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

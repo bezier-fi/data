@@ -1,0 +1,24 @@
+{
+	"Id": "0x8452d58c1ec45016a668d1c8ab4179551abf7124",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0x8452d58c1ec45016a668d1c8ab4179551abf7124",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x15d4c048f83bd7e37d49ea4c83a07267ec4203da"
+		},
+		{
+			"Address": "0x3dd98c8a089dbcff7e8fc8d4f532bd493501ab7f"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GALA-TOWN (0.30%)",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x4f4d050d5c86dd32d276a8d066fa1932eb241c1b",
+	"Symbol": "CUT-WETH",
+	"UnderlyingTokens": [
+		"0x135783b60cf5d71daff7a377f9eb7db8d2deab9e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,24 @@
+{
+	"Id": "0xfe6f77be9f145f9ce68eeacb4981181f53b27a6e",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xfe6f77be9f145f9ce68eeacb4981181f53b27a6e",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb0b29fd65eb2e6c5417b03acfe9841406926bb3a"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GANJA-WETH",
+	"Chain": "ethereum"
+}

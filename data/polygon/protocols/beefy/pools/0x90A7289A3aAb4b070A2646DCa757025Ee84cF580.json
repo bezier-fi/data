@@ -1,0 +1,21 @@
+{
+	"Id": "0x90A7289A3aAb4b070A2646DCa757025Ee84cF580",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x90A7289A3aAb4b070A2646DCa757025Ee84cF580",
+			"Apr": 2.390145,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1E67124681b402064CD0ABE8ed1B5c79D2e02f64"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BCT-USDC SLP",
+	"Chain": "polygon"
+}

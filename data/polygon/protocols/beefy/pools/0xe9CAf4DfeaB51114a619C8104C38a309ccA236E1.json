@@ -1,0 +1,21 @@
+{
+	"Id": "0xe9CAf4DfeaB51114a619C8104C38a309ccA236E1",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xe9CAf4DfeaB51114a619C8104C38a309ccA236E1",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2d10b334646F6e61F2556c0f7eda2fF3D82d001e"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BONE-MATIC LP",
+	"Chain": "polygon"
+}

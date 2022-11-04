@@ -1,0 +1,10 @@
+{
+	"Id": "0xc33becce25b54a67b2f348185c373d3479ff4432",
+	"Symbol": "SHF-WETH",
+	"UnderlyingTokens": [
+		"0x8e33f41a1aec16dba398c139e12a2f00aa5e93bc",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xe45b4a84e0ad24b8617a489d743c52b84b7acebe",
+	"Symbol": "AGIX-WETH",
+	"UnderlyingTokens": [
+		"0x5b7533812759b45c2b44c19e320ba2cd2681b542",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

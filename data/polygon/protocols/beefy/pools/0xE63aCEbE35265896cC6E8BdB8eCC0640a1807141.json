@@ -1,0 +1,21 @@
+{
+	"Id": "0xE63aCEbE35265896cC6E8BdB8eCC0640a1807141",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xE63aCEbE35265896cC6E8BdB8eCC0640a1807141",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xA79983Daf2A92c2C902cD74217Efe3D8AF9Fba2a"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TITAN-MATIC LP",
+	"Chain": "polygon"
+}

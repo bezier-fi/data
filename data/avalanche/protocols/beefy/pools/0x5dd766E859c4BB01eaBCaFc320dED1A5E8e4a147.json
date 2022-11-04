@@ -1,0 +1,21 @@
+{
+	"Id": "0x5dd766E859c4BB01eaBCaFc320dED1A5E8e4a147",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x5dd766E859c4BB01eaBCaFc320dED1A5E8e4a147",
+			"Apr": 2.0939364,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x140CAc5f0e05cBEc857e65353839FddD0D8482C1"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CRA-AVAX LP",
+	"Chain": "avalanche"
+}

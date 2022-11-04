@@ -1,0 +1,24 @@
+{
+	"Id": "0xa424cea71c4aea3d11877240b2f221c027c0e0be",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xa424cea71c4aea3d11877240b2f221c027c0e0be",
+			"Apr": 2.1695263,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x27702a26126e0b3702af63ee09ac4d1a084ef628"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ALEPH-WETH (0.30%)",
+	"Chain": "ethereum"
+}

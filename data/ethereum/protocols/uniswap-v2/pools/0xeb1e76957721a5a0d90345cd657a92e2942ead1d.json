@@ -1,0 +1,24 @@
+{
+	"Id": "0xeb1e76957721a5a0d90345cd657a92e2942ead1d",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xeb1e76957721a5a0d90345cd657a92e2942ead1d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		},
+		{
+			"Address": "0xd4126f195a8de772eeffa61a4ab6dd43462f4e39"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-HIKARI",
+	"Chain": "ethereum"
+}

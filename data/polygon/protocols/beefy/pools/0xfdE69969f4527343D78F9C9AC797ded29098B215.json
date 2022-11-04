@@ -1,0 +1,21 @@
+{
+	"Id": "0xfdE69969f4527343D78F9C9AC797ded29098B215",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xfdE69969f4527343D78F9C9AC797ded29098B215",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa769c6786C3717945438d4C4feb8494a1a6Ca443"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "JRT-ETH SLP",
+	"Chain": "polygon"
+}

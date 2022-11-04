@@ -1,0 +1,10 @@
+{
+	"Id": "0xe9672a2094544d4d701066d57ff5a64078a4bcd8",
+	"Symbol": "MCC-WETH",
+	"UnderlyingTokens": [
+		"0x1454232149a0dc51e612b471fe6d3393e60d09ad",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

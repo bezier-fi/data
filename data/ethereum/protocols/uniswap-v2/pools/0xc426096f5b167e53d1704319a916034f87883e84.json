@@ -1,0 +1,24 @@
+{
+	"Id": "0xc426096f5b167e53d1704319a916034f87883e84",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0xc426096f5b167e53d1704319a916034f87883e84",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x58023d8075a6ebc4451185ed5ac5e9054eed6cf8"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SMOLS-WETH",
+	"Chain": "ethereum"
+}

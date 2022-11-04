@@ -1,0 +1,24 @@
+{
+	"Id": "0xffe6008fcf63732ec8f666a91bf32e9be4eb7d56",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xffe6008fcf63732ec8f666a91bf32e9be4eb7d56",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x300a902513815028e97fc79e92082ce6a98d3b74"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SOX-WETH (0.30%)",
+	"Chain": "ethereum"
+}

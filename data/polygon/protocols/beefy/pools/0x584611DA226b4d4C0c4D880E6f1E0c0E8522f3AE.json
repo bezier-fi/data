@@ -1,0 +1,21 @@
+{
+	"Id": "0x584611DA226b4d4C0c4D880E6f1E0c0E8522f3AE",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x584611DA226b4d4C0c4D880E6f1E0c0E8522f3AE",
+			"Apr": 21.55988,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xd32f3139A214034A0f9777c87eE0a064c1FF6AE2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MATIC-DAI ALP",
+	"Chain": "polygon"
+}

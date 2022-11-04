@@ -1,0 +1,10 @@
+{
+	"Id": "0x049b4493010fc0ee3deed6a7fcae4e5fba86bb45",
+	"Symbol": "MAD-WETH",
+	"UnderlyingTokens": [
+		"0x5b09a0371c1da44a8e24d36bf5deb1141a84d875",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

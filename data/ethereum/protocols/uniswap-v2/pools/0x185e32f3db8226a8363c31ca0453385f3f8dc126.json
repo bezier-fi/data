@@ -1,0 +1,24 @@
+{
+	"Id": "0x185e32f3db8226a8363c31ca0453385f3f8dc126",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x185e32f3db8226a8363c31ca0453385f3f8dc126",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		},
+		{
+			"Address": "0xc48b4814faed1ccc885dd6fde62a6474aecbb19a"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-CMERGE",
+	"Chain": "ethereum"
+}

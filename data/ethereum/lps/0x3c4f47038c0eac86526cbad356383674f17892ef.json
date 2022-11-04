@@ -1,0 +1,10 @@
+{
+	"Id": "0x3c4f47038c0eac86526cbad356383674f17892ef",
+	"Symbol": "SANTAMOON-WETH",
+	"UnderlyingTokens": [
+		"0x61a1589c4cdf1e5e729b59bfb2f9fd83920c21f9",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

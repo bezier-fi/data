@@ -1,0 +1,10 @@
+{
+	"Id": "0xc52e4ceb23cf8a7ac524b827aa8fb809c8c3c16b",
+	"Symbol": "BELLA-WETH",
+	"UnderlyingTokens": [
+		"0x21a7c981905077cf876dd1258adccfe638d6d875",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

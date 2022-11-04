@@ -1,0 +1,21 @@
+{
+	"Id": "0x79A44dc13e5863Cf4AB36ab13e038A5F16861Abc",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0x79A44dc13e5863Cf4AB36ab13e038A5F16861Abc",
+			"Apr": 2.2334883,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1337BedC9D22ecbe766dF105c9623922A27963EC"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DAI/USDC/USDT",
+	"Chain": "avalanche"
+}

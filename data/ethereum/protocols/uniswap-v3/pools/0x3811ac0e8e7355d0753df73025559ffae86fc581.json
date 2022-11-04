@@ -1,0 +1,24 @@
+{
+	"Id": "0x3811ac0e8e7355d0753df73025559ffae86fc581",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0x3811ac0e8e7355d0753df73025559ffae86fc581",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0198f46f520f33cd4329bd4be380a25a90536cd5"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PLA-WETH (0.30%)",
+	"Chain": "ethereum"
+}

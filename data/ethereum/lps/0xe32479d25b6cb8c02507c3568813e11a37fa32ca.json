@@ -1,0 +1,10 @@
+{
+	"Id": "0xe32479d25b6cb8c02507c3568813e11a37fa32ca",
+	"Symbol": "SWISS-WETH",
+	"UnderlyingTokens": [
+		"0x692eb773e0b5b7a79efac5a015c8b36a2577f65c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

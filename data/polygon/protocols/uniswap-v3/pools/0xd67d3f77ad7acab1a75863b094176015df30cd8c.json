@@ -1,0 +1,24 @@
+{
+	"Id": "0xd67d3f77ad7acab1a75863b094176015df30cd8c",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xd67d3f77ad7acab1a75863b094176015df30cd8c",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9a06db14d639796b25a6cec6a1bf614fd98815ec"
+		},
+		{
+			"Address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "$ZKP-USDT (0.30%)",
+	"Chain": "polygon"
+}

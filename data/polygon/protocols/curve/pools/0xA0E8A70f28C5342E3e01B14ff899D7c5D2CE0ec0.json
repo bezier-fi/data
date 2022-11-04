@@ -1,0 +1,30 @@
+{
+	"Id": "0xA0E8A70f28C5342E3e01B14ff899D7c5D2CE0ec0",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0xA0E8A70f28C5342E3e01B14ff899D7c5D2CE0ec0",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xC125D5429a1e1fc1946f40fEFfcA1c7859bF1d80"
+		},
+		{
+			"Address": "0x20828B944A9B3c19916DeC685Da8489DE6db28D5"
+		},
+		{
+			"Address": "0x9CD42aed7d44EE801C827A8E5DCF41DF534E9e82"
+		},
+		{
+			"Address": "0x8a95282517721Cb7BBC539B8834073198e35ad07"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "OMIKTE-f",
+	"Chain": "polygon"
+}

@@ -1,0 +1,24 @@
+{
+	"Id": "0xb0570b3f11c380abfc187e43e6a47a1c4e34b8e5",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xb0570b3f11c380abfc187e43e6a47a1c4e34b8e5",
+			"Apr": 7.9617925,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4ad7a056191f4c9519facd6d75fa94ca26003ace"
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GPO-USDC (1.00%)",
+	"Chain": "ethereum"
+}

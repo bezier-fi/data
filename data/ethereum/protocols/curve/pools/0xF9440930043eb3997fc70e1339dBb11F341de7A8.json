@@ -1,0 +1,27 @@
+{
+	"Id": "0xF9440930043eb3997fc70e1339dBb11F341de7A8",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0x53a901d48795C58f485cBB38df08FA96a24669D5",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		},
+		{
+			"Address": "0xef3A930e1FfFFAcd2fc13434aC81bD278B0ecC8d",
+			"Apr": 4.525565,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "reth",
+	"Chain": "ethereum"
+}

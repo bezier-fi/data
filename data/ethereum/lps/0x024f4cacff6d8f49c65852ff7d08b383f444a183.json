@@ -1,0 +1,10 @@
+{
+	"Id": "0x024f4cacff6d8f49c65852ff7d08b383f444a183",
+	"Symbol": "WETH-FEDRESERVE",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe09fd67be1e99344e7f81c28b8aa8452cde9df89"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

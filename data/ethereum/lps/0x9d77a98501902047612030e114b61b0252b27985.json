@@ -1,0 +1,10 @@
+{
+	"Id": "0x9d77a98501902047612030e114b61b0252b27985",
+	"Symbol": "WETH-VOLT (1.00%)",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xffbf315f70e458e49229654dea4ce192d26f9b25"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,24 @@
+{
+	"Id": "0x4eeea05c9318d6bd9ddaa5a6a001f1916fbd4c9f",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x4eeea05c9318d6bd9ddaa5a6a001f1916fbd4c9f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x49428f057dd9d20a8e4c6873e98afd8cd7146e3b"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "dSATA-WETH",
+	"Chain": "ethereum"
+}

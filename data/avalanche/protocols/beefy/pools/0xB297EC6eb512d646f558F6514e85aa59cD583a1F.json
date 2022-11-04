@@ -1,0 +1,21 @@
+{
+	"Id": "0xB297EC6eb512d646f558F6514e85aa59cD583a1F",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xB297EC6eb512d646f558F6514e85aa59cD583a1F",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x50E7e19281a80E3C24a07016eDB87EbA9fe8C6cA"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "QI-PNG LP",
+	"Chain": "avalanche"
+}

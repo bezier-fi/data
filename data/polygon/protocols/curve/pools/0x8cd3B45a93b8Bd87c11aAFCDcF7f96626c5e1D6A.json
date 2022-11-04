@@ -1,0 +1,24 @@
+{
+	"Id": "0x8cd3B45a93b8Bd87c11aAFCDcF7f96626c5e1D6A",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0x8cd3B45a93b8Bd87c11aAFCDcF7f96626c5e1D6A",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5c4b7CCBF908E64F32e12c6650ec0C96d717f03F"
+		},
+		{
+			"Address": "0x7D645CBbCAdE2A130bF1bf0528b8541d32D3f8Cf"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BNBMATIC-f",
+	"Chain": "polygon"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xd225d64ae6c0784413e9054b832c9a52a19fbfe5",
+	"Symbol": "dART-WETH",
+	"UnderlyingTokens": [
+		"0x5a4623f305a8d7904ed68638af3b4328678eddbf",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

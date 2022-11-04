@@ -1,0 +1,10 @@
+{
+	"Id": "0x43ae24960e5534731fc831386c07755a2dc33d47",
+	"Symbol": "SNX-WETH",
+	"UnderlyingTokens": [
+		"0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x70b0969a069516e117aa777fc87b819d0334a419",
+	"Symbol": "FF-WETH (0.30%)",
+	"UnderlyingTokens": [
+		"0x7e9d8f07a64e363e97a648904a89fb4cd5fb94cd",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

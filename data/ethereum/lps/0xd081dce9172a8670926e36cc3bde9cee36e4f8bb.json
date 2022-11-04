@@ -1,0 +1,10 @@
+{
+	"Id": "0xd081dce9172a8670926e36cc3bde9cee36e4f8bb",
+	"Symbol": "SAINT-WETH",
+	"UnderlyingTokens": [
+		"0x6fc5af63990aa9e5c5543f5cd8ed148bfa6d9d19",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

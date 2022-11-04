@@ -1,0 +1,24 @@
+{
+	"Id": "0x3c8e12f96b669b1c16b26ef8b0341ba285fedaf4",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x3c8e12f96b669b1c16b26ef8b0341ba285fedaf4",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x21d486f6b7eb7b556978c5a0c96c79a08eb841de"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GROK-WETH",
+	"Chain": "ethereum"
+}

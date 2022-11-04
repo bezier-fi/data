@@ -1,0 +1,24 @@
+{
+	"Id": "0xcdb4f70AD54940CFE42f4A74E34C2a965ae66931",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0xcdb4f70AD54940CFE42f4A74E34C2a965ae66931",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
+		},
+		{
+			"Address": "0x9cd6746665D9557e1B9a775819625711d0693439"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "LATAM Peso-f",
+	"Chain": "polygon"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xf0e3fdf48661cd10d56692f60bd4eccd01e9cf64",
+	"Symbol": "YAXIS-WETH",
+	"UnderlyingTokens": [
+		"0x0ada190c81b814548ddc2f6adc4a689ce7c1fe73",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x8dc00841ab66a7e3c12b9ada8d49ea86186d712a",
+	"Symbol": "sifu-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x29127fe04ffa4c32acac0ffe17280abd74eac313",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

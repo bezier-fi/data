@@ -1,0 +1,24 @@
+{
+	"Id": "0x645f75caa3eed4a2765713fa3af7e812d2c2ea07",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x645f75caa3eed4a2765713fa3af7e812d2c2ea07",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2a00bd4afcdbe197c5f5200ac301e99f34735840"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "HRDC-WETH",
+	"Chain": "ethereum"
+}

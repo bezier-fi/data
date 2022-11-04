@@ -1,0 +1,24 @@
+{
+	"Id": "0x18a5c094d811e1ef9116fa0bbc5cd23a70cfcddd",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x18a5c094d811e1ef9116fa0bbc5cd23a70cfcddd",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x00a8b738e453ffd858a7edf03bccfe20412f0eb0"
+		},
+		{
+			"Address": "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ALBT-OCEAN",
+	"Chain": "ethereum"
+}

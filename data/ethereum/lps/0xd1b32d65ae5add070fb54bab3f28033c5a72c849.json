@@ -1,0 +1,10 @@
+{
+	"Id": "0xd1b32d65ae5add070fb54bab3f28033c5a72c849",
+	"Symbol": "CENT-WETH",
+	"UnderlyingTokens": [
+		"0x08ba718f288c3b12b01146816bef9fa03cc635bc",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

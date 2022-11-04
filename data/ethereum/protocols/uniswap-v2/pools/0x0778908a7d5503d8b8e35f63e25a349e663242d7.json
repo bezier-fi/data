@@ -1,0 +1,24 @@
+{
+	"Id": "0x0778908a7d5503d8b8e35f63e25a349e663242d7",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x0778908a7d5503d8b8e35f63e25a349e663242d7",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1da65b1868e2d36d06d7a44dbd2be98e49e1f7f9"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TESTA-WETH",
+	"Chain": "ethereum"
+}

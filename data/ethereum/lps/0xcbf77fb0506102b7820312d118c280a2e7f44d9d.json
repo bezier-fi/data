@@ -1,0 +1,10 @@
+{
+	"Id": "0xcbf77fb0506102b7820312d118c280a2e7f44d9d",
+	"Symbol": "WETH-BMH",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe02a28be99a75131cd8873393af2944d03518202"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

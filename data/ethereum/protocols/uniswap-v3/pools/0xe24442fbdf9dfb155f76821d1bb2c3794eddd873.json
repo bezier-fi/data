@@ -1,0 +1,24 @@
+{
+	"Id": "0xe24442fbdf9dfb155f76821d1bb2c3794eddd873",
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Outputs": [
+		{
+			"Address": "0xe24442fbdf9dfb155f76821d1bb2c3794eddd873",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206"
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "NEXO-USDT (1.00%)",
+	"Chain": "ethereum"
+}

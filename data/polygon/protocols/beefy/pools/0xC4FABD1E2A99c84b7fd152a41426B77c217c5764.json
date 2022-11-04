@@ -1,0 +1,21 @@
+{
+	"Id": "0xC4FABD1E2A99c84b7fd152a41426B77c217c5764",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xC4FABD1E2A99c84b7fd152a41426B77c217c5764",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xAB1403De66519B898b38028357B74DF394a54a37"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ETH-renDOGE LP",
+	"Chain": "polygon"
+}

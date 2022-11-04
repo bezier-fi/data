@@ -1,0 +1,10 @@
+{
+	"Id": "0x5f0d3cb86429b12b550463a31d00c2259eb1d068",
+	"Symbol": "WETH-SLINKY",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc5c03e0027967fcfdc9488f334c7599c34703135"
+	],
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Chain": "ethereum"
+}

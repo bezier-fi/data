@@ -1,0 +1,24 @@
+{
+	"Id": "0x8b8d556155dd41761d2b17425d9c6d0ae275b153",
+	"Protocol": "7b290364-f36a-4024-8c2f-a2b5bc9b4ede",
+	"Outputs": [
+		{
+			"Address": "0x8b8d556155dd41761d2b17425d9c6d0ae275b153",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		},
+		{
+			"Address": "0xce041d2d752af9fc570252a33af1391c474ab37d"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-Fight",
+	"Chain": "ethereum"
+}

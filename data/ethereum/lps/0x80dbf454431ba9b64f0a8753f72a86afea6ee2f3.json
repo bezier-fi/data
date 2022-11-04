@@ -1,0 +1,10 @@
+{
+	"Id": "0x80dbf454431ba9b64f0a8753f72a86afea6ee2f3",
+	"Symbol": "QSP-WETH (0.30%)",
+	"UnderlyingTokens": [
+		"0x99ea4db9ee77acd40b119bd1dc4e33e1c070b80d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cc67e6a7-943c-4898-908b-d2a8fe99aca6",
+	"Chain": "ethereum"
+}

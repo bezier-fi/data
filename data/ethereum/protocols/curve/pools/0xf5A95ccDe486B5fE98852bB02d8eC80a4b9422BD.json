@@ -1,0 +1,24 @@
+{
+	"Id": "0xf5A95ccDe486B5fE98852bB02d8eC80a4b9422BD",
+	"Protocol": "43033a08-6266-4d1c-856c-ae33cff386b8",
+	"Outputs": [
+		{
+			"Address": "0xf5A95ccDe486B5fE98852bB02d8eC80a4b9422BD",
+			"Apr": 0.008105529,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x71dF9Dd3e658f0136c40E2E8eC3988a5226E9A67"
+		},
+		{
+			"Address": "0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GrapeFUSD3CRV-f",
+	"Chain": "ethereum"
+}

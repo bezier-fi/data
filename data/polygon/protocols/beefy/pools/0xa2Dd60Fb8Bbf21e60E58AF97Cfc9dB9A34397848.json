@@ -1,0 +1,21 @@
+{
+	"Id": "0xa2Dd60Fb8Bbf21e60E58AF97Cfc9dB9A34397848",
+	"Protocol": "2bf22ecb-e091-4f75-a50a-2cadd1273536",
+	"Outputs": [
+		{
+			"Address": "0xa2Dd60Fb8Bbf21e60E58AF97Cfc9dB9A34397848",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7AfcF11F3e2f01e71B7Cc6b8B5e707E42e6Ea397"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "QI-MAI LP",
+	"Chain": "polygon"
+}

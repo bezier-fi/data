@@ -1,0 +1,10 @@
+{
+	"Id": "0x70121a7bd866d915bf6e51da329604ab40cc1821",
+	"Symbol": "WETH-GrowRich",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf750ac43436f8637460ef3bcd3c2070d31545a62"
+	],
+	"Protocol": "3ff3275b-db56-4170-a51c-a4c0edd10ccd",
+	"Chain": "ethereum"
+}

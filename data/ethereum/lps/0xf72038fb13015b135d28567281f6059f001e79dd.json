@@ -1,0 +1,10 @@
+{
+	"Id": "0xf72038fb13015b135d28567281f6059f001e79dd",
+	"Symbol": "FALI-WETH",
+	"UnderlyingTokens": [
+		"0x1da5fe24326a0bdea6dd1e4144d5c4b618d14afe",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3ff3275b-db56-4170-a51c-a4c0edd10ccd",
+	"Chain": "ethereum"
+}

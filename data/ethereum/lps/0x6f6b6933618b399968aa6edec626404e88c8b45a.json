@@ -1,0 +1,10 @@
+{
+	"Id": "0x6f6b6933618b399968aa6edec626404e88c8b45a",
+	"Symbol": "WETH-QS",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf40a0c5eedfb16b99e58fb3aebaaa1447a6922e1"
+	],
+	"Protocol": "3ff3275b-db56-4170-a51c-a4c0edd10ccd",
+	"Chain": "ethereum"
+}

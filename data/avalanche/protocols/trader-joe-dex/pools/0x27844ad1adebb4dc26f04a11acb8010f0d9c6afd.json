@@ -1,0 +1,24 @@
+{
+	"Id": "0x27844ad1adebb4dc26f04a11acb8010f0d9c6afd",
+	"Protocol": "b4d10da4-ff4d-4424-8ad2-3d630c87b68d",
+	"Outputs": [
+		{
+			"Address": "0x27844ad1adebb4dc26f04a11acb8010f0d9c6afd",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc2fe177ebb0fca092a21d196435df92083063c86"
+		},
+		{
+			"Address": "0xec15a8dc744c75391d3608416b4d6e7a7ba9957f"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "COTi-Bits",
+	"Chain": "avalanche"
+}

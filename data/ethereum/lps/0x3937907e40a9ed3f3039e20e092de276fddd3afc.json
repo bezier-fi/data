@@ -1,0 +1,10 @@
+{
+	"Id": "0x3937907e40a9ed3f3039e20e092de276fddd3afc",
+	"Symbol": "SLICESWAP-WETH",
+	"UnderlyingTokens": [
+		"0x2a6fcd3d9df073c8591a7a9f3eee65435959720c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3ff3275b-db56-4170-a51c-a4c0edd10ccd",
+	"Chain": "ethereum"
+}

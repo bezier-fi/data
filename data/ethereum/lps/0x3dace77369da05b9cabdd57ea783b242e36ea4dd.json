@@ -1,0 +1,10 @@
+{
+	"Id": "0x3dace77369da05b9cabdd57ea783b242e36ea4dd",
+	"Symbol": "$Eleventh-WETH",
+	"UnderlyingTokens": [
+		"0x714c882a6e71396db4f2e5cdba6152c2a4a8d9f4",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3ff3275b-db56-4170-a51c-a4c0edd10ccd",
+	"Chain": "ethereum"
+}

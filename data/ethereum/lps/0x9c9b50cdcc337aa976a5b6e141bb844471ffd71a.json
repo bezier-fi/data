@@ -1,0 +1,10 @@
+{
+	"Id": "0x9c9b50cdcc337aa976a5b6e141bb844471ffd71a",
+	"Symbol": "SHIKOKU-WETH",
+	"UnderlyingTokens": [
+		"0x60f8df6b2ae5ff84b749b2cebcc4ccd3297625db",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3ff3275b-db56-4170-a51c-a4c0edd10ccd",
+	"Chain": "ethereum"
+}

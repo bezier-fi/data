@@ -1,0 +1,10 @@
+{
+	"Id": "0xbcbd21a42425b50196a6da8a20bb46e5d7071fde",
+	"Symbol": "MARCADE-WETH",
+	"UnderlyingTokens": [
+		"0x246ffe3d9c9e5d8529c3578923a27ca1b73350c7",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3ff3275b-db56-4170-a51c-a4c0edd10ccd",
+	"Chain": "ethereum"
+}

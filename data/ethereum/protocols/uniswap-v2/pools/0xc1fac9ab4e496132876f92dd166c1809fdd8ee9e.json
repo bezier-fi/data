@@ -1,0 +1,24 @@
+{
+	"Id": "0xc1fac9ab4e496132876f92dd166c1809fdd8ee9e",
+	"Protocol": "3ff3275b-db56-4170-a51c-a4c0edd10ccd",
+	"Outputs": [
+		{
+			"Address": "0xc1fac9ab4e496132876f92dd166c1809fdd8ee9e",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2caf4f219d436361e3004bfcafb558cd60250591"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "$VIBES-WETH",
+	"Chain": "ethereum"
+}

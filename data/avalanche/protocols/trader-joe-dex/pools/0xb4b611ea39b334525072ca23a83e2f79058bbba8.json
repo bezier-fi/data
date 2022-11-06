@@ -1,0 +1,24 @@
+{
+	"Id": "0xb4b611ea39b334525072ca23a83e2f79058bbba8",
+	"Protocol": "b4d10da4-ff4d-4424-8ad2-3d630c87b68d",
+	"Outputs": [
+		{
+			"Address": "0xb4b611ea39b334525072ca23a83e2f79058bbba8",
+			"Apr": 1.0004408,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc7198437980c041c805a1edcba50c1ce5db95118"
+		},
+		{
+			"Address": "0xce983dc04135107ca9e59fe8102e07da5d133937"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDT.e-SAC",
+	"Chain": "avalanche"
+}

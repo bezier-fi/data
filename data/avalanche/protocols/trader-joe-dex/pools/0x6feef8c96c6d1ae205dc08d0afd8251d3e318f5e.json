@@ -1,0 +1,24 @@
+{
+	"Id": "0x6feef8c96c6d1ae205dc08d0afd8251d3e318f5e",
+	"Protocol": "b4d10da4-ff4d-4424-8ad2-3d630c87b68d",
+	"Outputs": [
+		{
+			"Address": "0x6feef8c96c6d1ae205dc08d0afd8251d3e318f5e",
+			"Apr": 27.57651,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3947146f331b9ef6448064c6311cdd24d9467a1a"
+		},
+		{
+			"Address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CREAMA-WAVAX",
+	"Chain": "avalanche"
+}

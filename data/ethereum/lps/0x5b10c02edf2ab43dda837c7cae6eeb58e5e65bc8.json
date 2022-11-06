@@ -1,0 +1,10 @@
+{
+	"Id": "0x5b10c02edf2ab43dda837c7cae6eeb58e5e65bc8",
+	"Symbol": "INFOSEEK-WETH",
+	"UnderlyingTokens": [
+		"0xb9eeca08477d483e4cf247984aa72af3fdb439dd",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3ff3275b-db56-4170-a51c-a4c0edd10ccd",
+	"Chain": "ethereum"
+}

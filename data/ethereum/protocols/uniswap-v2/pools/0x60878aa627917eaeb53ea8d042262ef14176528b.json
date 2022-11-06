@@ -1,0 +1,24 @@
+{
+	"Id": "0x60878aa627917eaeb53ea8d042262ef14176528b",
+	"Protocol": "3ff3275b-db56-4170-a51c-a4c0edd10ccd",
+	"Outputs": [
+		{
+			"Address": "0x60878aa627917eaeb53ea8d042262ef14176528b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x10f10ab4d1d4da3ef49862e0269fd1f2a86a8491"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "$SBTV-WETH",
+	"Chain": "ethereum"
+}

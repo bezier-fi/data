@@ -1,0 +1,24 @@
+{
+	"Id": "0xbdfd85af4696c988f9ac488e6eeafea82a6ed4c7",
+	"Protocol": "b4d10da4-ff4d-4424-8ad2-3d630c87b68d",
+	"Outputs": [
+		{
+			"Address": "0xbdfd85af4696c988f9ac488e6eeafea82a6ed4c7",
+			"Apr": 0.008618115,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5106f787e8778a86d1928ed5ad0b0215dbfa00b8"
+		},
+		{
+			"Address": "0xc7198437980c041c805a1edcba50c1ce5db95118"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DAXE-USDT.e",
+	"Chain": "avalanche"
+}

@@ -1,0 +1,24 @@
+{
+	"Id": "0x20b51e412037bda462a75dc7d45f60c7b3238300",
+	"Protocol": "b4d10da4-ff4d-4424-8ad2-3d630c87b68d",
+	"Outputs": [
+		{
+			"Address": "0x20b51e412037bda462a75dc7d45f60c7b3238300",
+			"Apr": 0.9732841,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e"
+		},
+		{
+			"Address": "0xe48c74833ce6f18a8e54f73f1d02b8e9f9ff8caa"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC-COSMIC",
+	"Chain": "avalanche"
+}

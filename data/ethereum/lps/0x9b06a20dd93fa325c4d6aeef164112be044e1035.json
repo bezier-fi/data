@@ -1,0 +1,10 @@
+{
+	"Id": "0x9b06a20dd93fa325c4d6aeef164112be044e1035",
+	"Symbol": "GOATSECX-WETH",
+	"UnderlyingTokens": [
+		"0x11a981ded2661680ff0070b0d204ce1b071d2bfa",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3ff3275b-db56-4170-a51c-a4c0edd10ccd",
+	"Chain": "ethereum"
+}

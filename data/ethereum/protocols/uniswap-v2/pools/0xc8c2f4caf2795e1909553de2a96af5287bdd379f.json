@@ -1,0 +1,24 @@
+{
+	"Id": "0xc8c2f4caf2795e1909553de2a96af5287bdd379f",
+	"Protocol": "3ff3275b-db56-4170-a51c-a4c0edd10ccd",
+	"Outputs": [
+		{
+			"Address": "0xc8c2f4caf2795e1909553de2a96af5287bdd379f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0e07be94e1f4d677b7d2f9d443082afc4561e69d"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "VFI-WETH",
+	"Chain": "ethereum"
+}

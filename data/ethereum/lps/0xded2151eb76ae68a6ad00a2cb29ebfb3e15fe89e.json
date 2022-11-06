@@ -1,0 +1,10 @@
+{
+	"Id": "0xded2151eb76ae68a6ad00a2cb29ebfb3e15fe89e",
+	"Symbol": "SHINDO-WETH",
+	"UnderlyingTokens": [
+		"0x68618c34198276ffbba586102bb5ed8f278c86c1",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3ff3275b-db56-4170-a51c-a4c0edd10ccd",
+	"Chain": "ethereum"
+}

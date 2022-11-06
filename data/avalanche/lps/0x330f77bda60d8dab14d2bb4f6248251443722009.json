@@ -1,0 +1,10 @@
+{
+	"Id": "0x330f77bda60d8dab14d2bb4f6248251443722009",
+	"Symbol": "STG-USDC",
+	"UnderlyingTokens": [
+		"0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
+		"0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e"
+	],
+	"Protocol": "b4d10da4-ff4d-4424-8ad2-3d630c87b68d",
+	"Chain": "avalanche"
+}

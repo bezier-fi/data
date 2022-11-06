@@ -1,0 +1,10 @@
+{
+	"Id": "0xbc6406f1351f3f8dd207801b43ac257a9ef4ea03",
+	"Symbol": "$ZOUG-WETH",
+	"UnderlyingTokens": [
+		"0x73c89ce360914ef2bdcedd1b5aab44fda28b0dd3",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3ff3275b-db56-4170-a51c-a4c0edd10ccd",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x74ef6a9a7ae35899eac8e2f2427c1a604d66ae7b",
+	"Symbol": "USDC.e-SOL",
+	"UnderlyingTokens": [
+		"0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+		"0xfe6b19286885a4f7f55adad09c3cd1f906d2478f"
+	],
+	"Protocol": "b4d10da4-ff4d-4424-8ad2-3d630c87b68d",
+	"Chain": "avalanche"
+}

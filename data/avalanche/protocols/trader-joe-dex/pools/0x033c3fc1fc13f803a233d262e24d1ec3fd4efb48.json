@@ -1,0 +1,24 @@
+{
+	"Id": "0x033c3fc1fc13f803a233d262e24d1ec3fd4efb48",
+	"Protocol": "b4d10da4-ff4d-4424-8ad2-3d630c87b68d",
+	"Outputs": [
+		{
+			"Address": "0x033c3fc1fc13f803a233d262e24d1ec3fd4efb48",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3ee97d514bbef95a2f110e6b9b73824719030f7a"
+		},
+		{
+			"Address": "0xce1bffbd5374dac86a2893119683f4911a2f7814"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "sSPELL-SPELL",
+	"Chain": "avalanche"
+}

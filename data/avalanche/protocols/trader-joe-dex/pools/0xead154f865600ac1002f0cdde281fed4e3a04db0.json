@@ -1,0 +1,24 @@
+{
+	"Id": "0xead154f865600ac1002f0cdde281fed4e3a04db0",
+	"Protocol": "b4d10da4-ff4d-4424-8ad2-3d630c87b68d",
+	"Outputs": [
+		{
+			"Address": "0xead154f865600ac1002f0cdde281fed4e3a04db0",
+			"Apr": 7.0791335,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6241af3817db48a7f9e19fd9446d78e50936d275"
+		},
+		{
+			"Address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "JPEG-WAVAX",
+	"Chain": "avalanche"
+}

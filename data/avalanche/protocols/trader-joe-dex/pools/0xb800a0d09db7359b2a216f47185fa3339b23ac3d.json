@@ -1,0 +1,24 @@
+{
+	"Id": "0xb800a0d09db7359b2a216f47185fa3339b23ac3d",
+	"Protocol": "b4d10da4-ff4d-4424-8ad2-3d630c87b68d",
+	"Outputs": [
+		{
+			"Address": "0xb800a0d09db7359b2a216f47185fa3339b23ac3d",
+			"Apr": 0.25543952,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xad4a51ace0ae87c7e08fc58566630a367caa2691"
+		},
+		{
+			"Address": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "EGG-USDC",
+	"Chain": "avalanche"
+}

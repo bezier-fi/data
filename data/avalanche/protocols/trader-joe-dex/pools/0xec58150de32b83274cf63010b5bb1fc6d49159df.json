@@ -1,0 +1,24 @@
+{
+	"Id": "0xec58150de32b83274cf63010b5bb1fc6d49159df",
+	"Protocol": "b4d10da4-ff4d-4424-8ad2-3d630c87b68d",
+	"Outputs": [
+		{
+			"Address": "0xec58150de32b83274cf63010b5bb1fc6d49159df",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x531780face85306877d7e1f05d713d1b50a37f7a"
+		},
+		{
+			"Address": "0xfe6b19286885a4f7f55adad09c3cd1f906d2478f"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "snowSOL-SOL",
+	"Chain": "avalanche"
+}

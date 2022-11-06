@@ -1,0 +1,24 @@
+{
+	"Id": "0x82ea2b49db9f883d4c44474ad71a3465967ffc79",
+	"Protocol": "b4d10da4-ff4d-4424-8ad2-3d630c87b68d",
+	"Outputs": [
+		{
+			"Address": "0x82ea2b49db9f883d4c44474ad71a3465967ffc79",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x27b0a85db6fe072ecf3b1f67ec24496a7c39bc93"
+		},
+		{
+			"Address": "0x84a8297720fe27c71ffccfa3f685e4d9fc377afc"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BRAIN-SKULL",
+	"Chain": "avalanche"
+}

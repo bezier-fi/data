@@ -1,0 +1,24 @@
+{
+	"Id": "0x61da1b9ad8a1b5fc37e4c3f20daff3142bb009cd",
+	"Protocol": "3ff3275b-db56-4170-a51c-a4c0edd10ccd",
+	"Outputs": [
+		{
+			"Address": "0x61da1b9ad8a1b5fc37e4c3f20daff3142bb009cd",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0dea2c7149367c4324347a05ada6400975105d7c"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DTUB-WETH",
+	"Chain": "ethereum"
+}

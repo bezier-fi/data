@@ -1,0 +1,24 @@
+{
+	"Id": "0x3746832109b07a87fbe66fcda8ead0887f88320d",
+	"Protocol": "3ff3275b-db56-4170-a51c-a4c0edd10ccd",
+	"Outputs": [
+		{
+			"Address": "0x3746832109b07a87fbe66fcda8ead0887f88320d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1bd89d55c1b89a964d708e45bf5b2799c5873b2d"
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Hachiko-USDC",
+	"Chain": "ethereum"
+}

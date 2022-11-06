@@ -1,0 +1,24 @@
+{
+	"Id": "0xed3de16407d14ca05096f86d3d75ced4762b0549",
+	"Protocol": "b4d10da4-ff4d-4424-8ad2-3d630c87b68d",
+	"Outputs": [
+		{
+			"Address": "0xed3de16407d14ca05096f86d3d75ced4762b0549",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5b4192b5636f7b6ab6d963865963e92bbba5aac0"
+		},
+		{
+			"Address": "0xa6dbd0f6b39a2383d4558dd23e84c0210a007151"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BEE-TEST",
+	"Chain": "avalanche"
+}

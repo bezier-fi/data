@@ -1,0 +1,24 @@
+{
+	"Id": "0x967b05d883ae5837e734836731a46976ad1f324e",
+	"Protocol": "b4d10da4-ff4d-4424-8ad2-3d630c87b68d",
+	"Outputs": [
+		{
+			"Address": "0x967b05d883ae5837e734836731a46976ad1f324e",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664"
+		},
+		{
+			"Address": "0xf49fe07b97bbfaa474614a43259d460e4c84f6fa"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC.e-UNCLE",
+	"Chain": "avalanche"
+}

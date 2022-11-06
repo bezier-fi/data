@@ -1,0 +1,24 @@
+{
+	"Id": "0xbca892e5f463af9a27d571cc620cf3ebd998e276",
+	"Protocol": "b4d10da4-ff4d-4424-8ad2-3d630c87b68d",
+	"Outputs": [
+		{
+			"Address": "0xbca892e5f463af9a27d571cc620cf3ebd998e276",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x781655d802670bba3c89aebaaea59d3182fd755d"
+		},
+		{
+			"Address": "0xa56d382c5aa9774d4eb98f1500670d3049fede9b"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "JLP-JLP",
+	"Chain": "avalanche"
+}

@@ -1,0 +1,24 @@
+{
+	"Id": "0xa4e1d420a4fffa38108514c7f4e021dd14696ece",
+	"Protocol": "b4d10da4-ff4d-4424-8ad2-3d630c87b68d",
+	"Outputs": [
+		{
+			"Address": "0xa4e1d420a4fffa38108514c7f4e021dd14696ece",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x366c02225c7afa52fd591f8816810ab707301871"
+		},
+		{
+			"Address": "0x86124f2a9fddd6badf5b2e8c5f8e101b78a16cfb"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Victorinox-WAVAX",
+	"Chain": "avalanche"
+}

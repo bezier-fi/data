@@ -1,0 +1,24 @@
+{
+	"Id": "0x595a35f6226c3a14815871dd62ed98c623f04b3d",
+	"Protocol": "3ff3275b-db56-4170-a51c-a4c0edd10ccd",
+	"Outputs": [
+		{
+			"Address": "0x595a35f6226c3a14815871dd62ed98c623f04b3d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		},
+		{
+			"Address": "0xe493f107bdba58fcb45bce7e5ed753272edd6361"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-EthMoon",
+	"Chain": "ethereum"
+}

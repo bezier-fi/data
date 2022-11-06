@@ -1,0 +1,24 @@
+{
+	"Id": "0xc70da874def0ea266d71522017baec5ecd346d28",
+	"Protocol": "3ff3275b-db56-4170-a51c-a4c0edd10ccd",
+	"Outputs": [
+		{
+			"Address": "0xc70da874def0ea266d71522017baec5ecd346d28",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3c99278e636959f6445eec0bd0f577be486d7ea0"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "German chariot-WETH",
+	"Chain": "ethereum"
+}

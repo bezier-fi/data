@@ -1,0 +1,24 @@
+{
+	"Id": "0x87dee1cc9ffd464b79e058ba20387c1984aed86a",
+	"Protocol": "b4d10da4-ff4d-4424-8ad2-3d630c87b68d",
+	"Outputs": [
+		{
+			"Address": "0x87dee1cc9ffd464b79e058ba20387c1984aed86a",
+			"Apr": 0.5189843,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7"
+		},
+		{
+			"Address": "0xd586e7f844cea2f87f50152665bcbc2c279d8d70"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WAVAX-DAI.e",
+	"Chain": "avalanche"
+}

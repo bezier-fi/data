@@ -1,0 +1,21 @@
+{
+	"Id": "0x585e7bc75089ed111b656faa7aeb1104f5b96c15",
+	"Protocol": "b4d10da4-ff4d-4424-8ad2-3d630c87b68d",
+	"Outputs": [
+		{
+			"Address": "0x585e7bc75089ed111b656faa7aeb1104f5b96c15",
+			"Apr": 0.092083625,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5947bb275c521040051d82396192181b413227a3"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "jLINK",
+	"Chain": "avalanche"
+}

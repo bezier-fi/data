@@ -1,0 +1,10 @@
+{
+	"Id": "0x3b39ad010bfebdcb562926a1d833b08a8537540b",
+	"Symbol": "WETH-STRNGR (1.00%)",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xdc0327d50e6c73db2f8117760592c8bbf1cdcf38"
+	],
+	"Protocol": "e90c3d02-5045-48e4-89c1-75c700d695e2",
+	"Chain": "ethereum"
+}

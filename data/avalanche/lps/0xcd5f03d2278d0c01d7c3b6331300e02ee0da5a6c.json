@@ -1,0 +1,10 @@
+{
+	"Id": "0xcd5f03d2278d0c01d7c3b6331300e02ee0da5a6c",
+	"Symbol": "PINT-USDC",
+	"UnderlyingTokens": [
+		"0x3af0eb8bcbd4c4c6e26e309c4e47af59bad5fc2f",
+		"0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e"
+	],
+	"Protocol": "b4d10da4-ff4d-4424-8ad2-3d630c87b68d",
+	"Chain": "avalanche"
+}

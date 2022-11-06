@@ -1,0 +1,10 @@
+{
+	"Id": "0x6bebd3f59eb27d789f9fa84d20e1c8587c46be5e",
+	"Symbol": "WETH-RichDad",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd862b482333715776ef6409706bf908e86cfc6fb"
+	],
+	"Protocol": "3ff3275b-db56-4170-a51c-a4c0edd10ccd",
+	"Chain": "ethereum"
+}

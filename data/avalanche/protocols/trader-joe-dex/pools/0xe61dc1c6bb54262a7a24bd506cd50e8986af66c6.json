@@ -1,0 +1,24 @@
+{
+	"Id": "0xe61dc1c6bb54262a7a24bd506cd50e8986af66c6",
+	"Protocol": "b4d10da4-ff4d-4424-8ad2-3d630c87b68d",
+	"Outputs": [
+		{
+			"Address": "0xe61dc1c6bb54262a7a24bd506cd50e8986af66c6",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd"
+		},
+		{
+			"Address": "0xe7462905b79370389e8180e300f58f63d35b725f"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "JOE-yyJOE",
+	"Chain": "avalanche"
+}

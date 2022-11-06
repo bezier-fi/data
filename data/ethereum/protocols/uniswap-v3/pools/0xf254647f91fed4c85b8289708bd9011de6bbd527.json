@@ -1,0 +1,24 @@
+{
+	"Id": "0xf254647f91fed4c85b8289708bd9011de6bbd527",
+	"Protocol": "e90c3d02-5045-48e4-89c1-75c700d695e2",
+	"Outputs": [
+		{
+			"Address": "0xf254647f91fed4c85b8289708bd9011de6bbd527",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4d4f3715050571a447fffa2cd4cf091c7014ca5c"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SUMMER-WETH (1.00%)",
+	"Chain": "ethereum"
+}

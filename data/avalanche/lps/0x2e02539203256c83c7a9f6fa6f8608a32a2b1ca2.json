@@ -1,0 +1,10 @@
+{
+	"Id": "0x2e02539203256c83c7a9f6fa6f8608a32a2b1ca2",
+	"Symbol": "USDC.e-USDT.e",
+	"UnderlyingTokens": [
+		"0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+		"0xc7198437980c041c805a1edcba50c1ce5db95118"
+	],
+	"Protocol": "b4d10da4-ff4d-4424-8ad2-3d630c87b68d",
+	"Chain": "avalanche"
+}

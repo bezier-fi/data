@@ -1,0 +1,24 @@
+{
+	"Id": "0xb1fa0a3b990ca348d7013df2ea9ea8469a90a8a8",
+	"Protocol": "b4d10da4-ff4d-4424-8ad2-3d630c87b68d",
+	"Outputs": [
+		{
+			"Address": "0xb1fa0a3b990ca348d7013df2ea9ea8469a90a8a8",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6cf7e3814dd76ac20086359802dd2eba5d99012d"
+		},
+		{
+			"Address": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Yuzu-USDC.e",
+	"Chain": "avalanche"
+}

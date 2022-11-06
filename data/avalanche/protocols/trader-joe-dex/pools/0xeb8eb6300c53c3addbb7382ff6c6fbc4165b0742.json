@@ -1,0 +1,24 @@
+{
+	"Id": "0xeb8eb6300c53c3addbb7382ff6c6fbc4165b0742",
+	"Protocol": "b4d10da4-ff4d-4424-8ad2-3d630c87b68d",
+	"Outputs": [
+		{
+			"Address": "0xeb8eb6300c53c3addbb7382ff6c6fbc4165b0742",
+			"Apr": 0.09772626,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x264c1383ea520f73dd837f915ef3a732e204a493"
+		},
+		{
+			"Address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BNB-WAVAX",
+	"Chain": "avalanche"
+}

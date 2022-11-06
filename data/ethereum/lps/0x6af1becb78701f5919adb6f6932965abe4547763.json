@@ -1,0 +1,10 @@
+{
+	"Id": "0x6af1becb78701f5919adb6f6932965abe4547763",
+	"Symbol": "KELPIE-WETH",
+	"UnderlyingTokens": [
+		"0x672d7b3333d0f069a28b73a268bc6eaec65f2e1a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3ff3275b-db56-4170-a51c-a4c0edd10ccd",
+	"Chain": "ethereum"
+}

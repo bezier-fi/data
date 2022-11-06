@@ -1,0 +1,10 @@
+{
+	"Id": "0xc0294fafdee273f4d8d01db52cc0c65102bc081f",
+	"Symbol": "USDC.e-WMATIC",
+	"UnderlyingTokens": [
+		"0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+		"0xf2f13f0b7008ab2fa4a2418f4ccc3684e49d20eb"
+	],
+	"Protocol": "b4d10da4-ff4d-4424-8ad2-3d630c87b68d",
+	"Chain": "avalanche"
+}

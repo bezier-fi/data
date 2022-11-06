@@ -1,0 +1,24 @@
+{
+	"Id": "0x974b022018ed9f19272cc618ef38c8ffe640c280",
+	"Protocol": "b4d10da4-ff4d-4424-8ad2-3d630c87b68d",
+	"Outputs": [
+		{
+			"Address": "0x974b022018ed9f19272cc618ef38c8ffe640c280",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9a8e0217cd870783c3f2317985c57bf570969153"
+		},
+		{
+			"Address": "0xe48c74833ce6f18a8e54f73f1d02b8e9f9ff8caa"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MAGIC-COSMIC",
+	"Chain": "avalanche"
+}

@@ -1,0 +1,21 @@
+{
+	"Id": "0xc22f01ddc8010ee05574028528614634684ec29e",
+	"Protocol": "b4d10da4-ff4d-4424-8ad2-3d630c87b68d",
+	"Outputs": [
+		{
+			"Address": "0xc22f01ddc8010ee05574028528614634684ec29e",
+			"Apr": 0.883269,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "jAVAX",
+	"Chain": "avalanche"
+}

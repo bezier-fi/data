@@ -1,0 +1,24 @@
+{
+	"Id": "0x1766249d4b8f285465fdda8defa9fe8082fe19de",
+	"Protocol": "b4d10da4-ff4d-4424-8ad2-3d630c87b68d",
+	"Outputs": [
+		{
+			"Address": "0x1766249d4b8f285465fdda8defa9fe8082fe19de",
+			"Apr": 0.31247678,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3cd3d19ab5e88a07dbbc683ff0a7ed38e833fd3e"
+		},
+		{
+			"Address": "0x50b7545627a5162f82a992c33b87adc75187b218"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BVIC-WBTC.e",
+	"Chain": "avalanche"
+}

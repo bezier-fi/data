@@ -1,0 +1,24 @@
+{
+	"Id": "0xe7c9065eef88462c2e1d9e3208b7d300e6b81c39",
+	"Protocol": "b4d10da4-ff4d-4424-8ad2-3d630c87b68d",
+	"Outputs": [
+		{
+			"Address": "0xe7c9065eef88462c2e1d9e3208b7d300e6b81c39",
+			"Apr": 1.5390501,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9c3254bb4f7f6a05a4aaf2cadce592c848d043c1"
+		},
+		{
+			"Address": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Alpha-USDC",
+	"Chain": "avalanche"
+}

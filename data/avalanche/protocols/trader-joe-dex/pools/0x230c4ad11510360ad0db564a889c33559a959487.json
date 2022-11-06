@@ -1,0 +1,24 @@
+{
+	"Id": "0x230c4ad11510360ad0db564a889c33559a959487",
+	"Protocol": "b4d10da4-ff4d-4424-8ad2-3d630c87b68d",
+	"Outputs": [
+		{
+			"Address": "0x230c4ad11510360ad0db564a889c33559a959487",
+			"Apr": 2.0139284,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x027dbca046ca156de9622cd1e2d907d375e53aa7"
+		},
+		{
+			"Address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "AMPL-WAVAX",
+	"Chain": "avalanche"
+}

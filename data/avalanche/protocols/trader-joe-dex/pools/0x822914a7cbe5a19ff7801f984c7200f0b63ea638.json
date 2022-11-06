@@ -1,0 +1,24 @@
+{
+	"Id": "0x822914a7cbe5a19ff7801f984c7200f0b63ea638",
+	"Protocol": "b4d10da4-ff4d-4424-8ad2-3d630c87b68d",
+	"Outputs": [
+		{
+			"Address": "0x822914a7cbe5a19ff7801f984c7200f0b63ea638",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc65bc1e906771e105fbacbd8dfe3862ee7be378e"
+		},
+		{
+			"Address": "0xcc0213cb713bed8f89c0225196e1afc38705b85d"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CHAM-AOEA",
+	"Chain": "avalanche"
+}

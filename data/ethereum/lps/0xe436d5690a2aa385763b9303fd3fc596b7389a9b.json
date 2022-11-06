@@ -1,0 +1,10 @@
+{
+	"Id": "0xe436d5690a2aa385763b9303fd3fc596b7389a9b",
+	"Symbol": "TOR-WETH",
+	"UnderlyingTokens": [
+		"0x6d59c19fd8d8ee63422b1da1d3ef589ad8a4a7f2",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3ff3275b-db56-4170-a51c-a4c0edd10ccd",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,24 @@
+{
+	"Id": "0xda4d79cfbf987992471fb50b00ca88c9e8ba10a0",
+	"Protocol": "b4d10da4-ff4d-4424-8ad2-3d630c87b68d",
+	"Outputs": [
+		{
+			"Address": "0xda4d79cfbf987992471fb50b00ca88c9e8ba10a0",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7"
+		},
+		{
+			"Address": "0xf538030ba4b39e35a3576bd6698cfcc6ac34a81f"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDt-NEMO",
+	"Chain": "avalanche"
+}

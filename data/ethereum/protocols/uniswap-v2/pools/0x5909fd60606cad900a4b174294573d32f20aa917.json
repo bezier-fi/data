@@ -1,0 +1,24 @@
+{
+	"Id": "0x5909fd60606cad900a4b174294573d32f20aa917",
+	"Protocol": "3ff3275b-db56-4170-a51c-a4c0edd10ccd",
+	"Outputs": [
+		{
+			"Address": "0x5909fd60606cad900a4b174294573d32f20aa917",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		},
+		{
+			"Address": "0xd81d1c1e5fd4b1ce6991e55dea50a77a80545a84"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-LUSAIL ",
+	"Chain": "ethereum"
+}

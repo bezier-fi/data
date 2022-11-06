@@ -1,0 +1,24 @@
+{
+	"Id": "0x3724d88e8989e68df165079f34997f9c7d8ba451",
+	"Protocol": "b4d10da4-ff4d-4424-8ad2-3d630c87b68d",
+	"Outputs": [
+		{
+			"Address": "0x3724d88e8989e68df165079f34997f9c7d8ba451",
+			"Apr": 3.3309762,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x69b31d508f755d77d5d1dc063f6c4f800a0bf8de"
+		},
+		{
+			"Address": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "RTFY-USDC",
+	"Chain": "avalanche"
+}

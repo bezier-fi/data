@@ -1,0 +1,24 @@
+{
+	"Id": "0x5b159312efe6953a52a8ff3bb351c6afc26e667d",
+	"Protocol": "b4d10da4-ff4d-4424-8ad2-3d630c87b68d",
+	"Outputs": [
+		{
+			"Address": "0x5b159312efe6953a52a8ff3bb351c6afc26e667d",
+			"Apr": 0.12057691,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x340990358ae38008181b6db6156d9021a2d425da"
+		},
+		{
+			"Address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ORBIT-WAVAX",
+	"Chain": "avalanche"
+}

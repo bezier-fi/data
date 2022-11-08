@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0xff45a7988fffd72c4e8f9a58fcc17c73643f70b0",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0xff45a7988fffd72c4e8f9a58fcc17c73643f70b0",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xff45a7988fffd72c4e8f9a58fcc17c73643f70b0"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC-BFG",
+	"Chain": "avalanche"
+}

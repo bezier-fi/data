@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0x861f1b5c08d781608bb371a36ecacd49a22f2c16",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0x861f1b5c08d781608bb371a36ecacd49a22f2c16",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x861f1b5c08d781608bb371a36ecacd49a22f2c16"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SHIT-BUSD",
+	"Chain": "avalanche"
+}

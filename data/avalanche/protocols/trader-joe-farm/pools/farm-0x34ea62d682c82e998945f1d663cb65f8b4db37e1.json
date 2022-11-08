@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0x34ea62d682c82e998945f1d663cb65f8b4db37e1",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0x34ea62d682c82e998945f1d663cb65f8b4db37e1",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x34ea62d682c82e998945f1d663cb65f8b4db37e1"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ZOO-WAVAX",
+	"Chain": "avalanche"
+}

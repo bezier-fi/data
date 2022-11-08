@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0x3e5f198b46f3de52761b02d4ac8ef4ceceac22d6",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0x3e5f198b46f3de52761b02d4ac8ef4ceceac22d6",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3e5f198b46f3de52761b02d4ac8ef4ceceac22d6"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MIM-FORT",
+	"Chain": "avalanche"
+}

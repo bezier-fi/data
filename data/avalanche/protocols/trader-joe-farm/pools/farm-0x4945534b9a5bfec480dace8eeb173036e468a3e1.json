@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0x4945534b9a5bfec480dace8eeb173036e468a3e1",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0x4945534b9a5bfec480dace8eeb173036e468a3e1",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4945534b9a5bfec480dace8eeb173036e468a3e1"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "APEX-WAVAX",
+	"Chain": "avalanche"
+}

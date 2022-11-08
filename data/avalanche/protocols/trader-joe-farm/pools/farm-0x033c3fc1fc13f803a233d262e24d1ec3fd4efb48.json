@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0x033c3fc1fc13f803a233d262e24d1ec3fd4efb48",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0x033c3fc1fc13f803a233d262e24d1ec3fd4efb48",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x033c3fc1fc13f803a233d262e24d1ec3fd4efb48"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "sSPELL-SPELL",
+	"Chain": "avalanche"
+}

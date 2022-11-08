@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0xfc9ba2077e95c7aa078484e5b86f312d0e41f44b",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0xfc9ba2077e95c7aa078484e5b86f312d0e41f44b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xfc9ba2077e95c7aa078484e5b86f312d0e41f44b"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "KALM-USDC",
+	"Chain": "avalanche"
+}

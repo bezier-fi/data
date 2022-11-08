@@ -1,13 +1,5 @@
 [
 	{
-		"Id": "0xc22f01ddc8010ee05574028528614634684ec29e",
-		"Symbol": "jAVAX"
-	},
-	{
-		"Id": "0xc988c170d0e38197dc634a45bf00169c7aa7ca19",
-		"Symbol": "jDAI"
-	},
-	{
 		"Id": "0x50ac14a3ee0a4cb6ef829f7ad65b2da5493e99d2",
 		"Symbol": "jUSDTNative"
 	},
@@ -16,32 +8,8 @@
 		"Symbol": "jLINK"
 	},
 	{
-		"Id": "0x3fe38b7b610c0acd10296fef69d9b18eb7a9eb1f",
-		"Symbol": "jWBTC"
-	},
-	{
-		"Id": "0xc146783a59807154f92084f9243eb139d58da696",
-		"Symbol": "jXJOE"
-	},
-	{
-		"Id": "0xed6aaf91a2b084bd594dbd1245be3691f9f637ac",
-		"Symbol": "jUSDC"
-	},
-	{
-		"Id": "0x29472d511808ce925f501d25f9ee9effd2328db2",
-		"Symbol": "jUSDCNative"
-	},
-	{
 		"Id": "0xbfdbe35168953c9d29bdf9a0043f902f233c76e0",
 		"Symbol": "jJOE"
-	},
-	{
-		"Id": "0x929f5cab61dfec79a5431a7734a68d714c4633fa",
-		"Symbol": "jWETH"
-	},
-	{
-		"Id": "0x13a7a6c167d75badd316ddeef6c526c8463a090f",
-		"Symbol": "jBTC"
 	},
 	{
 		"Id": "0xce095a9657a02025081e0607c8d8b081c76a75ea",
@@ -50,5 +18,37 @@
 	{
 		"Id": "0x8b650e26404ac6837539ca96812f0123601e4448",
 		"Symbol": "jUSDT"
+	},
+	{
+		"Id": "0xc988c170d0e38197dc634a45bf00169c7aa7ca19",
+		"Symbol": "jDAI"
+	},
+	{
+		"Id": "0xc22f01ddc8010ee05574028528614634684ec29e",
+		"Symbol": "jAVAX"
+	},
+	{
+		"Id": "0x13a7a6c167d75badd316ddeef6c526c8463a090f",
+		"Symbol": "jBTC"
+	},
+	{
+		"Id": "0x929f5cab61dfec79a5431a7734a68d714c4633fa",
+		"Symbol": "jWETH"
+	},
+	{
+		"Id": "0x29472d511808ce925f501d25f9ee9effd2328db2",
+		"Symbol": "jUSDCNative"
+	},
+	{
+		"Id": "0xed6aaf91a2b084bd594dbd1245be3691f9f637ac",
+		"Symbol": "jUSDC"
+	},
+	{
+		"Id": "0x3fe38b7b610c0acd10296fef69d9b18eb7a9eb1f",
+		"Symbol": "jWBTC"
+	},
+	{
+		"Id": "0xc146783a59807154f92084f9243eb139d58da696",
+		"Symbol": "jXJOE"
 	}
 ]

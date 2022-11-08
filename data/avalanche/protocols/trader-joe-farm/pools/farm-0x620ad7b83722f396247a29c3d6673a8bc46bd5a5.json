@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0x620ad7b83722f396247a29c3d6673a8bc46bd5a5",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0x620ad7b83722f396247a29c3d6673a8bc46bd5a5",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x620ad7b83722f396247a29c3d6673a8bc46bd5a5"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDt-RUX",
+	"Chain": "avalanche"
+}

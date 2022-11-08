@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0xb1fa0a3b990ca348d7013df2ea9ea8469a90a8a8",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0xb1fa0a3b990ca348d7013df2ea9ea8469a90a8a8",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb1fa0a3b990ca348d7013df2ea9ea8469a90a8a8"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Yuzu-USDC.e",
+	"Chain": "avalanche"
+}

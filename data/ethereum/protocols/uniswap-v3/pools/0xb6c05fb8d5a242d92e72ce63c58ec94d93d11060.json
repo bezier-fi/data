@@ -1,0 +1,24 @@
+{
+	"Id": "0xb6c05fb8d5a242d92e72ce63c58ec94d93d11060",
+	"Protocol": "8081bf08-24b8-4a0f-b594-4b61ea64c4c7",
+	"Outputs": [
+		{
+			"Address": "0xb6c05fb8d5a242d92e72ce63c58ec94d93d11060",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa4f2fdb0a5842d62bbaa5b903f09687b85e4bf59"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TBOT-WETH (1.00%)",
+	"Chain": "ethereum"
+}

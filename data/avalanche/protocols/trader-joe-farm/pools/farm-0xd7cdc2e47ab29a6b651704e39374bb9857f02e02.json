@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0xd7cdc2e47ab29a6b651704e39374bb9857f02e02",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0xd7cdc2e47ab29a6b651704e39374bb9857f02e02",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xd7cdc2e47ab29a6b651704e39374bb9857f02e02"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MIM-LF",
+	"Chain": "avalanche"
+}

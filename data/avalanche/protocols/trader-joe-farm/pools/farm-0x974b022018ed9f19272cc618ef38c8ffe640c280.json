@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0x974b022018ed9f19272cc618ef38c8ffe640c280",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0x974b022018ed9f19272cc618ef38c8ffe640c280",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x974b022018ed9f19272cc618ef38c8ffe640c280"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MAGIC-COSMIC",
+	"Chain": "avalanche"
+}

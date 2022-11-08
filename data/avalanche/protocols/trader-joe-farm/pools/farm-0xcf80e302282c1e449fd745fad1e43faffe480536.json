@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0xcf80e302282c1e449fd745fad1e43faffe480536",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0xcf80e302282c1e449fd745fad1e43faffe480536",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xcf80e302282c1e449fd745fad1e43faffe480536"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "JOE-zJoe",
+	"Chain": "avalanche"
+}

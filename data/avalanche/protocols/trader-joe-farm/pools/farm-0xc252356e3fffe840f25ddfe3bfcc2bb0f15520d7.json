@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0xc252356e3fffe840f25ddfe3bfcc2bb0f15520d7",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0xc252356e3fffe840f25ddfe3bfcc2bb0f15520d7",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc252356e3fffe840f25ddfe3bfcc2bb0f15520d7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MUSDC-SLV",
+	"Chain": "avalanche"
+}

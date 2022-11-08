@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0xdff4475e419b34d1619bb9547a14aae7eb37993a",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0xdff4475e419b34d1619bb9547a14aae7eb37993a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xdff4475e419b34d1619bb9547a14aae7eb37993a"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH.e-yyAVAX",
+	"Chain": "avalanche"
+}

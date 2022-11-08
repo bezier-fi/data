@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0xde8ab3276317fc59e4fc7e9a2786f4894f958953",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0xde8ab3276317fc59e4fc7e9a2786f4894f958953",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xde8ab3276317fc59e4fc7e9a2786f4894f958953"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "LiPOGE-WAVAX",
+	"Chain": "avalanche"
+}

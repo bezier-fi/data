@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0x95189f25b4609120f72783e883640216e92732da",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0x95189f25b4609120f72783e883640216e92732da",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x95189f25b4609120f72783e883640216e92732da"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "THOR-WAVAX",
+	"Chain": "avalanche"
+}

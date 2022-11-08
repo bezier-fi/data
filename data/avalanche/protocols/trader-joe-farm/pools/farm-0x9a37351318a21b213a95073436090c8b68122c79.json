@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0x9a37351318a21b213a95073436090c8b68122c79",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0x9a37351318a21b213a95073436090c8b68122c79",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9a37351318a21b213a95073436090c8b68122c79"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MND-WAVAX",
+	"Chain": "avalanche"
+}

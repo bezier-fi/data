@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0xe90e8b880cbe62d3f2958c9280dbc139465bd9a1",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0xe90e8b880cbe62d3f2958c9280dbc139465bd9a1",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xe90e8b880cbe62d3f2958c9280dbc139465bd9a1"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "JEWEL-WAVAX",
+	"Chain": "avalanche"
+}

@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0x8e8258861af2f377458c6dc62b6b78068a50fa99",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0x8e8258861af2f377458c6dc62b6b78068a50fa99",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8e8258861af2f377458c6dc62b6b78068a50fa99"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SafeMoonA-WAVAX",
+	"Chain": "avalanche"
+}

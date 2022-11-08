@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0xa4d164340136505408262bcda711845d7107e55c",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0xa4d164340136505408262bcda711845d7107e55c",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa4d164340136505408262bcda711845d7107e55c"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "UNCL-WAVAX",
+	"Chain": "avalanche"
+}

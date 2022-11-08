@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0x8d5db5d48f5c46a4263dc46112b5d2e3c5626423",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0x8d5db5d48f5c46a4263dc46112b5d2e3c5626423",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8d5db5d48f5c46a4263dc46112b5d2e3c5626423"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDt-USDC",
+	"Chain": "avalanche"
+}

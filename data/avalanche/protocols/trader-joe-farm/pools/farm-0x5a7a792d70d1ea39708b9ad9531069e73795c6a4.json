@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0x5a7a792d70d1ea39708b9ad9531069e73795c6a4",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0x5a7a792d70d1ea39708b9ad9531069e73795c6a4",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5a7a792d70d1ea39708b9ad9531069e73795c6a4"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "NXUSD-WXT",
+	"Chain": "avalanche"
+}

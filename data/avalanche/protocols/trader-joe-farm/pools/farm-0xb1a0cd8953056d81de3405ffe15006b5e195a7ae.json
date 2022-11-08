@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0xb1a0cd8953056d81de3405ffe15006b5e195a7ae",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0xb1a0cd8953056d81de3405ffe15006b5e195a7ae",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb1a0cd8953056d81de3405ffe15006b5e195a7ae"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MEAD-WAVAX",
+	"Chain": "avalanche"
+}

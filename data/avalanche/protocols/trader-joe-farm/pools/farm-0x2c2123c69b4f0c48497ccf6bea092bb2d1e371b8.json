@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0x2c2123c69b4f0c48497ccf6bea092bb2d1e371b8",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0x2c2123c69b4f0c48497ccf6bea092bb2d1e371b8",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2c2123c69b4f0c48497ccf6bea092bb2d1e371b8"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FTOMB-WAVAX",
+	"Chain": "avalanche"
+}

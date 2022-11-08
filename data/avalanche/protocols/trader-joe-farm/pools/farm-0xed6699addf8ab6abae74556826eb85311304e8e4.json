@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0xed6699addf8ab6abae74556826eb85311304e8e4",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0xed6699addf8ab6abae74556826eb85311304e8e4",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xed6699addf8ab6abae74556826eb85311304e8e4"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TAZ-TAZOR",
+	"Chain": "avalanche"
+}

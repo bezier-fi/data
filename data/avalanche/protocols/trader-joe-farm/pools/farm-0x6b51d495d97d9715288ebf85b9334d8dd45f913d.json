@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0x6b51d495d97d9715288ebf85b9334d8dd45f913d",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0x6b51d495d97d9715288ebf85b9334d8dd45f913d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6b51d495d97d9715288ebf85b9334d8dd45f913d"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CheemsX-WAVAX",
+	"Chain": "avalanche"
+}

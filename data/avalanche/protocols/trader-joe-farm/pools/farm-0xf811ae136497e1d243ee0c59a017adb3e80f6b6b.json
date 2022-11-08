@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0xf811ae136497e1d243ee0c59a017adb3e80f6b6b",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0xf811ae136497e1d243ee0c59a017adb3e80f6b6b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xf811ae136497e1d243ee0c59a017adb3e80f6b6b"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "XIO-USDC",
+	"Chain": "avalanche"
+}

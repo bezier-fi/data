@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0xd3d477df7f63a2623464ff5be6746981fded026f",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0xd3d477df7f63a2623464ff5be6746981fded026f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xd3d477df7f63a2623464ff5be6746981fded026f"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GRAPE-WINE",
+	"Chain": "avalanche"
+}

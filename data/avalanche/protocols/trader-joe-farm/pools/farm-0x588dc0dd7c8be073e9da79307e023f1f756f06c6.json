@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0x588dc0dd7c8be073e9da79307e023f1f756f06c6",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0x588dc0dd7c8be073e9da79307e023f1f756f06c6",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x588dc0dd7c8be073e9da79307e023f1f756f06c6"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MIM-OT-wMEMO-24FEB2022",
+	"Chain": "avalanche"
+}

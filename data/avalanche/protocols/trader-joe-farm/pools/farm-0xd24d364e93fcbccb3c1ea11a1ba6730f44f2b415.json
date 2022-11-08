@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0xd24d364e93fcbccb3c1ea11a1ba6730f44f2b415",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0xd24d364e93fcbccb3c1ea11a1ba6730f44f2b415",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xd24d364e93fcbccb3c1ea11a1ba6730f44f2b415"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "KDAO-WAVAX",
+	"Chain": "avalanche"
+}

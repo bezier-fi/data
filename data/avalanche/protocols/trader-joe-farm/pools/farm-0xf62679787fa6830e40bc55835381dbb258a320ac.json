@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0xf62679787fa6830e40bc55835381dbb258a320ac",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0xf62679787fa6830e40bc55835381dbb258a320ac",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xf62679787fa6830e40bc55835381dbb258a320ac"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MIND+-WAVAX",
+	"Chain": "avalanche"
+}

@@ -1,0 +1,24 @@
+{
+	"Id": "0x393f4022dc0b42ed6f0a01e7be7a492b45ec43e6",
+	"Protocol": "8081bf08-24b8-4a0f-b594-4b61ea64c4c7",
+	"Outputs": [
+		{
+			"Address": "0x393f4022dc0b42ed6f0a01e7be7a492b45ec43e6",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599"
+		},
+		{
+			"Address": "0xebf2096e01455108badcbaf86ce30b6e5a72aa52"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WBTC-XIDR (0.30%)",
+	"Chain": "ethereum"
+}

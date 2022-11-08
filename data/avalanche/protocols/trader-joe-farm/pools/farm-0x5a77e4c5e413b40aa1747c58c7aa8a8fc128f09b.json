@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0x5a77e4c5e413b40aa1747c58c7aa8a8fc128f09b",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0x5a77e4c5e413b40aa1747c58c7aa8a8fc128f09b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5a77e4c5e413b40aa1747c58c7aa8a8fc128f09b"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MIM-AFARMER",
+	"Chain": "avalanche"
+}

@@ -1,0 +1,24 @@
+{
+	"Id": "0x739aC5024eF9CA1719B8f64D4A6286fB0E5F91fb",
+	"Protocol": "a8f9ce6f-0688-44c2-8e4f-b30f6029ae2d",
+	"Outputs": [
+		{
+			"Address": "0x71C4657A23f1376607dc0faf3a0cD8A45c1d6537",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9DC228b8E18451D4c76c4a053F0933f6a63920F6"
+		},
+		{
+			"Address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "crvATNft-f",
+	"Chain": "polygon"
+}

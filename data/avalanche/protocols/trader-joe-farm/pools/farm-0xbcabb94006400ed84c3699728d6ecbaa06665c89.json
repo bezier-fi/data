@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0xbcabb94006400ed84c3699728d6ecbaa06665c89",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0xbcabb94006400ed84c3699728d6ecbaa06665c89",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xbcabb94006400ed84c3699728d6ecbaa06665c89"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DGNX-WAVAX",
+	"Chain": "avalanche"
+}

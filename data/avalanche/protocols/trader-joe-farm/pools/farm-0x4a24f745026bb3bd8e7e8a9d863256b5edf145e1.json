@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0x4a24f745026bb3bd8e7e8a9d863256b5edf145e1",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0x4a24f745026bb3bd8e7e8a9d863256b5edf145e1",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4a24f745026bb3bd8e7e8a9d863256b5edf145e1"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WAVAX-CINU",
+	"Chain": "avalanche"
+}

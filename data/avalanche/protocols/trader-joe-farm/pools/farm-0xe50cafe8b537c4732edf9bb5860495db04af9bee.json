@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0xe50cafe8b537c4732edf9bb5860495db04af9bee",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0xe50cafe8b537c4732edf9bb5860495db04af9bee",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xe50cafe8b537c4732edf9bb5860495db04af9bee"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC.e-SUV",
+	"Chain": "avalanche"
+}

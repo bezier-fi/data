@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0xead154f865600ac1002f0cdde281fed4e3a04db0",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0xead154f865600ac1002f0cdde281fed4e3a04db0",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xead154f865600ac1002f0cdde281fed4e3a04db0"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "JPEG-WAVAX",
+	"Chain": "avalanche"
+}

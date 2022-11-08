@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0x82845b52b53c80595bbf78129126bd3e6fc2c1df",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0x82845b52b53c80595bbf78129126bd3e6fc2c1df",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x82845b52b53c80595bbf78129126bd3e6fc2c1df"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WLRS-USDC.e",
+	"Chain": "avalanche"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "farm-0x82922e6fbe83547c5e2e0229815942a2108e4624",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0x82922e6fbe83547c5e2e0229815942a2108e4624",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		},
+		{
+			"Address": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x82922e6fbe83547c5e2e0229815942a2108e4624"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "OT-JLP-28DEC2023-PENDLE",
+	"Chain": "avalanche"
+}

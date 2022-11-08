@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0xde7e5fd310a0dd52af66a75f2b60594637b0854e",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0xde7e5fd310a0dd52af66a75f2b60594637b0854e",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xde7e5fd310a0dd52af66a75f2b60594637b0854e"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WAVAX-CHAM",
+	"Chain": "avalanche"
+}

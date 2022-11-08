@@ -1,0 +1,27 @@
+{
+	"Id": "farm-0xa6908c7e3be8f4cd2eb704b5cb73583ebf56ee62",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0xa6908c7e3be8f4cd2eb704b5cb73583ebf56ee62",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		},
+		{
+			"Address": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa6908c7e3be8f4cd2eb704b5cb73583ebf56ee62"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDT.e-DAI.e",
+	"Chain": "avalanche"
+}

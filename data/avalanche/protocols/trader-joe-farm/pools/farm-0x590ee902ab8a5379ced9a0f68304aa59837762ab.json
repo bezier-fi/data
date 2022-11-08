@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0x590ee902ab8a5379ced9a0f68304aa59837762ab",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0x590ee902ab8a5379ced9a0f68304aa59837762ab",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x590ee902ab8a5379ced9a0f68304aa59837762ab"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WAVAX-TOC",
+	"Chain": "avalanche"
+}

@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0x59bd5b0ededb3f4f5b37cb16f07636152fdb418c",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0x59bd5b0ededb3f4f5b37cb16f07636152fdb418c",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x59bd5b0ededb3f4f5b37cb16f07636152fdb418c"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "OTO-WAVAX",
+	"Chain": "avalanche"
+}

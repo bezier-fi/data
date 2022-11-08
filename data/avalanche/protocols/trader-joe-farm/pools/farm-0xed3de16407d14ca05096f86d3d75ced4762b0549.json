@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0xed3de16407d14ca05096f86d3d75ced4762b0549",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0xed3de16407d14ca05096f86d3d75ced4762b0549",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xed3de16407d14ca05096f86d3d75ced4762b0549"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BEE-TEST",
+	"Chain": "avalanche"
+}

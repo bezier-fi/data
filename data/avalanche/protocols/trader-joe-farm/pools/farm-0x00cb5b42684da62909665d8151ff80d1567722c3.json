@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0x00cb5b42684da62909665d8151ff80d1567722c3",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0x00cb5b42684da62909665d8151ff80d1567722c3",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x00cb5b42684da62909665d8151ff80d1567722c3"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MIM-WINE",
+	"Chain": "avalanche"
+}

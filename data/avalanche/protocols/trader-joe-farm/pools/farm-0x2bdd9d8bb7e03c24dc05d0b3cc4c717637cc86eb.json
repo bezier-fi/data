@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0x2bdd9d8bb7e03c24dc05d0b3cc4c717637cc86eb",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0x2bdd9d8bb7e03c24dc05d0b3cc4c717637cc86eb",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2bdd9d8bb7e03c24dc05d0b3cc4c717637cc86eb"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MIM-JKL",
+	"Chain": "avalanche"
+}

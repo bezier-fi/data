@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0xf8c6e50152390d8bfa656aeefd01fbde77fef0ba",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0xf8c6e50152390d8bfa656aeefd01fbde77fef0ba",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xf8c6e50152390d8bfa656aeefd01fbde77fef0ba"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "NNT-USDC",
+	"Chain": "avalanche"
+}

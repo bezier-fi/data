@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0x27844ad1adebb4dc26f04a11acb8010f0d9c6afd",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0x27844ad1adebb4dc26f04a11acb8010f0d9c6afd",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x27844ad1adebb4dc26f04a11acb8010f0d9c6afd"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "COTi-Bits",
+	"Chain": "avalanche"
+}

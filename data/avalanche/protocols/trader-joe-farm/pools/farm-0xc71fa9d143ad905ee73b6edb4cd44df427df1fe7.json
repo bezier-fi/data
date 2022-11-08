@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0xc71fa9d143ad905ee73b6edb4cd44df427df1fe7",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0xc71fa9d143ad905ee73b6edb4cd44df427df1fe7",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc71fa9d143ad905ee73b6edb4cd44df427df1fe7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WAVAX-FIRE",
+	"Chain": "avalanche"
+}

@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0xd81425a1e9a09015b965243f803ef30b6aa605c3",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0xd81425a1e9a09015b965243f803ef30b6aa605c3",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xd81425a1e9a09015b965243f803ef30b6aa605c3"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SNCT-WAVAX",
+	"Chain": "avalanche"
+}

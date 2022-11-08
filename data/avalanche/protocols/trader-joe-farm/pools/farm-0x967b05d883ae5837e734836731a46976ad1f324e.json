@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0x967b05d883ae5837e734836731a46976ad1f324e",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0x967b05d883ae5837e734836731a46976ad1f324e",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x967b05d883ae5837e734836731a46976ad1f324e"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC.e-UNCLE",
+	"Chain": "avalanche"
+}

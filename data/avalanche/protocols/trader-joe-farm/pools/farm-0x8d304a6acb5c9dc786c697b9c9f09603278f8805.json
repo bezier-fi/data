@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0x8d304a6acb5c9dc786c697b9c9f09603278f8805",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0x8d304a6acb5c9dc786c697b9c9f09603278f8805",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8d304a6acb5c9dc786c697b9c9f09603278f8805"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ZEUS-WAVAX",
+	"Chain": "avalanche"
+}

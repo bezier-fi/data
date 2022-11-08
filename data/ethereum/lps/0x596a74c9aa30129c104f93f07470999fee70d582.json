@@ -1,0 +1,10 @@
+{
+	"Id": "0x596a74c9aa30129c104f93f07470999fee70d582",
+	"Symbol": "FTY-WETH",
+	"UnderlyingTokens": [
+		"0x9ecae7e7515c3edc5576d0cedf5edc9f3029190c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "74ec8c7c-0be1-455f-b813-1c95b9abe84b",
+	"Chain": "ethereum"
+}

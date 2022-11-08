@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0xd1cadc1738d6a550ceca6d851135cd280fbd1275",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0xd1cadc1738d6a550ceca6d851135cd280fbd1275",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xd1cadc1738d6a550ceca6d851135cd280fbd1275"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "XETA-USDC",
+	"Chain": "avalanche"
+}

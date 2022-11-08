@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0x81d138e21d808ffe33abc0159023441608a63ffe",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0x81d138e21d808ffe33abc0159023441608a63ffe",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x81d138e21d808ffe33abc0159023441608a63ffe"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DAMO-WAVAX",
+	"Chain": "avalanche"
+}

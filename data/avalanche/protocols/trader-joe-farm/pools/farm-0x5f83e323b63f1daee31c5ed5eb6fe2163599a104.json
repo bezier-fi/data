@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0x5f83e323b63f1daee31c5ed5eb6fe2163599a104",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0x5f83e323b63f1daee31c5ed5eb6fe2163599a104",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5f83e323b63f1daee31c5ed5eb6fe2163599a104"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC.e-BOG",
+	"Chain": "avalanche"
+}

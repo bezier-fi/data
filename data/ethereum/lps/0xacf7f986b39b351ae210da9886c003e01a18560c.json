@@ -1,0 +1,10 @@
+{
+	"Id": "0xacf7f986b39b351ae210da9886c003e01a18560c",
+	"Symbol": "DAI-OOG",
+	"UnderlyingTokens": [
+		"0x6b175474e89094c44da98b954eedeac495271d0f",
+		"0xb72a91ac402eec1977a6b2bd02d3f0aa1a261b93"
+	],
+	"Protocol": "74ec8c7c-0be1-455f-b813-1c95b9abe84b",
+	"Chain": "ethereum"
+}

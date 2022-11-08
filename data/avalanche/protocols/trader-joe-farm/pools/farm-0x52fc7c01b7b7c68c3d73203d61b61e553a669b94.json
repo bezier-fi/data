@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0x52fc7c01b7b7c68c3d73203d61b61e553a669b94",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0x52fc7c01b7b7c68c3d73203d61b61e553a669b94",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x52fc7c01b7b7c68c3d73203d61b61e553a669b94"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BioFi-WAVAX",
+	"Chain": "avalanche"
+}

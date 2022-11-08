@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0x19995ad68fea76c448c2a5e2134313cf72d16dcc",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0x19995ad68fea76c448c2a5e2134313cf72d16dcc",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x19995ad68fea76c448c2a5e2134313cf72d16dcc"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DOUB-USDC",
+	"Chain": "avalanche"
+}

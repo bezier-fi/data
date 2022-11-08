@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0xbf052f471870de1280ec34178321c16efdb152e7",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0xbf052f471870de1280ec34178321c16efdb152e7",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xbf052f471870de1280ec34178321c16efdb152e7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BDSCI1-APE-X",
+	"Chain": "avalanche"
+}

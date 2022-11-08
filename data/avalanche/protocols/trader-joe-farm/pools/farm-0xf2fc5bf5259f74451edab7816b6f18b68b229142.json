@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0xf2fc5bf5259f74451edab7816b6f18b68b229142",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0xf2fc5bf5259f74451edab7816b6f18b68b229142",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xf2fc5bf5259f74451edab7816b6f18b68b229142"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CRAB-MIM",
+	"Chain": "avalanche"
+}

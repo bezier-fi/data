@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0xde1971e07a686e41b68510023b51d6ccde563b71",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0xde1971e07a686e41b68510023b51d6ccde563b71",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xde1971e07a686e41b68510023b51d6ccde563b71"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "LIQR-WAVAX",
+	"Chain": "avalanche"
+}

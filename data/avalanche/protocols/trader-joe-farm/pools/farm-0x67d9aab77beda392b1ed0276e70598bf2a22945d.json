@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0x67d9aab77beda392b1ed0276e70598bf2a22945d",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0x67d9aab77beda392b1ed0276e70598bf2a22945d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x67d9aab77beda392b1ed0276e70598bf2a22945d"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MU-MUG",
+	"Chain": "avalanche"
+}

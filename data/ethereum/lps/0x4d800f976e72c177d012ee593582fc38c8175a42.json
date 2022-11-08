@@ -1,0 +1,10 @@
+{
+	"Id": "0x4d800f976e72c177d012ee593582fc38c8175a42",
+	"Symbol": "HIKARU-WETH",
+	"UnderlyingTokens": [
+		"0x968ddd1886acc761f702a79d002cf1aa2e329aee",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "74ec8c7c-0be1-455f-b813-1c95b9abe84b",
+	"Chain": "ethereum"
+}

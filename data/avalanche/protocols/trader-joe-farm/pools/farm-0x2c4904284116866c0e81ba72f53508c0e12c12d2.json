@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0x2c4904284116866c0e81ba72f53508c0e12c12d2",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0x2c4904284116866c0e81ba72f53508c0e12c12d2",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2c4904284116866c0e81ba72f53508c0e12c12d2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MPL-USDt",
+	"Chain": "avalanche"
+}

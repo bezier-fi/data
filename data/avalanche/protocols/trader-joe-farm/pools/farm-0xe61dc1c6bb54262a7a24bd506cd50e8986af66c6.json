@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0xe61dc1c6bb54262a7a24bd506cd50e8986af66c6",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0xe61dc1c6bb54262a7a24bd506cd50e8986af66c6",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xe61dc1c6bb54262a7a24bd506cd50e8986af66c6"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "JOE-yyJOE",
+	"Chain": "avalanche"
+}

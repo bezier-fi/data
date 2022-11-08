@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0x3acd2ff1c3450bc8a9765afd8d0dea8e40822c86",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0x3acd2ff1c3450bc8a9765afd8d0dea8e40822c86",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3acd2ff1c3450bc8a9765afd8d0dea8e40822c86"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WAVAX-PENDLE",
+	"Chain": "avalanche"
+}

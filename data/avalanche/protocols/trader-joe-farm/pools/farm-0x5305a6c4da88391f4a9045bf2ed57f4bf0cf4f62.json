@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0x5305a6c4da88391f4a9045bf2ed57f4bf0cf4f62",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0x5305a6c4da88391f4a9045bf2ed57f4bf0cf4f62",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5305a6c4da88391f4a9045bf2ed57f4bf0cf4f62"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WAVAX-AXIAL",
+	"Chain": "avalanche"
+}

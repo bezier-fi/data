@@ -1,0 +1,27 @@
+{
+	"Id": "farm-0x91b62fb52c9fdf27ad18bbe1c4a8ff52df6104cc",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0x91b62fb52c9fdf27ad18bbe1c4a8ff52df6104cc",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		},
+		{
+			"Address": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x91b62fb52c9fdf27ad18bbe1c4a8ff52df6104cc"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "HUSKY-WAVAX",
+	"Chain": "avalanche"
+}

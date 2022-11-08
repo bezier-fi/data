@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0xf9466c04eb790f46476fce4a66b4b9a4e204c484",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0xf9466c04eb790f46476fce4a66b4b9a4e204c484",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xf9466c04eb790f46476fce4a66b4b9a4e204c484"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Acash-WAVAX",
+	"Chain": "avalanche"
+}

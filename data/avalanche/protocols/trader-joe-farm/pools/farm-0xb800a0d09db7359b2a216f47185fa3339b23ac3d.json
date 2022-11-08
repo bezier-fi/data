@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0xb800a0d09db7359b2a216f47185fa3339b23ac3d",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0xb800a0d09db7359b2a216f47185fa3339b23ac3d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb800a0d09db7359b2a216f47185fa3339b23ac3d"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "EGG-USDC",
+	"Chain": "avalanche"
+}

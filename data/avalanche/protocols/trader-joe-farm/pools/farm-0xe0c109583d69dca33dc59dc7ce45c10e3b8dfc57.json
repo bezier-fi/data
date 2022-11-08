@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0xe0c109583d69dca33dc59dc7ce45c10e3b8dfc57",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0xe0c109583d69dca33dc59dc7ce45c10e3b8dfc57",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xe0c109583d69dca33dc59dc7ce45c10e3b8dfc57"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BLOOD-WAVAX",
+	"Chain": "avalanche"
+}

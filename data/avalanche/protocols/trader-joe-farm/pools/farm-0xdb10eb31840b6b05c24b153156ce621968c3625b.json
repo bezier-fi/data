@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0xdb10eb31840b6b05c24b153156ce621968c3625b",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0xdb10eb31840b6b05c24b153156ce621968c3625b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xdb10eb31840b6b05c24b153156ce621968c3625b"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MILK-CROP",
+	"Chain": "avalanche"
+}

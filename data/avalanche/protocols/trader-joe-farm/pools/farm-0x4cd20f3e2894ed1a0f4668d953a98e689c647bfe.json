@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0x4cd20f3e2894ed1a0f4668d953a98e689c647bfe",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0x4cd20f3e2894ed1a0f4668d953a98e689c647bfe",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4cd20f3e2894ed1a0f4668d953a98e689c647bfe"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "VPND-WAVAX",
+	"Chain": "avalanche"
+}

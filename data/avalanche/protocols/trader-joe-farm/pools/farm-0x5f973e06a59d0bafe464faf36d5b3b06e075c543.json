@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0x5f973e06a59d0bafe464faf36d5b3b06e075c543",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0x5f973e06a59d0bafe464faf36d5b3b06e075c543",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5f973e06a59d0bafe464faf36d5b3b06e075c543"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC.e-OT-qiAVAX-28DEC2023",
+	"Chain": "avalanche"
+}

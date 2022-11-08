@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0xb4b611ea39b334525072ca23a83e2f79058bbba8",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0xb4b611ea39b334525072ca23a83e2f79058bbba8",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb4b611ea39b334525072ca23a83e2f79058bbba8"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDT.e-SAC",
+	"Chain": "avalanche"
+}

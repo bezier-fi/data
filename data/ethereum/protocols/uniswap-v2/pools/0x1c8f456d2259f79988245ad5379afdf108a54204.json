@@ -1,0 +1,24 @@
+{
+	"Id": "0x1c8f456d2259f79988245ad5379afdf108a54204",
+	"Protocol": "74ec8c7c-0be1-455f-b813-1c95b9abe84b",
+	"Outputs": [
+		{
+			"Address": "0x1c8f456d2259f79988245ad5379afdf108a54204",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9195a48747c33b800673411afe06ba236d1d49ac"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "APESTV-WETH",
+	"Chain": "ethereum"
+}

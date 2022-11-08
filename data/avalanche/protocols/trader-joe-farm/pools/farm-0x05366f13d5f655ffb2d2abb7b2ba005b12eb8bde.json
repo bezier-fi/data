@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0x05366f13d5f655ffb2d2abb7b2ba005b12eb8bde",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0x05366f13d5f655ffb2d2abb7b2ba005b12eb8bde",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x05366f13d5f655ffb2d2abb7b2ba005b12eb8bde"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "QI-WAVAX",
+	"Chain": "avalanche"
+}

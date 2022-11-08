@@ -1,0 +1,10 @@
+{
+	"Id": "0xfc29796477a83f3d517084bbe78d7bc4cf3865cc",
+	"Symbol": "CATHER-WETH",
+	"UnderlyingTokens": [
+		"0x773d35da997ee219f167185b2d83a7603a2de32b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "74ec8c7c-0be1-455f-b813-1c95b9abe84b",
+	"Chain": "ethereum"
+}

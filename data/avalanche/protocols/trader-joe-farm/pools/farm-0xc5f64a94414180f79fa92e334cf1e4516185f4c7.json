@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0xc5f64a94414180f79fa92e334cf1e4516185f4c7",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0xc5f64a94414180f79fa92e334cf1e4516185f4c7",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc5f64a94414180f79fa92e334cf1e4516185f4c7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SIFU-WAVAX",
+	"Chain": "avalanche"
+}

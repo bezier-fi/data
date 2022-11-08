@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0xc3040ca327eff4d645fd8823b2132dee97e48943",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0xc3040ca327eff4d645fd8823b2132dee97e48943",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc3040ca327eff4d645fd8823b2132dee97e48943"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GOD-WAVAX",
+	"Chain": "avalanche"
+}

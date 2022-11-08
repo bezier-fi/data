@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0x00a386afb1524b572de7ea0a3aaad25cdf7e749a",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0x00a386afb1524b572de7ea0a3aaad25cdf7e749a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x00a386afb1524b572de7ea0a3aaad25cdf7e749a"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WAVAX-YEL",
+	"Chain": "avalanche"
+}

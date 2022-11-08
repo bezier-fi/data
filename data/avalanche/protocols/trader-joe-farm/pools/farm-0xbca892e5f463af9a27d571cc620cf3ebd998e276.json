@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0xbca892e5f463af9a27d571cc620cf3ebd998e276",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0xbca892e5f463af9a27d571cc620cf3ebd998e276",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xbca892e5f463af9a27d571cc620cf3ebd998e276"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "JLP-JLP",
+	"Chain": "avalanche"
+}

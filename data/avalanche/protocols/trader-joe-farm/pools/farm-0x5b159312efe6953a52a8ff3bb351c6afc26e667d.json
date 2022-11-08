@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0x5b159312efe6953a52a8ff3bb351c6afc26e667d",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0x5b159312efe6953a52a8ff3bb351c6afc26e667d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5b159312efe6953a52a8ff3bb351c6afc26e667d"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ORBIT-WAVAX",
+	"Chain": "avalanche"
+}

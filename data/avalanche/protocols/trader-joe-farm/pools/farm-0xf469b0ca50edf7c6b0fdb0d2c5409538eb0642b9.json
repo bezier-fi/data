@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0xf469b0ca50edf7c6b0fdb0d2c5409538eb0642b9",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0xf469b0ca50edf7c6b0fdb0d2c5409538eb0642b9",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xf469b0ca50edf7c6b0fdb0d2c5409538eb0642b9"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC.e-RUG",
+	"Chain": "avalanche"
+}

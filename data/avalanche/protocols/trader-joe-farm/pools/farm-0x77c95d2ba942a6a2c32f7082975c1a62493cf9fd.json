@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0x77c95d2ba942a6a2c32f7082975c1a62493cf9fd",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0x77c95d2ba942a6a2c32f7082975c1a62493cf9fd",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x77c95d2ba942a6a2c32f7082975c1a62493cf9fd"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BBB-AAA",
+	"Chain": "avalanche"
+}

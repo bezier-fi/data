@@ -1,0 +1,10 @@
+{
+	"Id": "0x0b9f5cef1ee41f8cccaa8c3b4c922ab406c980cc",
+	"Symbol": "SHIK-WETH",
+	"UnderlyingTokens": [
+		"0x24da31e7bb182cb2cabfef1d88db19c2ae1f5572",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "74ec8c7c-0be1-455f-b813-1c95b9abe84b",
+	"Chain": "ethereum"
+}

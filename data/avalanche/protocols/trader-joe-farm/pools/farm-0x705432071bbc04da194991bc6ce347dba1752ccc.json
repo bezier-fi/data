@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0x705432071bbc04da194991bc6ce347dba1752ccc",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0x705432071bbc04da194991bc6ce347dba1752ccc",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x705432071bbc04da194991bc6ce347dba1752ccc"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WAVAX-snowAVAX",
+	"Chain": "avalanche"
+}

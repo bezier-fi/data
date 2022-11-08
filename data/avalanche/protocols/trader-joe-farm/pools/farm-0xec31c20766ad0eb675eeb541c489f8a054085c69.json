@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0xec31c20766ad0eb675eeb541c489f8a054085c69",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0xec31c20766ad0eb675eeb541c489f8a054085c69",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xec31c20766ad0eb675eeb541c489f8a054085c69"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BFC-WAVAX",
+	"Chain": "avalanche"
+}

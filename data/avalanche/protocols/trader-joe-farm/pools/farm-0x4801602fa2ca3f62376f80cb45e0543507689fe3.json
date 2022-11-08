@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0x4801602fa2ca3f62376f80cb45e0543507689fe3",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0x4801602fa2ca3f62376f80cb45e0543507689fe3",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4801602fa2ca3f62376f80cb45e0543507689fe3"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BRO-WAVAX",
+	"Chain": "avalanche"
+}

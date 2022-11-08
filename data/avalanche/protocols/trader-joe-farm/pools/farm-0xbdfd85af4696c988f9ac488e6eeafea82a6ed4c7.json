@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0xbdfd85af4696c988f9ac488e6eeafea82a6ed4c7",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0xbdfd85af4696c988f9ac488e6eeafea82a6ed4c7",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xbdfd85af4696c988f9ac488e6eeafea82a6ed4c7"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DAXE-USDT.e",
+	"Chain": "avalanche"
+}

@@ -1,0 +1,24 @@
+{
+	"Id": "0x16c97bf7e08ca84f58b6dc13359726889b35981e",
+	"Protocol": "74ec8c7c-0be1-455f-b813-1c95b9abe84b",
+	"Outputs": [
+		{
+			"Address": "0x16c97bf7e08ca84f58b6dc13359726889b35981e",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x29cd78954c023cd9bffc435a816e568edaf732af"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "OKAPI-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0xd81cb1f7bce1d539f3de6e7431a637cb5c66669d",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0xd81cb1f7bce1d539f3de6e7431a637cb5c66669d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xd81cb1f7bce1d539f3de6e7431a637cb5c66669d"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "POLAR-WAVAX",
+	"Chain": "avalanche"
+}

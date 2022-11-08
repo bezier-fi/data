@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0x31dd619c6eeb077dcf648cdba734d8b14e687d28",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0x31dd619c6eeb077dcf648cdba734d8b14e687d28",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x31dd619c6eeb077dcf648cdba734d8b14e687d28"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PGALA-USDC.e",
+	"Chain": "avalanche"
+}

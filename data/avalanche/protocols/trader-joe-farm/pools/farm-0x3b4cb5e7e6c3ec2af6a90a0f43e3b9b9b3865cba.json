@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0x3b4cb5e7e6c3ec2af6a90a0f43e3b9b9b3865cba",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0x3b4cb5e7e6c3ec2af6a90a0f43e3b9b9b3865cba",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3b4cb5e7e6c3ec2af6a90a0f43e3b9b9b3865cba"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "XETA-USDt",
+	"Chain": "avalanche"
+}

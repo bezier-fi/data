@@ -1,0 +1,24 @@
+{
+	"Id": "0x3a94241205689adf040db28b9bce8ade54e10b4f",
+	"Protocol": "8081bf08-24b8-4a0f-b594-4b61ea64c4c7",
+	"Outputs": [
+		{
+			"Address": "0x3a94241205689adf040db28b9bce8ade54e10b4f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x09a84f900205b1ac5f3214d3220c7317fd5f5b77"
+		},
+		{
+			"Address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FREC-USDT (0.05%)",
+	"Chain": "polygon"
+}

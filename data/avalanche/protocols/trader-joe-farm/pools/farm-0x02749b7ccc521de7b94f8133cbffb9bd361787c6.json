@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0x02749b7ccc521de7b94f8133cbffb9bd361787c6",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0x02749b7ccc521de7b94f8133cbffb9bd361787c6",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x02749b7ccc521de7b94f8133cbffb9bd361787c6"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DD-CC",
+	"Chain": "avalanche"
+}

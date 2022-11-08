@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0x8db868ed3ba599d1110287f506b85fabcdf6fc4c",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0x8db868ed3ba599d1110287f506b85fabcdf6fc4c",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8db868ed3ba599d1110287f506b85fabcdf6fc4c"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "LiPOGE-USDT",
+	"Chain": "avalanche"
+}

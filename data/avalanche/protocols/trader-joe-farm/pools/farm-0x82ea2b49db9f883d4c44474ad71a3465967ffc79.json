@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0x82ea2b49db9f883d4c44474ad71a3465967ffc79",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0x82ea2b49db9f883d4c44474ad71a3465967ffc79",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x82ea2b49db9f883d4c44474ad71a3465967ffc79"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BRAIN-SKULL",
+	"Chain": "avalanche"
+}

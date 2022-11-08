@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0x911d86adb119624cf36a645a16ec74cceec9ee96",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0x911d86adb119624cf36a645a16ec74cceec9ee96",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x911d86adb119624cf36a645a16ec74cceec9ee96"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "LiPOGE-LiPOGE",
+	"Chain": "avalanche"
+}

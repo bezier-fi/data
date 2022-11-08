@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0x15ab2dae41ab3edfc470dee83e322c82a200fe08",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0x15ab2dae41ab3edfc470dee83e322c82a200fe08",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x15ab2dae41ab3edfc470dee83e322c82a200fe08"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SLIME-WAVAX",
+	"Chain": "avalanche"
+}

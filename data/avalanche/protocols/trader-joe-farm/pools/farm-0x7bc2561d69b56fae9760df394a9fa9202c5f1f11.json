@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0x7bc2561d69b56fae9760df394a9fa9202c5f1f11",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0x7bc2561d69b56fae9760df394a9fa9202c5f1f11",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7bc2561d69b56fae9760df394a9fa9202c5f1f11"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "gOHM-OTWO",
+	"Chain": "avalanche"
+}

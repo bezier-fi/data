@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0xc4b7121b4fc065decd26c33fb32e42c543e8850d",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0xc4b7121b4fc065decd26c33fb32e42c543e8850d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc4b7121b4fc065decd26c33fb32e42c543e8850d"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "xPTP-PTP",
+	"Chain": "avalanche"
+}

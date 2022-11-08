@@ -1,0 +1,24 @@
+{
+	"Id": "0x4bd49d984c01be202465a9c67be959dc646a6ff4",
+	"Protocol": "74ec8c7c-0be1-455f-b813-1c95b9abe84b",
+	"Outputs": [
+		{
+			"Address": "0x4bd49d984c01be202465a9c67be959dc646a6ff4",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x40f2e77da5c08d218bf03639aec8e5391b8bdf3f"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "$ShibaTV-WETH",
+	"Chain": "ethereum"
+}

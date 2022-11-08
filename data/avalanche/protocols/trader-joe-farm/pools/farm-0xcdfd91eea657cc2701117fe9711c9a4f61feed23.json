@@ -1,0 +1,27 @@
+{
+	"Id": "farm-0xcdfd91eea657cc2701117fe9711c9a4f61feed23",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0xcdfd91eea657cc2701117fe9711c9a4f61feed23",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		},
+		{
+			"Address": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xcdfd91eea657cc2701117fe9711c9a4f61feed23"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PTP-WAVAX",
+	"Chain": "avalanche"
+}

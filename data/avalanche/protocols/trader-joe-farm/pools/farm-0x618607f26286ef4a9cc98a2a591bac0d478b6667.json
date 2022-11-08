@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0x618607f26286ef4a9cc98a2a591bac0d478b6667",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0x618607f26286ef4a9cc98a2a591bac0d478b6667",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x618607f26286ef4a9cc98a2a591bac0d478b6667"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC-AVABBC",
+	"Chain": "avalanche"
+}

@@ -1,0 +1,24 @@
+{
+	"Id": "0x933bc46bc7462bb35bbebf50de681ecceb9a6cd3",
+	"Protocol": "74ec8c7c-0be1-455f-b813-1c95b9abe84b",
+	"Outputs": [
+		{
+			"Address": "0x933bc46bc7462bb35bbebf50de681ecceb9a6cd3",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xbde6e34901918661c1f8949a70bbc2126d106dd4"
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DeSantis-WETH",
+	"Chain": "ethereum"
+}

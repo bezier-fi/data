@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0x03205c36bd5dd0017d49dd247d3320eafed4d4cb",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0x03205c36bd5dd0017d49dd247d3320eafed4d4cb",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x03205c36bd5dd0017d49dd247d3320eafed4d4cb"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "APE-WAVAX",
+	"Chain": "avalanche"
+}

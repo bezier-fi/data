@@ -1,0 +1,21 @@
+{
+	"Id": "farm-0x3793995529ab2073ba6c37dba9b2cb5a75253f29",
+	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Outputs": [
+		{
+			"Address": "0x3793995529ab2073ba6c37dba9b2cb5a75253f29",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": ""
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3793995529ab2073ba6c37dba9b2cb5a75253f29"
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MOCK-SLV",
+	"Chain": "avalanche"
+}

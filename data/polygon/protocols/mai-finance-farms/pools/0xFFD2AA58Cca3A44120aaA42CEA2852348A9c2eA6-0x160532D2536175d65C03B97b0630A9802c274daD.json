@@ -1,0 +1,30 @@
+{
+	"Id": "0xFFD2AA58Cca3A44120aaA42CEA2852348A9c2eA6-0x160532D2536175d65C03B97b0630A9802c274daD",
+	"Protocol": "151e16d7-3378-4890-b62e-061f5af74f54",
+	"Outputs": [
+		{
+			"Address": "0x160532D2536175d65C03B97b0630A9802c274daD",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		},
+		{
+			"Address": "0x580A84C73811E1839F75d86d75d88cCa0c241fF4",
+			"Apr": 4.3432813,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x160532D2536175d65C03B97b0630A9802c274daD",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC-MAI Qi",
+	"Chain": "polygon"
+}

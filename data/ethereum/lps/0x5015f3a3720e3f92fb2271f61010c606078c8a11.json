@@ -1,0 +1,10 @@
+{
+	"Id": "0x5015f3a3720e3f92fb2271f61010c606078c8a11",
+	"Symbol": "SOLC-WETH",
+	"UnderlyingTokens": [
+		"0xb23266ab5663604c3c60dec722b4ccab1f13ec9a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "bdbd5bca-bdac-48ad-981d-aeb1b75dab46",
+	"Chain": "ethereum"
+}

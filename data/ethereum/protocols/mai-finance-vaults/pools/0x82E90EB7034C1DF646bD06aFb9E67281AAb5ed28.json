@@ -1,0 +1,42 @@
+{
+	"Id": "0x82E90EB7034C1DF646bD06aFb9E67281AAb5ed28",
+	"Protocol": "151e16d7-3378-4890-b62e-061f5af74f54",
+	"Outputs": [
+		{
+			"Address": "0x8D6CeBD76f18E1558D4DB88138e2DeFB3909fAD6",
+			"Apr": -19.999998,
+			"GroupId": 1,
+			"Key": "minimum-collateral",
+			"RequiredKeyInGroup": null
+		},
+		{
+			"Address": "0x8D6CeBD76f18E1558D4DB88138e2DeFB3909fAD6",
+			"Apr": -33.333332,
+			"GroupId": 1,
+			"Key": "incentives-collateral",
+			"RequiredKeyInGroup": null
+		},
+		{
+			"Address": "0x559b7bfC48a5274754b08819F75C5F27aF53D53b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": [
+				{
+					"Key": "incentives-collateral",
+					"GroupId": 1
+				}
+			]
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xdCD90C7f6324cfa40d7169ef80b12031770B4325",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Yearn Curve stETH Ethereum MAI Vault",
+	"Chain": "ethereum"
+}

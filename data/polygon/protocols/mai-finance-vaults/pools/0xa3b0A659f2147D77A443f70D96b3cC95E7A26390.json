@@ -1,0 +1,42 @@
+{
+	"Id": "0xa3b0A659f2147D77A443f70D96b3cC95E7A26390",
+	"Protocol": "151e16d7-3378-4890-b62e-061f5af74f54",
+	"Outputs": [
+		{
+			"Address": "0xa3fa99a148fa48d14ed51d610c367c61876997f1",
+			"Apr": -28.571426,
+			"GroupId": 1,
+			"Key": "minimum-collateral",
+			"RequiredKeyInGroup": null
+		},
+		{
+			"Address": "0xa3fa99a148fa48d14ed51d610c367c61876997f1",
+			"Apr": -39.393936,
+			"GroupId": 1,
+			"Key": "incentives-collateral",
+			"RequiredKeyInGroup": null
+		},
+		{
+			"Address": "0x580A84C73811E1839F75d86d75d88cCa0c241fF4",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": [
+				{
+					"Key": "incentives-collateral",
+					"GroupId": 1
+				}
+			]
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1C954E8fe737F99f68Fa1CCda3e51ebDB291948C",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Kyber Network Crystal Matic MAI Vault",
+	"Chain": "polygon"
+}

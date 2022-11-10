@@ -1,0 +1,27 @@
+{
+	"Id": "0x3b7788e15adc5ee978707840cf1adc6c37399ee3",
+	"Protocol": "bdbd5bca-bdac-48ad-981d-aeb1b75dab46",
+	"Outputs": [
+		{
+			"Address": "0x3b7788e15adc5ee978707840cf1adc6c37399ee3",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x03abb08042052488bbdf6efcd78754296d92cfd2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BNBFTX-WETH",
+	"Chain": "ethereum"
+}

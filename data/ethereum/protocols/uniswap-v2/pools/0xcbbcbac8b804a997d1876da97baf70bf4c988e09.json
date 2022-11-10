@@ -1,0 +1,27 @@
+{
+	"Id": "0xcbbcbac8b804a997d1876da97baf70bf4c988e09",
+	"Protocol": "bdbd5bca-bdac-48ad-981d-aeb1b75dab46",
+	"Outputs": [
+		{
+			"Address": "0xcbbcbac8b804a997d1876da97baf70bf4c988e09",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xf98a8fe53b7baa58103f78cb08c12ea1d93952b5",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-FTX BROKEN",
+	"Chain": "ethereum"
+}

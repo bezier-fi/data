@@ -1,0 +1,27 @@
+{
+	"Id": "0x98b57cce2f7f07e2da7922ddf18a1e6ec7b54e63",
+	"Protocol": "bdbd5bca-bdac-48ad-981d-aeb1b75dab46",
+	"Outputs": [
+		{
+			"Address": "0x98b57cce2f7f07e2da7922ddf18a1e6ec7b54e63",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x59203358d7ddfe80e0abe75b0aa534bc4d22aa7f",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FOCCER-WETH",
+	"Chain": "ethereum"
+}

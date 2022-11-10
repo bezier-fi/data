@@ -1,0 +1,10 @@
+{
+	"Id": "0xc346737e8a99f71fb0ce0cd57103dee18b6969cf",
+	"Symbol": "FTTP-WETH",
+	"UnderlyingTokens": [
+		"0x963e837730976c8e4fb1c16198723d34409473a8",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "bdbd5bca-bdac-48ad-981d-aeb1b75dab46",
+	"Chain": "ethereum"
+}

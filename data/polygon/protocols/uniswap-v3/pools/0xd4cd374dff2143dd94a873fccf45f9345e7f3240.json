@@ -1,0 +1,27 @@
+{
+	"Id": "0xd4cd374dff2143dd94a873fccf45f9345e7f3240",
+	"Protocol": "e959609c-82b9-4e0f-8118-a70ed6007d12",
+	"Outputs": [
+		{
+			"Address": "0xd4cd374dff2143dd94a873fccf45f9345e7f3240",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x490811cf0d2e9237f58ce670b028069e676947ce",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x9e52c65a22b188f5d499c14630fdd07c404b6900",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "xWETH-xWBTC (0.01%)",
+	"Chain": "polygon"
+}

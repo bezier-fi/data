@@ -1,20 +1,23 @@
 {
 	"Id": "0xf1b5cf831ced19136472b2b385f30384ce14a982",
-	"Protocol": "8081bf08-24b8-4a0f-b594-4b61ea64c4c7",
+	"Protocol": "e959609c-82b9-4e0f-8118-a70ed6007d12",
 	"Outputs": [
 		{
 			"Address": "0xf1b5cf831ced19136472b2b385f30384ce14a982",
-			"Apr": 128.73285,
+			"Apr": 216.28938,
 			"GroupId": 0,
-			"Key": ""
+			"Key": "",
+			"RequiredKeyInGroup": null
 		}
 	],
 	"Inputs": [
 		{
-			"Address": "0x12b6893ce26ea6341919fe289212ef77e51688c8"
+			"Address": "0x12b6893ce26ea6341919fe289212ef77e51688c8",
+			"GroupId": 0
 		},
 		{
-			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
 		}
 	],
 	"MinimumInputs": 0,

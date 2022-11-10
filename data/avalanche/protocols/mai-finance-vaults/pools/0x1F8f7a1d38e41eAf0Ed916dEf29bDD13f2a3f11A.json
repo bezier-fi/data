@@ -1,0 +1,42 @@
+{
+	"Id": "0x1F8f7a1d38e41eAf0Ed916dEf29bDD13f2a3f11A",
+	"Protocol": "151e16d7-3378-4890-b62e-061f5af74f54",
+	"Outputs": [
+		{
+			"Address": "0x5c49b268c9841aff1cc3b0a418ff5c3442ee3f3b",
+			"Apr": -23.076921,
+			"GroupId": 1,
+			"Key": "minimum-collateral",
+			"RequiredKeyInGroup": null
+		},
+		{
+			"Address": "0x5c49b268c9841aff1cc3b0a418ff5c3442ee3f3b",
+			"Apr": -35.48387,
+			"GroupId": 1,
+			"Key": "incentives-collateral",
+			"RequiredKeyInGroup": null
+		},
+		{
+			"Address": "0xA56F9A54880afBc30CF29bB66d2D9ADCdcaEaDD6",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": [
+				{
+					"Key": "incentives-collateral",
+					"GroupId": 1
+				}
+			]
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x50b7545627a5162F82A992c33b87aDc75187B218",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BTC MAI Vault",
+	"Chain": "avalanche"
+}

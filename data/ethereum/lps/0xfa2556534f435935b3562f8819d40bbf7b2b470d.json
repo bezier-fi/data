@@ -1,0 +1,10 @@
+{
+	"Id": "0xfa2556534f435935b3562f8819d40bbf7b2b470d",
+	"Symbol": "MIDAS-USDC",
+	"UnderlyingTokens": [
+		"0x97e6e31afb2d93d437301e006d9da714616766a5",
+		"0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+	],
+	"Protocol": "bdbd5bca-bdac-48ad-981d-aeb1b75dab46",
+	"Chain": "ethereum"
+}

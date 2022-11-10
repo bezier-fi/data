@@ -1,22 +1,26 @@
 [
 	{
-		"Id": "296d7032-1ab4-4905-a7e7-511f2fdd1b4c",
+		"Id": "b997099c-66fb-4d48-9ab1-63bd29015ef1",
 		"Symbol": "aave-v2"
 	},
 	{
-		"Id": "a8f9ce6f-0688-44c2-8e4f-b30f6029ae2d",
+		"Id": "45ce43d0-9425-4965-b6e4-3b658e3b2586",
 		"Symbol": "curve"
 	},
 	{
-		"Id": "d4e4f92a-4693-4d58-8856-924edf898577",
+		"Id": "f52e9e61-2693-4520-8348-034d2f9bf643",
 		"Symbol": "lido"
 	},
 	{
-		"Id": "74ec8c7c-0be1-455f-b813-1c95b9abe84b",
+		"Id": "151e16d7-3378-4890-b62e-061f5af74f54",
+		"Symbol": "mai-finance"
+	},
+	{
+		"Id": "bdbd5bca-bdac-48ad-981d-aeb1b75dab46",
 		"Symbol": "uniswap-v2"
 	},
 	{
-		"Id": "8081bf08-24b8-4a0f-b594-4b61ea64c4c7",
+		"Id": "e959609c-82b9-4e0f-8118-a70ed6007d12",
 		"Symbol": "uniswap-v3"
 	}
 ]

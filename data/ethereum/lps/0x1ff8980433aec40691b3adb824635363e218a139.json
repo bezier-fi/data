@@ -1,0 +1,10 @@
+{
+	"Id": "0x1ff8980433aec40691b3adb824635363e218a139",
+	"Symbol": "WETH-$VXON",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd0141dd5ac1a1fffd873d74d762d620d90528180"
+	],
+	"Protocol": "bdbd5bca-bdac-48ad-981d-aeb1b75dab46",
+	"Chain": "ethereum"
+}

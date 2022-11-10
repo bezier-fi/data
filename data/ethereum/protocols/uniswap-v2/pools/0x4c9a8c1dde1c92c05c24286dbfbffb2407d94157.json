@@ -1,0 +1,27 @@
+{
+	"Id": "0x4c9a8c1dde1c92c05c24286dbfbffb2407d94157",
+	"Protocol": "bdbd5bca-bdac-48ad-981d-aeb1b75dab46",
+	"Outputs": [
+		{
+			"Address": "0x4c9a8c1dde1c92c05c24286dbfbffb2407d94157",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb0ff7fe2b7be4521ea2c61472dccd222da69c2ac",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FIFA-WETH",
+	"Chain": "ethereum"
+}

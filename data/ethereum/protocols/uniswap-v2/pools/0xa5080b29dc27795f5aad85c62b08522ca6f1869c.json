@@ -1,0 +1,27 @@
+{
+	"Id": "0xa5080b29dc27795f5aad85c62b08522ca6f1869c",
+	"Protocol": "bdbd5bca-bdac-48ad-981d-aeb1b75dab46",
+	"Outputs": [
+		{
+			"Address": "0xa5080b29dc27795f5aad85c62b08522ca6f1869c",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x95261176039108d03bf33d2d49347b8be1b7d005",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "RedMoon-WETH",
+	"Chain": "ethereum"
+}

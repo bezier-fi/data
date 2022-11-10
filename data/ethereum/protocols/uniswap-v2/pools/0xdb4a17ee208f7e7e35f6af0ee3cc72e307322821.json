@@ -1,0 +1,27 @@
+{
+	"Id": "0xdb4a17ee208f7e7e35f6af0ee3cc72e307322821",
+	"Protocol": "bdbd5bca-bdac-48ad-981d-aeb1b75dab46",
+	"Outputs": [
+		{
+			"Address": "0xdb4a17ee208f7e7e35f6af0ee3cc72e307322821",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5f5c86a9f8aaf63ce27b82fab3b33df73cbc3d12",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SPARK-USDC",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xa5080b29dc27795f5aad85c62b08522ca6f1869c",
+	"Symbol": "RedMoon-WETH",
+	"UnderlyingTokens": [
+		"0x95261176039108d03bf33d2d49347b8be1b7d005",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "bdbd5bca-bdac-48ad-981d-aeb1b75dab46",
+	"Chain": "ethereum"
+}

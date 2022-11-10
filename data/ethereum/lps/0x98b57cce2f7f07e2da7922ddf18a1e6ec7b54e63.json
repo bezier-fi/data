@@ -1,0 +1,10 @@
+{
+	"Id": "0x98b57cce2f7f07e2da7922ddf18a1e6ec7b54e63",
+	"Symbol": "FOCCER-WETH",
+	"UnderlyingTokens": [
+		"0x59203358d7ddfe80e0abe75b0aa534bc4d22aa7f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "bdbd5bca-bdac-48ad-981d-aeb1b75dab46",
+	"Chain": "ethereum"
+}

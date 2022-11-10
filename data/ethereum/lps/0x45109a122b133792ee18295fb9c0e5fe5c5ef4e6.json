@@ -1,0 +1,10 @@
+{
+	"Id": "0x45109a122b133792ee18295fb9c0e5fe5c5ef4e6",
+	"Symbol": "MELT-WETH",
+	"UnderlyingTokens": [
+		"0x8ebf8058e5142784b575c277b1e57e43d2e0f6ac",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "bdbd5bca-bdac-48ad-981d-aeb1b75dab46",
+	"Chain": "ethereum"
+}

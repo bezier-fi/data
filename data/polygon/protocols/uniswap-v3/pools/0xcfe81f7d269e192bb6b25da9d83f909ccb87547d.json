@@ -1,0 +1,27 @@
+{
+	"Id": "0xcfe81f7d269e192bb6b25da9d83f909ccb87547d",
+	"Protocol": "e959609c-82b9-4e0f-8118-a70ed6007d12",
+	"Outputs": [
+		{
+			"Address": "0xcfe81f7d269e192bb6b25da9d83f909ccb87547d",
+			"Apr": 2.3075523,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc72b639040e3dae225b846bea0e4c5bc10c5ccb7",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC-KBOX (0.05%)",
+	"Chain": "polygon"
+}

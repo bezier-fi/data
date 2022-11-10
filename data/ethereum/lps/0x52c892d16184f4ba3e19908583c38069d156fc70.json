@@ -1,0 +1,10 @@
+{
+	"Id": "0x52c892d16184f4ba3e19908583c38069d156fc70",
+	"Symbol": "MEU-WETH (0.05%)",
+	"UnderlyingTokens": [
+		"0x6e975115250b05c828ecb8ededb091975fc20a5d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "e959609c-82b9-4e0f-8118-a70ed6007d12",
+	"Chain": "ethereum"
+}

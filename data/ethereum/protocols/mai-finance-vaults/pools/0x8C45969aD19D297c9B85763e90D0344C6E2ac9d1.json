@@ -1,0 +1,42 @@
+{
+	"Id": "0x8C45969aD19D297c9B85763e90D0344C6E2ac9d1",
+	"Protocol": "151e16d7-3378-4890-b62e-061f5af74f54",
+	"Outputs": [
+		{
+			"Address": "0x8D6CeBD76f18E1558D4DB88138e2DeFB3909fAD6",
+			"Apr": -16.666668,
+			"GroupId": 1,
+			"Key": "minimum-collateral",
+			"RequiredKeyInGroup": null
+		},
+		{
+			"Address": "0x8D6CeBD76f18E1558D4DB88138e2DeFB3909fAD6",
+			"Apr": -31.034481,
+			"GroupId": 1,
+			"Key": "incentives-collateral",
+			"RequiredKeyInGroup": null
+		},
+		{
+			"Address": "0x559b7bfC48a5274754b08819F75C5F27aF53D53b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": [
+				{
+					"Key": "incentives-collateral",
+					"GroupId": 1
+				}
+			]
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Wrapped Bitcoin MAI Vault",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x4fa884c63705747e1927045e8fbc968ad4c177ce",
+	"Protocol": "d6a42bb2-2909-4145-b1e6-252c41ec4d44",
+	"Outputs": [
+		{
+			"Address": "0x4fa884c63705747e1927045e8fbc968ad4c177ce",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x389fd23dfac67032f46adfbf59d79aa02d46d741",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "$VXON-WETH",
+	"Chain": "ethereum"
+}

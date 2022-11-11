@@ -1,0 +1,10 @@
+{
+	"Id": "0x9bbb5125b8b8ce88528be5f28f09af3ccced8dd0",
+	"Symbol": "POLAR-USDC",
+	"UnderlyingTokens": [
+		"0x58fcaa970339a9b1f8c0a5b4f3fcd7af2ba3075e",
+		"0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+	],
+	"Protocol": "d6a42bb2-2909-4145-b1e6-252c41ec4d44",
+	"Chain": "ethereum"
+}

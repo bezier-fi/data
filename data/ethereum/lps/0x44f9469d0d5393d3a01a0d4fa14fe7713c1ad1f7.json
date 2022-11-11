@@ -1,0 +1,10 @@
+{
+	"Id": "0x44f9469d0d5393d3a01a0d4fa14fe7713c1ad1f7",
+	"Symbol": "DRGN-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x419c4db4b9e25d6db2ad9691ccb832c8d9fda05e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7a503c02-a67d-48ac-9065-f526f37f686d",
+	"Chain": "ethereum"
+}

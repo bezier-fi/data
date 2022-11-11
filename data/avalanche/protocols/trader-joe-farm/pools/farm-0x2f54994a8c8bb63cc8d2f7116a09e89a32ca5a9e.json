@@ -1,17 +1,19 @@
 {
 	"Id": "farm-0x2f54994a8c8bb63cc8d2f7116a09e89a32ca5a9e",
-	"Protocol": "00fa69b3-12a3-46dd-ae67-c775ba646d16",
+	"Protocol": "a96d9004-e1da-4ed7-beed-2e15ee0647f4",
 	"Outputs": [
 		{
 			"Address": "0x2f54994a8c8bb63cc8d2f7116a09e89a32ca5a9e",
 			"Apr": 0,
 			"GroupId": 0,
-			"Key": ""
+			"Key": "",
+			"RequiredKeyInGroup": null
 		}
 	],
 	"Inputs": [
 		{
-			"Address": "0x2f54994a8c8bb63cc8d2f7116a09e89a32ca5a9e"
+			"Address": "0x2f54994a8c8bb63cc8d2f7116a09e89a32ca5a9e",
+			"GroupId": 0
 		}
 	],
 	"MinimumInputs": 0,

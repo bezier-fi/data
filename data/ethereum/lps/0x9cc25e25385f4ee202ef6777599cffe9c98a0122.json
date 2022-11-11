@@ -1,0 +1,10 @@
+{
+	"Id": "0x9cc25e25385f4ee202ef6777599cffe9c98a0122",
+	"Symbol": "CHOCO-WETH",
+	"UnderlyingTokens": [
+		"0x27629b1b69576cdb7021fb97ce7742851e6c9e5a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d6a42bb2-2909-4145-b1e6-252c41ec4d44",
+	"Chain": "ethereum"
+}

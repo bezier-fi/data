@@ -1,0 +1,10 @@
+{
+	"Id": "0xc48054895f205598b40bc74fd234dfd03166d462",
+	"Symbol": "CRV-WETH (0.05%)",
+	"UnderlyingTokens": [
+		"0x172370d5cd63279efa6d502dab29171933a610af",
+		"0x7ceb23fd6bc0add59e62ac25578270cff1b9f619"
+	],
+	"Protocol": "7a503c02-a67d-48ac-9065-f526f37f686d",
+	"Chain": "polygon"
+}

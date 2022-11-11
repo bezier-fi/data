@@ -1,5 +1,13 @@
 [
 	{
+		"Id": "0xA9122dACF3Fccf1AAe6b8ddd1F75B6267e5cbbB8",
+		"Symbol": "ETH MAI Vault"
+	},
+	{
+		"Id": "0x1F8f7a1d38e41eAf0Ed916dEf29bDD13f2a3f11A",
+		"Symbol": "BTC MAI Vault"
+	},
+	{
 		"Id": "0x73A755378788A4542A780002a75A7bae7f558730",
 		"Symbol": "AVAX MAI Vault"
 	},
@@ -10,13 +18,5 @@
 	{
 		"Id": "0x13A7fE3Ab741ea6301Db8B164290bE711f546A73",
 		"Symbol": "Stake DAO av3CRV Strategy MAI Vault"
-	},
-	{
-		"Id": "0xA9122dACF3Fccf1AAe6b8ddd1F75B6267e5cbbB8",
-		"Symbol": "ETH MAI Vault"
-	},
-	{
-		"Id": "0x1F8f7a1d38e41eAf0Ed916dEf29bDD13f2a3f11A",
-		"Symbol": "BTC MAI Vault"
 	}
 ]

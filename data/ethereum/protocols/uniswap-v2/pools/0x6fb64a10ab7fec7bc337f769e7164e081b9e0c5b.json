@@ -1,0 +1,27 @@
+{
+	"Id": "0x6fb64a10ab7fec7bc337f769e7164e081b9e0c5b",
+	"Protocol": "d6a42bb2-2909-4145-b1e6-252c41ec4d44",
+	"Outputs": [
+		{
+			"Address": "0x6fb64a10ab7fec7bc337f769e7164e081b9e0c5b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xbe769557f35879e4c9973f3e3e14f1475786d737",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CAPY-WETH",
+	"Chain": "ethereum"
+}

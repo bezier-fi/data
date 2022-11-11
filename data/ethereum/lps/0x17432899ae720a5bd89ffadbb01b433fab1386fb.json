@@ -1,0 +1,10 @@
+{
+	"Id": "0x17432899ae720a5bd89ffadbb01b433fab1386fb",
+	"Symbol": "RESIST-WETH",
+	"UnderlyingTokens": [
+		"0x25059b99101a00d337f3af7b5f5fb2d276b416ec",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d6a42bb2-2909-4145-b1e6-252c41ec4d44",
+	"Chain": "ethereum"
+}

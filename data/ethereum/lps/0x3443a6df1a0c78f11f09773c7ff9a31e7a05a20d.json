@@ -1,0 +1,10 @@
+{
+	"Id": "0x3443a6df1a0c78f11f09773c7ff9a31e7a05a20d",
+	"Symbol": "MEMEX-WETH",
+	"UnderlyingTokens": [
+		"0xb387a13eae1d514fc51dfbe035d67b633976a6bf",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d6a42bb2-2909-4145-b1e6-252c41ec4d44",
+	"Chain": "ethereum"
+}

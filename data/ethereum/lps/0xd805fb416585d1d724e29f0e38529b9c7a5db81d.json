@@ -1,0 +1,10 @@
+{
+	"Id": "0xd805fb416585d1d724e29f0e38529b9c7a5db81d",
+	"Symbol": "GINU-WETH",
+	"UnderlyingTokens": [
+		"0x74be64b45d394fa57816c1950e94dbb8d7a7b306",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "097ddd91-f5c3-4149-a2db-31d0a1a717da",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,12 @@
+{
+	"Id": "0xae0babD1483ed944BeEd2e112021Ed01301A83aC",
+	"Symbol": "mu-aave-f",
+	"UnderlyingTokens": [
+		"0xD036414fa2BCBb802691491E323BFf1348C5F4Ba",
+		"0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
+		"0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+		"0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7"
+	],
+	"Protocol": "bd5bc885-fdff-4967-ad66-8bd3ae3a1209",
+	"Chain": "avalanche"
+}

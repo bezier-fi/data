@@ -1,0 +1,10 @@
+{
+	"Id": "0xa4346f5e18eb867908e6970add1eb62d8a9eddfc",
+	"Symbol": "UNDEAD-WETH",
+	"UnderlyingTokens": [
+		"0x310c8f00b9de3c31ab95ea68feb6c877538f7947",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "097ddd91-f5c3-4149-a2db-31d0a1a717da",
+	"Chain": "ethereum"
+}

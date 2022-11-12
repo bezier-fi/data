@@ -1,0 +1,27 @@
+{
+	"Id": "0x48458b5bf7df430fa3cd0d77c25777d00916f680",
+	"Protocol": "097ddd91-f5c3-4149-a2db-31d0a1a717da",
+	"Outputs": [
+		{
+			"Address": "0x48458b5bf7df430fa3cd0d77c25777d00916f680",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xf2aa58a69e5d7b33dac5d60865f435d1c16a74b7",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-KURAIZO",
+	"Chain": "ethereum"
+}

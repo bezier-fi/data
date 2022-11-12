@@ -1,0 +1,10 @@
+{
+	"Id": "0xedbc0b0ef8bfb68fe2ccd19f96e01893bf625785",
+	"Symbol": "ICHOR-WETH",
+	"UnderlyingTokens": [
+		"0x2a552ce0738f298d901adf2ececccc73493347ab",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "097ddd91-f5c3-4149-a2db-31d0a1a717da",
+	"Chain": "ethereum"
+}

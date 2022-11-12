@@ -1,0 +1,10 @@
+{
+	"Id": "0xb95e33501b6e6308786132cedd0fd62b56dafa9c",
+	"Symbol": "LCFR-WETH",
+	"UnderlyingTokens": [
+		"0xac4ff3581c2d110ceffe58d96e29ce98abe08777",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "097ddd91-f5c3-4149-a2db-31d0a1a717da",
+	"Chain": "ethereum"
+}

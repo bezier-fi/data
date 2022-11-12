@@ -1,0 +1,27 @@
+{
+	"Id": "0x2e9108928e5993f1ec699b7a0f45c4e997186c42",
+	"Protocol": "097ddd91-f5c3-4149-a2db-31d0a1a717da",
+	"Outputs": [
+		{
+			"Address": "0x2e9108928e5993f1ec699b7a0f45c4e997186c42",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x19a800dbcbe09031e21b18464582d12a28e06f42",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ZOMBIETAMA-WETH",
+	"Chain": "ethereum"
+}

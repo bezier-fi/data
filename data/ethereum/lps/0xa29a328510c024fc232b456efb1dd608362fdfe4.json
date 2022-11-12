@@ -1,0 +1,10 @@
+{
+	"Id": "0xa29a328510c024fc232b456efb1dd608362fdfe4",
+	"Symbol": "2000BC-WETH",
+	"UnderlyingTokens": [
+		"0x8d0eec6718e9660796858e66dd177eeafe7b03a7",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "097ddd91-f5c3-4149-a2db-31d0a1a717da",
+	"Chain": "ethereum"
+}

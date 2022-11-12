@@ -4,28 +4,28 @@
 		"Symbol": "vGHST Mai Vault "
 	},
 	{
-		"Id": "0x178f1c95C85Fe7221C7A6a3d6F12B7Da3253eeAe",
-		"Symbol": "Celsius MAI Vault"
+		"Id": "0x649Aa6E6b6194250C077DF4fB37c23EE6c098513",
+		"Symbol": "dQUICK MAI Vault"
 	},
 	{
 		"Id": "0xa3b0A659f2147D77A443f70D96b3cC95E7A26390",
 		"Symbol": "Kyber Network Crystal Matic MAI Vault"
 	},
 	{
-		"Id": "0xF086dEdf6a89e7B16145b03a6CB0C0a9979F1433",
-		"Symbol": "GHST MAI Vault"
+		"Id": "0x1DCc1f864A4Bd0b8f4Ad33594B758b68e9Fa872c",
+		"Symbol": "Sand MAI Vault"
 	},
 	{
-		"Id": "0xD2FE44055b5C874feE029119f70336447c8e8827",
-		"Symbol": "camDAI MAI Vault"
+		"Id": "0x701A1824e5574B0b6b1c8dA808B184a7AB7A2867",
+		"Symbol": "BAL MAI Vault"
 	},
 	{
-		"Id": "0x98B5F32dd9670191568b661a3e847Ed764943875",
-		"Symbol": "CRV MAI Vault"
+		"Id": "0x57Cbf36788113237D64E46f25A88855c3dff1691",
+		"Symbol": "Stake DAO am3CRV Strategy MAI Vault"
 	},
 	{
-		"Id": "0x649Aa6E6b6194250C077DF4fB37c23EE6c098513",
-		"Symbol": "dQUICK MAI Vault"
+		"Id": "0x3fd939B017b31eaADF9ae50C7fF7Fa5c0661d47C",
+		"Symbol": "WETH MAI Vault"
 	},
 	{
 		"Id": "0x88d84a85A87ED12B8f098e8953B322fF789fCD1a",
@@ -36,67 +36,67 @@
 		"Symbol": "Celsius X Ada MAI Vault"
 	},
 	{
-		"Id": "0x1DCc1f864A4Bd0b8f4Ad33594B758b68e9Fa872c",
-		"Symbol": "Sand MAI Vault"
-	},
-	{
-		"Id": "0x305f113ff78255d4F8524c8F50C7300B91B10f6A",
-		"Symbol": "Matic MAI Vault"
-	},
-	{
-		"Id": "0x701A1824e5574B0b6b1c8dA808B184a7AB7A2867",
-		"Symbol": "BAL MAI Vault"
+		"Id": "0x178f1c95C85Fe7221C7A6a3d6F12B7Da3253eeAe",
+		"Symbol": "Celsius MAI Vault"
 	},
 	{
 		"Id": "0xaa19d0e397c964a35e6e80262c692dbfC9C23451",
 		"Symbol": "xxDAI Tetu MAI Vault"
 	},
 	{
-		"Id": "0x7CbF49E4214C7200AF986bc4aACF7bc79dd9C19a",
-		"Symbol": "Celsius X Doge MAI Vault"
+		"Id": "0x87ee36f780ae843A78D5735867bc1c13792b7b11",
+		"Symbol": "AAVE MAI Vault"
 	},
 	{
-		"Id": "0x57Cbf36788113237D64E46f25A88855c3dff1691",
-		"Symbol": "Stake DAO am3CRV Strategy MAI Vault"
+		"Id": "0xD2FE44055b5C874feE029119f70336447c8e8827",
+		"Symbol": "camDAI MAI Vault"
 	},
 	{
-		"Id": "0x7dDA5e1A389E0C1892CaF55940F5fcE6588a9ae0",
-		"Symbol": "camWBTC MAI Vault"
+		"Id": "0xff2c44Fb819757225a176e825255a01B3B8BB051",
+		"Symbol": "Frax Share MAI Vault"
 	},
 	{
-		"Id": "0x3fd939B017b31eaADF9ae50C7fF7Fa5c0661d47C",
-		"Symbol": "WETH MAI Vault"
-	},
-	{
-		"Id": "0x37131aEDd3da288467B6EBe9A77C523A700E6Ca1",
-		"Symbol": "WBTC MAI Vault"
-	},
-	{
-		"Id": "0x578375c3af7d61586c2C3A7BA87d2eEd640EFA40",
-		"Symbol": "camAAVE MAI Vault"
-	},
-	{
-		"Id": "0x11A33631a5B5349AF3F165d2B7901A4d67e561ad",
-		"Symbol": "camWETH MAI Vault"
+		"Id": "0xF086dEdf6a89e7B16145b03a6CB0C0a9979F1433",
+		"Symbol": "GHST MAI Vault"
 	},
 	{
 		"Id": "0x7d36999a69f2B99BF3FB98866cBbE47aF43696C8",
 		"Symbol": "Celsius X ETH MAI Vault"
 	},
 	{
-		"Id": "0x11826d20B6A16A22450978642404dA95B4640123",
-		"Symbol": "xxLink Tetu MAI Vault"
+		"Id": "0x578375c3af7d61586c2C3A7BA87d2eEd640EFA40",
+		"Symbol": "camAAVE MAI Vault"
 	},
 	{
 		"Id": "0x61167073E31b1DAd85a3E531211c7B8F1E5cAE72",
 		"Symbol": "LINK MAI Vault"
 	},
 	{
-		"Id": "0x87ee36f780ae843A78D5735867bc1c13792b7b11",
-		"Symbol": "AAVE MAI Vault"
+		"Id": "0x7CbF49E4214C7200AF986bc4aACF7bc79dd9C19a",
+		"Symbol": "Celsius X Doge MAI Vault"
 	},
 	{
-		"Id": "0xff2c44Fb819757225a176e825255a01B3B8BB051",
-		"Symbol": "Frax Share MAI Vault"
+		"Id": "0x305f113ff78255d4F8524c8F50C7300B91B10f6A",
+		"Symbol": "Matic MAI Vault"
+	},
+	{
+		"Id": "0x37131aEDd3da288467B6EBe9A77C523A700E6Ca1",
+		"Symbol": "WBTC MAI Vault"
+	},
+	{
+		"Id": "0x11826d20B6A16A22450978642404dA95B4640123",
+		"Symbol": "xxLink Tetu MAI Vault"
+	},
+	{
+		"Id": "0x98B5F32dd9670191568b661a3e847Ed764943875",
+		"Symbol": "CRV MAI Vault"
+	},
+	{
+		"Id": "0x11A33631a5B5349AF3F165d2B7901A4d67e561ad",
+		"Symbol": "camWETH MAI Vault"
+	},
+	{
+		"Id": "0x7dDA5e1A389E0C1892CaF55940F5fcE6588a9ae0",
+		"Symbol": "camWBTC MAI Vault"
 	}
 ]

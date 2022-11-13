@@ -1,0 +1,27 @@
+{
+	"Id": "0xce006bdad556fd464a20439f41e6558f2f218da1",
+	"Protocol": "987ed79b-17fc-4db0-a962-90687de304d0",
+	"Outputs": [
+		{
+			"Address": "0xce006bdad556fd464a20439f41e6558f2f218da1",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4379a48e379d6c7717da84ac46a9fab178a3b835",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MAZE-WETH",
+	"Chain": "ethereum"
+}

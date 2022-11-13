@@ -1,0 +1,27 @@
+{
+	"Id": "0x19c10e1f20df3a8c2ac93a62d7fba719fa777026",
+	"Protocol": "9327ce44-4f4e-4e89-a5a4-88aa117c8567",
+	"Outputs": [
+		{
+			"Address": "0x19c10e1f20df3a8c2ac93a62d7fba719fa777026",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x49642110b712c1fd7261bc074105e9e44676c68f",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DINO-WETH (1.00%)",
+	"Chain": "ethereum"
+}

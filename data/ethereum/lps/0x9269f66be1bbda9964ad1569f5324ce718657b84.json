@@ -1,0 +1,10 @@
+{
+	"Id": "0x9269f66be1bbda9964ad1569f5324ce718657b84",
+	"Symbol": "AUM-WETH",
+	"UnderlyingTokens": [
+		"0x7540a3d1e548f9b59062a65b9cf79ff98a253531",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "987ed79b-17fc-4db0-a962-90687de304d0",
+	"Chain": "ethereum"
+}

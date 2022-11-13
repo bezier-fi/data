@@ -1,0 +1,27 @@
+{
+	"Id": "0xcb1abb2731a48d8819f03808013c0a0e48d9b3d9",
+	"Protocol": "9327ce44-4f4e-4e89-a5a4-88aa117c8567",
+	"Outputs": [
+		{
+			"Address": "0xcb1abb2731a48d8819f03808013c0a0e48d9b3d9",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x45804880de22913dafe09f4980848ece6ecbaf78",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PAXG-WETH (1.00%)",
+	"Chain": "ethereum"
+}

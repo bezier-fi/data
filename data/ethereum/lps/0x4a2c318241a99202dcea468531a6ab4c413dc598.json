@@ -1,0 +1,10 @@
+{
+	"Id": "0x4a2c318241a99202dcea468531a6ab4c413dc598",
+	"Symbol": "WETH-AlFi",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf8a4d85dc143fb092599e60738eee7c64b5c66c0"
+	],
+	"Protocol": "987ed79b-17fc-4db0-a962-90687de304d0",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x964f9bc6bcd71a1d94b8a411eb42a3a6f08793b9",
+	"Symbol": "THIS-WETH",
+	"UnderlyingTokens": [
+		"0x16a6055a3872bd1a0c2d3f9e4fd6ed63ee31451b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "987ed79b-17fc-4db0-a962-90687de304d0",
+	"Chain": "ethereum"
+}

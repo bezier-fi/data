@@ -1,0 +1,10 @@
+{
+	"Id": "0x7ec977f50ad05d69c74f858458ac9db8a952c1f5",
+	"Symbol": "BVB-WETH",
+	"UnderlyingTokens": [
+		"0xb4d1ba947e5f84b9aef00595b8b945585d5b4cae",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "e60af8ad-3b1b-427c-a040-a3933569e44b",
+	"Chain": "ethereum"
+}

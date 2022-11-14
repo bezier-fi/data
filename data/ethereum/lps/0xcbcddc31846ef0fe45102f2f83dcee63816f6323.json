@@ -1,0 +1,10 @@
+{
+	"Id": "0xcbcddc31846ef0fe45102f2f83dcee63816f6323",
+	"Symbol": "CRONU-WETH",
+	"UnderlyingTokens": [
+		"0x6de498741fcd717b6217168c420cb39b25b698ed",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "e60af8ad-3b1b-427c-a040-a3933569e44b",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x87aa49aa0a181d5fbc173d8d6ecd2271f89e0266",
+	"Symbol": "CZ-WETH",
+	"UnderlyingTokens": [
+		"0x28d8f1cdf8004385f7815d87c5f7de8b8a520140",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "e60af8ad-3b1b-427c-a040-a3933569e44b",
+	"Chain": "ethereum"
+}

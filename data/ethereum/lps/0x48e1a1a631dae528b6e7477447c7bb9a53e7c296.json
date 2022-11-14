@@ -1,0 +1,10 @@
+{
+	"Id": "0x48e1a1a631dae528b6e7477447c7bb9a53e7c296",
+	"Symbol": "SUZAMI-WETH",
+	"UnderlyingTokens": [
+		"0x83401c394628dfafbbad63a146b2c2f516d4f2ab",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "e60af8ad-3b1b-427c-a040-a3933569e44b",
+	"Chain": "ethereum"
+}

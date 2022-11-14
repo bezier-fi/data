@@ -1,0 +1,27 @@
+{
+	"Id": "0xe4f063497103bf2676ae05b9fdb5d8f36a83f6f6",
+	"Protocol": "e60af8ad-3b1b-427c-a040-a3933569e44b",
+	"Outputs": [
+		{
+			"Address": "0xe4f063497103bf2676ae05b9fdb5d8f36a83f6f6",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x630eee36204e0a8acd244b953b0219d9957014df",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ALAMO-USDC",
+	"Chain": "ethereum"
+}

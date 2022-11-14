@@ -1,0 +1,10 @@
+{
+	"Id": "0x75b711003ed53bcdc29e003da33dc6cfbbdc589a",
+	"Symbol": "EXFI-WETH",
+	"UnderlyingTokens": [
+		"0xbc163dd5f74d9b46143d1f1f1f55a0951cf52447",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "e60af8ad-3b1b-427c-a040-a3933569e44b",
+	"Chain": "ethereum"
+}

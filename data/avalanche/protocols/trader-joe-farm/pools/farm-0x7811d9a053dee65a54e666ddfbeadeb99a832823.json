@@ -1,0 +1,23 @@
+{
+	"Id": "farm-0x7811d9a053dee65a54e666ddfbeadeb99a832823",
+	"Protocol": "96f86d90-12f8-4095-be53-dae68106821e",
+	"Outputs": [
+		{
+			"Address": "0x7811d9a053dee65a54e666ddfbeadeb99a832823",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7811d9a053dee65a54e666ddfbeadeb99a832823",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MRCA-EGG",
+	"Chain": "avalanche"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x37c2d49f525868bafd94eaad8955b2ac8435f58d",
+	"Symbol": "WETH-DAU",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xee014fad1d432f06fd7da47e7519b7ec1283dd23"
+	],
+	"Protocol": "bfd26066-6243-4fc8-9460-9ae5ca87873c",
+	"Chain": "ethereum"
+}

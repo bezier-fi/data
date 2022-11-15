@@ -1,0 +1,10 @@
+{
+	"Id": "0x52581212c682c6a94b03f6ea52113b7134ce139e",
+	"Symbol": "Qatar-WETH",
+	"UnderlyingTokens": [
+		"0x7abb167966154b15d8c1b957cd8e4189d6a836a8",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "bfd26066-6243-4fc8-9460-9ae5ca87873c",
+	"Chain": "ethereum"
+}

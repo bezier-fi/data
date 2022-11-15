@@ -1,0 +1,27 @@
+{
+	"Id": "0x1e688ee77405b2c9b698c7f2f546bbf8a7b74e5c",
+	"Protocol": "bfd26066-6243-4fc8-9460-9ae5ca87873c",
+	"Outputs": [
+		{
+			"Address": "0x1e688ee77405b2c9b698c7f2f546bbf8a7b74e5c",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xdcb015f15e687953eb3b49964c709326be3b16aa",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-TOR",
+	"Chain": "ethereum"
+}

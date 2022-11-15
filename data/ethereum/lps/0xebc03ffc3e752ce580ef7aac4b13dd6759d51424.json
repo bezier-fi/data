@@ -1,0 +1,10 @@
+{
+	"Id": "0xebc03ffc3e752ce580ef7aac4b13dd6759d51424",
+	"Symbol": "MEIRO-WETH",
+	"UnderlyingTokens": [
+		"0x5bafb06dd7c31df8cbb541fa75108c2ab5837832",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "bfd26066-6243-4fc8-9460-9ae5ca87873c",
+	"Chain": "ethereum"
+}

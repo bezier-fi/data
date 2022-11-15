@@ -1,0 +1,10 @@
+{
+	"Id": "0xc4e97874e0e87aae3fb62a4c83b9eda1b2d707ad",
+	"Symbol": "RABBIT-WETH",
+	"UnderlyingTokens": [
+		"0x706f280cdb92260fe2d50eda545f834ff1fbfd35",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "bfd26066-6243-4fc8-9460-9ae5ca87873c",
+	"Chain": "ethereum"
+}

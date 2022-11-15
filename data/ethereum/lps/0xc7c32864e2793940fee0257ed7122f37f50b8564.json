@@ -1,0 +1,10 @@
+{
+	"Id": "0xc7c32864e2793940fee0257ed7122f37f50b8564",
+	"Symbol": "AGT-WETH",
+	"UnderlyingTokens": [
+		"0xa096a7043c20b6deb8e5d391a41faae4cc26b0c4",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "bfd26066-6243-4fc8-9460-9ae5ca87873c",
+	"Chain": "ethereum"
+}

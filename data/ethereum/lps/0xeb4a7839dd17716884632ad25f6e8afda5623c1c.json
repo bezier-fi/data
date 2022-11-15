@@ -1,0 +1,10 @@
+{
+	"Id": "0xeb4a7839dd17716884632ad25f6e8afda5623c1c",
+	"Symbol": "WETH-XRPC",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe466dfa72ecdb1bebe56b546851452b038f50dfa"
+	],
+	"Protocol": "bfd26066-6243-4fc8-9460-9ae5ca87873c",
+	"Chain": "ethereum"
+}

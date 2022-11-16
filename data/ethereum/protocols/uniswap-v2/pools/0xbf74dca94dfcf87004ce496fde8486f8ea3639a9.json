@@ -1,0 +1,27 @@
+{
+	"Id": "0xbf74dca94dfcf87004ce496fde8486f8ea3639a9",
+	"Protocol": "50a58992-634b-4941-909e-23e4f704f59e",
+	"Outputs": [
+		{
+			"Address": "0xbf74dca94dfcf87004ce496fde8486f8ea3639a9",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2d26a9bd2f292c5d3b2c387d6c53e3315809688a",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Serum-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xd6010a762db55c494e112b13245f4b6d2a76d1a4",
+	"Symbol": "WETH-CULTCAI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfd2bcb5da2fde84a7695a33e6a0cd6075bf90485"
+	],
+	"Protocol": "50a58992-634b-4941-909e-23e4f704f59e",
+	"Chain": "ethereum"
+}

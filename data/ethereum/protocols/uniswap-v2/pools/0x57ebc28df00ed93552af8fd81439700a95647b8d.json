@@ -1,0 +1,27 @@
+{
+	"Id": "0x57ebc28df00ed93552af8fd81439700a95647b8d",
+	"Protocol": "50a58992-634b-4941-909e-23e4f704f59e",
+	"Outputs": [
+		{
+			"Address": "0x57ebc28df00ed93552af8fd81439700a95647b8d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7dac25b1a665e1c70f25f1fc37d88c99274984ed",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SHINJA-WETH",
+	"Chain": "ethereum"
+}

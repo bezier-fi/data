@@ -1,0 +1,10 @@
+{
+	"Id": "0x6ac6df140039e65d423ad8c8faa47d1acb7442e6",
+	"Symbol": "BORDER-WETH",
+	"UnderlyingTokens": [
+		"0xa4229cd70950067c749bc5ab5631c20e7c4dffd4",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "50a58992-634b-4941-909e-23e4f704f59e",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0xd6010a762db55c494e112b13245f4b6d2a76d1a4",
+	"Protocol": "50a58992-634b-4941-909e-23e4f704f59e",
+	"Outputs": [
+		{
+			"Address": "0xd6010a762db55c494e112b13245f4b6d2a76d1a4",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xfd2bcb5da2fde84a7695a33e6a0cd6075bf90485",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-CULTCAI",
+	"Chain": "ethereum"
+}

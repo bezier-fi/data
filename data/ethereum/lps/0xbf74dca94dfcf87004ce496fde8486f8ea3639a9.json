@@ -1,0 +1,10 @@
+{
+	"Id": "0xbf74dca94dfcf87004ce496fde8486f8ea3639a9",
+	"Symbol": "Serum-WETH",
+	"UnderlyingTokens": [
+		"0x2d26a9bd2f292c5d3b2c387d6c53e3315809688a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "50a58992-634b-4941-909e-23e4f704f59e",
+	"Chain": "ethereum"
+}

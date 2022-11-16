@@ -1,0 +1,27 @@
+{
+	"Id": "0xd50654294af65a1a7db6d0fd62d61caec40e45c5",
+	"Protocol": "50a58992-634b-4941-909e-23e4f704f59e",
+	"Outputs": [
+		{
+			"Address": "0xd50654294af65a1a7db6d0fd62d61caec40e45c5",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9964faf94478afbadcfee5aa0e9ee677e7af1bcc",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "RONALDINU-WETH",
+	"Chain": "ethereum"
+}

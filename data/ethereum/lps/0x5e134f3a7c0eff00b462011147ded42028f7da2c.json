@@ -1,0 +1,10 @@
+{
+	"Id": "0x5e134f3a7c0eff00b462011147ded42028f7da2c",
+	"Symbol": "THEAPE-WETH",
+	"UnderlyingTokens": [
+		"0xb5df10277a7a24e51105aecc8d93302b674dd305",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "50a58992-634b-4941-909e-23e4f704f59e",
+	"Chain": "ethereum"
+}

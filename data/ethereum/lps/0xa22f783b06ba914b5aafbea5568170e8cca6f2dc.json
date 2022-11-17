@@ -1,0 +1,10 @@
+{
+	"Id": "0xa22f783b06ba914b5aafbea5568170e8cca6f2dc",
+	"Symbol": "WETH-BITBOY",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xef61035f291fc91100bff8771b8bd7230418eb04"
+	],
+	"Protocol": "a31f5427-ddfc-4a54-922e-b1bf0d222a5c",
+	"Chain": "ethereum"
+}

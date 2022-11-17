@@ -1,0 +1,10 @@
+{
+	"Id": "0xbcacfdcb46cd1667caf63d7d1b19db580f1a05cf",
+	"Symbol": "WETH-SWorldCup",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd7352d1298db46164dabbb783047409d52958ad1"
+	],
+	"Protocol": "a31f5427-ddfc-4a54-922e-b1bf0d222a5c",
+	"Chain": "ethereum"
+}

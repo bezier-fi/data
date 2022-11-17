@@ -1,0 +1,10 @@
+{
+	"Id": "0xb54533c8aff03be68eddb9db6ff04e1f08264c12",
+	"Symbol": "WETH-$SHIBVINCI ",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xdd0f7ac7faba19b1b8422bb19f6d00c920acecc5"
+	],
+	"Protocol": "a31f5427-ddfc-4a54-922e-b1bf0d222a5c",
+	"Chain": "ethereum"
+}

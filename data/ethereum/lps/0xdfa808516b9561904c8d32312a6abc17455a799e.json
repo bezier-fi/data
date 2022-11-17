@@ -1,0 +1,10 @@
+{
+	"Id": "0xdfa808516b9561904c8d32312a6abc17455a799e",
+	"Symbol": "AlphaBOOST-WETH",
+	"UnderlyingTokens": [
+		"0x4f592d53c9e09a024386831ffcdf3be28dc47bcb",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "a31f5427-ddfc-4a54-922e-b1bf0d222a5c",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x59e70e89b92e613e7e8c20e12db42498cdb9b2f0",
+	"Symbol": "SOLARE-WETH",
+	"UnderlyingTokens": [
+		"0x3decf1ff0ecdb3335e9f2ad8d8615cc89b9bda14",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "a31f5427-ddfc-4a54-922e-b1bf0d222a5c",
+	"Chain": "ethereum"
+}

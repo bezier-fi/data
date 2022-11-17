@@ -1,0 +1,27 @@
+{
+	"Id": "0x87f717616b75d7da2c7f9af8a0dc11f624008f64",
+	"Protocol": "a31f5427-ddfc-4a54-922e-b1bf0d222a5c",
+	"Outputs": [
+		{
+			"Address": "0x87f717616b75d7da2c7f9af8a0dc11f624008f64",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xf7cd4ec76ad1114fe6d1a48ab925ae0f95bc4601",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-BabyShi",
+	"Chain": "ethereum"
+}

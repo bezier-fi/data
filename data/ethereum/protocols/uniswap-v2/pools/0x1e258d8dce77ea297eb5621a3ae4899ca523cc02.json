@@ -1,0 +1,27 @@
+{
+	"Id": "0x1e258d8dce77ea297eb5621a3ae4899ca523cc02",
+	"Protocol": "a31f5427-ddfc-4a54-922e-b1bf0d222a5c",
+	"Outputs": [
+		{
+			"Address": "0x1e258d8dce77ea297eb5621a3ae4899ca523cc02",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa30cf1dd08c376f5db60b3d132d6639c9c4ce5ed",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Ryoshi-WETH",
+	"Chain": "ethereum"
+}

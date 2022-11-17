@@ -1,0 +1,27 @@
+{
+	"Id": "0xb83b748eac3a81af9ff4e6b8e4896758bea44307",
+	"Protocol": "a31f5427-ddfc-4a54-922e-b1bf0d222a5c",
+	"Outputs": [
+		{
+			"Address": "0xb83b748eac3a81af9ff4e6b8e4896758bea44307",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1561a57b4238dc50936c3f750408914fb01398e2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Portnoy-WETH",
+	"Chain": "ethereum"
+}

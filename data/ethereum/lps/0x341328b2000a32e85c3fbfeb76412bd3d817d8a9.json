@@ -1,0 +1,10 @@
+{
+	"Id": "0x341328b2000a32e85c3fbfeb76412bd3d817d8a9",
+	"Symbol": "infinite-WETH",
+	"UnderlyingTokens": [
+		"0xafe1a7885971e4e04b7f0315a78c976444288c29",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "a31f5427-ddfc-4a54-922e-b1bf0d222a5c",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0xbae54b82d2cc7140cd6983eb24191deb7c9cbebe",
+	"Protocol": "a42780f7-ff96-441f-989a-8e443241f9d1",
+	"Outputs": [
+		{
+			"Address": "0xbae54b82d2cc7140cd6983eb24191deb7c9cbebe",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xe1398b5d2f3cef77a13a7ccbae33f2121c217301",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC-RODO (0.01%)",
+	"Chain": "polygon"
+}

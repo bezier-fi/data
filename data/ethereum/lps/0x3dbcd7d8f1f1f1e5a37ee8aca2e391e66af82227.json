@@ -1,0 +1,10 @@
+{
+	"Id": "0x3dbcd7d8f1f1f1e5a37ee8aca2e391e66af82227",
+	"Symbol": "CRI-WETH (0.30%)",
+	"UnderlyingTokens": [
+		"0x12e951934246186f50146235d541d3bd1d463e4d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "a42780f7-ff96-441f-989a-8e443241f9d1",
+	"Chain": "ethereum"
+}

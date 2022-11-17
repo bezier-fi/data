@@ -1,0 +1,27 @@
+{
+	"Id": "0x0560c18dfb10a570f7925f8a3224d51499e91774",
+	"Protocol": "a31f5427-ddfc-4a54-922e-b1bf0d222a5c",
+	"Outputs": [
+		{
+			"Address": "0x0560c18dfb10a570f7925f8a3224d51499e91774",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xddb196b1cdc994baa93b8081f4d4f457db1daeaf",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH- Tesla",
+	"Chain": "ethereum"
+}

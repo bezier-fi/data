@@ -1,0 +1,10 @@
+{
+	"Id": "0x6ae80e46597da9914056bd4752d1e0daebe8e33f",
+	"Symbol": "WETH-GEMINU",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc91ee1be24c12ebe355c0018fe5ba23d4229dab3"
+	],
+	"Protocol": "a31f5427-ddfc-4a54-922e-b1bf0d222a5c",
+	"Chain": "ethereum"
+}

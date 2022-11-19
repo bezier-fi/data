@@ -1,0 +1,10 @@
+{
+	"Id": "0xddbe068bea7ea7fd7488e70b13d00a0d90d85c03",
+	"Symbol": "Model S-WETH",
+	"UnderlyingTokens": [
+		"0xaa61717ca2059b178146cb507b4fe74c5f39cdaa",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "a77bb644-0bfa-4356-89f2-ccbe9ac180e4",
+	"Chain": "ethereum"
+}

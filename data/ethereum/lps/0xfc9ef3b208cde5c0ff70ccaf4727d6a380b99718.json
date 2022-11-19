@@ -1,0 +1,10 @@
+{
+	"Id": "0xfc9ef3b208cde5c0ff70ccaf4727d6a380b99718",
+	"Symbol": "PSINU-WETH",
+	"UnderlyingTokens": [
+		"0x498ffa69ac078c1350ec11e4694578c6ccb07594",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "a77bb644-0bfa-4356-89f2-ccbe9ac180e4",
+	"Chain": "ethereum"
+}

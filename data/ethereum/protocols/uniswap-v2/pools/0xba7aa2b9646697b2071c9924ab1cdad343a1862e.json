@@ -1,0 +1,27 @@
+{
+	"Id": "0xba7aa2b9646697b2071c9924ab1cdad343a1862e",
+	"Protocol": "a77bb644-0bfa-4356-89f2-ccbe9ac180e4",
+	"Outputs": [
+		{
+			"Address": "0xba7aa2b9646697b2071c9924ab1cdad343a1862e",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x07e31a6fe83a3abca4bd14226b298aa8b711d813",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GAMO-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x890ff7533ca0c44f33167fdeeeab1ca7e690634f",
+	"Protocol": "a77bb644-0bfa-4356-89f2-ccbe9ac180e4",
+	"Outputs": [
+		{
+			"Address": "0x890ff7533ca0c44f33167fdeeeab1ca7e690634f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x155ff1a85f440ee0a382ea949f24ce4e0b751c65",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "EYE-DAI",
+	"Chain": "ethereum"
+}

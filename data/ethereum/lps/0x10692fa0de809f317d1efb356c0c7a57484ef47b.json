@@ -1,0 +1,10 @@
+{
+	"Id": "0x10692fa0de809f317d1efb356c0c7a57484ef47b",
+	"Symbol": "LIGMA-WETH",
+	"UnderlyingTokens": [
+		"0xa86eab265ae43e501ec8b98c2d517b4d8114c224",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "a77bb644-0bfa-4356-89f2-ccbe9ac180e4",
+	"Chain": "ethereum"
+}

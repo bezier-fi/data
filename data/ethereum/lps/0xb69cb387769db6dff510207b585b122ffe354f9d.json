@@ -1,0 +1,10 @@
+{
+	"Id": "0xb69cb387769db6dff510207b585b122ffe354f9d",
+	"Symbol": "$SIMO-WETH",
+	"UnderlyingTokens": [
+		"0x0f03e7c1cd6c8eaa0cf29784fa369109aefbd73d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "a77bb644-0bfa-4356-89f2-ccbe9ac180e4",
+	"Chain": "ethereum"
+}

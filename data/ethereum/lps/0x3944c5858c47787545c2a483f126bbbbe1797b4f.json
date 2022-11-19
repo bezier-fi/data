@@ -1,0 +1,10 @@
+{
+	"Id": "0x3944c5858c47787545c2a483f126bbbbe1797b4f",
+	"Symbol": "WETH-Lord",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfc9be729feeb5dec40d7830656895f68971a380a"
+	],
+	"Protocol": "a77bb644-0bfa-4356-89f2-ccbe9ac180e4",
+	"Chain": "ethereum"
+}

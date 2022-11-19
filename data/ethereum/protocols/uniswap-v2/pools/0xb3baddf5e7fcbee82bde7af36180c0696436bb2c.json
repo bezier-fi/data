@@ -1,0 +1,27 @@
+{
+	"Id": "0xb3baddf5e7fcbee82bde7af36180c0696436bb2c",
+	"Protocol": "a77bb644-0bfa-4356-89f2-ccbe9ac180e4",
+	"Outputs": [
+		{
+			"Address": "0xb3baddf5e7fcbee82bde7af36180c0696436bb2c",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8f40f353ad38ae1ef7b653d608d5d670c5e6d672",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BRLV2-USDC",
+	"Chain": "ethereum"
+}

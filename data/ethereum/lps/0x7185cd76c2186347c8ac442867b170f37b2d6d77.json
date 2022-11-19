@@ -1,0 +1,10 @@
+{
+	"Id": "0x7185cd76c2186347c8ac442867b170f37b2d6d77",
+	"Symbol": "ARNC-WETH",
+	"UnderlyingTokens": [
+		"0x7495e5cc8f27e0bd5bd4cb86d17f0d841ca58ee4",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "a77bb644-0bfa-4356-89f2-ccbe9ac180e4",
+	"Chain": "ethereum"
+}

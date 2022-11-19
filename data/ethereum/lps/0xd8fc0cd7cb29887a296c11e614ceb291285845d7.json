@@ -1,0 +1,10 @@
+{
+	"Id": "0xd8fc0cd7cb29887a296c11e614ceb291285845d7",
+	"Symbol": "WETH-VOYAGE",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf2c99676d1d9c92fdf36ee2d6ef224b26516f608"
+	],
+	"Protocol": "a77bb644-0bfa-4356-89f2-ccbe9ac180e4",
+	"Chain": "ethereum"
+}

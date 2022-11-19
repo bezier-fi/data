@@ -1,0 +1,27 @@
+{
+	"Id": "0x83c0239558dbfbefc700cc8f2db607c49df0699d",
+	"Protocol": "a77bb644-0bfa-4356-89f2-ccbe9ac180e4",
+	"Outputs": [
+		{
+			"Address": "0x83c0239558dbfbefc700cc8f2db607c49df0699d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc514c0a151136dfde08141f685b695e7b41c056d",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-QTRC",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x3b50deff0c183bc405057aca05e3b4995391d712",
+	"Symbol": "ToG-WETH",
+	"UnderlyingTokens": [
+		"0x3bcd840a8705eddfc04ed7d6d264271963837697",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "a77bb644-0bfa-4356-89f2-ccbe9ac180e4",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xa75ef67cc0f4b9fc6ce081006cfbb88d56db3712",
+	"Symbol": "WENDY-WETH",
+	"UnderlyingTokens": [
+		"0x7f88dcb577cef8bb3ac635596265ee8a89be157f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "a77bb644-0bfa-4356-89f2-ccbe9ac180e4",
+	"Chain": "ethereum"
+}

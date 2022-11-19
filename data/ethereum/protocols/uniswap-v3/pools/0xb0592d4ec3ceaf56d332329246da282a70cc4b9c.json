@@ -1,0 +1,27 @@
+{
+	"Id": "0xb0592d4ec3ceaf56d332329246da282a70cc4b9c",
+	"Protocol": "456254b2-878b-46a3-adb8-227ca0cb5985",
+	"Outputs": [
+		{
+			"Address": "0xb0592d4ec3ceaf56d332329246da282a70cc4b9c",
+			"Apr": 678.16724,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2de509bf0014ddf697b220be628213034d320ece",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DBI-USDC (1.00%)",
+	"Chain": "ethereum"
+}

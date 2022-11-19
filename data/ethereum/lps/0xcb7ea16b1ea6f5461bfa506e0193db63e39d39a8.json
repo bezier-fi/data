@@ -1,0 +1,10 @@
+{
+	"Id": "0xcb7ea16b1ea6f5461bfa506e0193db63e39d39a8",
+	"Symbol": "zkSync-USDT",
+	"UnderlyingTokens": [
+		"0x200603ff9cdec318ab76d7ccf7d7c9efc1381fd1",
+		"0xdac17f958d2ee523a2206206994597c13d831ec7"
+	],
+	"Protocol": "a77bb644-0bfa-4356-89f2-ccbe9ac180e4",
+	"Chain": "ethereum"
+}

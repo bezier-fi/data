@@ -1,0 +1,10 @@
+{
+	"Id": "0xba7aa2b9646697b2071c9924ab1cdad343a1862e",
+	"Symbol": "GAMO-WETH",
+	"UnderlyingTokens": [
+		"0x07e31a6fe83a3abca4bd14226b298aa8b711d813",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "a77bb644-0bfa-4356-89f2-ccbe9ac180e4",
+	"Chain": "ethereum"
+}

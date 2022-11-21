@@ -1,0 +1,10 @@
+{
+	"Id": "0x45559bb14ce2125b5da679419bd829d1505a4bbc",
+	"Symbol": "PITA-WETH",
+	"UnderlyingTokens": [
+		"0x71dc183f5af7813f6404f3e2c8e69d27bb388526",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "191f4128-a532-4fb9-aa6f-c757fd66a44b",
+	"Chain": "ethereum"
+}

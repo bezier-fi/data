@@ -1,0 +1,27 @@
+{
+	"Id": "0xc15a2252454192362409ea6c6463d2d8ca09c793",
+	"Protocol": "191f4128-a532-4fb9-aa6f-c757fd66a44b",
+	"Outputs": [
+		{
+			"Address": "0xc15a2252454192362409ea6c6463d2d8ca09c793",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x52ea22a5cd5a974370a21d3e29065deb6f4c4a32",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GENU-WETH",
+	"Chain": "ethereum"
+}

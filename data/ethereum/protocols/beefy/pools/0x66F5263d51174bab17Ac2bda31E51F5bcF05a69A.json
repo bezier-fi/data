@@ -1,0 +1,23 @@
+{
+	"Id": "0x66F5263d51174bab17Ac2bda31E51F5bcF05a69A",
+	"Protocol": "2ad25421-bd7c-47a8-a690-161e7e13baae",
+	"Outputs": [
+		{
+			"Address": "0x66F5263d51174bab17Ac2bda31E51F5bcF05a69A",
+			"Apr": 3.9287121,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xdf0770dF86a8034b3EFEf0A1Bb3c889B8332FF56",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC LP",
+	"Chain": "ethereum"
+}

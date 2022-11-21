@@ -1,0 +1,44 @@
+{
+	"Id": "0x9e2e1dca29feb74505de0da8d08ee846b1146027",
+	"Protocol": "5603fe88-7943-4db1-a611-a00487cc0cb5",
+	"Outputs": [
+		{
+			"Address": "0x73968b9a57c6e53d41345fd57a6e6ae27d6cdb2f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		},
+		{
+			"Address": "0xba100000625a3754423978a60c9317c58a424e3D",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		},
+		{
+			"Address": "0xdef1ca1fb7fbcdc777520aa7f396b4e015f497ab",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		},
+		{
+			"Address": "0x6810e776880C02933D47DB1b9fc05908e5386b96",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xde8C195Aa41C11a0c4787372deFBbDdAa31306D2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "COW/WETH",
+	"Chain": "ethereum"
+}

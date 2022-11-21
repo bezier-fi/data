@@ -1,0 +1,23 @@
+{
+	"Id": "yield-0x5af15DA84A4a6EDf2d9FA6720De921E1026E37b7",
+	"Protocol": "5603fe88-7943-4db1-a611-a00487cc0cb5",
+	"Outputs": [
+		{
+			"Address": "0x73968b9a57c6E53d41345FD57a6E6ae27d6CDB2F",
+			"Apr": 10.707999,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5af15DA84A4a6EDf2d9FA6720De921E1026E37b7",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "sdFRAX3CRV-f Staking",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,23 @@
+{
+	"Id": "0xd5bAd7c89028B3F7094e40DcCe83D4e6b3Fd9AA4",
+	"Protocol": "2ad25421-bd7c-47a8-a690-161e7e13baae",
+	"Outputs": [
+		{
+			"Address": "0xd5bAd7c89028B3F7094e40DcCe83D4e6b3Fd9AA4",
+			"Apr": 9.682899,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5a6A4D54456819380173272A5E8E9B9904BdF41B",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MIM/DAI/USDC/USDT",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x45559bb14ce2125b5da679419bd829d1505a4bbc",
+	"Protocol": "191f4128-a532-4fb9-aa6f-c757fd66a44b",
+	"Outputs": [
+		{
+			"Address": "0x45559bb14ce2125b5da679419bd829d1505a4bbc",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x71dc183f5af7813f6404f3e2c8e69d27bb388526",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PITA-WETH",
+	"Chain": "ethereum"
+}

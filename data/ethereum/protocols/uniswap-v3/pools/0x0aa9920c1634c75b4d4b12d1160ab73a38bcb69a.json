@@ -1,0 +1,27 @@
+{
+	"Id": "0x0aa9920c1634c75b4d4b12d1160ab73a38bcb69a",
+	"Protocol": "4e5798f9-b57b-4f1e-8fdb-909be0816613",
+	"Outputs": [
+		{
+			"Address": "0x0aa9920c1634c75b4d4b12d1160ab73a38bcb69a",
+			"Apr": 1553.5071,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x24bcec1afda63e622a97f17cff9a61ffcfd9b735",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CRAB-WETH (0.30%)",
+	"Chain": "ethereum"
+}

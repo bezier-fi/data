@@ -1,0 +1,34 @@
+{
+	"Id": "0xc10B7CA0383F0357EdEED233Dc806B5229DCF4a5",
+	"Protocol": "5603fe88-7943-4db1-a611-a00487cc0cb5",
+	"Outputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"Apr": 7.249092,
+			"GroupId": 1,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		},
+		{
+			"Address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+			"Apr": 7.249092,
+			"GroupId": 1,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 1
+		},
+		{
+			"Address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+			"GroupId": 1
+		}
+	],
+	"MinimumInputs": 1,
+	"RequiredInputs": null,
+	"Symbol": "ETH Covered Call Strategy V2",
+	"Chain": "ethereum"
+}

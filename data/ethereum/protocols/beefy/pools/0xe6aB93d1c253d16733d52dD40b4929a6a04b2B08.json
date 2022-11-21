@@ -1,0 +1,23 @@
+{
+	"Id": "0xe6aB93d1c253d16733d52dD40b4929a6a04b2B08",
+	"Protocol": "2ad25421-bd7c-47a8-a690-161e7e13baae",
+	"Outputs": [
+		{
+			"Address": "0xe6aB93d1c253d16733d52dD40b4929a6a04b2B08",
+			"Apr": 2.400778,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xd632f22692FaC7611d2AA1C0D552930D43CAEd3B",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FRAX/DAI/USDC/USDT",
+	"Chain": "ethereum"
+}

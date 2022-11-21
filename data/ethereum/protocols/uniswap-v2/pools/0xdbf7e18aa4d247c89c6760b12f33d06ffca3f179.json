@@ -1,0 +1,27 @@
+{
+	"Id": "0xdbf7e18aa4d247c89c6760b12f33d06ffca3f179",
+	"Protocol": "191f4128-a532-4fb9-aa6f-c757fd66a44b",
+	"Outputs": [
+		{
+			"Address": "0xdbf7e18aa4d247c89c6760b12f33d06ffca3f179",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xfaa91d97731f3ccfb630e28c26ddaf7f541f45b7",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-FTX DRAINER",
+	"Chain": "ethereum"
+}

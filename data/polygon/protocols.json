@@ -1,26 +1,30 @@
 [
 	{
-		"Id": "eda0acde-a8c6-4e3b-9273-0e228cdb67e1",
+		"Id": "5c916915-78f6-46fb-8dd0-1060a18d8bff",
 		"Symbol": "aave-v2"
 	},
 	{
-		"Id": "6c6bac13-ff9d-4b76-b87a-7178c5ccddf4",
+		"Id": "bd0be687-b373-46a9-a333-2d22e8d23683",
 		"Symbol": "aave-v3"
 	},
 	{
-		"Id": "115e9a20-f38f-4eab-adc4-83a50fd672a0",
+		"Id": "2ad25421-bd7c-47a8-a690-161e7e13baae",
 		"Symbol": "beefy"
 	},
 	{
-		"Id": "f26c1332-f1ea-4a56-bee8-d88256354582",
+		"Id": "14384e8c-baa9-48b9-ae62-699dc1bdfcdf",
 		"Symbol": "curve"
 	},
 	{
-		"Id": "b1c4513f-b795-41be-804c-debaade741b9",
+		"Id": "0668cf97-8c86-49e9-aca5-faeb377fcc04",
 		"Symbol": "mai-finance"
 	},
 	{
-		"Id": "456254b2-878b-46a3-adb8-227ca0cb5985",
+		"Id": "5603fe88-7943-4db1-a611-a00487cc0cb5",
+		"Symbol": "stake-dao"
+	},
+	{
+		"Id": "4e5798f9-b57b-4f1e-8fdb-909be0816613",
 		"Symbol": "uniswap-v3"
 	}
 ]

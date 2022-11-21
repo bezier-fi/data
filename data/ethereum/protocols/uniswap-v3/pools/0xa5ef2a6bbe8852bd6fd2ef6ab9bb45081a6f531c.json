@@ -1,0 +1,27 @@
+{
+	"Id": "0xa5ef2a6bbe8852bd6fd2ef6ab9bb45081a6f531c",
+	"Protocol": "4e5798f9-b57b-4f1e-8fdb-909be0816613",
+	"Outputs": [
+		{
+			"Address": "0xa5ef2a6bbe8852bd6fd2ef6ab9bb45081a6f531c",
+			"Apr": 1377.8567,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5ee84583f67d5ecea5420dbb42b462896e7f8d06",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PLSB-USDC (1.00%)",
+	"Chain": "ethereum"
+}

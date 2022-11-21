@@ -1,0 +1,27 @@
+{
+	"Id": "0xf0e66ec47608b99c6378e28fe395590d989b283e",
+	"Protocol": "191f4128-a532-4fb9-aa6f-c757fd66a44b",
+	"Outputs": [
+		{
+			"Address": "0xf0e66ec47608b99c6378e28fe395590d989b283e",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6291d951c5d68f47ed346042e2f86a94c253bec4",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BRL-USDC",
+	"Chain": "ethereum"
+}

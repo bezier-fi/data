@@ -1,0 +1,10 @@
+{
+	"Id": "0xed4cb3766090ce8a6b0894ee82ba11ba5c504209",
+	"Symbol": "WAS-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x0c572544a4ee47904d54aaa6a970af96b6f00e1b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "4e5798f9-b57b-4f1e-8fdb-909be0816613",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xcfbd2ac301200a792712097dd05e2f3303501f0f",
+	"Symbol": "PAIRS-WETH",
+	"UnderlyingTokens": [
+		"0x816c6b49df992e526c768b0472d1c927b88e8387",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "191f4128-a532-4fb9-aa6f-c757fd66a44b",
+	"Chain": "ethereum"
+}

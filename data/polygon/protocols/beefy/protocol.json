@@ -1,9 +1,10 @@
 {
-	"Id": "115e9a20-f38f-4eab-adc4-83a50fd672a0",
+	"Id": "2ad25421-bd7c-47a8-a690-161e7e13baae",
 	"Name": "Beefy",
 	"Logo": "https://icons.llama.fi/beefy.png",
 	"Url": "https://beefy.com",
 	"Chains": [
+		"ethereum",
 		"polygon",
 		"avalanche"
 	]

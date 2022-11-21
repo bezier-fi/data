@@ -1,0 +1,23 @@
+{
+	"Id": "0x24129B935AfF071c4f0554882C0D9573F4975fEd",
+	"Protocol": "5603fe88-7943-4db1-a611-a00487cc0cb5",
+	"Outputs": [
+		{
+			"Address": "0x24129B935AfF071c4f0554882C0D9573F4975fEd",
+			"Apr": 2.311547,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x075b1bb99792c9E1041bA13afEf80C91a1e70fB3",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Passive BTC strategy",
+	"Chain": "ethereum"
+}

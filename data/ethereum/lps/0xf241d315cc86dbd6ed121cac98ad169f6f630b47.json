@@ -1,0 +1,10 @@
+{
+	"Id": "0xf241d315cc86dbd6ed121cac98ad169f6f630b47",
+	"Symbol": "WETH-Sindora",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc9c7b0f85d163afe743c0be9c8b14924d9175818"
+	],
+	"Protocol": "191f4128-a532-4fb9-aa6f-c757fd66a44b",
+	"Chain": "ethereum"
+}

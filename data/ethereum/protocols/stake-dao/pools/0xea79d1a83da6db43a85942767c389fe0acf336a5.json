@@ -1,0 +1,48 @@
+{
+	"Id": "0xea79d1a83da6db43a85942767c389fe0acf336a5",
+	"Protocol": "5603fe88-7943-4db1-a611-a00487cc0cb5",
+	"Outputs": [
+		{
+			"Address": "0x73968b9a57c6e53d41345fd57a6e6ae27d6cdb2f",
+			"Apr": 1.1491126,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		},
+		{
+			"Address": "0xba100000625a3754423978a60c9317c58a424e3D",
+			"Apr": 1.6109146,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		},
+		{
+			"Address": "0x7B50775383d3D6f0215A8F290f2C9e2eEBBEceb2",
+			"Apr": 0.8706777,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		},
+		{
+			"Address": "0xba100000625a3754423978a60c9317c58a424e3D",
+			"Apr": 29.640644,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5c6Ee304399DBdB9C8Ef030aB642B10820DB8F56",
+			"GroupId": 1
+		},
+		{
+			"Address": "0xF24d8651578a55b0C119B9910759a351A3458895",
+			"GroupId": 1
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BAL",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0xa3b8aa09de137d059deee099db59678817d38625",
+	"Protocol": "191f4128-a532-4fb9-aa6f-c757fd66a44b",
+	"Outputs": [
+		{
+			"Address": "0xa3b8aa09de137d059deee099db59678817d38625",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xe67b8f7931929c5bbc29df23b89f6c0a86f4ad16",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-SpaceX",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x3a29dd91e12aaef73ff4d5cc1047dd34a02efdef",
+	"Symbol": "ECUADU-WETH",
+	"UnderlyingTokens": [
+		"0x0980d634aae1456f3c93569a9892d4912aff8f13",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "191f4128-a532-4fb9-aa6f-c757fd66a44b",
+	"Chain": "ethereum"
+}

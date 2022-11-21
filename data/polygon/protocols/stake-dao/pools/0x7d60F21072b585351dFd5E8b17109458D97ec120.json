@@ -1,0 +1,23 @@
+{
+	"Id": "0x7d60F21072b585351dFd5E8b17109458D97ec120",
+	"Protocol": "5603fe88-7943-4db1-a611-a00487cc0cb5",
+	"Outputs": [
+		{
+			"Address": "0x7d60F21072b585351dFd5E8b17109458D97ec120",
+			"Apr": 2.0605013,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xE7a24EF0C5e95Ffb0f6684b813A78F2a3AD7D171",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Passive Aave USD strategy",
+	"Chain": "polygon"
+}

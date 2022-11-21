@@ -1,0 +1,10 @@
+{
+	"Id": "0x4f4c4606d18965e982497bb789c3e7f548bd6aa0",
+	"Symbol": "COSMOS-WETH",
+	"UnderlyingTokens": [
+		"0x71b590f11fbddf1d9a225249cdc65b91570d0da3",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "191f4128-a532-4fb9-aa6f-c757fd66a44b",
+	"Chain": "ethereum"
+}

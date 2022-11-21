@@ -1,0 +1,30 @@
+{
+	"Id": "0xF6F12EfFb70A9a5372dC9eA6848991799bB3ff96",
+	"Protocol": "5603fe88-7943-4db1-a611-a00487cc0cb5",
+	"Outputs": [
+		{
+			"Address": "0x73968b9a57c6e53d41345fd57a6e6ae27d6cdb2f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		},
+		{
+			"Address": "0x31429d1856ad1377a8a0079410b297e1a9e214c2",
+			"Apr": 219.802,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x857E0B2eD0E82D5cDEB015E77ebB873C47F99575",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "G-Uni agEUR/ETH LP",
+	"Chain": "ethereum"
+}

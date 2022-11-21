@@ -1,0 +1,10 @@
+{
+	"Id": "0xdbf7e18aa4d247c89c6760b12f33d06ffca3f179",
+	"Symbol": "WETH-FTX DRAINER",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfaa91d97731f3ccfb630e28c26ddaf7f541f45b7"
+	],
+	"Protocol": "191f4128-a532-4fb9-aa6f-c757fd66a44b",
+	"Chain": "ethereum"
+}

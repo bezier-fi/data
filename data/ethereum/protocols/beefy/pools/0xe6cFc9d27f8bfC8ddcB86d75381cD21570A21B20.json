@@ -1,0 +1,23 @@
+{
+	"Id": "0xe6cFc9d27f8bfC8ddcB86d75381cD21570A21B20",
+	"Protocol": "2ad25421-bd7c-47a8-a690-161e7e13baae",
+	"Outputs": [
+		{
+			"Address": "0xe6cFc9d27f8bfC8ddcB86d75381cD21570A21B20",
+			"Apr": 31.985035,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x334C96d792e4b26B841d28f53235281cec1be1F2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "rETH-bbaUSD",
+	"Chain": "ethereum"
+}

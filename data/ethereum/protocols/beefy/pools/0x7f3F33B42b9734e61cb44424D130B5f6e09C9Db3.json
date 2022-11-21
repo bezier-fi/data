@@ -1,0 +1,23 @@
+{
+	"Id": "0x7f3F33B42b9734e61cb44424D130B5f6e09C9Db3",
+	"Protocol": "2ad25421-bd7c-47a8-a690-161e7e13baae",
+	"Outputs": [
+		{
+			"Address": "0x7f3F33B42b9734e61cb44424D130B5f6e09C9Db3",
+			"Apr": 23.717033,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xe6b5CC1B4b47305c58392CE3D359B10282FC36Ea",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDD/DAI/USDC/USDT",
+	"Chain": "ethereum"
+}

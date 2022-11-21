@@ -1,0 +1,23 @@
+{
+	"Id": "0xbC10c4F7B9FE0B305e8639B04c536633A3dB7065",
+	"Protocol": "5603fe88-7943-4db1-a611-a00487cc0cb5",
+	"Outputs": [
+		{
+			"Address": "0xbC10c4F7B9FE0B305e8639B04c536633A3dB7065",
+			"Apr": 2.700701,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x06325440D014e39736583c165C2963BA99fAf14E",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Passive stETH strategy",
+	"Chain": "ethereum"
+}

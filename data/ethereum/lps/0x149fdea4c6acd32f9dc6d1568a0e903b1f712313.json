@@ -1,0 +1,10 @@
+{
+	"Id": "0x149fdea4c6acd32f9dc6d1568a0e903b1f712313",
+	"Symbol": "WETH-FBI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd625c3016fc7d4c4ab09e1e486cdcb48f01aca57"
+	],
+	"Protocol": "191f4128-a532-4fb9-aa6f-c757fd66a44b",
+	"Chain": "ethereum"
+}

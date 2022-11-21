@@ -1,0 +1,34 @@
+{
+	"Id": "0x0a4dF7809F83e130D8ffa297f03b75318E37B461",
+	"Protocol": "5603fe88-7943-4db1-a611-a00487cc0cb5",
+	"Outputs": [
+		{
+			"Address": "0x73968b9a57c6e53d41345fd57a6e6ae27d6cdb2f",
+			"Apr": 16.112064,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"Apr": 31.506073,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0ec9f76202a7061eb9b3a7d6b59d36215a7e37da",
+			"GroupId": 1
+		},
+		{
+			"Address": "0x825Ba129b3EA1ddc265708fcbB9dd660fdD2ef73",
+			"GroupId": 1
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BPT",
+	"Chain": "ethereum"
+}

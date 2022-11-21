@@ -1,0 +1,23 @@
+{
+	"Id": "0x953Cf8f1f097c222015FFa32C7B9e3E96993b8c1",
+	"Protocol": "5603fe88-7943-4db1-a611-a00487cc0cb5",
+	"Outputs": [
+		{
+			"Address": "0x953Cf8f1f097c222015FFa32C7B9e3E96993b8c1",
+			"Apr": 1.1604099,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xf8a57c1d3b9629b77b6726a042ca48990A84Fb49",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Passive BTC strategy",
+	"Chain": "polygon"
+}

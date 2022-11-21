@@ -1,0 +1,10 @@
+{
+	"Id": "0xf0e66ec47608b99c6378e28fe395590d989b283e",
+	"Symbol": "BRL-USDC",
+	"UnderlyingTokens": [
+		"0x6291d951c5d68f47ed346042e2f86a94c253bec4",
+		"0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+	],
+	"Protocol": "191f4128-a532-4fb9-aa6f-c757fd66a44b",
+	"Chain": "ethereum"
+}

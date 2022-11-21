@@ -1,0 +1,23 @@
+{
+	"Id": "0xe17D6212eAa54D98187026A770dee96f7C264feC",
+	"Protocol": "2ad25421-bd7c-47a8-a690-161e7e13baae",
+	"Outputs": [
+		{
+			"Address": "0xe17D6212eAa54D98187026A770dee96f7C264feC",
+			"Apr": 7.323687,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1E19CF2D73a72Ef1332C882F20534B6519Be0276",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "rETH-ETH",
+	"Chain": "ethereum"
+}

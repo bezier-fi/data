@@ -1,0 +1,27 @@
+{
+	"Id": "0x297f0a47faa25efdbe3a6964b1e92ca00cb9652c",
+	"Protocol": "191f4128-a532-4fb9-aa6f-c757fd66a44b",
+	"Outputs": [
+		{
+			"Address": "0x297f0a47faa25efdbe3a6964b1e92ca00cb9652c",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x77381fd65aa144bddc393e0519052011bcaa9be2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Genyōsha-USDT",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,23 @@
+{
+	"Id": "0xbc0cF20Ac9Fc670fED9B3f230F2E8A2676451e37",
+	"Protocol": "2ad25421-bd7c-47a8-a690-161e7e13baae",
+	"Outputs": [
+		{
+			"Address": "0xbc0cF20Ac9Fc670fED9B3f230F2E8A2676451e37",
+			"Apr": 5.595206,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xC4C319E2D4d66CcA4464C0c2B32c9Bd23ebe784e",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "alETH/ETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x8599eb9b84fe656c59cdef6bcdcebf21b2a7fa51",
+	"Symbol": "WETH-QWC",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfb50df8a2c54fe5eae220e138d6215b1ea27f969"
+	],
+	"Protocol": "191f4128-a532-4fb9-aa6f-c757fd66a44b",
+	"Chain": "ethereum"
+}

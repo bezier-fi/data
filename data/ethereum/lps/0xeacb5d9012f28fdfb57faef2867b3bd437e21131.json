@@ -1,0 +1,10 @@
+{
+	"Id": "0xeacb5d9012f28fdfb57faef2867b3bd437e21131",
+	"Symbol": "BANG-WETH",
+	"UnderlyingTokens": [
+		"0x4b63f62f48d8026f0269218d640d403327cd09d8",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "6d48c535-5a0c-42bc-86ad-7d124d1c7204",
+	"Chain": "ethereum"
+}

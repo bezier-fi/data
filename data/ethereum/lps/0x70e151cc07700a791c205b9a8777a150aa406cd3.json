@@ -1,0 +1,10 @@
+{
+	"Id": "0x70e151cc07700a791c205b9a8777a150aa406cd3",
+	"Symbol": "MOONG-WETH",
+	"UnderlyingTokens": [
+		"0x0bee9b5aa4dc21861f758c03853421c7551b80e7",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "6d48c535-5a0c-42bc-86ad-7d124d1c7204",
+	"Chain": "ethereum"
+}

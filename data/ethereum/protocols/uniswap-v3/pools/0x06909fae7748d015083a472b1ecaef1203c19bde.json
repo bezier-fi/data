@@ -1,0 +1,27 @@
+{
+	"Id": "0x06909fae7748d015083a472b1ecaef1203c19bde",
+	"Protocol": "ab4e68fb-764c-49a0-a30f-36aecc85b9e2",
+	"Outputs": [
+		{
+			"Address": "0x06909fae7748d015083a472b1ecaef1203c19bde",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc08512927d12348f6620a698105e1baac6ecd911",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc56c2b7e71b54d38aab6d52e94a04cbfa8f604fa",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GYEN-ZUSD (0.05%)",
+	"Chain": "ethereum"
+}

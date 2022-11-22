@@ -1,0 +1,27 @@
+{
+	"Id": "0xd855ac01b778efb08e3140295332bf53c81f47e9",
+	"Protocol": "6d48c535-5a0c-42bc-86ad-7d124d1c7204",
+	"Outputs": [
+		{
+			"Address": "0xd855ac01b778efb08e3140295332bf53c81f47e9",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x47c938cdb2b08481549a2ace4bfae872bffcc0d5",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "NAMASTE🙏-WETH",
+	"Chain": "ethereum"
+}

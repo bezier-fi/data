@@ -1,0 +1,10 @@
+{
+	"Id": "0x2a424b56681613f4896365e3c388e7a1627e4da0",
+	"Symbol": "AMERICA-WETH",
+	"UnderlyingTokens": [
+		"0x303f2370430761e13fd995ba8b9bfdc8b4340dc5",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "6d48c535-5a0c-42bc-86ad-7d124d1c7204",
+	"Chain": "ethereum"
+}

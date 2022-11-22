@@ -1,0 +1,10 @@
+{
+	"Id": "0xdcba6fd2edaeef8ed5f781a8dd7b7ba5e2af16f1",
+	"Symbol": "WETH-ICE (1.00%)",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf16e81dce15b08f326220742020379b855b87df9"
+	],
+	"Protocol": "ab4e68fb-764c-49a0-a30f-36aecc85b9e2",
+	"Chain": "ethereum"
+}

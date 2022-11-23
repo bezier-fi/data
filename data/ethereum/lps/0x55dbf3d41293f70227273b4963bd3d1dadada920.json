@@ -1,0 +1,10 @@
+{
+	"Id": "0x55dbf3d41293f70227273b4963bd3d1dadada920",
+	"Symbol": "GENX-WETH",
+	"UnderlyingTokens": [
+		"0x7b35446252953e701b5dfd8407a929d336257639",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "30b089e1-2819-4974-87eb-fc11ce2a50f3",
+	"Chain": "ethereum"
+}

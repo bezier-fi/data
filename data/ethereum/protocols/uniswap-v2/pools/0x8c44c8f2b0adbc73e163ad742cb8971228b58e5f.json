@@ -1,0 +1,27 @@
+{
+	"Id": "0x8c44c8f2b0adbc73e163ad742cb8971228b58e5f",
+	"Protocol": "30b089e1-2819-4974-87eb-fc11ce2a50f3",
+	"Outputs": [
+		{
+			"Address": "0x8c44c8f2b0adbc73e163ad742cb8971228b58e5f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x00e123c95d93b75876ea688e5d776f433de56f45",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "KUKITSU-WETH",
+	"Chain": "ethereum"
+}

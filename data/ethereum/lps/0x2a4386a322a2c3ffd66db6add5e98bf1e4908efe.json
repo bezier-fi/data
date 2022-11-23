@@ -1,0 +1,10 @@
+{
+	"Id": "0x2a4386a322a2c3ffd66db6add5e98bf1e4908efe",
+	"Symbol": "WETH-SNIB",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd96a6c515f50f2ea38571d1d8658eb6d565edc04"
+	],
+	"Protocol": "30b089e1-2819-4974-87eb-fc11ce2a50f3",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x4e713de72feb4707a2687747c93ff3809c46b348",
+	"Symbol": "FIDA-USDC.e",
+	"UnderlyingTokens": [
+		"0x217c5578d636343aaa38deb6501f0e141670ae21",
+		"0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664"
+	],
+	"Protocol": "59a2613b-cfaa-42ef-9300-adb3a95c0f8c",
+	"Chain": "avalanche"
+}

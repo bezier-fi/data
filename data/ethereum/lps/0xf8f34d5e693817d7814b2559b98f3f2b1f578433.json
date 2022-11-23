@@ -1,0 +1,10 @@
+{
+	"Id": "0xf8f34d5e693817d7814b2559b98f3f2b1f578433",
+	"Symbol": "WETH-KUJIRA",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd8ce941666e429bbd969c1af11f474b505c69bc5"
+	],
+	"Protocol": "30b089e1-2819-4974-87eb-fc11ce2a50f3",
+	"Chain": "ethereum"
+}

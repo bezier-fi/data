@@ -1,0 +1,10 @@
+{
+	"Id": "0xd80de7587874ea636ce22cb5918bdabcbebb66a2",
+	"Symbol": "SAUDOGE-WETH",
+	"UnderlyingTokens": [
+		"0x330a60b1aa904eec9408532a30e8029c0f700908",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "30b089e1-2819-4974-87eb-fc11ce2a50f3",
+	"Chain": "ethereum"
+}

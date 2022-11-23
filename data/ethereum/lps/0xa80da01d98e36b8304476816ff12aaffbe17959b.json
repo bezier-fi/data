@@ -1,0 +1,10 @@
+{
+	"Id": "0xa80da01d98e36b8304476816ff12aaffbe17959b",
+	"Symbol": "TaleOfV-WETH",
+	"UnderlyingTokens": [
+		"0x0ee2393cf0d215310f88a8edee0d8459a0930a4c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "30b089e1-2819-4974-87eb-fc11ce2a50f3",
+	"Chain": "ethereum"
+}

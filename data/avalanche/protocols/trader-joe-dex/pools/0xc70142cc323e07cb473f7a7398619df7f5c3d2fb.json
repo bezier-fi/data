@@ -1,0 +1,27 @@
+{
+	"Id": "0xc70142cc323e07cb473f7a7398619df7f5c3d2fb",
+	"Protocol": "59a2613b-cfaa-42ef-9300-adb3a95c0f8c",
+	"Outputs": [
+		{
+			"Address": "0xc70142cc323e07cb473f7a7398619df7f5c3d2fb",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x217c5578d636343aaa38deb6501f0e141670ae21",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xbe684236779ff0a48bfa02847f5f1939f56541b3",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FIDA-WAVAX",
+	"Chain": "avalanche"
+}

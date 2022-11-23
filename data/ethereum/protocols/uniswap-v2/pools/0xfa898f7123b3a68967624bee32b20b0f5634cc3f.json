@@ -1,0 +1,27 @@
+{
+	"Id": "0xfa898f7123b3a68967624bee32b20b0f5634cc3f",
+	"Protocol": "30b089e1-2819-4974-87eb-fc11ce2a50f3",
+	"Outputs": [
+		{
+			"Address": "0xfa898f7123b3a68967624bee32b20b0f5634cc3f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x25d219feccda2bb672a8597bb514d97948b02278",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Messi-WETH",
+	"Chain": "ethereum"
+}

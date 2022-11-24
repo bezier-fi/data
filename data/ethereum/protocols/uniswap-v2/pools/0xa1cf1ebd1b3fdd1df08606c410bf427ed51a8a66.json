@@ -1,0 +1,27 @@
+{
+	"Id": "0xa1cf1ebd1b3fdd1df08606c410bf427ed51a8a66",
+	"Protocol": "748e4e2a-7d72-4b9f-b7d6-21db87846a15",
+	"Outputs": [
+		{
+			"Address": "0xa1cf1ebd1b3fdd1df08606c410bf427ed51a8a66",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1335dbe418fa74189ea68aa953fe41c7d7e0a4f8",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GEMINI-WETH",
+	"Chain": "ethereum"
+}

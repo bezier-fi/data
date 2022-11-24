@@ -1,0 +1,27 @@
+{
+	"Id": "0xd738aff65485ec1a3726e28bf8a9d0cf47849842",
+	"Protocol": "f729d045-2458-44bb-a463-5ba30f9418e8",
+	"Outputs": [
+		{
+			"Address": "0xd738aff65485ec1a3726e28bf8a9d0cf47849842",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x172370d5cd63279efa6d502dab29171933a610af",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CRV-WBTC (1.00%)",
+	"Chain": "polygon"
+}

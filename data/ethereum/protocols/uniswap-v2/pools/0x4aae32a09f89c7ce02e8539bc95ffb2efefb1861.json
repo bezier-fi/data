@@ -1,0 +1,27 @@
+{
+	"Id": "0x4aae32a09f89c7ce02e8539bc95ffb2efefb1861",
+	"Protocol": "748e4e2a-7d72-4b9f-b7d6-21db87846a15",
+	"Outputs": [
+		{
+			"Address": "0x4aae32a09f89c7ce02e8539bc95ffb2efefb1861",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x67cf29454230c6535c8e7d4ccdcf8adf8d6c0b97",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DAON-WETH",
+	"Chain": "ethereum"
+}

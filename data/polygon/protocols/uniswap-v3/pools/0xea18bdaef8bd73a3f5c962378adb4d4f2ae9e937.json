@@ -1,0 +1,27 @@
+{
+	"Id": "0xea18bdaef8bd73a3f5c962378adb4d4f2ae9e937",
+	"Protocol": "f729d045-2458-44bb-a463-5ba30f9418e8",
+	"Outputs": [
+		{
+			"Address": "0xea18bdaef8bd73a3f5c962378adb4d4f2ae9e937",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x9cb74c8032b007466865f060ad2c46145d45553d",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WMATIC-IDEX (1.00%)",
+	"Chain": "polygon"
+}

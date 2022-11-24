@@ -1,0 +1,10 @@
+{
+	"Id": "0x4aae32a09f89c7ce02e8539bc95ffb2efefb1861",
+	"Symbol": "DAON-WETH",
+	"UnderlyingTokens": [
+		"0x67cf29454230c6535c8e7d4ccdcf8adf8d6c0b97",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "748e4e2a-7d72-4b9f-b7d6-21db87846a15",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xe8eb2e806f9fd214e47bdf618f9cca5626674489",
+	"Symbol": "MARS-WETH",
+	"UnderlyingTokens": [
+		"0x44b88fb6bc0c9489f5034cc064623033222bdd5b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "748e4e2a-7d72-4b9f-b7d6-21db87846a15",
+	"Chain": "ethereum"
+}

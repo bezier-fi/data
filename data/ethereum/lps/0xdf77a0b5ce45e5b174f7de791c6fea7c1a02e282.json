@@ -1,0 +1,10 @@
+{
+	"Id": "0xdf77a0b5ce45e5b174f7de791c6fea7c1a02e282",
+	"Symbol": "GEMD-WETH",
+	"UnderlyingTokens": [
+		"0x30babc130fdcfb94896b5d7f232b632a24d92531",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "748e4e2a-7d72-4b9f-b7d6-21db87846a15",
+	"Chain": "ethereum"
+}

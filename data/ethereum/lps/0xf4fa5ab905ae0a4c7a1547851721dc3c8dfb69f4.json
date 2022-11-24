@@ -1,0 +1,10 @@
+{
+	"Id": "0xf4fa5ab905ae0a4c7a1547851721dc3c8dfb69f4",
+	"Symbol": "ABI-WETH",
+	"UnderlyingTokens": [
+		"0xa31dfe74cda04de990cafc6a0ab2bb6d6c9077cd",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "748e4e2a-7d72-4b9f-b7d6-21db87846a15",
+	"Chain": "ethereum"
+}

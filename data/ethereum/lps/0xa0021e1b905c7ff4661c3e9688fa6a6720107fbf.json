@@ -1,0 +1,10 @@
+{
+	"Id": "0xa0021e1b905c7ff4661c3e9688fa6a6720107fbf",
+	"Symbol": "WETH-BINO",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd99f9c336e486b83397ad68d44b54bd32ab2c0a3"
+	],
+	"Protocol": "748e4e2a-7d72-4b9f-b7d6-21db87846a15",
+	"Chain": "ethereum"
+}

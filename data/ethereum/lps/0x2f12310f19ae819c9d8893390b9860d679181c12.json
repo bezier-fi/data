@@ -1,0 +1,10 @@
+{
+	"Id": "0x2f12310f19ae819c9d8893390b9860d679181c12",
+	"Symbol": "WETH-champion",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc49e21367285b3e774f6fc8bdc378c9a46a82962"
+	],
+	"Protocol": "748e4e2a-7d72-4b9f-b7d6-21db87846a15",
+	"Chain": "ethereum"
+}

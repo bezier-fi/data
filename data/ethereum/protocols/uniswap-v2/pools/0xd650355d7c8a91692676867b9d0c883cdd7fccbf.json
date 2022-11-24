@@ -1,0 +1,27 @@
+{
+	"Id": "0xd650355d7c8a91692676867b9d0c883cdd7fccbf",
+	"Protocol": "748e4e2a-7d72-4b9f-b7d6-21db87846a15",
+	"Outputs": [
+		{
+			"Address": "0xd650355d7c8a91692676867b9d0c883cdd7fccbf",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x03e8c64bac893af85f31f42964379c259754c4ef",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Rammstein-WETH",
+	"Chain": "ethereum"
+}

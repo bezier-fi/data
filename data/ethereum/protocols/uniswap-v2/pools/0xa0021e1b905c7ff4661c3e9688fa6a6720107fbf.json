@@ -1,0 +1,27 @@
+{
+	"Id": "0xa0021e1b905c7ff4661c3e9688fa6a6720107fbf",
+	"Protocol": "748e4e2a-7d72-4b9f-b7d6-21db87846a15",
+	"Outputs": [
+		{
+			"Address": "0xa0021e1b905c7ff4661c3e9688fa6a6720107fbf",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xd99f9c336e486b83397ad68d44b54bd32ab2c0a3",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-BINO",
+	"Chain": "ethereum"
+}

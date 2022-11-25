@@ -1,0 +1,10 @@
+{
+	"Id": "0x13e3dde321365d0c55c827dd5dffa86df9899a92",
+	"Symbol": "GBR-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x2275d4937b6bfd3c75823744d3efbf6c3a8de473",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "19200013-c50a-4e67-8955-7412de340b15",
+	"Chain": "ethereum"
+}

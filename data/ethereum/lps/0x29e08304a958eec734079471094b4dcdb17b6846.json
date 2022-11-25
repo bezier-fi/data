@@ -1,0 +1,10 @@
+{
+	"Id": "0x29e08304a958eec734079471094b4dcdb17b6846",
+	"Symbol": "WETH-$WISH",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf064dfb99fa829ab42249691fccf380c612db32a"
+	],
+	"Protocol": "fe0145b9-5220-4611-8bd6-a445c4106441",
+	"Chain": "ethereum"
+}

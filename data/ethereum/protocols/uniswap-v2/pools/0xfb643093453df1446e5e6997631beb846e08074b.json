@@ -1,0 +1,27 @@
+{
+	"Id": "0xfb643093453df1446e5e6997631beb846e08074b",
+	"Protocol": "fe0145b9-5220-4611-8bd6-a445c4106441",
+	"Outputs": [
+		{
+			"Address": "0xfb643093453df1446e5e6997631beb846e08074b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5c5dbe710906e14ad3dd3ab7851c0182af7d70ef",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MARBLEX-WETH",
+	"Chain": "ethereum"
+}

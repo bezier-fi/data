@@ -1,0 +1,27 @@
+{
+	"Id": "0xDa10C3f360dC741e7359D561Fb4b4e008C37b356",
+	"Protocol": "145a70dc-8e41-4571-a71f-59a58321cd85",
+	"Outputs": [
+		{
+			"Address": "0xDa10C3f360dC741e7359D561Fb4b4e008C37b356",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x39d2204d3262d6fe66cb52B2e0220A7B412d329a",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xE7a24EF0C5e95Ffb0f6684b813A78F2a3AD7D171",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ZALSTA3CRV-f",
+	"Chain": "polygon"
+}

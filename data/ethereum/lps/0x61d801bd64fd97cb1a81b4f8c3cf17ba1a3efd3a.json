@@ -1,0 +1,10 @@
+{
+	"Id": "0x61d801bd64fd97cb1a81b4f8c3cf17ba1a3efd3a",
+	"Symbol": "LEVI-WETH",
+	"UnderlyingTokens": [
+		"0x644cd53e6ca71f55694f575dc0e4b2b0a8739310",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "fe0145b9-5220-4611-8bd6-a445c4106441",
+	"Chain": "ethereum"
+}

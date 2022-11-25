@@ -1,0 +1,10 @@
+{
+	"Id": "0xe84cfccf1fea4a03602eff08833053e831dd6301",
+	"Symbol": "WETH-$SATO",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfb1335ce9a97a53f34ab47b087702fc0fc826c09"
+	],
+	"Protocol": "fe0145b9-5220-4611-8bd6-a445c4106441",
+	"Chain": "ethereum"
+}

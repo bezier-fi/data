@@ -1,0 +1,10 @@
+{
+	"Id": "0xf7148ebd6d3f289306c7e27898774446fa2accdb",
+	"Symbol": "WETH-MARBLEX",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xdc8a883dd8e0e3b90cf45aee0acb3ad26b70696a"
+	],
+	"Protocol": "fe0145b9-5220-4611-8bd6-a445c4106441",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x813ced97f882bf192c9c4cae8346c8abc7df7fc2",
+	"Symbol": "Messi-WETH",
+	"UnderlyingTokens": [
+		"0x5c10981c20506285bf00c2ff9d3885a1d0ce8432",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "fe0145b9-5220-4611-8bd6-a445c4106441",
+	"Chain": "ethereum"
+}

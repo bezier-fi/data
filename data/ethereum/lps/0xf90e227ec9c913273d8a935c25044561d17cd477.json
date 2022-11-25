@@ -1,0 +1,10 @@
+{
+	"Id": "0xf90e227ec9c913273d8a935c25044561d17cd477",
+	"Symbol": "TURKI-WETH",
+	"UnderlyingTokens": [
+		"0x24f01bba7bedac307b1975c8ec9b1708e77a06ac",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "fe0145b9-5220-4611-8bd6-a445c4106441",
+	"Chain": "ethereum"
+}

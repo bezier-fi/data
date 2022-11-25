@@ -1,0 +1,27 @@
+{
+	"Id": "0xf90e227ec9c913273d8a935c25044561d17cd477",
+	"Protocol": "fe0145b9-5220-4611-8bd6-a445c4106441",
+	"Outputs": [
+		{
+			"Address": "0xf90e227ec9c913273d8a935c25044561d17cd477",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x24f01bba7bedac307b1975c8ec9b1708e77a06ac",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TURKI-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x3e3b003ecf95feab6b8a7bb419816c18f3e877c4",
+	"Symbol": "FVERSE-WETH",
+	"UnderlyingTokens": [
+		"0xab3faf4584a14ecfe6de7b89e59c8ad14835d3d0",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "fe0145b9-5220-4611-8bd6-a445c4106441",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x3580e908efe52d6dca5a2f004c21d450ea3d19d2",
+	"Protocol": "3504cf69-52b9-4f3b-9736-5919b1b24a2e",
+	"Outputs": [
+		{
+			"Address": "0x3580e908efe52d6dca5a2f004c21d450ea3d19d2",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6d14bb08c11833c2d20ec7f0f7f62882e00223b6",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "HiFi-WETH",
+	"Chain": "ethereum"
+}

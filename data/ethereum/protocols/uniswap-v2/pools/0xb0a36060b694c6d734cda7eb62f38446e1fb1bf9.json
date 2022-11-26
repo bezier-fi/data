@@ -1,0 +1,27 @@
+{
+	"Id": "0xb0a36060b694c6d734cda7eb62f38446e1fb1bf9",
+	"Protocol": "3504cf69-52b9-4f3b-9736-5919b1b24a2e",
+	"Outputs": [
+		{
+			"Address": "0xb0a36060b694c6d734cda7eb62f38446e1fb1bf9",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xcb7e6ba8c8007c7bd782ec283448da5124066ca2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-YOSHIKO",
+	"Chain": "ethereum"
+}

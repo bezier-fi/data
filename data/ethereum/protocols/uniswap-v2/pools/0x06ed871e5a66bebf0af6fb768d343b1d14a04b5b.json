@@ -1,0 +1,27 @@
+{
+	"Id": "0x06ed871e5a66bebf0af6fb768d343b1d14a04b5b",
+	"Protocol": "3504cf69-52b9-4f3b-9736-5919b1b24a2e",
+	"Outputs": [
+		{
+			"Address": "0x06ed871e5a66bebf0af6fb768d343b1d14a04b5b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xf21661d0d1d76d3ecb8e1b9f1c923dbfffae4097",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xf9a2d7e60a3297e513317ad1d7ce101cc4c6c8f6",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "RIO-rUSD",
+	"Chain": "ethereum"
+}

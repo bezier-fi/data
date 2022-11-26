@@ -1,0 +1,27 @@
+{
+	"Id": "0x72926b9c3f48b7f6255776604174c799fa170030",
+	"Protocol": "b1261db2-5ee2-45cb-bd30-4276810a950a",
+	"Outputs": [
+		{
+			"Address": "0x72926b9c3f48b7f6255776604174c799fa170030",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xeb4c2781e4eba804ce9a9803c67d0893436bb27d",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-renBTC (1.00%)",
+	"Chain": "ethereum"
+}

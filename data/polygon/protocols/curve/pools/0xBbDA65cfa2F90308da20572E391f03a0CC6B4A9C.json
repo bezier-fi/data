@@ -1,0 +1,27 @@
+{
+	"Id": "0xBbDA65cfa2F90308da20572E391f03a0CC6B4A9C",
+	"Protocol": "0c3a6826-5eac-461e-ab5e-d620f1a85ae6",
+	"Outputs": [
+		{
+			"Address": "0xBbDA65cfa2F90308da20572E391f03a0CC6B4A9C",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0B3154a7648a822B918A29eA2807F154AE39e11f",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xE7a24EF0C5e95Ffb0f6684b813A78F2a3AD7D171",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ZALOOPS3CRV-f",
+	"Chain": "polygon"
+}

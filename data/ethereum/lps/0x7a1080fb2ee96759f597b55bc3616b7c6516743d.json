@@ -1,0 +1,10 @@
+{
+	"Id": "0x7a1080fb2ee96759f597b55bc3616b7c6516743d",
+	"Symbol": "TUF-WETH",
+	"UnderlyingTokens": [
+		"0x6f8b23296394d20ec048fbdec8ebc0ca90f5c8f1",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3504cf69-52b9-4f3b-9736-5919b1b24a2e",
+	"Chain": "ethereum"
+}

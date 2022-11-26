@@ -1,0 +1,10 @@
+{
+	"Id": "0x33492df7824edb116e363d1f63a20b6569626612",
+	"Symbol": "WETH-dark horse",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xdc9eebcd22a72233010ad3b8a8ba25d3422aa8d9"
+	],
+	"Protocol": "3504cf69-52b9-4f3b-9736-5919b1b24a2e",
+	"Chain": "ethereum"
+}

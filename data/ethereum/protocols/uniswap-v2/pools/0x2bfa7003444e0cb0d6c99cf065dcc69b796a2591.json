@@ -1,0 +1,27 @@
+{
+	"Id": "0x2bfa7003444e0cb0d6c99cf065dcc69b796a2591",
+	"Protocol": "3504cf69-52b9-4f3b-9736-5919b1b24a2e",
+	"Outputs": [
+		{
+			"Address": "0x2bfa7003444e0cb0d6c99cf065dcc69b796a2591",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4c344cabc68aa069f482ee55cbd721aa0bfba4ab",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "RYUNA-WETH",
+	"Chain": "ethereum"
+}

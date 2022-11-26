@@ -1,0 +1,10 @@
+{
+	"Id": "0x351e05c3bd49193718d591d068495fc29b10dc2b",
+	"Symbol": "KINU-WETH",
+	"UnderlyingTokens": [
+		"0x6e83e5c738db6805ce334d586c2575deeca2e8c9",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3504cf69-52b9-4f3b-9736-5919b1b24a2e",
+	"Chain": "ethereum"
+}

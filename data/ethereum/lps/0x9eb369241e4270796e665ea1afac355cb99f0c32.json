@@ -1,0 +1,10 @@
+{
+	"Id": "0x9eb369241e4270796e665ea1afac355cb99f0c32",
+	"Symbol": "WETH-rUSD",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf9a2d7e60a3297e513317ad1d7ce101cc4c6c8f6"
+	],
+	"Protocol": "3504cf69-52b9-4f3b-9736-5919b1b24a2e",
+	"Chain": "ethereum"
+}

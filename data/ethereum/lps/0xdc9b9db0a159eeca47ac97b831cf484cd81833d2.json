@@ -1,0 +1,10 @@
+{
+	"Id": "0xdc9b9db0a159eeca47ac97b831cf484cd81833d2",
+	"Symbol": "WETH-DINOTAMA",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf514fa44f6b669ee38eaf92dfcfb4900507a7e82"
+	],
+	"Protocol": "06755345-85c1-40e0-b252-c6a328c0f247",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xb37f80e120679bf39e5717bbe7e2c76b71060cf8",
+	"Symbol": "WETH-Wonder",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe96d8c98565d9ab73bc0d3f3bb925fbcccbf9ef7"
+	],
+	"Protocol": "06755345-85c1-40e0-b252-c6a328c0f247",
+	"Chain": "ethereum"
+}

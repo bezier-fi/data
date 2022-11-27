@@ -1,0 +1,27 @@
+{
+	"Id": "0x1ae70fd45aa0ecda35d10a5963d3cae20e79be40",
+	"Protocol": "5bab515d-bb36-4875-b71a-a48850268c6b",
+	"Outputs": [
+		{
+			"Address": "0x1ae70fd45aa0ecda35d10a5963d3cae20e79be40",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa1c57f48f0deb89f569dfbe6e2b7f46d33606fd4",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xb33eaad8d922b1083446dc23f610c2567fb5180f",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MANA-UNI (1.00%)",
+	"Chain": "polygon"
+}

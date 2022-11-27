@@ -1,0 +1,10 @@
+{
+	"Id": "0x3ef15cb23582dc0d53970535c525c28b0d950d44",
+	"Symbol": "WETH-VOX",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf7b2cbf1b4054dbd592b1d969ddfeb4778f5aaee"
+	],
+	"Protocol": "06755345-85c1-40e0-b252-c6a328c0f247",
+	"Chain": "ethereum"
+}

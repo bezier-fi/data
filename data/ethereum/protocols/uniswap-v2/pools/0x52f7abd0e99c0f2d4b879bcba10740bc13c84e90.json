@@ -1,0 +1,27 @@
+{
+	"Id": "0x52f7abd0e99c0f2d4b879bcba10740bc13c84e90",
+	"Protocol": "06755345-85c1-40e0-b252-c6a328c0f247",
+	"Outputs": [
+		{
+			"Address": "0x52f7abd0e99c0f2d4b879bcba10740bc13c84e90",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xaff41f47a7dd21def17d2bd44e8a3cfb7bf22df5",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Qatar-WETH",
+	"Chain": "ethereum"
+}

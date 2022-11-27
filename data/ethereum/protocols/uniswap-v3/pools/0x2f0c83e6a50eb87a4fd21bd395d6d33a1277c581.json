@@ -1,0 +1,27 @@
+{
+	"Id": "0x2f0c83e6a50eb87a4fd21bd395d6d33a1277c581",
+	"Protocol": "5bab515d-bb36-4875-b71a-a48850268c6b",
+	"Outputs": [
+		{
+			"Address": "0x2f0c83e6a50eb87a4fd21bd395d6d33a1277c581",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb7c9e99da8a857ce576a830a9c19312114d9de02",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xfc4913214444af5c715cc9f7b52655e788a569ed",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TEAM-ICSA (0.30%)",
+	"Chain": "ethereum"
+}

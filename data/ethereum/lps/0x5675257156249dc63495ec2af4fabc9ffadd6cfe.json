@@ -1,0 +1,10 @@
+{
+	"Id": "0x5675257156249dc63495ec2af4fabc9ffadd6cfe",
+	"Symbol": "WETH-FTX2.0",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf20ca6c0a9d5f30cfddaa99e9e006fa5f7b175d8"
+	],
+	"Protocol": "06755345-85c1-40e0-b252-c6a328c0f247",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x65152988700677b28e6340db823f2cc1eb9f1372",
+	"Protocol": "06755345-85c1-40e0-b252-c6a328c0f247",
+	"Outputs": [
+		{
+			"Address": "0x65152988700677b28e6340db823f2cc1eb9f1372",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xd49ed7e8fadd05a687ab039117dba44201b0ef99",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-Saphira",
+	"Chain": "ethereum"
+}

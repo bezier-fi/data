@@ -1,0 +1,27 @@
+{
+	"Id": "0xabd9c284116b2e757e3d4f6e36c5050aead24e0c",
+	"Protocol": "06755345-85c1-40e0-b252-c6a328c0f247",
+	"Outputs": [
+		{
+			"Address": "0xabd9c284116b2e757e3d4f6e36c5050aead24e0c",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x961c8c0b1aad0c0b10a51fef6a867e3091bcef17",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DYP-USDC",
+	"Chain": "ethereum"
+}

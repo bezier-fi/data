@@ -1,0 +1,10 @@
+{
+	"Id": "0x8bc574821189ddc2597ed2d08936246326dd96d7",
+	"Symbol": "PIECE-WETH",
+	"UnderlyingTokens": [
+		"0xbac6b61f429f3143d07efcbabb7b7a3751ed36ac",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "06755345-85c1-40e0-b252-c6a328c0f247",
+	"Chain": "ethereum"
+}

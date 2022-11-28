@@ -1,0 +1,23 @@
+{
+	"Id": "farm-0x18f92cf77839fbc15d9f928f622bad76fd89ca24",
+	"Protocol": "613d6ebe-ad85-4467-93ad-798047de7ce0",
+	"Outputs": [
+		{
+			"Address": "0x18f92cf77839fbc15d9f928f622bad76fd89ca24",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x18f92cf77839fbc15d9f928f622bad76fd89ca24",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "LEO-WAVAX",
+	"Chain": "avalanche"
+}

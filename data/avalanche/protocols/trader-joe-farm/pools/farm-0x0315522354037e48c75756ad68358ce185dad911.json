@@ -1,0 +1,23 @@
+{
+	"Id": "farm-0x0315522354037e48c75756ad68358ce185dad911",
+	"Protocol": "613d6ebe-ad85-4467-93ad-798047de7ce0",
+	"Outputs": [
+		{
+			"Address": "0x0315522354037e48c75756ad68358ce185dad911",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0315522354037e48c75756ad68358ce185dad911",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ORBS-WAVAX",
+	"Chain": "avalanche"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x19995ad68fea76c448c2a5e2134313cf72d16dcc",
+	"Symbol": "DOUB-USDC",
+	"UnderlyingTokens": [
+		"0xb11877e59c3b59870e8a6f771a0c83d1ee3f60f8",
+		"0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e"
+	],
+	"Protocol": "613d6ebe-ad85-4467-93ad-798047de7ce0",
+	"Chain": "avalanche"
+}

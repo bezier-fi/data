@@ -1,0 +1,23 @@
+{
+	"Id": "0x0a350c62f4b8C7dA93fBca469e53a182b5BBD044",
+	"Protocol": "080dd88e-1799-449d-b177-22cd78009439",
+	"Outputs": [
+		{
+			"Address": "0x0a350c62f4b8C7dA93fBca469e53a182b5BBD044",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xdE1A11C331a0E45B9BA8FeE04D4B51A745f1e4A4",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDT/BUSD/DAI",
+	"Chain": "avalanche"
+}

@@ -1,0 +1,23 @@
+{
+	"Id": "farm-0x0b7e759a94d18a0109b9317606aa7094a40f8733",
+	"Protocol": "613d6ebe-ad85-4467-93ad-798047de7ce0",
+	"Outputs": [
+		{
+			"Address": "0x0b7e759a94d18a0109b9317606aa7094a40f8733",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0b7e759a94d18a0109b9317606aa7094a40f8733",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "agEUR-USDC",
+	"Chain": "avalanche"
+}

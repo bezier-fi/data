@@ -1,0 +1,23 @@
+{
+	"Id": "farm-0x0038d8b512399638a86851f6c213425749a057b6",
+	"Protocol": "613d6ebe-ad85-4467-93ad-798047de7ce0",
+	"Outputs": [
+		{
+			"Address": "0x0038d8b512399638a86851f6c213425749a057b6",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0038d8b512399638a86851f6c213425749a057b6",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DAI.e-VOLT",
+	"Chain": "avalanche"
+}

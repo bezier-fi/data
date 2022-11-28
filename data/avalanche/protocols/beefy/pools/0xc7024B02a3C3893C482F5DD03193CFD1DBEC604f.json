@@ -1,0 +1,23 @@
+{
+	"Id": "0xc7024B02a3C3893C482F5DD03193CFD1DBEC604f",
+	"Protocol": "080dd88e-1799-449d-b177-22cd78009439",
+	"Outputs": [
+		{
+			"Address": "0xc7024B02a3C3893C482F5DD03193CFD1DBEC604f",
+			"Apr": 41.878826,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xCDFD91eEa657cc2701117fe9711C9a4F61FEED23",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PTP-AVAX LP",
+	"Chain": "avalanche"
+}

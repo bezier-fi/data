@@ -1,0 +1,23 @@
+{
+	"Id": "farm-0xdb3e89fabeb7462ee7aeaadb9f8ec46f50ee0b7c",
+	"Protocol": "613d6ebe-ad85-4467-93ad-798047de7ce0",
+	"Outputs": [
+		{
+			"Address": "0xdb3e89fabeb7462ee7aeaadb9f8ec46f50ee0b7c",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xdb3e89fabeb7462ee7aeaadb9f8ec46f50ee0b7c",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Dice-Dice",
+	"Chain": "avalanche"
+}

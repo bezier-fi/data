@@ -1,0 +1,23 @@
+{
+	"Id": "0x17657955D954bD7F7315C388D7099af7B0b851FA",
+	"Protocol": "080dd88e-1799-449d-b177-22cd78009439",
+	"Outputs": [
+		{
+			"Address": "0x17657955D954bD7F7315C388D7099af7B0b851FA",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x92dC558cB9f8d0473391283EaD77b79b416877cA",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "UNI-AVAX LP",
+	"Chain": "avalanche"
+}

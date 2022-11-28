@@ -1,0 +1,23 @@
+{
+	"Id": "farm-0x8392a728aee00a26e99af8e837c33591944e033a",
+	"Protocol": "613d6ebe-ad85-4467-93ad-798047de7ce0",
+	"Outputs": [
+		{
+			"Address": "0x8392a728aee00a26e99af8e837c33591944e033a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8392a728aee00a26e99af8e837c33591944e033a",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH.e-EVIC",
+	"Chain": "avalanche"
+}

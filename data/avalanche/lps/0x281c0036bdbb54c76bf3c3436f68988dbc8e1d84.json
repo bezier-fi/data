@@ -1,0 +1,10 @@
+{
+	"Id": "0x281c0036bdbb54c76bf3c3436f68988dbc8e1d84",
+	"Symbol": "USDC-MEAT",
+	"UnderlyingTokens": [
+		"0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+		"0xd3253beb9d8ae234e9f2b72a66df07cc75ac9e79"
+	],
+	"Protocol": "613d6ebe-ad85-4467-93ad-798047de7ce0",
+	"Chain": "avalanche"
+}

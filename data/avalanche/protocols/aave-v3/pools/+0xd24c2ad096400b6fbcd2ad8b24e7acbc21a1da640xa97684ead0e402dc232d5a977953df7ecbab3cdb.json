@@ -1,0 +1,23 @@
+{
+	"Id": "0xd24c2ad096400b6fbcd2ad8b24e7acbc21a1da640xa97684ead0e402dc232d5a977953df7ecbab3cdb",
+	"Protocol": "927ed9ac-e20d-4091-85b7-f7e9ef81b50d",
+	"Outputs": [
+		{
+			"Address": "0xc45a479877e1e9dfe9fcd4056c699575a1045daa",
+			"Apr": 3.0001605,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xd24c2ad096400b6fbcd2ad8b24e7acbc21a1da64",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FRAX",
+	"Chain": "avalanche"
+}

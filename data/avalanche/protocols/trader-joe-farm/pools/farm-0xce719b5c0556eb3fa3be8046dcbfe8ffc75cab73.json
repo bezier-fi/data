@@ -1,0 +1,30 @@
+{
+	"Id": "farm-0xce719b5c0556eb3fa3be8046dcbfe8ffc75cab73",
+	"Protocol": "613d6ebe-ad85-4467-93ad-798047de7ce0",
+	"Outputs": [
+		{
+			"Address": "0xce719b5c0556eb3fa3be8046dcbfe8ffc75cab73",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		},
+		{
+			"Address": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xce719b5c0556eb3fa3be8046dcbfe8ffc75cab73",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DCAR-USDC",
+	"Chain": "avalanche"
+}

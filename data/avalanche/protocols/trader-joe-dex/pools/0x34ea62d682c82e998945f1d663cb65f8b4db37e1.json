@@ -1,0 +1,27 @@
+{
+	"Id": "0x34ea62d682c82e998945f1d663cb65f8b4db37e1",
+	"Protocol": "613d6ebe-ad85-4467-93ad-798047de7ce0",
+	"Outputs": [
+		{
+			"Address": "0x34ea62d682c82e998945f1d663cb65f8b4db37e1",
+			"Apr": 0.4798627,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1b88d7ad51626044ec62ef9803ea264da4442f32",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ZOO-WAVAX",
+	"Chain": "avalanche"
+}

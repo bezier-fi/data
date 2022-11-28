@@ -1,0 +1,23 @@
+{
+	"Id": "farm-0x6d5229bc639fba1f18c3d3c80c18bfa8100350e7",
+	"Protocol": "613d6ebe-ad85-4467-93ad-798047de7ce0",
+	"Outputs": [
+		{
+			"Address": "0x6d5229bc639fba1f18c3d3c80c18bfa8100350e7",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6d5229bc639fba1f18c3d3c80c18bfa8100350e7",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WAVAX-SSH",
+	"Chain": "avalanche"
+}

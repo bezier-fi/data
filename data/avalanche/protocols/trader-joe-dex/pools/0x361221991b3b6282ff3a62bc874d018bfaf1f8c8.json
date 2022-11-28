@@ -1,0 +1,27 @@
+{
+	"Id": "0x361221991b3b6282ff3a62bc874d018bfaf1f8c8",
+	"Protocol": "613d6ebe-ad85-4467-93ad-798047de7ce0",
+	"Outputs": [
+		{
+			"Address": "0x361221991b3b6282ff3a62bc874d018bfaf1f8c8",
+			"Apr": 0.49101034,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xd6070ae98b8069de6b494332d1a1a81b6179d960",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WAVAX-BIFI",
+	"Chain": "avalanche"
+}

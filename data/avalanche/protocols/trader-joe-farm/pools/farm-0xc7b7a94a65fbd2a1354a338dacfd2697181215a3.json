@@ -1,0 +1,23 @@
+{
+	"Id": "farm-0xc7b7a94a65fbd2a1354a338dacfd2697181215a3",
+	"Protocol": "613d6ebe-ad85-4467-93ad-798047de7ce0",
+	"Outputs": [
+		{
+			"Address": "0xc7b7a94a65fbd2a1354a338dacfd2697181215a3",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc7b7a94a65fbd2a1354a338dacfd2697181215a3",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TRUSD-USDa",
+	"Chain": "avalanche"
+}

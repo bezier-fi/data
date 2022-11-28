@@ -1,0 +1,23 @@
+{
+	"Id": "0x78527f8155c74d8BFb71f1363d476433e39B4f14",
+	"Protocol": "080dd88e-1799-449d-b177-22cd78009439",
+	"Outputs": [
+		{
+			"Address": "0x78527f8155c74d8BFb71f1363d476433e39B4f14",
+			"Apr": 24.491854,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xf57971383560715CcCF94E0C639125Ae0e955e60",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BUSD-AVAX LP",
+	"Chain": "avalanche"
+}

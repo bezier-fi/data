@@ -1,0 +1,10 @@
+{
+	"Id": "0x8def3929fda2332b523488c0b4dddeea7553db6f",
+	"Symbol": "JADE-USDC",
+	"UnderlyingTokens": [
+		"0x80b010450fdaf6a3f8df033ee296e92751d603b3",
+		"0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e"
+	],
+	"Protocol": "613d6ebe-ad85-4467-93ad-798047de7ce0",
+	"Chain": "avalanche"
+}

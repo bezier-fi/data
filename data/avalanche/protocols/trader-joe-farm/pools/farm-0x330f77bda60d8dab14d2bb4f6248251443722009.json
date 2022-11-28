@@ -1,0 +1,23 @@
+{
+	"Id": "farm-0x330f77bda60d8dab14d2bb4f6248251443722009",
+	"Protocol": "613d6ebe-ad85-4467-93ad-798047de7ce0",
+	"Outputs": [
+		{
+			"Address": "0x330f77bda60d8dab14d2bb4f6248251443722009",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x330f77bda60d8dab14d2bb4f6248251443722009",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "STG-USDC",
+	"Chain": "avalanche"
+}

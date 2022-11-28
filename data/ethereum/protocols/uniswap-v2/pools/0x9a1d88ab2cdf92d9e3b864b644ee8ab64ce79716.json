@@ -1,0 +1,27 @@
+{
+	"Id": "0x9a1d88ab2cdf92d9e3b864b644ee8ab64ce79716",
+	"Protocol": "2f83ecc0-d7ce-49a9-896f-d2590df48e49",
+	"Outputs": [
+		{
+			"Address": "0x9a1d88ab2cdf92d9e3b864b644ee8ab64ce79716",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xaa11f92f87dffa8ce3e8c567b51d5e8a459a82e9",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FALKOR-WETH",
+	"Chain": "ethereum"
+}

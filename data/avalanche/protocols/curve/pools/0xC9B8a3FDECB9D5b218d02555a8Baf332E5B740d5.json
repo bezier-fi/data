@@ -1,0 +1,27 @@
+{
+	"Id": "0xC9B8a3FDECB9D5b218d02555a8Baf332E5B740d5",
+	"Protocol": "70a4d83e-41ea-4532-8240-7ce13d1f0ca1",
+	"Outputs": [
+		{
+			"Address": "0xC9B8a3FDECB9D5b218d02555a8Baf332E5B740d5",
+			"Apr": 0.42766362,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x06Cfc400951Ef1FB120b78448d753e1F9b02bA31",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x1337BedC9D22ecbe766dF105c9623922A27963EC",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "JYCrvPool3CRV-f",
+	"Chain": "avalanche"
+}

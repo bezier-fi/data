@@ -1,0 +1,27 @@
+{
+	"Id": "0x2ea06946f7b56e6c76e2e2558022088065cc650d",
+	"Protocol": "2f83ecc0-d7ce-49a9-896f-d2590df48e49",
+	"Outputs": [
+		{
+			"Address": "0x2ea06946f7b56e6c76e2e2558022088065cc650d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x41358f00010b9581d3cfd386b57aa4a7dfa893cd",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "XMAS-WETH",
+	"Chain": "ethereum"
+}

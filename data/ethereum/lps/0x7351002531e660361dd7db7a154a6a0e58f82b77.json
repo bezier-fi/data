@@ -1,0 +1,10 @@
+{
+	"Id": "0x7351002531e660361dd7db7a154a6a0e58f82b77",
+	"Symbol": "LUCY-WETH",
+	"UnderlyingTokens": [
+		"0x45ff085c34ab1d31ace16bfbf2ba7d3494182e18",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2f83ecc0-d7ce-49a9-896f-d2590df48e49",
+	"Chain": "ethereum"
+}

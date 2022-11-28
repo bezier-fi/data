@@ -1,0 +1,23 @@
+{
+	"Id": "farm-0x8def3929fda2332b523488c0b4dddeea7553db6f",
+	"Protocol": "613d6ebe-ad85-4467-93ad-798047de7ce0",
+	"Outputs": [
+		{
+			"Address": "0x8def3929fda2332b523488c0b4dddeea7553db6f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8def3929fda2332b523488c0b4dddeea7553db6f",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "JADE-USDC",
+	"Chain": "avalanche"
+}

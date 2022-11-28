@@ -1,0 +1,23 @@
+{
+	"Id": "0x6399A5E96CD627404b203Ea80517C3F8F9F78Fe6",
+	"Protocol": "080dd88e-1799-449d-b177-22cd78009439",
+	"Outputs": [
+		{
+			"Address": "0x6399A5E96CD627404b203Ea80517C3F8F9F78Fe6",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3c0ECf5F430bbE6B16A8911CB25d898Ef20805cF",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "UST-USDC LP",
+	"Chain": "avalanche"
+}

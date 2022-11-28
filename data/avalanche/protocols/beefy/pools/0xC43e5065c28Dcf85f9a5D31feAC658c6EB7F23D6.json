@@ -1,0 +1,23 @@
+{
+	"Id": "0xC43e5065c28Dcf85f9a5D31feAC658c6EB7F23D6",
+	"Protocol": "080dd88e-1799-449d-b177-22cd78009439",
+	"Outputs": [
+		{
+			"Address": "0xC43e5065c28Dcf85f9a5D31feAC658c6EB7F23D6",
+			"Apr": 1.2684052,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2a0f65C76008EcBC469b0850454E57310E770557",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PNG-USTw LP",
+	"Chain": "avalanche"
+}

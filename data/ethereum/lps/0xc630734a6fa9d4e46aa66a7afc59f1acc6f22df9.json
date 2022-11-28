@@ -1,0 +1,10 @@
+{
+	"Id": "0xc630734a6fa9d4e46aa66a7afc59f1acc6f22df9",
+	"Symbol": "CLOC-WETH",
+	"UnderlyingTokens": [
+		"0x07ca76e4ffd082ae4667c5604a2a896d7d409d70",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2f83ecc0-d7ce-49a9-896f-d2590df48e49",
+	"Chain": "ethereum"
+}

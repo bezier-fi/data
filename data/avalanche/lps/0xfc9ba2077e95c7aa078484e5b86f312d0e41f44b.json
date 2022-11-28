@@ -1,0 +1,10 @@
+{
+	"Id": "0xfc9ba2077e95c7aa078484e5b86f312d0e41f44b",
+	"Symbol": "KALM-USDC",
+	"UnderlyingTokens": [
+		"0x62aceea3e666c5706ce1c61055fac1a669d31d93",
+		"0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e"
+	],
+	"Protocol": "613d6ebe-ad85-4467-93ad-798047de7ce0",
+	"Chain": "avalanche"
+}

@@ -1,0 +1,23 @@
+{
+	"Id": "0xba8284Dc76fbEDd311f14937340E3bc174b4864c",
+	"Protocol": "080dd88e-1799-449d-b177-22cd78009439",
+	"Outputs": [
+		{
+			"Address": "0xba8284Dc76fbEDd311f14937340E3bc174b4864c",
+			"Apr": 135.3668,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1371a6d8CBe2Ca66d0911f270e1cAA7C12A3045A",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FLY-AVAX LP",
+	"Chain": "avalanche"
+}

@@ -1,0 +1,23 @@
+{
+	"Id": "farm-0x0dcd30561c1abe397feff30e244151869a3fedc6",
+	"Protocol": "613d6ebe-ad85-4467-93ad-798047de7ce0",
+	"Outputs": [
+		{
+			"Address": "0x0dcd30561c1abe397feff30e244151869a3fedc6",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0dcd30561c1abe397feff30e244151869a3fedc6",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MIM-MILK",
+	"Chain": "avalanche"
+}

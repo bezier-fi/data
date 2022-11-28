@@ -1,0 +1,23 @@
+{
+	"Id": "0xD0e4b0B711A5296a8D72EB8B2a9Cb0F3f7A4211d",
+	"Protocol": "080dd88e-1799-449d-b177-22cd78009439",
+	"Outputs": [
+		{
+			"Address": "0xD0e4b0B711A5296a8D72EB8B2a9Cb0F3f7A4211d",
+			"Apr": 0.54277086,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x50b7545627a5162F82A992c33b87aDc75187B218",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WBTC.e",
+	"Chain": "avalanche"
+}

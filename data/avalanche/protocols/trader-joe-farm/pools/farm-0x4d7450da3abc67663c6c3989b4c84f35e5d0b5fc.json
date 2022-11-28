@@ -1,0 +1,23 @@
+{
+	"Id": "farm-0x4d7450da3abc67663c6c3989b4c84f35e5d0b5fc",
+	"Protocol": "613d6ebe-ad85-4467-93ad-798047de7ce0",
+	"Outputs": [
+		{
+			"Address": "0x4d7450da3abc67663c6c3989b4c84f35e5d0b5fc",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4d7450da3abc67663c6c3989b4c84f35e5d0b5fc",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PIZZA-WAVAX",
+	"Chain": "avalanche"
+}

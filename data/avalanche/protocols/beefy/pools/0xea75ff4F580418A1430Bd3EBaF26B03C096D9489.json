@@ -1,0 +1,23 @@
+{
+	"Id": "0xea75ff4F580418A1430Bd3EBaF26B03C096D9489",
+	"Protocol": "080dd88e-1799-449d-b177-22cd78009439",
+	"Outputs": [
+		{
+			"Address": "0xea75ff4F580418A1430Bd3EBaF26B03C096D9489",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x67926d973cD8eE876aD210fAaf7DFfA99E414aCf",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "JOE-USDC.e LP",
+	"Chain": "avalanche"
+}

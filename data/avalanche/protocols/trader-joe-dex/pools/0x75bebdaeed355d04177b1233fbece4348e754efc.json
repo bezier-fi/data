@@ -1,0 +1,27 @@
+{
+	"Id": "0x75bebdaeed355d04177b1233fbece4348e754efc",
+	"Protocol": "613d6ebe-ad85-4467-93ad-798047de7ce0",
+	"Outputs": [
+		{
+			"Address": "0x75bebdaeed355d04177b1233fbece4348e754efc",
+			"Apr": 12.450645,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xfda866cfece71f4c17b4a5e5f9a00ac08c72eadc",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WAVAX-PERA",
+	"Chain": "avalanche"
+}

@@ -1,0 +1,23 @@
+{
+	"Id": "farm-0x391e477fca3fa3f1f5039621322bb53d1e381b7d",
+	"Protocol": "613d6ebe-ad85-4467-93ad-798047de7ce0",
+	"Outputs": [
+		{
+			"Address": "0x391e477fca3fa3f1f5039621322bb53d1e381b7d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x391e477fca3fa3f1f5039621322bb53d1e381b7d",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "RIBT-WAVAX",
+	"Chain": "avalanche"
+}

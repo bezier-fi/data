@@ -1,0 +1,27 @@
+{
+	"Id": "0x7351002531e660361dd7db7a154a6a0e58f82b77",
+	"Protocol": "2f83ecc0-d7ce-49a9-896f-d2590df48e49",
+	"Outputs": [
+		{
+			"Address": "0x7351002531e660361dd7db7a154a6a0e58f82b77",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x45ff085c34ab1d31ace16bfbf2ba7d3494182e18",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "LUCY-WETH",
+	"Chain": "ethereum"
+}

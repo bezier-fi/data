@@ -1,0 +1,23 @@
+{
+	"Id": "farm-0xad8c95706aa0424a5ccdb9d06726f9dbc1bb1cc2",
+	"Protocol": "613d6ebe-ad85-4467-93ad-798047de7ce0",
+	"Outputs": [
+		{
+			"Address": "0xad8c95706aa0424a5ccdb9d06726f9dbc1bb1cc2",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xad8c95706aa0424a5ccdb9d06726f9dbc1bb1cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC.e-GUN",
+	"Chain": "avalanche"
+}

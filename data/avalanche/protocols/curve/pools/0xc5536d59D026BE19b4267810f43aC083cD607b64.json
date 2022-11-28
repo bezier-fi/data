@@ -1,0 +1,27 @@
+{
+	"Id": "0xc5536d59D026BE19b4267810f43aC083cD607b64",
+	"Protocol": "70a4d83e-41ea-4532-8240-7ce13d1f0ca1",
+	"Outputs": [
+		{
+			"Address": "0xc5536d59D026BE19b4267810f43aC083cD607b64",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x65069e550C5526c029DC9135eDD02F6683859Ac1",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x1337BedC9D22ecbe766dF105c9623922A27963EC",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "NorthPole3CRV-f",
+	"Chain": "avalanche"
+}

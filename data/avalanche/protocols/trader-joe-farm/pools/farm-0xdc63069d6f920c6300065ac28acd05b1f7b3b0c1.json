@@ -1,0 +1,23 @@
+{
+	"Id": "farm-0xdc63069d6f920c6300065ac28acd05b1f7b3b0c1",
+	"Protocol": "613d6ebe-ad85-4467-93ad-798047de7ce0",
+	"Outputs": [
+		{
+			"Address": "0xdc63069d6f920c6300065ac28acd05b1f7b3b0c1",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xdc63069d6f920c6300065ac28acd05b1f7b3b0c1",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PLEB-WAVAX",
+	"Chain": "avalanche"
+}

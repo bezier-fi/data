@@ -1,0 +1,27 @@
+{
+	"Id": "0x10866fe002e9fcfd3f9be92b6521cdb4a9f8378b",
+	"Protocol": "613d6ebe-ad85-4467-93ad-798047de7ce0",
+	"Outputs": [
+		{
+			"Address": "0x10866fe002e9fcfd3f9be92b6521cdb4a9f8378b",
+			"Apr": 0.3845874,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x79ba10485ae46a9436d560d9664369176ec2eb2b",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WORM-WAVAX",
+	"Chain": "avalanche"
+}

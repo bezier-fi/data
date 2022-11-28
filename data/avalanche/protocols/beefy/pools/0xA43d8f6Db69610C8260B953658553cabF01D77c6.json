@@ -1,0 +1,23 @@
+{
+	"Id": "0xA43d8f6Db69610C8260B953658553cabF01D77c6",
+	"Protocol": "080dd88e-1799-449d-b177-22cd78009439",
+	"Outputs": [
+		{
+			"Address": "0xA43d8f6Db69610C8260B953658553cabF01D77c6",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xF0ED25fD26E0b64C86c6c78b661F2ef283E9B6FF",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "COM-AVAX LP",
+	"Chain": "avalanche"
+}

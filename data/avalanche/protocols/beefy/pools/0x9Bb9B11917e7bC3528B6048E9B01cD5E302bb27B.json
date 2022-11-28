@@ -1,0 +1,23 @@
+{
+	"Id": "0x9Bb9B11917e7bC3528B6048E9B01cD5E302bb27B",
+	"Protocol": "080dd88e-1799-449d-b177-22cd78009439",
+	"Outputs": [
+		{
+			"Address": "0x9Bb9B11917e7bC3528B6048E9B01cD5E302bb27B",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x57cc32Cd7F5a531953E9af25e1C9394093428082",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "OLIVE-AVAX LP",
+	"Chain": "avalanche"
+}

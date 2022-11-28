@@ -1,0 +1,23 @@
+{
+	"Id": "0xDA875A511860f2752B891677489d08CaEDac00EA",
+	"Protocol": "080dd88e-1799-449d-b177-22cd78009439",
+	"Outputs": [
+		{
+			"Address": "0xDA875A511860f2752B891677489d08CaEDac00EA",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1aCf1583bEBdCA21C8025E172D8E8f2817343d65",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ETH-AVAX LP",
+	"Chain": "avalanche"
+}

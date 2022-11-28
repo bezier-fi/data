@@ -1,0 +1,27 @@
+{
+	"Id": "0xB54914d2246cCfCE19c5114731EC03Da94061daF",
+	"Protocol": "70a4d83e-41ea-4532-8240-7ce13d1f0ca1",
+	"Outputs": [
+		{
+			"Address": "0xB54914d2246cCfCE19c5114731EC03Da94061daF",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2dc3Bb328000553D1D64ec1BEF00572F62B5Ec7C",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x395908aeb53d33A9B8ac35e148E9805D34A555D3",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WLRS-f",
+	"Chain": "avalanche"
+}

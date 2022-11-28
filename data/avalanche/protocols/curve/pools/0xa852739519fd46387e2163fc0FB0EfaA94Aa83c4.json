@@ -1,0 +1,27 @@
+{
+	"Id": "0xa852739519fd46387e2163fc0FB0EfaA94Aa83c4",
+	"Protocol": "70a4d83e-41ea-4532-8240-7ce13d1f0ca1",
+	"Outputs": [
+		{
+			"Address": "0xa852739519fd46387e2163fc0FB0EfaA94Aa83c4",
+			"Apr": 0.9992084,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7BA40fc9fb1F490E071D39f6C64f610D7E476E52",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x1337BedC9D22ecbe766dF105c9623922A27963EC",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MONEY3CRV-f",
+	"Chain": "avalanche"
+}

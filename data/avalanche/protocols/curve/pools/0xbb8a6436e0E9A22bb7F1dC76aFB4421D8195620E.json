@@ -1,0 +1,27 @@
+{
+	"Id": "0xbb8a6436e0E9A22bb7F1dC76aFB4421D8195620E",
+	"Protocol": "70a4d83e-41ea-4532-8240-7ce13d1f0ca1",
+	"Outputs": [
+		{
+			"Address": "0xbb8a6436e0E9A22bb7F1dC76aFB4421D8195620E",
+			"Apr": 2.1634932,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xfaB550568C688d5D8A52C7d794cb93Edc26eC0eC",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "AXELARUSDC-f",
+	"Chain": "avalanche"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x4945534b9a5bfec480dace8eeb173036e468a3e1",
+	"Protocol": "613d6ebe-ad85-4467-93ad-798047de7ce0",
+	"Outputs": [
+		{
+			"Address": "0x4945534b9a5bfec480dace8eeb173036e468a3e1",
+			"Apr": 6.634622,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2e768e86f691afe8a6f9277bbcd9c570ab868fc0",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "APEX-WAVAX",
+	"Chain": "avalanche"
+}

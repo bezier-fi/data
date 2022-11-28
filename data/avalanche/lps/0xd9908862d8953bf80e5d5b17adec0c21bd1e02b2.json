@@ -1,0 +1,10 @@
+{
+	"Id": "0xd9908862d8953bf80e5d5b17adec0c21bd1e02b2",
+	"Symbol": "TRUSD-QBTC",
+	"UnderlyingTokens": [
+		"0x2a385dfeab87ace4f5f64523932e4c6cec51bbd3",
+		"0x361da64c1b867e11c2fd243b50805e86ce0615fe"
+	],
+	"Protocol": "613d6ebe-ad85-4467-93ad-798047de7ce0",
+	"Chain": "avalanche"
+}

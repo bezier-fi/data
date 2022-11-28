@@ -1,0 +1,10 @@
+{
+	"Id": "0xc52870c613d82c8de97e08b35350fa3f1e1bc510",
+	"Symbol": "HOOK-WETH",
+	"UnderlyingTokens": [
+		"0x77b7c42878cc2472d264843a4741f0e5e8f801be",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2f83ecc0-d7ce-49a9-896f-d2590df48e49",
+	"Chain": "ethereum"
+}

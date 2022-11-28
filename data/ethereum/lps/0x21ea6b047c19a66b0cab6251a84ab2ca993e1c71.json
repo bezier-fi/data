@@ -1,0 +1,10 @@
+{
+	"Id": "0x21ea6b047c19a66b0cab6251a84ab2ca993e1c71",
+	"Symbol": "WETH-Shyrant",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf55af5fcc7bb5b06445ba17c0627825a055acdf9"
+	],
+	"Protocol": "2f83ecc0-d7ce-49a9-896f-d2590df48e49",
+	"Chain": "ethereum"
+}

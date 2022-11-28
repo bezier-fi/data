@@ -1,0 +1,23 @@
+{
+	"Id": "0x68866acc5C940938B373F55F7009f824c7662F5B",
+	"Protocol": "080dd88e-1799-449d-b177-22cd78009439",
+	"Outputs": [
+		{
+			"Address": "0x68866acc5C940938B373F55F7009f824c7662F5B",
+			"Apr": 6.1420355,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xFE15c2695F1F920da45C30AAE47d11dE51007AF9",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH.e-AVAX LP",
+	"Chain": "avalanche"
+}

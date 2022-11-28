@@ -1,0 +1,27 @@
+{
+	"Id": "0x065f44Cd602Cc6680E82E516125839b9BbbbE57e",
+	"Protocol": "70a4d83e-41ea-4532-8240-7ce13d1f0ca1",
+	"Outputs": [
+		{
+			"Address": "0x065f44Cd602Cc6680E82E516125839b9BbbbE57e",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xe0Ce60AF0850bF54072635e66E79Df17082A1109",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x264c1383EA520f73dd837F915ef3a732e204a493",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ICE/BNB-f",
+	"Chain": "avalanche"
+}

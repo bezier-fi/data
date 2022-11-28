@@ -1,0 +1,23 @@
+{
+	"Id": "0x99EeB92A4896a9F45E9390e2A05ceE5647BA0f95",
+	"Protocol": "080dd88e-1799-449d-b177-22cd78009439",
+	"Outputs": [
+		{
+			"Address": "0x99EeB92A4896a9F45E9390e2A05ceE5647BA0f95",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "AVAX",
+	"Chain": "avalanche"
+}

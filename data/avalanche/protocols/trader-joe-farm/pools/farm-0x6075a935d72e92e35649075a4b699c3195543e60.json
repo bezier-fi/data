@@ -1,0 +1,23 @@
+{
+	"Id": "farm-0x6075a935d72e92e35649075a4b699c3195543e60",
+	"Protocol": "613d6ebe-ad85-4467-93ad-798047de7ce0",
+	"Outputs": [
+		{
+			"Address": "0x6075a935d72e92e35649075a4b699c3195543e60",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6075a935d72e92e35649075a4b699c3195543e60",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FLIX-WAVAX",
+	"Chain": "avalanche"
+}

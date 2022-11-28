@@ -1,0 +1,10 @@
+{
+	"Id": "0xb1719250d8bc886edb30f996daef2b5d1cc17093",
+	"Symbol": "WETH-Dragon",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfab1fac61eb5bf5a75ba311de1b397e73df8aaca"
+	],
+	"Protocol": "2f83ecc0-d7ce-49a9-896f-d2590df48e49",
+	"Chain": "ethereum"
+}

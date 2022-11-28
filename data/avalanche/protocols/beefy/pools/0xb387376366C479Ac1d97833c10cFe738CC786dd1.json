@@ -1,0 +1,23 @@
+{
+	"Id": "0xb387376366C479Ac1d97833c10cFe738CC786dd1",
+	"Protocol": "080dd88e-1799-449d-b177-22cd78009439",
+	"Outputs": [
+		{
+			"Address": "0xb387376366C479Ac1d97833c10cFe738CC786dd1",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x781655d802670bbA3c89aeBaaEa59D3182fD755D",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MIM-AVAX LP",
+	"Chain": "avalanche"
+}

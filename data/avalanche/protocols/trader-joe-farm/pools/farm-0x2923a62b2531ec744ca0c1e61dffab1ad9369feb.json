@@ -1,0 +1,30 @@
+{
+	"Id": "farm-0x2923a62b2531ec744ca0c1e61dffab1ad9369feb",
+	"Protocol": "613d6ebe-ad85-4467-93ad-798047de7ce0",
+	"Outputs": [
+		{
+			"Address": "0x2923a62b2531ec744ca0c1e61dffab1ad9369feb",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		},
+		{
+			"Address": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2923a62b2531ec744ca0c1e61dffab1ad9369feb",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MELT-WAVAX",
+	"Chain": "avalanche"
+}

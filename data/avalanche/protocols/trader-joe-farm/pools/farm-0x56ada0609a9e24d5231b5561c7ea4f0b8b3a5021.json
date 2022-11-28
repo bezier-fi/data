@@ -1,0 +1,23 @@
+{
+	"Id": "farm-0x56ada0609a9e24d5231b5561c7ea4f0b8b3a5021",
+	"Protocol": "613d6ebe-ad85-4467-93ad-798047de7ce0",
+	"Outputs": [
+		{
+			"Address": "0x56ada0609a9e24d5231b5561c7ea4f0b8b3a5021",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x56ada0609a9e24d5231b5561c7ea4f0b8b3a5021",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PIZZA-SODA",
+	"Chain": "avalanche"
+}

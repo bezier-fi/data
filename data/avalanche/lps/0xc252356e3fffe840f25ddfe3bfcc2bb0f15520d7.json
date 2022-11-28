@@ -1,0 +1,10 @@
+{
+	"Id": "0xc252356e3fffe840f25ddfe3bfcc2bb0f15520d7",
+	"Symbol": "MUSDC-SLV",
+	"UnderlyingTokens": [
+		"0x76591714904e464c740c28383786e85438e2335b",
+		"0xdc4dc4b49e280db3dcaffb8a845cb93cf0c5b6ac"
+	],
+	"Protocol": "613d6ebe-ad85-4467-93ad-798047de7ce0",
+	"Chain": "avalanche"
+}

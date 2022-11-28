@@ -1,0 +1,23 @@
+{
+	"Id": "0x10d52685E9f55884a67a88f2b5Ed2215D607d0a2",
+	"Protocol": "080dd88e-1799-449d-b177-22cd78009439",
+	"Outputs": [
+		{
+			"Address": "0x10d52685E9f55884a67a88f2b5Ed2215D607d0a2",
+			"Apr": 10.199096,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2fD81391E30805Cc7F2Ec827013ce86dc591B806",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BTC.b-AVAX LP",
+	"Chain": "avalanche"
+}

@@ -1,0 +1,23 @@
+{
+	"Id": "farm-0x3433b681141b4506b71aead3120b264bd9c12863",
+	"Protocol": "613d6ebe-ad85-4467-93ad-798047de7ce0",
+	"Outputs": [
+		{
+			"Address": "0x3433b681141b4506b71aead3120b264bd9c12863",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3433b681141b4506b71aead3120b264bd9c12863",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FOOK-WAVAX",
+	"Chain": "avalanche"
+}

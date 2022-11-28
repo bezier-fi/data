@@ -1,0 +1,27 @@
+{
+	"Id": "0x0d30faa83b68aa3649843b30ba73c42e6aa92c64",
+	"Protocol": "613d6ebe-ad85-4467-93ad-798047de7ce0",
+	"Outputs": [
+		{
+			"Address": "0x0d30faa83b68aa3649843b30ba73c42e6aa92c64",
+			"Apr": 0.014193324,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8832d30286907612952aafc3d249e79e39732dcc",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ASAFTI-WAVAX",
+	"Chain": "avalanche"
+}

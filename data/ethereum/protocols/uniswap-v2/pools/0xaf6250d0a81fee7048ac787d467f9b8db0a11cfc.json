@@ -1,0 +1,27 @@
+{
+	"Id": "0xaf6250d0a81fee7048ac787d467f9b8db0a11cfc",
+	"Protocol": "2f83ecc0-d7ce-49a9-896f-d2590df48e49",
+	"Outputs": [
+		{
+			"Address": "0xaf6250d0a81fee7048ac787d467f9b8db0a11cfc",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1d590b1432eaef0c63f312eee34ef27cb8032c2c",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Brazil-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xdb636857317c46b453d5ab400b278cf2dadc996e",
+	"Symbol": "WETH-USDC.e",
+	"UnderlyingTokens": [
+		"0x8b82a291f83ca07af22120aba21632088fc92931",
+		"0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664"
+	],
+	"Protocol": "613d6ebe-ad85-4467-93ad-798047de7ce0",
+	"Chain": "avalanche"
+}

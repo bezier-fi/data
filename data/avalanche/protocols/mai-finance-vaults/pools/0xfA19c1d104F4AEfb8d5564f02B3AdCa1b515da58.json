@@ -1,0 +1,42 @@
+{
+	"Id": "0xfA19c1d104F4AEfb8d5564f02B3AdCa1b515da58",
+	"Protocol": "037c8082-cab4-4365-bdc1-986573bfa2c2",
+	"Outputs": [
+		{
+			"Address": "0x5c49b268c9841aff1cc3b0a418ff5c3442ee3f3b",
+			"Apr": -25.925928,
+			"GroupId": 1,
+			"Key": "minimum-collateral",
+			"RequiredKeyInGroup": null
+		},
+		{
+			"Address": "0x5c49b268c9841aff1cc3b0a418ff5c3442ee3f3b",
+			"Apr": -37.5,
+			"GroupId": 1,
+			"Key": "incentives-collateral",
+			"RequiredKeyInGroup": null
+		},
+		{
+			"Address": "0xA56F9A54880afBc30CF29bB66d2D9ADCdcaEaDD6",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": [
+				{
+					"Key": "incentives-collateral",
+					"GroupId": 1
+				}
+			]
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1B156C5c75E9dF4CAAb2a5cc5999aC58ff4F9090",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Moo Aave AVAX MAI Vault",
+	"Chain": "avalanche"
+}

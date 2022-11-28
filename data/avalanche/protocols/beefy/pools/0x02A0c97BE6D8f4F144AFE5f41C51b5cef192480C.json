@@ -1,0 +1,23 @@
+{
+	"Id": "0x02A0c97BE6D8f4F144AFE5f41C51b5cef192480C",
+	"Protocol": "080dd88e-1799-449d-b177-22cd78009439",
+	"Outputs": [
+		{
+			"Address": "0x02A0c97BE6D8f4F144AFE5f41C51b5cef192480C",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xE1f75E2E74BA938abD6C3BE18CCc5C7f71925C4B",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USTw-USDC LP",
+	"Chain": "avalanche"
+}

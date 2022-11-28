@@ -1,0 +1,50 @@
+{
+	"Id": "0xc7198437980c041c805a1edcba50c1ce5db951180xb6a86025f0fe1862b372cb0ca18ce3ede02a318f",
+	"Protocol": "89e28645-1c6f-4e64-ae50-cf1ec39e84ba",
+	"Outputs": [
+		{
+			"Address": "0xc7198437980c041c805a1edcba50c1ce5db95118",
+			"Apr": -4.9234004,
+			"GroupId": 1,
+			"Key": "stable",
+			"RequiredKeyInGroup": null
+		},
+		{
+			"Address": "0xc7198437980c041c805a1edcba50c1ce5db95118",
+			"Apr": -2.8468003,
+			"GroupId": 1,
+			"Key": "variable",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x53f7c5869a859f0aec3d334ee8b4cf01e3492f21",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x686bef2417b6dc32c50a3cbfbcc3bb60e1e9a15d",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xd45b7c061016102f9fa220502908f2c0f1add1d7",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x46a51127c3ce23fb7ab1de06226147f446e4a857",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xdfe521292ece2a4f44242efbcd66bc594ca9714b",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x47afa96cdc9fab46904a55a6ad4bf6660b53c38a",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 1,
+	"RequiredInputs": null,
+	"Symbol": "USDT.e",
+	"Chain": "avalanche"
+}

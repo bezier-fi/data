@@ -1,0 +1,23 @@
+{
+	"Id": "0xB6aE1f6Be8575a44D22af3cD2C5385CC9c293978",
+	"Protocol": "080dd88e-1799-449d-b177-22cd78009439",
+	"Outputs": [
+		{
+			"Address": "0xB6aE1f6Be8575a44D22af3cD2C5385CC9c293978",
+			"Apr": 1.2753097,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x64694FC8dFCA286bF1A15b0903FAC98217dC3AD7",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ACRE-AVAX LP",
+	"Chain": "avalanche"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x63db3523271e97b6803cfce214e08c8943406080",
+	"Protocol": "2f83ecc0-d7ce-49a9-896f-d2590df48e49",
+	"Outputs": [
+		{
+			"Address": "0x63db3523271e97b6803cfce214e08c8943406080",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5f6a0f971e67eb5fffdb9f1c27572c5eab6a631c",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DRAGI-WETH",
+	"Chain": "ethereum"
+}

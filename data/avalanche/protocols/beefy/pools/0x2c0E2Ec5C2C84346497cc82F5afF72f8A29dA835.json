@@ -1,0 +1,23 @@
+{
+	"Id": "0x2c0E2Ec5C2C84346497cc82F5afF72f8A29dA835",
+	"Protocol": "080dd88e-1799-449d-b177-22cd78009439",
+	"Outputs": [
+		{
+			"Address": "0x2c0E2Ec5C2C84346497cc82F5afF72f8A29dA835",
+			"Apr": 83.08913,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6139361Ccd4f40abF3d5D22AA3b72A195010F9AB",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PAE-AVAX LP",
+	"Chain": "avalanche"
+}

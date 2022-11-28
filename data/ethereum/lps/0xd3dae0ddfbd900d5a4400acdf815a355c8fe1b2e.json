@@ -1,0 +1,10 @@
+{
+	"Id": "0xd3dae0ddfbd900d5a4400acdf815a355c8fe1b2e",
+	"Symbol": "Likes-WETH",
+	"UnderlyingTokens": [
+		"0x6f622672c5279f1e0ef9257f0afc2b3afd1b1955",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2f83ecc0-d7ce-49a9-896f-d2590df48e49",
+	"Chain": "ethereum"
+}

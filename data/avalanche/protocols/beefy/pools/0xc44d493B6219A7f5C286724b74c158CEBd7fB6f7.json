@@ -1,0 +1,23 @@
+{
+	"Id": "0xc44d493B6219A7f5C286724b74c158CEBd7fB6f7",
+	"Protocol": "080dd88e-1799-449d-b177-22cd78009439",
+	"Outputs": [
+		{
+			"Address": "0xc44d493B6219A7f5C286724b74c158CEBd7fB6f7",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x752C59f22fAAA861108649F4596034796C69bC3f",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "LYD-USDT LP",
+	"Chain": "avalanche"
+}

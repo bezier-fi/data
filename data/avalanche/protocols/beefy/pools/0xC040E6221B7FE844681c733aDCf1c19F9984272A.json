@@ -1,0 +1,23 @@
+{
+	"Id": "0xC040E6221B7FE844681c733aDCf1c19F9984272A",
+	"Protocol": "080dd88e-1799-449d-b177-22cd78009439",
+	"Outputs": [
+		{
+			"Address": "0xC040E6221B7FE844681c733aDCf1c19F9984272A",
+			"Apr": 1.7367392,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x66D12e1cb13EAbAB21f1Fb6628B1Ef33C6dED5a7",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MONEY-AVAX LP",
+	"Chain": "avalanche"
+}

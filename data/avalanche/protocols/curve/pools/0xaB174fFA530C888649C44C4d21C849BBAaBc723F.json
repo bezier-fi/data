@@ -1,0 +1,27 @@
+{
+	"Id": "0xaB174fFA530C888649C44C4d21C849BBAaBc723F",
+	"Protocol": "70a4d83e-41ea-4532-8240-7ce13d1f0ca1",
+	"Outputs": [
+		{
+			"Address": "0xaB174fFA530C888649C44C4d21C849BBAaBc723F",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x95571A6bDB416b367518bc77eFBCf2825dd2f3bf",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xA8F1985F08AdCC1728dDdC1983725f2De5Ca6278",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "safeTEST-f",
+	"Chain": "avalanche"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0xfbbe4c10fe1228474ee47620dea007a56bbf18cc",
+	"Protocol": "613d6ebe-ad85-4467-93ad-798047de7ce0",
+	"Outputs": [
+		{
+			"Address": "0xfbbe4c10fe1228474ee47620dea007a56bbf18cc",
+			"Apr": 1.3858559,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb648fa7a5f5ed3b3c743140346e3dc3fe94a9125",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "AFINS-USDC",
+	"Chain": "avalanche"
+}

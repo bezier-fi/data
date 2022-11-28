@@ -1,0 +1,23 @@
+{
+	"Id": "0x9b50B06B81f033ca86D70F0a44F30BD7E0155737",
+	"Protocol": "080dd88e-1799-449d-b177-22cd78009439",
+	"Outputs": [
+		{
+			"Address": "0x9b50B06B81f033ca86D70F0a44F30BD7E0155737",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x20ABdC20758990b6afc90dA2f2D30CD0aa3F73c6",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SYN-AVAX LP",
+	"Chain": "avalanche"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x5e4bdb6c3ab1ce2f8fd639e2b93f693ddd73affb",
+	"Protocol": "2f83ecc0-d7ce-49a9-896f-d2590df48e49",
+	"Outputs": [
+		{
+			"Address": "0x5e4bdb6c3ab1ce2f8fd639e2b93f693ddd73affb",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xd887ad8beaf5e5814e302317859c0a37c5443142",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-$Rudoshi",
+	"Chain": "ethereum"
+}

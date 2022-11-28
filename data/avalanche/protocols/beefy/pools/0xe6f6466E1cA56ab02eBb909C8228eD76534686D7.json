@@ -1,0 +1,23 @@
+{
+	"Id": "0xe6f6466E1cA56ab02eBb909C8228eD76534686D7",
+	"Protocol": "080dd88e-1799-449d-b177-22cd78009439",
+	"Outputs": [
+		{
+			"Address": "0xe6f6466E1cA56ab02eBb909C8228eD76534686D7",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7BF98BD74E19AD8eB5e14076140Ee0103F8F872B",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "UST-AVAX LP",
+	"Chain": "avalanche"
+}

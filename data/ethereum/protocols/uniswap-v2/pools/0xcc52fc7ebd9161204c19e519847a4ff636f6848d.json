@@ -1,0 +1,27 @@
+{
+	"Id": "0xcc52fc7ebd9161204c19e519847a4ff636f6848d",
+	"Protocol": "01376722-cdda-4431-b958-497ed22d4648",
+	"Outputs": [
+		{
+			"Address": "0xcc52fc7ebd9161204c19e519847a4ff636f6848d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x48823bd1d19d337ac8a1bcec2f9e793459f0083a",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SANU-WETH",
+	"Chain": "ethereum"
+}

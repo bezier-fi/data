@@ -1,0 +1,27 @@
+{
+	"Id": "0x4862a49f8c613f1a04aa645d00520cdfcfbcef52",
+	"Protocol": "01376722-cdda-4431-b958-497ed22d4648",
+	"Outputs": [
+		{
+			"Address": "0x4862a49f8c613f1a04aa645d00520cdfcfbcef52",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8b7cee36a7b8131abfc25458ae32a307545c1469",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FREEDOM-WETH",
+	"Chain": "ethereum"
+}

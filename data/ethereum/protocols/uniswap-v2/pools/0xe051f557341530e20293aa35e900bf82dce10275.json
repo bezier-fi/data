@@ -1,0 +1,27 @@
+{
+	"Id": "0xe051f557341530e20293aa35e900bf82dce10275",
+	"Protocol": "01376722-cdda-4431-b958-497ed22d4648",
+	"Outputs": [
+		{
+			"Address": "0xe051f557341530e20293aa35e900bf82dce10275",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2c1fcf7e192756867bc30d0a86a6e5a1d565161b",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PUFF-WETH",
+	"Chain": "ethereum"
+}

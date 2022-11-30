@@ -1,0 +1,27 @@
+{
+	"Id": "0xfad701390caffc0f9b3ec9c3114c0ff9df6926de",
+	"Protocol": "01376722-cdda-4431-b958-497ed22d4648",
+	"Outputs": [
+		{
+			"Address": "0xfad701390caffc0f9b3ec9c3114c0ff9df6926de",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x07f6690e6e4a78493aa6cbd648c2238b81c0a32c",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PEPELON-WETH",
+	"Chain": "ethereum"
+}

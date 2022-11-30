@@ -1,0 +1,27 @@
+{
+	"Id": "0xf7e34b982e152088ddde06bc4d1d8b418ec32f87",
+	"Protocol": "01376722-cdda-4431-b958-497ed22d4648",
+	"Outputs": [
+		{
+			"Address": "0xf7e34b982e152088ddde06bc4d1d8b418ec32f87",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa50c8eeeda775f048acb357d430020ae3a3c47d3",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MOTO-WETH",
+	"Chain": "ethereum"
+}

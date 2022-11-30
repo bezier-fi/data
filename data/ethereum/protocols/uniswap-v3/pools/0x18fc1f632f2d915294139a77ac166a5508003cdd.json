@@ -1,0 +1,27 @@
+{
+	"Id": "0x18fc1f632f2d915294139a77ac166a5508003cdd",
+	"Protocol": "91ff6cff-ce3a-472d-997c-795e1f412d31",
+	"Outputs": [
+		{
+			"Address": "0x18fc1f632f2d915294139a77ac166a5508003cdd",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xae86f48c0b00f2a3eaef4ba4c23d17368f0f63f4",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Mikaboshi-WETH (1.00%)",
+	"Chain": "ethereum"
+}

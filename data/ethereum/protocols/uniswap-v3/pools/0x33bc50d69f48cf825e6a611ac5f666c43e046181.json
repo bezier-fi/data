@@ -1,0 +1,27 @@
+{
+	"Id": "0x33bc50d69f48cf825e6a611ac5f666c43e046181",
+	"Protocol": "91ff6cff-ce3a-472d-997c-795e1f412d31",
+	"Outputs": [
+		{
+			"Address": "0x33bc50d69f48cf825e6a611ac5f666c43e046181",
+			"Apr": 0.6425278,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xb399511642fe1666c6a07f83483e6e4feaed9a00",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC-SEURO (0.05%)",
+	"Chain": "ethereum"
+}

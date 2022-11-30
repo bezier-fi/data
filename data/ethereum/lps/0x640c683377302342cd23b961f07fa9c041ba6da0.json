@@ -1,0 +1,10 @@
+{
+	"Id": "0x640c683377302342cd23b961f07fa9c041ba6da0",
+	"Symbol": "APPLC-WETH",
+	"UnderlyingTokens": [
+		"0x093b338005628045a78550691c5e947af8c604dc",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "01376722-cdda-4431-b958-497ed22d4648",
+	"Chain": "ethereum"
+}

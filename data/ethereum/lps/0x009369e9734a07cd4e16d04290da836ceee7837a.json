@@ -1,0 +1,10 @@
+{
+	"Id": "0x009369e9734a07cd4e16d04290da836ceee7837a",
+	"Symbol": "MAKIHANA-WETH",
+	"UnderlyingTokens": [
+		"0x786dfa8ad9f2cbaa9092b5306fdf7311e36458b8",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "01376722-cdda-4431-b958-497ed22d4648",
+	"Chain": "ethereum"
+}

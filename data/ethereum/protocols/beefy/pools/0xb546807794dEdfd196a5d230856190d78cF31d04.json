@@ -1,0 +1,23 @@
+{
+	"Id": "0xb546807794dEdfd196a5d230856190d78cF31d04",
+	"Protocol": "c7ea870f-2ef1-4de3-9cff-9445fb6870b4",
+	"Outputs": [
+		{
+			"Address": "0xb546807794dEdfd196a5d230856190d78cF31d04",
+			"Apr": 106.75882,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x441b8a1980f2F2E43A9397099d15CC2Fe6D36250",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "INV-DOLA",
+	"Chain": "ethereum"
+}

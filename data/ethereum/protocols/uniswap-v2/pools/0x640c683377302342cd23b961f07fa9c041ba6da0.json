@@ -1,0 +1,27 @@
+{
+	"Id": "0x640c683377302342cd23b961f07fa9c041ba6da0",
+	"Protocol": "01376722-cdda-4431-b958-497ed22d4648",
+	"Outputs": [
+		{
+			"Address": "0x640c683377302342cd23b961f07fa9c041ba6da0",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x093b338005628045a78550691c5e947af8c604dc",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "APPLC-WETH",
+	"Chain": "ethereum"
+}

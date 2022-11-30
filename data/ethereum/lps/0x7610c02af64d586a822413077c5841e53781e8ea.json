@@ -1,0 +1,10 @@
+{
+	"Id": "0x7610c02af64d586a822413077c5841e53781e8ea",
+	"Symbol": "eagle-WETH",
+	"UnderlyingTokens": [
+		"0x8c23e11ade08c12f5c1b0bde98dd2cba0d730668",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "01376722-cdda-4431-b958-497ed22d4648",
+	"Chain": "ethereum"
+}

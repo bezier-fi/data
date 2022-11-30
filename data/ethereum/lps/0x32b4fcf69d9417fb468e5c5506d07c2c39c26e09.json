@@ -1,0 +1,10 @@
+{
+	"Id": "0x32b4fcf69d9417fb468e5c5506d07c2c39c26e09",
+	"Symbol": "BLUR-WETH",
+	"UnderlyingTokens": [
+		"0xba12f395a530a86199d4716d8ee276fc4696c257",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "01376722-cdda-4431-b958-497ed22d4648",
+	"Chain": "ethereum"
+}

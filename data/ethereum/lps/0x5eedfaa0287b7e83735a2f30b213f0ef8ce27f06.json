@@ -1,0 +1,10 @@
+{
+	"Id": "0x5eedfaa0287b7e83735a2f30b213f0ef8ce27f06",
+	"Symbol": "$TRE-WETH",
+	"UnderlyingTokens": [
+		"0xa5ce0cfb354bdb4a36828bd92c60752f6e38596f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "01376722-cdda-4431-b958-497ed22d4648",
+	"Chain": "ethereum"
+}

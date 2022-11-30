@@ -1,0 +1,10 @@
+{
+	"Id": "0x3d5c59f53b9888bcee9d1f14f088928fffe1128d",
+	"Symbol": "SHAB-WETH",
+	"UnderlyingTokens": [
+		"0x2aaa33a7f7c3a73e2968abb5cec268c8ff372c9c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "01376722-cdda-4431-b958-497ed22d4648",
+	"Chain": "ethereum"
+}

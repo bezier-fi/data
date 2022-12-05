@@ -1,0 +1,10 @@
+{
+	"Id": "0x50d2f791ae4d99c2adc2f45fa03901c73ae9e739",
+	"Symbol": "VI7A-WETH",
+	"UnderlyingTokens": [
+		"0x3bc3946edb0a43563e3e887ed91e71c8a4715e71",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cf22fbab-3ed7-4496-bb5b-7d9663352d4e",
+	"Chain": "ethereum"
+}

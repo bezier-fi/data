@@ -1,0 +1,10 @@
+{
+	"Id": "0x44c0603a9d3c82c40a4437b733812db3056192df",
+	"Symbol": "WETH-OPENDOGE",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xdea45b98b1b37595ab5544671fc5c0019f017356"
+	],
+	"Protocol": "cf22fbab-3ed7-4496-bb5b-7d9663352d4e",
+	"Chain": "ethereum"
+}

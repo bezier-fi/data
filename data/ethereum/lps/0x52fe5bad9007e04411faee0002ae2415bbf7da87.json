@@ -1,0 +1,10 @@
+{
+	"Id": "0x52fe5bad9007e04411faee0002ae2415bbf7da87",
+	"Symbol": "BiasAI-WETH",
+	"UnderlyingTokens": [
+		"0x89a681705fb566281ca175c1ebe0758c6cdd2ec2",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cf22fbab-3ed7-4496-bb5b-7d9663352d4e",
+	"Chain": "ethereum"
+}

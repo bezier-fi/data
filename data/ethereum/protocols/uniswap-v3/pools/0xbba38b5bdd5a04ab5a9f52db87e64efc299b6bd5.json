@@ -1,0 +1,27 @@
+{
+	"Id": "0xbba38b5bdd5a04ab5a9f52db87e64efc299b6bd5",
+	"Protocol": "a9f148c2-4a1c-4ae9-ac46-3a4a4c0b9e04",
+	"Outputs": [
+		{
+			"Address": "0xbba38b5bdd5a04ab5a9f52db87e64efc299b6bd5",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5a98fcbea516cf06857215779fd812ca3bef1b32",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "LDO-DAI (1.00%)",
+	"Chain": "ethereum"
+}

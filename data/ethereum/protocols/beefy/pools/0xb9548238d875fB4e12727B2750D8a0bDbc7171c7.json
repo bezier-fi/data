@@ -1,0 +1,23 @@
+{
+	"Id": "0xb9548238d875fB4e12727B2750D8a0bDbc7171c7",
+	"Protocol": "99826afd-8dfc-47f7-be7c-bb904890c52d",
+	"Outputs": [
+		{
+			"Address": "0xb9548238d875fB4e12727B2750D8a0bDbc7171c7",
+			"Apr": 34.25458,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3A283D9c08E8b55966afb64C515f5143cf907611",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CVX-ETH",
+	"Chain": "ethereum"
+}

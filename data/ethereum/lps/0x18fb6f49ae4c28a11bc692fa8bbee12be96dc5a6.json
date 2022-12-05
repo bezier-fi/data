@@ -1,0 +1,10 @@
+{
+	"Id": "0x18fb6f49ae4c28a11bc692fa8bbee12be96dc5a6",
+	"Symbol": "WETH-BEAR",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xda3ebbb6603a23ed87855dbedf4772e83d77e3f7"
+	],
+	"Protocol": "cf22fbab-3ed7-4496-bb5b-7d9663352d4e",
+	"Chain": "ethereum"
+}

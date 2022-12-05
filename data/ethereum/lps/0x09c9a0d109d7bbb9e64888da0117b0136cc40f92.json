@@ -1,0 +1,10 @@
+{
+	"Id": "0x09c9a0d109d7bbb9e64888da0117b0136cc40f92",
+	"Symbol": "GAIN-WETH",
+	"UnderlyingTokens": [
+		"0x6e893c18bb65ec202d41bb3f1e50b097db686cc7",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cf22fbab-3ed7-4496-bb5b-7d9663352d4e",
+	"Chain": "ethereum"
+}

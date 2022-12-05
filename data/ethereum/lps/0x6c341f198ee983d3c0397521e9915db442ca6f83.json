@@ -1,0 +1,10 @@
+{
+	"Id": "0x6c341f198ee983d3c0397521e9915db442ca6f83",
+	"Symbol": "WETH-YE24",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe08347250dfaf57ac9dc2372a9e9df6390b5d426"
+	],
+	"Protocol": "cf22fbab-3ed7-4496-bb5b-7d9663352d4e",
+	"Chain": "ethereum"
+}

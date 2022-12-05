@@ -1,0 +1,42 @@
+{
+	"Id": "0xF086dEdf6a89e7B16145b03a6CB0C0a9979F1433",
+	"Protocol": "a44c792a-ca90-4c39-8101-72c2837c021c",
+	"Outputs": [
+		{
+			"Address": "0xa3fa99a148fa48d14ed51d610c367c61876997f1",
+			"Apr": -23.076921,
+			"GroupId": 1,
+			"Key": "minimum-collateral",
+			"RequiredKeyInGroup": null
+		},
+		{
+			"Address": "0xa3fa99a148fa48d14ed51d610c367c61876997f1",
+			"Apr": -35.48387,
+			"GroupId": 1,
+			"Key": "incentives-collateral",
+			"RequiredKeyInGroup": null
+		},
+		{
+			"Address": "0x580A84C73811E1839F75d86d75d88cCa0c241fF4",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": [
+				{
+					"Key": "incentives-collateral",
+					"GroupId": 1
+				}
+			]
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GHST MAI Vault",
+	"Chain": "polygon"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x43433e82ae3e2d9b05b172a900b9e4928cc8eaa9",
+	"Symbol": "DALL·E-WETH",
+	"UnderlyingTokens": [
+		"0x878c143c3a964872d5ddc67db2ad63dd0475cf35",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cf22fbab-3ed7-4496-bb5b-7d9663352d4e",
+	"Chain": "ethereum"
+}

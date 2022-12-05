@@ -1,0 +1,27 @@
+{
+	"Id": "0x0b1a02b8cad71bee94e7fd0845fd9853fa1b46ff",
+	"Protocol": "a9f148c2-4a1c-4ae9-ac46-3a4a4c0b9e04",
+	"Outputs": [
+		{
+			"Address": "0x0b1a02b8cad71bee94e7fd0845fd9853fa1b46ff",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2223bf1d7c19ef7c06dab88938ec7b85952ccd89",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "KXA-WETH (0.30%)",
+	"Chain": "ethereum"
+}

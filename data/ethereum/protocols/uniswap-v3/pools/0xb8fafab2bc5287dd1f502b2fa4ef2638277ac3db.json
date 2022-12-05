@@ -1,0 +1,27 @@
+{
+	"Id": "0xb8fafab2bc5287dd1f502b2fa4ef2638277ac3db",
+	"Protocol": "a9f148c2-4a1c-4ae9-ac46-3a4a4c0b9e04",
+	"Outputs": [
+		{
+			"Address": "0xb8fafab2bc5287dd1f502b2fa4ef2638277ac3db",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2de509bf0014ddf697b220be628213034d320ece",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DBI-SHIB (1.00%)",
+	"Chain": "ethereum"
+}

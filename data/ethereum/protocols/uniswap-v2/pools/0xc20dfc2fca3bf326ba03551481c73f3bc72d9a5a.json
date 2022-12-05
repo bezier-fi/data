@@ -1,0 +1,27 @@
+{
+	"Id": "0xc20dfc2fca3bf326ba03551481c73f3bc72d9a5a",
+	"Protocol": "cf22fbab-3ed7-4496-bb5b-7d9663352d4e",
+	"Outputs": [
+		{
+			"Address": "0xc20dfc2fca3bf326ba03551481c73f3bc72d9a5a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xb208b1a5664574f72d22e9e9981837310cacfed6",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC-SAKURA",
+	"Chain": "ethereum"
+}

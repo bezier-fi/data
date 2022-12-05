@@ -1,0 +1,10 @@
+{
+	"Id": "0x5f75f914f8da59527748cea824c6929061b7fe2a",
+	"Symbol": "TYRANT2.0-WETH",
+	"UnderlyingTokens": [
+		"0xb903659ef6916a6a58cf10aaa22c51b98dc65323",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cf22fbab-3ed7-4496-bb5b-7d9663352d4e",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xf4e6491ce6a14041c103f9ca849845e9fc302ac2",
+	"Symbol": "EARTH-WETH",
+	"UnderlyingTokens": [
+		"0x6d1fea476f177500d1972f08cf41fba6f0f2d547",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cf22fbab-3ed7-4496-bb5b-7d9663352d4e",
+	"Chain": "ethereum"
+}

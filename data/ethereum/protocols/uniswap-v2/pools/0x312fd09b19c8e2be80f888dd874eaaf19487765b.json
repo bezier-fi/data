@@ -1,0 +1,27 @@
+{
+	"Id": "0x312fd09b19c8e2be80f888dd874eaaf19487765b",
+	"Protocol": "cf22fbab-3ed7-4496-bb5b-7d9663352d4e",
+	"Outputs": [
+		{
+			"Address": "0x312fd09b19c8e2be80f888dd874eaaf19487765b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xabdb5b40096591f0265beaa053f76f14b4706f25",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ELONAI-WETH",
+	"Chain": "ethereum"
+}

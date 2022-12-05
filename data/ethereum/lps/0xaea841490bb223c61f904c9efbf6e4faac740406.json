@@ -1,0 +1,10 @@
+{
+	"Id": "0xaea841490bb223c61f904c9efbf6e4faac740406",
+	"Symbol": "FAFO-WETH",
+	"UnderlyingTokens": [
+		"0x259f515ae2ddca216dc4f92133a8bf1917e73b60",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cf22fbab-3ed7-4496-bb5b-7d9663352d4e",
+	"Chain": "ethereum"
+}

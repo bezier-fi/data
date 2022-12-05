@@ -1,0 +1,10 @@
+{
+	"Id": "0xedaa7d5a478d68572671fb13940add68ba3b1b71",
+	"Symbol": "LM10-WETH",
+	"UnderlyingTokens": [
+		"0x365a80f3411756b62e3815afb50f171eb9f79c48",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cf22fbab-3ed7-4496-bb5b-7d9663352d4e",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xae960d1eda48b2a31a3ec3c9bbc7efc45b1346b9",
+	"Symbol": "VITO-WETH",
+	"UnderlyingTokens": [
+		"0x35569236795ba5d0464c62f2ef73562c302bfb65",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cf22fbab-3ed7-4496-bb5b-7d9663352d4e",
+	"Chain": "ethereum"
+}

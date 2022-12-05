@@ -1,0 +1,10 @@
+{
+	"Id": "0x85e08e073874221165094fddfafd833048688198",
+	"Symbol": "WETH-CDON",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe6545ae93a57186faddb725bee23390887302c6d"
+	],
+	"Protocol": "cf22fbab-3ed7-4496-bb5b-7d9663352d4e",
+	"Chain": "ethereum"
+}

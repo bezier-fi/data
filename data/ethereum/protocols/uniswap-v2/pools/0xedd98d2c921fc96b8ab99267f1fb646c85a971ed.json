@@ -1,0 +1,27 @@
+{
+	"Id": "0xedd98d2c921fc96b8ab99267f1fb646c85a971ed",
+	"Protocol": "cf22fbab-3ed7-4496-bb5b-7d9663352d4e",
+	"Outputs": [
+		{
+			"Address": "0xedd98d2c921fc96b8ab99267f1fb646c85a971ed",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xd31d28372a98d7027049f5cc144ea31f4c31faeb",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-DogeAI",
+	"Chain": "ethereum"
+}

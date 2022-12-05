@@ -1,0 +1,10 @@
+{
+	"Id": "0xeee0ccf611a453662cda435521ff394653b83c3b",
+	"Symbol": "SWIFY-WETH",
+	"UnderlyingTokens": [
+		"0x9c7376b5060c47e555f5f53005aa3d5a7c66f2fb",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cf22fbab-3ed7-4496-bb5b-7d9663352d4e",
+	"Chain": "ethereum"
+}

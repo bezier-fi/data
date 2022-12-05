@@ -1,0 +1,10 @@
+{
+	"Id": "0xbea1f91e9a656af43906323a94bc3b1f9e0d301e",
+	"Symbol": "SWRVS-WETH",
+	"UnderlyingTokens": [
+		"0x45bb6b8b77f3c4da8009785cfe686ede7ff35881",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cf22fbab-3ed7-4496-bb5b-7d9663352d4e",
+	"Chain": "ethereum"
+}

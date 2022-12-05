@@ -1,0 +1,10 @@
+{
+	"Id": "0x7d58f379baa4992998dcb78c4528ed844d851831",
+	"Symbol": "HIVE-WETH",
+	"UnderlyingTokens": [
+		"0x5022442a7124fa0ee0a9fdc0346e4524609da908",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cf22fbab-3ed7-4496-bb5b-7d9663352d4e",
+	"Chain": "ethereum"
+}

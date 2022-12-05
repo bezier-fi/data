@@ -1,0 +1,10 @@
+{
+	"Id": "0x295f322e3cf883925ae8cc9346e4d2b19d7dcb0c",
+	"Symbol": "USDC-MEAD",
+	"UnderlyingTokens": [
+		"0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+		"0xd21cdca47fa45a0a51eec030e27af390ab3aa489"
+	],
+	"Protocol": "ad207aef-4ae7-4671-b8cd-93100c7d8cc4",
+	"Chain": "avalanche"
+}

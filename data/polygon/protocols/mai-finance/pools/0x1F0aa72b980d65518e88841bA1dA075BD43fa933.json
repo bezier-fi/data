@@ -1,0 +1,42 @@
+{
+	"Id": "0x1F0aa72b980d65518e88841bA1dA075BD43fa933",
+	"Protocol": "a44c792a-ca90-4c39-8101-72c2837c021c",
+	"Outputs": [
+		{
+			"Address": "0xa3fa99a148fa48d14ed51d610c367c61876997f1",
+			"Apr": -25.925928,
+			"GroupId": 1,
+			"Key": "minimum-collateral",
+			"RequiredKeyInGroup": null
+		},
+		{
+			"Address": "0xa3fa99a148fa48d14ed51d610c367c61876997f1",
+			"Apr": -37.5,
+			"GroupId": 1,
+			"Key": "incentives-collateral",
+			"RequiredKeyInGroup": null
+		},
+		{
+			"Address": "0x580A84C73811E1839F75d86d75d88cCa0c241fF4",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": [
+				{
+					"Key": "incentives-collateral",
+					"GroupId": 1
+				}
+			]
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x51195e21BDaE8722B29919db56d95Ef51FaecA6C",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "vGHST Mai Vault ",
+	"Chain": "polygon"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xe9508256eca01b24312a8d670bc59baa495c0fca",
+	"Symbol": "WETH-Mev Labs",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc6751e17a78b1910a1418f372c2bb699eaf5ba0a"
+	],
+	"Protocol": "cf22fbab-3ed7-4496-bb5b-7d9663352d4e",
+	"Chain": "ethereum"
+}

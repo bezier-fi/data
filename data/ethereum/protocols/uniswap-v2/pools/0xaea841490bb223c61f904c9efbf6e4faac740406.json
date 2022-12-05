@@ -1,0 +1,27 @@
+{
+	"Id": "0xaea841490bb223c61f904c9efbf6e4faac740406",
+	"Protocol": "cf22fbab-3ed7-4496-bb5b-7d9663352d4e",
+	"Outputs": [
+		{
+			"Address": "0xaea841490bb223c61f904c9efbf6e4faac740406",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x259f515ae2ddca216dc4f92133a8bf1917e73b60",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FAFO-WETH",
+	"Chain": "ethereum"
+}

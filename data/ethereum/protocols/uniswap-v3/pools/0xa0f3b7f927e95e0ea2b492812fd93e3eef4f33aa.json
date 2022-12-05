@@ -1,0 +1,27 @@
+{
+	"Id": "0xa0f3b7f927e95e0ea2b492812fd93e3eef4f33aa",
+	"Protocol": "a9f148c2-4a1c-4ae9-ac46-3a4a4c0b9e04",
+	"Outputs": [
+		{
+			"Address": "0xa0f3b7f927e95e0ea2b492812fd93e3eef4f33aa",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1fe24f25b1cf609b9c4e7e12d802e3640dfa5e43",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CGG-USDC (0.01%)",
+	"Chain": "ethereum"
+}

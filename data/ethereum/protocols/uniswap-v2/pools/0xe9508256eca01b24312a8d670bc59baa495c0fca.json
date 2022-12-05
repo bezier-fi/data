@@ -1,0 +1,27 @@
+{
+	"Id": "0xe9508256eca01b24312a8d670bc59baa495c0fca",
+	"Protocol": "cf22fbab-3ed7-4496-bb5b-7d9663352d4e",
+	"Outputs": [
+		{
+			"Address": "0xe9508256eca01b24312a8d670bc59baa495c0fca",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc6751e17a78b1910a1418f372c2bb699eaf5ba0a",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-Mev Labs",
+	"Chain": "ethereum"
+}

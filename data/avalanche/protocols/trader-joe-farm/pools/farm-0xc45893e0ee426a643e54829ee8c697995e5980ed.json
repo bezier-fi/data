@@ -1,0 +1,23 @@
+{
+	"Id": "farm-0xc45893e0ee426a643e54829ee8c697995e5980ed",
+	"Protocol": "ad207aef-4ae7-4671-b8cd-93100c7d8cc4",
+	"Outputs": [
+		{
+			"Address": "0xc45893e0ee426a643e54829ee8c697995e5980ed",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc45893e0ee426a643e54829ee8c697995e5980ed",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WAVAX-KACY",
+	"Chain": "avalanche"
+}

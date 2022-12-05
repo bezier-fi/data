@@ -1,0 +1,10 @@
+{
+	"Id": "0xa7e61effb1b07e937670e46d71ff6bf9b4808f91",
+	"Symbol": "AGEN-WETH",
+	"UnderlyingTokens": [
+		"0x014b0efa7de33b9ee1cd4c543b6a5b2d8c6c112e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cf22fbab-3ed7-4496-bb5b-7d9663352d4e",
+	"Chain": "ethereum"
+}

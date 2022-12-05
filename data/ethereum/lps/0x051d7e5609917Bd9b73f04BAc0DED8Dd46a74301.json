@@ -1,0 +1,10 @@
+{
+	"Id": "0x051d7e5609917Bd9b73f04BAc0DED8Dd46a74301",
+	"Symbol": "crvWSBTC",
+	"UnderlyingTokens": [
+		"0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+		"0xfE18be6b3Bd88A2D2A7f928d00292E7a9963CfC6"
+	],
+	"Protocol": "85c3af97-133e-4927-9410-99ec682ba5b1",
+	"Chain": "ethereum"
+}

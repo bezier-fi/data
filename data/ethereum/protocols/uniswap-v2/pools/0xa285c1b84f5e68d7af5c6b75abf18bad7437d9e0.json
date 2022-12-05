@@ -1,0 +1,27 @@
+{
+	"Id": "0xa285c1b84f5e68d7af5c6b75abf18bad7437d9e0",
+	"Protocol": "cf22fbab-3ed7-4496-bb5b-7d9663352d4e",
+	"Outputs": [
+		{
+			"Address": "0xa285c1b84f5e68d7af5c6b75abf18bad7437d9e0",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x92830ef7c8d651ed3a708053c602e807bad7db22",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DAI-bluSGD",
+	"Chain": "ethereum"
+}

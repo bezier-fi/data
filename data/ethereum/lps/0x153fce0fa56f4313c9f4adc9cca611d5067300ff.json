@@ -1,0 +1,10 @@
+{
+	"Id": "0x153fce0fa56f4313c9f4adc9cca611d5067300ff",
+	"Symbol": "WETH-$HARE",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xffbb25de2db74cc9a126d2b2593d94e9d5fb7625"
+	],
+	"Protocol": "cf22fbab-3ed7-4496-bb5b-7d9663352d4e",
+	"Chain": "ethereum"
+}

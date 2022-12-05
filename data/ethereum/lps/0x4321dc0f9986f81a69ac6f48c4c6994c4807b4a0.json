@@ -1,0 +1,10 @@
+{
+	"Id": "0x4321dc0f9986f81a69ac6f48c4c6994c4807b4a0",
+	"Symbol": "TTC-WETH",
+	"UnderlyingTokens": [
+		"0x2a9f20f6470a861dec13018ba43d0899c71f8e86",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cf22fbab-3ed7-4496-bb5b-7d9663352d4e",
+	"Chain": "ethereum"
+}

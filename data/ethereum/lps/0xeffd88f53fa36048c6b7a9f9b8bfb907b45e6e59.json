@@ -1,0 +1,10 @@
+{
+	"Id": "0xeffd88f53fa36048c6b7a9f9b8bfb907b45e6e59",
+	"Symbol": "TELEGRAM-WETH",
+	"UnderlyingTokens": [
+		"0x34e60a6b8958499def2ce96d5cd84dee2b89118f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cf22fbab-3ed7-4496-bb5b-7d9663352d4e",
+	"Chain": "ethereum"
+}

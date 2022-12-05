@@ -1,0 +1,27 @@
+{
+	"Id": "0x670b681d8acca37d7e12c43f9d5114f4543e50ff",
+	"Protocol": "cf22fbab-3ed7-4496-bb5b-7d9663352d4e",
+	"Outputs": [
+		{
+			"Address": "0x670b681d8acca37d7e12c43f9d5114f4543e50ff",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6a6aa13393b7d1100c00a57c76c39e8b6c835041",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "OPENAI-WETH",
+	"Chain": "ethereum"
+}

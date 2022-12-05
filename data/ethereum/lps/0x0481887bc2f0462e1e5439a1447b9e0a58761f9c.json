@@ -1,0 +1,10 @@
+{
+	"Id": "0x0481887bc2f0462e1e5439a1447b9e0a58761f9c",
+	"Symbol": "BabyTyrant-WETH",
+	"UnderlyingTokens": [
+		"0x4bc81ac9f1652404480258473d9173c7c3f84624",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cf22fbab-3ed7-4496-bb5b-7d9663352d4e",
+	"Chain": "ethereum"
+}

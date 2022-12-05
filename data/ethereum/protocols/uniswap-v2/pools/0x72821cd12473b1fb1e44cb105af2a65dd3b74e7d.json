@@ -1,0 +1,27 @@
+{
+	"Id": "0x72821cd12473b1fb1e44cb105af2a65dd3b74e7d",
+	"Protocol": "cf22fbab-3ed7-4496-bb5b-7d9663352d4e",
+	"Outputs": [
+		{
+			"Address": "0x72821cd12473b1fb1e44cb105af2a65dd3b74e7d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0e58ed58e150dba5fd8e5d4a49f54c7e1e880124",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "RELI-USDT",
+	"Chain": "ethereum"
+}

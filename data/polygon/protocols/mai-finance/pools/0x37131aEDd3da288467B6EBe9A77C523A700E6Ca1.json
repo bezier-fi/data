@@ -1,0 +1,42 @@
+{
+	"Id": "0x37131aEDd3da288467B6EBe9A77C523A700E6Ca1",
+	"Protocol": "a44c792a-ca90-4c39-8101-72c2837c021c",
+	"Outputs": [
+		{
+			"Address": "0xa3fa99a148fa48d14ed51d610c367c61876997f1",
+			"Apr": -23.076921,
+			"GroupId": 1,
+			"Key": "minimum-collateral",
+			"RequiredKeyInGroup": null
+		},
+		{
+			"Address": "0xa3fa99a148fa48d14ed51d610c367c61876997f1",
+			"Apr": -35.48387,
+			"GroupId": 1,
+			"Key": "incentives-collateral",
+			"RequiredKeyInGroup": null
+		},
+		{
+			"Address": "0x580A84C73811E1839F75d86d75d88cCa0c241fF4",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": [
+				{
+					"Key": "incentives-collateral",
+					"GroupId": 1
+				}
+			]
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WBTC MAI Vault",
+	"Chain": "polygon"
+}

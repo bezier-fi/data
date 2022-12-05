@@ -1,0 +1,42 @@
+{
+	"Id": "0xEcbd32bD581e241739be1763DFE7a8fFcC844ae1",
+	"Protocol": "a44c792a-ca90-4c39-8101-72c2837c021c",
+	"Outputs": [
+		{
+			"Address": "0x8D6CeBD76f18E1558D4DB88138e2DeFB3909fAD6",
+			"Apr": -19.999998,
+			"GroupId": 1,
+			"Key": "minimum-collateral",
+			"RequiredKeyInGroup": null
+		},
+		{
+			"Address": "0x8D6CeBD76f18E1558D4DB88138e2DeFB3909fAD6",
+			"Apr": -33.333332,
+			"GroupId": 1,
+			"Key": "incentives-collateral",
+			"RequiredKeyInGroup": null
+		},
+		{
+			"Address": "0x559b7bfC48a5274754b08819F75C5F27aF53D53b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": [
+				{
+					"Key": "incentives-collateral",
+					"GroupId": 1
+				}
+			]
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa258C4606Ca8206D8aA700cE2143D7db854D168c",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Yearn ETH Ethereum MAI Vault",
+	"Chain": "ethereum"
+}

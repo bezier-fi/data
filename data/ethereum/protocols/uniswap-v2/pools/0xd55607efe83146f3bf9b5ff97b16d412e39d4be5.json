@@ -1,0 +1,27 @@
+{
+	"Id": "0xd55607efe83146f3bf9b5ff97b16d412e39d4be5",
+	"Protocol": "cf22fbab-3ed7-4496-bb5b-7d9663352d4e",
+	"Outputs": [
+		{
+			"Address": "0xd55607efe83146f3bf9b5ff97b16d412e39d4be5",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xfb526d2a87c804e9c778bd31106faa87379a9de2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-DEGENBER",
+	"Chain": "ethereum"
+}

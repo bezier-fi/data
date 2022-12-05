@@ -1,0 +1,42 @@
+{
+	"Id": "0x11A33631a5B5349AF3F165d2B7901A4d67e561ad",
+	"Protocol": "a44c792a-ca90-4c39-8101-72c2837c021c",
+	"Outputs": [
+		{
+			"Address": "0xa3fa99a148fa48d14ed51d610c367c61876997f1",
+			"Apr": -25.925928,
+			"GroupId": 1,
+			"Key": "minimum-collateral",
+			"RequiredKeyInGroup": null
+		},
+		{
+			"Address": "0xa3fa99a148fa48d14ed51d610c367c61876997f1",
+			"Apr": -37.5,
+			"GroupId": 1,
+			"Key": "incentives-collateral",
+			"RequiredKeyInGroup": null
+		},
+		{
+			"Address": "0x580A84C73811E1839F75d86d75d88cCa0c241fF4",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": [
+				{
+					"Key": "incentives-collateral",
+					"GroupId": 1
+				}
+			]
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0470CD31C8FcC42671465880BA81D631F0B76C1D",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "camWETH MAI Vault",
+	"Chain": "polygon"
+}

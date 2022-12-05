@@ -1,0 +1,27 @@
+{
+	"Id": "0xa33a6ca8fbfd7bcaa49352a56ed89b6f85522847",
+	"Protocol": "cf22fbab-3ed7-4496-bb5b-7d9663352d4e",
+	"Outputs": [
+		{
+			"Address": "0xa33a6ca8fbfd7bcaa49352a56ed89b6f85522847",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x40de2739575e9a084d9aa14c1ce45f19f5fe83e0",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Cryptmas-WETH",
+	"Chain": "ethereum"
+}

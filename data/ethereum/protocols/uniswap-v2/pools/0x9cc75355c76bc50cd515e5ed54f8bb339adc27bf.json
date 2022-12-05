@@ -1,0 +1,27 @@
+{
+	"Id": "0x9cc75355c76bc50cd515e5ed54f8bb339adc27bf",
+	"Protocol": "cf22fbab-3ed7-4496-bb5b-7d9663352d4e",
+	"Outputs": [
+		{
+			"Address": "0x9cc75355c76bc50cd515e5ed54f8bb339adc27bf",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0e9e228acb93875f8c41843fee8d1e388eaf54d9",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "VERMITHRAX -WETH",
+	"Chain": "ethereum"
+}

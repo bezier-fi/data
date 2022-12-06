@@ -1,0 +1,27 @@
+{
+	"Id": "0x5d66d2506cafad9204429c3918553f76950197f6",
+	"Protocol": "d2f917e2-fa9c-4930-974a-0623b282bcf3",
+	"Outputs": [
+		{
+			"Address": "0x5d66d2506cafad9204429c3918553f76950197f6",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0ab87046fbb341d058f17cbc4c1133f25a20a52f",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "gOHM-DAI (1.00%)",
+	"Chain": "ethereum"
+}

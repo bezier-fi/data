@@ -1,0 +1,27 @@
+{
+	"Id": "0x1A8E46721F754660dC8b2EF623e7408856A63caC",
+	"Protocol": "9bb919e6-b815-487a-8dbc-1ba6189b38e0",
+	"Outputs": [
+		{
+			"Address": "0x3CB5356B891d8E254Cc20a1d12C90ce791E72D5b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ETH FTM-f",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x246c5b4613e03d666cc72ba5b72798e78b9f19d8",
+	"Protocol": "3d6a075f-3836-44e0-a980-f363fb975b5b",
+	"Outputs": [
+		{
+			"Address": "0x246c5b4613e03d666cc72ba5b72798e78b9f19d8",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb338b316cd331214bc797b12f23c351def64ede3",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PonziAI-WETH",
+	"Chain": "ethereum"
+}

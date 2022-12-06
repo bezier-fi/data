@@ -1,0 +1,10 @@
+{
+	"Id": "0x992d49313d43d599193343a0c6e6787ab0a08074",
+	"Symbol": "VCASH-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x37cd4e8875e3edaffdfe9be63958f07effbd0bfd",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d2f917e2-fa9c-4930-974a-0623b282bcf3",
+	"Chain": "ethereum"
+}

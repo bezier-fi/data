@@ -1,0 +1,10 @@
+{
+	"Id": "0x29f8c5a33cf2f0016146b7cd561460c6e33c55e2",
+	"Symbol": "WETH-$Dwagon",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xdf1a2f85f3af80e85d14ddaab2933c8caa09294a"
+	],
+	"Protocol": "e812156b-1d8f-4655-bed6-68eec5895517",
+	"Chain": "ethereum"
+}

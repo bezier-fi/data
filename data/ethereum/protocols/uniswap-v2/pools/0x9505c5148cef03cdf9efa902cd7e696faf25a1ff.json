@@ -1,0 +1,27 @@
+{
+	"Id": "0x9505c5148cef03cdf9efa902cd7e696faf25a1ff",
+	"Protocol": "e812156b-1d8f-4655-bed6-68eec5895517",
+	"Outputs": [
+		{
+			"Address": "0x9505c5148cef03cdf9efa902cd7e696faf25a1ff",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3c4d45361c47f7994564c5eb7bb23ebcb681634d",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Zyra-WETH",
+	"Chain": "ethereum"
+}

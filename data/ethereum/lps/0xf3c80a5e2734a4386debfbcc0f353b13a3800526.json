@@ -1,0 +1,10 @@
+{
+	"Id": "0xf3c80a5e2734a4386debfbcc0f353b13a3800526",
+	"Symbol": "WETH-FRP",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe19e68abc4f501d441a76d4316ecbd40b85fb552"
+	],
+	"Protocol": "e812156b-1d8f-4655-bed6-68eec5895517",
+	"Chain": "ethereum"
+}

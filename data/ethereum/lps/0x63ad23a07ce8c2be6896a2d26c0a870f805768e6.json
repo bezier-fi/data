@@ -1,0 +1,10 @@
+{
+	"Id": "0x63ad23a07ce8c2be6896a2d26c0a870f805768e6",
+	"Symbol": "OSFE-WETH",
+	"UnderlyingTokens": [
+		"0x403e00b0732812b2cb5fd3e532c22eabaa71c632",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "e812156b-1d8f-4655-bed6-68eec5895517",
+	"Chain": "ethereum"
+}

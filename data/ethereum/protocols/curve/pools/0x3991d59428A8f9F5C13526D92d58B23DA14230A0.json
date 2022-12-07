@@ -1,0 +1,27 @@
+{
+	"Id": "0x3991d59428A8f9F5C13526D92d58B23DA14230A0",
+	"Protocol": "2210fd11-80a4-423f-9e3f-227022aaed7d",
+	"Outputs": [
+		{
+			"Address": "0x38e1ffDe05A46760B9C6cBDA0e4B4C03def99229",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ETH SNX-f",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x6f77b6e2929ea3811cbc0fb9fd7fd338312a342d",
+	"Symbol": "WETH-SLAVE",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xefe055888c4b226c53a5c622323dde9363d261a7"
+	],
+	"Protocol": "e812156b-1d8f-4655-bed6-68eec5895517",
+	"Chain": "ethereum"
+}

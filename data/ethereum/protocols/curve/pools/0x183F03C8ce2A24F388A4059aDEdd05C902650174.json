@@ -1,0 +1,27 @@
+{
+	"Id": "0x183F03C8ce2A24F388A4059aDEdd05C902650174",
+	"Protocol": "2210fd11-80a4-423f-9e3f-227022aaed7d",
+	"Outputs": [
+		{
+			"Address": "0x38c92F5172cF802A98c46F247eD228cc61b009A3",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xC669928185DbCE49d2230CC9B0979BE6DC797957",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ETH BTT-f",
+	"Chain": "ethereum"
+}

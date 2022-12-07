@@ -1,0 +1,10 @@
+{
+	"Id": "0xff72e5ca70a1ec9a9a3758a5638b3f299895add0",
+	"Symbol": "BDS-WETH",
+	"UnderlyingTokens": [
+		"0x1856bc58f5511269afe2ca1e89bf08cbdcd01100",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "e812156b-1d8f-4655-bed6-68eec5895517",
+	"Chain": "ethereum"
+}

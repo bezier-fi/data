@@ -1,0 +1,27 @@
+{
+	"Id": "0x58416c9e93e200b91dcaa346c5335fa32870aa0e",
+	"Protocol": "e812156b-1d8f-4655-bed6-68eec5895517",
+	"Outputs": [
+		{
+			"Address": "0x58416c9e93e200b91dcaa346c5335fa32870aa0e",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2ca0cc2a715cb589590a6b3f197581cddc2a080a",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "The Dragon Master-WETH",
+	"Chain": "ethereum"
+}

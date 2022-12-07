@@ -1,0 +1,27 @@
+{
+	"Id": "0xf3f8a942f9d0827d32ea1b9f1a0724b5fa7397db",
+	"Protocol": "e812156b-1d8f-4655-bed6-68eec5895517",
+	"Outputs": [
+		{
+			"Address": "0xf3f8a942f9d0827d32ea1b9f1a0724b5fa7397db",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x45804880de22913dafe09f4980848ece6ecbaf78",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PAXG-USDT",
+	"Chain": "ethereum"
+}

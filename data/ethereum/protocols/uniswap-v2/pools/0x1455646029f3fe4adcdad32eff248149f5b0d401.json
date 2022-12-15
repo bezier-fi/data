@@ -1,0 +1,27 @@
+{
+	"Id": "0x1455646029f3fe4adcdad32eff248149f5b0d401",
+	"Protocol": "49a888f0-3311-4464-9788-ac8460acb9b4",
+	"Outputs": [
+		{
+			"Address": "0x1455646029f3fe4adcdad32eff248149f5b0d401",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x64efa5181692b58c25242329f40483d478db3d1e",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "KAMBO-WETH",
+	"Chain": "ethereum"
+}

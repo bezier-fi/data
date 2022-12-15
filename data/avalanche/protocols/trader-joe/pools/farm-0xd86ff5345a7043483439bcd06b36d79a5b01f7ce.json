@@ -1,0 +1,23 @@
+{
+	"Id": "farm-0xd86ff5345a7043483439bcd06b36d79a5b01f7ce",
+	"Protocol": "adb47c3f-f1ff-4d08-9698-ea09419a916f",
+	"Outputs": [
+		{
+			"Address": "0xd86ff5345a7043483439bcd06b36d79a5b01f7ce",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xd86ff5345a7043483439bcd06b36d79a5b01f7ce",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "KALM-WAVAX",
+	"Chain": "avalanche"
+}

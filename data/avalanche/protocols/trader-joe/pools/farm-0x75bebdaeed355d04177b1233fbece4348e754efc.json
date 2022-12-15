@@ -1,0 +1,23 @@
+{
+	"Id": "farm-0x75bebdaeed355d04177b1233fbece4348e754efc",
+	"Protocol": "adb47c3f-f1ff-4d08-9698-ea09419a916f",
+	"Outputs": [
+		{
+			"Address": "0x75bebdaeed355d04177b1233fbece4348e754efc",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x75bebdaeed355d04177b1233fbece4348e754efc",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WAVAX-PERA",
+	"Chain": "avalanche"
+}

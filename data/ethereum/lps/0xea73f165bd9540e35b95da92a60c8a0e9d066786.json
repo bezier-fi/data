@@ -1,0 +1,10 @@
+{
+	"Id": "0xea73f165bd9540e35b95da92a60c8a0e9d066786",
+	"Symbol": "WBTC-ALPHA",
+	"UnderlyingTokens": [
+		"0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+		"0xf5694866a8442b6277f828e87eaad74f94d4a5d3"
+	],
+	"Protocol": "49a888f0-3311-4464-9788-ac8460acb9b4",
+	"Chain": "ethereum"
+}

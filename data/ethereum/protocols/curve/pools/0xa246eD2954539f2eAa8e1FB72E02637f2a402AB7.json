@@ -1,0 +1,27 @@
+{
+	"Id": "0xa246eD2954539f2eAa8e1FB72E02637f2a402AB7",
+	"Protocol": "f1759968-a7ce-40f0-bf32-dd603c98fd31",
+	"Outputs": [
+		{
+			"Address": "0x5BE0f9a27A12119aa449e2C68511eA80bD10a8Ad",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2C537E5624e4af88A7ae4060C022609376C8D0EB",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x3175Df0976dFA876431C2E9eE6Bc45b65d3473CC",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TRYBFRAXBP-f",
+	"Chain": "ethereum"
+}

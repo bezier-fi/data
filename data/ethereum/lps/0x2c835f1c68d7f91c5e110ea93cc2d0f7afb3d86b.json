@@ -1,0 +1,10 @@
+{
+	"Id": "0x2c835f1c68d7f91c5e110ea93cc2d0f7afb3d86b",
+	"Symbol": "BALTO-WETH",
+	"UnderlyingTokens": [
+		"0x5955f7d312c5d84b004d259d55072c4f0a478dbc",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "49a888f0-3311-4464-9788-ac8460acb9b4",
+	"Chain": "ethereum"
+}

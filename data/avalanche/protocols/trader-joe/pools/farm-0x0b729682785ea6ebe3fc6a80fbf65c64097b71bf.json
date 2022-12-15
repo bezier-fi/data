@@ -1,0 +1,23 @@
+{
+	"Id": "farm-0x0b729682785ea6ebe3fc6a80fbf65c64097b71bf",
+	"Protocol": "adb47c3f-f1ff-4d08-9698-ea09419a916f",
+	"Outputs": [
+		{
+			"Address": "0x0b729682785ea6ebe3fc6a80fbf65c64097b71bf",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0b729682785ea6ebe3fc6a80fbf65c64097b71bf",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SPEAR-USDC",
+	"Chain": "avalanche"
+}

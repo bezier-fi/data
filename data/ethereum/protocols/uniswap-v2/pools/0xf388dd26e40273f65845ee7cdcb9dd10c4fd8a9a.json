@@ -1,0 +1,27 @@
+{
+	"Id": "0xf388dd26e40273f65845ee7cdcb9dd10c4fd8a9a",
+	"Protocol": "49a888f0-3311-4464-9788-ac8460acb9b4",
+	"Outputs": [
+		{
+			"Address": "0xf388dd26e40273f65845ee7cdcb9dd10c4fd8a9a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x295e7949ffbf86fb6dc81f50e2c1d963ad734e42",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FRANCE-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,23 @@
+{
+	"Id": "farm-0x07fe142db0a7f6493d2331ffa28821dc3b7392ed",
+	"Protocol": "adb47c3f-f1ff-4d08-9698-ea09419a916f",
+	"Outputs": [
+		{
+			"Address": "0x07fe142db0a7f6493d2331ffa28821dc3b7392ed",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x07fe142db0a7f6493d2331ffa28821dc3b7392ed",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH.e-NFD",
+	"Chain": "avalanche"
+}

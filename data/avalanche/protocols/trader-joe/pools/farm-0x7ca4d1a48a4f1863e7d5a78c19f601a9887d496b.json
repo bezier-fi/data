@@ -1,0 +1,23 @@
+{
+	"Id": "farm-0x7ca4d1a48a4f1863e7d5a78c19f601a9887d496b",
+	"Protocol": "adb47c3f-f1ff-4d08-9698-ea09419a916f",
+	"Outputs": [
+		{
+			"Address": "0x7ca4d1a48a4f1863e7d5a78c19f601a9887d496b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7ca4d1a48a4f1863e7d5a78c19f601a9887d496b",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "AHILL-WAVAX",
+	"Chain": "avalanche"
+}

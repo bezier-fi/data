@@ -1,0 +1,23 @@
+{
+	"Id": "farm-0x50e0d123adcabbf7cf95fa031f6b7f9b2c5c8dfa",
+	"Protocol": "adb47c3f-f1ff-4d08-9698-ea09419a916f",
+	"Outputs": [
+		{
+			"Address": "0x50e0d123adcabbf7cf95fa031f6b7f9b2c5c8dfa",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x50e0d123adcabbf7cf95fa031f6b7f9b2c5c8dfa",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WAVAX-NEKO",
+	"Chain": "avalanche"
+}

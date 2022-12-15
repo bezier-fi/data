@@ -1,0 +1,23 @@
+{
+	"Id": "farm-0xfe64b906b7ec35f02c49d09e4165cd823e5cb26c",
+	"Protocol": "adb47c3f-f1ff-4d08-9698-ea09419a916f",
+	"Outputs": [
+		{
+			"Address": "0xfe64b906b7ec35f02c49d09e4165cd823e5cb26c",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xfe64b906b7ec35f02c49d09e4165cd823e5cb26c",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USV-DAI.e",
+	"Chain": "avalanche"
+}

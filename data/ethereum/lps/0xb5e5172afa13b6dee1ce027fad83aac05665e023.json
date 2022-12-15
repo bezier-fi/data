@@ -1,0 +1,10 @@
+{
+	"Id": "0xb5e5172afa13b6dee1ce027fad83aac05665e023",
+	"Symbol": "GAMI-WETH",
+	"UnderlyingTokens": [
+		"0x225b9970f333ffe868f6eff4cd6adf3943dc6c4d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "49a888f0-3311-4464-9788-ac8460acb9b4",
+	"Chain": "ethereum"
+}

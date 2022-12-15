@@ -1,0 +1,27 @@
+{
+	"Id": "0xB4018CB02E264C3FCfe0f21A1F5cfbCAAba9F61F",
+	"Protocol": "f1759968-a7ce-40f0-bf32-dd603c98fd31",
+	"Outputs": [
+		{
+			"Address": "0xdf34bad1D3B16c8F28c9Cf95f15001949243A038",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8CC0F052fff7eaD7f2EdCCcaC895502E884a8a71",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ARTHUSDC-f",
+	"Chain": "ethereum"
+}

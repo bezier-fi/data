@@ -1,0 +1,23 @@
+{
+	"Id": "farm-0x4d8bc902e9e6946f7e42aff2abdd24890d02ef0b",
+	"Protocol": "adb47c3f-f1ff-4d08-9698-ea09419a916f",
+	"Outputs": [
+		{
+			"Address": "0x4d8bc902e9e6946f7e42aff2abdd24890d02ef0b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4d8bc902e9e6946f7e42aff2abdd24890d02ef0b",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WAVAX-BETS",
+	"Chain": "avalanche"
+}

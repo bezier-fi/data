@@ -1,0 +1,27 @@
+{
+	"Id": "0xf07392bc7b8838e87c8b779ad84a27db87dea61f",
+	"Protocol": "08abc346-fe78-44e9-a272-7997ba90f280",
+	"Outputs": [
+		{
+			"Address": "0xf07392bc7b8838e87c8b779ad84a27db87dea61f",
+			"Apr": 107.95036,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8355dbe8b0e275abad27eb843f3eaf3fc855e525",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WOOL-WETH (0.30%)",
+	"Chain": "ethereum"
+}

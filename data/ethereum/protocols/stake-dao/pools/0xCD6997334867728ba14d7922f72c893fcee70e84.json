@@ -1,10 +1,10 @@
 {
 	"Id": "0xCD6997334867728ba14d7922f72c893fcee70e84",
-	"Protocol": "b568bcce-6993-432e-86e3-5093b4d73bec",
+	"Protocol": "a94c86d4-7386-4b15-8e13-1d4f4156e9b5",
 	"Outputs": [
 		{
-			"Address": "0xCD6997334867728ba14d7922f72c893fcee70e84",
-			"Apr": 12.067668,
+			"Address": "0x73968b9a57c6e53d41345fd57a6e6ae27d6cdb2f",
+			"Apr": 12.143001,
 			"GroupId": 0,
 			"Key": "",
 			"RequiredKeyInGroup": null
@@ -12,12 +12,12 @@
 	],
 	"Inputs": [
 		{
-			"Address": "0x194eBd173F6cDacE046C53eACcE9B953F28411d1",
+			"Address": "0x194ebd173f6cdace046c53eacce9b953f28411d1",
 			"GroupId": 0
 		}
 	],
 	"MinimumInputs": 0,
 	"RequiredInputs": null,
-	"Symbol": "Passive EUR strategy",
+	"Symbol": "Passive sEUR",
 	"Chain": "ethereum"
 }

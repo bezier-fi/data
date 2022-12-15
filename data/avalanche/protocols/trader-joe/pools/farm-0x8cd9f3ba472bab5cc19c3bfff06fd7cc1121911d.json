@@ -1,0 +1,23 @@
+{
+	"Id": "farm-0x8cd9f3ba472bab5cc19c3bfff06fd7cc1121911d",
+	"Protocol": "adb47c3f-f1ff-4d08-9698-ea09419a916f",
+	"Outputs": [
+		{
+			"Address": "0x8cd9f3ba472bab5cc19c3bfff06fd7cc1121911d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8cd9f3ba472bab5cc19c3bfff06fd7cc1121911d",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "NOD-IMON",
+	"Chain": "avalanche"
+}

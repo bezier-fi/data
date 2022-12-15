@@ -1,0 +1,27 @@
+{
+	"Id": "0xa0913a96825fe3ca9400d8342d3ba0de47e0ecef",
+	"Protocol": "49a888f0-3311-4464-9788-ac8460acb9b4",
+	"Outputs": [
+		{
+			"Address": "0xa0913a96825fe3ca9400d8342d3ba0de47e0ecef",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x53fd2342b43ecd24aef1535bc3797f509616ce8c",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x5d29011d843b0b1760c43e10d66f302174bccd1a",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ANARCHY-RickMortyDoxx",
+	"Chain": "ethereum"
+}

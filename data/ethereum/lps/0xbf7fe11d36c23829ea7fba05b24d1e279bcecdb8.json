@@ -1,0 +1,10 @@
+{
+	"Id": "0xbf7fe11d36c23829ea7fba05b24d1e279bcecdb8",
+	"Symbol": "WETH-FOOL",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xca7dce1afebbec7af059303ba00a331ab9ba786f"
+	],
+	"Protocol": "49a888f0-3311-4464-9788-ac8460acb9b4",
+	"Chain": "ethereum"
+}

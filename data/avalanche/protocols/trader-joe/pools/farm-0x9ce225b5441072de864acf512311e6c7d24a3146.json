@@ -1,0 +1,23 @@
+{
+	"Id": "farm-0x9ce225b5441072de864acf512311e6c7d24a3146",
+	"Protocol": "adb47c3f-f1ff-4d08-9698-ea09419a916f",
+	"Outputs": [
+		{
+			"Address": "0x9ce225b5441072de864acf512311e6c7d24a3146",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9ce225b5441072de864acf512311e6c7d24a3146",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "KGC-USDT.e",
+	"Chain": "avalanche"
+}

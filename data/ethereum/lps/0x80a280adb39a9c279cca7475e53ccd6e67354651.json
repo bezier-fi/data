@@ -1,0 +1,10 @@
+{
+	"Id": "0x80a280adb39a9c279cca7475e53ccd6e67354651",
+	"Symbol": "MOKU-WETH",
+	"UnderlyingTokens": [
+		"0x42afd0bdc9ce209652dea4228cffcc6c6fbe454e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "49a888f0-3311-4464-9788-ac8460acb9b4",
+	"Chain": "ethereum"
+}

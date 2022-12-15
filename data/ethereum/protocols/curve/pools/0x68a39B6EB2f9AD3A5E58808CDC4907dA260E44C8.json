@@ -1,0 +1,27 @@
+{
+	"Id": "0x68a39B6EB2f9AD3A5E58808CDC4907dA260E44C8",
+	"Protocol": "f1759968-a7ce-40f0-bf32-dd603c98fd31",
+	"Outputs": [
+		{
+			"Address": "0x4Ae0480F7f251B8a6E99f495AbfFe696F67c791e",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xFCc5c47bE19d06BF83eB04298b026F81069ff65b",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DARTH2-f",
+	"Chain": "ethereum"
+}

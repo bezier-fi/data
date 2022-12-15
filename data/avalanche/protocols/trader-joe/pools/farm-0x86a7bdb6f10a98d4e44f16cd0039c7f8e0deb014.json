@@ -1,0 +1,23 @@
+{
+	"Id": "farm-0x86a7bdb6f10a98d4e44f16cd0039c7f8e0deb014",
+	"Protocol": "adb47c3f-f1ff-4d08-9698-ea09419a916f",
+	"Outputs": [
+		{
+			"Address": "0x86a7bdb6f10a98d4e44f16cd0039c7f8e0deb014",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x86a7bdb6f10a98d4e44f16cd0039c7f8e0deb014",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "HRW-USDT.e",
+	"Chain": "avalanche"
+}

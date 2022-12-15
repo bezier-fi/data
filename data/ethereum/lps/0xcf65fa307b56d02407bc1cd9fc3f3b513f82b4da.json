@@ -1,0 +1,10 @@
+{
+	"Id": "0xcf65fa307b56d02407bc1cd9fc3f3b513f82b4da",
+	"Symbol": "Cells-WETH",
+	"UnderlyingTokens": [
+		"0xa29005798187a4793534f2d4d1b82fdc504c7c20",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "49a888f0-3311-4464-9788-ac8460acb9b4",
+	"Chain": "ethereum"
+}

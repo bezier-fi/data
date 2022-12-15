@@ -1,0 +1,23 @@
+{
+	"Id": "farm-0x457b1a04974045c765f47cc2953371f5d0841ba4",
+	"Protocol": "adb47c3f-f1ff-4d08-9698-ea09419a916f",
+	"Outputs": [
+		{
+			"Address": "0x457b1a04974045c765f47cc2953371f5d0841ba4",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x457b1a04974045c765f47cc2953371f5d0841ba4",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "bAVAX-USDC.e",
+	"Chain": "avalanche"
+}

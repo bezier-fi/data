@@ -1,0 +1,27 @@
+{
+	"Id": "0x7ace268663da2cc4fdb807f24cff413237875f58",
+	"Protocol": "08abc346-fe78-44e9-a272-7997ba90f280",
+	"Outputs": [
+		{
+			"Address": "0x7ace268663da2cc4fdb807f24cff413237875f58",
+			"Apr": 1.2649393,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x930a7dc10ae084fbbddc6537d7df7d4c65a40944",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WMATIC-UNLOCK (0.30%)",
+	"Chain": "polygon"
+}

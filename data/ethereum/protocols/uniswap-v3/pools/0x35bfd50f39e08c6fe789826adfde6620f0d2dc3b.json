@@ -1,0 +1,27 @@
+{
+	"Id": "0x35bfd50f39e08c6fe789826adfde6620f0d2dc3b",
+	"Protocol": "08abc346-fe78-44e9-a272-7997ba90f280",
+	"Outputs": [
+		{
+			"Address": "0x35bfd50f39e08c6fe789826adfde6620f0d2dc3b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x17d2628d30f8e9e966c9ba831c9b9b01ea8ea75c",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ISK-USDT (0.30%)",
+	"Chain": "ethereum"
+}

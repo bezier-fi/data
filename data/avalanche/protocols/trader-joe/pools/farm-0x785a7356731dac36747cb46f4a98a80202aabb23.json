@@ -1,0 +1,23 @@
+{
+	"Id": "farm-0x785a7356731dac36747cb46f4a98a80202aabb23",
+	"Protocol": "adb47c3f-f1ff-4d08-9698-ea09419a916f",
+	"Outputs": [
+		{
+			"Address": "0x785a7356731dac36747cb46f4a98a80202aabb23",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x785a7356731dac36747cb46f4a98a80202aabb23",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MIM-ASND",
+	"Chain": "avalanche"
+}

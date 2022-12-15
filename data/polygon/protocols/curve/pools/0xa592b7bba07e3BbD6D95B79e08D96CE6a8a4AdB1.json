@@ -1,0 +1,27 @@
+{
+	"Id": "0xa592b7bba07e3BbD6D95B79e08D96CE6a8a4AdB1",
+	"Protocol": "f1759968-a7ce-40f0-bf32-dd603c98fd31",
+	"Outputs": [
+		{
+			"Address": "0x7550Cc64F5BCbCc40E8588cA5e4E1025433B5e3d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xE52509181FEb30EB4979E29EC70D50FD5C44D590",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ARTHUSDC-f",
+	"Chain": "polygon"
+}

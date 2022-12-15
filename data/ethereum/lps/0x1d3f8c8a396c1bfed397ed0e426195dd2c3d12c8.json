@@ -1,0 +1,10 @@
+{
+	"Id": "0x1d3f8c8a396c1bfed397ed0e426195dd2c3d12c8",
+	"Symbol": "WETH-PINGU",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc0a1105afcc996f6f828080cad9ce8bea2b6debe"
+	],
+	"Protocol": "49a888f0-3311-4464-9788-ac8460acb9b4",
+	"Chain": "ethereum"
+}

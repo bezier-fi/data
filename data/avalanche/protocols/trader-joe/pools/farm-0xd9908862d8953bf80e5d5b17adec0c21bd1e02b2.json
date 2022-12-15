@@ -1,0 +1,23 @@
+{
+	"Id": "farm-0xd9908862d8953bf80e5d5b17adec0c21bd1e02b2",
+	"Protocol": "adb47c3f-f1ff-4d08-9698-ea09419a916f",
+	"Outputs": [
+		{
+			"Address": "0xd9908862d8953bf80e5d5b17adec0c21bd1e02b2",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xd9908862d8953bf80e5d5b17adec0c21bd1e02b2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TRUSD-QBTC",
+	"Chain": "avalanche"
+}

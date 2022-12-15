@@ -1,0 +1,10 @@
+{
+	"Id": "0x248fa9ba6985d9d3c97c7d0390da2f0e05f86eee",
+	"Symbol": "WETH-SPORTSMANIA",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe54888af2f4a72da563bb4067952f4ca38cf9b31"
+	],
+	"Protocol": "49a888f0-3311-4464-9788-ac8460acb9b4",
+	"Chain": "ethereum"
+}

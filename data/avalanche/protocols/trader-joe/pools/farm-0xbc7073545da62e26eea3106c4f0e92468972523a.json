@@ -1,0 +1,23 @@
+{
+	"Id": "farm-0xbc7073545da62e26eea3106c4f0e92468972523a",
+	"Protocol": "adb47c3f-f1ff-4d08-9698-ea09419a916f",
+	"Outputs": [
+		{
+			"Address": "0xbc7073545da62e26eea3106c4f0e92468972523a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xbc7073545da62e26eea3106c4f0e92468972523a",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WAVAX-HOOF",
+	"Chain": "avalanche"
+}

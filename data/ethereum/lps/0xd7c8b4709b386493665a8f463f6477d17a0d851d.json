@@ -1,0 +1,10 @@
+{
+	"Id": "0xd7c8b4709b386493665a8f463f6477d17a0d851d",
+	"Symbol": "BORED-WETH",
+	"UnderlyingTokens": [
+		"0x2047ab3072b52561596ce5e0131bdbb7c848538d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "49a888f0-3311-4464-9788-ac8460acb9b4",
+	"Chain": "ethereum"
+}

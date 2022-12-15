@@ -1,0 +1,10 @@
+{
+	"Id": "0xf22fdd2be7c6da9788e4941a6ffc78ca99d7b15c",
+	"Symbol": "KIBSHI-WETH",
+	"UnderlyingTokens": [
+		"0x02e7f808990638e9e67e1f00313037ede2362361",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "49a888f0-3311-4464-9788-ac8460acb9b4",
+	"Chain": "ethereum"
+}

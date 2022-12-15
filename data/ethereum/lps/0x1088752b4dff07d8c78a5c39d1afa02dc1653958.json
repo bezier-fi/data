@@ -1,0 +1,10 @@
+{
+	"Id": "0x1088752b4dff07d8c78a5c39d1afa02dc1653958",
+	"Symbol": "WETH-EarthX",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf0af661fe8b5f1d14d66b0668b561130330ca003"
+	],
+	"Protocol": "49a888f0-3311-4464-9788-ac8460acb9b4",
+	"Chain": "ethereum"
+}

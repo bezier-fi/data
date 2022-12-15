@@ -1,0 +1,10 @@
+{
+	"Id": "0xd5165329d096a0c8a64d2cf7f324dd750301bd40",
+	"Symbol": "HANAMI-WETH",
+	"UnderlyingTokens": [
+		"0x3dc0027be292e795575d3cd095740ff41f3a37b1",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "49a888f0-3311-4464-9788-ac8460acb9b4",
+	"Chain": "ethereum"
+}

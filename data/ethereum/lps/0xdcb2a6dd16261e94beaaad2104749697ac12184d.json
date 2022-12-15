@@ -1,0 +1,10 @@
+{
+	"Id": "0xdcb2a6dd16261e94beaaad2104749697ac12184d",
+	"Symbol": "HYDRADRAGON-WETH",
+	"UnderlyingTokens": [
+		"0x464517e0a93d2bcbc86cf534c2b8727efd28e51f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "49a888f0-3311-4464-9788-ac8460acb9b4",
+	"Chain": "ethereum"
+}

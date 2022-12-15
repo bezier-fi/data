@@ -1,0 +1,23 @@
+{
+	"Id": "farm-0x255bccb8deceb2d94edff476638b56b1fe5b26ca",
+	"Protocol": "adb47c3f-f1ff-4d08-9698-ea09419a916f",
+	"Outputs": [
+		{
+			"Address": "0x255bccb8deceb2d94edff476638b56b1fe5b26ca",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x255bccb8deceb2d94edff476638b56b1fe5b26ca",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "AVANET-sAVANET",
+	"Chain": "avalanche"
+}

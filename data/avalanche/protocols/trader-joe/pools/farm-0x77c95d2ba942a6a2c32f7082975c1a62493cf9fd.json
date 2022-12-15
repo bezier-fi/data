@@ -1,0 +1,23 @@
+{
+	"Id": "farm-0x77c95d2ba942a6a2c32f7082975c1a62493cf9fd",
+	"Protocol": "adb47c3f-f1ff-4d08-9698-ea09419a916f",
+	"Outputs": [
+		{
+			"Address": "0x77c95d2ba942a6a2c32f7082975c1a62493cf9fd",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x77c95d2ba942a6a2c32f7082975c1a62493cf9fd",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BBB-AAA",
+	"Chain": "avalanche"
+}

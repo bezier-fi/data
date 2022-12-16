@@ -1,0 +1,10 @@
+{
+	"Id": "0x5382eb1e167a9e034a960d82fcb9f791e6e9693b",
+	"Symbol": "WETH-SENSOJI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf5fedf9a53191d86880b73d659896158aa394b07"
+	],
+	"Protocol": "6d64073c-df01-4bb3-80d6-12243adfc00d",
+	"Chain": "ethereum"
+}

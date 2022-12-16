@@ -1,0 +1,27 @@
+{
+	"Id": "0xbcab5dede4d442a6df7bde79382959e1d198bf59",
+	"Protocol": "6d64073c-df01-4bb3-80d6-12243adfc00d",
+	"Outputs": [
+		{
+			"Address": "0xbcab5dede4d442a6df7bde79382959e1d198bf59",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x39a148979c9bbfc635246c92f1173a315530879f",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "YueTu-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,35 @@
+{
+	"Id": "0x7C1aa4989DF27970381196D3EF32A7410E3F2748",
+	"Protocol": "6ef3d2fa-0628-439e-8183-c4fc7abb408f",
+	"Outputs": [
+		{
+			"Address": "0x7C1aa4989DF27970381196D3EF32A7410E3F2748",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xE0B52e49357Fd4DAf2c15e02058DCE6BC0057db4",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x3A58a54C066FdC0f2D55FC9C89F0415C92eBf3C4",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x7D645CBbCAdE2A130bF1bf0528b8541d32D3f8Cf",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "agmETH-f",
+	"Chain": "polygon"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0xbd22188dee0c2690530bcf3154cb5036e0e52548",
+	"Protocol": "6d64073c-df01-4bb3-80d6-12243adfc00d",
+	"Outputs": [
+		{
+			"Address": "0xbd22188dee0c2690530bcf3154cb5036e0e52548",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xd75f58efb2674f514bda38713946b233a42bcbdf",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-CRIMBO",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xbd22188dee0c2690530bcf3154cb5036e0e52548",
+	"Symbol": "WETH-CRIMBO",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd75f58efb2674f514bda38713946b233a42bcbdf"
+	],
+	"Protocol": "6d64073c-df01-4bb3-80d6-12243adfc00d",
+	"Chain": "ethereum"
+}

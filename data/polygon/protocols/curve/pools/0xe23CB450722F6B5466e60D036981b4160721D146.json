@@ -1,0 +1,35 @@
+{
+	"Id": "0xe23CB450722F6B5466e60D036981b4160721D146",
+	"Protocol": "6ef3d2fa-0628-439e-8183-c4fc7abb408f",
+	"Outputs": [
+		{
+			"Address": "0xe23CB450722F6B5466e60D036981b4160721D146",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x8343091F2499FD4b6174A46D067A920a3b851FF9",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xE0B52e49357Fd4DAf2c15e02058DCE6BC0057db4",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x7D645CBbCAdE2A130bF1bf0528b8541d32D3f8Cf",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "wmUSD-f",
+	"Chain": "polygon"
+}

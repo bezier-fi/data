@@ -1,0 +1,27 @@
+{
+	"Id": "0x4d01c6db1bf4249f35e80070daf89f6ffdd01570",
+	"Protocol": "6d64073c-df01-4bb3-80d6-12243adfc00d",
+	"Outputs": [
+		{
+			"Address": "0x4d01c6db1bf4249f35e80070daf89f6ffdd01570",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0ff41d3254170f0ed06898d7809cd3415b3998a4",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Crimson-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xbe452a5cf6f3bad371ddb5197886b081a33d901e",
+	"Symbol": "$FUEGO-WETH",
+	"UnderlyingTokens": [
+		"0xa6e2e5394989de01123157623c6e70b6f5eb08ab",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "6d64073c-df01-4bb3-80d6-12243adfc00d",
+	"Chain": "ethereum"
+}

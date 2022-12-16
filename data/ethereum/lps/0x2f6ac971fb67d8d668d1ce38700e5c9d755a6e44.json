@@ -1,0 +1,10 @@
+{
+	"Id": "0x2f6ac971fb67d8d668d1ce38700e5c9d755a6e44",
+	"Symbol": "WRB-WETH",
+	"UnderlyingTokens": [
+		"0x9df84c4451a14a61de92f7f351ed4918494951ec",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "6d64073c-df01-4bb3-80d6-12243adfc00d",
+	"Chain": "ethereum"
+}

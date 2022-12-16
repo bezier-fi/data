@@ -1,0 +1,27 @@
+{
+	"Id": "0x4b589a9d0da47cd41b9b46aa0d0ebf05515c77cf",
+	"Protocol": "6d64073c-df01-4bb3-80d6-12243adfc00d",
+	"Outputs": [
+		{
+			"Address": "0x4b589a9d0da47cd41b9b46aa0d0ebf05515c77cf",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7a3f7f6675514d4d611b442a4b76752f6ab77670",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TORA-WETH",
+	"Chain": "ethereum"
+}

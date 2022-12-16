@@ -1,0 +1,27 @@
+{
+	"Id": "0x43b82c90ebb869c4687105863b8881499a412e6c",
+	"Protocol": "6d64073c-df01-4bb3-80d6-12243adfc00d",
+	"Outputs": [
+		{
+			"Address": "0x43b82c90ebb869c4687105863b8881499a412e6c",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4236f8aaf2b1f3a28420eb15b8e0ddf63201a95e",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BMDA-WETH",
+	"Chain": "ethereum"
+}

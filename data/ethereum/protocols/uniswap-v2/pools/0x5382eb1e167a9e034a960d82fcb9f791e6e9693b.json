@@ -1,0 +1,27 @@
+{
+	"Id": "0x5382eb1e167a9e034a960d82fcb9f791e6e9693b",
+	"Protocol": "6d64073c-df01-4bb3-80d6-12243adfc00d",
+	"Outputs": [
+		{
+			"Address": "0x5382eb1e167a9e034a960d82fcb9f791e6e9693b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xf5fedf9a53191d86880b73d659896158aa394b07",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-SENSOJI",
+	"Chain": "ethereum"
+}

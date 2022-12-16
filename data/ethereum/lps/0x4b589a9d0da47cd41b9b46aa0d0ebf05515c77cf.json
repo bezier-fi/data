@@ -1,0 +1,10 @@
+{
+	"Id": "0x4b589a9d0da47cd41b9b46aa0d0ebf05515c77cf",
+	"Symbol": "TORA-WETH",
+	"UnderlyingTokens": [
+		"0x7a3f7f6675514d4d611b442a4b76752f6ab77670",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "6d64073c-df01-4bb3-80d6-12243adfc00d",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xdf8ff5b7f902206e8bee55a7a45e82ed0529b645",
+	"Symbol": "UFCTV-WETH",
+	"UnderlyingTokens": [
+		"0x08e9b71540011bf1c2b8c44670bfb0120ed57894",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "6d64073c-df01-4bb3-80d6-12243adfc00d",
+	"Chain": "ethereum"
+}

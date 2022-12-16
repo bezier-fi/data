@@ -1,0 +1,27 @@
+{
+	"Id": "0xab04004e95227456310ef7fac95e40d8a4837d45",
+	"Protocol": "d94987b1-da84-4111-bb14-da2fa6164f94",
+	"Outputs": [
+		{
+			"Address": "0xab04004e95227456310ef7fac95e40d8a4837d45",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xdc190ea63142c7522dd56077f9b48b5073e3bd49",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC-BLND (0.05%)",
+	"Chain": "ethereum"
+}

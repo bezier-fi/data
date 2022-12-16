@@ -1,0 +1,27 @@
+{
+	"Id": "0xbe452a5cf6f3bad371ddb5197886b081a33d901e",
+	"Protocol": "6d64073c-df01-4bb3-80d6-12243adfc00d",
+	"Outputs": [
+		{
+			"Address": "0xbe452a5cf6f3bad371ddb5197886b081a33d901e",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa6e2e5394989de01123157623c6e70b6f5eb08ab",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "$FUEGO-WETH",
+	"Chain": "ethereum"
+}

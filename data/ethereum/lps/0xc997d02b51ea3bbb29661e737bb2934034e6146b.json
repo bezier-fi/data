@@ -1,0 +1,10 @@
+{
+	"Id": "0xc997d02b51ea3bbb29661e737bb2934034e6146b",
+	"Symbol": "TON-WETH",
+	"UnderlyingTokens": [
+		"0x08403bef03127d7ed147d0964291c60ddf795606",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "6d64073c-df01-4bb3-80d6-12243adfc00d",
+	"Chain": "ethereum"
+}

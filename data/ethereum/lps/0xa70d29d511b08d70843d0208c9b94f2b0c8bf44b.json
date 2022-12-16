@@ -1,0 +1,10 @@
+{
+	"Id": "0xa70d29d511b08d70843d0208c9b94f2b0c8bf44b",
+	"Symbol": "CULL-WETH",
+	"UnderlyingTokens": [
+		"0xb3c7922cefe8008d85424eee3e0f9c3aca177800",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "6d64073c-df01-4bb3-80d6-12243adfc00d",
+	"Chain": "ethereum"
+}

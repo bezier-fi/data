@@ -1,0 +1,27 @@
+{
+	"Id": "0xdf8ff5b7f902206e8bee55a7a45e82ed0529b645",
+	"Protocol": "6d64073c-df01-4bb3-80d6-12243adfc00d",
+	"Outputs": [
+		{
+			"Address": "0xdf8ff5b7f902206e8bee55a7a45e82ed0529b645",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x08e9b71540011bf1c2b8c44670bfb0120ed57894",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "UFCTV-WETH",
+	"Chain": "ethereum"
+}

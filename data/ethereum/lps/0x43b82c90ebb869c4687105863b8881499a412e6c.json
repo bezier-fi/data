@@ -1,0 +1,10 @@
+{
+	"Id": "0x43b82c90ebb869c4687105863b8881499a412e6c",
+	"Symbol": "BMDA-WETH",
+	"UnderlyingTokens": [
+		"0x4236f8aaf2b1f3a28420eb15b8e0ddf63201a95e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "6d64073c-df01-4bb3-80d6-12243adfc00d",
+	"Chain": "ethereum"
+}

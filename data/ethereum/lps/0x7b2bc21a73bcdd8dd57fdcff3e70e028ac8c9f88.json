@@ -1,0 +1,10 @@
+{
+	"Id": "0x7b2bc21a73bcdd8dd57fdcff3e70e028ac8c9f88",
+	"Symbol": "ANTIMA-WETH",
+	"UnderlyingTokens": [
+		"0x2bb9867e3061353611e00f9af7197672aab48a11",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "6d64073c-df01-4bb3-80d6-12243adfc00d",
+	"Chain": "ethereum"
+}

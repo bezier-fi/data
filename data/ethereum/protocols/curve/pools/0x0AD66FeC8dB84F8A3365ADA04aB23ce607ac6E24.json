@@ -1,0 +1,27 @@
+{
+	"Id": "0x0AD66FeC8dB84F8A3365ADA04aB23ce607ac6E24",
+	"Protocol": "3b72e5e1-e323-43a6-b779-5a0cf9769c2d",
+	"Outputs": [
+		{
+			"Address": "0x0AD66FeC8dB84F8A3365ADA04aB23ce607ac6E24",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x11EBe21e9d7BF541A18e1E3aC94939018Ce88F0b",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "pitchFXS-f",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x2f9c4dc7bd8be945acb31f3f2404bb76e2f34f4b",
+	"Symbol": "DAMMO-WETH",
+	"UnderlyingTokens": [
+		"0x7aba800f4fcf7aefe77b354bcfd4573ac3227013",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cd05b55f-0a16-4fea-aeb4-7f3cacb30cc3",
+	"Chain": "ethereum"
+}

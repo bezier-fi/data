@@ -1,0 +1,27 @@
+{
+	"Id": "0xddc9e703595afc08fd5ad049c4c129804a003177",
+	"Protocol": "424ebc8f-d92c-4b5f-81a4-2280076f4b5c",
+	"Outputs": [
+		{
+			"Address": "0xddc9e703595afc08fd5ad049c4c129804a003177",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4cf89ca06ad997bc732dc876ed2a7f26a9e7f361",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MYST-WETH (0.30%)",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,23 @@
+{
+	"Id": "farm-0x8b12fc6dabcf8c81630845975100bc5e22f3f519",
+	"Protocol": "c6718423-f775-4ec4-a4ab-bd5efb28524b",
+	"Outputs": [
+		{
+			"Address": "0x8b12fc6dabcf8c81630845975100bc5e22f3f519",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8b12fc6dabcf8c81630845975100bc5e22f3f519",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "VSO-HOLIQ",
+	"Chain": "avalanche"
+}

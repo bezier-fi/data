@@ -1,0 +1,31 @@
+{
+	"Id": "0xddA1B81690b530DE3C48B3593923DF0A6C5fe92E",
+	"Protocol": "3b72e5e1-e323-43a6-b779-5a0cf9769c2d",
+	"Outputs": [
+		{
+			"Address": "0xddA1B81690b530DE3C48B3593923DF0A6C5fe92E",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x36F8d0D0573ae92326827C4a82Fe4CE4C244cAb6",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xA5269A8e31B93Ff27B887B56720A25F844db0529",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xAFe7131a57E44f832cb2dE78ade38CaD644aaC2f",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "morphoaave-f",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x025da7319eb1b7d18ec5ed327e73fc06c9049fa2",
+	"Symbol": "DAI-GARI",
+	"UnderlyingTokens": [
+		"0x6b175474e89094c44da98b954eedeac495271d0f",
+		"0x9201b07f4d285c4e61c14011439fa34f7e0e892d"
+	],
+	"Protocol": "cd05b55f-0a16-4fea-aeb4-7f3cacb30cc3",
+	"Chain": "ethereum"
+}

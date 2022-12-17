@@ -1,0 +1,10 @@
+{
+	"Id": "0x1c5d31dc6b8fc1c87cf34ee49471d8e5e0deefd8",
+	"Symbol": "ENISHI-WETH",
+	"UnderlyingTokens": [
+		"0x17414389dcecfc60a13492e3128a1f5f8a3c5ade",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cd05b55f-0a16-4fea-aeb4-7f3cacb30cc3",
+	"Chain": "ethereum"
+}

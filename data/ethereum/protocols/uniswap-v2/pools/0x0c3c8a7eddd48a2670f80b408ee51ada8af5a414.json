@@ -1,0 +1,27 @@
+{
+	"Id": "0x0c3c8a7eddd48a2670f80b408ee51ada8af5a414",
+	"Protocol": "cd05b55f-0a16-4fea-aeb4-7f3cacb30cc3",
+	"Outputs": [
+		{
+			"Address": "0x0c3c8a7eddd48a2670f80b408ee51ada8af5a414",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xf3d3feb2ee30d6f2ce775ee660f3318676ac3189",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-ROGI",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x7189a6223d6f17c964234e2d47084f02abeec7d3",
+	"Protocol": "cd05b55f-0a16-4fea-aeb4-7f3cacb30cc3",
+	"Outputs": [
+		{
+			"Address": "0x7189a6223d6f17c964234e2d47084f02abeec7d3",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6f2ba258f6a7f381372464296fb07802e7297da9",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "OKELON-WETH",
+	"Chain": "ethereum"
+}

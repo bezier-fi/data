@@ -1,0 +1,27 @@
+{
+	"Id": "0x36389316327cab1edfd2eb00147967be394a352d",
+	"Protocol": "cd05b55f-0a16-4fea-aeb4-7f3cacb30cc3",
+	"Outputs": [
+		{
+			"Address": "0x36389316327cab1edfd2eb00147967be394a352d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x65dfa0221e856fe69da6f967386d1e9a62d0d55d",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ARMST-WETH",
+	"Chain": "ethereum"
+}

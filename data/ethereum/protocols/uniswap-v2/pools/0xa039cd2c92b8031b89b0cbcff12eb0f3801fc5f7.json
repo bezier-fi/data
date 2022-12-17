@@ -1,0 +1,27 @@
+{
+	"Id": "0xa039cd2c92b8031b89b0cbcff12eb0f3801fc5f7",
+	"Protocol": "cd05b55f-0a16-4fea-aeb4-7f3cacb30cc3",
+	"Outputs": [
+		{
+			"Address": "0xa039cd2c92b8031b89b0cbcff12eb0f3801fc5f7",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0627d4565dd1e79dd0382793b380890a1590fad6",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FIFA2.0-WETH",
+	"Chain": "ethereum"
+}

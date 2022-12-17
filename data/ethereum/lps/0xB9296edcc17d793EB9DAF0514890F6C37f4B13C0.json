@@ -1,0 +1,10 @@
+{
+	"Id": "0xB9296edcc17d793EB9DAF0514890F6C37f4B13C0",
+	"Symbol": "crvTestETH-f",
+	"UnderlyingTokens": [
+		"0x3Ef73fdC7Eff65eDF3Fb8e8b10B2Fc5f8b3ae535",
+		"0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+	],
+	"Protocol": "3b72e5e1-e323-43a6-b779-5a0cf9769c2d",
+	"Chain": "ethereum"
+}

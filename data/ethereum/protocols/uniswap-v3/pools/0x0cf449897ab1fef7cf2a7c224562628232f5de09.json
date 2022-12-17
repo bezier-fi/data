@@ -1,0 +1,27 @@
+{
+	"Id": "0x0cf449897ab1fef7cf2a7c224562628232f5de09",
+	"Protocol": "424ebc8f-d92c-4b5f-81a4-2280076f4b5c",
+	"Outputs": [
+		{
+			"Address": "0x0cf449897ab1fef7cf2a7c224562628232f5de09",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0b452278223d3954f4ac050949d7998e373e7e43",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SUZUME-WETH (1.00%)",
+	"Chain": "ethereum"
+}

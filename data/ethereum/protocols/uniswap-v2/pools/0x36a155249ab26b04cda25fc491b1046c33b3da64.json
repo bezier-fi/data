@@ -1,0 +1,27 @@
+{
+	"Id": "0x36a155249ab26b04cda25fc491b1046c33b3da64",
+	"Protocol": "cd05b55f-0a16-4fea-aeb4-7f3cacb30cc3",
+	"Outputs": [
+		{
+			"Address": "0x36a155249ab26b04cda25fc491b1046c33b3da64",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9e0d8ade64fab7b273b652c1d66af673656fe676",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "APXE-WETH",
+	"Chain": "ethereum"
+}

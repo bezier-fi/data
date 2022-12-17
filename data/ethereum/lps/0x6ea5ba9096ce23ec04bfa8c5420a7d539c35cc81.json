@@ -1,0 +1,10 @@
+{
+	"Id": "0x6ea5ba9096ce23ec04bfa8c5420a7d539c35cc81",
+	"Symbol": "BINANCE10M-WETH",
+	"UnderlyingTokens": [
+		"0xa7ec3c8c977aa491d2b07c47d042188a2744832a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cd05b55f-0a16-4fea-aeb4-7f3cacb30cc3",
+	"Chain": "ethereum"
+}

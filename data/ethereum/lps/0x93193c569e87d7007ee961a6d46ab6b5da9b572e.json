@@ -1,0 +1,10 @@
+{
+	"Id": "0x93193c569e87d7007ee961a6d46ab6b5da9b572e",
+	"Symbol": "BUDO-WETH",
+	"UnderlyingTokens": [
+		"0x418efb64ca8fcd38cadded8d3f51935a683e179c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "1b6d9f69-2830-4070-bcf6-f8da78699e87",
+	"Chain": "ethereum"
+}

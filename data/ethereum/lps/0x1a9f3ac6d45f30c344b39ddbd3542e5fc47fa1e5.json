@@ -1,0 +1,10 @@
+{
+	"Id": "0x1a9f3ac6d45f30c344b39ddbd3542e5fc47fa1e5",
+	"Symbol": "TRUMPCOIN-WETH",
+	"UnderlyingTokens": [
+		"0x1eb1af0ba1790ca9449c58a70bc196b6e5d901ae",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "1b6d9f69-2830-4070-bcf6-f8da78699e87",
+	"Chain": "ethereum"
+}

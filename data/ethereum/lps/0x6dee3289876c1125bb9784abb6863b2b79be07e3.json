@@ -1,0 +1,10 @@
+{
+	"Id": "0x6dee3289876c1125bb9784abb6863b2b79be07e3",
+	"Symbol": "OSAKI-WETH",
+	"UnderlyingTokens": [
+		"0x6985d6e2f8b42070c1809d94df6eb5c5fe5543da",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "1b6d9f69-2830-4070-bcf6-f8da78699e87",
+	"Chain": "ethereum"
+}

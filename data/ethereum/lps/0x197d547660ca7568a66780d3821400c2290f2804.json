@@ -1,0 +1,10 @@
+{
+	"Id": "0x197d547660ca7568a66780d3821400c2290f2804",
+	"Symbol": "SAFEHOO-WETH",
+	"UnderlyingTokens": [
+		"0xba6f6047c5a9d8e0a94799bb2bf0be2f80f406fc",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "1b6d9f69-2830-4070-bcf6-f8da78699e87",
+	"Chain": "ethereum"
+}

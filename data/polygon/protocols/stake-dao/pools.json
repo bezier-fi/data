@@ -8,11 +8,11 @@
 		"Symbol": "sdam3CRV Staking"
 	},
 	{
-		"Id": "yield-0x953Cf8f1f097c222015FFa32C7B9e3E96993b8c1",
-		"Symbol": "sdbtcCRV Staking"
-	},
-	{
 		"Id": "0x953Cf8f1f097c222015FFa32C7B9e3E96993b8c1",
 		"Symbol": "Passive BTC strategy"
+	},
+	{
+		"Id": "yield-0x953Cf8f1f097c222015FFa32C7B9e3E96993b8c1",
+		"Symbol": "sdbtcCRV Staking"
 	}
 ]

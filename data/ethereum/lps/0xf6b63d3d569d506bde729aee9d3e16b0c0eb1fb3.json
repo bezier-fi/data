@@ -1,0 +1,10 @@
+{
+	"Id": "0xf6b63d3d569d506bde729aee9d3e16b0c0eb1fb3",
+	"Symbol": "SENSHI-WETH",
+	"UnderlyingTokens": [
+		"0x5f05241d6bd95ae8690b5491a84abb7361954da4",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "1b6d9f69-2830-4070-bcf6-f8da78699e87",
+	"Chain": "ethereum"
+}

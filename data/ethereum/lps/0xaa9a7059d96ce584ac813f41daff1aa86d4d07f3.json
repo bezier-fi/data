@@ -1,0 +1,10 @@
+{
+	"Id": "0xaa9a7059d96ce584ac813f41daff1aa86d4d07f3",
+	"Symbol": "BIGBANG-WETH",
+	"UnderlyingTokens": [
+		"0x7e3810baeb77b2620bdba830062c8ea6af6c86ef",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "1b6d9f69-2830-4070-bcf6-f8da78699e87",
+	"Chain": "ethereum"
+}

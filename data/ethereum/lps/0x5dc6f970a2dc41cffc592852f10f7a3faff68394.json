@@ -1,0 +1,10 @@
+{
+	"Id": "0x5dc6f970a2dc41cffc592852f10f7a3faff68394",
+	"Symbol": "Chihiro-WETH",
+	"UnderlyingTokens": [
+		"0x0121c8a4604406623764bba5c66e0d13a51b048a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "1b6d9f69-2830-4070-bcf6-f8da78699e87",
+	"Chain": "ethereum"
+}

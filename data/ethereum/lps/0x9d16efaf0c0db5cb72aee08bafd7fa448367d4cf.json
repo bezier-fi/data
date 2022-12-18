@@ -1,0 +1,10 @@
+{
+	"Id": "0x9d16efaf0c0db5cb72aee08bafd7fa448367d4cf",
+	"Symbol": "CHOW-WETH",
+	"UnderlyingTokens": [
+		"0x16ddbb6214f77cff38d41d33a4c189e9f35f3934",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "1b6d9f69-2830-4070-bcf6-f8da78699e87",
+	"Chain": "ethereum"
+}

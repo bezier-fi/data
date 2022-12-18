@@ -1,0 +1,10 @@
+{
+	"Id": "0x9ae3bfe7b9d0b2e36a5c6f79b0b0b2db7973776a",
+	"Symbol": "FIFA-WETH",
+	"UnderlyingTokens": [
+		"0x1c269f6210e73cac07e64882caa29dcc05cd3cce",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "1b6d9f69-2830-4070-bcf6-f8da78699e87",
+	"Chain": "ethereum"
+}

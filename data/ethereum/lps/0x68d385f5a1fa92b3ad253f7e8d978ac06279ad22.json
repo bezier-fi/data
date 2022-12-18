@@ -1,0 +1,10 @@
+{
+	"Id": "0x68d385f5a1fa92b3ad253f7e8d978ac06279ad22",
+	"Symbol": "EYE-WETH",
+	"UnderlyingTokens": [
+		"0x96d7e54cd294bd42ba556cead102d377c984b79f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "1b6d9f69-2830-4070-bcf6-f8da78699e87",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xa473be72742a1a5b2f3306ebe78f3fb4af0ba71e",
+	"Symbol": "DON-WETH",
+	"UnderlyingTokens": [
+		"0xb595c17e66e1996fa33943e30c05a4059bd4e5ef",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "1b6d9f69-2830-4070-bcf6-f8da78699e87",
+	"Chain": "ethereum"
+}

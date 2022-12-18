@@ -1,0 +1,27 @@
+{
+	"Id": "0xf47c1aa5e81784f3b9f027d191e6b34d106bc23f",
+	"Protocol": "1b6d9f69-2830-4070-bcf6-f8da78699e87",
+	"Outputs": [
+		{
+			"Address": "0xf47c1aa5e81784f3b9f027d191e6b34d106bc23f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xe80003018eaa70cb6253f1c095302e6b3bfb6c58",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-SINJA",
+	"Chain": "ethereum"
+}

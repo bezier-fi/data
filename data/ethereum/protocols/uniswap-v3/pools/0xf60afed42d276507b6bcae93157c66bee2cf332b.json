@@ -1,0 +1,27 @@
+{
+	"Id": "0xf60afed42d276507b6bcae93157c66bee2cf332b",
+	"Protocol": "45e915e2-c7af-4bf4-9e9a-88708b882189",
+	"Outputs": [
+		{
+			"Address": "0xf60afed42d276507b6bcae93157c66bee2cf332b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x444444444444c1a66f394025ac839a535246fcc8",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GENI-USDC (1.00%)",
+	"Chain": "ethereum"
+}

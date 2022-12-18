@@ -1,0 +1,10 @@
+{
+	"Id": "0x22e3686df646be7633bb98348c77ce42cbf30361",
+	"Symbol": "SINJA-WETH",
+	"UnderlyingTokens": [
+		"0x76c6f7beb2cf680ec6fadc61bc7b6c213e1fee82",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "1b6d9f69-2830-4070-bcf6-f8da78699e87",
+	"Chain": "ethereum"
+}

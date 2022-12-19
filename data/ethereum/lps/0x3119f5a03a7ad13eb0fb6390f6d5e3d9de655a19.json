@@ -1,0 +1,10 @@
+{
+	"Id": "0x3119f5a03a7ad13eb0fb6390f6d5e3d9de655a19",
+	"Symbol": "WETH-$MADOFF",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xdb00031b2f69c4f62051b907483fc33b4ad41162"
+	],
+	"Protocol": "cee6d32f-1bde-4e5b-b3f2-1895b4ce4bd7",
+	"Chain": "ethereum"
+}

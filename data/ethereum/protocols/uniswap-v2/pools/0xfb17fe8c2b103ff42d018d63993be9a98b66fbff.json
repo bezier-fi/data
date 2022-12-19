@@ -1,0 +1,27 @@
+{
+	"Id": "0xfb17fe8c2b103ff42d018d63993be9a98b66fbff",
+	"Protocol": "cee6d32f-1bde-4e5b-b3f2-1895b4ce4bd7",
+	"Outputs": [
+		{
+			"Address": "0xfb17fe8c2b103ff42d018d63993be9a98b66fbff",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb3ab5192a3ff8d73f915d106f096c3331aeb86a8",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Tyrant Temple-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x76b6733f553d47b88d73dc4bcd3be4efa800c269",
+	"Protocol": "cee6d32f-1bde-4e5b-b3f2-1895b4ce4bd7",
+	"Outputs": [
+		{
+			"Address": "0x76b6733f553d47b88d73dc4bcd3be4efa800c269",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xe5278487892fa7fc1762a8fd3f7122b3326b5dfb",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-FAUCISTS",
+	"Chain": "ethereum"
+}

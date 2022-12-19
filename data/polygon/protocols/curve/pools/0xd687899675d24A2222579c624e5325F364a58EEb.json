@@ -1,0 +1,27 @@
+{
+	"Id": "0xd687899675d24A2222579c624e5325F364a58EEb",
+	"Protocol": "49aff744-2dea-486a-a8e8-51a8e987e722",
+	"Outputs": [
+		{
+			"Address": "0xd687899675d24A2222579c624e5325F364a58EEb",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xA8EaD8c6d32CC5301D5BB91dF3A55C4E627D2A4B",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xBD1fe73e1f12bD2bc237De9b626F056f21f86427",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "iPeso-f",
+	"Chain": "polygon"
+}

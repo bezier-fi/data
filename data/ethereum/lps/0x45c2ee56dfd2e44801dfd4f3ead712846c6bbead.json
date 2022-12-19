@@ -1,0 +1,10 @@
+{
+	"Id": "0x45c2ee56dfd2e44801dfd4f3ead712846c6bbead",
+	"Symbol": "WETH-TANUKI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xef3233c9bda273e6f4e00fe127d633f1667e35fb"
+	],
+	"Protocol": "cee6d32f-1bde-4e5b-b3f2-1895b4ce4bd7",
+	"Chain": "ethereum"
+}

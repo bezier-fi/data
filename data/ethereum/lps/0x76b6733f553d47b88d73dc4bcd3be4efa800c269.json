@@ -1,0 +1,10 @@
+{
+	"Id": "0x76b6733f553d47b88d73dc4bcd3be4efa800c269",
+	"Symbol": "WETH-FAUCISTS",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe5278487892fa7fc1762a8fd3f7122b3326b5dfb"
+	],
+	"Protocol": "cee6d32f-1bde-4e5b-b3f2-1895b4ce4bd7",
+	"Chain": "ethereum"
+}

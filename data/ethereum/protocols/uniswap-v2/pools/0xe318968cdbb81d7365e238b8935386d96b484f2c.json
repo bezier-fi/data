@@ -1,0 +1,27 @@
+{
+	"Id": "0xe318968cdbb81d7365e238b8935386d96b484f2c",
+	"Protocol": "cee6d32f-1bde-4e5b-b3f2-1895b4ce4bd7",
+	"Outputs": [
+		{
+			"Address": "0xe318968cdbb81d7365e238b8935386d96b484f2c",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x229f4ce3f9da7ba5eecba8f4f605904ea043e0fd",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DUNE-WETH",
+	"Chain": "ethereum"
+}

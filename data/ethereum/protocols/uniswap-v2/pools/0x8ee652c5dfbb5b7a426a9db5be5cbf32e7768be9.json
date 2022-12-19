@@ -1,0 +1,27 @@
+{
+	"Id": "0x8ee652c5dfbb5b7a426a9db5be5cbf32e7768be9",
+	"Protocol": "cee6d32f-1bde-4e5b-b3f2-1895b4ce4bd7",
+	"Outputs": [
+		{
+			"Address": "0x8ee652c5dfbb5b7a426a9db5be5cbf32e7768be9",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x502ef9ffe472f2d03ad35c11d930d171c3725723",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MESSINU-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x5f78753ccbccddf59d34b2cc2773dc323e39d2e6",
+	"Protocol": "cee6d32f-1bde-4e5b-b3f2-1895b4ce4bd7",
+	"Outputs": [
+		{
+			"Address": "0x5f78753ccbccddf59d34b2cc2773dc323e39d2e6",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xd74fb3c02aa333d53006cc14e15f4f15c5250daf",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-Trump",
+	"Chain": "ethereum"
+}

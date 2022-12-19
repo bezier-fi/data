@@ -1,0 +1,10 @@
+{
+	"Id": "0x0c420df7046cc08e5ffec5e0e5f699a30f6499ba",
+	"Symbol": "WEI-WETH",
+	"UnderlyingTokens": [
+		"0x87972d31608fcd53dd72b377cb0cc20387ce36d8",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cee6d32f-1bde-4e5b-b3f2-1895b4ce4bd7",
+	"Chain": "ethereum"
+}

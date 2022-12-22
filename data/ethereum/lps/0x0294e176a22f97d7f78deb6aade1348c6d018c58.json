@@ -1,0 +1,10 @@
+{
+	"Id": "0x0294e176a22f97d7f78deb6aade1348c6d018c58",
+	"Symbol": "SJM-WETH",
+	"UnderlyingTokens": [
+		"0xb1eaa87cfb719871d370851abdb9dbff8359d790",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "84c37eac-3bd4-4480-8ccb-7978a9aa29c6",
+	"Chain": "ethereum"
+}

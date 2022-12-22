@@ -1,0 +1,27 @@
+{
+	"Id": "0xb06e8504feaa664a30e5236cb2cac5bb4c042f02",
+	"Protocol": "84c37eac-3bd4-4480-8ccb-7978a9aa29c6",
+	"Outputs": [
+		{
+			"Address": "0xb06e8504feaa664a30e5236cb2cac5bb4c042f02",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8b0d432ab9df93adc1f9edc02496fc9a7e3e0660",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MOONSHIP-WETH",
+	"Chain": "ethereum"
+}

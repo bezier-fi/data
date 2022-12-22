@@ -1,0 +1,27 @@
+{
+	"Id": "0x2b021ae4ecb7cf9af6b53d5e2861e1614c663258",
+	"Protocol": "84c37eac-3bd4-4480-8ccb-7978a9aa29c6",
+	"Outputs": [
+		{
+			"Address": "0x2b021ae4ecb7cf9af6b53d5e2861e1614c663258",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xbe545e3e3bbc5fe9a3084fc7024a494672f64168",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DITT-WETH",
+	"Chain": "ethereum"
+}

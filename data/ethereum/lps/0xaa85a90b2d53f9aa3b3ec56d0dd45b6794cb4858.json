@@ -1,0 +1,10 @@
+{
+	"Id": "0xaa85a90b2d53f9aa3b3ec56d0dd45b6794cb4858",
+	"Symbol": "FUNICULAR-WETH",
+	"UnderlyingTokens": [
+		"0x90a1dd7f8dad69fd1000a2d185d29bfddce970f6",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "84c37eac-3bd4-4480-8ccb-7978a9aa29c6",
+	"Chain": "ethereum"
+}

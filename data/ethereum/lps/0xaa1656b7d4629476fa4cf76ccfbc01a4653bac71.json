@@ -1,0 +1,10 @@
+{
+	"Id": "0xaa1656b7d4629476fa4cf76ccfbc01a4653bac71",
+	"Symbol": "BEEP-WETH",
+	"UnderlyingTokens": [
+		"0x0283d310d682284ebc24db33a41bb5a01bdd140b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "84c37eac-3bd4-4480-8ccb-7978a9aa29c6",
+	"Chain": "ethereum"
+}

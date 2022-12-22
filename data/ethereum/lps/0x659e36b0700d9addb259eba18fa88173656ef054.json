@@ -1,0 +1,10 @@
+{
+	"Id": "0x659e36b0700d9addb259eba18fa88173656ef054",
+	"Symbol": "USDC-HILO",
+	"UnderlyingTokens": [
+		"0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+		"0xbb9fd9fa4863c03c574007ff3370787b9ce65ff6"
+	],
+	"Protocol": "84c37eac-3bd4-4480-8ccb-7978a9aa29c6",
+	"Chain": "ethereum"
+}

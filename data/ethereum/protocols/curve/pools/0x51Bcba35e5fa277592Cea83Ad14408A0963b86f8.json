@@ -1,0 +1,27 @@
+{
+	"Id": "0x51Bcba35e5fa277592Cea83Ad14408A0963b86f8",
+	"Protocol": "6b70a4ce-3072-4d3f-ab5e-4251e5cb5285",
+	"Outputs": [
+		{
+			"Address": "0x6E0e681441BE6cB1d8405752462488BD4D691E3A",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2C537E5624e4af88A7ae4060C022609376C8D0EB",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TRYB3POOL-f",
+	"Chain": "ethereum"
+}

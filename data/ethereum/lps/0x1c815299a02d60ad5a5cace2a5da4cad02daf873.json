@@ -1,0 +1,10 @@
+{
+	"Id": "0x1c815299a02d60ad5a5cace2a5da4cad02daf873",
+	"Symbol": "AnP-WETH",
+	"UnderlyingTokens": [
+		"0xb4c0ba3247dd20f3dd08e50cfb60e4f9433000c7",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "84c37eac-3bd4-4480-8ccb-7978a9aa29c6",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x92a04eff36c7b1f0b1d2a8c7dde25d2045215f0e",
+	"Protocol": "84c37eac-3bd4-4480-8ccb-7978a9aa29c6",
+	"Outputs": [
+		{
+			"Address": "0x92a04eff36c7b1f0b1d2a8c7dde25d2045215f0e",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4f8bb0d4256bfa4913eb7163dd5be8b3a0f6b028",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BLUEY-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0xf81eefd9955fc09a645cd7695a397abddba70ff3",
+	"Protocol": "84c37eac-3bd4-4480-8ccb-7978a9aa29c6",
+	"Outputs": [
+		{
+			"Address": "0xf81eefd9955fc09a645cd7695a397abddba70ff3",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xe82478300b3defbf365c96b98319f02edd03972e",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-KOYOSHA",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x728c8a7ac9fbbea9496cf4bde6216bf26d284a7f",
+	"Protocol": "84c37eac-3bd4-4480-8ccb-7978a9aa29c6",
+	"Outputs": [
+		{
+			"Address": "0x728c8a7ac9fbbea9496cf4bde6216bf26d284a7f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x288d5bfc5e75e35feb5e52977252b4bfea8b3f17",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "RIADA-WETH",
+	"Chain": "ethereum"
+}

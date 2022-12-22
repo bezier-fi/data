@@ -1,0 +1,10 @@
+{
+	"Id": "0x0ef88c607096e46b3377221a337f94fbc5d16019",
+	"Symbol": "KIYO-WETH",
+	"UnderlyingTokens": [
+		"0x324b0f2fd9ba0464deabd17cdd5bb740a401b4e6",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "84c37eac-3bd4-4480-8ccb-7978a9aa29c6",
+	"Chain": "ethereum"
+}

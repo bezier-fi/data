@@ -1,0 +1,27 @@
+{
+	"Id": "0xd5541de133b9661ac8b511193f92467dfd0a21cf",
+	"Protocol": "84c37eac-3bd4-4480-8ccb-7978a9aa29c6",
+	"Outputs": [
+		{
+			"Address": "0xd5541de133b9661ac8b511193f92467dfd0a21cf",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x62fd38cf6e65932ee467ef54ecf8cfe317902d8e",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "NEWDOGE-WETH",
+	"Chain": "ethereum"
+}

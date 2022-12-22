@@ -1,0 +1,10 @@
+{
+	"Id": "0xf174ffc28711378efa7ad1cf94581888c53e7bca",
+	"Symbol": "SUKO-WETH",
+	"UnderlyingTokens": [
+		"0x46be62d1fc217063c1bf1f35d788690cec7a60ca",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "84c37eac-3bd4-4480-8ccb-7978a9aa29c6",
+	"Chain": "ethereum"
+}

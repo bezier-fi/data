@@ -1,0 +1,27 @@
+{
+	"Id": "0x1c4483ef3184dd4c487ca10ff4bb226d38d2a629",
+	"Protocol": "20a71c68-e710-423a-8ecd-6f32228ed046",
+	"Outputs": [
+		{
+			"Address": "0x1c4483ef3184dd4c487ca10ff4bb226d38d2a629",
+			"Apr": 4.12371,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4bd70556ae3f8a6ec6c4080a0c327b24325438f3",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "HXRO-USDC (0.30%)",
+	"Chain": "ethereum"
+}

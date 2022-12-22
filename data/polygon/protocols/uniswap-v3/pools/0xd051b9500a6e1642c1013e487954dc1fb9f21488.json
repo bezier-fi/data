@@ -1,0 +1,27 @@
+{
+	"Id": "0xd051b9500a6e1642c1013e487954dc1fb9f21488",
+	"Protocol": "20a71c68-e710-423a-8ecd-6f32228ed046",
+	"Outputs": [
+		{
+			"Address": "0xd051b9500a6e1642c1013e487954dc1fb9f21488",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x681d3e1b54b3e1a338feb5b076cebf53a697d51f",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC-COVO (0.30%)",
+	"Chain": "polygon"
+}

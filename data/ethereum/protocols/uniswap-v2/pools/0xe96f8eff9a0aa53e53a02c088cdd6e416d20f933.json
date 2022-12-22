@@ -1,0 +1,27 @@
+{
+	"Id": "0xe96f8eff9a0aa53e53a02c088cdd6e416d20f933",
+	"Protocol": "84c37eac-3bd4-4480-8ccb-7978a9aa29c6",
+	"Outputs": [
+		{
+			"Address": "0xe96f8eff9a0aa53e53a02c088cdd6e416d20f933",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x28fea583e65ad4ececf808c4cf5f3ec7daef7b18",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GHOST-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0xf743ace0dd18b26ef95988486315dd7a39b07035",
+	"Protocol": "20a71c68-e710-423a-8ecd-6f32228ed046",
+	"Outputs": [
+		{
+			"Address": "0xf743ace0dd18b26ef95988486315dd7a39b07035",
+			"Apr": 1.5299083,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5cf04716ba20127f1e2297addcf4b5035000c9eb",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "NKN-USDT (0.30%)",
+	"Chain": "ethereum"
+}

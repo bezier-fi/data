@@ -1,0 +1,27 @@
+{
+	"Id": "0xbdae86559dfe1ed5f27dcfef46b4c34c80a3c54e",
+	"Protocol": "84c37eac-3bd4-4480-8ccb-7978a9aa29c6",
+	"Outputs": [
+		{
+			"Address": "0xbdae86559dfe1ed5f27dcfef46b4c34c80a3c54e",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7e2d76fb2f0a7192560578b883f60a0aed8686c0",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Back To Work-WETH",
+	"Chain": "ethereum"
+}

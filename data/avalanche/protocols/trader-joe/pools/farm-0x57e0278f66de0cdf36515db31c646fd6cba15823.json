@@ -1,0 +1,23 @@
+{
+	"Id": "farm-0x57e0278f66de0cdf36515db31c646fd6cba15823",
+	"Protocol": "e6cc0873-cae0-4924-9602-3d6a5c5f565f",
+	"Outputs": [
+		{
+			"Address": "0x57e0278f66de0cdf36515db31c646fd6cba15823",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x57e0278f66de0cdf36515db31c646fd6cba15823",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GENI-USDC",
+	"Chain": "avalanche"
+}

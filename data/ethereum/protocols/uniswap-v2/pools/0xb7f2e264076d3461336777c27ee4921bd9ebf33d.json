@@ -1,0 +1,27 @@
+{
+	"Id": "0xb7f2e264076d3461336777c27ee4921bd9ebf33d",
+	"Protocol": "84c37eac-3bd4-4480-8ccb-7978a9aa29c6",
+	"Outputs": [
+		{
+			"Address": "0xb7f2e264076d3461336777c27ee4921bd9ebf33d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1b5662bceaf8888dc1bf40bbd6080b99ac53308f",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "$RINU-WETH",
+	"Chain": "ethereum"
+}

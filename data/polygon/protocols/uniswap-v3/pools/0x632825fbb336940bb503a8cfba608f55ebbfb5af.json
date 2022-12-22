@@ -1,0 +1,27 @@
+{
+	"Id": "0x632825fbb336940bb503a8cfba608f55ebbfb5af",
+	"Protocol": "20a71c68-e710-423a-8ecd-6f32228ed046",
+	"Outputs": [
+		{
+			"Address": "0x632825fbb336940bb503a8cfba608f55ebbfb5af",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x5e6602b762f76d8bfdc7321aa0b787b1e67b187f",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WMATIC-KRED (1.00%)",
+	"Chain": "polygon"
+}

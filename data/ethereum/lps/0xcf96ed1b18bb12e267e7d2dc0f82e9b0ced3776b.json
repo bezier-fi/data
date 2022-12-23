@@ -1,0 +1,10 @@
+{
+	"Id": "0xcf96ed1b18bb12e267e7d2dc0f82e9b0ced3776b",
+	"Symbol": "DAI-ACR",
+	"UnderlyingTokens": [
+		"0x6b175474e89094c44da98b954eedeac495271d0f",
+		"0x76306f029f8f99effe509534037ba7030999e3cf"
+	],
+	"Protocol": "5f251701-97a1-4753-8192-1e6dcf5ecc0f",
+	"Chain": "ethereum"
+}

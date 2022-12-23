@@ -1,0 +1,10 @@
+{
+	"Id": "0x1cfd44183cf37d702f96452c4d182481dd256e5b",
+	"Symbol": "WETH-HUG",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd819dae9c8df3e07d5f3ce598fc5db5141ccd2ef"
+	],
+	"Protocol": "5f251701-97a1-4753-8192-1e6dcf5ecc0f",
+	"Chain": "ethereum"
+}

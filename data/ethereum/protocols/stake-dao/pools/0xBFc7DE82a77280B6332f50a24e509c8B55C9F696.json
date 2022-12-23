@@ -1,0 +1,37 @@
+{
+	"Id": "0xBFc7DE82a77280B6332f50a24e509c8B55C9F696",
+	"Protocol": "8e3afea5-fd64-4ee2-9aad-ff77abc606bc",
+	"Outputs": [
+		{
+			"Address": "0x73968b9a57c6e53d41345fd57a6e6ae27d6cdb2f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		},
+		{
+			"Address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+			"Apr": 1.5907958,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		},
+		{
+			"Address": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
+			"Apr": 1.5907958,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5ca0313D44551e32e0d7a298EC024321c4BC59B4",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "bLUSD/LUSD3CRV",
+	"Chain": "ethereum"
+}

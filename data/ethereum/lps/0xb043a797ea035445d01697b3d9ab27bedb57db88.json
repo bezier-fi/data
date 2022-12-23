@@ -1,0 +1,10 @@
+{
+	"Id": "0xb043a797ea035445d01697b3d9ab27bedb57db88",
+	"Symbol": "DBOT-WETH",
+	"UnderlyingTokens": [
+		"0xa0007a4e814eb0d7970950f2290cebea343eb1a7",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "5f251701-97a1-4753-8192-1e6dcf5ecc0f",
+	"Chain": "ethereum"
+}

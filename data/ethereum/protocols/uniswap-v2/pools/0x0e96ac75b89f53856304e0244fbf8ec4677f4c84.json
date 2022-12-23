@@ -1,0 +1,27 @@
+{
+	"Id": "0x0e96ac75b89f53856304e0244fbf8ec4677f4c84",
+	"Protocol": "5f251701-97a1-4753-8192-1e6dcf5ecc0f",
+	"Outputs": [
+		{
+			"Address": "0x0e96ac75b89f53856304e0244fbf8ec4677f4c84",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x412dd4f249a6eb2bdbd48333f0196aa93398a1c1",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "LORDS-WETH",
+	"Chain": "ethereum"
+}

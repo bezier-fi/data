@@ -1,0 +1,10 @@
+{
+	"Id": "0xcac1e31318eece9fdd2dade0a28a1b8fbb4abb8f",
+	"Symbol": "ICHI-WETH",
+	"UnderlyingTokens": [
+		"0x1974fd471461bffa647036335b8846f624718447",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b8aa2272-3e91-4538-b2bf-1456262f6255",
+	"Chain": "ethereum"
+}

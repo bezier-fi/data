@@ -1,0 +1,10 @@
+{
+	"Id": "0xd749c2665045840e3e50351844285190ff263f6f",
+	"Symbol": "UKIYO-WETH",
+	"UnderlyingTokens": [
+		"0xba6d31a3e61cbc58004fbddf5a488a13d68cbd0d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b8aa2272-3e91-4538-b2bf-1456262f6255",
+	"Chain": "ethereum"
+}

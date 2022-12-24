@@ -1,0 +1,27 @@
+{
+	"Id": "0x7093328f7e03b584974ad382d62e2dfb6fca4186",
+	"Protocol": "b8aa2272-3e91-4538-b2bf-1456262f6255",
+	"Outputs": [
+		{
+			"Address": "0x7093328f7e03b584974ad382d62e2dfb6fca4186",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xd44fc10f34b260d4ce7af7359012ea4ae1967ebf",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-Mika",
+	"Chain": "ethereum"
+}

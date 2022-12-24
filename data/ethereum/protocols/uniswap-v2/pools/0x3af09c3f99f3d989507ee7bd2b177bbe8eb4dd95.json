@@ -1,0 +1,27 @@
+{
+	"Id": "0x3af09c3f99f3d989507ee7bd2b177bbe8eb4dd95",
+	"Protocol": "b8aa2272-3e91-4538-b2bf-1456262f6255",
+	"Outputs": [
+		{
+			"Address": "0x3af09c3f99f3d989507ee7bd2b177bbe8eb4dd95",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x720fb96ba9483f9f0b5eaa708ba9b4a507ae7b1f",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CHARMS-WETH",
+	"Chain": "ethereum"
+}

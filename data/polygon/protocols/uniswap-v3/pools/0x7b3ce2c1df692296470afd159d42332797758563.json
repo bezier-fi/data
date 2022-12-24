@@ -1,0 +1,27 @@
+{
+	"Id": "0x7b3ce2c1df692296470afd159d42332797758563",
+	"Protocol": "a5fe9823-9509-45f5-a98f-f3261b1f9396",
+	"Outputs": [
+		{
+			"Address": "0x7b3ce2c1df692296470afd159d42332797758563",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2c826035c1c36986117a0e949bd6ad4bab54afe2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "XIDR-WETH (0.30%)",
+	"Chain": "polygon"
+}

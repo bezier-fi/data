@@ -1,0 +1,27 @@
+{
+	"Id": "0x8b1f1aec55f592bdd1fda8f18b55aa4b89ce84a5",
+	"Protocol": "b8aa2272-3e91-4538-b2bf-1456262f6255",
+	"Outputs": [
+		{
+			"Address": "0x8b1f1aec55f592bdd1fda8f18b55aa4b89ce84a5",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x129f01f7f26e306d1696a39e47669ad6b8dc84f7",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "YouTube-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xe883af99691d17261b5444af8dc83d93a56e4fab",
+	"Symbol": "SG$-WETH",
+	"UnderlyingTokens": [
+		"0x24f0fc164359656f7eb3a3d35030f78aaa195cce",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b8aa2272-3e91-4538-b2bf-1456262f6255",
+	"Chain": "ethereum"
+}

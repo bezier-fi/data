@@ -1,0 +1,10 @@
+{
+	"Id": "0x558447b1028a524ab4f3603a1272609748d5dc6a",
+	"Symbol": "Relic-WETH",
+	"UnderlyingTokens": [
+		"0x7694e242c36b3dd9481c6fdcc8f7c91fc5bec2ba",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b8aa2272-3e91-4538-b2bf-1456262f6255",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x03b38fa919fe7e8492322eb845aac8b6b37a6c5d",
+	"Symbol": "DP8-WETH",
+	"UnderlyingTokens": [
+		"0x47bddbd063180614d9d5ef929145cce1bfb98426",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b8aa2272-3e91-4538-b2bf-1456262f6255",
+	"Chain": "ethereum"
+}

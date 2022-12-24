@@ -1,0 +1,10 @@
+{
+	"Id": "0x5184e68639ce137600bc0207e500dad801c1fb6e",
+	"Symbol": "WETH-GAHARA",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe99ea87001c0c376043c67853bac0ebbbba0cb34"
+	],
+	"Protocol": "b8aa2272-3e91-4538-b2bf-1456262f6255",
+	"Chain": "ethereum"
+}

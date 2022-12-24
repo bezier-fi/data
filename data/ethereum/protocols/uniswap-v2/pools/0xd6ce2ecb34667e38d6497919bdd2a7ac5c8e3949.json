@@ -1,0 +1,27 @@
+{
+	"Id": "0xd6ce2ecb34667e38d6497919bdd2a7ac5c8e3949",
+	"Protocol": "b8aa2272-3e91-4538-b2bf-1456262f6255",
+	"Outputs": [
+		{
+			"Address": "0xd6ce2ecb34667e38d6497919bdd2a7ac5c8e3949",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0ced6171ab24bfe5aa79b0d0eca26c1449896c6d",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Fisherman-USDC",
+	"Chain": "ethereum"
+}

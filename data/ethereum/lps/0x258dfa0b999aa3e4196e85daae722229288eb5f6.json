@@ -1,0 +1,10 @@
+{
+	"Id": "0x258dfa0b999aa3e4196e85daae722229288eb5f6",
+	"Symbol": "WETH-DEER",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xccd1e9f344aa27cf653ab19371458b02c43d102a"
+	],
+	"Protocol": "b8aa2272-3e91-4538-b2bf-1456262f6255",
+	"Chain": "ethereum"
+}

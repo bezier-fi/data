@@ -1,0 +1,10 @@
+{
+	"Id": "0xe5364ada677532581f29f14190a03641e8fa5554",
+	"Symbol": "STRK-WETH",
+	"UnderlyingTokens": [
+		"0x882a6f32172ee987d6b68adcd4d7816581b74d7a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b8aa2272-3e91-4538-b2bf-1456262f6255",
+	"Chain": "ethereum"
+}

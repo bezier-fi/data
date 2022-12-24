@@ -1,0 +1,10 @@
+{
+	"Id": "0x0785e853c9e7c7657912f47057985fb185137754",
+	"Symbol": "BUSHIDO-WETH",
+	"UnderlyingTokens": [
+		"0xa8e1237efad977e96104ddcbcb8547c93c891a33",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b8aa2272-3e91-4538-b2bf-1456262f6255",
+	"Chain": "ethereum"
+}

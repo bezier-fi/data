@@ -1,0 +1,27 @@
+{
+	"Id": "0xf850ca645b9190ae48e1e56d916de4740e797e63",
+	"Protocol": "b8aa2272-3e91-4538-b2bf-1456262f6255",
+	"Outputs": [
+		{
+			"Address": "0xf850ca645b9190ae48e1e56d916de4740e797e63",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x36eb9638414b289dd444c06ec5fb787266caf606",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "LTU-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0xe883af99691d17261b5444af8dc83d93a56e4fab",
+	"Protocol": "b8aa2272-3e91-4538-b2bf-1456262f6255",
+	"Outputs": [
+		{
+			"Address": "0xe883af99691d17261b5444af8dc83d93a56e4fab",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x24f0fc164359656f7eb3a3d35030f78aaa195cce",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SG$-WETH",
+	"Chain": "ethereum"
+}

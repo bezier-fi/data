@@ -1,0 +1,10 @@
+{
+	"Id": "0xd793c583d15f82059c5e9b04551fdc8634e81474",
+	"Symbol": "DOWINU-WETH",
+	"UnderlyingTokens": [
+		"0x305e46b2c970ea768f266a9a99160849f0f82ce8",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b8aa2272-3e91-4538-b2bf-1456262f6255",
+	"Chain": "ethereum"
+}

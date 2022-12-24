@@ -1,0 +1,10 @@
+{
+	"Id": "0xc5e89c71066733df7fb0205cb5bed6ddce7a7bb3",
+	"Symbol": "WETH-Spaces",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xecbffef177985700f4a4c85018dc36e39a1957f9"
+	],
+	"Protocol": "b8aa2272-3e91-4538-b2bf-1456262f6255",
+	"Chain": "ethereum"
+}

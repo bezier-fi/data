@@ -1,0 +1,27 @@
+{
+	"Id": "0xd7c54d6efc64639747fb2fe0f147ed4c59ecb465",
+	"Protocol": "b8aa2272-3e91-4538-b2bf-1456262f6255",
+	"Outputs": [
+		{
+			"Address": "0xd7c54d6efc64639747fb2fe0f147ed4c59ecb465",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x24602aa35c85df063df59601559da88efc51476a",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GEM-WETH",
+	"Chain": "ethereum"
+}

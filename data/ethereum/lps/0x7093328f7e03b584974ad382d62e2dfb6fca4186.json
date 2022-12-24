@@ -1,0 +1,10 @@
+{
+	"Id": "0x7093328f7e03b584974ad382d62e2dfb6fca4186",
+	"Symbol": "WETH-Mika",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd44fc10f34b260d4ce7af7359012ea4ae1967ebf"
+	],
+	"Protocol": "b8aa2272-3e91-4538-b2bf-1456262f6255",
+	"Chain": "ethereum"
+}

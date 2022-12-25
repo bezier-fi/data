@@ -1,0 +1,27 @@
+{
+	"Id": "0xe24b52fbd1066b12da7e64a3585de0341ac44bd2",
+	"Protocol": "d9b733ea-0d40-4714-ac88-e305df4e7456",
+	"Outputs": [
+		{
+			"Address": "0xe24b52fbd1066b12da7e64a3585de0341ac44bd2",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb2cc84ea8f4e0a8f7a0e78deb7a4948b85732155",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "KIRA-WETH",
+	"Chain": "ethereum"
+}

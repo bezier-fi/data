@@ -1,0 +1,10 @@
+{
+	"Id": "0x2b6a01279508c7cbe08d7137ed714d87c8d4aef9",
+	"Symbol": "KOZO-WETH",
+	"UnderlyingTokens": [
+		"0x8ee76e98ea77c51d4e52b11b8051c70d090da2bf",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d9b733ea-0d40-4714-ac88-e305df4e7456",
+	"Chain": "ethereum"
+}

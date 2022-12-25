@@ -1,0 +1,10 @@
+{
+	"Id": "0xbe010864d80d898c0dcfbeb20025f11cc709a5d0",
+	"Symbol": "PLSD-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x34f0915a5f15a66eba86f6a58be1a471fb7836a7",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "e8b4cba6-7085-4ecc-a0d3-e121fc2fbd1d",
+	"Chain": "ethereum"
+}

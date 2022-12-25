@@ -1,0 +1,27 @@
+{
+	"Id": "0xdd6fba84245f5ab20a8e39ce7303b243eb52aad1",
+	"Protocol": "d9b733ea-0d40-4714-ac88-e305df4e7456",
+	"Outputs": [
+		{
+			"Address": "0xdd6fba84245f5ab20a8e39ce7303b243eb52aad1",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x952193fcf398550b6caa0ecf5e706a6ad0ab8d8a",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SEKIRO-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x61488632dea585684c7ee989cb03044123d967f7",
+	"Symbol": "WETH-MUSASHI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfa548dc8b1ec4de65e36b155f352e33ef6257260"
+	],
+	"Protocol": "d9b733ea-0d40-4714-ac88-e305df4e7456",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x781dd481c84f504dc35a6e0f4fccbe68cf88ffa0",
+	"Symbol": "Mutant-WETH",
+	"UnderlyingTokens": [
+		"0x55f7cd2c71a6c5877daee50fc65e921a9db3b900",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d9b733ea-0d40-4714-ac88-e305df4e7456",
+	"Chain": "ethereum"
+}

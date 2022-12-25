@@ -1,0 +1,10 @@
+{
+	"Id": "0x0633f7efe7104656a112c8a724a0fe7fb9baffbd",
+	"Symbol": "Kepler-WETH",
+	"UnderlyingTokens": [
+		"0x10b059a2fcd9232cfe1238491b430b7c2a0601a6",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d9b733ea-0d40-4714-ac88-e305df4e7456",
+	"Chain": "ethereum"
+}

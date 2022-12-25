@@ -1,0 +1,10 @@
+{
+	"Id": "0x274264436851c08a8b1d0a4e3a90a65e1d11dd01",
+	"Symbol": "WETH-XMAS",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xff6cd2662f6a3e0afc03efe46a1573c110e263a8"
+	],
+	"Protocol": "d9b733ea-0d40-4714-ac88-e305df4e7456",
+	"Chain": "ethereum"
+}

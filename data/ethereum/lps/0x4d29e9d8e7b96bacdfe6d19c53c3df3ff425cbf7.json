@@ -1,0 +1,10 @@
+{
+	"Id": "0x4d29e9d8e7b96bacdfe6d19c53c3df3ff425cbf7",
+	"Symbol": "WETH-BEAM",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xcbe6c3f94e086b16e4bd57ff8f4056700e86c111"
+	],
+	"Protocol": "d9b733ea-0d40-4714-ac88-e305df4e7456",
+	"Chain": "ethereum"
+}

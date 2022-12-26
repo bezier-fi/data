@@ -1,0 +1,27 @@
+{
+	"Id": "0xa69945a0f0addd9953092b5b5df5692909d2c588",
+	"Protocol": "caa80b5c-c5bf-490b-82f6-10165f834db1",
+	"Outputs": [
+		{
+			"Address": "0xa69945a0f0addd9953092b5b5df5692909d2c588",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x347a96a5bd06d2e15199b032f46fb724d6c73047",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x5ee84583f67d5ecea5420dbb42b462896e7f8d06",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ASIC-PLSB (1.00%)",
+	"Chain": "ethereum"
+}

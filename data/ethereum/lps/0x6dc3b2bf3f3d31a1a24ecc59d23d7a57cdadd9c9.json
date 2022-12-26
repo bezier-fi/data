@@ -1,0 +1,10 @@
+{
+	"Id": "0x6dc3b2bf3f3d31a1a24ecc59d23d7a57cdadd9c9",
+	"Symbol": "$PARABOLA-WETH",
+	"UnderlyingTokens": [
+		"0x44b46c228123171e3b142ad0fd98de429d7c2956",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "72b47d57-2cdf-460f-93e5-abcd338b3657",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xeeac11a22a484d07d7a9e9abc252fdce2cc6ecc5",
+	"Symbol": "MOJO-WETH",
+	"UnderlyingTokens": [
+		"0xa79c1d3a0f0a21ec5b0ee2f96685aacfacc95dfb",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "72b47d57-2cdf-460f-93e5-abcd338b3657",
+	"Chain": "ethereum"
+}

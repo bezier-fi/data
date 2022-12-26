@@ -1,0 +1,10 @@
+{
+	"Id": "0x23c3a220c02cb486b1dbc49244d110d5e85bdcec",
+	"Symbol": "Shira-WETH",
+	"UnderlyingTokens": [
+		"0x6713d76eedf01626dc5c2219578f6c326d81969e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "72b47d57-2cdf-460f-93e5-abcd338b3657",
+	"Chain": "ethereum"
+}

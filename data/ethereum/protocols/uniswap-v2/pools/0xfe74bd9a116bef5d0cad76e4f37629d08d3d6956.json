@@ -1,0 +1,27 @@
+{
+	"Id": "0xfe74bd9a116bef5d0cad76e4f37629d08d3d6956",
+	"Protocol": "71684a36-0557-4d5f-81a1-95af6d70a26b",
+	"Outputs": [
+		{
+			"Address": "0xfe74bd9a116bef5d0cad76e4f37629d08d3d6956",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x585287e47dcd2bff053512dc265cabb0082240d8",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Gvc-WETH",
+	"Chain": "ethereum"
+}

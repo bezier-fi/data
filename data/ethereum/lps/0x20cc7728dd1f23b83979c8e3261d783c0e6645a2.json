@@ -1,0 +1,10 @@
+{
+	"Id": "0x20cc7728dd1f23b83979c8e3261d783c0e6645a2",
+	"Symbol": "BRAINWASHED-WETH",
+	"UnderlyingTokens": [
+		"0x2db459d7b2088d775c1f970c5079bdb078dc1573",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "71684a36-0557-4d5f-81a1-95af6d70a26b",
+	"Chain": "ethereum"
+}

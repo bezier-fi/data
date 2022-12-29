@@ -1,0 +1,10 @@
+{
+	"Id": "0x2edb12720e3bda73dc813e28ca12e65902090fdd",
+	"Symbol": "HNY-WETH",
+	"UnderlyingTokens": [
+		"0x1320a2732588d982534dc0fb013dde181198e131",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "71684a36-0557-4d5f-81a1-95af6d70a26b",
+	"Chain": "ethereum"
+}

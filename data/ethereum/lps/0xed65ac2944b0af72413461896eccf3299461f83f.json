@@ -1,0 +1,10 @@
+{
+	"Id": "0xed65ac2944b0af72413461896eccf3299461f83f",
+	"Symbol": "TARO-WETH",
+	"UnderlyingTokens": [
+		"0x2d5c8bd4d0e2ef52b93cad7d5bf5a6ccd433d4f9",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "71684a36-0557-4d5f-81a1-95af6d70a26b",
+	"Chain": "ethereum"
+}

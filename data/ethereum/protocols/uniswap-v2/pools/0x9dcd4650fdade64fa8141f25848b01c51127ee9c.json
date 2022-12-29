@@ -1,0 +1,27 @@
+{
+	"Id": "0x9dcd4650fdade64fa8141f25848b01c51127ee9c",
+	"Protocol": "71684a36-0557-4d5f-81a1-95af6d70a26b",
+	"Outputs": [
+		{
+			"Address": "0x9dcd4650fdade64fa8141f25848b01c51127ee9c",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9991cb1699b2c074a292903d90ed6155ad22442a",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "$INVASION-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x6b7fbf3f69a58a2c29d2fb550252c9da64c01025",
+	"Symbol": "WETH-ARCHAI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfa52aed72100f36cfa6fe6679903ecab184a8ff3"
+	],
+	"Protocol": "71684a36-0557-4d5f-81a1-95af6d70a26b",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x33b5d53cd279b6e5522f87f11099c57495fe17ac",
+	"Protocol": "71684a36-0557-4d5f-81a1-95af6d70a26b",
+	"Outputs": [
+		{
+			"Address": "0x33b5d53cd279b6e5522f87f11099c57495fe17ac",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb67cd10aa7a4832b21fd8b230ea1dcc29c4385a8",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "NY2023-WETH",
+	"Chain": "ethereum"
+}

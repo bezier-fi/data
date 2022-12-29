@@ -1,0 +1,10 @@
+{
+	"Id": "0xce96ab4fa4156f487cbbc9ad467aef24cb51c52b",
+	"Symbol": "SHIBARMY-WETH",
+	"UnderlyingTokens": [
+		"0x42532eb49d66d1a48e82115b6e44ed4ff451c6da",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "71684a36-0557-4d5f-81a1-95af6d70a26b",
+	"Chain": "ethereum"
+}

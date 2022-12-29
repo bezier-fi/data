@@ -1,0 +1,10 @@
+{
+	"Id": "0x1275a42fdb8eb9e4faac93f265a5f8a814b758c6",
+	"Symbol": "WETH-SBF",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc0b2e4190071a0552f0d6639b03b61719a6c6b12"
+	],
+	"Protocol": "71684a36-0557-4d5f-81a1-95af6d70a26b",
+	"Chain": "ethereum"
+}

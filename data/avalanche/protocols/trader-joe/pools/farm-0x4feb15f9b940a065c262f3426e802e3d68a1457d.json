@@ -1,0 +1,23 @@
+{
+	"Id": "farm-0x4feb15f9b940a065c262f3426e802e3d68a1457d",
+	"Protocol": "f65542ab-143e-4e0c-b6ce-8d765ef7b777",
+	"Outputs": [
+		{
+			"Address": "0x4feb15f9b940a065c262f3426e802e3d68a1457d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4feb15f9b940a065c262f3426e802e3d68a1457d",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Pi-USDC.e",
+	"Chain": "avalanche"
+}

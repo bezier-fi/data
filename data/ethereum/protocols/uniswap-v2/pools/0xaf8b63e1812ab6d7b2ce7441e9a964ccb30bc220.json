@@ -1,0 +1,27 @@
+{
+	"Id": "0xaf8b63e1812ab6d7b2ce7441e9a964ccb30bc220",
+	"Protocol": "71684a36-0557-4d5f-81a1-95af6d70a26b",
+	"Outputs": [
+		{
+			"Address": "0xaf8b63e1812ab6d7b2ce7441e9a964ccb30bc220",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0b08feabc2ca95e1fec75f0ff32a004f5adaf50a",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BRPT-WETH",
+	"Chain": "ethereum"
+}

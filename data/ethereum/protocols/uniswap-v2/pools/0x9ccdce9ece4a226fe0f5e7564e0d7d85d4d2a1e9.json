@@ -1,0 +1,27 @@
+{
+	"Id": "0x9ccdce9ece4a226fe0f5e7564e0d7d85d4d2a1e9",
+	"Protocol": "71684a36-0557-4d5f-81a1-95af6d70a26b",
+	"Outputs": [
+		{
+			"Address": "0x9ccdce9ece4a226fe0f5e7564e0d7d85d4d2a1e9",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1d2898f4b91d6d905e99794df68734cb387a001c",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "$YUZI -WETH",
+	"Chain": "ethereum"
+}

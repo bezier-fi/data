@@ -1,0 +1,10 @@
+{
+	"Id": "0x5e4f17f381c7894f80aef0b23fd30404c2fcd8ef",
+	"Symbol": "HOO-WETH",
+	"UnderlyingTokens": [
+		"0x82aca4d6536ae5c7bce9c6784a5abbf38d6b0a10",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "1d304c61-6aa6-47b2-b9f3-e982252ebe4b",
+	"Chain": "ethereum"
+}

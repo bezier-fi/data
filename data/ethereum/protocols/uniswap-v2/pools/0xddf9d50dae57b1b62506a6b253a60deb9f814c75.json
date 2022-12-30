@@ -1,0 +1,27 @@
+{
+	"Id": "0xddf9d50dae57b1b62506a6b253a60deb9f814c75",
+	"Protocol": "1d304c61-6aa6-47b2-b9f3-e982252ebe4b",
+	"Outputs": [
+		{
+			"Address": "0xddf9d50dae57b1b62506a6b253a60deb9f814c75",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc7fba9ce7c906b34ede4f0e14cfa1830839ac0f6",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-YUZI ",
+	"Chain": "ethereum"
+}

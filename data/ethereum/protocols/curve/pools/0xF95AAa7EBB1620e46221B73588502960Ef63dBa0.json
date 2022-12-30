@@ -1,0 +1,27 @@
+{
+	"Id": "0xF95AAa7EBB1620e46221B73588502960Ef63dBa0",
+	"Protocol": "59980c4d-bc54-4fb0-bf2e-4234bb3d4ccb",
+	"Outputs": [
+		{
+			"Address": "0xF95AAa7EBB1620e46221B73588502960Ef63dBa0",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x18084fbA666a33d37592fA2633fD49a74DD93a88",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x051d7e5609917Bd9b73f04BAc0DED8Dd46a74301",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TBTCSBTC23CRV-f",
+	"Chain": "ethereum"
+}

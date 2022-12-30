@@ -1,0 +1,27 @@
+{
+	"Id": "0x66fec42f5956fff29fbac313d289b62602a3d4ee",
+	"Protocol": "1d304c61-6aa6-47b2-b9f3-e982252ebe4b",
+	"Outputs": [
+		{
+			"Address": "0x66fec42f5956fff29fbac313d289b62602a3d4ee",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7a90741540b0d4df713af92bd68c58d69b0054a1",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TARO-WETH",
+	"Chain": "ethereum"
+}

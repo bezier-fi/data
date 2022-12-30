@@ -1,0 +1,10 @@
+{
+	"Id": "0xd438d7d473818d8d968fd2ba810f21dada1042fe",
+	"Symbol": "KARASU-WETH",
+	"UnderlyingTokens": [
+		"0x5284f54a48be5302f64fcb0814a369b10860d1e7",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "1d304c61-6aa6-47b2-b9f3-e982252ebe4b",
+	"Chain": "ethereum"
+}

@@ -1,6 +1,6 @@
 {
 	"Id": "farm-0x2fd81391e30805cc7f2ec827013ce86dc591b806",
-	"Protocol": "f65542ab-143e-4e0c-b6ce-8d765ef7b777",
+	"Protocol": "21b16ced-7472-40c7-8102-cef8928a53fc",
 	"Outputs": [
 		{
 			"Address": "0x2fd81391e30805cc7f2ec827013ce86dc591b806",
@@ -11,7 +11,7 @@
 		},
 		{
 			"Address": "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd",
-			"Apr": 0.3884173,
+			"Apr": 0.38261288,
 			"GroupId": 0,
 			"Key": "",
 			"RequiredKeyInGroup": null

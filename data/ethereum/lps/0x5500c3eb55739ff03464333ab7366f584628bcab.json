@@ -1,0 +1,10 @@
+{
+	"Id": "0x5500c3eb55739ff03464333ab7366f584628bcab",
+	"Symbol": "REJI-WETH",
+	"UnderlyingTokens": [
+		"0x805359edc068b55a0959c479bff0f6504415b997",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "1d304c61-6aa6-47b2-b9f3-e982252ebe4b",
+	"Chain": "ethereum"
+}

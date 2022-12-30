@@ -1,0 +1,23 @@
+{
+	"Id": "0x68Ac25D2e7306037e1174b0D3405efd36701ca6b",
+	"Protocol": "f48f410f-7cf2-4d58-b733-1f9da04b5975",
+	"Outputs": [
+		{
+			"Address": "0x68Ac25D2e7306037e1174b0D3405efd36701ca6b",
+			"Apr": 5.149103,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x48e6B98ef6329f8f0A30eBB8c7C960330d648085",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Balancer Boosted USD (bb-am-USD)",
+	"Chain": "polygon"
+}

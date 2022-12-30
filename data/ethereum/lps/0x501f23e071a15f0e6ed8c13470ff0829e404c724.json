@@ -1,0 +1,10 @@
+{
+	"Id": "0x501f23e071a15f0e6ed8c13470ff0829e404c724",
+	"Symbol": "WETH-RedYd",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf2c75a4b62aeac71607d841e6d315fce4636f7a3"
+	],
+	"Protocol": "1d304c61-6aa6-47b2-b9f3-e982252ebe4b",
+	"Chain": "ethereum"
+}

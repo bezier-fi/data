@@ -1,0 +1,10 @@
+{
+	"Id": "0x5df597e24652c4c106605da3ae599a04906cfb91",
+	"Symbol": "GEISHA-WETH",
+	"UnderlyingTokens": [
+		"0x54d7b47ee0bc89a94d9253234aacc69febef0000",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "e069b8ac-4739-4164-ba56-a28ae454eb50",
+	"Chain": "ethereum"
+}

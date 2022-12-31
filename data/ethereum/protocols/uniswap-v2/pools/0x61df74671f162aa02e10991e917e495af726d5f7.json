@@ -1,0 +1,27 @@
+{
+	"Id": "0x61df74671f162aa02e10991e917e495af726d5f7",
+	"Protocol": "e069b8ac-4739-4164-ba56-a28ae454eb50",
+	"Outputs": [
+		{
+			"Address": "0x61df74671f162aa02e10991e917e495af726d5f7",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x45d6e9dc1b1b2959595eb395ab8af30901ce87c3",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "QILIN-WETH",
+	"Chain": "ethereum"
+}

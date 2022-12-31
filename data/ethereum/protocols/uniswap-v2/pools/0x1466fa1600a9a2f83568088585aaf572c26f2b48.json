@@ -1,0 +1,27 @@
+{
+	"Id": "0x1466fa1600a9a2f83568088585aaf572c26f2b48",
+	"Protocol": "e069b8ac-4739-4164-ba56-a28ae454eb50",
+	"Outputs": [
+		{
+			"Address": "0x1466fa1600a9a2f83568088585aaf572c26f2b48",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x610c07c8bcc01227b3fb275c4ad969c9712f3c35",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MADARA-WETH",
+	"Chain": "ethereum"
+}

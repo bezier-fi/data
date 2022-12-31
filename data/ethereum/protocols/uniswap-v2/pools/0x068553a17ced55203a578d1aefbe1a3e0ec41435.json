@@ -1,0 +1,27 @@
+{
+	"Id": "0x068553a17ced55203a578d1aefbe1a3e0ec41435",
+	"Protocol": "e069b8ac-4739-4164-ba56-a28ae454eb50",
+	"Outputs": [
+		{
+			"Address": "0x068553a17ced55203a578d1aefbe1a3e0ec41435",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x74e1698344ec7563eee5bcb4d1ef894f9ba78e82",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MCU-WETH",
+	"Chain": "ethereum"
+}

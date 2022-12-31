@@ -1,0 +1,27 @@
+{
+	"Id": "0xf7421c5bcf41c9c9f7bf4367ab0d91e913163cea",
+	"Protocol": "e069b8ac-4739-4164-ba56-a28ae454eb50",
+	"Outputs": [
+		{
+			"Address": "0xf7421c5bcf41c9c9f7bf4367ab0d91e913163cea",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1a7bdaf43e643ec677458f09d5b6d2bdedd681a7",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SEED-USDC",
+	"Chain": "ethereum"
+}

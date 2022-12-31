@@ -1,0 +1,10 @@
+{
+	"Id": "0x53fe04b798921c20f3fb9e249dee9084afcbd416",
+	"Symbol": "Curry-WETH",
+	"UnderlyingTokens": [
+		"0x159e1719d618d438793ecc85ee7541086b34ab2c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "e069b8ac-4739-4164-ba56-a28ae454eb50",
+	"Chain": "ethereum"
+}

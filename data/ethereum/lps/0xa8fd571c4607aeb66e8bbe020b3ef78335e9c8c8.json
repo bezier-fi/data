@@ -1,0 +1,10 @@
+{
+	"Id": "0xa8fd571c4607aeb66e8bbe020b3ef78335e9c8c8",
+	"Symbol": "Pi-WETH",
+	"UnderlyingTokens": [
+		"0x58206f0129c3b6c6e9f59624f77f74a399129b42",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "e069b8ac-4739-4164-ba56-a28ae454eb50",
+	"Chain": "ethereum"
+}

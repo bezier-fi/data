@@ -1,0 +1,10 @@
+{
+	"Id": "0xdf548eb9e587b390686c96b1c2f99113e8318f89",
+	"Symbol": "WETH-VOLTAGE",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd5104d509be2c7ce5f5f6ae73c3ff76109e90e61"
+	],
+	"Protocol": "e069b8ac-4739-4164-ba56-a28ae454eb50",
+	"Chain": "ethereum"
+}

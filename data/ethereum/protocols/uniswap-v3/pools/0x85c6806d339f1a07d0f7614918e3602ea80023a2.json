@@ -1,0 +1,27 @@
+{
+	"Id": "0x85c6806d339f1a07d0f7614918e3602ea80023a2",
+	"Protocol": "4b628547-af24-4928-9540-3b650c33b65a",
+	"Outputs": [
+		{
+			"Address": "0x85c6806d339f1a07d0f7614918e3602ea80023a2",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1f2efab635ec3ec8618101103db4e1f718434a71",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PHUNKYSOCKS-WETH (1.00%)",
+	"Chain": "ethereum"
+}

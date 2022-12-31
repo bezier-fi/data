@@ -1,0 +1,10 @@
+{
+	"Id": "0xd27457c4ceb621b9116befcb4e64eb2035442e2d",
+	"Symbol": "VADER-WETH",
+	"UnderlyingTokens": [
+		"0x2d0a92402e8da311aee7c6ae0e79706c3187e4c3",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "e069b8ac-4739-4164-ba56-a28ae454eb50",
+	"Chain": "ethereum"
+}

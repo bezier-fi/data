@@ -1,0 +1,10 @@
+{
+	"Id": "0xa36f423058181df65356d60b757786000b560be4",
+	"Symbol": "WETH-DEGO",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe83ccfc5466e01d3633267b0acf4b319b9d4615f"
+	],
+	"Protocol": "e069b8ac-4739-4164-ba56-a28ae454eb50",
+	"Chain": "ethereum"
+}

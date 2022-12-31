@@ -1,0 +1,10 @@
+{
+	"Id": "0xf81d7d077a2d9a877e943d564efc0c31bcba50b1",
+	"Symbol": "OTOSHI-WETH",
+	"UnderlyingTokens": [
+		"0x762e7b5649b4eef526da17b59d373792b0f8c131",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "e069b8ac-4739-4164-ba56-a28ae454eb50",
+	"Chain": "ethereum"
+}

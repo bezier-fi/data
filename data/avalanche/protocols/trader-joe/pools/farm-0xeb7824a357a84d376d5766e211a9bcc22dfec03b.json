@@ -1,0 +1,23 @@
+{
+	"Id": "farm-0xeb7824a357a84d376d5766e211a9bcc22dfec03b",
+	"Protocol": "1cf5628a-4b04-4618-ab24-7585df545502",
+	"Outputs": [
+		{
+			"Address": "0xeb7824a357a84d376d5766e211a9bcc22dfec03b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xeb7824a357a84d376d5766e211a9bcc22dfec03b",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MUMO-DAI.e",
+	"Chain": "avalanche"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0xc4fa9fd2e51e41c2be2c3a77c53710b224e1b31d",
+	"Protocol": "807d083f-c9d8-41cb-8798-4ea748d96dfe",
+	"Outputs": [
+		{
+			"Address": "0xc4fa9fd2e51e41c2be2c3a77c53710b224e1b31d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc08512927d12348f6620a698105e1baac6ecd911",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC-GYEN",
+	"Chain": "ethereum"
+}

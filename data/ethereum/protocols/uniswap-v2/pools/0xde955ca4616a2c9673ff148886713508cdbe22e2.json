@@ -1,0 +1,27 @@
+{
+	"Id": "0xde955ca4616a2c9673ff148886713508cdbe22e2",
+	"Protocol": "807d083f-c9d8-41cb-8798-4ea748d96dfe",
+	"Outputs": [
+		{
+			"Address": "0xde955ca4616a2c9673ff148886713508cdbe22e2",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x089fd1675c5694e744a4a1a0c391be8b5ad2e336",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "🍕-WETH",
+	"Chain": "ethereum"
+}

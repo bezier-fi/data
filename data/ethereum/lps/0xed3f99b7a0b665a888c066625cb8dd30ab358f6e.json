@@ -1,0 +1,10 @@
+{
+	"Id": "0xed3f99b7a0b665a888c066625cb8dd30ab358f6e",
+	"Symbol": "Utsuro-WETH",
+	"UnderlyingTokens": [
+		"0x56074236054969b6f90b6380a0d6bf35939b5af9",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "807d083f-c9d8-41cb-8798-4ea748d96dfe",
+	"Chain": "ethereum"
+}

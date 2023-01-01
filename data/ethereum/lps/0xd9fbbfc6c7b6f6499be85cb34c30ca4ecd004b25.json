@@ -1,0 +1,10 @@
+{
+	"Id": "0xd9fbbfc6c7b6f6499be85cb34c30ca4ecd004b25",
+	"Symbol": "WETH-GTA5",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc2562ce7afbdee1538987316de73a0cd46671f8d"
+	],
+	"Protocol": "807d083f-c9d8-41cb-8798-4ea748d96dfe",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xd86e9c9fe233d9c603bc2afa686021a629db6c2f",
+	"Symbol": "WETH-suiswap",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xee209d83c5e00c25909369236c448639b8a73d78"
+	],
+	"Protocol": "807d083f-c9d8-41cb-8798-4ea748d96dfe",
+	"Chain": "ethereum"
+}

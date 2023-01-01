@@ -1,0 +1,10 @@
+{
+	"Id": "0x69873650606c8206a190b77f6888a78f189c190f",
+	"Symbol": "WETH-2023",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe0bbc354d88b3498e4aad40c11bd59aa416548e7"
+	],
+	"Protocol": "807d083f-c9d8-41cb-8798-4ea748d96dfe",
+	"Chain": "ethereum"
+}

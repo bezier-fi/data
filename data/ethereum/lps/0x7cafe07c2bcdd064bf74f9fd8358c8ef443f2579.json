@@ -1,0 +1,10 @@
+{
+	"Id": "0x7cafe07c2bcdd064bf74f9fd8358c8ef443f2579",
+	"Symbol": "WETH-Carreth",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfe12626b54e81ef3877846af1a0d089ddbd36d81"
+	],
+	"Protocol": "3c00226f-cf7e-4f6a-a5cb-68ec8b75160b",
+	"Chain": "ethereum"
+}

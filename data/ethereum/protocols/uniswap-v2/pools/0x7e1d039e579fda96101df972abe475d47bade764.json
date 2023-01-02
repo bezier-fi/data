@@ -1,0 +1,27 @@
+{
+	"Id": "0x7e1d039e579fda96101df972abe475d47bade764",
+	"Protocol": "3c00226f-cf7e-4f6a-a5cb-68ec8b75160b",
+	"Outputs": [
+		{
+			"Address": "0x7e1d039e579fda96101df972abe475d47bade764",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc3b20cf63b36909cd43a91c2786c373bc7d708ab",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DAI-HAL",
+	"Chain": "ethereum"
+}

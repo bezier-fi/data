@@ -1,0 +1,27 @@
+{
+	"Id": "0xb15cf340fcbdc79ff3caeb65668a884463e8e694",
+	"Protocol": "3c00226f-cf7e-4f6a-a5cb-68ec8b75160b",
+	"Outputs": [
+		{
+			"Address": "0xb15cf340fcbdc79ff3caeb65668a884463e8e694",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa7b943e589aae2f30139ec8162667637b471566b",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DOGEPOWS -WETH",
+	"Chain": "ethereum"
+}

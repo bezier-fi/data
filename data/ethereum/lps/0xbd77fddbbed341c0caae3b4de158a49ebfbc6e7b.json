@@ -1,0 +1,10 @@
+{
+	"Id": "0xbd77fddbbed341c0caae3b4de158a49ebfbc6e7b",
+	"Symbol": "MSIL-WETH",
+	"UnderlyingTokens": [
+		"0x055d5ed38eea3f7bafe0ba632936df19a2787048",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3c00226f-cf7e-4f6a-a5cb-68ec8b75160b",
+	"Chain": "ethereum"
+}

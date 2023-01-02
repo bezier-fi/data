@@ -1,0 +1,10 @@
+{
+	"Id": "0x71925e6d9042d3dd700581565d11da5485d22d11",
+	"Symbol": "BBC-WETH",
+	"UnderlyingTokens": [
+		"0xb24497246d34e06ba75b71e6caa0fb6e73b8475c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3c00226f-cf7e-4f6a-a5cb-68ec8b75160b",
+	"Chain": "ethereum"
+}

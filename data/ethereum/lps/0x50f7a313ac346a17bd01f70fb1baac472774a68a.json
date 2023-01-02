@@ -1,0 +1,10 @@
+{
+	"Id": "0x50f7a313ac346a17bd01f70fb1baac472774a68a",
+	"Symbol": "STFX-WETH",
+	"UnderlyingTokens": [
+		"0x74415e34da7d7d2c5c1fedc32a07980201e45432",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3c00226f-cf7e-4f6a-a5cb-68ec8b75160b",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xb15db90e6026fef4bb5a705a0a1644fa4ac1dbd1",
+	"Symbol": "Mrobot-WETH",
+	"UnderlyingTokens": [
+		"0x5248f1e20fd79a3b83008a3fdd7ee60b7a04383b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "39f13ba5-ca64-4407-b4d3-c63dd269d786",
+	"Chain": "ethereum"
+}

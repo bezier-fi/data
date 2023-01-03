@@ -1,0 +1,10 @@
+{
+	"Id": "0x29cbb4780f32420e860e44fece7749111e1f04cc",
+	"Symbol": "SYNC-WETH",
+	"UnderlyingTokens": [
+		"0x3379d59493b0a6e7636ec93fd33ccd0d8d955a3a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "39f13ba5-ca64-4407-b4d3-c63dd269d786",
+	"Chain": "ethereum"
+}

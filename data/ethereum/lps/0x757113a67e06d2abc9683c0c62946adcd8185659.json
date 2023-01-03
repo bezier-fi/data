@@ -1,0 +1,10 @@
+{
+	"Id": "0x757113a67e06d2abc9683c0c62946adcd8185659",
+	"Symbol": "WETH-WALL",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc598cc58b8b600c347188b8c1555d7ba05ea23ca"
+	],
+	"Protocol": "39f13ba5-ca64-4407-b4d3-c63dd269d786",
+	"Chain": "ethereum"
+}

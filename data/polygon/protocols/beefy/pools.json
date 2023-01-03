@@ -1,267 +1,399 @@
 [
 	{
-		"Id": "0x614A3f93dE94fA900BB88Ab2b23B3856518505Fa",
-		"Symbol": "SAGE-USDC LP"
+		"Id": "0x74907ad4E79b1Ce415caB26FEf526ae017598cEe",
+		"Symbol": "KRILL-USDC LP"
 	},
 	{
-		"Id": "0x775965D328FD46b51595E7d711c6B563CD4eFCF4",
-		"Symbol": "GENESIS-QUICK LP"
+		"Id": "0x653B205f0ceB4dF38DBFBfEAcaacC2003C553883",
+		"Symbol": "LUNA-DFYN LP"
 	},
 	{
-		"Id": "0xe032ad802585f79c004E8A4c225a645058F37583",
-		"Symbol": "CEL-MATIC LP"
-	},
-	{
-		"Id": "0xfA2AE38776b792f6629996B07FAa009a8cDEc5F9",
-		"Symbol": "stMATIC-MATIC sLP"
-	},
-	{
-		"Id": "0x7c0E28652523e36f0dF89C5A895cF59D493cb04c",
-		"Symbol": "USDT-MATIC LP"
-	},
-	{
-		"Id": "0x8829ADf1a9a7facE44c8FAb3Bc454f93F330E492",
-		"Symbol": "stMATIC-MATIC LP"
-	},
-	{
-		"Id": "0xeF1870FddC25586636bf8a3d7cCf4d298f6E072e",
-		"Symbol": "CEL-ETH LP"
-	},
-	{
-		"Id": "0x6EfBc871323148d9Fc34226594e90d9Ce2de3da3",
-		"Symbol": "WCRO-MATIC LP"
-	},
-	{
-		"Id": "0x0e229c6381f00F4be47a9529CBDde18016dD9369",
-		"Symbol": "polyBUNNY-QUICK LP"
-	},
-	{
-		"Id": "0xFe4519d295089aC689a6EC6779De4740c06D4707",
-		"Symbol": "cxADA-cxETH LP"
-	},
-	{
-		"Id": "0x755e426A8B445eAE53b1c051c1E7acA7381fCDb7",
-		"Symbol": "stMATIC-MATIC"
-	},
-	{
-		"Id": "0x61f55dc5243398D57acd5d6265e228da65C4Cb52",
-		"Symbol": "pBNB-USDC QLP"
-	},
-	{
-		"Id": "0x8e3e85c7d4A616683f3F9468bC17169774cD1aFC",
-		"Symbol": "TITAN"
-	},
-	{
-		"Id": "0x866c72B76fca4785aEE3656C2064476f98Fe9Cc9",
-		"Symbol": "WBTC/USDC/ETH"
-	},
-	{
-		"Id": "0x0C4705EBd2BF69660b72f9E9B684714c9e341942",
-		"Symbol": "USDC/USDT/DAI"
-	},
-	{
-		"Id": "0xe942A8Ef245EAC3CEa951486e3Df5764C79b9621",
-		"Symbol": "DEGEN-QUICK LP"
-	},
-	{
-		"Id": "0xa2Dd60Fb8Bbf21e60E58AF97Cfc9dB9A34397848",
-		"Symbol": "QI-MAI LP"
-	},
-	{
-		"Id": "0x5Da31E310bb83e89BF85A4100A98C7b33530395c",
-		"Symbol": "CRYSTL-WMATIC LP"
-	},
-	{
-		"Id": "0xC4FABD1E2A99c84b7fd152a41426B77c217c5764",
-		"Symbol": "ETH-renDOGE LP"
-	},
-	{
-		"Id": "0xf2984c27B963A14F9f3B7326096c54fb05d5b9AF",
-		"Symbol": "PZAP-MATIC LP"
-	},
-	{
-		"Id": "0xe09888EEab19bce85e67eDC59521F3f290B1BCcE",
-		"Symbol": "WEXpoly-MATIC LP"
-	},
-	{
-		"Id": "0x94242E121F056FA7F0892452e6a17678124981c1",
-		"Symbol": "RAMP-ETH LP"
-	},
-	{
-		"Id": "0x5c26afCd15Fb65Ec27f99F47474A1D5b03673b49",
-		"Symbol": "ETH-TEL LP"
-	},
-	{
-		"Id": "0xa55e8326a9AC7B0bFcA5E6Fc9Cf1141E2dc11f67",
-		"Symbol": "pWINGS"
-	},
-	{
-		"Id": "0xe3B5a0d5dFDCD6dE7e22a5c2B6b957aB76d2A085",
-		"Symbol": "WEXpoly-USDC LP"
-	},
-	{
-		"Id": "0x58C55B5675B106b440635E2c550A771f4E256D35",
-		"Symbol": "USDC-USDT LP"
-	},
-	{
-		"Id": "0xd7C196571068EC51b86F378eF19387E6f3885748",
-		"Symbol": "pBREW-USDC LP"
-	},
-	{
-		"Id": "0x866a910F3375d0dEBDdD904A36B3940aFcD29900",
-		"Symbol": "AAVE-ETH LP"
-	},
-	{
-		"Id": "0x2434826b2cA0BeEDc9287Fb592d94328F525eA0D",
-		"Symbol": "FODL-MATIC LP"
-	},
-	{
-		"Id": "0x8b89477dFde285849E1B07947E25012206F4D674",
-		"Symbol": "ETH-MATIC LP"
-	},
-	{
-		"Id": "0xfE1779834EaDD60660a7F3f576448D6010f5e3Fc",
-		"Symbol": "jEUR-PAR LP"
-	},
-	{
-		"Id": "0x9fc153db31a5CeF1Cd326De31FEb37C7499eebC8",
-		"Symbol": "BONE-MATIC SLP"
-	},
-	{
-		"Id": "0xba61Ae734e5348e83A75599Bc5a64CB6aAdC0247",
-		"Symbol": "FUSE-ETH LP"
-	},
-	{
-		"Id": "0x1A90Ea15e00a6c647478e86e3A3DB1aC1eB23cE5",
-		"Symbol": "pBNB-QUICK QLP"
-	},
-	{
-		"Id": "0x5c7fd860fC0072cFef2Cc4aB17CC7fF25B639d8b",
-		"Symbol": "WBTC-USDC LP"
-	},
-	{
-		"Id": "0x8FA93b7F89b5F563F20720EEa27A35d395D474F9",
-		"Symbol": "MATIC/USDC/ETH/BAL"
-	},
-	{
-		"Id": "0x8c9dE3b735a154d8fC1e94183eA9b021913AC88B",
-		"Symbol": "LCD-MATIC LP"
-	},
-	{
-		"Id": "0xB1893a79fcCe73aEfc878e5AC918698Ee0110444",
-		"Symbol": "PUP-USDC QLP"
-	},
-	{
-		"Id": "0xa83171B123a18303c5aed8F5D20AeA6CfdF76Bc6",
-		"Symbol": "BIFI-MATIC vLP"
-	},
-	{
-		"Id": "0x0E765383bea3a166A87a042132422f5F29fDb217",
-		"Symbol": "EZ-DFYN LP"
-	},
-	{
-		"Id": "0x74b00bbb693de4dC07d8aB79Ac935b323e2A136a",
-		"Symbol": "BIFI-DFYN LP"
-	},
-	{
-		"Id": "0x3a3a9784Af130d692E19A3f1C1b13eF44301D0f7",
-		"Symbol": "DAI-ETH LP"
-	},
-	{
-		"Id": "0xFcC42a103d620125b580a0B76fD8a58cc1b6b06A",
-		"Symbol": "WBTC-cxBTC LP"
-	},
-	{
-		"Id": "0x3CB928f9B49D9bD6eF43B7310dcC17dB0528CCc6",
-		"Symbol": "MAI/DAI/USDC/USDT"
-	},
-	{
-		"Id": "0xA4fB94990f99A8C1290e83d40DB9C648fD868D14",
-		"Symbol": "ETH-FIL SLP"
-	},
-	{
-		"Id": "0x9525A39b7E642785c10F02287b6A181CE9552f44",
-		"Symbol": "TITAN-IRON LP"
-	},
-	{
-		"Id": "0xADA7F98fb2594E76914EB593e74B348A498Ea5Bd",
-		"Symbol": "BANANA-MATIC ALP"
-	},
-	{
-		"Id": "0x1d23ecC0645B07791b7D99349e253ECEbe43f614",
-		"Symbol": "MATIC"
-	},
-	{
-		"Id": "0x64fbCDfd1335AfdC8f81383919483c593399c738",
-		"Symbol": "MAI-DAI LP"
-	},
-	{
-		"Id": "0x5e03C75a8728a8E0FF0326baADC95433009424d6",
-		"Symbol": "MANA-MATIC LP"
+		"Id": "0x1bCe9A53f3f71DD6B6551712a622E891cf05F477",
+		"Symbol": "BALL-USDC QLP"
 	},
 	{
 		"Id": "0x76cE86B1e1b7a3983B26F7E57B2A0C8896f7eB0D",
 		"Symbol": "WISE-ETH LP"
 	},
 	{
-		"Id": "0x21280954C4F99747757076A0cC56ba594037075d",
-		"Symbol": "USTw-MATIC LP"
+		"Id": "0x75424BE5378621AeC2eEF25965f40FeB59039B52",
+		"Symbol": "USDC-DAI SLP"
 	},
 	{
-		"Id": "0x7eE71053102d54Fc843BaEBaf07277C2b6dB64f1",
-		"Symbol": "FISH-MATIC LP"
-	},
-	{
-		"Id": "0xB215bFd4821C71914F92093cae527FD355CE268F",
-		"Symbol": "YELD-MATIC QLP"
-	},
-	{
-		"Id": "0x756866Bd84A2441664e80367977357b1F9b5F3D3",
-		"Symbol": "GHST-MATIC SLP"
-	},
-	{
-		"Id": "0x7D59B0cAC35d431fe5B2F3aAED2FB70050B2113D",
-		"Symbol": "BONE-MATIC ALP"
-	},
-	{
-		"Id": "0x15FC2BA59956564b39Eba06DCd6a37F4476f1eD5",
-		"Symbol": "GIDDY-USDC LP"
-	},
-	{
-		"Id": "0x0dFd8c4dd493d8f87Be362878E41537Ca7Ee4d9e",
-		"Symbol": "USDC-DAI LP"
-	},
-	{
-		"Id": "0xe5844a9Af7748492dAba745506bfB2b91f19be62",
-		"Symbol": "MAI-USDT LP"
-	},
-	{
-		"Id": "0x9F94558306D37F23a85ac95fDcCee7551C086b34",
-		"Symbol": "IRON/USDC/USDT/DAI"
-	},
-	{
-		"Id": "0xF274B7aDddC8DA615a8bACf6434816cD58B5b05D",
-		"Symbol": "ALPHA-USDC LP"
-	},
-	{
-		"Id": "0x584611DA226b4d4C0c4D880E6f1E0c0E8522f3AE",
-		"Symbol": "MATIC-DAI ALP"
+		"Id": "0x1b90eC99d3B99086691EC3CBEf1F1407E2753e38",
+		"Symbol": "HBAR-MAI LP"
 	},
 	{
 		"Id": "0x75A59e8d6611e90e7A8e439Cb59D9f78e738d16F",
 		"Symbol": "WBTC-ETH LP"
 	},
 	{
-		"Id": "0x9CE8a8F957f8f9Dfa787B130200dA749913Ed967",
-		"Symbol": "WISE-MATIC LP"
+		"Id": "0xb6D01251A085D9a58e8586cB04AC28d68b91f6c9",
+		"Symbol": "MaticX-MATIC sLP"
+	},
+	{
+		"Id": "0xa5b0E0f38BC86723a9893B828a4B9595ecb22F42",
+		"Symbol": "FFF-ETH LP"
+	},
+	{
+		"Id": "0xfdE69969f4527343D78F9C9AC797ded29098B215",
+		"Symbol": "JRT-ETH SLP"
+	},
+	{
+		"Id": "0x66df1B2d22759D03A9f37BAaAc826089e56a5936",
+		"Symbol": "QUICK-ETH LP"
+	},
+	{
+		"Id": "0x4A2De8466873fCb21D7bDE5A754Baaf244729c72",
+		"Symbol": "polyDOGE-QUICK LP"
+	},
+	{
+		"Id": "0x9525A39b7E642785c10F02287b6A181CE9552f44",
+		"Symbol": "TITAN-IRON LP"
+	},
+	{
+		"Id": "0xad88D6B731DCb567a3E13407f1E7B0649Bad82D2",
+		"Symbol": "ROUTE-DFYN LP"
+	},
+	{
+		"Id": "0x4A041eD4dda1cf460D557E1bdCBf0b29c02A1b3c",
+		"Symbol": "jEUR-USDC LP"
+	},
+	{
+		"Id": "0x2109361Ed6759296A70A3f025fBce9744E5BC406",
+		"Symbol": "ICE-ETH LP"
+	},
+	{
+		"Id": "0x9a8390F3F74E7f367B5f948dd04495B67a54a5F4",
+		"Symbol": "YELD-USDC QLP"
+	},
+	{
+		"Id": "0xfEcf784F48125ccb7d8855cdda7C5ED6b5024Cb3",
+		"Symbol": "BIFI Maxi"
+	},
+	{
+		"Id": "0xeCBb84E73760d0E22BDBeE79490c691386B5008F",
+		"Symbol": "MATIC-USDC LP"
+	},
+	{
+		"Id": "0x1001844Cb9Bc3B89a60ce4f4773dBa3B27115230",
+		"Symbol": "BONE-USDC LP"
+	},
+	{
+		"Id": "0x3dab1aCB811dc4C8b2FdC77812552f4d4Efd0A8c",
+		"Symbol": "aTriCrypto"
+	},
+	{
+		"Id": "0xa2e51538fce9d2D8082988921be4C0afC3Fe089a",
+		"Symbol": "UST-USDT LP"
+	},
+	{
+		"Id": "0xbea5D2Aed651F579fa3e7ADAA2eC51276B2ea420",
+		"Symbol": "YELD-MATIC QLP"
+	},
+	{
+		"Id": "0x7CE2332fAF6328986C75e3A8fCc1CB79621aeB1F",
+		"Symbol": "MUST-ETH LP"
+	},
+	{
+		"Id": "0x8b89477dFde285849E1B07947E25012206F4D674",
+		"Symbol": "ETH-MATIC LP"
+	},
+	{
+		"Id": "0xa5529E47C3086D93bB59aB99ca2B20d0Ee2EFcAe",
+		"Symbol": "DYST-MATIC vLP"
+	},
+	{
+		"Id": "0xa448e9833095ad50693B025c275F48b271aDe882",
+		"Symbol": "MaticX-MATIC LP"
+	},
+	{
+		"Id": "0xF274B7aDddC8DA615a8bACf6434816cD58B5b05D",
+		"Symbol": "ALPHA-USDC LP"
+	},
+	{
+		"Id": "0x247303D4Be227Aa87Bd52F05aDDAD772794DE394",
+		"Symbol": "BIFI-MATIC LP"
+	},
+	{
+		"Id": "0x7c0E28652523e36f0dF89C5A895cF59D493cb04c",
+		"Symbol": "USDT-MATIC LP"
+	},
+	{
+		"Id": "0xE87151D8dd8695e3e69e8B2f0eB8cf79BD2227d1",
+		"Symbol": "DINO-ETH LP"
+	},
+	{
+		"Id": "0xe5844a9Af7748492dAba745506bfB2b91f19be62",
+		"Symbol": "MAI-USDT LP"
+	},
+	{
+		"Id": "0x383489a0A5deA3f1499c638e0258F7e6a68a253f",
+		"Symbol": "DOKI-ETH LP"
+	},
+	{
+		"Id": "0x0cFc878111e72e800ecA9E0B2a6358bcc15EB9FE",
+		"Symbol": "HONOR-USDC WLP"
+	},
+	{
+		"Id": "0x51A61e614E18B9c50f2420e77Bb071B5fF6D7aB7",
+		"Symbol": "LITHIUM-USDC LP"
+	},
+	{
+		"Id": "0xebe0c8d842AA5A57D7BEf8e524dEabA676F91cD1",
+		"Symbol": "MAI-USDC LP"
+	},
+	{
+		"Id": "0x3AD9cd8d75f7a711Caea58e725425A9dC0D249c4",
+		"Symbol": "SNX-ETH SLP"
+	},
+	{
+		"Id": "0xD6eB31D849eE79B5F5fA1b7c470cDDFa515965cD",
+		"Symbol": "MAI-MATIC LP"
+	},
+	{
+		"Id": "0x55eebAd2b295d5229cf853368c9307e48B9CD955",
+		"Symbol": "ETH-WBTC LP"
+	},
+	{
+		"Id": "0xAbA81D550C326DFf2cE0D31bC7Aa6289d576591E",
+		"Symbol": "VISION-ETH LP"
+	},
+	{
+		"Id": "0x47036A1ecC5D02e122Ae6604973ee1529E76e022",
+		"Symbol": "ETH-USDC LP"
+	},
+	{
+		"Id": "0xBD8B03a3fF5F63093000Df6De33B0A6C9E5bb501",
+		"Symbol": "ICE-IRON LP"
+	},
+	{
+		"Id": "0xFa08E2EFE3aa5a8a0142f26add94354f9FdFe1DE",
+		"Symbol": "xMARK-USDC LP"
+	},
+	{
+		"Id": "0xadfff816820B0f5C7255373DAca83489367bEB43",
+		"Symbol": "SING-USDC LP"
+	},
+	{
+		"Id": "0x4a759386cacb60A714275F97AbA9b555d91001c9",
+		"Symbol": "WMATIC-DFYN LP"
+	},
+	{
+		"Id": "0x9649e6E5c689f21BC27B47CE4177f7c5f7281E20",
+		"Symbol": "BIFI-ETH LP"
+	},
+	{
+		"Id": "0x8Ce906F6f383c31b09B1D2A5f2c9f480b87ceb58",
+		"Symbol": "BONE-USDC QLP"
+	},
+	{
+		"Id": "0x6C4593D4f91c790404cCEe5007E929d2b7bF45bD",
+		"Symbol": "polyBUNNY-ETH LP"
+	},
+	{
+		"Id": "0x03F69AAF4c8512f533Da46cC9eFd49C4969e3CB8",
+		"Symbol": "BIFI-USDC SLP"
+	},
+	{
+		"Id": "0xC8e3dee8d07C06568D62fcDBBD1bFA8c7fb9ae17",
+		"Symbol": "SAGE-MATIC LP"
+	},
+	{
+		"Id": "0x1d7A7182043F521ab57Fe07a8420Fee9843E365e",
+		"Symbol": "QI-QUICK LP"
+	},
+	{
+		"Id": "0xE0570ddFca69E5E90d83Ea04bb33824D3BbE6a85",
+		"Symbol": "stMATIC-MATIC"
+	},
+	{
+		"Id": "0x544551E4E7D7bDd1CfbD55F07e304F5C9fD514Dd",
+		"Symbol": "MATIC-WOOFY SLP"
+	},
+	{
+		"Id": "0x6dB1f01b58485234e5433fBe01398120701a3D4F",
+		"Symbol": "PAE-MATIC LP"
+	},
+	{
+		"Id": "0x8c9d3Bc4425773BD2F00C4a2aC105c5Ad73c8141",
+		"Symbol": "WBTC/renBTC"
+	},
+	{
+		"Id": "0x866c72B76fca4785aEE3656C2064476f98Fe9Cc9",
+		"Symbol": "WBTC/USDC/ETH"
+	},
+	{
+		"Id": "0x6d486dD56e2191E87c275722FBADA1aADa2F2Aff",
+		"Symbol": "renDGB-QUICK LP"
+	},
+	{
+		"Id": "0xa55e8326a9AC7B0bFcA5E6Fc9Cf1141E2dc11f67",
+		"Symbol": "pWINGS"
+	},
+	{
+		"Id": "0x3404361876897A92579DcEBd9eDC94A1662dC4aF",
+		"Symbol": "AXS-ETH SLP"
+	},
+	{
+		"Id": "0x7f6fE34C51d5352A0CF375C0Fbe03bD19eCD8460",
+		"Symbol": "MUST-MATIC LP"
+	},
+	{
+		"Id": "0x2F4BBA9fC4F77F16829F84181eB7C8b50F639F95",
+		"Symbol": "USDC LP"
+	},
+	{
+		"Id": "0xA5cd75EdC2f64580470bB6Fb2f9Ee00C66747c65",
+		"Symbol": "PEAR-MATIC LP"
+	},
+	{
+		"Id": "0xB198A916123394f2d9c31D4645468566e87080d5",
+		"Symbol": "ICE-DFYN LP"
+	},
+	{
+		"Id": "0xB1893a79fcCe73aEfc878e5AC918698Ee0110444",
+		"Symbol": "PUP-USDC QLP"
+	},
+	{
+		"Id": "0xc4cC677bb8b7E6EEA6409Ee2af9F434BAB004192",
+		"Symbol": "AAVE-ETH LP"
+	},
+	{
+		"Id": "0x8440DAe4E1002e83D57fbFD6d33E6F3684a35036",
+		"Symbol": "USDC-DAI ALP"
 	},
 	{
 		"Id": "0x68Ac25D2e7306037e1174b0D3405efd36701ca6b",
 		"Symbol": "Balancer Boosted USD (bb-am-USD)"
 	},
 	{
-		"Id": "0xc58475e5385b056D29ab455F40634450a613e789",
-		"Symbol": "USDC-WEXpoly LP"
+		"Id": "0xEaa2Ce6351d803456235809D82357ED8D23E8502",
+		"Symbol": "BICO-ETH LP"
+	},
+	{
+		"Id": "0x6888f67662d1f442C4428129e0Bdb27a275e0a65",
+		"Symbol": "BNB-MATIC ALP"
+	},
+	{
+		"Id": "0x700504eaBA64Cd92080059a3C93b6baa73a4Ec38",
+		"Symbol": "pBREW-MATIC LP"
+	},
+	{
+		"Id": "0x37884333d34eeE3EAe83439CE4608E69E7081116",
+		"Symbol": "PUP-MATIC QLP"
+	},
+	{
+		"Id": "0xD8f5095Fd7E27D4aD12008d5eb09105bFFd1572c",
+		"Symbol": "HONOR-USDC QLP"
+	},
+	{
+		"Id": "0xdb15F201529778b5e2dfa52D41615cd1AB24c765",
+		"Symbol": "pMATIC-MATIC LP"
+	},
+	{
+		"Id": "0x1b27b7083a9BdA1aCD04266F61DF646f8296a872",
+		"Symbol": "TITAN-ETH LP"
+	},
+	{
+		"Id": "0x7D59B0cAC35d431fe5B2F3aAED2FB70050B2113D",
+		"Symbol": "BONE-MATIC ALP"
+	},
+	{
+		"Id": "0x44AA75F5c68Ed51B97C117C86A0274b5514860a9",
+		"Symbol": "newQUICK-MATIC LP"
+	},
+	{
+		"Id": "0xC10ac3fe9b11ff6763F9f1dE3c1C00267974553B",
+		"Symbol": "BALL-MATIC QLP"
+	},
+	{
+		"Id": "0x5Da31E310bb83e89BF85A4100A98C7b33530395c",
+		"Symbol": "CRYSTL-WMATIC LP"
+	},
+	{
+		"Id": "0xbf62ed5ffa6d1422592BC746769293eEBc52dd9e",
+		"Symbol": "USDC/LINK/ETH/BAL/AAVE"
+	},
+	{
+		"Id": "0x6720C2b7fd7dE1CAD3242dd3E8a86d033D4ed3f9",
+		"Symbol": "jNZD-NZDS LP"
+	},
+	{
+		"Id": "0x0dFd8c4dd493d8f87Be362878E41537Ca7Ee4d9e",
+		"Symbol": "USDC-DAI LP"
+	},
+	{
+		"Id": "0xe09888EEab19bce85e67eDC59521F3f290B1BCcE",
+		"Symbol": "WEXpoly-MATIC LP"
+	},
+	{
+		"Id": "0x92dEB173538F4f4dCf51B8A878b6C816C034BcdF",
+		"Symbol": "MAI-USDC LP"
+	},
+	{
+		"Id": "0x3e349b83A3E68bdD5BB71fAB63dDE123c478FEA4",
+		"Symbol": "IRON-USDC LP"
+	},
+	{
+		"Id": "0xeF1870FddC25586636bf8a3d7cCf4d298f6E072e",
+		"Symbol": "CEL-ETH LP"
+	},
+	{
+		"Id": "0x051aBa342824Ba03519694774B4e9297618Fa818",
+		"Symbol": "PSP-MATIC LP"
+	},
+	{
+		"Id": "0x0E765383bea3a166A87a042132422f5F29fDb217",
+		"Symbol": "EZ-DFYN LP"
+	},
+	{
+		"Id": "0x108c7a293162Adff86DA216AB5F91e56723125dc",
+		"Symbol": "EURt/DAI/USDC/USDT"
+	},
+	{
+		"Id": "0x8Fa291074B9E28055fFdBCd4C1C1Dad67B9a130A",
+		"Symbol": "BONE"
+	},
+	{
+		"Id": "0x05064BF1Bc9f6778c69c3f68E17Ba8d9427594D8",
+		"Symbol": "DFYN-ETH LP"
+	},
+	{
+		"Id": "0xAA7C2879DaF8034722A0977f13c343aF0883E92e",
+		"Symbol": "DAI/USDC/USDT"
+	},
+	{
+		"Id": "0x16B6BFE58deDF2934C6E9BE1D0cBEcaafc2C686d",
+		"Symbol": "UNI-DFYN LP"
+	},
+	{
+		"Id": "0x82303a4b2c821204A84AB2a068eC8EDf3Bc23061",
+		"Symbol": "mOCEAN-MATIC LP"
+	},
+	{
+		"Id": "0x6F6bbbCA49b4b2cE0E27eb0156977048AC3434B9",
+		"Symbol": "CC10-ETH LP"
+	},
+	{
+		"Id": "0xf26607237355D7c6183ea66EC908729E9c6eEB6b",
+		"Symbol": "WBTC-ETH LP"
+	},
+	{
+		"Id": "0x1a83915207c9028a9f71e7D9Acf41eD2beB6f42D",
+		"Symbol": "DPI-ETH LP"
+	},
+	{
+		"Id": "0x5B19A2e8E5878cF2b1E9b1AC7CEA50346671B2Fc",
+		"Symbol": "FRAX-USDC SLP"
+	},
+	{
+		"Id": "0xba1548b3f673950094dc00eDc1eB71683f371696",
+		"Symbol": "NEXO-ETH LP"
+	},
+	{
+		"Id": "0x94242E121F056FA7F0892452e6a17678124981c1",
+		"Symbol": "RAMP-ETH LP"
 	},
 	{
 		"Id": "0xa450f23570868A33bc66bF60f2268E85575bbDC9",
@@ -272,963 +404,831 @@
 		"Symbol": "QUICK-MATIC LP"
 	},
 	{
-		"Id": "0xBe1C35d3349555Ba9eEa38AB1A21a6Db0Bb0fCdD",
-		"Symbol": "PUP"
-	},
-	{
-		"Id": "0x752948B4493d2Ee09c95F944A76005aEBF410087",
-		"Symbol": "AAVE-ETH LP"
-	},
-	{
-		"Id": "0x51A61e614E18B9c50f2420e77Bb071B5fF6D7aB7",
-		"Symbol": "LITHIUM-USDC LP"
-	},
-	{
-		"Id": "0x18DAdac6d0AAF37BaAAC811F6338427B46815a81",
-		"Symbol": "jSGD-XSGD LP"
-	},
-	{
-		"Id": "0x122E09FdD2FF73C8CEa51D432c45A474BAa1518a",
-		"Symbol": "jJPY-JPYC LP"
-	},
-	{
-		"Id": "0xa1E625D1e3b44468EB2a35d39d95f724c70ecd41",
-		"Symbol": "ALPHA-MATIC LP"
-	},
-	{
-		"Id": "0xB0D20b7d047e10a8Af2bE8C7c4C976653A0f2ECA",
-		"Symbol": "MaticX-MATIC"
-	},
-	{
-		"Id": "0x74907ad4E79b1Ce415caB26FEf526ae017598cEe",
-		"Symbol": "KRILL-USDC LP"
-	},
-	{
-		"Id": "0xE63aCEbE35265896cC6E8BdB8eCC0640a1807141",
-		"Symbol": "TITAN-MATIC LP"
-	},
-	{
-		"Id": "0x7BAeCc5B3E3cbD102D3B29A75FE33962434b5fC5",
-		"Symbol": "LINK/ETH/BAL/AAVE"
-	},
-	{
-		"Id": "0xE71f3C11D4535a7F8c5FB03FDA57899B2C9c721F",
-		"Symbol": "USDC"
-	},
-	{
-		"Id": "0x970283Df294f9cedD2187bf84782AB75617Be31c",
-		"Symbol": "SX-DFYN LP"
-	},
-	{
-		"Id": "0x2109361Ed6759296A70A3f025fBce9744E5BC406",
-		"Symbol": "ICE-ETH LP"
-	},
-	{
-		"Id": "0xE87151D8dd8695e3e69e8B2f0eB8cf79BD2227d1",
-		"Symbol": "DINO-ETH LP"
-	},
-	{
-		"Id": "0xf5881fF8fF609C1202E0c6481bc16B4273407A04",
-		"Symbol": "AVAX-ETH SLP"
-	},
-	{
-		"Id": "0x5d4B83B3011B1E14e55185c5D432987e76f6DE3C",
-		"Symbol": "USDC-ETH LP"
-	},
-	{
-		"Id": "0xCC2755476B0573F0ee0D5a754Bb6fE720c3641Bb",
-		"Symbol": "BIFI-QUICK LP"
-	},
-	{
-		"Id": "0xE4DB97A2AAFbfef40D1a4AE8B709f61d6756F8e1",
-		"Symbol": "USDC-ETH LP"
-	},
-	{
-		"Id": "0x87F322dD9c327B4F91A7D620EE6ED7FA883Af62f",
-		"Symbol": "cxDOGE-cxETH LP"
-	},
-	{
-		"Id": "0x92dEB173538F4f4dCf51B8A878b6C816C034BcdF",
-		"Symbol": "MAI-USDC LP"
-	},
-	{
-		"Id": "0xDBD762Fa3BeE775B6bc2f71135254cD1608c2204",
-		"Symbol": "newQUICK-ETH LP"
-	},
-	{
-		"Id": "0x2849095eE44eCd5f60Ed04f94e5BB45623A8e75a",
-		"Symbol": "ANY-QUICK LP"
-	},
-	{
-		"Id": "0x3dab1aCB811dc4C8b2FdC77812552f4d4Efd0A8c",
-		"Symbol": "aTriCrypto"
-	},
-	{
-		"Id": "0xaE65a66B3c7f8cc1ba71cEA740C953aBa0F3Ce8b",
-		"Symbol": "LINK-ETH LP"
-	},
-	{
-		"Id": "0x1b90eC99d3B99086691EC3CBEf1F1407E2753e38",
-		"Symbol": "HBAR-MAI LP"
-	},
-	{
-		"Id": "0x15D0841956242105aE614763E3fbDc60112E23a9",
-		"Symbol": "WISE-USDC LP"
-	},
-	{
-		"Id": "0xa2A2A464E4c59cA64F9FC85DF96b3C604EAf2d66",
-		"Symbol": "CLAM-MAI LP"
-	},
-	{
-		"Id": "0xad88D6B731DCb567a3E13407f1E7B0649Bad82D2",
-		"Symbol": "ROUTE-DFYN LP"
-	},
-	{
-		"Id": "0x8802fbcb669c7BbcC3989455B3FdBF9235176bD4",
-		"Symbol": "SOL-MATIC LP"
-	},
-	{
-		"Id": "0x4A2De8466873fCb21D7bDE5A754Baaf244729c72",
-		"Symbol": "polyDOGE-QUICK LP"
-	},
-	{
-		"Id": "0xfEcf784F48125ccb7d8855cdda7C5ED6b5024Cb3",
-		"Symbol": "BIFI Maxi"
-	},
-	{
-		"Id": "0x9f3B96a2Dd55aa904bC5476Ffe66E74a53f6b420",
-		"Symbol": "FISH-MATIC LP"
-	},
-	{
-		"Id": "0x9649e6E5c689f21BC27B47CE4177f7c5f7281E20",
-		"Symbol": "BIFI-ETH LP"
-	},
-	{
-		"Id": "0xe5D9d4F4C6369E24c8dA4cB07cCb2901845f6021",
-		"Symbol": "IRON-USDC LP"
-	},
-	{
-		"Id": "0xc10C75247f503cc7B7496D72a6F3C443adDB7110",
-		"Symbol": "GIDDY"
-	},
-	{
-		"Id": "0x6aD5a528D82951c3093992b72e57034d24cDE633",
-		"Symbol": "FRAX-USDC sLP"
-	},
-	{
-		"Id": "0xefA8E30cE4cc433cEA1B3b6006D69731A4FBd485",
-		"Symbol": "FISH-MATIC LP"
-	},
-	{
-		"Id": "0x2AaB02eDE64d4A686EA1d1A70B688E46cce50fFd",
-		"Symbol": "TEL-MATIC QLP"
-	},
-	{
-		"Id": "0x108c7a293162Adff86DA216AB5F91e56723125dc",
-		"Symbol": "EURt/DAI/USDC/USDT"
-	},
-	{
-		"Id": "0x94F64bb5046Ee377bFBb664736547B7f78e5AE06",
-		"Symbol": "jJPY-JPYC"
-	},
-	{
-		"Id": "0x6dB1f01b58485234e5433fBe01398120701a3D4F",
-		"Symbol": "PAE-MATIC LP"
-	},
-	{
-		"Id": "0xdf4E615e05713f9Be712bb999B3190Fd238bb77A",
-		"Symbol": "POLYDOGE-MATIC LP"
-	},
-	{
-		"Id": "0x226a18Fb5eb7d9d1c4Eb1b5Cff957E0F1e3fd9Ed",
-		"Symbol": "CC10-QUICK LP"
-	},
-	{
-		"Id": "0x3af3563Ba5C68EB7DCbAdd2dF0FcE4CC9818e75c",
-		"Symbol": "USD+-MATIC vLP"
-	},
-	{
-		"Id": "0xF10c108670b137Ae78C5705C84A6D00a9DD005a2",
-		"Symbol": "jGBP-USDC LP"
-	},
-	{
-		"Id": "0x5027da71EA7679775C3870A508cB1CdEFDbECa25",
-		"Symbol": "ETH-cxETH LP"
-	},
-	{
-		"Id": "0x643DD1f9D43B210c4BA2648145757480cB664175",
-		"Symbol": "ETH-MATIC vLP"
-	},
-	{
-		"Id": "0x1C480521100c962F7da106839a5A504B5A7457a1",
-		"Symbol": "USDT LP"
-	},
-	{
-		"Id": "0x1A1432b90a093CbFFeCb44cf6965e2fd11005373",
-		"Symbol": "WEXpoly"
-	},
-	{
-		"Id": "0x2Fa3A4671b977a8f0c16334e4CF16EA91F22db75",
-		"Symbol": "xYELD"
-	},
-	{
-		"Id": "0x6d212Dd38aD0811d30AABf08fB78018133F8417E",
-		"Symbol": "SAND-MATIC LP"
-	},
-	{
-		"Id": "0xa448e9833095ad50693B025c275F48b271aDe882",
-		"Symbol": "MaticX-MATIC LP"
-	},
-	{
-		"Id": "0x0A9e464D6939D37a78d7B2a32e8B8F75f15c3C25",
-		"Symbol": "KIRO-MATIC LP"
-	},
-	{
-		"Id": "0x764B2aAcfDE7e33888566a6d44005Dc982F02031",
-		"Symbol": "AVAX-MATIC LP"
-	},
-	{
-		"Id": "0xC1A2e8274D390b67A7136708203D71BF3877f158",
-		"Symbol": "MATIC-USDC LP"
-	},
-	{
-		"Id": "0xF082954596D3deB61D80dF135663C0fbDe4F7C37",
-		"Symbol": "DELIRIUM-USDC LP"
-	},
-	{
-		"Id": "0xda3E3ee01Ee7284e3D0d900Ca3fb3D09484E1ce0",
-		"Symbol": "TEL-QUICK QLP"
-	},
-	{
-		"Id": "0x8c864B1FD2BbB20F614661ddD992eFaeEeF0b2Ac",
-		"Symbol": "QI-ETH LP"
-	},
-	{
-		"Id": "0xBa58D7131Ca50DdFB458f37ea0De6fdcebFe836B",
-		"Symbol": "TEL-AAVE QLP"
-	},
-	{
-		"Id": "0xA5cd75EdC2f64580470bB6Fb2f9Ee00C66747c65",
-		"Symbol": "PEAR-MATIC LP"
-	},
-	{
-		"Id": "0x1081062Aa050AFDBC3D669A24856a6fD23C536Fc",
-		"Symbol": "GUARD-USDC LP"
-	},
-	{
-		"Id": "0xa5b0E0f38BC86723a9893B828a4B9595ecb22F42",
-		"Symbol": "FFF-ETH LP"
-	},
-	{
-		"Id": "0x4cE9E554a62672Fc9Ceecb26ce48B742b75D4658",
-		"Symbol": "USDC-USDT LP"
-	},
-	{
-		"Id": "0x9a8390F3F74E7f367B5f948dd04495B67a54a5F4",
-		"Symbol": "YELD-USDC QLP"
-	},
-	{
-		"Id": "0x66df1B2d22759D03A9f37BAaAc826089e56a5936",
-		"Symbol": "QUICK-ETH LP"
-	},
-	{
-		"Id": "0x3e349b83A3E68bdD5BB71fAB63dDE123c478FEA4",
-		"Symbol": "IRON-USDC LP"
-	},
-	{
-		"Id": "0xFa08E2EFE3aa5a8a0142f26add94354f9FdFe1DE",
-		"Symbol": "xMARK-USDC LP"
-	},
-	{
-		"Id": "0xcC16BbE4987920a17F5C4a92C1Ab4dbDfB0B9790",
-		"Symbol": "FISH"
-	},
-	{
-		"Id": "0x05064BF1Bc9f6778c69c3f68E17Ba8d9427594D8",
-		"Symbol": "DFYN-ETH LP"
-	},
-	{
-		"Id": "0xa5aaE3a55cA356C62b5425AA4bFC212542B17777",
-		"Symbol": "ETH-MATIC LP"
-	},
-	{
-		"Id": "0x77DD1813f99059a65cF863f0C53E5C6Db7149499",
-		"Symbol": "TUSD-USDC LP"
-	},
-	{
-		"Id": "0xBA4FA9A5e1e573fA5267970238af5Edf40727315",
-		"Symbol": "PZAP-USDC LP"
-	},
-	{
-		"Id": "0x4E685C0d068cb0af88Ff662B89951Ad5B3727387",
-		"Symbol": "BOOK-MATIC LP"
-	},
-	{
-		"Id": "0x9B36ECeaC46B70ACfB7C2D6F3FD51aEa87C31018",
-		"Symbol": "DAI"
-	},
-	{
-		"Id": "0x8c9d3Bc4425773BD2F00C4a2aC105c5Ad73c8141",
-		"Symbol": "WBTC/renBTC"
-	},
-	{
-		"Id": "0xBD8B03a3fF5F63093000Df6De33B0A6C9E5bb501",
-		"Symbol": "ICE-IRON LP"
-	},
-	{
-		"Id": "0x247303D4Be227Aa87Bd52F05aDDAD772794DE394",
-		"Symbol": "BIFI-MATIC LP"
-	},
-	{
-		"Id": "0xf7e1226F6f98D1981e88Da328347F0E2131A2864",
-		"Symbol": "SNX-ETH LP"
-	},
-	{
-		"Id": "0xC8e809a9180d637Cc23dAf60b41B70CA1ad5Fc08",
-		"Symbol": "ETH-MATIC LP"
-	},
-	{
-		"Id": "0x1b27b7083a9BdA1aCD04266F61DF646f8296a872",
-		"Symbol": "TITAN-ETH LP"
-	},
-	{
-		"Id": "0xeCBb84E73760d0E22BDBeE79490c691386B5008F",
-		"Symbol": "MATIC-USDC LP"
-	},
-	{
-		"Id": "0x051aBa342824Ba03519694774B4e9297618Fa818",
-		"Symbol": "PSP-MATIC LP"
-	},
-	{
-		"Id": "0xb6D01251A085D9a58e8586cB04AC28d68b91f6c9",
-		"Symbol": "MaticX-MATIC sLP"
-	},
-	{
-		"Id": "0x18a20abeba0086ac0c564B2bA3a7BaF18568667D",
-		"Symbol": "ETH-MANA LP"
-	},
-	{
-		"Id": "0x26B7d2fe697e932907175A3920B5dC2C2e2440A4",
-		"Symbol": "jEUR-EURt LP"
-	},
-	{
-		"Id": "0x6C4593D4f91c790404cCEe5007E929d2b7bF45bD",
-		"Symbol": "polyBUNNY-ETH LP"
-	},
-	{
-		"Id": "0xcf9Dd1de1D02158B3d422779bd5184032674A6D1",
-		"Symbol": "jCAD-CADC LP"
-	},
-	{
-		"Id": "0x42Cbb13EC7b35AA76D5fE7B0A446fA7B64F7086A",
-		"Symbol": "MaticX-MATIC V2"
-	},
-	{
-		"Id": "0xaB4105375FbE5F502B0da986F46ADf7a21762e52",
-		"Symbol": "LINK-ETH LP"
-	},
-	{
-		"Id": "0xaA66e6EA1cAa7B86a8119B1420F6EdeDE3bb58f1",
-		"Symbol": "pWINGS-USDC LP"
-	},
-	{
-		"Id": "0x1D0Bc9771D989C9621ED6E271cA5f91C5F894016",
-		"Symbol": "newQUICK-USDC LP"
-	},
-	{
-		"Id": "0x6E1D1Eb4581E4C612240Ec603a243ce9AE3265E4",
-		"Symbol": "ETH2x-ETH SLP"
-	},
-	{
-		"Id": "0xefA25E8b9AC6E7f09EBf5b51816cDB2B3Abb53d5",
-		"Symbol": "SOLACE"
-	},
-	{
-		"Id": "0x0cFc878111e72e800ecA9E0B2a6358bcc15EB9FE",
-		"Symbol": "HONOR-USDC WLP"
-	},
-	{
-		"Id": "0xc24Cf5fA29E619f2D5ccbEC46F2295876c3722ff",
-		"Symbol": "ETH-MATIC ALP"
-	},
-	{
-		"Id": "0xaF34573353aBd160889889D52d7841B2bBCE7Cf9",
-		"Symbol": "QUICK-UNI LP"
-	},
-	{
-		"Id": "0x90A7289A3aAb4b070A2646DCa757025Ee84cF580",
-		"Symbol": "BCT-USDC SLP"
-	},
-	{
-		"Id": "0x47036A1ecC5D02e122Ae6604973ee1529E76e022",
-		"Symbol": "ETH-USDC LP"
-	},
-	{
-		"Id": "0x1A723371f9dc30653dafd826B60d9335bf867E35",
-		"Symbol": "newQUICK"
-	},
-	{
-		"Id": "0xe58604bF5B0bb2B0ec431470Db7C41573f9a18b4",
-		"Symbol": "ETH-USDC vLP"
-	},
-	{
-		"Id": "0x44AA75F5c68Ed51B97C117C86A0274b5514860a9",
-		"Symbol": "newQUICK-MATIC LP"
-	},
-	{
-		"Id": "0x259676497409B89Da5655468551685dFbec1EA57",
-		"Symbol": "CRV-DFYN LP"
-	},
-	{
-		"Id": "0x80dAd30b61b6110aB4112e440988DA2d9aa85329",
-		"Symbol": "jEUR/PAR/EURS/EURt"
-	},
-	{
-		"Id": "0xdb15F201529778b5e2dfa52D41615cd1AB24c765",
-		"Symbol": "pMATIC-MATIC LP"
-	},
-	{
-		"Id": "0x97fe99a9bc7db115EC89Bc2627eC7f0518409121",
-		"Symbol": "pWINGS-MATIC LP"
-	},
-	{
-		"Id": "0x93c9f29CF2496e73f3d8b07055e2359267207147",
-		"Symbol": "USDC-USDT LP"
-	},
-	{
-		"Id": "0xa2e51538fce9d2D8082988921be4C0afC3Fe089a",
-		"Symbol": "UST-USDT LP"
-	},
-	{
-		"Id": "0xEEc9a4Ecd1C0caB2Eb20081A10b8b0A07336dA14",
-		"Symbol": "SPADE-USDC LP"
-	},
-	{
-		"Id": "0x544551E4E7D7bDd1CfbD55F07e304F5C9fD514Dd",
-		"Symbol": "MATIC-WOOFY SLP"
-	},
-	{
-		"Id": "0xe62a0a25a0eCE622f795d5f1Be0F374485B64bf8",
-		"Symbol": "FXS-FRAX SLP"
-	},
-	{
-		"Id": "0xbea5D2Aed651F579fa3e7ADAA2eC51276B2ea420",
-		"Symbol": "YELD-MATIC QLP"
-	},
-	{
-		"Id": "0x1001844Cb9Bc3B89a60ce4f4773dBa3B27115230",
-		"Symbol": "BONE-USDC LP"
-	},
-	{
-		"Id": "0x5E7156F7c0B5E2005000C38beb38540ba9c283df",
-		"Symbol": "USDC-DAI LP"
-	},
-	{
-		"Id": "0x1d7A7182043F521ab57Fe07a8420Fee9843E365e",
-		"Symbol": "QI-QUICK LP"
-	},
-	{
-		"Id": "0x2e78D4Cc7e1dF9845B60A28980b28B3E9fc82fd1",
-		"Symbol": "jCHF-USDC LP"
-	},
-	{
-		"Id": "0x4a759386cacb60A714275F97AbA9b555d91001c9",
-		"Symbol": "WMATIC-DFYN LP"
-	},
-	{
-		"Id": "0xa6D7AbC6D051314eD22a98ED74E41278516d3bbd",
-		"Symbol": "YELD"
-	},
-	{
-		"Id": "0x0Ca850eEfE051ED244846A2939e218ec6D44a0b2",
-		"Symbol": "YELD-MATIC SLP"
-	},
-	{
-		"Id": "0xE695fCeD8fD93eeE54204a7fC33323a60d41865A",
-		"Symbol": "CRV-ETH LP"
-	},
-	{
-		"Id": "0xa5529E47C3086D93bB59aB99ca2B20d0Ee2EFcAe",
-		"Symbol": "DYST-MATIC vLP"
-	},
-	{
-		"Id": "0x48Fc8A7D72e5e54589F0B20928C98193c9133e70",
-		"Symbol": "BALL"
-	},
-	{
-		"Id": "0xdD32ca42a5bab4073D319BC26bb4e951e767Ba6E",
-		"Symbol": "LINK-QUICK LP"
-	},
-	{
-		"Id": "0x80fcA0946fb75724f5d84Dd49edC694062E3111C",
-		"Symbol": "UNI-ETH LP"
-	},
-	{
-		"Id": "0x8F1F1FB23A208041e1f4Bf4A3b4E165bcCA25Bbb",
-		"Symbol": "DAI-USDT LP"
-	},
-	{
-		"Id": "0x7f6fE34C51d5352A0CF375C0Fbe03bD19eCD8460",
-		"Symbol": "MUST-MATIC LP"
-	},
-	{
-		"Id": "0xE0570ddFca69E5E90d83Ea04bb33824D3BbE6a85",
-		"Symbol": "stMATIC-MATIC"
-	},
-	{
-		"Id": "0x831AF875102d934894D1aE29BDf13deA3729cAeA",
-		"Symbol": "LDO-MATIC LP"
-	},
-	{
-		"Id": "0x3532b6f723948eF39d5DCf44C16855239aF81082",
-		"Symbol": "USDC-MATIC vLP"
-	},
-	{
-		"Id": "0xE08d7B24E2D22B242dEA3DE85032261810F35B09",
-		"Symbol": "LITHIUM"
-	},
-	{
-		"Id": "0xddD5F39d044Dbaeef7b348cf04C3628acd3F1D8f",
-		"Symbol": "FRAX-FXS SLP"
-	},
-	{
-		"Id": "0xf3Eac1e5A81A732b002691E1f96cE5A43BfBb929",
-		"Symbol": "agEUR-4EUR"
-	},
-	{
-		"Id": "0x75424BE5378621AeC2eEF25965f40FeB59039B52",
-		"Symbol": "USDC-DAI SLP"
-	},
-	{
-		"Id": "0x16B6BFE58deDF2934C6E9BE1D0cBEcaafc2C686d",
-		"Symbol": "UNI-DFYN LP"
-	},
-	{
-		"Id": "0xB6B89a05ad8228b98d0D8a77e1a695c54500db3b",
-		"Symbol": "USDC-USDT LP"
-	},
-	{
-		"Id": "0x76F0e4a08c1e85d020dfD7C66B991ecd4A7551AF",
-		"Symbol": "BTC-MATIC ALP"
-	},
-	{
-		"Id": "0xF79BF908d0e6d8E7054375CD80dD33424B1980bf",
-		"Symbol": "stMATIC-MATIC V2"
-	},
-	{
-		"Id": "0x6b6ca47520dDC9333B8bD09a1e64204648B63274",
-		"Symbol": "ETH-DAI LP"
-	},
-	{
-		"Id": "0x55eebAd2b295d5229cf853368c9307e48B9CD955",
-		"Symbol": "ETH-WBTC LP"
-	},
-	{
-		"Id": "0x77276a7c9Ff3a6cbD334524d6F1f6219D039ac0E",
-		"Symbol": "ETH"
-	},
-	{
-		"Id": "0x442ca31De7E6732455e60e3641Ac076fa7a0905f",
-		"Symbol": "FRAX-QUICK LP"
-	},
-	{
-		"Id": "0xbfd1a5525C47c229B9c0D82ca4B6567F9f74a3cC",
-		"Symbol": "BNB-USDC LP"
-	},
-	{
-		"Id": "0xe3BfD4259778596747C9BA75f259Eab0BbD9Cb08",
-		"Symbol": "USD+-USDC sLP"
-	},
-	{
-		"Id": "0x4A041eD4dda1cf460D557E1bdCBf0b29c02A1b3c",
-		"Symbol": "jEUR-USDC LP"
-	},
-	{
-		"Id": "0xba1548b3f673950094dc00eDc1eB71683f371696",
-		"Symbol": "NEXO-ETH LP"
-	},
-	{
-		"Id": "0xC8e3dee8d07C06568D62fcDBBD1bFA8c7fb9ae17",
-		"Symbol": "SAGE-MATIC LP"
-	},
-	{
-		"Id": "0x8a198BCbF313A5565c64A7Ed61FaA413eB4E0931",
-		"Symbol": "USDC-MUST LP"
-	},
-	{
-		"Id": "0x5E55f1f68c3a708C1A47a6FCFd6D0ADaEf7380d7",
-		"Symbol": "GNS-DAI LP"
-	},
-	{
-		"Id": "0x6720C2b7fd7dE1CAD3242dd3E8a86d033D4ed3f9",
-		"Symbol": "jNZD-NZDS LP"
-	},
-	{
-		"Id": "0x8440DAe4E1002e83D57fbFD6d33E6F3684a35036",
-		"Symbol": "USDC-DAI ALP"
-	},
-	{
-		"Id": "0x4462817b53E76b722c2D174D0148ddb81452f1dE",
-		"Symbol": "USDC-USDT LP"
-	},
-	{
-		"Id": "0xb2A56dFdbC890c102Dcd5e30afcfB43cD3343762",
-		"Symbol": "WATCH-MATIC LP"
-	},
-	{
-		"Id": "0xe4b3CCbB1E48c579Ea3D764Fb258Bc908e46487E",
-		"Symbol": "AAVE"
-	},
-	{
-		"Id": "0x19AfD39F0f8A2deeD37Ed74F6a126b68432D4bc7",
-		"Symbol": "BCT-KLIMA SLP"
-	},
-	{
-		"Id": "0x191E0b3B023fd8911c1D7632086A46C0D2dB39ed",
-		"Symbol": "DEFI5-QUICK LP"
-	},
-	{
-		"Id": "0xAbA81D550C326DFf2cE0D31bC7Aa6289d576591E",
-		"Symbol": "VISION-ETH LP"
-	},
-	{
-		"Id": "0x6F6bbbCA49b4b2cE0E27eb0156977048AC3434B9",
-		"Symbol": "CC10-ETH LP"
-	},
-	{
-		"Id": "0x7CE2332fAF6328986C75e3A8fCc1CB79621aeB1F",
-		"Symbol": "MUST-ETH LP"
-	},
-	{
-		"Id": "0x7141424d50A9AB5CEDE7c979C6128Ce069A8bE1c",
-		"Symbol": "METIS-MATIC LP"
-	},
-	{
-		"Id": "0xA1B2Ef1b6D5823D832DDa2AE2B489793832Fd082",
-		"Symbol": "WEXpoly-WBTC LP"
-	},
-	{
-		"Id": "0x0BeCc1ff5f13b00A77cA359d0a15a0989766380E",
-		"Symbol": "YAMP-QUICK LP"
-	},
-	{
-		"Id": "0x91a55E4b057119e20334258f7C5EAB8822491CEb",
-		"Symbol": "WBTC-USDC LP"
-	},
-	{
-		"Id": "0x383489a0A5deA3f1499c638e0258F7e6a68a253f",
-		"Symbol": "DOKI-ETH LP"
-	},
-	{
-		"Id": "0xD8f5095Fd7E27D4aD12008d5eb09105bFFd1572c",
-		"Symbol": "HONOR-USDC QLP"
-	},
-	{
-		"Id": "0x1a83915207c9028a9f71e7D9Acf41eD2beB6f42D",
-		"Symbol": "DPI-ETH LP"
-	},
-	{
-		"Id": "0xe9CAf4DfeaB51114a619C8104C38a309ccA236E1",
-		"Symbol": "BONE-MATIC LP"
-	},
-	{
-		"Id": "0x4D42bD06425179e53498D364427Af4Bf50d27658",
-		"Symbol": "PUP-ETH QLP"
-	},
-	{
-		"Id": "0xfa6C93288250c67Ca620Efb096e9D23C8ECc587D",
-		"Symbol": "IXT-USDT LP"
-	},
-	{
-		"Id": "0xDBFf95e99FccC8fbd90648B9E42C0F152518b9B8",
-		"Symbol": "beQI"
-	},
-	{
-		"Id": "0x23Ee6ED971ae7731F53913D9f8a45C7C1af3D6D5",
-		"Symbol": "LINK-ETH LP"
-	},
-	{
-		"Id": "0xE8417099971151CD5CfAE264e25634Fac05cA2b3",
-		"Symbol": "ETH-USDT LP"
-	},
-	{
-		"Id": "0x3404361876897A92579DcEBd9eDC94A1662dC4aF",
-		"Symbol": "AXS-ETH SLP"
-	},
-	{
-		"Id": "0x82303a4b2c821204A84AB2a068eC8EDf3Bc23061",
-		"Symbol": "mOCEAN-MATIC LP"
-	},
-	{
-		"Id": "0x399b1Be0f15530D72C3649c6dEf8ca59532C9f7B",
-		"Symbol": "NEAR-MATIC LP"
-	},
-	{
-		"Id": "0x9F4316c10D5c3f148F072F6fa7E81413b7Da11a7",
-		"Symbol": "PAE-MATIC LP"
-	},
-	{
-		"Id": "0x499746428D8062AA9e762DeB83d419110FB5E3AF",
-		"Symbol": "ONE-MATIC LP"
-	},
-	{
-		"Id": "0x2F4BBA9fC4F77F16829F84181eB7C8b50F639F95",
-		"Symbol": "USDC LP"
-	},
-	{
-		"Id": "0x700504eaBA64Cd92080059a3C93b6baa73a4Ec38",
-		"Symbol": "pBREW-MATIC LP"
-	},
-	{
-		"Id": "0xf62c521c4fb3Fbc20EaB50E1871A90A53632f22e",
-		"Symbol": "MAI-USDC LP"
-	},
-	{
-		"Id": "0x72B5Cf05770C9a6A99FB8652825884ee36a4BfdA",
-		"Symbol": "SHIB-MATIC LP"
-	},
-	{
-		"Id": "0x3AD9cd8d75f7a711Caea58e725425A9dC0D249c4",
-		"Symbol": "SNX-ETH SLP"
-	},
-	{
-		"Id": "0x9DA4048550C1a73686E594f726310F0b0585fBA3",
-		"Symbol": "DAI-ETH LP"
-	},
-	{
-		"Id": "0xD239D193809b04fD24CB0Cd56A99A3F9dB069C9d",
-		"Symbol": "UFT-DFYN LP"
-	},
-	{
-		"Id": "0xB198A916123394f2d9c31D4645468566e87080d5",
-		"Symbol": "ICE-DFYN LP"
-	},
-	{
-		"Id": "0xC10ac3fe9b11ff6763F9f1dE3c1C00267974553B",
-		"Symbol": "BALL-MATIC QLP"
-	},
-	{
-		"Id": "0x659418cc3cf755F5367a51aDb586a7F770Da6d29",
-		"Symbol": "QUICK"
-	},
-	{
-		"Id": "0x6C433f102A6b8582a43222e335C73873538161b7",
-		"Symbol": "BONE-MATIC QLP"
-	},
-	{
-		"Id": "0xe95d14D09a8F6034C582bd993A2F2aA8ecEC72f0",
-		"Symbol": "AZUKI-ETH LP"
-	},
-	{
-		"Id": "0x6d486dD56e2191E87c275722FBADA1aADa2F2Aff",
-		"Symbol": "renDGB-QUICK LP"
-	},
-	{
-		"Id": "0xf49cB3B72d170407AeD7ED5B34d6e7bbE58Ac917",
-		"Symbol": "gOHM-ETH SLP"
-	},
-	{
-		"Id": "0x6888f67662d1f442C4428129e0Bdb27a275e0a65",
-		"Symbol": "BNB-MATIC ALP"
-	},
-	{
-		"Id": "0xebe0c8d842AA5A57D7BEf8e524dEabA676F91cD1",
-		"Symbol": "MAI-USDC LP"
-	},
-	{
-		"Id": "0x2b17aD11c5e9553c79a18F33Df4dE565eF0ad5b0",
-		"Symbol": "rUSD-USDC LP"
-	},
-	{
-		"Id": "0x5675d63494EDDa594727033864F1bca375736191",
-		"Symbol": "DELIRIUM-MATIC LP"
-	},
-	{
-		"Id": "0xc4cC677bb8b7E6EEA6409Ee2af9F434BAB004192",
-		"Symbol": "AAVE-ETH LP"
-	},
-	{
-		"Id": "0x955EAC48a81D8a8A312884A022D806015E901CDE",
-		"Symbol": "USDC-WUSD LP"
-	},
-	{
-		"Id": "0x8efCf419813F9E018cCaCda36151e5079c274fa4",
-		"Symbol": "GRT-ETH SLP"
-	},
-	{
-		"Id": "0xd73AEF83c08264C5600C3a17f009B6f8c0226221",
-		"Symbol": "YELD-MATIC ALP"
-	},
-	{
-		"Id": "0x5B19A2e8E5878cF2b1E9b1AC7CEA50346671B2Fc",
-		"Symbol": "FRAX-USDC SLP"
-	},
-	{
-		"Id": "0xD35B3733c2ceaf3635bE246B2c6C42f10e5b6B78",
-		"Symbol": "ibBTC-WBTC SLP"
-	},
-	{
-		"Id": "0xC422261EdC5dB679CAd9BC403e886351De540e77",
-		"Symbol": "ETH-USDT LP"
-	},
-	{
-		"Id": "0xCB171DF46CA6FF7AfEF6c4935128204435E4F05C",
-		"Symbol": "MATIC-ETH LP"
-	},
-	{
-		"Id": "0xDC52e53f9E8b2cf42b557A6b3cE36e79De39ACd6",
-		"Symbol": "TEL-ETH QLP"
-	},
-	{
-		"Id": "0xD6eB31D849eE79B5F5fA1b7c470cDDFa515965cD",
-		"Symbol": "MAI-MATIC LP"
-	},
-	{
-		"Id": "0x6a195660472a51f267230c3324F86055D2A8B1E2",
-		"Symbol": "DINO-USDC LP"
-	},
-	{
-		"Id": "0x942aa6324E5D0C102d3Ad6607495ac5e798a991a",
-		"Symbol": "UBT-ETH LP"
-	},
-	{
-		"Id": "0x53e674D5cC969930420d73E4b79Ee0D46cCdf6c4",
-		"Symbol": "DEFI5-ETH LP"
-	},
-	{
-		"Id": "0x3e9C032052e774B85CbF5f1D6382be06144e1Bac",
-		"Symbol": "PEAR-USDC LP"
-	},
-	{
-		"Id": "0xbf62ed5ffa6d1422592BC746769293eEBc52dd9e",
-		"Symbol": "USDC/LINK/ETH/BAL/AAVE"
-	},
-	{
-		"Id": "0x8Ce906F6f383c31b09B1D2A5f2c9f480b87ceb58",
-		"Symbol": "BONE-USDC QLP"
-	},
-	{
-		"Id": "0xF7A5eC9168B4C5688b3ad599Aa5c8E1922fEacAE",
-		"Symbol": "DEGEN-ETH LP"
-	},
-	{
-		"Id": "0x653B205f0ceB4dF38DBFBfEAcaacC2003C553883",
-		"Symbol": "LUNA-DFYN LP"
-	},
-	{
-		"Id": "0xeD7148949c2dC8AA59A5aD8658eF347Bd7387fA8",
-		"Symbol": "QUICK-USDC LP"
-	},
-	{
-		"Id": "0x90D0F2050e62a6d4AF088dD09d802D9A18253c40",
-		"Symbol": "ICE-ETH LP"
-	},
-	{
-		"Id": "0x9456B29cb8E40962DbCbe7b2474Ae2028D8c4651",
-		"Symbol": "USDC-TEL LP"
-	},
-	{
-		"Id": "0x21bA98fCb000dFeD8eC3B94cB41BeA51A601A94c",
-		"Symbol": "BIFI-ETH LP"
-	},
-	{
-		"Id": "0x8Fa291074B9E28055fFdBCd4C1C1Dad67B9a130A",
-		"Symbol": "BONE"
-	},
-	{
-		"Id": "0xf26607237355D7c6183ea66EC908729E9c6eEB6b",
-		"Symbol": "WBTC-ETH LP"
-	},
-	{
-		"Id": "0xbC94bDb5393CBABF9B319E892abC95B93B5949A8",
-		"Symbol": "MAI-FRAX sLP"
-	},
-	{
 		"Id": "0x0b568c995aCDb8a78570220F104c256f9075A4b6",
 		"Symbol": "TOMB-MAI LP"
-	},
-	{
-		"Id": "0x07628d57b68E3ec227496740820A6fDa1b0DD0d8",
-		"Symbol": "SPADE-MATIC LP"
-	},
-	{
-		"Id": "0x5A0801BAd20B6c62d86C566ca90688A6b9ea1d3f",
-		"Symbol": "aTriCrypto3"
-	},
-	{
-		"Id": "0xEaa2Ce6351d803456235809D82357ED8D23E8502",
-		"Symbol": "BICO-ETH LP"
-	},
-	{
-		"Id": "0x727555858111Bf77027710c19bc4a4B35b38727E",
-		"Symbol": "USD+-stMATIC vLP"
-	},
-	{
-		"Id": "0x5F1b5714f30bAaC4Cb1ee95E1d0cF6d5694c2204",
-		"Symbol": "agEUR-jEUR LP"
-	},
-	{
-		"Id": "0x58a3e6d5501180fb9fcE7cFC2368F9Dc5e186A6f",
-		"Symbol": "jEUR-EURe LP"
-	},
-	{
-		"Id": "0x66b3d910c30f2305EA0078E06DF65e0c1745ceF0",
-		"Symbol": "BIFI-MUST LP"
-	},
-	{
-		"Id": "0x2D4cf116A59e24Dd0aB8821c93AE87658a9483b6",
-		"Symbol": "FFF-QUICK LP"
-	},
-	{
-		"Id": "0x1bCe9A53f3f71DD6B6551712a622E891cf05F477",
-		"Symbol": "BALL-USDC QLP"
-	},
-	{
-		"Id": "0xadfff816820B0f5C7255373DAca83489367bEB43",
-		"Symbol": "SING-USDC LP"
-	},
-	{
-		"Id": "0x944A5C12cD4399ABC6883fF1ba40A14c23B2Fd37",
-		"Symbol": "QI-MATIC LP"
-	},
-	{
-		"Id": "0xfdE69969f4527343D78F9C9AC797ded29098B215",
-		"Symbol": "JRT-ETH SLP"
-	},
-	{
-		"Id": "0x0564889d4Ff0dA0371Ec8a898AC39ABC99065BfA",
-		"Symbol": "ICE-USDC LP"
-	},
-	{
-		"Id": "0x03F69AAF4c8512f533Da46cC9eFd49C4969e3CB8",
-		"Symbol": "BIFI-USDC SLP"
 	},
 	{
 		"Id": "0xD3395577febc6AdaB25490a69955ebC47040766C",
 		"Symbol": "WBTC"
 	},
 	{
+		"Id": "0x53e674D5cC969930420d73E4b79Ee0D46cCdf6c4",
+		"Symbol": "DEFI5-ETH LP"
+	},
+	{
+		"Id": "0x9F4316c10D5c3f148F072F6fa7E81413b7Da11a7",
+		"Symbol": "PAE-MATIC LP"
+	},
+	{
+		"Id": "0xd7C196571068EC51b86F378eF19387E6f3885748",
+		"Symbol": "pBREW-USDC LP"
+	},
+	{
+		"Id": "0x499746428D8062AA9e762DeB83d419110FB5E3AF",
+		"Symbol": "ONE-MATIC LP"
+	},
+	{
+		"Id": "0x955EAC48a81D8a8A312884A022D806015E901CDE",
+		"Symbol": "USDC-WUSD LP"
+	},
+	{
+		"Id": "0x6C433f102A6b8582a43222e335C73873538161b7",
+		"Symbol": "BONE-MATIC QLP"
+	},
+	{
+		"Id": "0x9B36ECeaC46B70ACfB7C2D6F3FD51aEa87C31018",
+		"Symbol": "DAI"
+	},
+	{
+		"Id": "0x2b17aD11c5e9553c79a18F33Df4dE565eF0ad5b0",
+		"Symbol": "rUSD-USDC LP"
+	},
+	{
+		"Id": "0x3a3a9784Af130d692E19A3f1C1b13eF44301D0f7",
+		"Symbol": "DAI-ETH LP"
+	},
+	{
+		"Id": "0xA4fB94990f99A8C1290e83d40DB9C648fD868D14",
+		"Symbol": "ETH-FIL SLP"
+	},
+	{
+		"Id": "0x15FC2BA59956564b39Eba06DCd6a37F4476f1eD5",
+		"Symbol": "GIDDY-USDC LP"
+	},
+	{
+		"Id": "0x1A723371f9dc30653dafd826B60d9335bf867E35",
+		"Symbol": "newQUICK"
+	},
+	{
+		"Id": "0x756866Bd84A2441664e80367977357b1F9b5F3D3",
+		"Symbol": "GHST-MATIC SLP"
+	},
+	{
+		"Id": "0xdD32ca42a5bab4073D319BC26bb4e951e767Ba6E",
+		"Symbol": "LINK-QUICK LP"
+	},
+	{
+		"Id": "0xbfd1a5525C47c229B9c0D82ca4B6567F9f74a3cC",
+		"Symbol": "BNB-USDC LP"
+	},
+	{
+		"Id": "0x1D0Bc9771D989C9621ED6E271cA5f91C5F894016",
+		"Symbol": "newQUICK-USDC LP"
+	},
+	{
+		"Id": "0x5d4B83B3011B1E14e55185c5D432987e76f6DE3C",
+		"Symbol": "USDC-ETH LP"
+	},
+	{
+		"Id": "0x21280954C4F99747757076A0cC56ba594037075d",
+		"Symbol": "USTw-MATIC LP"
+	},
+	{
+		"Id": "0xaB4105375FbE5F502B0da986F46ADf7a21762e52",
+		"Symbol": "LINK-ETH LP"
+	},
+	{
+		"Id": "0x1081062Aa050AFDBC3D669A24856a6fD23C536Fc",
+		"Symbol": "GUARD-USDC LP"
+	},
+	{
+		"Id": "0x23Ee6ED971ae7731F53913D9f8a45C7C1af3D6D5",
+		"Symbol": "LINK-ETH LP"
+	},
+	{
+		"Id": "0x191E0b3B023fd8911c1D7632086A46C0D2dB39ed",
+		"Symbol": "DEFI5-QUICK LP"
+	},
+	{
+		"Id": "0xF10c108670b137Ae78C5705C84A6D00a9DD005a2",
+		"Symbol": "jGBP-USDC LP"
+	},
+	{
+		"Id": "0x66b3d910c30f2305EA0078E06DF65e0c1745ceF0",
+		"Symbol": "BIFI-MUST LP"
+	},
+	{
+		"Id": "0xBA4FA9A5e1e573fA5267970238af5Edf40727315",
+		"Symbol": "PZAP-USDC LP"
+	},
+	{
+		"Id": "0xc58475e5385b056D29ab455F40634450a613e789",
+		"Symbol": "USDC-WEXpoly LP"
+	},
+	{
+		"Id": "0x442ca31De7E6732455e60e3641Ac076fa7a0905f",
+		"Symbol": "FRAX-QUICK LP"
+	},
+	{
+		"Id": "0x2AaB02eDE64d4A686EA1d1A70B688E46cce50fFd",
+		"Symbol": "TEL-MATIC QLP"
+	},
+	{
+		"Id": "0xE08d7B24E2D22B242dEA3DE85032261810F35B09",
+		"Symbol": "LITHIUM"
+	},
+	{
+		"Id": "0xe4b3CCbB1E48c579Ea3D764Fb258Bc908e46487E",
+		"Symbol": "AAVE"
+	},
+	{
+		"Id": "0x8c864B1FD2BbB20F614661ddD992eFaeEeF0b2Ac",
+		"Symbol": "QI-ETH LP"
+	},
+	{
+		"Id": "0xc10C75247f503cc7B7496D72a6F3C443adDB7110",
+		"Symbol": "GIDDY"
+	},
+	{
+		"Id": "0x87F322dD9c327B4F91A7D620EE6ED7FA883Af62f",
+		"Symbol": "cxDOGE-cxETH LP"
+	},
+	{
+		"Id": "0x1A90Ea15e00a6c647478e86e3A3DB1aC1eB23cE5",
+		"Symbol": "pBNB-QUICK QLP"
+	},
+	{
+		"Id": "0xa5aaE3a55cA356C62b5425AA4bFC212542B17777",
+		"Symbol": "ETH-MATIC LP"
+	},
+	{
+		"Id": "0xba61Ae734e5348e83A75599Bc5a64CB6aAdC0247",
+		"Symbol": "FUSE-ETH LP"
+	},
+	{
+		"Id": "0x9F94558306D37F23a85ac95fDcCee7551C086b34",
+		"Symbol": "IRON/USDC/USDT/DAI"
+	},
+	{
+		"Id": "0x18DAdac6d0AAF37BaAAC811F6338427B46815a81",
+		"Symbol": "jSGD-XSGD LP"
+	},
+	{
+		"Id": "0xE695fCeD8fD93eeE54204a7fC33323a60d41865A",
+		"Symbol": "CRV-ETH LP"
+	},
+	{
+		"Id": "0xa1E625D1e3b44468EB2a35d39d95f724c70ecd41",
+		"Symbol": "ALPHA-MATIC LP"
+	},
+	{
+		"Id": "0x5027da71EA7679775C3870A508cB1CdEFDbECa25",
+		"Symbol": "ETH-cxETH LP"
+	},
+	{
+		"Id": "0xf62c521c4fb3Fbc20EaB50E1871A90A53632f22e",
+		"Symbol": "MAI-USDC LP"
+	},
+	{
+		"Id": "0x97fe99a9bc7db115EC89Bc2627eC7f0518409121",
+		"Symbol": "pWINGS-MATIC LP"
+	},
+	{
+		"Id": "0xA1B2Ef1b6D5823D832DDa2AE2B489793832Fd082",
+		"Symbol": "WEXpoly-WBTC LP"
+	},
+	{
+		"Id": "0x9DA4048550C1a73686E594f726310F0b0585fBA3",
+		"Symbol": "DAI-ETH LP"
+	},
+	{
+		"Id": "0x970283Df294f9cedD2187bf84782AB75617Be31c",
+		"Symbol": "SX-DFYN LP"
+	},
+	{
 		"Id": "0x1BE356364a1e849af2F7a513Fc46dAB6063Db485",
 		"Symbol": "MATIC-USDT ALP"
 	},
 	{
-		"Id": "0xAA7C2879DaF8034722A0977f13c343aF0883E92e",
-		"Symbol": "DAI/USDC/USDT"
+		"Id": "0x58C55B5675B106b440635E2c550A771f4E256D35",
+		"Symbol": "USDC-USDT LP"
+	},
+	{
+		"Id": "0xaE65a66B3c7f8cc1ba71cEA740C953aBa0F3Ce8b",
+		"Symbol": "LINK-ETH LP"
+	},
+	{
+		"Id": "0xe3B5a0d5dFDCD6dE7e22a5c2B6b957aB76d2A085",
+		"Symbol": "WEXpoly-USDC LP"
+	},
+	{
+		"Id": "0x21bA98fCb000dFeD8eC3B94cB41BeA51A601A94c",
+		"Symbol": "BIFI-ETH LP"
+	},
+	{
+		"Id": "0xD239D193809b04fD24CB0Cd56A99A3F9dB069C9d",
+		"Symbol": "UFT-DFYN LP"
+	},
+	{
+		"Id": "0x1A1432b90a093CbFFeCb44cf6965e2fd11005373",
+		"Symbol": "WEXpoly"
+	},
+	{
+		"Id": "0xBa58D7131Ca50DdFB458f37ea0De6fdcebFe836B",
+		"Symbol": "TEL-AAVE QLP"
+	},
+	{
+		"Id": "0xE8417099971151CD5CfAE264e25634Fac05cA2b3",
+		"Symbol": "ETH-USDT LP"
+	},
+	{
+		"Id": "0x8FA93b7F89b5F563F20720EEa27A35d395D474F9",
+		"Symbol": "MATIC/USDC/ETH/BAL"
+	},
+	{
+		"Id": "0x0Ca850eEfE051ED244846A2939e218ec6D44a0b2",
+		"Symbol": "YELD-MATIC SLP"
+	},
+	{
+		"Id": "0x5E55f1f68c3a708C1A47a6FCFd6D0ADaEf7380d7",
+		"Symbol": "GNS-DAI LP"
+	},
+	{
+		"Id": "0x0C4705EBd2BF69660b72f9E9B684714c9e341942",
+		"Symbol": "USDC/USDT/DAI"
+	},
+	{
+		"Id": "0x0BeCc1ff5f13b00A77cA359d0a15a0989766380E",
+		"Symbol": "YAMP-QUICK LP"
+	},
+	{
+		"Id": "0x5675d63494EDDa594727033864F1bca375736191",
+		"Symbol": "DELIRIUM-MATIC LP"
+	},
+	{
+		"Id": "0x944A5C12cD4399ABC6883fF1ba40A14c23B2Fd37",
+		"Symbol": "QI-MATIC LP"
+	},
+	{
+		"Id": "0x866a910F3375d0dEBDdD904A36B3940aFcD29900",
+		"Symbol": "AAVE-ETH LP"
+	},
+	{
+		"Id": "0x831AF875102d934894D1aE29BDf13deA3729cAeA",
+		"Symbol": "LDO-MATIC LP"
+	},
+	{
+		"Id": "0xdf4E615e05713f9Be712bb999B3190Fd238bb77A",
+		"Symbol": "POLYDOGE-MATIC LP"
+	},
+	{
+		"Id": "0x8829ADf1a9a7facE44c8FAb3Bc454f93F330E492",
+		"Symbol": "stMATIC-MATIC LP"
+	},
+	{
+		"Id": "0xa6D7AbC6D051314eD22a98ED74E41278516d3bbd",
+		"Symbol": "YELD"
+	},
+	{
+		"Id": "0x3e9C032052e774B85CbF5f1D6382be06144e1Bac",
+		"Symbol": "PEAR-USDC LP"
+	},
+	{
+		"Id": "0xE4DB97A2AAFbfef40D1a4AE8B709f61d6756F8e1",
+		"Symbol": "USDC-ETH LP"
+	},
+	{
+		"Id": "0xDC52e53f9E8b2cf42b557A6b3cE36e79De39ACd6",
+		"Symbol": "TEL-ETH QLP"
+	},
+	{
+		"Id": "0x659418cc3cf755F5367a51aDb586a7F770Da6d29",
+		"Symbol": "QUICK"
+	},
+	{
+		"Id": "0xe032ad802585f79c004E8A4c225a645058F37583",
+		"Symbol": "CEL-MATIC LP"
+	},
+	{
+		"Id": "0xEEc9a4Ecd1C0caB2Eb20081A10b8b0A07336dA14",
+		"Symbol": "SPADE-USDC LP"
+	},
+	{
+		"Id": "0x5E7156F7c0B5E2005000C38beb38540ba9c283df",
+		"Symbol": "USDC-DAI LP"
+	},
+	{
+		"Id": "0x80dAd30b61b6110aB4112e440988DA2d9aa85329",
+		"Symbol": "jEUR/PAR/EURS/EURt"
 	},
 	{
 		"Id": "0xb74792F6a2cF81E3f704930621cb4832ffFcC840",
 		"Symbol": "TEL-BTC QLP"
 	},
 	{
-		"Id": "0x37884333d34eeE3EAe83439CE4608E69E7081116",
-		"Symbol": "PUP-MATIC QLP"
+		"Id": "0x8efCf419813F9E018cCaCda36151e5079c274fa4",
+		"Symbol": "GRT-ETH SLP"
+	},
+	{
+		"Id": "0x94F64bb5046Ee377bFBb664736547B7f78e5AE06",
+		"Symbol": "jJPY-JPYC"
+	},
+	{
+		"Id": "0x64fbCDfd1335AfdC8f81383919483c593399c738",
+		"Symbol": "MAI-DAI LP"
+	},
+	{
+		"Id": "0xa2Dd60Fb8Bbf21e60E58AF97Cfc9dB9A34397848",
+		"Symbol": "QI-MAI LP"
+	},
+	{
+		"Id": "0xC1A2e8274D390b67A7136708203D71BF3877f158",
+		"Symbol": "MATIC-USDC LP"
+	},
+	{
+		"Id": "0x4cE9E554a62672Fc9Ceecb26ce48B742b75D4658",
+		"Symbol": "USDC-USDT LP"
+	},
+	{
+		"Id": "0x399b1Be0f15530D72C3649c6dEf8ca59532C9f7B",
+		"Symbol": "NEAR-MATIC LP"
+	},
+	{
+		"Id": "0x48Fc8A7D72e5e54589F0B20928C98193c9133e70",
+		"Symbol": "BALL"
+	},
+	{
+		"Id": "0x93c9f29CF2496e73f3d8b07055e2359267207147",
+		"Symbol": "USDC-USDT LP"
+	},
+	{
+		"Id": "0xbC94bDb5393CBABF9B319E892abC95B93B5949A8",
+		"Symbol": "MAI-FRAX sLP"
+	},
+	{
+		"Id": "0x5c7fd860fC0072cFef2Cc4aB17CC7fF25B639d8b",
+		"Symbol": "WBTC-USDC LP"
+	},
+	{
+		"Id": "0x8802fbcb669c7BbcC3989455B3FdBF9235176bD4",
+		"Symbol": "SOL-MATIC LP"
+	},
+	{
+		"Id": "0xCC2755476B0573F0ee0D5a754Bb6fE720c3641Bb",
+		"Symbol": "BIFI-QUICK LP"
+	},
+	{
+		"Id": "0x15D0841956242105aE614763E3fbDc60112E23a9",
+		"Symbol": "WISE-USDC LP"
+	},
+	{
+		"Id": "0x3532b6f723948eF39d5DCf44C16855239aF81082",
+		"Symbol": "USDC-MATIC vLP"
+	},
+	{
+		"Id": "0xe58604bF5B0bb2B0ec431470Db7C41573f9a18b4",
+		"Symbol": "ETH-USDC vLP"
+	},
+	{
+		"Id": "0xefA25E8b9AC6E7f09EBf5b51816cDB2B3Abb53d5",
+		"Symbol": "SOLACE"
+	},
+	{
+		"Id": "0x942aa6324E5D0C102d3Ad6607495ac5e798a991a",
+		"Symbol": "UBT-ETH LP"
+	},
+	{
+		"Id": "0xe9CAf4DfeaB51114a619C8104C38a309ccA236E1",
+		"Symbol": "BONE-MATIC LP"
+	},
+	{
+		"Id": "0x77DD1813f99059a65cF863f0C53E5C6Db7149499",
+		"Symbol": "TUSD-USDC LP"
+	},
+	{
+		"Id": "0x2Fa3A4671b977a8f0c16334e4CF16EA91F22db75",
+		"Symbol": "xYELD"
+	},
+	{
+		"Id": "0x2849095eE44eCd5f60Ed04f94e5BB45623A8e75a",
+		"Symbol": "ANY-QUICK LP"
+	},
+	{
+		"Id": "0x4462817b53E76b722c2D174D0148ddb81452f1dE",
+		"Symbol": "USDC-USDT LP"
+	},
+	{
+		"Id": "0xB215bFd4821C71914F92093cae527FD355CE268F",
+		"Symbol": "YELD-MATIC QLP"
+	},
+	{
+		"Id": "0x5F1b5714f30bAaC4Cb1ee95E1d0cF6d5694c2204",
+		"Symbol": "agEUR-jEUR LP"
+	},
+	{
+		"Id": "0x5A0801BAd20B6c62d86C566ca90688A6b9ea1d3f",
+		"Symbol": "aTriCrypto3"
+	},
+	{
+		"Id": "0xaF34573353aBd160889889D52d7841B2bBCE7Cf9",
+		"Symbol": "QUICK-UNI LP"
+	},
+	{
+		"Id": "0x6EfBc871323148d9Fc34226594e90d9Ce2de3da3",
+		"Symbol": "WCRO-MATIC LP"
+	},
+	{
+		"Id": "0x07628d57b68E3ec227496740820A6fDa1b0DD0d8",
+		"Symbol": "SPADE-MATIC LP"
+	},
+	{
+		"Id": "0x0A9e464D6939D37a78d7B2a32e8B8F75f15c3C25",
+		"Symbol": "KIRO-MATIC LP"
+	},
+	{
+		"Id": "0xe62a0a25a0eCE622f795d5f1Be0F374485B64bf8",
+		"Symbol": "FXS-FRAX SLP"
+	},
+	{
+		"Id": "0xcf9Dd1de1D02158B3d422779bd5184032674A6D1",
+		"Symbol": "jCAD-CADC LP"
+	},
+	{
+		"Id": "0x0e229c6381f00F4be47a9529CBDde18016dD9369",
+		"Symbol": "polyBUNNY-QUICK LP"
+	},
+	{
+		"Id": "0xd73AEF83c08264C5600C3a17f009B6f8c0226221",
+		"Symbol": "YELD-MATIC ALP"
+	},
+	{
+		"Id": "0x8a198BCbF313A5565c64A7Ed61FaA413eB4E0931",
+		"Symbol": "USDC-MUST LP"
+	},
+	{
+		"Id": "0xc24Cf5fA29E619f2D5ccbEC46F2295876c3722ff",
+		"Symbol": "ETH-MATIC ALP"
+	},
+	{
+		"Id": "0xE71f3C11D4535a7F8c5FB03FDA57899B2C9c721F",
+		"Symbol": "USDC"
+	},
+	{
+		"Id": "0x19AfD39F0f8A2deeD37Ed74F6a126b68432D4bc7",
+		"Symbol": "BCT-KLIMA SLP"
+	},
+	{
+		"Id": "0x26B7d2fe697e932907175A3920B5dC2C2e2440A4",
+		"Symbol": "jEUR-EURt LP"
+	},
+	{
+		"Id": "0xa2A2A464E4c59cA64F9FC85DF96b3C604EAf2d66",
+		"Symbol": "CLAM-MAI LP"
+	},
+	{
+		"Id": "0x18a20abeba0086ac0c564B2bA3a7BaF18568667D",
+		"Symbol": "ETH-MANA LP"
+	},
+	{
+		"Id": "0x48e58c7E8d2063ae7ADe8a0829E00780155232eC",
+		"Symbol": "FTM-MATIC LP"
+	},
+	{
+		"Id": "0x764B2aAcfDE7e33888566a6d44005Dc982F02031",
+		"Symbol": "AVAX-MATIC LP"
+	},
+	{
+		"Id": "0xa83171B123a18303c5aed8F5D20AeA6CfdF76Bc6",
+		"Symbol": "BIFI-MATIC vLP"
+	},
+	{
+		"Id": "0x9CE8a8F957f8f9Dfa787B130200dA749913Ed967",
+		"Symbol": "WISE-MATIC LP"
+	},
+	{
+		"Id": "0x727555858111Bf77027710c19bc4a4B35b38727E",
+		"Symbol": "USD+-stMATIC vLP"
+	},
+	{
+		"Id": "0xda3E3ee01Ee7284e3D0d900Ca3fb3D09484E1ce0",
+		"Symbol": "TEL-QUICK QLP"
+	},
+	{
+		"Id": "0x643DD1f9D43B210c4BA2648145757480cB664175",
+		"Symbol": "ETH-MATIC vLP"
+	},
+	{
+		"Id": "0x8e3e85c7d4A616683f3F9468bC17169774cD1aFC",
+		"Symbol": "TITAN"
+	},
+	{
+		"Id": "0x42Cbb13EC7b35AA76D5fE7B0A446fA7B64F7086A",
+		"Symbol": "MaticX-MATIC V2"
+	},
+	{
+		"Id": "0x90A7289A3aAb4b070A2646DCa757025Ee84cF580",
+		"Symbol": "BCT-USDC SLP"
+	},
+	{
+		"Id": "0xC8e809a9180d637Cc23dAf60b41B70CA1ad5Fc08",
+		"Symbol": "ETH-MATIC LP"
+	},
+	{
+		"Id": "0x5c26afCd15Fb65Ec27f99F47474A1D5b03673b49",
+		"Symbol": "ETH-TEL LP"
+	},
+	{
+		"Id": "0xeD7148949c2dC8AA59A5aD8658eF347Bd7387fA8",
+		"Symbol": "QUICK-USDC LP"
+	},
+	{
+		"Id": "0xCB171DF46CA6FF7AfEF6c4935128204435E4F05C",
+		"Symbol": "MATIC-ETH LP"
+	},
+	{
+		"Id": "0xe942A8Ef245EAC3CEa951486e3Df5764C79b9621",
+		"Symbol": "DEGEN-QUICK LP"
+	},
+	{
+		"Id": "0x584611DA226b4d4C0c4D880E6f1E0c0E8522f3AE",
+		"Symbol": "MATIC-DAI ALP"
+	},
+	{
+		"Id": "0x6d212Dd38aD0811d30AABf08fB78018133F8417E",
+		"Symbol": "SAND-MATIC LP"
+	},
+	{
+		"Id": "0x259676497409B89Da5655468551685dFbec1EA57",
+		"Symbol": "CRV-DFYN LP"
+	},
+	{
+		"Id": "0xF082954596D3deB61D80dF135663C0fbDe4F7C37",
+		"Symbol": "DELIRIUM-USDC LP"
+	},
+	{
+		"Id": "0x226a18Fb5eb7d9d1c4Eb1b5Cff957E0F1e3fd9Ed",
+		"Symbol": "CC10-QUICK LP"
+	},
+	{
+		"Id": "0x72B5Cf05770C9a6A99FB8652825884ee36a4BfdA",
+		"Symbol": "SHIB-MATIC LP"
+	},
+	{
+		"Id": "0xfa6C93288250c67Ca620Efb096e9D23C8ECc587D",
+		"Symbol": "IXT-USDT LP"
+	},
+	{
+		"Id": "0xddD5F39d044Dbaeef7b348cf04C3628acd3F1D8f",
+		"Symbol": "FRAX-FXS SLP"
+	},
+	{
+		"Id": "0x58a3e6d5501180fb9fcE7cFC2368F9Dc5e186A6f",
+		"Symbol": "jEUR-EURe LP"
+	},
+	{
+		"Id": "0xFe4519d295089aC689a6EC6779De4740c06D4707",
+		"Symbol": "cxADA-cxETH LP"
+	},
+	{
+		"Id": "0xfA2AE38776b792f6629996B07FAa009a8cDEc5F9",
+		"Symbol": "stMATIC-MATIC sLP"
+	},
+	{
+		"Id": "0x7BAeCc5B3E3cbD102D3B29A75FE33962434b5fC5",
+		"Symbol": "LINK/ETH/BAL/AAVE"
+	},
+	{
+		"Id": "0x80fcA0946fb75724f5d84Dd49edC694062E3111C",
+		"Symbol": "UNI-ETH LP"
+	},
+	{
+		"Id": "0xBe1C35d3349555Ba9eEa38AB1A21a6Db0Bb0fCdD",
+		"Symbol": "PUP"
+	},
+	{
+		"Id": "0xFcC42a103d620125b580a0B76fD8a58cc1b6b06A",
+		"Symbol": "WBTC-cxBTC LP"
+	},
+	{
+		"Id": "0x7141424d50A9AB5CEDE7c979C6128Ce069A8bE1c",
+		"Symbol": "METIS-MATIC LP"
+	},
+	{
+		"Id": "0x3af3563Ba5C68EB7DCbAdd2dF0FcE4CC9818e75c",
+		"Symbol": "USD+-MATIC vLP"
+	},
+	{
+		"Id": "0x8c9dE3b735a154d8fC1e94183eA9b021913AC88B",
+		"Symbol": "LCD-MATIC LP"
+	},
+	{
+		"Id": "0x6b6ca47520dDC9333B8bD09a1e64204648B63274",
+		"Symbol": "ETH-DAI LP"
+	},
+	{
+		"Id": "0x1C480521100c962F7da106839a5A504B5A7457a1",
+		"Symbol": "USDT LP"
+	},
+	{
+		"Id": "0x4D42bD06425179e53498D364427Af4Bf50d27658",
+		"Symbol": "PUP-ETH QLP"
+	},
+	{
+		"Id": "0x5e03C75a8728a8E0FF0326baADC95433009424d6",
+		"Symbol": "MANA-MATIC LP"
+	},
+	{
+		"Id": "0x9456B29cb8E40962DbCbe7b2474Ae2028D8c4651",
+		"Symbol": "USDC-TEL LP"
+	},
+	{
+		"Id": "0xC422261EdC5dB679CAd9BC403e886351De540e77",
+		"Symbol": "ETH-USDT LP"
+	},
+	{
+		"Id": "0x7eE71053102d54Fc843BaEBaf07277C2b6dB64f1",
+		"Symbol": "FISH-MATIC LP"
+	},
+	{
+		"Id": "0x61f55dc5243398D57acd5d6265e228da65C4Cb52",
+		"Symbol": "pBNB-USDC QLP"
+	},
+	{
+		"Id": "0x1d23ecC0645B07791b7D99349e253ECEbe43f614",
+		"Symbol": "MATIC"
+	},
+	{
+		"Id": "0xADA7F98fb2594E76914EB593e74B348A498Ea5Bd",
+		"Symbol": "BANANA-MATIC ALP"
+	},
+	{
+		"Id": "0xe95d14D09a8F6034C582bd993A2F2aA8ecEC72f0",
+		"Symbol": "AZUKI-ETH LP"
+	},
+	{
+		"Id": "0x3CB928f9B49D9bD6eF43B7310dcC17dB0528CCc6",
+		"Symbol": "MAI/DAI/USDC/USDT"
+	},
+	{
+		"Id": "0x755e426A8B445eAE53b1c051c1E7acA7381fCDb7",
+		"Symbol": "stMATIC-MATIC"
+	},
+	{
+		"Id": "0xF79BF908d0e6d8E7054375CD80dD33424B1980bf",
+		"Symbol": "stMATIC-MATIC V2"
+	},
+	{
+		"Id": "0xe3BfD4259778596747C9BA75f259Eab0BbD9Cb08",
+		"Symbol": "USD+-USDC sLP"
+	},
+	{
+		"Id": "0xDBD762Fa3BeE775B6bc2f71135254cD1608c2204",
+		"Symbol": "newQUICK-ETH LP"
+	},
+	{
+		"Id": "0xD35B3733c2ceaf3635bE246B2c6C42f10e5b6B78",
+		"Symbol": "ibBTC-WBTC SLP"
+	},
+	{
+		"Id": "0xF7A5eC9168B4C5688b3ad599Aa5c8E1922fEacAE",
+		"Symbol": "DEGEN-ETH LP"
+	},
+	{
+		"Id": "0xE63aCEbE35265896cC6E8BdB8eCC0640a1807141",
+		"Symbol": "TITAN-MATIC LP"
+	},
+	{
+		"Id": "0xb2A56dFdbC890c102Dcd5e30afcfB43cD3343762",
+		"Symbol": "WATCH-MATIC LP"
+	},
+	{
+		"Id": "0xefA8E30cE4cc433cEA1B3b6006D69731A4FBd485",
+		"Symbol": "FISH-MATIC LP"
+	},
+	{
+		"Id": "0x91a55E4b057119e20334258f7C5EAB8822491CEb",
+		"Symbol": "WBTC-USDC LP"
+	},
+	{
+		"Id": "0xC4FABD1E2A99c84b7fd152a41426B77c217c5764",
+		"Symbol": "ETH-renDOGE LP"
+	},
+	{
+		"Id": "0x2e78D4Cc7e1dF9845B60A28980b28B3E9fc82fd1",
+		"Symbol": "jCHF-USDC LP"
+	},
+	{
+		"Id": "0xe5D9d4F4C6369E24c8dA4cB07cCb2901845f6021",
+		"Symbol": "IRON-USDC LP"
+	},
+	{
+		"Id": "0xB0D20b7d047e10a8Af2bE8C7c4C976653A0f2ECA",
+		"Symbol": "MaticX-MATIC"
+	},
+	{
+		"Id": "0xfE1779834EaDD60660a7F3f576448D6010f5e3Fc",
+		"Symbol": "jEUR-PAR LP"
 	},
 	{
 		"Id": "0x6530E351074f1f9fdf254dC7d7d8A44324E158a4",
 		"Symbol": "WBTC-ETH LP"
 	},
 	{
-		"Id": "0x48e58c7E8d2063ae7ADe8a0829E00780155232eC",
-		"Symbol": "FTM-MATIC LP"
+		"Id": "0xcC16BbE4987920a17F5C4a92C1Ab4dbDfB0B9790",
+		"Symbol": "FISH"
+	},
+	{
+		"Id": "0x752948B4493d2Ee09c95F944A76005aEBF410087",
+		"Symbol": "AAVE-ETH LP"
+	},
+	{
+		"Id": "0x2D4cf116A59e24Dd0aB8821c93AE87658a9483b6",
+		"Symbol": "FFF-QUICK LP"
+	},
+	{
+		"Id": "0xf2984c27B963A14F9f3B7326096c54fb05d5b9AF",
+		"Symbol": "PZAP-MATIC LP"
+	},
+	{
+		"Id": "0x74b00bbb693de4dC07d8aB79Ac935b323e2A136a",
+		"Symbol": "BIFI-DFYN LP"
+	},
+	{
+		"Id": "0x77276a7c9Ff3a6cbD334524d6F1f6219D039ac0E",
+		"Symbol": "ETH"
+	},
+	{
+		"Id": "0x9f3B96a2Dd55aa904bC5476Ffe66E74a53f6b420",
+		"Symbol": "FISH-MATIC LP"
+	},
+	{
+		"Id": "0xB6B89a05ad8228b98d0D8a77e1a695c54500db3b",
+		"Symbol": "USDC-USDT LP"
+	},
+	{
+		"Id": "0x9fc153db31a5CeF1Cd326De31FEb37C7499eebC8",
+		"Symbol": "BONE-MATIC SLP"
+	},
+	{
+		"Id": "0x6aD5a528D82951c3093992b72e57034d24cDE633",
+		"Symbol": "FRAX-USDC sLP"
+	},
+	{
+		"Id": "0xaA66e6EA1cAa7B86a8119B1420F6EdeDE3bb58f1",
+		"Symbol": "pWINGS-USDC LP"
+	},
+	{
+		"Id": "0x614A3f93dE94fA900BB88Ab2b23B3856518505Fa",
+		"Symbol": "SAGE-USDC LP"
+	},
+	{
+		"Id": "0xDBFf95e99FccC8fbd90648B9E42C0F152518b9B8",
+		"Symbol": "beQI"
+	},
+	{
+		"Id": "0x6E1D1Eb4581E4C612240Ec603a243ce9AE3265E4",
+		"Symbol": "ETH2x-ETH SLP"
+	},
+	{
+		"Id": "0x0564889d4Ff0dA0371Ec8a898AC39ABC99065BfA",
+		"Symbol": "ICE-USDC LP"
+	},
+	{
+		"Id": "0x76F0e4a08c1e85d020dfD7C66B991ecd4A7551AF",
+		"Symbol": "BTC-MATIC ALP"
+	},
+	{
+		"Id": "0xf3Eac1e5A81A732b002691E1f96cE5A43BfBb929",
+		"Symbol": "agEUR-4EUR"
+	},
+	{
+		"Id": "0x775965D328FD46b51595E7d711c6B563CD4eFCF4",
+		"Symbol": "GENESIS-QUICK LP"
+	},
+	{
+		"Id": "0x4E685C0d068cb0af88Ff662B89951Ad5B3727387",
+		"Symbol": "BOOK-MATIC LP"
+	},
+	{
+		"Id": "0x8F1F1FB23A208041e1f4Bf4A3b4E165bcCA25Bbb",
+		"Symbol": "DAI-USDT LP"
+	},
+	{
+		"Id": "0xf7e1226F6f98D1981e88Da328347F0E2131A2864",
+		"Symbol": "SNX-ETH LP"
+	},
+	{
+		"Id": "0x2434826b2cA0BeEDc9287Fb592d94328F525eA0D",
+		"Symbol": "FODL-MATIC LP"
+	},
+	{
+		"Id": "0x90D0F2050e62a6d4AF088dD09d802D9A18253c40",
+		"Symbol": "ICE-ETH LP"
+	},
+	{
+		"Id": "0xf49cB3B72d170407AeD7ED5B34d6e7bbE58Ac917",
+		"Symbol": "gOHM-ETH SLP"
+	},
+	{
+		"Id": "0x6a195660472a51f267230c3324F86055D2A8B1E2",
+		"Symbol": "DINO-USDC LP"
+	},
+	{
+		"Id": "0x122E09FdD2FF73C8CEa51D432c45A474BAa1518a",
+		"Symbol": "jJPY-JPYC LP"
+	},
+	{
+		"Id": "0xf5881fF8fF609C1202E0c6481bc16B4273407A04",
+		"Symbol": "AVAX-ETH SLP"
 	}
 ]

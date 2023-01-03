@@ -1,0 +1,10 @@
+{
+	"Id": "0xfa50f97c96befcbbfd55c9c00a41cf89c6adbb78",
+	"Symbol": "BONEC-WETH",
+	"UnderlyingTokens": [
+		"0x6416285db9febbac327529bcd7b0da3c94a5700e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "39f13ba5-ca64-4407-b4d3-c63dd269d786",
+	"Chain": "ethereum"
+}

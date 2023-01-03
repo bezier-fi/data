@@ -1,0 +1,27 @@
+{
+	"Id": "0x416a358e67704b940618f15b60dc5d74569f55fe",
+	"Protocol": "39f13ba5-ca64-4407-b4d3-c63dd269d786",
+	"Outputs": [
+		{
+			"Address": "0x416a358e67704b940618f15b60dc5d74569f55fe",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x183310225b917b39f773916e76e412d9765c08a0",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Dubbz-WETH",
+	"Chain": "ethereum"
+}

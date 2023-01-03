@@ -1,0 +1,10 @@
+{
+	"Id": "0x2f3687fac033941ece1d237210de0cfa89c09ee5",
+	"Symbol": "WETH-HAKUJA",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xcc55d7477a91173f3eaeb3fa8107da7bc303d118"
+	],
+	"Protocol": "39f13ba5-ca64-4407-b4d3-c63dd269d786",
+	"Chain": "ethereum"
+}

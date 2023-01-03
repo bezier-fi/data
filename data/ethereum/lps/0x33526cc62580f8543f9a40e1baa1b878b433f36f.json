@@ -1,0 +1,10 @@
+{
+	"Id": "0x33526cc62580f8543f9a40e1baa1b878b433f36f",
+	"Symbol": "BTTY-USDT",
+	"UnderlyingTokens": [
+		"0x9cc83d580180f0d37d00e5d86ce868f73b6e3d0a",
+		"0xdac17f958d2ee523a2206206994597c13d831ec7"
+	],
+	"Protocol": "39f13ba5-ca64-4407-b4d3-c63dd269d786",
+	"Chain": "ethereum"
+}

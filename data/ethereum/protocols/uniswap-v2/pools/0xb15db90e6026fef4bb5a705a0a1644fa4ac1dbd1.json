@@ -1,0 +1,27 @@
+{
+	"Id": "0xb15db90e6026fef4bb5a705a0a1644fa4ac1dbd1",
+	"Protocol": "39f13ba5-ca64-4407-b4d3-c63dd269d786",
+	"Outputs": [
+		{
+			"Address": "0xb15db90e6026fef4bb5a705a0a1644fa4ac1dbd1",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5248f1e20fd79a3b83008a3fdd7ee60b7a04383b",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Mrobot-WETH",
+	"Chain": "ethereum"
+}

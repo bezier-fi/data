@@ -1,0 +1,27 @@
+{
+	"Id": "0xfa50f97c96befcbbfd55c9c00a41cf89c6adbb78",
+	"Protocol": "39f13ba5-ca64-4407-b4d3-c63dd269d786",
+	"Outputs": [
+		{
+			"Address": "0xfa50f97c96befcbbfd55c9c00a41cf89c6adbb78",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6416285db9febbac327529bcd7b0da3c94a5700e",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BONEC-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x48608f8cd658066601459431ac84baee4bf26189",
+	"Symbol": "ELONTC-USDC",
+	"UnderlyingTokens": [
+		"0x3139059d0b23e88c5ba7e17cdc21cd6a860cb8be",
+		"0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+	],
+	"Protocol": "f5487ab4-d3be-474b-8f40-71748a5fc003",
+	"Chain": "ethereum"
+}

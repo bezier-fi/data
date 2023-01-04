@@ -1,0 +1,27 @@
+{
+	"Id": "0x7a4ec40601f8872f80b26550a8b493bdc86eb128",
+	"Protocol": "f5487ab4-d3be-474b-8f40-71748a5fc003",
+	"Outputs": [
+		{
+			"Address": "0x7a4ec40601f8872f80b26550a8b493bdc86eb128",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xbbd537e6dee1d8a288f8716d8cec262120a719b5",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SHEPERD-WETH",
+	"Chain": "ethereum"
+}

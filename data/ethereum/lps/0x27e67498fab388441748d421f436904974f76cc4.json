@@ -1,0 +1,10 @@
+{
+	"Id": "0x27e67498fab388441748d421f436904974f76cc4",
+	"Symbol": "ERASU-WETH",
+	"UnderlyingTokens": [
+		"0x8af5796bfece77a87d9bc3494b2c18b1e5855503",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f5487ab4-d3be-474b-8f40-71748a5fc003",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xc94c97f38151807ca393d362fb8db9427580775c",
+	"Symbol": "WBC-WETH",
+	"UnderlyingTokens": [
+		"0x80632faaccc8d7a8b6d1fc626490b0f4e3803020",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f5487ab4-d3be-474b-8f40-71748a5fc003",
+	"Chain": "ethereum"
+}

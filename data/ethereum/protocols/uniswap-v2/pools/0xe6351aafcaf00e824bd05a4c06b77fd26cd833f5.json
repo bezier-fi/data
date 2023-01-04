@@ -1,0 +1,27 @@
+{
+	"Id": "0xe6351aafcaf00e824bd05a4c06b77fd26cd833f5",
+	"Protocol": "f5487ab4-d3be-474b-8f40-71748a5fc003",
+	"Outputs": [
+		{
+			"Address": "0xe6351aafcaf00e824bd05a4c06b77fd26cd833f5",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3a4bc9099fd1c02278a2e8e8ca0b5740944f9ea6",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GINO-USDC",
+	"Chain": "ethereum"
+}

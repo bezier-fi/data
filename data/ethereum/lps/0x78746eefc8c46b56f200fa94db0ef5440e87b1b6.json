@@ -1,0 +1,10 @@
+{
+	"Id": "0x78746eefc8c46b56f200fa94db0ef5440e87b1b6",
+	"Symbol": "TYM-WETH",
+	"UnderlyingTokens": [
+		"0x647d2bca0198b2f019b604cea1480603c13d56fa",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f5487ab4-d3be-474b-8f40-71748a5fc003",
+	"Chain": "ethereum"
+}

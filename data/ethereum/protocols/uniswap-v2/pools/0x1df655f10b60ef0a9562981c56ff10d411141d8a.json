@@ -1,0 +1,27 @@
+{
+	"Id": "0x1df655f10b60ef0a9562981c56ff10d411141d8a",
+	"Protocol": "f5487ab4-d3be-474b-8f40-71748a5fc003",
+	"Outputs": [
+		{
+			"Address": "0x1df655f10b60ef0a9562981c56ff10d411141d8a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x61b8d8a3e7e5a2c697f2e77bd7f2fcb27182e869",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Antik-WETH",
+	"Chain": "ethereum"
+}

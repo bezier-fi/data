@@ -1,0 +1,27 @@
+{
+	"Id": "0xdd37ee8aa9ecc28829cee133dc779b5df593bb59",
+	"Protocol": "f5487ab4-d3be-474b-8f40-71748a5fc003",
+	"Outputs": [
+		{
+			"Address": "0xdd37ee8aa9ecc28829cee133dc779b5df593bb59",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7871f7ada1b9aa5547d2b4d7eb762d5730062336",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "LEGO-WETH",
+	"Chain": "ethereum"
+}

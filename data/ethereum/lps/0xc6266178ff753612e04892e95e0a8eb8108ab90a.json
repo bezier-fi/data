@@ -1,0 +1,10 @@
+{
+	"Id": "0xc6266178ff753612e04892e95e0a8eb8108ab90a",
+	"Symbol": "$TIME-WETH",
+	"UnderlyingTokens": [
+		"0x0c9be207ea5c9a306f54887d699a7fbc29e976c8",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f5487ab4-d3be-474b-8f40-71748a5fc003",
+	"Chain": "ethereum"
+}

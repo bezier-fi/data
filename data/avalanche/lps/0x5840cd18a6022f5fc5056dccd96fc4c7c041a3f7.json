@@ -1,0 +1,10 @@
+{
+	"Id": "0x5840cd18a6022f5fc5056dccd96fc4c7c041a3f7",
+	"Symbol": "MUMO-USDC",
+	"UnderlyingTokens": [
+		"0x875e3352baae84c38d930dd7fd796178b2fcaa05",
+		"0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e"
+	],
+	"Protocol": "e065600e-605d-4666-8253-153a286cf53f",
+	"Chain": "avalanche"
+}

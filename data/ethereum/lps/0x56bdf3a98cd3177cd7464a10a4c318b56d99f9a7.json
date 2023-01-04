@@ -1,0 +1,10 @@
+{
+	"Id": "0x56bdf3a98cd3177cd7464a10a4c318b56d99f9a7",
+	"Symbol": "KO-WETH",
+	"UnderlyingTokens": [
+		"0x4e5d5876cd97a67b9e5ead5943fb9afe19f72bc9",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f5487ab4-d3be-474b-8f40-71748a5fc003",
+	"Chain": "ethereum"
+}

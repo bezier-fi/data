@@ -1,0 +1,27 @@
+{
+	"Id": "0xd9fae7f9f3202a96ea02025ce65f6ad41eca6ace",
+	"Protocol": "f5487ab4-d3be-474b-8f40-71748a5fc003",
+	"Outputs": [
+		{
+			"Address": "0xd9fae7f9f3202a96ea02025ce65f6ad41eca6ace",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb8ac2383cdf35f77b9bf2605f1378e84ebf6452d",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "OSHIB-WETH",
+	"Chain": "ethereum"
+}

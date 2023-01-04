@@ -1,0 +1,27 @@
+{
+	"Id": "0xc0d9c2944349872f1154936ced6d89121fb194c6",
+	"Protocol": "f5487ab4-d3be-474b-8f40-71748a5fc003",
+	"Outputs": [
+		{
+			"Address": "0xc0d9c2944349872f1154936ced6d89121fb194c6",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x370661e873ad566678a742af3e116bbb912aa99c",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "LIX-WETH",
+	"Chain": "ethereum"
+}

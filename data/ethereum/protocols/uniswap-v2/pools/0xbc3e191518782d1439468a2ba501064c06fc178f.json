@@ -1,0 +1,27 @@
+{
+	"Id": "0xbc3e191518782d1439468a2ba501064c06fc178f",
+	"Protocol": "f5487ab4-d3be-474b-8f40-71748a5fc003",
+	"Outputs": [
+		{
+			"Address": "0xbc3e191518782d1439468a2ba501064c06fc178f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x444a9bf2c7fae1c4201f08e509677c2ed297946f",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BONK-WETH",
+	"Chain": "ethereum"
+}

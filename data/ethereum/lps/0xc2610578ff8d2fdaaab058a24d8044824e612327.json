@@ -1,0 +1,10 @@
+{
+	"Id": "0xc2610578ff8d2fdaaab058a24d8044824e612327",
+	"Symbol": "WETH-HOKK",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xce03bc4bf309782c07eace5057428a7cd807eb51"
+	],
+	"Protocol": "7e616ff6-4d05-4369-beac-98726f585916",
+	"Chain": "ethereum"
+}

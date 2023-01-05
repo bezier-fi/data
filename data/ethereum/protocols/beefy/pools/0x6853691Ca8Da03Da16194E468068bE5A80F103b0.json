@@ -1,0 +1,23 @@
+{
+	"Id": "0x6853691Ca8Da03Da16194E468068bE5A80F103b0",
+	"Protocol": "bfc92f9f-c3bf-403a-9c3a-9f2ad66017cb",
+	"Outputs": [
+		{
+			"Address": "0x6853691Ca8Da03Da16194E468068bE5A80F103b0",
+			"Apr": 7.8210735,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x051d7e5609917Bd9b73f04BAc0DED8Dd46a74301",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "sBTC/WBTC",
+	"Chain": "ethereum"
+}

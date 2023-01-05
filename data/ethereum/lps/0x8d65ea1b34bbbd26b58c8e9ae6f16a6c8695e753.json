@@ -1,0 +1,10 @@
+{
+	"Id": "0x8d65ea1b34bbbd26b58c8e9ae6f16a6c8695e753",
+	"Symbol": "WETH-FUYU",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe01fa8c9cd06657a2467e949403ff94cc9ae555d"
+	],
+	"Protocol": "7e616ff6-4d05-4369-beac-98726f585916",
+	"Chain": "ethereum"
+}

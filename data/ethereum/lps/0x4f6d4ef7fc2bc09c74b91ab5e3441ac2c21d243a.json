@@ -1,0 +1,10 @@
+{
+	"Id": "0x4f6d4ef7fc2bc09c74b91ab5e3441ac2c21d243a",
+	"Symbol": "FPI-WETH (0.05%)",
+	"UnderlyingTokens": [
+		"0x5ca135cb8527d76e932f34b5145575f9d8cbe08e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "a8fc762b-3168-4430-862d-bd5c102b2f9b",
+	"Chain": "ethereum"
+}

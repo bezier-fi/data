@@ -1,0 +1,10 @@
+{
+	"Id": "0x6cef9de9e490bc679ad28ef216fcea98247a4108",
+	"Symbol": "BTC2x-FLI-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x0b498ff89709d3838a063f1dfa463091f9801c2b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "a8fc762b-3168-4430-862d-bd5c102b2f9b",
+	"Chain": "ethereum"
+}

@@ -1,5 +1,9 @@
 [
 	{
+		"Id": "0x0f680790d022BcDf317BF3E97190AcA33A0621b2-0xb0D2EB3C2cA3c6916FAb8DCbf9d9c165649231AE",
+		"Symbol": "miMATIC-av3CRV Qi"
+	},
+	{
 		"Id": "0xA9122dACF3Fccf1AAe6b8ddd1F75B6267e5cbbB8",
 		"Symbol": "ETH MAI Vault"
 	},
@@ -18,9 +22,5 @@
 	{
 		"Id": "0x13A7fE3Ab741ea6301Db8B164290bE711f546A73",
 		"Symbol": "Stake DAO av3CRV Strategy MAI Vault"
-	},
-	{
-		"Id": "0x0f680790d022BcDf317BF3E97190AcA33A0621b2-0xb0D2EB3C2cA3c6916FAb8DCbf9d9c165649231AE",
-		"Symbol": "miMATIC-av3CRV Qi"
 	}
 ]

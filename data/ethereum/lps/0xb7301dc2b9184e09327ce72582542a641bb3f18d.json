@@ -1,0 +1,10 @@
+{
+	"Id": "0xb7301dc2b9184e09327ce72582542a641bb3f18d",
+	"Symbol": "OLMA-WETH",
+	"UnderlyingTokens": [
+		"0x606d61a6e2b1e9863126f6fcf87074371b0c4341",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7e616ff6-4d05-4369-beac-98726f585916",
+	"Chain": "ethereum"
+}

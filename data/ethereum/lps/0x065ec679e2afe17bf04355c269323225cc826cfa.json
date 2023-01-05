@@ -1,0 +1,10 @@
+{
+	"Id": "0x065ec679e2afe17bf04355c269323225cc826cfa",
+	"Symbol": "LUSD-WETH (0.05%)",
+	"UnderlyingTokens": [
+		"0x5f98805a4e8be255a32880fdec7f6728c6568ba0",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "a8fc762b-3168-4430-862d-bd5c102b2f9b",
+	"Chain": "ethereum"
+}

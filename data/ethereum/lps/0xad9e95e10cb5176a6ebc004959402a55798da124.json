@@ -1,0 +1,10 @@
+{
+	"Id": "0xad9e95e10cb5176a6ebc004959402a55798da124",
+	"Symbol": "Bezos-WETH",
+	"UnderlyingTokens": [
+		"0x9f79f35db6824ef2e2f665284874dddb0f3b969d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7e616ff6-4d05-4369-beac-98726f585916",
+	"Chain": "ethereum"
+}

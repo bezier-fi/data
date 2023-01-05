@@ -1,0 +1,10 @@
+{
+	"Id": "0xcb4c92b45035b2eb8226b710df69abdb74a43ff4",
+	"Symbol": "WETH-XQINU",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf2d108884b83771ac14e5d613cd60267cb5d8e45"
+	],
+	"Protocol": "7e616ff6-4d05-4369-beac-98726f585916",
+	"Chain": "ethereum"
+}

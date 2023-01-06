@@ -1,0 +1,27 @@
+{
+	"Id": "0x9c349d8ada96c38c23161bb0345641a80a470249",
+	"Protocol": "0b232496-6a97-40a7-add2-f5b4c37688f2",
+	"Outputs": [
+		{
+			"Address": "0x9c349d8ada96c38c23161bb0345641a80a470249",
+			"Apr": 0.017130338,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa2df0dc89dfc39faee6cf13dfbf2203fea3670e4",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BABYKRAKENS-WAVAX",
+	"Chain": "avalanche"
+}

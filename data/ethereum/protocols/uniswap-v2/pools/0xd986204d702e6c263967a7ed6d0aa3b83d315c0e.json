@@ -1,0 +1,27 @@
+{
+	"Id": "0xd986204d702e6c263967a7ed6d0aa3b83d315c0e",
+	"Protocol": "1082cae8-e304-4ef9-9354-159abb0291e1",
+	"Outputs": [
+		{
+			"Address": "0xd986204d702e6c263967a7ed6d0aa3b83d315c0e",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x87919b4d7ddd5e018f51d433417e31e98228e035",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ROTT-WETH",
+	"Chain": "ethereum"
+}

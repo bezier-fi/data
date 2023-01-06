@@ -1,0 +1,10 @@
+{
+	"Id": "0xd986204d702e6c263967a7ed6d0aa3b83d315c0e",
+	"Symbol": "ROTT-WETH",
+	"UnderlyingTokens": [
+		"0x87919b4d7ddd5e018f51d433417e31e98228e035",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "1082cae8-e304-4ef9-9354-159abb0291e1",
+	"Chain": "ethereum"
+}

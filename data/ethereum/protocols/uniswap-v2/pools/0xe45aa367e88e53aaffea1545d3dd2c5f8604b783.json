@@ -1,0 +1,27 @@
+{
+	"Id": "0xe45aa367e88e53aaffea1545d3dd2c5f8604b783",
+	"Protocol": "1082cae8-e304-4ef9-9354-159abb0291e1",
+	"Outputs": [
+		{
+			"Address": "0xe45aa367e88e53aaffea1545d3dd2c5f8604b783",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9053bfb430a021bbd9958fa1d663063e4abe17ee",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TOSA-WETH",
+	"Chain": "ethereum"
+}

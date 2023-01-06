@@ -1,0 +1,10 @@
+{
+	"Id": "0xac0539efbd5f7d66176bb5a500f2aba23c92019b",
+	"Symbol": "WETH-DOBO",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf5f08287707b9816cc9a508e9faa8e59821d934d"
+	],
+	"Protocol": "1082cae8-e304-4ef9-9354-159abb0291e1",
+	"Chain": "ethereum"
+}

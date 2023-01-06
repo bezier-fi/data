@@ -1,0 +1,27 @@
+{
+	"Id": "0x199fb78019a08af2cb6a078409d0c8233eba8a0c",
+	"Protocol": "0b232496-6a97-40a7-add2-f5b4c37688f2",
+	"Outputs": [
+		{
+			"Address": "0x199fb78019a08af2cb6a078409d0c8233eba8a0c",
+			"Apr": 0.0029658792,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH.e-USDC.e",
+	"Chain": "avalanche"
+}

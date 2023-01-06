@@ -1,0 +1,27 @@
+{
+	"Id": "0x361b625c074c736ef2d959e983b4478aa23a5d19",
+	"Protocol": "0b232496-6a97-40a7-add2-f5b4c37688f2",
+	"Outputs": [
+		{
+			"Address": "0x361b625c074c736ef2d959e983b4478aa23a5d19",
+			"Apr": 1.0383757,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x937e077abaea52d3abf879c9b9d3f2ebd15baa21",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "OH-WAVAX",
+	"Chain": "avalanche"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xf09cffe113ebe4eed2f2e9636063fd2a395684ee",
+	"Symbol": "OROCHI -WETH",
+	"UnderlyingTokens": [
+		"0x9a15f8c0ac429ba932f9552dbd3bdbf9034a18b0",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "1082cae8-e304-4ef9-9354-159abb0291e1",
+	"Chain": "ethereum"
+}

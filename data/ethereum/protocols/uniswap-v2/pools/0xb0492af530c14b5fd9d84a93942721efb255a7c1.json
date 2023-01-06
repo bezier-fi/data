@@ -1,0 +1,27 @@
+{
+	"Id": "0xb0492af530c14b5fd9d84a93942721efb255a7c1",
+	"Protocol": "1082cae8-e304-4ef9-9354-159abb0291e1",
+	"Outputs": [
+		{
+			"Address": "0xb0492af530c14b5fd9d84a93942721efb255a7c1",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5247b39259d06fced7510a294e0be66aceba6b4e",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "LYKOI-WETH",
+	"Chain": "ethereum"
+}

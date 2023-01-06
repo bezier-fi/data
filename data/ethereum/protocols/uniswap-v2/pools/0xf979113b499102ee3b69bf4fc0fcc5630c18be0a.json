@@ -1,0 +1,27 @@
+{
+	"Id": "0xf979113b499102ee3b69bf4fc0fcc5630c18be0a",
+	"Protocol": "1082cae8-e304-4ef9-9354-159abb0291e1",
+	"Outputs": [
+		{
+			"Address": "0xf979113b499102ee3b69bf4fc0fcc5630c18be0a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xd17cc4421b4ab108979589360661dad4e44f5859",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-$KUJI",
+	"Chain": "ethereum"
+}

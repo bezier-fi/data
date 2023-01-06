@@ -1,0 +1,27 @@
+{
+	"Id": "0x21b0b56b593f870ca73c60c73cb40c0e58d16cd0",
+	"Protocol": "1082cae8-e304-4ef9-9354-159abb0291e1",
+	"Outputs": [
+		{
+			"Address": "0x21b0b56b593f870ca73c60c73cb40c0e58d16cd0",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x052c992429a12dcc785c732b77d9c29c679ea080",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "🦁 🐊 🦧 🐳 🐞 🐵 🐍 🦍 🐛 🦒 🕊 🐋 🦎 🦋 🦄 🐝 🦜 🐆 🦀 🐉-WETH",
+	"Chain": "ethereum"
+}

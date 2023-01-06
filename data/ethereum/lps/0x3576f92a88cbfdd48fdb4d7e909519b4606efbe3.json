@@ -1,0 +1,10 @@
+{
+	"Id": "0x3576f92a88cbfdd48fdb4d7e909519b4606efbe3",
+	"Symbol": "BOINK-WETH",
+	"UnderlyingTokens": [
+		"0xbfd6b7d47c474fbdd33041384ecacb986d48b78c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "1082cae8-e304-4ef9-9354-159abb0291e1",
+	"Chain": "ethereum"
+}

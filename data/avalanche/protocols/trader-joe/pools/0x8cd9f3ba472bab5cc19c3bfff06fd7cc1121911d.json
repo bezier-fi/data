@@ -1,0 +1,27 @@
+{
+	"Id": "0x8cd9f3ba472bab5cc19c3bfff06fd7cc1121911d",
+	"Protocol": "0b232496-6a97-40a7-add2-f5b4c37688f2",
+	"Outputs": [
+		{
+			"Address": "0x8cd9f3ba472bab5cc19c3bfff06fd7cc1121911d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x528089119bf64ff3c7df9ffb17b34ad98d2638f7",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x9631be8566fc71d91970b10acfdee29f21da6c27",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "NOD-IMON",
+	"Chain": "avalanche"
+}

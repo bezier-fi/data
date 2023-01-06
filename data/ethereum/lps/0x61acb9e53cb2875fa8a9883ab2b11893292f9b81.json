@@ -1,0 +1,10 @@
+{
+	"Id": "0x61acb9e53cb2875fa8a9883ab2b11893292f9b81",
+	"Symbol": "WETH-TRD",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xcd5e048472209baeb7e8cf3bd92f6a4fae55780d"
+	],
+	"Protocol": "1082cae8-e304-4ef9-9354-159abb0291e1",
+	"Chain": "ethereum"
+}

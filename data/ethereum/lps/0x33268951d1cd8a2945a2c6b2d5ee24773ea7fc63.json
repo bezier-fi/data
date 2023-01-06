@@ -1,0 +1,10 @@
+{
+	"Id": "0x33268951d1cd8a2945a2c6b2d5ee24773ea7fc63",
+	"Symbol": "SHIKO-WETH",
+	"UnderlyingTokens": [
+		"0x276b4f9efe348a91da0e7556bf839fca516f592c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "1082cae8-e304-4ef9-9354-159abb0291e1",
+	"Chain": "ethereum"
+}

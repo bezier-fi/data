@@ -1,0 +1,27 @@
+{
+	"Id": "0xe56ab10d59a3d7a8c8b1873627b2552e9dd053b7",
+	"Protocol": "1082cae8-e304-4ef9-9354-159abb0291e1",
+	"Outputs": [
+		{
+			"Address": "0xe56ab10d59a3d7a8c8b1873627b2552e9dd053b7",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x95c82b1159429fc5e617d1b1c751c41797ae832e",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BONZA-WETH",
+	"Chain": "ethereum"
+}

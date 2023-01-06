@@ -1,0 +1,10 @@
+{
+	"Id": "0x477479b913643d4735d69d289bfa0a9cadf04a7b",
+	"Symbol": "BONKED-WETH",
+	"UnderlyingTokens": [
+		"0x50b7d6943ee0a25a73ff8db001529aca9b279f51",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "1082cae8-e304-4ef9-9354-159abb0291e1",
+	"Chain": "ethereum"
+}

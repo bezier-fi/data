@@ -1,0 +1,10 @@
+{
+	"Id": "0x461d450972ab2e50b96748e8e0ad4ba66fa868cc",
+	"Symbol": "BSHIK-WETH",
+	"UnderlyingTokens": [
+		"0x2a9ce82d0fe6a40c585d1b6d80134af8109b922a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "1082cae8-e304-4ef9-9354-159abb0291e1",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0xb78c8238bd907c42be45aebdb4a8c8a5d7b49755",
+	"Protocol": "0b232496-6a97-40a7-add2-f5b4c37688f2",
+	"Outputs": [
+		{
+			"Address": "0xb78c8238bd907c42be45aebdb4a8c8a5d7b49755",
+			"Apr": 0.9306145,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xe896cdeaac9615145c0ca09c8cd5c25bced6384c",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WAVAX-PEFI",
+	"Chain": "avalanche"
+}

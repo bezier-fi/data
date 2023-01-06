@@ -1,0 +1,27 @@
+{
+	"Id": "0x0b729682785ea6ebe3fc6a80fbf65c64097b71bf",
+	"Protocol": "0b232496-6a97-40a7-add2-f5b4c37688f2",
+	"Outputs": [
+		{
+			"Address": "0x0b729682785ea6ebe3fc6a80fbf65c64097b71bf",
+			"Apr": 0.013681227,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4860a28be33ad04dadfc91722728effa8430f836",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SPEAR-USDC",
+	"Chain": "avalanche"
+}

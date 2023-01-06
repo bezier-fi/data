@@ -1,0 +1,27 @@
+{
+	"Id": "0xfd17c7a2e1eee2ee2a308e43bdfbac4df135c5cd",
+	"Protocol": "0b232496-6a97-40a7-add2-f5b4c37688f2",
+	"Outputs": [
+		{
+			"Address": "0xfd17c7a2e1eee2ee2a308e43bdfbac4df135c5cd",
+			"Apr": 0.00064454536,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x490bf3abcab1fb5c88533d850f2a8d6d38298465",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PLAYMATES-WAVAX",
+	"Chain": "avalanche"
+}

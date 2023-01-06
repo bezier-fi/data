@@ -1,0 +1,10 @@
+{
+	"Id": "0x7c4cecd3eea296b3eea7e93d7d3814a20b261800",
+	"Symbol": "WETH-$MOTY",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xecffae2885acf6d20cf4aa4a54f0f738dc97d65b"
+	],
+	"Protocol": "1082cae8-e304-4ef9-9354-159abb0291e1",
+	"Chain": "ethereum"
+}

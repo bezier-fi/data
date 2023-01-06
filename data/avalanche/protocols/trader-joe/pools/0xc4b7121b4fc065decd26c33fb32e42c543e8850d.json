@@ -1,0 +1,27 @@
+{
+	"Id": "0xc4b7121b4fc065decd26c33fb32e42c543e8850d",
+	"Protocol": "0b232496-6a97-40a7-add2-f5b4c37688f2",
+	"Outputs": [
+		{
+			"Address": "0xc4b7121b4fc065decd26c33fb32e42c543e8850d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x060556209e507d30f2167a101bfc6d256ed2f3e1",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x22d4002028f537599be9f666d1c4fa138522f9c8",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "xPTP-PTP",
+	"Chain": "avalanche"
+}

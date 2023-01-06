@@ -1,11 +1,11 @@
 {
 	"Id": "0x1daB6560494B04473A0BE3E7D83CF3Fdf3a51828",
-	"Symbol": "crvUSDBTCETH",
+	"Symbol": "",
 	"UnderlyingTokens": [
 		"0x1337BedC9D22ecbe766dF105c9623922A27963EC",
 		"0x686bEF2417b6Dc32C50a3cBfbCC3bb60E1e9a15D",
 		"0x53f7c5869a859F0AeC3D334ee8B4Cf01E3492f21"
 	],
-	"Protocol": "95adefdc-4a82-45d7-93bc-53dd41e999f6",
+	"Protocol": "",
 	"Chain": "avalanche"
 }

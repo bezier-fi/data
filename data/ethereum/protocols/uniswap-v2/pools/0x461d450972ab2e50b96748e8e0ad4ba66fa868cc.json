@@ -1,0 +1,27 @@
+{
+	"Id": "0x461d450972ab2e50b96748e8e0ad4ba66fa868cc",
+	"Protocol": "1082cae8-e304-4ef9-9354-159abb0291e1",
+	"Outputs": [
+		{
+			"Address": "0x461d450972ab2e50b96748e8e0ad4ba66fa868cc",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2a9ce82d0fe6a40c585d1b6d80134af8109b922a",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BSHIK-WETH",
+	"Chain": "ethereum"
+}

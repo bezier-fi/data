@@ -1,0 +1,10 @@
+{
+	"Id": "0xd733ad471aa83eb53a83aa415b380728edba330b",
+	"Symbol": "ONIGI-WETH",
+	"UnderlyingTokens": [
+		"0xb4615aad766f6de3c55330099e907ff7f13f1582",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "1082cae8-e304-4ef9-9354-159abb0291e1",
+	"Chain": "ethereum"
+}

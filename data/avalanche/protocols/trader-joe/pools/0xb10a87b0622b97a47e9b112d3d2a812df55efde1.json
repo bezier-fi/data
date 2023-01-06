@@ -1,0 +1,27 @@
+{
+	"Id": "0xb10a87b0622b97a47e9b112d3d2a812df55efde1",
+	"Protocol": "0b232496-6a97-40a7-add2-f5b4c37688f2",
+	"Outputs": [
+		{
+			"Address": "0xb10a87b0622b97a47e9b112d3d2a812df55efde1",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa0105d7fc6190598523f568001a71164341b0a22",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xf5b1a0d66856cbf5627b0105714a7e8a89977349",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SUB-ZSHARE",
+	"Chain": "avalanche"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xdc203dc4f8f41a1726f8ec35617efc4f706dedec",
+	"Symbol": "LAMAS-WETH",
+	"UnderlyingTokens": [
+		"0x07f9a69afd1bc5b3938ad23190da6e9eb077af41",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "1082cae8-e304-4ef9-9354-159abb0291e1",
+	"Chain": "ethereum"
+}

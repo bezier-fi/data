@@ -1,0 +1,10 @@
+{
+	"Id": "0xb0492af530c14b5fd9d84a93942721efb255a7c1",
+	"Symbol": "LYKOI-WETH",
+	"UnderlyingTokens": [
+		"0x5247b39259d06fced7510a294e0be66aceba6b4e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "1082cae8-e304-4ef9-9354-159abb0291e1",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x0b26b022feb7b3823140c87598c5472ca49dc8a1",
+	"Protocol": "0b232496-6a97-40a7-add2-f5b4c37688f2",
+	"Outputs": [
+		{
+			"Address": "0x0b26b022feb7b3823140c87598c5472ca49dc8a1",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x63dd6f87e8bd5008878e51daf473dfb3105c7537",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MASS-USDC",
+	"Chain": "avalanche"
+}

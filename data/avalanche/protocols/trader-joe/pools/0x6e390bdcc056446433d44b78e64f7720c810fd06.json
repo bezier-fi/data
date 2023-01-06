@@ -1,0 +1,27 @@
+{
+	"Id": "0x6e390bdcc056446433d44b78e64f7720c810fd06",
+	"Protocol": "0b232496-6a97-40a7-add2-f5b4c37688f2",
+	"Outputs": [
+		{
+			"Address": "0x6e390bdcc056446433d44b78e64f7720c810fd06",
+			"Apr": 0.029907815,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x536e911b8ba66c9a8697bf7d7b9924456abcc9e7",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "STASH-WAVAX",
+	"Chain": "avalanche"
+}

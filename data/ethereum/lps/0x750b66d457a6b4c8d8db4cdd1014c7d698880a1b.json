@@ -1,0 +1,10 @@
+{
+	"Id": "0x750b66d457a6b4c8d8db4cdd1014c7d698880a1b",
+	"Symbol": "$SHINREI  -WETH",
+	"UnderlyingTokens": [
+		"0x9e6f5887155fc854cf66d7a80b9bbc8e741dddd1",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "1082cae8-e304-4ef9-9354-159abb0291e1",
+	"Chain": "ethereum"
+}

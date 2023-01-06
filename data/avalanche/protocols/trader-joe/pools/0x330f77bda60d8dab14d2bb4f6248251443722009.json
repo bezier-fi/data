@@ -1,0 +1,27 @@
+{
+	"Id": "0x330f77bda60d8dab14d2bb4f6248251443722009",
+	"Protocol": "0b232496-6a97-40a7-add2-f5b4c37688f2",
+	"Outputs": [
+		{
+			"Address": "0x330f77bda60d8dab14d2bb4f6248251443722009",
+			"Apr": 0.0077353814,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "STG-USDC",
+	"Chain": "avalanche"
+}

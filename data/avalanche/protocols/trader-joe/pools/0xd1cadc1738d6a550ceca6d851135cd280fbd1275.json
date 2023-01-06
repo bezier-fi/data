@@ -1,0 +1,27 @@
+{
+	"Id": "0xd1cadc1738d6a550ceca6d851135cd280fbd1275",
+	"Protocol": "0b232496-6a97-40a7-add2-f5b4c37688f2",
+	"Outputs": [
+		{
+			"Address": "0xd1cadc1738d6a550ceca6d851135cd280fbd1275",
+			"Apr": 1.832113,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x31c994ac062c1970c086260bc61babb708643fac",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "XETA-USDC",
+	"Chain": "avalanche"
+}

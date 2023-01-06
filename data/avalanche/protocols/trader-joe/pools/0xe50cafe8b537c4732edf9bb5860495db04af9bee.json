@@ -1,0 +1,27 @@
+{
+	"Id": "0xe50cafe8b537c4732edf9bb5860495db04af9bee",
+	"Protocol": "0b232496-6a97-40a7-add2-f5b4c37688f2",
+	"Outputs": [
+		{
+			"Address": "0xe50cafe8b537c4732edf9bb5860495db04af9bee",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xfd4a382823145b1c381b769ed53bc0f2b93c82a1",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC.e-SUV",
+	"Chain": "avalanche"
+}

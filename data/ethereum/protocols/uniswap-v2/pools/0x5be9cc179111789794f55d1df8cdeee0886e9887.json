@@ -1,0 +1,27 @@
+{
+	"Id": "0x5be9cc179111789794f55d1df8cdeee0886e9887",
+	"Protocol": "9baf914a-89c4-47ed-a735-69cb83b7794c",
+	"Outputs": [
+		{
+			"Address": "0x5be9cc179111789794f55d1df8cdeee0886e9887",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x17c7bfe25ed95d72f0c066ba08812744163bfffb",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BTC23-WETH",
+	"Chain": "ethereum"
+}

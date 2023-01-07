@@ -1,0 +1,10 @@
+{
+	"Id": "0xbeac0a93b1a8df981127a63e2d46ec2a3b4590a5",
+	"Symbol": "SHIBBZ-WETH",
+	"UnderlyingTokens": [
+		"0x7c19005776d35cb80d0b4a189bb06e947e260aab",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "9baf914a-89c4-47ed-a735-69cb83b7794c",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x9ecfbcd5bdc65a7ee3558b4b2806e08d4f6670bd",
+	"Symbol": "Samsara-WETH",
+	"UnderlyingTokens": [
+		"0x4ce8cd92f70ea82db2316a90cb9b0f22fda51321",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "9baf914a-89c4-47ed-a735-69cb83b7794c",
+	"Chain": "ethereum"
+}

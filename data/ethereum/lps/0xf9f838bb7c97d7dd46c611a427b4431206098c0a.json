@@ -1,0 +1,10 @@
+{
+	"Id": "0xf9f838bb7c97d7dd46c611a427b4431206098c0a",
+	"Symbol": "BPUNKS-WETH",
+	"UnderlyingTokens": [
+		"0x9e44be761e9248ca8e78c294981630f2143beb9c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "9baf914a-89c4-47ed-a735-69cb83b7794c",
+	"Chain": "ethereum"
+}

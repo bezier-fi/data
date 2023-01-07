@@ -1,0 +1,10 @@
+{
+	"Id": "0x96543d14c32a5bb5638570357815c16463f49b1a",
+	"Symbol": "Pusuke-WETH",
+	"UnderlyingTokens": [
+		"0x5dd0d493ea59d512efc13d5c1f9d325775192877",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "9baf914a-89c4-47ed-a735-69cb83b7794c",
+	"Chain": "ethereum"
+}

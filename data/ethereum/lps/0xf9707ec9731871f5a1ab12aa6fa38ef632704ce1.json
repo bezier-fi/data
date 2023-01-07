@@ -1,0 +1,10 @@
+{
+	"Id": "0xf9707ec9731871f5a1ab12aa6fa38ef632704ce1",
+	"Symbol": "NYAN23-WETH",
+	"UnderlyingTokens": [
+		"0x2ed84c91d2d01ef6a6d1405ef3aaef89f2950fd8",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "9baf914a-89c4-47ed-a735-69cb83b7794c",
+	"Chain": "ethereum"
+}

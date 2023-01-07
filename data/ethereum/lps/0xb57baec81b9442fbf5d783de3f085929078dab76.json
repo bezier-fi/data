@@ -1,0 +1,10 @@
+{
+	"Id": "0xb57baec81b9442fbf5d783de3f085929078dab76",
+	"Symbol": "TSUJI-WETH",
+	"UnderlyingTokens": [
+		"0xa478adbaad995b73d481449f932619f03d4f25a0",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "9baf914a-89c4-47ed-a735-69cb83b7794c",
+	"Chain": "ethereum"
+}

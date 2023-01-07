@@ -1,0 +1,27 @@
+{
+	"Id": "0xc533b35a10c03d225a4f1ccc3a206a368489c844",
+	"Protocol": "9baf914a-89c4-47ed-a735-69cb83b7794c",
+	"Outputs": [
+		{
+			"Address": "0xc533b35a10c03d225a4f1ccc3a206a368489c844",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xcfc19e20d0a7c57b7bfa18c74179de576cd29ecb",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-Muni",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xa13c91a98d8c98f84f58a95a10aba8b8be541abe",
+	"Symbol": "OKAGE-WETH",
+	"UnderlyingTokens": [
+		"0x8dfc8cc3201425669fae803e1eb125cddd4189ec",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "9baf914a-89c4-47ed-a735-69cb83b7794c",
+	"Chain": "ethereum"
+}

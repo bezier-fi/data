@@ -1,0 +1,10 @@
+{
+	"Id": "0xe9ee3c5ef6e0bb7c731dfa5b09ffdde0c3830a23",
+	"Symbol": "SHISHA-WETH",
+	"UnderlyingTokens": [
+		"0x748322e69311077a18a57024ee4a6ce482eae6e2",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "9baf914a-89c4-47ed-a735-69cb83b7794c",
+	"Chain": "ethereum"
+}

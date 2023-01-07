@@ -1,0 +1,27 @@
+{
+	"Id": "0x91f167eba5c178950aa312c2738bf1e343e7ee0f",
+	"Protocol": "9baf914a-89c4-47ed-a735-69cb83b7794c",
+	"Outputs": [
+		{
+			"Address": "0x91f167eba5c178950aa312c2738bf1e343e7ee0f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x897bac08c74ebb0360becf2092a747fb261407e3",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "POMSKY-WETH",
+	"Chain": "ethereum"
+}

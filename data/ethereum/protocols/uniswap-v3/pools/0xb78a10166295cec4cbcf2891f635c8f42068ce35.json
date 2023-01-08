@@ -1,0 +1,27 @@
+{
+	"Id": "0xb78a10166295cec4cbcf2891f635c8f42068ce35",
+	"Protocol": "60b1a247-202c-45da-a3ca-aef86b038191",
+	"Outputs": [
+		{
+			"Address": "0xb78a10166295cec4cbcf2891f635c8f42068ce35",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xcfcffe432a48db53f59c301422d2edd77b2a88d7",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC-TEXAN (1.00%)",
+	"Chain": "ethereum"
+}

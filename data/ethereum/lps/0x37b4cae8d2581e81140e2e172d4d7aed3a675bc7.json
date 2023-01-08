@@ -1,0 +1,10 @@
+{
+	"Id": "0x37b4cae8d2581e81140e2e172d4d7aed3a675bc7",
+	"Symbol": "WETH-VRA",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xdf1d6405df92d981a2fb3ce68f6a03bac6c0e41f"
+	],
+	"Protocol": "ceddee3b-fd5d-4056-b056-fa2095f621d4",
+	"Chain": "ethereum"
+}

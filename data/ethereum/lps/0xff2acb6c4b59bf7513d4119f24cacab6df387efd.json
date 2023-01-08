@@ -1,0 +1,10 @@
+{
+	"Id": "0xff2acb6c4b59bf7513d4119f24cacab6df387efd",
+	"Symbol": "ChatGPT-WETH",
+	"UnderlyingTokens": [
+		"0x47dd1d235861590b11b415d21f4c6b4e44a36a9a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ceddee3b-fd5d-4056-b056-fa2095f621d4",
+	"Chain": "ethereum"
+}

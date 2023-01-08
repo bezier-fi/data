@@ -1,0 +1,27 @@
+{
+	"Id": "0xcbb8b1a2a0b5181cc53382c659eab366c60a889a",
+	"Protocol": "ceddee3b-fd5d-4056-b056-fa2095f621d4",
+	"Outputs": [
+		{
+			"Address": "0xcbb8b1a2a0b5181cc53382c659eab366c60a889a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5c068ea2a0533e1d419988a4e2ee2646ea43364d",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BONKED-WETH",
+	"Chain": "ethereum"
+}

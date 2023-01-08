@@ -1,0 +1,10 @@
+{
+	"Id": "0x60a69ee3506ebf59caa371e99eaa5229bd68026e",
+	"Symbol": "WETH-PSP (0.30%)",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xcafe001067cdef266afb7eb5a286dcfd277f3de5"
+	],
+	"Protocol": "60b1a247-202c-45da-a3ca-aef86b038191",
+	"Chain": "ethereum"
+}

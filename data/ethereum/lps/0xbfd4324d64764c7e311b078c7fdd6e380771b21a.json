@@ -1,0 +1,10 @@
+{
+	"Id": "0xbfd4324d64764c7e311b078c7fdd6e380771b21a",
+	"Symbol": "WETH-G23",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xee28a1a8d481204b7ce3f170a871a326a4fb5938"
+	],
+	"Protocol": "ceddee3b-fd5d-4056-b056-fa2095f621d4",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xe827d32a9fe0cbec07d86a98438393ffc19599da",
+	"Symbol": "KUMA-WETH",
+	"UnderlyingTokens": [
+		"0x8eaba57713b44f120dead9c85cf29cec5a15f589",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ceddee3b-fd5d-4056-b056-fa2095f621d4",
+	"Chain": "ethereum"
+}

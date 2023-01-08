@@ -1,0 +1,10 @@
+{
+	"Id": "0x1f941b1b608222cbdedbd33421e6d7b2b19261c4",
+	"Symbol": "SNOOP-WETH",
+	"UnderlyingTokens": [
+		"0xb9532001b7903b8785b4e1ab6105da66e6b15cc2",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ceddee3b-fd5d-4056-b056-fa2095f621d4",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x3c3d2927f75814ec1d5bae4384bdb4315fdc5847",
+	"Symbol": "WBONK-WETH",
+	"UnderlyingTokens": [
+		"0x84096c27927a012d29d5ae2889239c821827a8f6",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ceddee3b-fd5d-4056-b056-fa2095f621d4",
+	"Chain": "ethereum"
+}

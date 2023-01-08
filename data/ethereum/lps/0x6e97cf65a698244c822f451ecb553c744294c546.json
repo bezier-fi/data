@@ -1,0 +1,10 @@
+{
+	"Id": "0x6e97cf65a698244c822f451ecb553c744294c546",
+	"Symbol": "Fantom-WETH",
+	"UnderlyingTokens": [
+		"0xb87045293ddcff293a73c73362d4f0e2f9feb97a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ceddee3b-fd5d-4056-b056-fa2095f621d4",
+	"Chain": "ethereum"
+}

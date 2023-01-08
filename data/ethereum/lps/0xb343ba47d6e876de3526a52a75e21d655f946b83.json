@@ -1,0 +1,10 @@
+{
+	"Id": "0xb343ba47d6e876de3526a52a75e21d655f946b83",
+	"Symbol": "RVR-WETH",
+	"UnderlyingTokens": [
+		"0xb8b4b66852275355d591b90e5b75f84caefff392",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ceddee3b-fd5d-4056-b056-fa2095f621d4",
+	"Chain": "ethereum"
+}

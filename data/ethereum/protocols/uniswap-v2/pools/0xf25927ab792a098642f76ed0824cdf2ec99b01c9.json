@@ -1,0 +1,27 @@
+{
+	"Id": "0xf25927ab792a098642f76ed0824cdf2ec99b01c9",
+	"Protocol": "ceddee3b-fd5d-4056-b056-fa2095f621d4",
+	"Outputs": [
+		{
+			"Address": "0xf25927ab792a098642f76ed0824cdf2ec99b01c9",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3819f64f282bf135d62168c1e513280daf905e06",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xd0a69fd9da28840603fbd76a8a0bccf0adb979e8",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "HDRN-VVV",
+	"Chain": "ethereum"
+}

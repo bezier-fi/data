@@ -1,0 +1,10 @@
+{
+	"Id": "0xed832c7b083f4ddfbc2a72834b9d41e1188f9eec",
+	"Symbol": "Zaku-WETH",
+	"UnderlyingTokens": [
+		"0x95ba4d5f0824cdb42ac5318037dc5b68b5b5600f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ceddee3b-fd5d-4056-b056-fa2095f621d4",
+	"Chain": "ethereum"
+}

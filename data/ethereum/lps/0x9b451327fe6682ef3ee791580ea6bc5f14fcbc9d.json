@@ -1,0 +1,10 @@
+{
+	"Id": "0x9b451327fe6682ef3ee791580ea6bc5f14fcbc9d",
+	"Symbol": "WETH-AGIOMI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf7f10d6730303b888ed8dd1267ca3bf065b8fa2d"
+	],
+	"Protocol": "ceddee3b-fd5d-4056-b056-fa2095f621d4",
+	"Chain": "ethereum"
+}

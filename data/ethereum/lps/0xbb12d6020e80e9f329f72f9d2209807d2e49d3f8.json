@@ -1,0 +1,10 @@
+{
+	"Id": "0xbb12d6020e80e9f329f72f9d2209807d2e49d3f8",
+	"Symbol": "EVA-USDT",
+	"UnderlyingTokens": [
+		"0xd6caf5bd23cf057f5fccce295dcc50c01c198707",
+		"0xdac17f958d2ee523a2206206994597c13d831ec7"
+	],
+	"Protocol": "ceddee3b-fd5d-4056-b056-fa2095f621d4",
+	"Chain": "ethereum"
+}

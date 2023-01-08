@@ -1,0 +1,10 @@
+{
+	"Id": "0xcb5e9a9339f07483104db6630114ef3501e4bf1a",
+	"Symbol": "MUDI-WETH",
+	"UnderlyingTokens": [
+		"0x9c338661853979d5f7023686fa70ab7707580749",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ceddee3b-fd5d-4056-b056-fa2095f621d4",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x9da6dfb2ecb09132e848ee1c6a72b3ca2941db61",
+	"Symbol": "WETH-KARA",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xda35f041bab973ff126472f98df916c4e539ea3a"
+	],
+	"Protocol": "ceddee3b-fd5d-4056-b056-fa2095f621d4",
+	"Chain": "ethereum"
+}

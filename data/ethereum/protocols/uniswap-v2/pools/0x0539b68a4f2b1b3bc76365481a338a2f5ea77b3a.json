@@ -1,0 +1,27 @@
+{
+	"Id": "0x0539b68a4f2b1b3bc76365481a338a2f5ea77b3a",
+	"Protocol": "ceddee3b-fd5d-4056-b056-fa2095f621d4",
+	"Outputs": [
+		{
+			"Address": "0x0539b68a4f2b1b3bc76365481a338a2f5ea77b3a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xbef7071b5824760618fa1763581bc3259bc6ca3a",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TORTY-WETH",
+	"Chain": "ethereum"
+}

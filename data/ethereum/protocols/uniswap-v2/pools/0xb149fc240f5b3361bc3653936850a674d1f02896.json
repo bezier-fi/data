@@ -1,0 +1,27 @@
+{
+	"Id": "0xb149fc240f5b3361bc3653936850a674d1f02896",
+	"Protocol": "ceddee3b-fd5d-4056-b056-fa2095f621d4",
+	"Outputs": [
+		{
+			"Address": "0xb149fc240f5b3361bc3653936850a674d1f02896",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x80951fe785c49096463246ebb09e1d91f78b6de6",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "AURORA-WETH",
+	"Chain": "ethereum"
+}

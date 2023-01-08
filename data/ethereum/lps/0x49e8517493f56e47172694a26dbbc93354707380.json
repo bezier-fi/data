@@ -1,0 +1,10 @@
+{
+	"Id": "0x49e8517493f56e47172694a26dbbc93354707380",
+	"Symbol": "ZHOU-WETH",
+	"UnderlyingTokens": [
+		"0x4d88405f6126df719980847006724d57d755e883",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ceddee3b-fd5d-4056-b056-fa2095f621d4",
+	"Chain": "ethereum"
+}

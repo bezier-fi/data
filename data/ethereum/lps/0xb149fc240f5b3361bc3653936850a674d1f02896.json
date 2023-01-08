@@ -1,0 +1,10 @@
+{
+	"Id": "0xb149fc240f5b3361bc3653936850a674d1f02896",
+	"Symbol": "AURORA-WETH",
+	"UnderlyingTokens": [
+		"0x80951fe785c49096463246ebb09e1d91f78b6de6",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ceddee3b-fd5d-4056-b056-fa2095f621d4",
+	"Chain": "ethereum"
+}

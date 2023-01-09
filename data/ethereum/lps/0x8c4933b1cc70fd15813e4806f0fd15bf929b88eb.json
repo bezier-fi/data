@@ -1,0 +1,10 @@
+{
+	"Id": "0x8c4933b1cc70fd15813e4806f0fd15bf929b88eb",
+	"Symbol": "Audi-WETH",
+	"UnderlyingTokens": [
+		"0x666af28b64b543a091bc9440d2ce140fd5cc8bd7",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3d5d6215-1f01-47e4-a7eb-37d9fc8328a6",
+	"Chain": "ethereum"
+}

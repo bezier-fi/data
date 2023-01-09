@@ -1,0 +1,10 @@
+{
+	"Id": "0x866bd373c44951f98a2f9a23c4245b8627adcfea",
+	"Symbol": "ASAI-WETH",
+	"UnderlyingTokens": [
+		"0x6a5bbec5d15ed1c36e48849cf6b09a8be7171b1b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3d5d6215-1f01-47e4-a7eb-37d9fc8328a6",
+	"Chain": "ethereum"
+}

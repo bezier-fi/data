@@ -1,0 +1,10 @@
+{
+	"Id": "0x431e005605c2a1ecc01deda65a6cf4f9e89699ab",
+	"Symbol": " OKG-WETH",
+	"UnderlyingTokens": [
+		"0x947cbc4890be39f6d8f317b591feb3cf7e290555",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3d5d6215-1f01-47e4-a7eb-37d9fc8328a6",
+	"Chain": "ethereum"
+}

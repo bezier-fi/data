@@ -1,0 +1,10 @@
+{
+	"Id": "0xa41051ecfa2802a8a7f02b254d8635783d84e0cd",
+	"Symbol": "SHIBARIUM-WETH",
+	"UnderlyingTokens": [
+		"0x0a6373644a8c7cd3b851ec80fb52feee28e9ee14",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3d5d6215-1f01-47e4-a7eb-37d9fc8328a6",
+	"Chain": "ethereum"
+}

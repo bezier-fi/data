@@ -1,0 +1,10 @@
+{
+	"Id": "0xa00d8a66bc2a58eb12d58958cf1f1da49e29fc05",
+	"Symbol": "OHMI-WETH",
+	"UnderlyingTokens": [
+		"0x5fe169aabf043135774d86cb481db934cac9957a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3d5d6215-1f01-47e4-a7eb-37d9fc8328a6",
+	"Chain": "ethereum"
+}

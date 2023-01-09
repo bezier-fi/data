@@ -1,0 +1,27 @@
+{
+	"Id": "0x46cf692b24c7492faf3f0424326a9f24da1d61ce",
+	"Protocol": "8b328656-a5f7-4825-a60b-adaf8599c6d4",
+	"Outputs": [
+		{
+			"Address": "0x46cf692b24c7492faf3f0424326a9f24da1d61ce",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x300211def2a644b036a9bdd3e58159bb2074d388",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xf6372cdb9c1d3674e83842e3800f2a62ac9f3c66",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CIOTX-IOTX (0.01%)",
+	"Chain": "polygon"
+}

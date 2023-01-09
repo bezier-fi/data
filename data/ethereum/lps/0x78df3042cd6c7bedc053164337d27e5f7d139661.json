@@ -1,0 +1,10 @@
+{
+	"Id": "0x78df3042cd6c7bedc053164337d27e5f7d139661",
+	"Symbol": "OSC-WETH",
+	"UnderlyingTokens": [
+		"0x9e09164e04a960ae6c69421a1fb6b0b06d262c6f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3d5d6215-1f01-47e4-a7eb-37d9fc8328a6",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xce22159c2c6d21368d8bbff097c86b9f589ef5b0",
+	"Symbol": "YODA-WETH",
+	"UnderlyingTokens": [
+		"0x3222e3d44b4636467ea4ca89fb14c254673ad108",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "62786fd6-ce0b-4636-a103-85a8c44f7679",
+	"Chain": "ethereum"
+}

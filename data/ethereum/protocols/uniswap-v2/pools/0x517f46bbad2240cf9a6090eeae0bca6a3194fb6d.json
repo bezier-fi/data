@@ -1,0 +1,27 @@
+{
+	"Id": "0x517f46bbad2240cf9a6090eeae0bca6a3194fb6d",
+	"Protocol": "62786fd6-ce0b-4636-a103-85a8c44f7679",
+	"Outputs": [
+		{
+			"Address": "0x517f46bbad2240cf9a6090eeae0bca6a3194fb6d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x293e9c6b3b212ee1b63960eee44ae6e4dd46379c",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "pleasr.house-WETH",
+	"Chain": "ethereum"
+}

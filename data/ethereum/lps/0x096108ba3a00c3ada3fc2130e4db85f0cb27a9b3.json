@@ -1,0 +1,10 @@
+{
+	"Id": "0x096108ba3a00c3ada3fc2130e4db85f0cb27a9b3",
+	"Symbol": "DOSU-WETH",
+	"UnderlyingTokens": [
+		"0x43fa45863a98cdebc74ad1f745936fc269b3164e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "62786fd6-ce0b-4636-a103-85a8c44f7679",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x70a5505276f5e60055c1f531f16a7e394a3ca4ee",
+	"Symbol": "WETH-AXIS",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xecc0f1f860a82ab3b442382d93853c02d6384389"
+	],
+	"Protocol": "62786fd6-ce0b-4636-a103-85a8c44f7679",
+	"Chain": "ethereum"
+}

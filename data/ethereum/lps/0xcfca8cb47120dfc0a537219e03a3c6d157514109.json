@@ -1,0 +1,10 @@
+{
+	"Id": "0xcfca8cb47120dfc0a537219e03a3c6d157514109",
+	"Symbol": "APT1-WETH",
+	"UnderlyingTokens": [
+		"0xa68aa17ee769a1327ce3b7ac891a909a677a5856",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ba5dd0e6-af07-41a7-8bb5-0fb5ac57a1cb",
+	"Chain": "ethereum"
+}

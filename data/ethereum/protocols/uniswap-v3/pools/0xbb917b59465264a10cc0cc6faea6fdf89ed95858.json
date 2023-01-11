@@ -1,0 +1,27 @@
+{
+	"Id": "0xbb917b59465264a10cc0cc6faea6fdf89ed95858",
+	"Protocol": "eca58a81-c662-4188-b766-a40b90c1793b",
+	"Outputs": [
+		{
+			"Address": "0xbb917b59465264a10cc0cc6faea6fdf89ed95858",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x27702a26126e0b3702af63ee09ac4d1a084ef628",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ALEPH-USDC (0.30%)",
+	"Chain": "ethereum"
+}

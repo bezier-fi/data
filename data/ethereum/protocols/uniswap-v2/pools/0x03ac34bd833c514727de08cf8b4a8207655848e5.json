@@ -1,0 +1,27 @@
+{
+	"Id": "0x03ac34bd833c514727de08cf8b4a8207655848e5",
+	"Protocol": "ba5dd0e6-af07-41a7-8bb5-0fb5ac57a1cb",
+	"Outputs": [
+		{
+			"Address": "0x03ac34bd833c514727de08cf8b4a8207655848e5",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xf78776213198ee241b7d59e82d9fa5dd3cb3fdd3",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-Gonk",
+	"Chain": "ethereum"
+}

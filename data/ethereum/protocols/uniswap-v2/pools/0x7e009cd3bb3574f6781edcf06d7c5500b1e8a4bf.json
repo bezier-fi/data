@@ -1,0 +1,27 @@
+{
+	"Id": "0x7e009cd3bb3574f6781edcf06d7c5500b1e8a4bf",
+	"Protocol": "ba5dd0e6-af07-41a7-8bb5-0fb5ac57a1cb",
+	"Outputs": [
+		{
+			"Address": "0x7e009cd3bb3574f6781edcf06d7c5500b1e8a4bf",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x106fd7ca8621432d88015fd994031ecf76ee7397",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "OKIMARU-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0xf63b527a60787d3580ff7a386dfbd9109f1f95a6",
+	"Protocol": "ba5dd0e6-af07-41a7-8bb5-0fb5ac57a1cb",
+	"Outputs": [
+		{
+			"Address": "0xf63b527a60787d3580ff7a386dfbd9109f1f95a6",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3a744b99ce40d8445c30bf0965c2c9be2f757894",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "$KIBI -WETH",
+	"Chain": "ethereum"
+}

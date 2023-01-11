@@ -1,0 +1,10 @@
+{
+	"Id": "0xd69ffdc5529dd34f8afc90de098d88ee5e79d3cf",
+	"Symbol": "MINE-WETH",
+	"UnderlyingTokens": [
+		"0x4af4c553b4d47eb5a5810d44bc1998a6fc273ff5",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ba5dd0e6-af07-41a7-8bb5-0fb5ac57a1cb",
+	"Chain": "ethereum"
+}

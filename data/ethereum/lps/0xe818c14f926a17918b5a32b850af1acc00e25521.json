@@ -1,0 +1,10 @@
+{
+	"Id": "0xe818c14f926a17918b5a32b850af1acc00e25521",
+	"Symbol": "KNDM-WETH",
+	"UnderlyingTokens": [
+		"0x1ae378cc5d38350ec90ce9bcf827a544cb2bba75",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ba5dd0e6-af07-41a7-8bb5-0fb5ac57a1cb",
+	"Chain": "ethereum"
+}

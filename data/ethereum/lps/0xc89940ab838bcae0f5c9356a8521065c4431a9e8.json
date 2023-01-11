@@ -1,0 +1,10 @@
+{
+	"Id": "0xc89940ab838bcae0f5c9356a8521065c4431a9e8",
+	"Symbol": "CHICKY-WETH",
+	"UnderlyingTokens": [
+		"0x37f760f14fe8d1f41aaed44c4196d0bdd9637e70",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ba5dd0e6-af07-41a7-8bb5-0fb5ac57a1cb",
+	"Chain": "ethereum"
+}

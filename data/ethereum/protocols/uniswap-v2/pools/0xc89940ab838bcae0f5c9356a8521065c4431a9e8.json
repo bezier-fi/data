@@ -1,0 +1,27 @@
+{
+	"Id": "0xc89940ab838bcae0f5c9356a8521065c4431a9e8",
+	"Protocol": "ba5dd0e6-af07-41a7-8bb5-0fb5ac57a1cb",
+	"Outputs": [
+		{
+			"Address": "0xc89940ab838bcae0f5c9356a8521065c4431a9e8",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x37f760f14fe8d1f41aaed44c4196d0bdd9637e70",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CHICKY-WETH",
+	"Chain": "ethereum"
+}

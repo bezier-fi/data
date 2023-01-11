@@ -1,0 +1,10 @@
+{
+	"Id": "0x977355ac0f7847cc26eab41ca91f480ebfdd71a5",
+	"Symbol": "KOTV-WETH",
+	"UnderlyingTokens": [
+		"0xa5d560ff31a97cf88c84d9298ff92189ec7044c6",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ba5dd0e6-af07-41a7-8bb5-0fb5ac57a1cb",
+	"Chain": "ethereum"
+}

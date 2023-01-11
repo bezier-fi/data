@@ -1,0 +1,10 @@
+{
+	"Id": "0x8fbc16b6fc2af49ea918298c381b0aff5b4d7bd8",
+	"Symbol": "DEXY-WETH",
+	"UnderlyingTokens": [
+		"0x2da9cc8da9e6fc64fbb4528711292133f47a7be6",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ba5dd0e6-af07-41a7-8bb5-0fb5ac57a1cb",
+	"Chain": "ethereum"
+}

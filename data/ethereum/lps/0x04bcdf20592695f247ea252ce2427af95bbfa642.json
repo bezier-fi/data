@@ -1,0 +1,10 @@
+{
+	"Id": "0x04bcdf20592695f247ea252ce2427af95bbfa642",
+	"Symbol": "WETH-FLUX",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf0aed249ace7e2ac481667149e09ed3f888e5e49"
+	],
+	"Protocol": "ba5dd0e6-af07-41a7-8bb5-0fb5ac57a1cb",
+	"Chain": "ethereum"
+}

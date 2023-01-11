@@ -1,0 +1,27 @@
+{
+	"Id": "0xc65239906a91c8d35bddfcfb20a619febe928c94",
+	"Protocol": "ba5dd0e6-af07-41a7-8bb5-0fb5ac57a1cb",
+	"Outputs": [
+		{
+			"Address": "0xc65239906a91c8d35bddfcfb20a619febe928c94",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6e6579ba2a6b4cad1103341c8ee237f377532d4a",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Doodles2-WETH",
+	"Chain": "ethereum"
+}

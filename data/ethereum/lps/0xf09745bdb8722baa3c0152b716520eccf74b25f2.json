@@ -1,0 +1,10 @@
+{
+	"Id": "0xf09745bdb8722baa3c0152b716520eccf74b25f2",
+	"Symbol": "MARU-WETH",
+	"UnderlyingTokens": [
+		"0x9355a6b0227b0a77d74d67dd1eeca78903603904",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ba5dd0e6-af07-41a7-8bb5-0fb5ac57a1cb",
+	"Chain": "ethereum"
+}

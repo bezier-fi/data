@@ -1,0 +1,27 @@
+{
+	"Id": "0x0b8d15d67755654174d4c66829b23a32dc046a1e",
+	"Protocol": "ba5dd0e6-af07-41a7-8bb5-0fb5ac57a1cb",
+	"Outputs": [
+		{
+			"Address": "0x0b8d15d67755654174d4c66829b23a32dc046a1e",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x018ef06efcc695839b96fc38e60dedd9ce6dd465",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DBONE-WETH",
+	"Chain": "ethereum"
+}

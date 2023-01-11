@@ -1,0 +1,10 @@
+{
+	"Id": "0x93da5a7a697cd3a60aa724de020184034e85a2e6",
+	"Symbol": "EthRISE-WETH",
+	"UnderlyingTokens": [
+		"0xb67c86a567e98d97e3e68a1d7deca28d8235147e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ba5dd0e6-af07-41a7-8bb5-0fb5ac57a1cb",
+	"Chain": "ethereum"
+}

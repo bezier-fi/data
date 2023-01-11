@@ -1,0 +1,10 @@
+{
+	"Id": "0xb39d632c9f17e694225a5640d4e7a45886a4bc8b",
+	"Symbol": "WETH-YouTube",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd9ba873be27afb377a61b3d6b9b983ed6cbf1bd6"
+	],
+	"Protocol": "ba5dd0e6-af07-41a7-8bb5-0fb5ac57a1cb",
+	"Chain": "ethereum"
+}

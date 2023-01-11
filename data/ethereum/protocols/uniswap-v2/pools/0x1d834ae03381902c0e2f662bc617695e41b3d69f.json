@@ -1,0 +1,27 @@
+{
+	"Id": "0x1d834ae03381902c0e2f662bc617695e41b3d69f",
+	"Protocol": "ba5dd0e6-af07-41a7-8bb5-0fb5ac57a1cb",
+	"Outputs": [
+		{
+			"Address": "0x1d834ae03381902c0e2f662bc617695e41b3d69f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7d2ce16e44a5a152228cc227b81d0a02565f578e",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GOWILLA-WETH",
+	"Chain": "ethereum"
+}

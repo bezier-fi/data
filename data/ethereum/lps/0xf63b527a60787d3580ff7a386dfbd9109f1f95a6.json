@@ -1,0 +1,10 @@
+{
+	"Id": "0xf63b527a60787d3580ff7a386dfbd9109f1f95a6",
+	"Symbol": "$KIBI -WETH",
+	"UnderlyingTokens": [
+		"0x3a744b99ce40d8445c30bf0965c2c9be2f757894",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ba5dd0e6-af07-41a7-8bb5-0fb5ac57a1cb",
+	"Chain": "ethereum"
+}

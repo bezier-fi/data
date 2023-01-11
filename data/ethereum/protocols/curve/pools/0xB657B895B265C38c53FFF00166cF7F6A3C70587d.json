@@ -1,0 +1,27 @@
+{
+	"Id": "0xB657B895B265C38c53FFF00166cF7F6A3C70587d",
+	"Protocol": "ed609aca-1f41-4681-a9ab-f561c9ce7b0a",
+	"Outputs": [
+		{
+			"Address": "0xB657B895B265C38c53FFF00166cF7F6A3C70587d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0100546F2cD4C9D97f798fFC9755E47865FF7Ee6",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x5E8422345238F34275888049021821E8E08CAa1f",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "alfrxETH-f",
+	"Chain": "ethereum"
+}

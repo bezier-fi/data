@@ -1,0 +1,10 @@
+{
+	"Id": "0x1d834ae03381902c0e2f662bc617695e41b3d69f",
+	"Symbol": "GOWILLA-WETH",
+	"UnderlyingTokens": [
+		"0x7d2ce16e44a5a152228cc227b81d0a02565f578e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ba5dd0e6-af07-41a7-8bb5-0fb5ac57a1cb",
+	"Chain": "ethereum"
+}

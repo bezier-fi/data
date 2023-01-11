@@ -1,0 +1,10 @@
+{
+	"Id": "0x78394149557091a174f4d4fb1bb69551aad12e71",
+	"Symbol": "SHIB2-WETH",
+	"UnderlyingTokens": [
+		"0xb84c98088b1ded81ee5b6cee576a15752176de17",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ba5dd0e6-af07-41a7-8bb5-0fb5ac57a1cb",
+	"Chain": "ethereum"
+}

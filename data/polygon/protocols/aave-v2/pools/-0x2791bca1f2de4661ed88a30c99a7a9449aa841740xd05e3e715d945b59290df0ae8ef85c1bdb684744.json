@@ -1,17 +1,17 @@
 {
 	"Id": "0x2791bca1f2de4661ed88a30c99a7a9449aa841740xd05e3e715d945b59290df0ae8ef85c1bdb684744",
-	"Protocol": "571d353a-8c80-4ac4-b338-eda72bbc0db1",
+	"Protocol": "d884a4e2-aa1f-4caf-9b77-83a50688adb8",
 	"Outputs": [
 		{
 			"Address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
-			"Apr": -4.8431897,
+			"Apr": -4.837158,
 			"GroupId": 1,
 			"Key": "stable",
 			"RequiredKeyInGroup": null
 		},
 		{
 			"Address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
-			"Apr": -1.8863794,
+			"Apr": -1.8743163,
 			"GroupId": 1,
 			"Key": "variable",
 			"RequiredKeyInGroup": null

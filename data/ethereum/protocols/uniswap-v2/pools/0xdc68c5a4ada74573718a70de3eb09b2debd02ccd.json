@@ -1,0 +1,27 @@
+{
+	"Id": "0xdc68c5a4ada74573718a70de3eb09b2debd02ccd",
+	"Protocol": "0db17f84-6be8-48ec-9461-38f0f1dace3d",
+	"Outputs": [
+		{
+			"Address": "0xdc68c5a4ada74573718a70de3eb09b2debd02ccd",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xdb5c9bbe8aff5b13597f4508a45233e159b08179",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-SNOOP",
+	"Chain": "ethereum"
+}

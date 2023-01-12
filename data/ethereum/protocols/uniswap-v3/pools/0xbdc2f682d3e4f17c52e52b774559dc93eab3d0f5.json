@@ -1,0 +1,27 @@
+{
+	"Id": "0xbdc2f682d3e4f17c52e52b774559dc93eab3d0f5",
+	"Protocol": "74467c28-25d7-492d-a26c-837314390e33",
+	"Outputs": [
+		{
+			"Address": "0xbdc2f682d3e4f17c52e52b774559dc93eab3d0f5",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6b0956258ff7bd7645aa35369b55b61b8e6d6140",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xfc4913214444af5c715cc9f7b52655e788a569ed",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "LUCKY-ICSA (1.00%)",
+	"Chain": "ethereum"
+}

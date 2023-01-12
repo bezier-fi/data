@@ -1,0 +1,27 @@
+{
+	"Id": "0xeb7cebe6a8a44e07083bcd1362ce0b36fa8d0c87",
+	"Protocol": "0db17f84-6be8-48ec-9461-38f0f1dace3d",
+	"Outputs": [
+		{
+			"Address": "0xeb7cebe6a8a44e07083bcd1362ce0b36fa8d0c87",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x52dd4d0643f77bc027f04be48d9c2b626baf599f",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Jiffpom-WETH",
+	"Chain": "ethereum"
+}

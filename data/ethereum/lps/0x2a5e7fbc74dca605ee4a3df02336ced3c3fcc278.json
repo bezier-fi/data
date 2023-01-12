@@ -1,0 +1,10 @@
+{
+	"Id": "0x2a5e7fbc74dca605ee4a3df02336ced3c3fcc278",
+	"Symbol": "alogo-WETH",
+	"UnderlyingTokens": [
+		"0x4c03f633dc7a68c46345484d93fffb816d911761",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "0db17f84-6be8-48ec-9461-38f0f1dace3d",
+	"Chain": "ethereum"
+}

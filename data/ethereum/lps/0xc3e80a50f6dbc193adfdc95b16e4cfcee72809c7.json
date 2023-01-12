@@ -1,0 +1,10 @@
+{
+	"Id": "0xc3e80a50f6dbc193adfdc95b16e4cfcee72809c7",
+	"Symbol": "JIFF-WETH",
+	"UnderlyingTokens": [
+		"0x5d4f9eddc7b0ad2d74348567a7c757e2ec657d47",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "0db17f84-6be8-48ec-9461-38f0f1dace3d",
+	"Chain": "ethereum"
+}

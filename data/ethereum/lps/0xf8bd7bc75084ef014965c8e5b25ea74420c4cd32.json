@@ -1,0 +1,10 @@
+{
+	"Id": "0xf8bd7bc75084ef014965c8e5b25ea74420c4cd32",
+	"Symbol": "WETH-KENZO",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf25ae30a78733b04c23d624b5f71dfdaabeaac6d"
+	],
+	"Protocol": "0db17f84-6be8-48ec-9461-38f0f1dace3d",
+	"Chain": "ethereum"
+}

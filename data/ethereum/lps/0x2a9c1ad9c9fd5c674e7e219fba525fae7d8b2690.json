@@ -1,0 +1,10 @@
+{
+	"Id": "0x2a9c1ad9c9fd5c674e7e219fba525fae7d8b2690",
+	"Symbol": "WETH-SOSAD",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf424701d8fad901948bfc97b316abdf7145e620c"
+	],
+	"Protocol": "0db17f84-6be8-48ec-9461-38f0f1dace3d",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xeb7cebe6a8a44e07083bcd1362ce0b36fa8d0c87",
+	"Symbol": "Jiffpom-WETH",
+	"UnderlyingTokens": [
+		"0x52dd4d0643f77bc027f04be48d9c2b626baf599f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "0db17f84-6be8-48ec-9461-38f0f1dace3d",
+	"Chain": "ethereum"
+}

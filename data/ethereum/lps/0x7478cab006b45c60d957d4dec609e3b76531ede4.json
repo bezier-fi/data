@@ -1,0 +1,10 @@
+{
+	"Id": "0x7478cab006b45c60d957d4dec609e3b76531ede4",
+	"Symbol": "GOSHI-WETH",
+	"UnderlyingTokens": [
+		"0x5f3f96204c9f9562b91c4e15a36fdbbf5a9f0929",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "0db17f84-6be8-48ec-9461-38f0f1dace3d",
+	"Chain": "ethereum"
+}

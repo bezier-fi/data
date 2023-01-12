@@ -1,0 +1,10 @@
+{
+	"Id": "0xa49acea071f241a92eff3055d0ee1324d9101d0b",
+	"Symbol": "WETH-ACTOR",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd1efab01bffddda958764a1e9bb203915caf6489"
+	],
+	"Protocol": "0db17f84-6be8-48ec-9461-38f0f1dace3d",
+	"Chain": "ethereum"
+}

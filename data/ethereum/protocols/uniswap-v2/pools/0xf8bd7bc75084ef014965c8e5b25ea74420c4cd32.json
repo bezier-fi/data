@@ -1,0 +1,27 @@
+{
+	"Id": "0xf8bd7bc75084ef014965c8e5b25ea74420c4cd32",
+	"Protocol": "0db17f84-6be8-48ec-9461-38f0f1dace3d",
+	"Outputs": [
+		{
+			"Address": "0xf8bd7bc75084ef014965c8e5b25ea74420c4cd32",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xf25ae30a78733b04c23d624b5f71dfdaabeaac6d",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-KENZO",
+	"Chain": "ethereum"
+}

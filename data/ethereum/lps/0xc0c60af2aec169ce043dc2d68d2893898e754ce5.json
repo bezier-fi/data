@@ -1,0 +1,10 @@
+{
+	"Id": "0xc0c60af2aec169ce043dc2d68d2893898e754ce5",
+	"Symbol": "SAKURA-WETH",
+	"UnderlyingTokens": [
+		"0x6641749546b5c8432d86b32bfb44d4ecb122b14a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "5b595c7a-a4b5-4c38-a4bc-8c3157f401f1",
+	"Chain": "ethereum"
+}

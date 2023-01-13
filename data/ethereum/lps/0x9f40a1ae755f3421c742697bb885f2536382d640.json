@@ -1,0 +1,10 @@
+{
+	"Id": "0x9f40a1ae755f3421c742697bb885f2536382d640",
+	"Symbol": "TRUTH-WETH",
+	"UnderlyingTokens": [
+		"0x70a71f2918dbe0f5f59418ae0c6f73f4c7c37961",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "5b595c7a-a4b5-4c38-a4bc-8c3157f401f1",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xd3cb4f84377ba5957e611098066b23b25a430b72",
+	"Symbol": "CHONK-WETH",
+	"UnderlyingTokens": [
+		"0x8d0bb9fc7f50ddac9c0e49fd2a29771f22034344",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "5b595c7a-a4b5-4c38-a4bc-8c3157f401f1",
+	"Chain": "ethereum"
+}

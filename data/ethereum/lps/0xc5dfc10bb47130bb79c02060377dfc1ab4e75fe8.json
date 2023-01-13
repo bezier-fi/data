@@ -1,0 +1,10 @@
+{
+	"Id": "0xc5dfc10bb47130bb79c02060377dfc1ab4e75fe8",
+	"Symbol": "WETH-BIGGUY",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd99ddb8a7fa862c166acb64774ead93db2877108"
+	],
+	"Protocol": "5b595c7a-a4b5-4c38-a4bc-8c3157f401f1",
+	"Chain": "ethereum"
+}

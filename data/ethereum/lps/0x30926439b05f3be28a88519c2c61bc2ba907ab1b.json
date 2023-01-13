@@ -1,0 +1,10 @@
+{
+	"Id": "0x30926439b05f3be28a88519c2c61bc2ba907ab1b",
+	"Symbol": "HIKA-WETH",
+	"UnderlyingTokens": [
+		"0x5bfa29523c291cf0cf7b95a20f078d09e11d5425",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "5b595c7a-a4b5-4c38-a4bc-8c3157f401f1",
+	"Chain": "ethereum"
+}

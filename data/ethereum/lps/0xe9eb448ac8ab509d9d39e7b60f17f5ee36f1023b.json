@@ -1,0 +1,10 @@
+{
+	"Id": "0xe9eb448ac8ab509d9d39e7b60f17f5ee36f1023b",
+	"Symbol": "GMM-WETH (0.30%)",
+	"UnderlyingTokens": [
+		"0x4b19c70da4c6fa4baa0660825e889d2f7eabc279",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d584a327-e046-4309-93d5-105e19ae6272",
+	"Chain": "ethereum"
+}

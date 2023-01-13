@@ -1,0 +1,10 @@
+{
+	"Id": "0xad8d4a894d7902ab17527f1046e55bbb23bf4577",
+	"Symbol": "ENU-WETH",
+	"UnderlyingTokens": [
+		"0x139bdc0767fe06f27b97d20b44ca320c2f721ca8",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "5b595c7a-a4b5-4c38-a4bc-8c3157f401f1",
+	"Chain": "ethereum"
+}

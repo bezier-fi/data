@@ -1,0 +1,27 @@
+{
+	"Id": "0x3692a40ba35922e415b8bb80aeb6c6a82782e943",
+	"Protocol": "d584a327-e046-4309-93d5-105e19ae6272",
+	"Outputs": [
+		{
+			"Address": "0x3692a40ba35922e415b8bb80aeb6c6a82782e943",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x998ffe1e43facffb941dc337dd0468d52ba5b48a",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BUSD-IDRT (0.05%)",
+	"Chain": "ethereum"
+}

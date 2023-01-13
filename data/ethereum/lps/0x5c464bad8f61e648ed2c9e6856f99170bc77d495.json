@@ -1,0 +1,10 @@
+{
+	"Id": "0x5c464bad8f61e648ed2c9e6856f99170bc77d495",
+	"Symbol": "WETH-BullRun",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd1689132dcc04406c9c98a8d555f452c8a96c8bd"
+	],
+	"Protocol": "5b595c7a-a4b5-4c38-a4bc-8c3157f401f1",
+	"Chain": "ethereum"
+}

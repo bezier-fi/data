@@ -1,0 +1,10 @@
+{
+	"Id": "0x9f029e773a51f7c5530bdad9757c7a714d9d5dfe",
+	"Symbol": "WETH-GOLLIE",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xdc05a4a21aae29806f53cb009581e7b3f4680452"
+	],
+	"Protocol": "5b595c7a-a4b5-4c38-a4bc-8c3157f401f1",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x0caaf639e79c3e82b91a6329c5bdeac777d0c744",
+	"Protocol": "d584a327-e046-4309-93d5-105e19ae6272",
+	"Outputs": [
+		{
+			"Address": "0x0caaf639e79c3e82b91a6329c5bdeac777d0c744",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4f14cdbd815b79e9624121f564f24685c6b1211b",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ANFD-WETH (1.00%)",
+	"Chain": "ethereum"
+}

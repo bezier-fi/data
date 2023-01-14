@@ -1,0 +1,27 @@
+{
+	"Id": "0xd1b98625581d4409559c952de3afdb59ede66b43",
+	"Protocol": "977846a9-3796-41f0-9285-7cb7deaa8426",
+	"Outputs": [
+		{
+			"Address": "0xd1b98625581d4409559c952de3afdb59ede66b43",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x82b9680101dad9a09fd5e2dd4e1385096587bf75",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PTOL-WETH",
+	"Chain": "ethereum"
+}

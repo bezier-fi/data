@@ -1,0 +1,10 @@
+{
+	"Id": "0x0d90c41dc37c5554f694097cbcb3ea17843a99e7",
+	"Symbol": "WETH-KORSHI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe29ce9a820c32e9a7f11ed30405de9e1b86bdad8"
+	],
+	"Protocol": "977846a9-3796-41f0-9285-7cb7deaa8426",
+	"Chain": "ethereum"
+}

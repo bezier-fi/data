@@ -1,0 +1,10 @@
+{
+	"Id": "0x419f490c97de8b0c36d49be01b718ce5c17a8595",
+	"Symbol": "HONSHU-WETH",
+	"UnderlyingTokens": [
+		"0x56dea262562b4795a9e34624ece150341d61cd21",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "977846a9-3796-41f0-9285-7cb7deaa8426",
+	"Chain": "ethereum"
+}

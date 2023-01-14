@@ -1,0 +1,27 @@
+{
+	"Id": "0xcb08a1f1146d2fe68de00c46b66f4c2f865265e9",
+	"Protocol": "977846a9-3796-41f0-9285-7cb7deaa8426",
+	"Outputs": [
+		{
+			"Address": "0xcb08a1f1146d2fe68de00c46b66f4c2f865265e9",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7d811a9d4dbf07d1747b5f08e13b289c3c188a76",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BACON-WETH",
+	"Chain": "ethereum"
+}

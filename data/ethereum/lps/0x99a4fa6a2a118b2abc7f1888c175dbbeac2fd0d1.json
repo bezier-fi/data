@@ -1,0 +1,10 @@
+{
+	"Id": "0x99a4fa6a2a118b2abc7f1888c175dbbeac2fd0d1",
+	"Symbol": "RYOBU-WETH",
+	"UnderlyingTokens": [
+		"0x95493253299274d7298d6f8f1830fb43939b5fec",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "977846a9-3796-41f0-9285-7cb7deaa8426",
+	"Chain": "ethereum"
+}

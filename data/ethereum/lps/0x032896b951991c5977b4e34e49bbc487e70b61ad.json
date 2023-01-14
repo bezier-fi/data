@@ -1,0 +1,10 @@
+{
+	"Id": "0x032896b951991c5977b4e34e49bbc487e70b61ad",
+	"Symbol": "DRBT-WETH",
+	"UnderlyingTokens": [
+		"0x661013bb8d1c95d86d9c85f76e9004561f1bb36f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "977846a9-3796-41f0-9285-7cb7deaa8426",
+	"Chain": "ethereum"
+}

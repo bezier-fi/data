@@ -1,0 +1,10 @@
+{
+	"Id": "0xfea4dd766fc902dcf8099557378c3b41bcecd50d",
+	"Symbol": "WETH-EKNDM",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xcda71e03a3a88c2cd956f2887da04cdacbf6163d"
+	],
+	"Protocol": "977846a9-3796-41f0-9285-7cb7deaa8426",
+	"Chain": "ethereum"
+}

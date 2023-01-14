@@ -1,0 +1,10 @@
+{
+	"Id": "0x9a9c488a48c0547284c4015a3a1d029f3f3be85f",
+	"Symbol": "WETH-TOUCH",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xcd955dfe498538a2ca7986198b921ae122dab122"
+	],
+	"Protocol": "977846a9-3796-41f0-9285-7cb7deaa8426",
+	"Chain": "ethereum"
+}

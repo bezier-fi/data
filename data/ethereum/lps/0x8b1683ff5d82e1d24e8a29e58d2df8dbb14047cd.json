@@ -1,0 +1,10 @@
+{
+	"Id": "0x8b1683ff5d82e1d24e8a29e58d2df8dbb14047cd",
+	"Symbol": "JINDO-WETH",
+	"UnderlyingTokens": [
+		"0x883eaedcf684391439376b6f9244fbb864e4746e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "977846a9-3796-41f0-9285-7cb7deaa8426",
+	"Chain": "ethereum"
+}

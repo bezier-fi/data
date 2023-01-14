@@ -1,0 +1,10 @@
+{
+	"Id": "0xce9ac696ffa3a972b70cbfe6b990ce54af9b18a1",
+	"Symbol": "IAB-WETH",
+	"UnderlyingTokens": [
+		"0x7b6c5ae4ebd2300f87331ebda5f2213dfb0e7294",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "977846a9-3796-41f0-9285-7cb7deaa8426",
+	"Chain": "ethereum"
+}

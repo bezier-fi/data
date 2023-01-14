@@ -1,0 +1,10 @@
+{
+	"Id": "0xfd5ba297c6013a88b7fd7cbfdd0e04fcaf39218c",
+	"Symbol": "MECH-WETH",
+	"UnderlyingTokens": [
+		"0x7cf01f936a8c9f209066d42788a4ca7112b6d294",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "977846a9-3796-41f0-9285-7cb7deaa8426",
+	"Chain": "ethereum"
+}

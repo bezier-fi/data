@@ -1,0 +1,10 @@
+{
+	"Id": "0x298db5e339900c23e7c000c693a95c633ff47473",
+	"Symbol": "NEURONI-WETH",
+	"UnderlyingTokens": [
+		"0xac94fdb161dada96878e30c45a4b98b5929b24ac",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "977846a9-3796-41f0-9285-7cb7deaa8426",
+	"Chain": "ethereum"
+}

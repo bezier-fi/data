@@ -1,0 +1,27 @@
+{
+	"Id": "0xadc50759679f849c0a03f0ee29b0ba0bdf507b83",
+	"Protocol": "977846a9-3796-41f0-9285-7cb7deaa8426",
+	"Outputs": [
+		{
+			"Address": "0xadc50759679f849c0a03f0ee29b0ba0bdf507b83",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x733da991ea1fc36cc7bfc57f64d9c59d8c73e038",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CHEESE-WETH",
+	"Chain": "ethereum"
+}

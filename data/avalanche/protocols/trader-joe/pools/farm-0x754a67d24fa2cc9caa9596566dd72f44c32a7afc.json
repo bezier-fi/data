@@ -1,0 +1,23 @@
+{
+	"Id": "farm-0x754a67d24fa2cc9caa9596566dd72f44c32a7afc",
+	"Protocol": "2c37d4ac-1eb1-4b63-84f9-4c7b018000f3",
+	"Outputs": [
+		{
+			"Address": "0x754a67d24fa2cc9caa9596566dd72f44c32a7afc",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x754a67d24fa2cc9caa9596566dd72f44c32a7afc",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ANKR-WAVAX",
+	"Chain": "avalanche"
+}

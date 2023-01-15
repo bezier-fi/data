@@ -1,0 +1,10 @@
+{
+	"Id": "0x9fcd7ed5e8999c2afaf00e6815f1877a5fb97946",
+	"Symbol": "WETH-KASTRA",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xde2d204459bea2e2d21177c54698224c3872a50b"
+	],
+	"Protocol": "2a9e613c-85f5-4497-8b36-ac62d9eaaa56",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x1f2bf1a7311571ee45e143dcad18bc08d8d1218d",
+	"Protocol": "2a9e613c-85f5-4497-8b36-ac62d9eaaa56",
+	"Outputs": [
+		{
+			"Address": "0x1f2bf1a7311571ee45e143dcad18bc08d8d1218d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x76cddf8c2a011f6a0264363ac3f82f2993fc1fab",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "POPULI-WETH",
+	"Chain": "ethereum"
+}

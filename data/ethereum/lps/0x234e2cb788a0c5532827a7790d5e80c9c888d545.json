@@ -1,0 +1,10 @@
+{
+	"Id": "0x234e2cb788a0c5532827a7790d5e80c9c888d545",
+	"Symbol": "FLASH-WETH",
+	"UnderlyingTokens": [
+		"0x5f0366c9962193fa774cdce9602195593b49f23c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2a9e613c-85f5-4497-8b36-ac62d9eaaa56",
+	"Chain": "ethereum"
+}

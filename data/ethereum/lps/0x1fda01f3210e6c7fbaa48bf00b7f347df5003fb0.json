@@ -1,0 +1,10 @@
+{
+	"Id": "0x1fda01f3210e6c7fbaa48bf00b7f347df5003fb0",
+	"Symbol": "MIMIR-WETH",
+	"UnderlyingTokens": [
+		"0x71dc40668682a124231301414167e4cf7f55383c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2a9e613c-85f5-4497-8b36-ac62d9eaaa56",
+	"Chain": "ethereum"
+}

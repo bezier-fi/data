@@ -1,0 +1,10 @@
+{
+	"Id": "0x3c3c5d0d097e8a6368fe33e7602a0be5b3a1e027",
+	"Symbol": "WETH-POKE",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc1b725984bfa61934b0a24f5e43b513afe99b590"
+	],
+	"Protocol": "2a9e613c-85f5-4497-8b36-ac62d9eaaa56",
+	"Chain": "ethereum"
+}

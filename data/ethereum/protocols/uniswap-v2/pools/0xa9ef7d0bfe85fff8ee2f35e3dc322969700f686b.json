@@ -1,0 +1,27 @@
+{
+	"Id": "0xa9ef7d0bfe85fff8ee2f35e3dc322969700f686b",
+	"Protocol": "2a9e613c-85f5-4497-8b36-ac62d9eaaa56",
+	"Outputs": [
+		{
+			"Address": "0xa9ef7d0bfe85fff8ee2f35e3dc322969700f686b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x308ef1138bcae67a384e03c173e48349f7fdf582",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "$Proxima-WETH",
+	"Chain": "ethereum"
+}

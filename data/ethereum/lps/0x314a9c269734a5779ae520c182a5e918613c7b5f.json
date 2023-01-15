@@ -1,0 +1,10 @@
+{
+	"Id": "0x314a9c269734a5779ae520c182a5e918613c7b5f",
+	"Symbol": "BULL-WETH",
+	"UnderlyingTokens": [
+		"0xbf8575f71748ac7fd139bec8a441c4f4f99f94c4",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2a9e613c-85f5-4497-8b36-ac62d9eaaa56",
+	"Chain": "ethereum"
+}

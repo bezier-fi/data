@@ -1,0 +1,10 @@
+{
+	"Id": "0xee633acbac0ecb043230faf26ea35d0d123cf944",
+	"Symbol": "DWOGE-WETH",
+	"UnderlyingTokens": [
+		"0xbc0f4a1b83c8bd32f463b8646994583612349edb",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2a9e613c-85f5-4497-8b36-ac62d9eaaa56",
+	"Chain": "ethereum"
+}

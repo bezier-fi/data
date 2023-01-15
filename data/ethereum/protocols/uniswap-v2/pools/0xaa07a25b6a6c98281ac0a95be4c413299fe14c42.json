@@ -1,0 +1,27 @@
+{
+	"Id": "0xaa07a25b6a6c98281ac0a95be4c413299fe14c42",
+	"Protocol": "2a9e613c-85f5-4497-8b36-ac62d9eaaa56",
+	"Outputs": [
+		{
+			"Address": "0xaa07a25b6a6c98281ac0a95be4c413299fe14c42",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xe6edce03ae2037dc0d6d026b39905956d17511b2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-DWIBA",
+	"Chain": "ethereum"
+}

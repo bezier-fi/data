@@ -1,0 +1,10 @@
+{
+	"Id": "0x8f2d88db41768229e18c8552103c190269ba7da9",
+	"Symbol": "TRY-WETH",
+	"UnderlyingTokens": [
+		"0x83ea98e238993ab966d7a687a0a850ddc853a8c2",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2a9e613c-85f5-4497-8b36-ac62d9eaaa56",
+	"Chain": "ethereum"
+}

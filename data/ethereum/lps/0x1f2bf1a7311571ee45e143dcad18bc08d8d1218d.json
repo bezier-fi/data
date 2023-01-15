@@ -1,0 +1,10 @@
+{
+	"Id": "0x1f2bf1a7311571ee45e143dcad18bc08d8d1218d",
+	"Symbol": "POPULI-WETH",
+	"UnderlyingTokens": [
+		"0x76cddf8c2a011f6a0264363ac3f82f2993fc1fab",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2a9e613c-85f5-4497-8b36-ac62d9eaaa56",
+	"Chain": "ethereum"
+}

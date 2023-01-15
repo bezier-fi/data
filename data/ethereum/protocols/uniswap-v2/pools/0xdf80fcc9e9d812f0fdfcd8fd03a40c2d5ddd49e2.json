@@ -1,0 +1,27 @@
+{
+	"Id": "0xdf80fcc9e9d812f0fdfcd8fd03a40c2d5ddd49e2",
+	"Protocol": "2a9e613c-85f5-4497-8b36-ac62d9eaaa56",
+	"Outputs": [
+		{
+			"Address": "0xdf80fcc9e9d812f0fdfcd8fd03a40c2d5ddd49e2",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x61bc57326dae08478d99de05f33c396116ee0859",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BULLAI-WETH",
+	"Chain": "ethereum"
+}

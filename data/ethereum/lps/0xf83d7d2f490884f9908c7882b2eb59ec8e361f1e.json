@@ -1,0 +1,10 @@
+{
+	"Id": "0xf83d7d2f490884f9908c7882b2eb59ec8e361f1e",
+	"Symbol": "ARRGH-WETH",
+	"UnderlyingTokens": [
+		"0xabe9fdcceb9132d23f0ed60612f98fa3e832faad",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2a9e613c-85f5-4497-8b36-ac62d9eaaa56",
+	"Chain": "ethereum"
+}

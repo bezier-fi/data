@@ -1,0 +1,27 @@
+{
+	"Id": "0xbf384f31fddd41374bd875576b3adae8a409c3a3",
+	"Protocol": "2a9e613c-85f5-4497-8b36-ac62d9eaaa56",
+	"Outputs": [
+		{
+			"Address": "0xbf384f31fddd41374bd875576b3adae8a409c3a3",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x324e7012592d7b61748266e7ff59a15fb92cedd6",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "URUFU-WETH",
+	"Chain": "ethereum"
+}

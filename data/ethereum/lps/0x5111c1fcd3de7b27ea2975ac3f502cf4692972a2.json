@@ -1,0 +1,10 @@
+{
+	"Id": "0x5111c1fcd3de7b27ea2975ac3f502cf4692972a2",
+	"Symbol": "WETH-EGLO",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xdc1536bbdcbb63b43ac7765f500e135a63715ac7"
+	],
+	"Protocol": "2a9e613c-85f5-4497-8b36-ac62d9eaaa56",
+	"Chain": "ethereum"
+}

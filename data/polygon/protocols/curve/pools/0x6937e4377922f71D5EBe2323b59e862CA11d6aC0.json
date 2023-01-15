@@ -1,0 +1,27 @@
+{
+	"Id": "0x6937e4377922f71D5EBe2323b59e862CA11d6aC0",
+	"Protocol": "665e4e6f-b910-4fbd-bc2a-e9a769b247e9",
+	"Outputs": [
+		{
+			"Address": "0x6937e4377922f71D5EBe2323b59e862CA11d6aC0",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xFbeCfB7b87752aa28383a5Ac1e9d9e05E0526017",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MATICEMI-f",
+	"Chain": "polygon"
+}

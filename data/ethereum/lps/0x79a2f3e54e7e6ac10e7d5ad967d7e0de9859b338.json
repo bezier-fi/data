@@ -1,0 +1,10 @@
+{
+	"Id": "0x79a2f3e54e7e6ac10e7d5ad967d7e0de9859b338",
+	"Symbol": "TINU-WETH",
+	"UnderlyingTokens": [
+		"0x5ad7e8c99bcf8f430631d3c2c5b921fa1c282a74",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2a9e613c-85f5-4497-8b36-ac62d9eaaa56",
+	"Chain": "ethereum"
+}

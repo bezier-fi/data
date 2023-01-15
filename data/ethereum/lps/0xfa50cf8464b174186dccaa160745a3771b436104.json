@@ -1,0 +1,10 @@
+{
+	"Id": "0xfa50cf8464b174186dccaa160745a3771b436104",
+	"Symbol": "BMJ-WETH",
+	"UnderlyingTokens": [
+		"0x0eba222817e82da26c6416104c15b5d121c36aef",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2a9e613c-85f5-4497-8b36-ac62d9eaaa56",
+	"Chain": "ethereum"
+}

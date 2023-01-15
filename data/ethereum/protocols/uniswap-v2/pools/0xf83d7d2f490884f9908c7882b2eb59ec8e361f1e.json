@@ -1,0 +1,27 @@
+{
+	"Id": "0xf83d7d2f490884f9908c7882b2eb59ec8e361f1e",
+	"Protocol": "2a9e613c-85f5-4497-8b36-ac62d9eaaa56",
+	"Outputs": [
+		{
+			"Address": "0xf83d7d2f490884f9908c7882b2eb59ec8e361f1e",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xabe9fdcceb9132d23f0ed60612f98fa3e832faad",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ARRGH-WETH",
+	"Chain": "ethereum"
+}

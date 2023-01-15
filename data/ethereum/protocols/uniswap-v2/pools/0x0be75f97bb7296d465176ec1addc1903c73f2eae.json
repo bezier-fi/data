@@ -1,0 +1,27 @@
+{
+	"Id": "0x0be75f97bb7296d465176ec1addc1903c73f2eae",
+	"Protocol": "2a9e613c-85f5-4497-8b36-ac62d9eaaa56",
+	"Outputs": [
+		{
+			"Address": "0x0be75f97bb7296d465176ec1addc1903c73f2eae",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x75ce37e804e0c9ede36f1117f5fec722047d0bc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "$KHISU-WETH",
+	"Chain": "ethereum"
+}

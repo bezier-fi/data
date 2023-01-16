@@ -1,0 +1,27 @@
+{
+	"Id": "0xfd8ff9f1a4a3a12cc56991121be0998b047d70ab",
+	"Protocol": "0c2da1c0-225b-4c16-9918-5c5b5929deae",
+	"Outputs": [
+		{
+			"Address": "0xfd8ff9f1a4a3a12cc56991121be0998b047d70ab",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xedaeb452f61b36837b2a6bc8edf4b60e1d8de6c2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-GASOIL",
+	"Chain": "ethereum"
+}

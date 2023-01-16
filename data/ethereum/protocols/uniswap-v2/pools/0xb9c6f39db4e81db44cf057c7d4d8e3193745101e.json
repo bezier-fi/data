@@ -1,0 +1,27 @@
+{
+	"Id": "0xb9c6f39db4e81db44cf057c7d4d8e3193745101e",
+	"Protocol": "0c2da1c0-225b-4c16-9918-5c5b5929deae",
+	"Outputs": [
+		{
+			"Address": "0xb9c6f39db4e81db44cf057c7d4d8e3193745101e",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x77777feddddffc19ff86db637967013e6c6a116c",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DAI-TORN",
+	"Chain": "ethereum"
+}

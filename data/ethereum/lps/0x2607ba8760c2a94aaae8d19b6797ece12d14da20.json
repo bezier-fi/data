@@ -1,0 +1,10 @@
+{
+	"Id": "0x2607ba8760c2a94aaae8d19b6797ece12d14da20",
+	"Symbol": "BONES-WETH",
+	"UnderlyingTokens": [
+		"0x6279b27e081dcc987a6a4eba5c18aec5a1b2b0c9",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "0c2da1c0-225b-4c16-9918-5c5b5929deae",
+	"Chain": "ethereum"
+}

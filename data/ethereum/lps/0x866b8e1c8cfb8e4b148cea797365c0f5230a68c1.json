@@ -1,0 +1,10 @@
+{
+	"Id": "0x866b8e1c8cfb8e4b148cea797365c0f5230a68c1",
+	"Symbol": "SHARU-WETH",
+	"UnderlyingTokens": [
+		"0x352cc92561245817a196f0b46ae6c6ba67b9b651",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "0c2da1c0-225b-4c16-9918-5c5b5929deae",
+	"Chain": "ethereum"
+}

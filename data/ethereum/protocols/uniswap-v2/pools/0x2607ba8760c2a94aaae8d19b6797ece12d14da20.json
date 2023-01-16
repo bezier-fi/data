@@ -1,0 +1,27 @@
+{
+	"Id": "0x2607ba8760c2a94aaae8d19b6797ece12d14da20",
+	"Protocol": "0c2da1c0-225b-4c16-9918-5c5b5929deae",
+	"Outputs": [
+		{
+			"Address": "0x2607ba8760c2a94aaae8d19b6797ece12d14da20",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6279b27e081dcc987a6a4eba5c18aec5a1b2b0c9",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BONES-WETH",
+	"Chain": "ethereum"
+}

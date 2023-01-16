@@ -1,0 +1,27 @@
+{
+	"Id": "0xae189f3ac8edd8f496ae2a59b22200f57727c1b9",
+	"Protocol": "0c2da1c0-225b-4c16-9918-5c5b5929deae",
+	"Outputs": [
+		{
+			"Address": "0xae189f3ac8edd8f496ae2a59b22200f57727c1b9",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x71ae18a421cff2083b50062f9ff64721782e6000",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DILDO-WETH",
+	"Chain": "ethereum"
+}

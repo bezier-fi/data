@@ -1,0 +1,10 @@
+{
+	"Id": "0x3f294987b482a7f3aa9b744bc88d182d806402fc",
+	"Symbol": "DEPRINU-WETH",
+	"UnderlyingTokens": [
+		"0x78856b137ffe90832df1a8ea2b66b1646df94774",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "0c2da1c0-225b-4c16-9918-5c5b5929deae",
+	"Chain": "ethereum"
+}

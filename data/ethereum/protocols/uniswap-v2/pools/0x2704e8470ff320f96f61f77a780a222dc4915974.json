@@ -1,0 +1,27 @@
+{
+	"Id": "0x2704e8470ff320f96f61f77a780a222dc4915974",
+	"Protocol": "0c2da1c0-225b-4c16-9918-5c5b5929deae",
+	"Outputs": [
+		{
+			"Address": "0x2704e8470ff320f96f61f77a780a222dc4915974",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x26035fda75dc9051a8bd8de8d46f9bc05767b282",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "VISERION-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x2704e8470ff320f96f61f77a780a222dc4915974",
+	"Symbol": "VISERION-WETH",
+	"UnderlyingTokens": [
+		"0x26035fda75dc9051a8bd8de8d46f9bc05767b282",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "0c2da1c0-225b-4c16-9918-5c5b5929deae",
+	"Chain": "ethereum"
+}

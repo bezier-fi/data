@@ -1,0 +1,10 @@
+{
+	"Id": "0xd1839aede6d853218cd5d06dc8ec77cb1d8f1c4e",
+	"Symbol": "SHIKITA-WETH",
+	"UnderlyingTokens": [
+		"0x21e813373f0713b155ccc684e3bfe1ec4e0efc68",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "0c2da1c0-225b-4c16-9918-5c5b5929deae",
+	"Chain": "ethereum"
+}

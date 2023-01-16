@@ -1,0 +1,27 @@
+{
+	"Id": "0xa0d7b898f7e135becb15ec04a02b76adade1cff0",
+	"Protocol": "0c2da1c0-225b-4c16-9918-5c5b5929deae",
+	"Outputs": [
+		{
+			"Address": "0xa0d7b898f7e135becb15ec04a02b76adade1cff0",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x01597e397605bf280674bf292623460b4204c375",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BENT-WETH",
+	"Chain": "ethereum"
+}

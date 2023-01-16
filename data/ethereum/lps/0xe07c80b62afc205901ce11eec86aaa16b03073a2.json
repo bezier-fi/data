@@ -1,0 +1,10 @@
+{
+	"Id": "0xe07c80b62afc205901ce11eec86aaa16b03073a2",
+	"Symbol": "Matt-WETH",
+	"UnderlyingTokens": [
+		"0x86e708ba904bbb6c6ec77f15b62826562a823db8",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "0c2da1c0-225b-4c16-9918-5c5b5929deae",
+	"Chain": "ethereum"
+}

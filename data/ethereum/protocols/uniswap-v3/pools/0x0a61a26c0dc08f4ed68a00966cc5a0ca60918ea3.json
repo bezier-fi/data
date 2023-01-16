@@ -1,0 +1,27 @@
+{
+	"Id": "0x0a61a26c0dc08f4ed68a00966cc5a0ca60918ea3",
+	"Protocol": "b92e2a77-b468-4562-ba5f-4ce739c73d45",
+	"Outputs": [
+		{
+			"Address": "0x0a61a26c0dc08f4ed68a00966cc5a0ca60918ea3",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6b0b3a982b4634ac68dd83a4dbf02311ce324181",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ALI-WETH (1.00%)",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x28ea5de20b5cab3cf7625b1f20857420901335f0",
+	"Symbol": "Πύθια-WETH",
+	"UnderlyingTokens": [
+		"0x6d7f049ea0ada75c36e8a8b3571f6d541508d51d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "0c2da1c0-225b-4c16-9918-5c5b5929deae",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0xb9987752e8e34923cadef3af2eb4b443a2cf86ab",
+	"Protocol": "0c2da1c0-225b-4c16-9918-5c5b5929deae",
+	"Outputs": [
+		{
+			"Address": "0xb9987752e8e34923cadef3af2eb4b443a2cf86ab",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x72b017a60b4ab5b8a8a8e989c54d7d4e722c9b37",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "VECTOS-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0xe500ccd65dd346b1c5b9e809b441d82d6a36b803",
+	"Protocol": "666ebd31-73b4-4d9f-91cd-2596b339519a",
+	"Outputs": [
+		{
+			"Address": "0xe500ccd65dd346b1c5b9e809b441d82d6a36b803",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x50c02ee9a1022b7c432fd98da3005a3aa6823da9",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SDAO-WETH",
+	"Chain": "ethereum"
+}

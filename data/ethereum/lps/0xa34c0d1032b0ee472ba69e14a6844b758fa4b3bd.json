@@ -1,0 +1,10 @@
+{
+	"Id": "0xa34c0d1032b0ee472ba69e14a6844b758fa4b3bd",
+	"Symbol": "FLOWER-WETH",
+	"UnderlyingTokens": [
+		"0x07d6f0c308f774650a3a5c796f5953536222de71",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "666ebd31-73b4-4d9f-91cd-2596b339519a",
+	"Chain": "ethereum"
+}

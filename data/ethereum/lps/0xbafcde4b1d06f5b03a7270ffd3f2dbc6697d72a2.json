@@ -1,0 +1,10 @@
+{
+	"Id": "0xbafcde4b1d06f5b03a7270ffd3f2dbc6697d72a2",
+	"Symbol": "TDSHIB-WETH",
+	"UnderlyingTokens": [
+		"0x52ab6ac58878bdfd96253a568b20b3a376b95858",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "666ebd31-73b4-4d9f-91cd-2596b339519a",
+	"Chain": "ethereum"
+}

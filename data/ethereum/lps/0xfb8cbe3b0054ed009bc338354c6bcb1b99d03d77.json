@@ -1,0 +1,10 @@
+{
+	"Id": "0xfb8cbe3b0054ed009bc338354c6bcb1b99d03d77",
+	"Symbol": "HARU-WETH",
+	"UnderlyingTokens": [
+		"0x30983b29a00ffee6a7ae94e9715a6e3bec63d72c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "666ebd31-73b4-4d9f-91cd-2596b339519a",
+	"Chain": "ethereum"
+}

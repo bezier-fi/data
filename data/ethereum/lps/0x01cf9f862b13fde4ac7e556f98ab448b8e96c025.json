@@ -1,0 +1,10 @@
+{
+	"Id": "0x01cf9f862b13fde4ac7e556f98ab448b8e96c025",
+	"Symbol": "GATS-WETH",
+	"UnderlyingTokens": [
+		"0x99ecbeae2ca606921dba058723fe7289fddc2e86",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "666ebd31-73b4-4d9f-91cd-2596b339519a",
+	"Chain": "ethereum"
+}

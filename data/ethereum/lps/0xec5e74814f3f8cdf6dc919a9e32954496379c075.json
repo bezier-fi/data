@@ -1,0 +1,10 @@
+{
+	"Id": "0xec5e74814f3f8cdf6dc919a9e32954496379c075",
+	"Symbol": "TRG-WETH",
+	"UnderlyingTokens": [
+		"0x93eeb426782bd88fcd4b48d7b0368cf061044928",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "666ebd31-73b4-4d9f-91cd-2596b339519a",
+	"Chain": "ethereum"
+}

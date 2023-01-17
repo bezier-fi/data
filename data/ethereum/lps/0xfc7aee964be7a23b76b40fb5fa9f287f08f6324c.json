@@ -1,0 +1,10 @@
+{
+	"Id": "0xfc7aee964be7a23b76b40fb5fa9f287f08f6324c",
+	"Symbol": "WETH-YORKIE",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfc7a63083f765a1fa9eec538b7b000797090a121"
+	],
+	"Protocol": "666ebd31-73b4-4d9f-91cd-2596b339519a",
+	"Chain": "ethereum"
+}

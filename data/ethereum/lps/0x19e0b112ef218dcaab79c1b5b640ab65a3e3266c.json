@@ -1,0 +1,10 @@
+{
+	"Id": "0x19e0b112ef218dcaab79c1b5b640ab65a3e3266c",
+	"Symbol": "WETH-JEJU",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xded6175c26f5c791b42a54cc993996277f1ae45b"
+	],
+	"Protocol": "666ebd31-73b4-4d9f-91cd-2596b339519a",
+	"Chain": "ethereum"
+}

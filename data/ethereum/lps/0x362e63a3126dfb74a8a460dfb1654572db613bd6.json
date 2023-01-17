@@ -1,0 +1,10 @@
+{
+	"Id": "0x362e63a3126dfb74a8a460dfb1654572db613bd6",
+	"Symbol": "Books-WETH",
+	"UnderlyingTokens": [
+		"0x0818e0ed71be2ae0e8fa79da249ce1c8f7a5b0d4",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "666ebd31-73b4-4d9f-91cd-2596b339519a",
+	"Chain": "ethereum"
+}

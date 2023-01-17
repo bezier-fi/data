@@ -1,0 +1,10 @@
+{
+	"Id": "0x02f9ace0a161343a4ccc81110cd17cc937af99cc",
+	"Symbol": "BAY-USDC",
+	"UnderlyingTokens": [
+		"0x18706c65b12595edb43643214eacdb4f618dd166",
+		"0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e"
+	],
+	"Protocol": "ec3b4c5d-fec4-4667-a7f9-6e5d052e8dda",
+	"Chain": "avalanche"
+}

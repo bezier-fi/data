@@ -1,0 +1,10 @@
+{
+	"Id": "0xed89e4994699e998c56ac571e607433f047f982e",
+	"Symbol": "WETH-FLOV",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe94760c58e2175e369722372beea68395c645dc9"
+	],
+	"Protocol": "666ebd31-73b4-4d9f-91cd-2596b339519a",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x449e910f938c97ad8917c4efc8d46f330beeebfb",
+	"Symbol": "SST-WETH",
+	"UnderlyingTokens": [
+		"0x553dd9bb2f220df80879952c941e074efcdfec6e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "666ebd31-73b4-4d9f-91cd-2596b339519a",
+	"Chain": "ethereum"
+}

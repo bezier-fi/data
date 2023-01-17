@@ -1,0 +1,10 @@
+{
+	"Id": "0x65790cdf4de15711cce7a29c12d50194c9dd1c0e",
+	"Symbol": "BPEDIA-WETH",
+	"UnderlyingTokens": [
+		"0x67b808aa9a3cf992e531a8c081ffbc9398ffcd5a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "666ebd31-73b4-4d9f-91cd-2596b339519a",
+	"Chain": "ethereum"
+}

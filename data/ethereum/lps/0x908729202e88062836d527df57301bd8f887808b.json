@@ -1,0 +1,10 @@
+{
+	"Id": "0x908729202e88062836d527df57301bd8f887808b",
+	"Symbol": "HFI-WETH",
+	"UnderlyingTokens": [
+		"0xbc707f4b4a1e3a1c061401a30d183abc248771e8",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "666ebd31-73b4-4d9f-91cd-2596b339519a",
+	"Chain": "ethereum"
+}

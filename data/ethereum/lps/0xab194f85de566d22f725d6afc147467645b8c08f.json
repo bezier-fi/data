@@ -1,0 +1,10 @@
+{
+	"Id": "0xab194f85de566d22f725d6afc147467645b8c08f",
+	"Symbol": "CHUBU-WETH",
+	"UnderlyingTokens": [
+		"0x709aad3497744b0d6acd7897cffef8e26de983ad",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "666ebd31-73b4-4d9f-91cd-2596b339519a",
+	"Chain": "ethereum"
+}

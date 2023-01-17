@@ -1,0 +1,10 @@
+{
+	"Id": "0x4184cf0f385b3b3e74ef4cc65ab3376654045d47",
+	"Symbol": "BR-WETH",
+	"UnderlyingTokens": [
+		"0x15105645a6a69b445f7ef077f0c3b31017148233",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "666ebd31-73b4-4d9f-91cd-2596b339519a",
+	"Chain": "ethereum"
+}

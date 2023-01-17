@@ -1,0 +1,10 @@
+{
+	"Id": "0x568bb02f35842795acfc08648fe189cacf738fcd",
+	"Symbol": "WETH-GTX",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf3b4517f4f329e79d83ecd48ead6eae2a8c20f21"
+	],
+	"Protocol": "666ebd31-73b4-4d9f-91cd-2596b339519a",
+	"Chain": "ethereum"
+}

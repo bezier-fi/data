@@ -1,0 +1,27 @@
+{
+	"Id": "0x2c4c1bd2c9ca419d6a22e3d558404d3fa1ad8858",
+	"Protocol": "666ebd31-73b4-4d9f-91cd-2596b339519a",
+	"Outputs": [
+		{
+			"Address": "0x2c4c1bd2c9ca419d6a22e3d558404d3fa1ad8858",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7a581ddaa660c9bac408a903c0158e0058e5f52e",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BLTZE-WETH",
+	"Chain": "ethereum"
+}

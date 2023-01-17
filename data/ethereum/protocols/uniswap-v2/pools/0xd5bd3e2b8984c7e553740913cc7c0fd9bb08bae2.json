@@ -1,0 +1,27 @@
+{
+	"Id": "0xd5bd3e2b8984c7e553740913cc7c0fd9bb08bae2",
+	"Protocol": "666ebd31-73b4-4d9f-91cd-2596b339519a",
+	"Outputs": [
+		{
+			"Address": "0xd5bd3e2b8984c7e553740913cc7c0fd9bb08bae2",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc39a048353842caf1b94ce5967a04149bb435b98",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-NEWS",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x07fd269df298112b94f26df7657d844b9ec3867c",
+	"Protocol": "666ebd31-73b4-4d9f-91cd-2596b339519a",
+	"Outputs": [
+		{
+			"Address": "0x07fd269df298112b94f26df7657d844b9ec3867c",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb95a2ff732ce28607da79ec9478bc84dc30f8e3c",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TOFI -WETH",
+	"Chain": "ethereum"
+}

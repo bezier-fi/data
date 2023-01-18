@@ -1,0 +1,27 @@
+{
+	"Id": "0xac97eD13191E90b284c804c83BfBb73cD37316Ee",
+	"Protocol": "a10d5069-7751-4269-af80-0662ff6c2847",
+	"Outputs": [
+		{
+			"Address": "0xac97eD13191E90b284c804c83BfBb73cD37316Ee",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xFbeCfB7b87752aa28383a5Ac1e9d9e05E0526017",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "EMIDAI-f",
+	"Chain": "polygon"
+}

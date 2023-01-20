@@ -1,0 +1,10 @@
+{
+	"Id": "0x4e8b9acb431f8e1229444830689e358e76976604",
+	"Symbol": "MICHIKO-WETH",
+	"UnderlyingTokens": [
+		"0x0d546efd68687888a7cb5ad31d0bd161c6a89cae",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "4a07adde-c63e-43cd-835c-2d4aeb3ddcd1",
+	"Chain": "ethereum"
+}

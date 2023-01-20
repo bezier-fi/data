@@ -1,0 +1,10 @@
+{
+	"Id": "0xeb53579313651e94097ec7b53a8f60669c66833e",
+	"Symbol": "DRAGETH-WETH",
+	"UnderlyingTokens": [
+		"0x0e68da64b3dcda96a5fd23f972831f89241a4487",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "4a07adde-c63e-43cd-835c-2d4aeb3ddcd1",
+	"Chain": "ethereum"
+}

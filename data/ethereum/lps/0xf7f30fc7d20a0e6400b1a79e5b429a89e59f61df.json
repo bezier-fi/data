@@ -1,0 +1,10 @@
+{
+	"Id": "0xf7f30fc7d20a0e6400b1a79e5b429a89e59f61df",
+	"Symbol": "Stonk-WETH",
+	"UnderlyingTokens": [
+		"0x21715da45fca65839f19ae7a2691c05ca7449a83",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "4a07adde-c63e-43cd-835c-2d4aeb3ddcd1",
+	"Chain": "ethereum"
+}

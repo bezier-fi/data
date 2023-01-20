@@ -1,0 +1,27 @@
+{
+	"Id": "0xea7d10e9b963e28a2a59429f44cd7922482000b7",
+	"Protocol": "89dfb2e4-fdb9-4e6c-be93-0421c79465ec",
+	"Outputs": [
+		{
+			"Address": "0xea7d10e9b963e28a2a59429f44cd7922482000b7",
+			"Apr": 230.27309,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1e4746dc744503b53b4a082cb3607b169a289090",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "IPOR-WETH (0.30%)",
+	"Chain": "ethereum"
+}

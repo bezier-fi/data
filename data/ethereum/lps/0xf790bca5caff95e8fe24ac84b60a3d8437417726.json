@@ -1,0 +1,10 @@
+{
+	"Id": "0xf790bca5caff95e8fe24ac84b60a3d8437417726",
+	"Symbol": "InuV-WETH",
+	"UnderlyingTokens": [
+		"0x01d8265dc271536c66ae4ec7d563c7607016a535",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "4a07adde-c63e-43cd-835c-2d4aeb3ddcd1",
+	"Chain": "ethereum"
+}

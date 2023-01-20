@@ -1,0 +1,10 @@
+{
+	"Id": "0x3bb60acd52adb577aa4177611b05b42276b355c0",
+	"Symbol": "WETH-ANIMETA",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe17f76c6e01775383583fc2bc4828d218513b71d"
+	],
+	"Protocol": "4a07adde-c63e-43cd-835c-2d4aeb3ddcd1",
+	"Chain": "ethereum"
+}

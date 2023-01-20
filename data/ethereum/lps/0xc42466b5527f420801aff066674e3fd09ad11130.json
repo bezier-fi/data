@@ -1,0 +1,10 @@
+{
+	"Id": "0xc42466b5527f420801aff066674e3fd09ad11130",
+	"Symbol": "WETH-GTEAR",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc1161f81e6f502b5a212c59c0b596624a90f4b66"
+	],
+	"Protocol": "4a07adde-c63e-43cd-835c-2d4aeb3ddcd1",
+	"Chain": "ethereum"
+}

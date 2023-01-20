@@ -1,0 +1,10 @@
+{
+	"Id": "0xb8992eb68206af4ebd52215eede2f2029629f5df",
+	"Symbol": "INABA-WETH",
+	"UnderlyingTokens": [
+		"0x2b874e766bcd2023869f9bba6fe2d176aa841786",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "4a07adde-c63e-43cd-835c-2d4aeb3ddcd1",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x6ba57f5a9063e0faa398f74692eb14b9100f59f7",
+	"Protocol": "4a07adde-c63e-43cd-835c-2d4aeb3ddcd1",
+	"Outputs": [
+		{
+			"Address": "0x6ba57f5a9063e0faa398f74692eb14b9100f59f7",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x21ac3afa26b2b43185f9b4725fcb27915b896cce",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FOTP-WETH",
+	"Chain": "ethereum"
+}

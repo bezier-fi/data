@@ -1,0 +1,27 @@
+{
+	"Id": "0x887923442ab3c4e11fba89dd1e1cf875820af9e9",
+	"Protocol": "4a07adde-c63e-43cd-835c-2d4aeb3ddcd1",
+	"Outputs": [
+		{
+			"Address": "0x887923442ab3c4e11fba89dd1e1cf875820af9e9",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x73c102b2ab04d980ef9cdb7ea408baf6c6c44223",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "AQUATIC-WETH",
+	"Chain": "ethereum"
+}

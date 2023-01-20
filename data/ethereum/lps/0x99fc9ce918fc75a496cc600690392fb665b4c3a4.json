@@ -1,0 +1,10 @@
+{
+	"Id": "0x99fc9ce918fc75a496cc600690392fb665b4c3a4",
+	"Symbol": "TRADEFI-WETH",
+	"UnderlyingTokens": [
+		"0x65cdfcc9803ab47ae0e9335c57e69737c357ed25",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "4a07adde-c63e-43cd-835c-2d4aeb3ddcd1",
+	"Chain": "ethereum"
+}

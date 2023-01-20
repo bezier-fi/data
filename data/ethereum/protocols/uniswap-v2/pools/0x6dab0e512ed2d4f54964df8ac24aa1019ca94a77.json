@@ -1,0 +1,27 @@
+{
+	"Id": "0x6dab0e512ed2d4f54964df8ac24aa1019ca94a77",
+	"Protocol": "4a07adde-c63e-43cd-835c-2d4aeb3ddcd1",
+	"Outputs": [
+		{
+			"Address": "0x6dab0e512ed2d4f54964df8ac24aa1019ca94a77",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x94766aed9999699161599cb3ff031fd31c903a28",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FLOBA-WETH",
+	"Chain": "ethereum"
+}

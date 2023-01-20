@@ -1,0 +1,10 @@
+{
+	"Id": "0x7eff9d2ecd5a3a169a07d2cf31ee27603a34aee9",
+	"Symbol": "WETH-Trump",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd86dbfd79a506f871d751bebe6110fe4908b6e66"
+	],
+	"Protocol": "4a07adde-c63e-43cd-835c-2d4aeb3ddcd1",
+	"Chain": "ethereum"
+}

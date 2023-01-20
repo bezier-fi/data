@@ -1,0 +1,10 @@
+{
+	"Id": "0xf49576260beb78d755ee8ff6e04e241e62d8138d",
+	"Symbol": "BBTT-WETH",
+	"UnderlyingTokens": [
+		"0x92a8771c925ec0812325546075be51e76d2f7123",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "4a07adde-c63e-43cd-835c-2d4aeb3ddcd1",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x144b946c5548e6aadaa83c640090829a33ff2251",
+	"Symbol": "GFLOKI-WETH",
+	"UnderlyingTokens": [
+		"0x55b50d820eadc12c49e3e7966136cf6719326c9e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "4a07adde-c63e-43cd-835c-2d4aeb3ddcd1",
+	"Chain": "ethereum"
+}

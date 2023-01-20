@@ -1,0 +1,10 @@
+{
+	"Id": "0x57c8d3a7196ea7dd84c7fd75eddd71b734a87f57",
+	"Symbol": "WETH-SWOLE",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc7585b3d4f27a948bf6c669bab3f452e17ccce4a"
+	],
+	"Protocol": "4a07adde-c63e-43cd-835c-2d4aeb3ddcd1",
+	"Chain": "ethereum"
+}

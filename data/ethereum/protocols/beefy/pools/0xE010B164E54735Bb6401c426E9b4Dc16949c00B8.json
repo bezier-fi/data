@@ -1,0 +1,23 @@
+{
+	"Id": "0xE010B164E54735Bb6401c426E9b4Dc16949c00B8",
+	"Protocol": "d712f02f-1e7d-4d7a-ba88-231bc4cb6d02",
+	"Outputs": [
+		{
+			"Address": "0xE010B164E54735Bb6401c426E9b4Dc16949c00B8",
+			"Apr": 11.187144,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x795065dCc9f64b5614C407a6EFDC400DA6221FB0",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SUSHI-ETH LP",
+	"Chain": "ethereum"
+}

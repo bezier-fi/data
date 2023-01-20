@@ -1,0 +1,10 @@
+{
+	"Id": "0x6ad38bab82f2e757aa93bccdffaead5f92110996",
+	"Symbol": "WETH-KISHIMOTO",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd6f03a0c6ec906e789c77350fc15b71ca563eda9"
+	],
+	"Protocol": "4a07adde-c63e-43cd-835c-2d4aeb3ddcd1",
+	"Chain": "ethereum"
+}

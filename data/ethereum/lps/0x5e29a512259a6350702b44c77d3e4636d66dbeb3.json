@@ -1,0 +1,10 @@
+{
+	"Id": "0x5e29a512259a6350702b44c77d3e4636d66dbeb3",
+	"Symbol": "KAORU-WETH",
+	"UnderlyingTokens": [
+		"0xb54478fcc597ddcbe60cd5d94d588d09c005f2cb",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "4a07adde-c63e-43cd-835c-2d4aeb3ddcd1",
+	"Chain": "ethereum"
+}

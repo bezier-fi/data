@@ -1,0 +1,10 @@
+{
+	"Id": "0xd8c1c327a7045b0fa27aa7e40ea38c9ac52c1c13",
+	"Symbol": "POOF-WETH",
+	"UnderlyingTokens": [
+		"0x888cea2bbdd5d47a4032cf63668d7525c74af57a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "4a07adde-c63e-43cd-835c-2d4aeb3ddcd1",
+	"Chain": "ethereum"
+}

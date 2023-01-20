@@ -1,0 +1,10 @@
+{
+	"Id": "0x7cdcdb63ba6f18c23214266adabcedc3f0dc8ce2",
+	"Symbol": "WETH-LEX",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xcb8f52565f614db1c61f943fed42b4b26366e696"
+	],
+	"Protocol": "4a07adde-c63e-43cd-835c-2d4aeb3ddcd1",
+	"Chain": "ethereum"
+}

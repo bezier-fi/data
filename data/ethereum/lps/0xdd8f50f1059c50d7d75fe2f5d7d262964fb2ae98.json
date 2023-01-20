@@ -1,0 +1,10 @@
+{
+	"Id": "0xdd8f50f1059c50d7d75fe2f5d7d262964fb2ae98",
+	"Symbol": "KDOE-WETH",
+	"UnderlyingTokens": [
+		"0x5f190f9082878ca141f858c1c90b4c59fe2782c5",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "4a07adde-c63e-43cd-835c-2d4aeb3ddcd1",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0xb056861fdbf6c9f9377f075f727f4eeac22dc711",
+	"Protocol": "4a07adde-c63e-43cd-835c-2d4aeb3ddcd1",
+	"Outputs": [
+		{
+			"Address": "0xb056861fdbf6c9f9377f075f727f4eeac22dc711",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3cb15c73bd46232930cc600c0652dbb29b26a9f0",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "🛡️ VE RI TAS 🛡️-WETH",
+	"Chain": "ethereum"
+}

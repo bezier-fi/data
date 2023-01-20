@@ -1,0 +1,10 @@
+{
+	"Id": "0xbe995054043789c36e12792ab0ec3a702e685dfc",
+	"Symbol": "DIY-WETH",
+	"UnderlyingTokens": [
+		"0x6f51e54f2ebbfa8a7ee6eaa702fccb1cef0d17f9",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "4a07adde-c63e-43cd-835c-2d4aeb3ddcd1",
+	"Chain": "ethereum"
+}

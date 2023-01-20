@@ -1,0 +1,27 @@
+{
+	"Id": "0xad25a15d9059a8d3163acbbe6a98119fc63afbaf",
+	"Protocol": "89dfb2e4-fdb9-4e6c-be93-0421c79465ec",
+	"Outputs": [
+		{
+			"Address": "0xad25a15d9059a8d3163acbbe6a98119fc63afbaf",
+			"Apr": 0.010455636,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xbc396689893d065f41bc2c6ecbee5e0085233447",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PERP-WETH (0.05%)",
+	"Chain": "ethereum"
+}

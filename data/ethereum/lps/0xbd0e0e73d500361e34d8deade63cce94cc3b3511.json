@@ -1,0 +1,10 @@
+{
+	"Id": "0xbd0e0e73d500361e34d8deade63cce94cc3b3511",
+	"Symbol": "WETH-Tuzi",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd45b8ef9d203f0f541a110ad4be924e9deb5f41b"
+	],
+	"Protocol": "4a07adde-c63e-43cd-835c-2d4aeb3ddcd1",
+	"Chain": "ethereum"
+}

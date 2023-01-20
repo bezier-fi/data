@@ -1,0 +1,10 @@
+{
+	"Id": "0xdb5c727742f83cec407cfbbca6f9dcecaf50806c",
+	"Symbol": "WETH-Toriyama",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xff1c156c54bb7a01f54e31fdf8311d12cfe4a718"
+	],
+	"Protocol": "4a07adde-c63e-43cd-835c-2d4aeb3ddcd1",
+	"Chain": "ethereum"
+}

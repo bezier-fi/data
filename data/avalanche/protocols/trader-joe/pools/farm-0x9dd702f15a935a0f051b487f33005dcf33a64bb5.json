@@ -1,0 +1,23 @@
+{
+	"Id": "farm-0x9dd702f15a935a0f051b487f33005dcf33a64bb5",
+	"Protocol": "081b9b77-fc34-4c9a-8cae-4584f63cfb4e",
+	"Outputs": [
+		{
+			"Address": "0x9dd702f15a935a0f051b487f33005dcf33a64bb5",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9dd702f15a935a0f051b487f33005dcf33a64bb5",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ICMC-BUSD",
+	"Chain": "avalanche"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x36d893bf8fa3847e9cc30b810b0eb9a0eb633fe3",
+	"Symbol": "DODOSWAP-WETH",
+	"UnderlyingTokens": [
+		"0x42e9a9fb334d417932e322dedf0b47a4023f0d49",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "4a07adde-c63e-43cd-835c-2d4aeb3ddcd1",
+	"Chain": "ethereum"
+}

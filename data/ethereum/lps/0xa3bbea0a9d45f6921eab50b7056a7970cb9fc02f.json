@@ -1,0 +1,10 @@
+{
+	"Id": "0xa3bbea0a9d45f6921eab50b7056a7970cb9fc02f",
+	"Symbol": "WETH-SHIKA",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xcbcc21bd76175e1e79724152d3edf0f42d9d490f"
+	],
+	"Protocol": "4a07adde-c63e-43cd-835c-2d4aeb3ddcd1",
+	"Chain": "ethereum"
+}

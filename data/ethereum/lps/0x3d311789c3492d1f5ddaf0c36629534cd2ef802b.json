@@ -1,0 +1,10 @@
+{
+	"Id": "0x3d311789c3492d1f5ddaf0c36629534cd2ef802b",
+	"Symbol": "USDC-DGLD",
+	"UnderlyingTokens": [
+		"0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+		"0xa9299c296d7830a99414d1e5546f5171fa01e9c8"
+	],
+	"Protocol": "4a07adde-c63e-43cd-835c-2d4aeb3ddcd1",
+	"Chain": "ethereum"
+}

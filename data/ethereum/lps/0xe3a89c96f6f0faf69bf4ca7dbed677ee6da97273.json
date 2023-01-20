@@ -1,0 +1,10 @@
+{
+	"Id": "0xe3a89c96f6f0faf69bf4ca7dbed677ee6da97273",
+	"Symbol": "ODA-WETH",
+	"UnderlyingTokens": [
+		"0x0c6bf55f60143fa1da202ac8c9b8ce484b5a5d90",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "4a07adde-c63e-43cd-835c-2d4aeb3ddcd1",
+	"Chain": "ethereum"
+}

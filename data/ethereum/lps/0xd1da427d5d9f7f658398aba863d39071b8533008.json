@@ -1,0 +1,10 @@
+{
+	"Id": "0xd1da427d5d9f7f658398aba863d39071b8533008",
+	"Symbol": "Ninken-WETH",
+	"UnderlyingTokens": [
+		"0x45e381741f60bb61eb198128a2a24ac944b23683",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "4a07adde-c63e-43cd-835c-2d4aeb3ddcd1",
+	"Chain": "ethereum"
+}

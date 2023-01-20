@@ -1,0 +1,10 @@
+{
+	"Id": "0xb80f426d8df7c31177e3af291c03a8cdeb841590",
+	"Symbol": "TickEx-WETH",
+	"UnderlyingTokens": [
+		"0x2c6306e90b4a76dfb1b06938199abf386f1a69b7",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "4a07adde-c63e-43cd-835c-2d4aeb3ddcd1",
+	"Chain": "ethereum"
+}

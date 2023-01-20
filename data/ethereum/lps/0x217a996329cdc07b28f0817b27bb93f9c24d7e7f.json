@@ -1,0 +1,10 @@
+{
+	"Id": "0x217a996329cdc07b28f0817b27bb93f9c24d7e7f",
+	"Symbol": "ELXR-WETH",
+	"UnderlyingTokens": [
+		"0x84c1ca50efad089ee3674a4ece907db29e4c5e0b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "4a07adde-c63e-43cd-835c-2d4aeb3ddcd1",
+	"Chain": "ethereum"
+}

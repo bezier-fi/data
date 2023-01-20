@@ -1,0 +1,10 @@
+{
+	"Id": "0x88dac5e585f5162684a5954ccd7a2bd1de742ece",
+	"Symbol": "Dumb-WETH",
+	"UnderlyingTokens": [
+		"0xada9193ac8e13a9882c628101b8827af18cacecf",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "4a07adde-c63e-43cd-835c-2d4aeb3ddcd1",
+	"Chain": "ethereum"
+}

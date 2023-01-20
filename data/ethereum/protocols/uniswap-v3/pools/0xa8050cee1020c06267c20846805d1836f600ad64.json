@@ -1,0 +1,27 @@
+{
+	"Id": "0xa8050cee1020c06267c20846805d1836f600ad64",
+	"Protocol": "89dfb2e4-fdb9-4e6c-be93-0421c79465ec",
+	"Outputs": [
+		{
+			"Address": "0xa8050cee1020c06267c20846805d1836f600ad64",
+			"Apr": 1.4646413,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x401ccde7ea48d37061278f97a9e1179b4b44931f",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SHIBARIUM-USDT (0.01%)",
+	"Chain": "ethereum"
+}

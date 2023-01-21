@@ -1,0 +1,10 @@
+{
+	"Id": "0xce3eb79d66fa9a6b0e5af417720b3459a5cdd2de",
+	"Symbol": "TVN-WETH",
+	"UnderlyingTokens": [
+		"0x2ec7f1ebad46310e87be96b459e6563f143e235e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "4fd4afb1-1c79-419c-b7aa-2b4fa524693c",
+	"Chain": "ethereum"
+}

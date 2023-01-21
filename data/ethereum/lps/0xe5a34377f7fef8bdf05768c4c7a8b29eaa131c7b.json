@@ -1,0 +1,10 @@
+{
+	"Id": "0xe5a34377f7fef8bdf05768c4c7a8b29eaa131c7b",
+	"Symbol": "CABLE-WETH",
+	"UnderlyingTokens": [
+		"0x2266a1556f81a6381f45f60ab1bc9530e1b9e51a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "4fd4afb1-1c79-419c-b7aa-2b4fa524693c",
+	"Chain": "ethereum"
+}

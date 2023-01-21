@@ -1,0 +1,10 @@
+{
+	"Id": "0x2364deb9b710468de60197cb789111f9232ebdc4",
+	"Symbol": "WETH-Glisa",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xff41bf5be9d02873f6e678533fa4681ef3c61739"
+	],
+	"Protocol": "4fd4afb1-1c79-419c-b7aa-2b4fa524693c",
+	"Chain": "ethereum"
+}

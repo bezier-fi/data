@@ -1,0 +1,10 @@
+{
+	"Id": "0xb970ca7a289a48e54a91a51798e94987cd4e7ed8",
+	"Symbol": "WETH-CANTO",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc4a8bee93ba7f2979cfdf59754993c248bc056cc"
+	],
+	"Protocol": "4fd4afb1-1c79-419c-b7aa-2b4fa524693c",
+	"Chain": "ethereum"
+}

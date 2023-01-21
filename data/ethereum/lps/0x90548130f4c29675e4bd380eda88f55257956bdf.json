@@ -1,0 +1,10 @@
+{
+	"Id": "0x90548130f4c29675e4bd380eda88f55257956bdf",
+	"Symbol": "RINU-WETH",
+	"UnderlyingTokens": [
+		"0x82af54bfa8be9b28a3acdd6f0d04685b6a7c4932",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "4fd4afb1-1c79-419c-b7aa-2b4fa524693c",
+	"Chain": "ethereum"
+}

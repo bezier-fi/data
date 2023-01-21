@@ -1,0 +1,23 @@
+{
+	"Id": "farm-0x5928f05feab68e9981ce51018b815289fdcccda4",
+	"Protocol": "c1f069f8-e95a-48dc-81d5-1c42f8e30ae9",
+	"Outputs": [
+		{
+			"Address": "0x5928f05feab68e9981ce51018b815289fdcccda4",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5928f05feab68e9981ce51018b815289fdcccda4",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WAVAX-AKITA",
+	"Chain": "avalanche"
+}

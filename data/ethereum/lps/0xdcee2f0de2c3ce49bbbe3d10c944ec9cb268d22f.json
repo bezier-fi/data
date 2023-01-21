@@ -1,0 +1,10 @@
+{
+	"Id": "0xdcee2f0de2c3ce49bbbe3d10c944ec9cb268d22f",
+	"Symbol": "POODLE-WETH",
+	"UnderlyingTokens": [
+		"0xb998b956795431140533a08c4ff693072534a142",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "4fd4afb1-1c79-419c-b7aa-2b4fa524693c",
+	"Chain": "ethereum"
+}

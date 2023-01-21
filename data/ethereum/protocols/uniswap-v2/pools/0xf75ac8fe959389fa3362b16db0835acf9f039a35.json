@@ -1,0 +1,27 @@
+{
+	"Id": "0xf75ac8fe959389fa3362b16db0835acf9f039a35",
+	"Protocol": "4fd4afb1-1c79-419c-b7aa-2b4fa524693c",
+	"Outputs": [
+		{
+			"Address": "0xf75ac8fe959389fa3362b16db0835acf9f039a35",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x04fcc8f7f0e67cfd0824577e989ba1f1d87cd399",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Mining-WETH",
+	"Chain": "ethereum"
+}

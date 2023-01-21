@@ -1,0 +1,27 @@
+{
+	"Id": "0x3578faac09191cb76536751fdba59f7660dce366",
+	"Protocol": "f5179d46-57b7-4b88-863a-aae787de075f",
+	"Outputs": [
+		{
+			"Address": "0x3578faac09191cb76536751fdba59f7660dce366",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa55870278d6389ec5b524553d03c04f5677c061e",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "XCAD-USDT (1.00%)",
+	"Chain": "polygon"
+}

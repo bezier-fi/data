@@ -1,0 +1,27 @@
+{
+	"Id": "0xdcee2f0de2c3ce49bbbe3d10c944ec9cb268d22f",
+	"Protocol": "4fd4afb1-1c79-419c-b7aa-2b4fa524693c",
+	"Outputs": [
+		{
+			"Address": "0xdcee2f0de2c3ce49bbbe3d10c944ec9cb268d22f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb998b956795431140533a08c4ff693072534a142",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "POODLE-WETH",
+	"Chain": "ethereum"
+}

@@ -1,103 +1,619 @@
 [
 	{
-		"Id": "farm-0x6b51d495d97d9715288ebf85b9334d8dd45f913d",
-		"Symbol": "CheemsX-WAVAX"
+		"Id": "",
+		"Symbol": ""
 	},
 	{
-		"Id": "farm-0x361b625c074c736ef2d959e983b4478aa23a5d19",
-		"Symbol": "OH-WAVAX"
+		"Id": "+0xce095a9657a02025081e0607c8d8b081c76a75ea",
+		"Symbol": "jMIM"
 	},
 	{
-		"Id": "farm-0x77501b9d3e645b5cb75863e93adf5516b8cc5492",
-		"Symbol": "JLP-JLP"
+		"Id": "farm-0xed8cbd9f0ce3c6986b22002f03c6475ceb7a6256",
+		"Symbol": "WAVAX-USDT.e"
 	},
 	{
-		"Id": "farm-0xbca892e5f463af9a27d571cc620cf3ebd998e276",
-		"Symbol": "JLP-JLP"
+		"Id": "farm-0x3acd2ff1c3450bc8a9765afd8d0dea8e40822c86",
+		"Symbol": "WAVAX-PENDLE"
 	},
 	{
-		"Id": "farm-0x78da10824f4029adfb79669c4bd4f1962d08a0bb",
-		"Symbol": "CRV-WAVAX"
+		"Id": "farm-0xb1a0cd8953056d81de3405ffe15006b5e195a7ae",
+		"Symbol": "MEAD-WAVAX"
 	},
 	{
-		"Id": "farm-0x0b729682785ea6ebe3fc6a80fbf65c64097b71bf",
-		"Symbol": "SPEAR-USDC"
-	},
-	{
-		"Id": "farm-0x03205c36bd5dd0017d49dd247d3320eafed4d4cb",
-		"Symbol": "APE-WAVAX"
-	},
-	{
-		"Id": "farm-0x2301b46c5d3378a20840bd8cefde831bb13e4e13",
-		"Symbol": "BARN-WAVAX"
-	},
-	{
-		"Id": "farm-0x224b49b3fc8ef9fb1515b633f6c2537e87315b6d",
-		"Symbol": "WAVAX-FRM"
-	},
-	{
-		"Id": "farm-0xf723feea2e376b7231cb250f7628fffc3f2dbd10",
-		"Symbol": "ALPHA.e-WAVAX"
-	},
-	{
-		"Id": "farm-0x12471c8f5e697bfc46a8c3153aeefec4fff86932",
-		"Symbol": "BDF-WAVAX"
-	},
-	{
-		"Id": "farm-0xa9d879fff956975b7d1de601ee8d75c5c9b3aee4",
-		"Symbol": "WAVAX-$BURN"
+		"Id": "farm-0x61b1e59f1d3abada4a02ffdeb6f6a6a401a7ab00",
+		"Symbol": "Summit-WAVAX"
 	},
 	{
 		"Id": "farm-0x5d4677142d7616b637b1b34dc50ee1f6ed691721",
 		"Symbol": "DON-WAVAX"
 	},
 	{
-		"Id": "farm-0x8db868ed3ba599d1110287f506b85fabcdf6fc4c",
-		"Symbol": "LiPOGE-USDT"
+		"Id": "farm-0x75bebdaeed355d04177b1233fbece4348e754efc",
+		"Symbol": "WAVAX-PERA"
 	},
 	{
-		"Id": "-0x3fe38b7b610c0acd10296fef69d9b18eb7a9eb1f",
-		"Symbol": "jWBTC"
+		"Id": "",
+		"Symbol": ""
 	},
 	{
-		"Id": "farm-0x5a9071890302609d82e9d883ea7e6e89e9d6306f",
-		"Symbol": "WAVAX-BAVA"
+		"Id": "farm-0x19995ad68fea76c448c2a5e2134313cf72d16dcc",
+		"Symbol": "DOUB-USDC"
+	},
+	{
+		"Id": "farm-0xe06d4fb7778b1192cd6bcae6b15f067267911740",
+		"Symbol": "WAVAX-EVB"
+	},
+	{
+		"Id": "farm-0x31fa3838788a07607d95c9c640d041eaec649f50",
+		"Symbol": "SET-USDC.e"
+	},
+	{
+		"Id": "farm-0xdd214469b5d76f9e0e9003f0049d920170f85ba3",
+		"Symbol": "USDC.e-XLGS"
+	},
+	{
+		"Id": "farm-0xc3040ca327eff4d645fd8823b2132dee97e48943",
+		"Symbol": "GOD-WAVAX"
+	},
+	{
+		"Id": "farm-0x9ef0c12b787f90f59cbbe0b611b82d30cab92929",
+		"Symbol": "VTX-WAVAX"
+	},
+	{
+		"Id": "",
+		"Symbol": ""
+	},
+	{
+		"Id": "farm-0x6d5229bc639fba1f18c3d3c80c18bfa8100350e7",
+		"Symbol": "WAVAX-SSH"
+	},
+	{
+		"Id": "farm-0x83ccf918570c0b90e6918806b9f1be0e6e3ce112",
+		"Symbol": "AUX-USDC"
+	},
+	{
+		"Id": "farm-0x829a9f8894ef17f1523ec87a9f8e5e0cf5dc2003",
+		"Symbol": "PLN-WAVAX"
+	},
+	{
+		"Id": "farm-0xcd5f03d2278d0c01d7c3b6331300e02ee0da5a6c",
+		"Symbol": "PINT-USDC"
+	},
+	{
+		"Id": "",
+		"Symbol": ""
+	},
+	{
+		"Id": "",
+		"Symbol": ""
+	},
+	{
+		"Id": "-0x585e7bc75089ed111b656faa7aeb1104f5b96c15",
+		"Symbol": "jLINK"
+	},
+	{
+		"Id": "farm-0x3433b681141b4506b71aead3120b264bd9c12863",
+		"Symbol": "FOOK-WAVAX"
+	},
+	{
+		"Id": "farm-0xc3e6d9f7a3a5e3e223356383c7c055ee3f26a34f",
+		"Symbol": "AAVE.e-WAVAX"
+	},
+	{
+		"Id": "+0xbfdbe35168953c9d29bdf9a0043f902f233c76e0",
+		"Symbol": "jJOE"
+	},
+	{
+		"Id": "",
+		"Symbol": ""
+	},
+	{
+		"Id": "farm-0x114eeaa0ad2f855cb6079335f4f1148e2a0a1166",
+		"Symbol": "WAVAX-WXGEM"
+	},
+	{
+		"Id": "farm-0x56ada0609a9e24d5231b5561c7ea4f0b8b3a5021",
+		"Symbol": "PIZZA-SODA"
+	},
+	{
+		"Id": "farm-0xd1cadc1738d6a550ceca6d851135cd280fbd1275",
+		"Symbol": "XETA-USDC"
+	},
+	{
+		"Id": "farm-0xdb3e89fabeb7462ee7aeaadb9f8ec46f50ee0b7c",
+		"Symbol": "Dice-Dice"
+	},
+	{
+		"Id": "",
+		"Symbol": ""
+	},
+	{
+		"Id": "farm-0x10866fe002e9fcfd3f9be92b6521cdb4a9f8378b",
+		"Symbol": "WORM-WAVAX"
+	},
+	{
+		"Id": "farm-0xdc63069d6f920c6300065ac28acd05b1f7b3b0c1",
+		"Symbol": "PLEB-WAVAX"
+	},
+	{
+		"Id": "farm-0x15ab2dae41ab3edfc470dee83e322c82a200fe08",
+		"Symbol": "SLIME-WAVAX"
+	},
+	{
+		"Id": "",
+		"Symbol": ""
+	},
+	{
+		"Id": "farm-0x3793995529ab2073ba6c37dba9b2cb5a75253f29",
+		"Symbol": "MOCK-SLV"
+	},
+	{
+		"Id": "farm-0xbcabb94006400ed84c3699728d6ecbaa06665c89",
+		"Symbol": "DGNX-WAVAX"
+	},
+	{
+		"Id": "farm-0x5f83e323b63f1daee31c5ed5eb6fe2163599a104",
+		"Symbol": "USDC.e-BOG"
+	},
+	{
+		"Id": "farm-0x86783a149fe417831ae8c59dd0e2b60664a3dfd1",
+		"Symbol": "ROY-WAVAX"
+	},
+	{
+		"Id": "farm-0xdb636857317c46b453d5ab400b278cf2dadc996e",
+		"Symbol": "WETH-USDC.e"
+	},
+	{
+		"Id": "farm-0x03205c36bd5dd0017d49dd247d3320eafed4d4cb",
+		"Symbol": "APE-WAVAX"
+	},
+	{
+		"Id": "farm-0x12471c8f5e697bfc46a8c3153aeefec4fff86932",
+		"Symbol": "BDF-WAVAX"
+	},
+	{
+		"Id": "farm-0x4b5bc8c5ae85a90d77bec11a0b99e3b273f75619",
+		"Symbol": "3ULL-WAVAX"
+	},
+	{
+		"Id": "farm-0x82845b52b53c80595bbf78129126bd3e6fc2c1df",
+		"Symbol": "WLRS-USDC.e"
+	},
+	{
+		"Id": "farm-0x330f77bda60d8dab14d2bb4f6248251443722009",
+		"Symbol": "STG-USDC"
+	},
+	{
+		"Id": "farm-0xfd17c7a2e1eee2ee2a308e43bdfbac4df135c5cd",
+		"Symbol": "PLAYMATES-WAVAX"
+	},
+	{
+		"Id": "",
+		"Symbol": ""
+	},
+	{
+		"Id": "farm-0x6c37f8f37a751540d00c5fd670615a8069b3eea5",
+		"Symbol": "USDt-OWL"
+	},
+	{
+		"Id": "farm-0xf4003f4efbe8691b60249e6afbd307abe7758adb",
+		"Symbol": "WAVAX-USDC"
+	},
+	{
+		"Id": "farm-0x2fd81391e30805cc7f2ec827013ce86dc591b806",
+		"Symbol": "BTC.b-WAVAX"
+	},
+	{
+		"Id": "farm-0x4514c70a27a2e6035859d477b86c4e21b6209bf6",
+		"Symbol": "MAGIC-USDC"
+	},
+	{
+		"Id": "farm-0x81fd7ff8bbd07077a8c81f258e716223e494ada3",
+		"Symbol": "GVILLE-WAVAX"
+	},
+	{
+		"Id": "",
+		"Symbol": ""
+	},
+	{
+		"Id": "farm-0x255bccb8deceb2d94edff476638b56b1fe5b26ca",
+		"Symbol": "AVANET-sAVANET"
+	},
+	{
+		"Id": "farm-0xfc9ba2077e95c7aa078484e5b86f312d0e41f44b",
+		"Symbol": "KALM-USDC"
+	},
+	{
+		"Id": "farm-0x0d16818cb8ec440058fae016bf497870f9b5bb3a",
+		"Symbol": "MIM-SKULL"
+	},
+	{
+		"Id": "farm-0xeb8eb6300c53c3addbb7382ff6c6fbc4165b0742",
+		"Symbol": "BNB-WAVAX"
+	},
+	{
+		"Id": "farm-0x950f09e0ffe7f966ad781a781da03b0fee19f9a1",
+		"Symbol": "sAVANET-AVANET"
+	},
+	{
+		"Id": "farm-0xed6699addf8ab6abae74556826eb85311304e8e4",
+		"Symbol": "TAZ-TAZOR"
+	},
+	{
+		"Id": "farm-0xfe15c2695f1f920da45c30aae47d11de51007af9",
+		"Symbol": "WETH.e-WAVAX"
+	},
+	{
+		"Id": "",
+		"Symbol": ""
+	},
+	{
+		"Id": "farm-0x7de9543dc22a1b30e31314a00a7e82e395ca2967",
+		"Symbol": "LAYER-WAVAX"
+	},
+	{
+		"Id": "farm-0x75adad64d0cc5f7ec4b0b1dc078f7d8c5b24056f",
+		"Symbol": "STOMB-WAVAX"
+	},
+	{
+		"Id": "farm-0x67d9aab77beda392b1ed0276e70598bf2a22945d",
+		"Symbol": "MU-MUG"
+	},
+	{
+		"Id": "farm-0x2f2ac0b0de45af118e97f73b2ca9bd65b06e0894",
+		"Symbol": "BRN-WAVAX"
+	},
+	{
+		"Id": "",
+		"Symbol": ""
+	},
+	{
+		"Id": "farm-0x05366f13d5f655ffb2d2abb7b2ba005b12eb8bde",
+		"Symbol": "QI-WAVAX"
+	},
+	{
+		"Id": "farm-0x1a8f2fcc9d2b847cfe16546fded32c35c06a1661",
+		"Symbol": "DLC-USDC.e"
+	},
+	{
+		"Id": "farm-0x9c349d8ada96c38c23161bb0345641a80a470249",
+		"Symbol": "BABYKRAKENS-WAVAX"
+	},
+	{
+		"Id": "farm-0x5305a6c4da88391f4a9045bf2ed57f4bf0cf4f62",
+		"Symbol": "WAVAX-AXIAL"
 	},
 	{
 		"Id": "farm-0x3b90a467f58631369903c2005457a3d28d47f3e5",
 		"Symbol": "FERT-WAVAX"
 	},
 	{
-		"Id": "farm-0xbb91401d34e8c67b5a75fe9795c3158def33afe9",
-		"Symbol": "ETHP2-WAVAX"
+		"Id": "farm-0x7ca4d1a48a4f1863e7d5a78c19f601a9887d496b",
+		"Symbol": "AHILL-WAVAX"
 	},
 	{
-		"Id": "farm-0x3fcd1d5450e63fa6af495a601e6ea1230f01c4e3",
-		"Symbol": "COOK-WAVAX"
+		"Id": "farm-0xf64e1c5b6e17031f5504481ac8145f4c3eab4917",
+		"Symbol": "WAVAX-TIME"
 	},
 	{
-		"Id": "farm-0x754a67d24fa2cc9caa9596566dd72f44c32a7afc",
-		"Symbol": "ANKR-WAVAX"
+		"Id": "farm-0x2f54994a8c8bb63cc8d2f7116a09e89a32ca5a9e",
+		"Symbol": "STG-WAVAX"
 	},
 	{
-		"Id": "farm-0x50141c21e4e861d4b2cbeb825b9a2b5e5e09a186",
-		"Symbol": "MIM-USDC.e"
+		"Id": "farm-0xd138f9204a65a8ac63a06e6504d0f5293238c44a",
+		"Symbol": "WAVAX-CHRO"
+	},
+	{
+		"Id": "farm-0xed3de16407d14ca05096f86d3d75ced4762b0549",
+		"Symbol": "BEE-TEST"
+	},
+	{
+		"Id": "farm-0x2a8a315e82f85d1f0658c5d66a452bbdd9356783",
+		"Symbol": "USDC.e-USDC"
+	},
+	{
+		"Id": "farm-0x776db9095dcd405a0cda347dc0a2a8f50dcd4eb2",
+		"Symbol": "GXT-WAVAX"
+	},
+	{
+		"Id": "farm-0x218e6a0ad170460f93ea784fbcc92b57df13316e",
+		"Symbol": "WAVAX-ECD"
+	},
+	{
+		"Id": "farm-0xee7263357a68bb4ee02444102d135074bc010fc5",
+		"Symbol": "SUB-WAVAX"
+	},
+	{
+		"Id": "farm-0x5a9071890302609d82e9d883ea7e6e89e9d6306f",
+		"Symbol": "WAVAX-BAVA"
+	},
+	{
+		"Id": "+0xc146783a59807154f92084f9243eb139d58da696",
+		"Symbol": "jXJOE"
+	},
+	{
+		"Id": "-0xed6aaf91a2b084bd594dbd1245be3691f9f637ac",
+		"Symbol": "jUSDC"
+	},
+	{
+		"Id": "farm-0xd3d477df7f63a2623464ff5be6746981fded026f",
+		"Symbol": "GRAPE-WINE"
+	},
+	{
+		"Id": "farm-0x0b7e759a94d18a0109b9317606aa7094a40f8733",
+		"Symbol": "agEUR-USDC"
+	},
+	{
+		"Id": "farm-0x74ef6a9a7ae35899eac8e2f2427c1a604d66ae7b",
+		"Symbol": "USDC.e-SOL"
+	},
+	{
+		"Id": "+0x585e7bc75089ed111b656faa7aeb1104f5b96c15",
+		"Symbol": "jLINK"
+	},
+	{
+		"Id": "",
+		"Symbol": ""
+	},
+	{
+		"Id": "farm-0x5a7a792d70d1ea39708b9ad9531069e73795c6a4",
+		"Symbol": "NXUSD-WXT"
+	},
+	{
+		"Id": "farm-0xb1fa0a3b990ca348d7013df2ea9ea8469a90a8a8",
+		"Symbol": "Yuzu-USDC.e"
+	},
+	{
+		"Id": "farm-0x6f3a0c89f611ef5dc9d96650324ac633d02265d3",
+		"Symbol": "LINK.e-WAVAX"
+	},
+	{
+		"Id": "",
+		"Symbol": ""
+	},
+	{
+		"Id": "farm-0x457b1a04974045c765f47cc2953371f5d0841ba4",
+		"Symbol": "bAVAX-USDC.e"
+	},
+	{
+		"Id": "farm-0x53942dcce5087f56cf1d68f4e017ca3a793f59a2",
+		"Symbol": "FXS-WAVAX"
+	},
+	{
+		"Id": "",
+		"Symbol": ""
+	},
+	{
+		"Id": "farm-0x78da10824f4029adfb79669c4bd4f1962d08a0bb",
+		"Symbol": "CRV-WAVAX"
+	},
+	{
+		"Id": "farm-0x77501b9d3e645b5cb75863e93adf5516b8cc5492",
+		"Symbol": "JLP-JLP"
+	},
+	{
+		"Id": "farm-0x2c3601fe09c23df8beb8216298d1502c985e376f",
+		"Symbol": "USDC.e-BAVA"
+	},
+	{
+		"Id": "farm-0x224b49b3fc8ef9fb1515b633f6c2537e87315b6d",
+		"Symbol": "WAVAX-FRM"
+	},
+	{
+		"Id": "farm-0x3e5f198b46f3de52761b02d4ac8ef4ceceac22d6",
+		"Symbol": "MIM-FORT"
+	},
+	{
+		"Id": "farm-0x30b7fd64e752a9bf4b1f3c187d04591abb447154",
+		"Symbol": "AGX-USDC"
+	},
+	{
+		"Id": "farm-0x81034a38a124a3290dc226798f34c6645b153a02",
+		"Symbol": "DCAU-WAVAX"
+	},
+	{
+		"Id": "",
+		"Symbol": ""
+	},
+	{
+		"Id": "farm-0x482b272af360fdfbf2d6f9b688ce949ae6adc117",
+		"Symbol": "WAVAX-LVT"
+	},
+	{
+		"Id": "farm-0x2774516897ac629ad3ed9dcac7e375dda78412b9",
+		"Symbol": "QI-WAVAX"
+	},
+	{
+		"Id": "farm-0xd81cb1f7bce1d539f3de6e7431a637cb5c66669d",
+		"Symbol": "POLAR-WAVAX"
+	},
+	{
+		"Id": "farm-0xeaf0646c117c09d91ce12384a1c49099b1b7045f",
+		"Symbol": "PIZZA-RONI"
+	},
+	{
+		"Id": "farm-0x620ad7b83722f396247a29c3d6673a8bc46bd5a5",
+		"Symbol": "USDt-RUX"
+	},
+	{
+		"Id": "farm-0x7b7617c7b2236d7871741783cae8bcc222c2e05d",
+		"Symbol": "SMRTr-WAVAX"
+	},
+	{
+		"Id": "farm-0x8db868ed3ba599d1110287f506b85fabcdf6fc4c",
+		"Symbol": "LiPOGE-USDT"
+	},
+	{
+		"Id": "farm-0x6e4d3e097593fd1fc214144b61d2893a936a97b1",
+		"Symbol": "USDC-420"
+	},
+	{
+		"Id": "farm-0xbf052f471870de1280ec34178321c16efdb152e7",
+		"Symbol": "BDSCI1-APE-X"
+	},
+	{
+		"Id": "farm-0x9f7de2cd7e3927b2737653aeffc94fab97bbe972",
+		"Symbol": "LINK-WAVAX"
+	},
+	{
+		"Id": "farm-0x8d100005bea4e49117d2fddb3ef16e4fc95d7824",
+		"Symbol": "CMSN-WAVAX"
+	},
+	{
+		"Id": "farm-0xb800a0d09db7359b2a216f47185fa3339b23ac3d",
+		"Symbol": "EGG-USDC"
+	},
+	{
+		"Id": "",
+		"Symbol": ""
+	},
+	{
+		"Id": "",
+		"Symbol": ""
+	},
+	{
+		"Id": "",
+		"Symbol": ""
+	},
+	{
+		"Id": "farm-0x03d15e0451e54eec95ac5acb5b0a7ce69638c62a",
+		"Symbol": "USDC.e-WSHARE"
+	},
+	{
+		"Id": "farm-0x00cb5b42684da62909665d8151ff80d1567722c3",
+		"Symbol": "MIM-WINE"
+	},
+	{
+		"Id": "farm-0x5472e98d22b0fb7ec5c3e360788b8700419370b5",
+		"Symbol": "WAVAX-RISE"
+	},
+	{
+		"Id": "farm-0x0d30faa83b68aa3649843b30ba73c42e6aa92c64",
+		"Symbol": "ASAFTI-WAVAX"
+	},
+	{
+		"Id": "farm-0xee25009c093a06896acf29cf93386ecc00b1714b",
+		"Symbol": "WET-WAVAX"
+	},
+	{
+		"Id": "farm-0xb9f425bc9af072a91c423e31e9eb7e04f226b39d",
+		"Symbol": "LINK.e-USDC.e"
+	},
+	{
+		"Id": "farm-0xb10a87b0622b97a47e9b112d3d2a812df55efde1",
+		"Symbol": "SUB-ZSHARE"
+	},
+	{
+		"Id": "",
+		"Symbol": ""
+	},
+	{
+		"Id": "farm-0x86d1b1ab4812a104bc1ea1fbd07809de636e6c6b",
+		"Symbol": "CRAFT-WAVAX"
+	},
+	{
+		"Id": "farm-0x4dac8f6393edcaca7b256dc315f3b8bb8499145d",
+		"Symbol": "WAVAX-OCapital"
 	},
 	{
 		"Id": "farm-0xad8c95706aa0424a5ccdb9d06726f9dbc1bb1cc2",
 		"Symbol": "USDC.e-GUN"
 	},
 	{
-		"Id": "farm-0xc8898e2eee8a1d08742bb3173311697966451f61",
-		"Symbol": "PTP-ecdPTP"
+		"Id": "farm-0xc252356e3fffe840f25ddfe3bfcc2bb0f15520d7",
+		"Symbol": "MUSDC-SLV"
+	},
+	{
+		"Id": "farm-0x4d7450da3abc67663c6c3989b4c84f35e5d0b5fc",
+		"Symbol": "PIZZA-WAVAX"
+	},
+	{
+		"Id": "-0x3fe38b7b610c0acd10296fef69d9b18eb7a9eb1f",
+		"Symbol": "jWBTC"
+	},
+	{
+		"Id": "farm-0x4801602fa2ca3f62376f80cb45e0543507689fe3",
+		"Symbol": "BRO-WAVAX"
+	},
+	{
+		"Id": "farm-0xe5e9d67e93ad363a50cabcb9e931279251bbefd0",
+		"Symbol": "CAI-WAVAX"
+	},
+	{
+		"Id": "farm-0xbc7073545da62e26eea3106c4f0e92468972523a",
+		"Symbol": "WAVAX-HOOF"
+	},
+	{
+		"Id": "farm-0x6c5fd51704f2737b51a48b2acdf8bb091b64aaea",
+		"Symbol": "BSN-WAVAX"
+	},
+	{
+		"Id": "farm-0x86a7bdb6f10a98d4e44f16cd0039c7f8e0deb014",
+		"Symbol": "HRW-USDT.e"
+	},
+	{
+		"Id": "farm-0x63abe32d0ee76c05a11838722a63e012008416e6",
+		"Symbol": "USDC.e-DAI.e"
+	},
+	{
+		"Id": "farm-0xec58150de32b83274cf63010b5bb1fc6d49159df",
+		"Symbol": "snowSOL-SOL"
 	},
 	{
 		"Id": "farm-0x20abdc20758990b6afc90da2f2d30cd0aa3f73c6",
 		"Symbol": "SYN-WAVAX"
 	},
 	{
-		"Id": "farm-0xe61dc1c6bb54262a7a24bd506cd50e8986af66c6",
-		"Symbol": "JOE-yyJOE"
+		"Id": "",
+		"Symbol": ""
+	},
+	{
+		"Id": "farm-0x618607f26286ef4a9cc98a2a591bac0d478b6667",
+		"Symbol": "USDC-AVABBC"
+	},
+	{
+		"Id": "farm-0x8def3929fda2332b523488c0b4dddeea7553db6f",
+		"Symbol": "JADE-USDC"
+	},
+	{
+		"Id": "farm-0x295f322e3cf883925ae8cc9346e4d2b19d7dcb0c",
+		"Symbol": "USDC-MEAD"
+	},
+	{
+		"Id": "farm-0x1371a6d8cbe2ca66d0911f270e1caa7c12a3045a",
+		"Symbol": "FLY-WAVAX"
+	},
+	{
+		"Id": "farm-0x187446a92d66e9f3269ba1ef0e6ce9de0e8b7eba",
+		"Symbol": "WAVAX-URQA"
+	},
+	{
+		"Id": "farm-0x8cd9f3ba472bab5cc19c3bfff06fd7cc1121911d",
+		"Symbol": "NOD-IMON"
+	},
+	{
+		"Id": "farm-0xbdc7ef37283bc67d50886c4afb64877e3e83f869",
+		"Symbol": "YETI-WAVAX"
+	},
+	{
+		"Id": "farm-0x967b05d883ae5837e734836731a46976ad1f324e",
+		"Symbol": "USDC.e-UNCLE"
+	},
+	{
+		"Id": "farm-0xce719b5c0556eb3fa3be8046dcbfe8ffc75cab73",
+		"Symbol": "DCAR-USDC"
+	},
+	{
+		"Id": "farm-0xc4b7121b4fc065decd26c33fb32e42c543e8850d",
+		"Symbol": "xPTP-PTP"
+	},
+	{
+		"Id": "farm-0x02749b7ccc521de7b94f8133cbffb9bd361787c6",
+		"Symbol": "DD-CC"
+	},
+	{
+		"Id": "farm-0x82db765c214c1aab16672058a3c22b12f6a42cd0",
+		"Symbol": "USDC.e-OT-qiUSDC-28DEC2023"
 	},
 	{
 		"Id": "",
@@ -112,236 +628,92 @@
 		"Symbol": "jWETH"
 	},
 	{
-		"Id": "farm-0x74ef6a9a7ae35899eac8e2f2427c1a604d66ae7b",
-		"Symbol": "USDC.e-SOL"
+		"Id": "farm-0x68fb75a9488e405630fb6a4d7cce7d194e295d31",
+		"Symbol": "BRZ-USDC"
 	},
 	{
-		"Id": "farm-0x6c5fd51704f2737b51a48b2acdf8bb091b64aaea",
-		"Symbol": "BSN-WAVAX"
+		"Id": "farm-0xe7c9065eef88462c2e1d9e3208b7d300e6b81c39",
+		"Symbol": "Alpha-USDC"
+	},
+	{
+		"Id": "farm-0xdff4475e419b34d1619bb9547a14aae7eb37993a",
+		"Symbol": "WETH.e-yyAVAX"
+	},
+	{
+		"Id": "",
+		"Symbol": ""
+	},
+	{
+		"Id": "farm-0xb674f93952f02f2538214d4572aa47f262e990ff",
+		"Symbol": "gOHM-WAVAX"
+	},
+	{
+		"Id": "farm-0x30556acc64b7b8f37ae4ce8325dd279847f09926",
+		"Symbol": "DBY-WAVAX"
+	},
+	{
+		"Id": "farm-0xb5c9e891af3063004a441ba4fab4ca3d6deb5626",
+		"Symbol": "YAK-WAVAX"
+	},
+	{
+		"Id": "farm-0x391e477fca3fa3f1f5039621322bb53d1e381b7d",
+		"Symbol": "RIBT-WAVAX"
 	},
 	{
 		"Id": "farm-0x74b651eff97871ea99fcc14423e611d85eb0ea93",
 		"Symbol": "USDt-USDT.e"
 	},
 	{
-		"Id": "",
-		"Symbol": ""
+		"Id": "farm-0x6139361ccd4f40abf3d5d22aa3b72a195010f9ab",
+		"Symbol": "PAE-WAVAX"
 	},
 	{
-		"Id": "",
-		"Symbol": ""
+		"Id": "farm-0x2c2123c69b4f0c48497ccf6bea092bb2d1e371b8",
+		"Symbol": "FTOMB-WAVAX"
 	},
 	{
-		"Id": "",
-		"Symbol": ""
+		"Id": "farm-0xee60d85ffa7a4e223a92dbd40c6fb685ea916b7a",
+		"Symbol": "MIM-SBR"
 	},
 	{
-		"Id": "",
-		"Symbol": ""
+		"Id": "farm-0x67926d973cd8ee876ad210faaf7dffa99e414acf",
+		"Symbol": "JOE-USDC.e"
+	},
+	{
+		"Id": "farm-0xe9e16236701be5329a9ace004082d534d50ed06d",
+		"Symbol": "WAVAX-LiPOGE"
+	},
+	{
+		"Id": "farm-0xda4d79cfbf987992471fb50b00ca88c9e8ba10a0",
+		"Symbol": "USDt-NEMO"
+	},
+	{
+		"Id": "farm-0x5d95ae932d42e53bb9da4de65e9b7263a4fa8564",
+		"Symbol": "WAVAX-IME"
+	},
+	{
+		"Id": "farm-0xde1971e07a686e41b68510023b51d6ccde563b71",
+		"Symbol": "LIQR-WAVAX"
+	},
+	{
+		"Id": "farm-0x0b26b022feb7b3823140c87598c5472ca49dc8a1",
+		"Symbol": "MASS-USDC"
 	},
 	{
 		"Id": "farm-0x8d5db5d48f5c46a4263dc46112b5d2e3c5626423",
 		"Symbol": "USDt-USDC"
 	},
 	{
-		"Id": "farm-0xff45a7988fffd72c4e8f9a58fcc17c73643f70b0",
-		"Symbol": "USDC-BFG"
-	},
-	{
-		"Id": "farm-0x9ef0c12b787f90f59cbbe0b611b82d30cab92929",
-		"Symbol": "VTX-WAVAX"
-	},
-	{
-		"Id": "farm-0xb9f425bc9af072a91c423e31e9eb7e04f226b39d",
-		"Symbol": "LINK.e-USDC.e"
-	},
-	{
-		"Id": "farm-0x4d7450da3abc67663c6c3989b4c84f35e5d0b5fc",
-		"Symbol": "PIZZA-WAVAX"
-	},
-	{
-		"Id": "farm-0xb800a0d09db7359b2a216f47185fa3339b23ac3d",
-		"Symbol": "EGG-USDC"
-	},
-	{
-		"Id": "",
-		"Symbol": ""
-	},
-	{
-		"Id": "farm-0xa389f9430876455c36478deea9769b7ca4e3ddb1",
-		"Symbol": "USDC.e-WAVAX"
-	},
-	{
-		"Id": "farm-0x2f2ac0b0de45af118e97f73b2ca9bd65b06e0894",
-		"Symbol": "BRN-WAVAX"
-	},
-	{
-		"Id": "",
-		"Symbol": ""
-	},
-	{
-		"Id": "",
-		"Symbol": ""
-	},
-	{
-		"Id": "-0xc146783a59807154f92084f9243eb139d58da696",
-		"Symbol": "jXJOE"
-	},
-	{
-		"Id": "farm-0x50e0d123adcabbf7cf95fa031f6b7f9b2c5c8dfa",
-		"Symbol": "WAVAX-NEKO"
-	},
-	{
-		"Id": "farm-0x1643de2efb8e35374d796297a9f95f64c082a8ce",
-		"Symbol": "JOE-USDT.e"
-	},
-	{
-		"Id": "farm-0x00a386afb1524b572de7ea0a3aaad25cdf7e749a",
-		"Symbol": "WAVAX-YEL"
-	},
-	{
-		"Id": "farm-0xb9775b9efefaefa014f159ae43058c954116aa31",
-		"Symbol": "MAGIC-WAVAX"
-	},
-	{
-		"Id": "farm-0xeebcace14c6713d59723604194ac139a2c1aa46b",
-		"Symbol": "AVOGE-WAVAX"
-	},
-	{
-		"Id": "farm-0xdb87ba23c60e5fe6514f352a30b1170494045221",
-		"Symbol": "WAVAX-HON"
-	},
-	{
-		"Id": "farm-0xeb8eb6300c53c3addbb7382ff6c6fbc4165b0742",
-		"Symbol": "BNB-WAVAX"
-	},
-	{
-		"Id": "farm-0x52fc7c01b7b7c68c3d73203d61b61e553a669b94",
-		"Symbol": "BioFi-WAVAX"
-	},
-	{
-		"Id": "farm-0x7de9543dc22a1b30e31314a00a7e82e395ca2967",
-		"Symbol": "LAYER-WAVAX"
-	},
-	{
-		"Id": "farm-0x82ea2b49db9f883d4c44474ad71a3465967ffc79",
-		"Symbol": "BRAIN-SKULL"
-	},
-	{
-		"Id": "farm-0x199fb78019a08af2cb6a078409d0c8233eba8a0c",
-		"Symbol": "WETH.e-USDC.e"
-	},
-	{
-		"Id": "farm-0xdb3e89fabeb7462ee7aeaadb9f8ec46f50ee0b7c",
-		"Symbol": "Dice-Dice"
-	},
-	{
-		"Id": "farm-0x114eeaa0ad2f855cb6079335f4f1148e2a0a1166",
-		"Symbol": "WAVAX-WXGEM"
-	},
-	{
-		"Id": "farm-0x62cf16bf2bc053e7102e2ac1dee5029b94008d99",
-		"Symbol": "WAVAX-SPELL"
-	},
-	{
-		"Id": "farm-0x9c349d8ada96c38c23161bb0345641a80a470249",
-		"Symbol": "BABYKRAKENS-WAVAX"
-	},
-	{
-		"Id": "farm-0x6d0015bb0ac050f8803a3267f11df3d6bbd1b8d6",
-		"Symbol": "BCDT-WAVAX"
-	},
-	{
-		"Id": "farm-0x8d304a6acb5c9dc786c697b9c9f09603278f8805",
-		"Symbol": "ZEUS-WAVAX"
-	},
-	{
-		"Id": "farm-0x83ccf918570c0b90e6918806b9f1be0e6e3ce112",
-		"Symbol": "AUX-USDC"
-	},
-	{
-		"Id": "+0x8b650e26404ac6837539ca96812f0123601e4448",
-		"Symbol": "jUSDT"
-	},
-	{
-		"Id": "farm-0x3052a75dfd7a9d9b0f81e510e01d3fe80a9e7ec7",
-		"Symbol": "EGG-WAVAX"
-	},
-	{
-		"Id": "farm-0x5840cd18a6022f5fc5056dccd96fc4c7c041a3f7",
-		"Symbol": "MUMO-USDC"
-	},
-	{
-		"Id": "farm-0xfd17c7a2e1eee2ee2a308e43bdfbac4df135c5cd",
-		"Symbol": "PLAYMATES-WAVAX"
+		"Id": "farm-0x95189f25b4609120f72783e883640216e92732da",
+		"Symbol": "THOR-WAVAX"
 	},
 	{
 		"Id": "farm-0x4db0d5cf1bd8bd4533a0bfb7ad993842408f9f8c",
 		"Symbol": "PRMD-WAVAX"
 	},
 	{
-		"Id": "farm-0x457b1a04974045c765f47cc2953371f5d0841ba4",
-		"Symbol": "bAVAX-USDC.e"
-	},
-	{
-		"Id": "farm-0xe644b67e150d10a8899e0d08d9eb3807dee91e48",
-		"Symbol": "OWL-WAVAX"
-	},
-	{
-		"Id": "farm-0x87dee1cc9ffd464b79e058ba20387c1984aed86a",
-		"Symbol": "WAVAX-DAI.e"
-	},
-	{
-		"Id": "farm-0x57e0278f66de0cdf36515db31c646fd6cba15823",
-		"Symbol": "GENI-USDC"
-	},
-	{
-		"Id": "farm-0x7bc2561d69b56fae9760df394a9fa9202c5f1f11",
-		"Symbol": "gOHM-OTWO"
-	},
-	{
-		"Id": "farm-0xb78c8238bd907c42be45aebdb4a8c8a5d7b49755",
-		"Symbol": "WAVAX-PEFI"
-	},
-	{
-		"Id": "farm-0xc7b7a94a65fbd2a1354a338dacfd2697181215a3",
-		"Symbol": "TRUSD-USDa"
-	},
-	{
-		"Id": "+0x50ac14a3ee0a4cb6ef829f7ad65b2da5493e99d2",
-		"Symbol": "jUSDTNative"
-	},
-	{
-		"Id": "+0x3fe38b7b610c0acd10296fef69d9b18eb7a9eb1f",
-		"Symbol": "jWBTC"
-	},
-	{
-		"Id": "farm-0x7ca4d1a48a4f1863e7d5a78c19f601a9887d496b",
-		"Symbol": "AHILL-WAVAX"
-	},
-	{
-		"Id": "farm-0x0512ab7ccf96af5512dbc2d4c93048f3f6a16608",
-		"Symbol": "USDC-yyAVAX"
-	},
-	{
-		"Id": "farm-0xe5e9d67e93ad363a50cabcb9e931279251bbefd0",
-		"Symbol": "CAI-WAVAX"
-	},
-	{
-		"Id": "farm-0x482b272af360fdfbf2d6f9b688ce949ae6adc117",
-		"Symbol": "WAVAX-LVT"
-	},
-	{
-		"Id": "farm-0x7ca8e6a11466f8542f2b65b845c77d425182cbde",
-		"Symbol": "DFIAT-WAVAX"
-	},
-	{
-		"Id": "farm-0xfe15c2695f1f920da45c30aae47d11de51007af9",
-		"Symbol": "WETH.e-WAVAX"
-	},
-	{
-		"Id": "farm-0x2f54994a8c8bb63cc8d2f7116a09e89a32ca5a9e",
-		"Symbol": "STG-WAVAX"
+		"Id": "farm-0x4f3f39507428f5e7d4b2b9169b8df88805db2f8e",
+		"Symbol": "JNS-WAVAX"
 	},
 	{
 		"Id": "",
@@ -352,300 +724,72 @@
 		"Symbol": "DAI.e-VOLT"
 	},
 	{
-		"Id": "farm-0xb10a87b0622b97a47e9b112d3d2a812df55efde1",
-		"Symbol": "SUB-ZSHARE"
-	},
-	{
-		"Id": "farm-0x8d100005bea4e49117d2fddb3ef16e4fc95d7824",
-		"Symbol": "CMSN-WAVAX"
-	},
-	{
-		"Id": "farm-0x67d9aab77beda392b1ed0276e70598bf2a22945d",
-		"Symbol": "MU-MUG"
-	},
-	{
-		"Id": "farm-0x281c0036bdbb54c76bf3c3436f68988dbc8e1d84",
-		"Symbol": "USDC-MEAT"
-	},
-	{
-		"Id": "",
-		"Symbol": ""
-	},
-	{
-		"Id": "farm-0xb1a0cd8953056d81de3405ffe15006b5e195a7ae",
-		"Symbol": "MEAD-WAVAX"
-	},
-	{
-		"Id": "farm-0x2fd81391e30805cc7f2ec827013ce86dc591b806",
-		"Symbol": "BTC.b-WAVAX"
-	},
-	{
-		"Id": "",
-		"Symbol": ""
-	},
-	{
-		"Id": "",
-		"Symbol": ""
-	},
-	{
-		"Id": "farm-0xed6699addf8ab6abae74556826eb85311304e8e4",
-		"Symbol": "TAZ-TAZOR"
-	},
-	{
-		"Id": "farm-0x4f3f39507428f5e7d4b2b9169b8df88805db2f8e",
-		"Symbol": "JNS-WAVAX"
-	},
-	{
-		"Id": "farm-0xeaf0646c117c09d91ce12384a1c49099b1b7045f",
-		"Symbol": "PIZZA-RONI"
-	},
-	{
-		"Id": "farm-0x1179e6af2794fa9d39316951e868772f96230375",
-		"Symbol": "pAVAX-WAVAX"
-	},
-	{
-		"Id": "farm-0x53942dcce5087f56cf1d68f4e017ca3a793f59a2",
-		"Symbol": "FXS-WAVAX"
-	},
-	{
-		"Id": "farm-0xe0c109583d69dca33dc59dc7ce45c10e3b8dfc57",
-		"Symbol": "BLOOD-WAVAX"
-	},
-	{
-		"Id": "farm-0x5d95ae932d42e53bb9da4de65e9b7263a4fa8564",
-		"Symbol": "WAVAX-IME"
-	},
-	{
-		"Id": "farm-0xbf052f471870de1280ec34178321c16efdb152e7",
-		"Symbol": "BDSCI1-APE-X"
-	},
-	{
-		"Id": "",
-		"Symbol": ""
-	},
-	{
-		"Id": "farm-0x601e0f63be88a52b79dbac667d6b4a167ce39113",
-		"Symbol": "TRACTOR-WAVAX"
-	},
-	{
-		"Id": "farm-0xef61490aa6316d06d5375164f0db7d472cd0029f",
-		"Symbol": "GM-WAVAX"
-	},
-	{
-		"Id": "farm-0x82845b52b53c80595bbf78129126bd3e6fc2c1df",
-		"Symbol": "WLRS-USDC.e"
-	},
-	{
-		"Id": "farm-0x82db765c214c1aab16672058a3c22b12f6a42cd0",
-		"Symbol": "USDC.e-OT-qiUSDC-28DEC2023"
-	},
-	{
-		"Id": "farm-0xc5f64a94414180f79fa92e334cf1e4516185f4c7",
-		"Symbol": "SIFU-WAVAX"
-	},
-	{
-		"Id": "farm-0x6075a935d72e92e35649075a4b699c3195543e60",
-		"Symbol": "FLIX-WAVAX"
-	},
-	{
-		"Id": "farm-0xd1cadc1738d6a550ceca6d851135cd280fbd1275",
-		"Symbol": "XETA-USDC"
-	},
-	{
-		"Id": "farm-0x454e67025631c065d3cfad6d71e6892f74487a15",
-		"Symbol": "JOE-WAVAX"
-	},
-	{
-		"Id": "farm-0x9c396cf96319c8ef2b662af57dea6ee374b9959f",
-		"Symbol": "LOST-WAVAX"
-	},
-	{
-		"Id": "farm-0x8ea6dd9482a49791e8c3d0f7c515bbd3be702f74",
-		"Symbol": "MIM-WETH.e"
-	},
-	{
-		"Id": "farm-0x911d86adb119624cf36a645a16ec74cceec9ee96",
-		"Symbol": "LiPOGE-LiPOGE"
-	},
-	{
-		"Id": "farm-0xc0294fafdee273f4d8d01db52cc0c65102bc081f",
-		"Symbol": "USDC.e-WMATIC"
-	},
-	{
-		"Id": "farm-0x10866fe002e9fcfd3f9be92b6521cdb4a9f8378b",
-		"Symbol": "WORM-WAVAX"
-	},
-	{
-		"Id": "+0xc146783a59807154f92084f9243eb139d58da696",
-		"Symbol": "jXJOE"
-	},
-	{
-		"Id": "farm-0x86783a149fe417831ae8c59dd0e2b60664a3dfd1",
-		"Symbol": "ROY-WAVAX"
-	},
-	{
-		"Id": "",
-		"Symbol": ""
-	},
-	{
-		"Id": "farm-0xbc7073545da62e26eea3106c4f0e92468972523a",
-		"Symbol": "WAVAX-HOOF"
-	},
-	{
-		"Id": "farm-0x9a3545d8a822288936809b00e57f166f9aa824c2",
-		"Symbol": "WAVAX-CCY"
-	},
-	{
-		"Id": "farm-0xc4b7121b4fc065decd26c33fb32e42c543e8850d",
-		"Symbol": "xPTP-PTP"
-	},
-	{
-		"Id": "farm-0x95189f25b4609120f72783e883640216e92732da",
-		"Symbol": "THOR-WAVAX"
-	},
-	{
-		"Id": "farm-0xbcabb94006400ed84c3699728d6ecbaa06665c89",
-		"Symbol": "DGNX-WAVAX"
-	},
-	{
-		"Id": "farm-0x4dc5291cdc7ad03342994e35d0ccc76de065a566",
-		"Symbol": "WAVAX-HeC"
-	},
-	{
-		"Id": "farm-0xfddbe5d71c9085cffa1a15e828d7b038c4b93d89",
-		"Symbol": "LET-USDC.e"
-	},
-	{
-		"Id": "farm-0xde7e5fd310a0dd52af66a75f2b60594637b0854e",
-		"Symbol": "WAVAX-CHAM"
-	},
-	{
-		"Id": "farm-0x5a77e4c5e413b40aa1747c58c7aa8a8fc128f09b",
-		"Symbol": "MIM-AFARMER"
-	},
-	{
-		"Id": "farm-0x140cac5f0e05cbec857e65353839fddd0d8482c1",
-		"Symbol": "CRA-WAVAX"
-	},
-	{
-		"Id": "farm-0xfa39cef07c567ae3db75e25772859a3901e2dd3f",
-		"Symbol": "Pepper-WAVAX"
-	},
-	{
-		"Id": "",
-		"Symbol": ""
-	},
-	{
-		"Id": "",
-		"Symbol": ""
-	},
-	{
-		"Id": "",
-		"Symbol": ""
-	},
-	{
-		"Id": "farm-0x6d5229bc639fba1f18c3d3c80c18bfa8100350e7",
-		"Symbol": "WAVAX-SSH"
-	},
-	{
-		"Id": "farm-0xac3f978714c613e768272c502a8912bc03dcf624",
-		"Symbol": "BLZZ-WAVAX"
-	},
-	{
-		"Id": "farm-0x81fd7ff8bbd07077a8c81f258e716223e494ada3",
-		"Symbol": "GVILLE-WAVAX"
-	},
-	{
-		"Id": "farm-0x781655d802670bba3c89aebaaea59d3182fd755d",
-		"Symbol": "MIM-WAVAX"
-	},
-	{
-		"Id": "farm-0x5f83e323b63f1daee31c5ed5eb6fe2163599a104",
-		"Symbol": "USDC.e-BOG"
-	},
-	{
-		"Id": "farm-0x63abe32d0ee76c05a11838722a63e012008416e6",
-		"Symbol": "USDC.e-DAI.e"
-	},
-	{
-		"Id": "farm-0x11bbfa2fa3b995cea99d20dfa618fd32e252d8f2",
-		"Symbol": "APE-WAVAX"
+		"Id": "farm-0x1c70504af046030a2b51403189a7d68158fb28ab",
+		"Symbol": "FLOT-WAVAX"
 	},
 	{
 		"Id": "farm-0x785a7356731dac36747cb46f4a98a80202aabb23",
 		"Symbol": "MIM-ASND"
 	},
 	{
-		"Id": "farm-0xd9908862d8953bf80e5d5b17adec0c21bd1e02b2",
-		"Symbol": "TRUSD-QBTC"
+		"Id": "farm-0x27844ad1adebb4dc26f04a11acb8010f0d9c6afd",
+		"Symbol": "COTi-Bits"
 	},
 	{
-		"Id": "farm-0xf2fc5bf5259f74451edab7816b6f18b68b229142",
-		"Symbol": "CRAB-MIM"
+		"Id": "",
+		"Symbol": ""
 	},
 	{
-		"Id": "farm-0x30b7fd64e752a9bf4b1f3c187d04591abb447154",
-		"Symbol": "AGX-USDC"
+		"Id": "",
+		"Symbol": ""
 	},
 	{
-		"Id": "farm-0x218e6a0ad170460f93ea784fbcc92b57df13316e",
-		"Symbol": "WAVAX-ECD"
+		"Id": "farm-0x911d86adb119624cf36a645a16ec74cceec9ee96",
+		"Symbol": "LiPOGE-LiPOGE"
 	},
 	{
-		"Id": "farm-0x02749b7ccc521de7b94f8133cbffb9bd361787c6",
-		"Symbol": "DD-CC"
+		"Id": "farm-0xbd640457a0a2de67fe18d9ad6756dd2d501f08b6",
+		"Symbol": "WAVAX-SWAP.e"
 	},
 	{
-		"Id": "farm-0x75bebdaeed355d04177b1233fbece4348e754efc",
-		"Symbol": "WAVAX-PERA"
+		"Id": "farm-0x6d0015bb0ac050f8803a3267f11df3d6bbd1b8d6",
+		"Symbol": "BCDT-WAVAX"
 	},
 	{
-		"Id": "farm-0xb99a92b6d5a7ca3a2215a63d43d5e8ad43abc4e9",
-		"Symbol": "EVO-WAVAX"
+		"Id": "",
+		"Symbol": ""
 	},
 	{
-		"Id": "farm-0x5a7a792d70d1ea39708b9ad9531069e73795c6a4",
-		"Symbol": "NXUSD-WXT"
+		"Id": "farm-0x2e02539203256c83c7a9f6fa6f8608a32a2b1ca2",
+		"Symbol": "USDC.e-USDT.e"
 	},
 	{
-		"Id": "farm-0x3e5f198b46f3de52761b02d4ac8ef4ceceac22d6",
-		"Symbol": "MIM-FORT"
+		"Id": "",
+		"Symbol": ""
 	},
 	{
-		"Id": "+0xce095a9657a02025081e0607c8d8b081c76a75ea",
-		"Symbol": "jMIM"
+		"Id": "+0x50ac14a3ee0a4cb6ef829f7ad65b2da5493e99d2",
+		"Symbol": "jUSDTNative"
 	},
 	{
-		"Id": "+0xed6aaf91a2b084bd594dbd1245be3691f9f637ac",
-		"Symbol": "jUSDC"
+		"Id": "farm-0x7bc2561d69b56fae9760df394a9fa9202c5f1f11",
+		"Symbol": "gOHM-OTWO"
 	},
 	{
 		"Id": "farm-0xc69be510a85a8e29a7843a34e501164e6b2a693e",
 		"Symbol": "AVAL-USDC.e"
 	},
 	{
-		"Id": "farm-0x05366f13d5f655ffb2d2abb7b2ba005b12eb8bde",
-		"Symbol": "QI-WAVAX"
+		"Id": "farm-0x82ea2b49db9f883d4c44474ad71a3465967ffc79",
+		"Symbol": "BRAIN-SKULL"
 	},
 	{
-		"Id": "farm-0x5b159312efe6953a52a8ff3bb351c6afc26e667d",
-		"Symbol": "ORBIT-WAVAX"
+		"Id": "farm-0xf723feea2e376b7231cb250f7628fffc3f2dbd10",
+		"Symbol": "ALPHA.e-WAVAX"
 	},
 	{
-		"Id": "farm-0x4b946c91c2b1a7d7c40fb3c130cdfbaf8389094d",
-		"Symbol": "sAVAX-WAVAX"
-	},
-	{
-		"Id": "-0x50ac14a3ee0a4cb6ef829f7ad65b2da5493e99d2",
-		"Symbol": "jUSDTNative"
-	},
-	{
-		"Id": "farm-0x6d4bdefe5b4644aff3617ed7ce2b7599e56fa135",
-		"Symbol": "rloop-WAVAX"
-	},
-	{
-		"Id": "farm-0x4cd20f3e2894ed1a0f4668d953a98e689c647bfe",
-		"Symbol": "VPND-WAVAX"
+		"Id": "farm-0xe50cafe8b537c4732edf9bb5860495db04af9bee",
+		"Symbol": "USDC.e-SUV"
 	},
 	{
 		"Id": "",
@@ -656,132 +800,144 @@
 		"Symbol": ""
 	},
 	{
-		"Id": "farm-0xee60d85ffa7a4e223a92dbd40c6fb685ea916b7a",
-		"Symbol": "MIM-SBR"
+		"Id": "farm-0xdb10eb31840b6b05c24b153156ce621968c3625b",
+		"Symbol": "MILK-CROP"
 	},
 	{
-		"Id": "farm-0xce719b5c0556eb3fa3be8046dcbfe8ffc75cab73",
-		"Symbol": "DCAR-USDC"
-	},
-	{
-		"Id": "farm-0x34ea62d682c82e998945f1d663cb65f8b4db37e1",
-		"Symbol": "ZOO-WAVAX"
-	},
-	{
-		"Id": "farm-0x295f322e3cf883925ae8cc9346e4d2b19d7dcb0c",
-		"Symbol": "USDC-MEAD"
-	},
-	{
-		"Id": "",
-		"Symbol": ""
-	},
-	{
-		"Id": "farm-0x77c95d2ba942a6a2c32f7082975c1a62493cf9fd",
-		"Symbol": "BBB-AAA"
-	},
-	{
-		"Id": "farm-0x950f09e0ffe7f966ad781a781da03b0fee19f9a1",
-		"Symbol": "sAVANET-AVANET"
-	},
-	{
-		"Id": "farm-0x0d16818cb8ec440058fae016bf497870f9b5bb3a",
-		"Symbol": "MIM-SKULL"
-	},
-	{
-		"Id": "farm-0x19684b5457ee4bd8671c62cfd3e3f18f089dff66",
-		"Symbol": "KINE-USDT.e"
-	},
-	{
-		"Id": "farm-0x361221991b3b6282ff3a62bc874d018bfaf1f8c8",
-		"Symbol": "WAVAX-BIFI"
-	},
-	{
-		"Id": "+0xbfdbe35168953c9d29bdf9a0043f902f233c76e0",
-		"Symbol": "jJOE"
-	},
-	{
-		"Id": "-0xed6aaf91a2b084bd594dbd1245be3691f9f637ac",
-		"Symbol": "jUSDC"
-	},
-	{
-		"Id": "farm-0x5305a6c4da88391f4a9045bf2ed57f4bf0cf4f62",
-		"Symbol": "WAVAX-AXIAL"
-	},
-	{
-		"Id": "farm-0x565d20bd591b00ead0c927e4b6d7dd8a33b0b319",
-		"Symbol": "WAVAX-TUS"
-	},
-	{
-		"Id": "farm-0x00979bd14bd5eb5c456c5478d3bf4b6e9212ba7d",
-		"Symbol": "VSO-WAVAX"
+		"Id": "farm-0xe90e8b880cbe62d3f2958c9280dbc139465bd9a1",
+		"Symbol": "JEWEL-WAVAX"
 	},
 	{
 		"Id": "farm-0xfbbe4c10fe1228474ee47620dea007a56bbf18cc",
 		"Symbol": "AFINS-USDC"
 	},
 	{
-		"Id": "",
-		"Symbol": ""
+		"Id": "farm-0xff45a7988fffd72c4e8f9a58fcc17c73643f70b0",
+		"Symbol": "USDC-BFG"
 	},
 	{
-		"Id": "+0xc988c170d0e38197dc634a45bf00169c7aa7ca19",
-		"Symbol": "jDAI"
+		"Id": "farm-0x0315522354037e48c75756ad68358ce185dad911",
+		"Symbol": "ORBS-WAVAX"
 	},
 	{
-		"Id": "farm-0x86a7bdb6f10a98d4e44f16cd0039c7f8e0deb014",
-		"Symbol": "HRW-USDT.e"
+		"Id": "farm-0x76a551fc28029639ab017742c224159a786f544f",
+		"Symbol": "STEAK-WAVAX"
 	},
 	{
-		"Id": "farm-0x1a8f2fcc9d2b847cfe16546fded32c35c06a1661",
-		"Symbol": "DLC-USDC.e"
-	},
-	{
-		"Id": "farm-0x0d30faa83b68aa3649843b30ba73c42e6aa92c64",
-		"Symbol": "ASAFTI-WAVAX"
-	},
-	{
-		"Id": "+0xc22f01ddc8010ee05574028528614634684ec29e",
-		"Symbol": "jAVAX"
+		"Id": "farm-0xd5a37dc5c9a396a03dd1136fc76a1a02b1c88ffa",
+		"Symbol": "WBTC.e-WAVAX"
 	},
 	{
 		"Id": "",
 		"Symbol": ""
 	},
 	{
+		"Id": "farm-0xcdfd91eea657cc2701117fe9711c9a4f61feed23",
+		"Symbol": "PTP-WAVAX"
+	},
+	{
+		"Id": "farm-0x140cac5f0e05cbec857e65353839fddd0d8482c1",
+		"Symbol": "CRA-WAVAX"
+	},
+	{
+		"Id": "farm-0xbca892e5f463af9a27d571cc620cf3ebd998e276",
+		"Symbol": "JLP-JLP"
+	},
+	{
+		"Id": "farm-0xa389f9430876455c36478deea9769b7ca4e3ddb1",
+		"Symbol": "USDC.e-WAVAX"
+	},
+	{
 		"Id": "",
 		"Symbol": ""
 	},
 	{
-		"Id": "-0x8b650e26404ac6837539ca96812f0123601e4448",
-		"Symbol": "jUSDT"
+		"Id": "farm-0x1179e6af2794fa9d39316951e868772f96230375",
+		"Symbol": "pAVAX-WAVAX"
 	},
 	{
-		"Id": "farm-0x31fa3838788a07607d95c9c640d041eaec649f50",
-		"Symbol": "SET-USDC.e"
+		"Id": "farm-0x6075a935d72e92e35649075a4b699c3195543e60",
+		"Symbol": "FLIX-WAVAX"
 	},
 	{
-		"Id": "farm-0x2c2123c69b4f0c48497ccf6bea092bb2d1e371b8",
-		"Symbol": "FTOMB-WAVAX"
+		"Id": "farm-0x7ca8e6a11466f8542f2b65b845c77d425182cbde",
+		"Symbol": "DFIAT-WAVAX"
 	},
 	{
-		"Id": "farm-0xc3040ca327eff4d645fd8823b2132dee97e48943",
-		"Symbol": "GOD-WAVAX"
+		"Id": "farm-0xde7e5fd310a0dd52af66a75f2b60594637b0854e",
+		"Symbol": "WAVAX-CHAM"
 	},
 	{
-		"Id": "farm-0x0b26b022feb7b3823140c87598c5472ca49dc8a1",
-		"Symbol": "MASS-USDC"
+		"Id": "farm-0xbc61c7ecef56e40404fc359ef4dfd6e7528f2b09",
+		"Symbol": "KITTY-WAVAX"
 	},
 	{
-		"Id": "farm-0xda4d79cfbf987992471fb50b00ca88c9e8ba10a0",
-		"Symbol": "USDt-NEMO"
+		"Id": "farm-0xb382247667fe8ca5327ca1fa4835ae77a9907bc8",
+		"Symbol": "MIM-GRAPE"
 	},
 	{
-		"Id": "farm-0x02f9ace0a161343a4ccc81110cd17cc937af99cc",
-		"Symbol": "BAY-USDC"
+		"Id": "farm-0x1a95f00ac4826d9a8fa6eb9f9900c39513f6b1ca",
+		"Symbol": "WAVAX-OBX"
 	},
 	{
-		"Id": "farm-0xe89cc8c81988b4df910720652db5b0c9e9545462",
-		"Symbol": "WAVAX-BABINU"
+		"Id": "farm-0x4dc5291cdc7ad03342994e35d0ccc76de065a566",
+		"Symbol": "WAVAX-HeC"
+	},
+	{
+		"Id": "farm-0x0c91a070f862666bbcce281346be45766d874d98",
+		"Symbol": "GMX-WAVAX"
+	},
+	{
+		"Id": "farm-0x72c3438cf1c915ecf5d9f17a6ed346b273d5bf71",
+		"Symbol": "WAVAX-XAVA"
+	},
+	{
+		"Id": "farm-0xf0e9b2629974c32e326db7465ea44dc3bb4003e0",
+		"Symbol": "PUGGY-WAVAX"
+	},
+	{
+		"Id": "farm-0x4d8bc902e9e6946f7e42aff2abdd24890d02ef0b",
+		"Symbol": "WAVAX-BETS"
+	},
+	{
+		"Id": "farm-0xa4e1d420a4fffa38108514c7f4e021dd14696ece",
+		"Symbol": "Victorinox-WAVAX"
+	},
+	{
+		"Id": "+0x929f5cab61dfec79a5431a7734a68d714c4633fa",
+		"Symbol": "jWETH"
+	},
+	{
+		"Id": "+0x13a7a6c167d75badd316ddeef6c526c8463a090f",
+		"Symbol": "jBTC"
+	},
+	{
+		"Id": "farm-0xde8ab3276317fc59e4fc7e9a2786f4894f958953",
+		"Symbol": "LiPOGE-WAVAX"
+	},
+	{
+		"Id": "",
+		"Symbol": ""
+	},
+	{
+		"Id": "",
+		"Symbol": ""
+	},
+	{
+		"Id": "farm-0xcf80e302282c1e449fd745fad1e43faffe480536",
+		"Symbol": "JOE-zJoe"
+	},
+	{
+		"Id": "farm-0xfa39cef07c567ae3db75e25772859a3901e2dd3f",
+		"Symbol": "Pepper-WAVAX"
+	},
+	{
+		"Id": "farm-0x9155f441ffdfa81b13e385bfac6b3825c05184ee",
+		"Symbol": "ISA-WAVAX"
+	},
+	{
+		"Id": "farm-0x3b4cb5e7e6c3ec2af6a90a0f43e3b9b9b3865cba",
+		"Symbol": "XETA-USDt"
 	},
 	{
 		"Id": "farm-0x41ac9fd73298505dd1d2afc0b11cdd09fe3d7807",
@@ -796,28 +952,68 @@
 		"Symbol": ""
 	},
 	{
-		"Id": "farm-0x8def3929fda2332b523488c0b4dddeea7553db6f",
-		"Symbol": "JADE-USDC"
-	},
-	{
-		"Id": "farm-0xed8cbd9f0ce3c6986b22002f03c6475ceb7a6256",
-		"Symbol": "WAVAX-USDT.e"
-	},
-	{
 		"Id": "",
 		"Symbol": ""
 	},
 	{
-		"Id": "farm-0x4a24f745026bb3bd8e7e8a9d863256b5edf145e1",
-		"Symbol": "WAVAX-CINU"
+		"Id": "farm-0xcc502d6bdab9d3cd0d26cf084c9b2e7d8fb4ebfa",
+		"Symbol": "AVAT-WAVAX"
 	},
 	{
-		"Id": "farm-0xd138f9204a65a8ac63a06e6504d0f5293238c44a",
-		"Symbol": "WAVAX-CHRO"
+		"Id": "farm-0xf469b0ca50edf7c6b0fdb0d2c5409538eb0642b9",
+		"Symbol": "USDC.e-RUG"
 	},
 	{
-		"Id": "farm-0xd5a37dc5c9a396a03dd1136fc76a1a02b1c88ffa",
-		"Symbol": "WBTC.e-WAVAX"
+		"Id": "farm-0x91b62fb52c9fdf27ad18bbe1c4a8ff52df6104cc",
+		"Symbol": "HUSKY-WAVAX"
+	},
+	{
+		"Id": "farm-0x588dc0dd7c8be073e9da79307e023f1f756f06c6",
+		"Symbol": "MIM-OT-wMEMO-24FEB2022"
+	},
+	{
+		"Id": "+0x8b650e26404ac6837539ca96812f0123601e4448",
+		"Symbol": "jUSDT"
+	},
+	{
+		"Id": "farm-0x5a77e4c5e413b40aa1747c58c7aa8a8fc128f09b",
+		"Symbol": "MIM-AFARMER"
+	},
+	{
+		"Id": "farm-0x605aac9f0024a019f328074909874e3ee510f377",
+		"Symbol": "DCAU-USDT.e"
+	},
+	{
+		"Id": "+0x29472d511808ce925f501d25f9ee9effd2328db2",
+		"Symbol": "jUSDCNative"
+	},
+	{
+		"Id": "-0x50ac14a3ee0a4cb6ef829f7ad65b2da5493e99d2",
+		"Symbol": "jUSDTNative"
+	},
+	{
+		"Id": "farm-0xc8898e2eee8a1d08742bb3173311697966451f61",
+		"Symbol": "PTP-ecdPTP"
+	},
+	{
+		"Id": "farm-0x31396c05ac08ba3d46c1664108946d1ce7415561",
+		"Symbol": "WAVAX-MMAC"
+	},
+	{
+		"Id": "farm-0x361b625c074c736ef2d959e983b4478aa23a5d19",
+		"Symbol": "OH-WAVAX"
+	},
+	{
+		"Id": "farm-0xef61490aa6316d06d5375164f0db7d472cd0029f",
+		"Symbol": "GM-WAVAX"
+	},
+	{
+		"Id": "farm-0x00979bd14bd5eb5c456c5478d3bf4b6e9212ba7d",
+		"Symbol": "VSO-WAVAX"
+	},
+	{
+		"Id": "farm-0x57e0278f66de0cdf36515db31c646fd6cba15823",
+		"Symbol": "GENI-USDC"
 	},
 	{
 		"Id": "farm-0xa6908c7e3be8f4cd2eb704b5cb73583ebf56ee62",
@@ -828,44 +1024,72 @@
 		"Symbol": ""
 	},
 	{
-		"Id": "farm-0xb5c9e891af3063004a441ba4fab4ca3d6deb5626",
-		"Symbol": "YAK-WAVAX"
+		"Id": "farm-0xb78c8238bd907c42be45aebdb4a8c8a5d7b49755",
+		"Symbol": "WAVAX-PEFI"
 	},
 	{
-		"Id": "farm-0x605aac9f0024a019f328074909874e3ee510f377",
-		"Symbol": "DCAU-USDT.e"
+		"Id": "farm-0x5b159312efe6953a52a8ff3bb351c6afc26e667d",
+		"Symbol": "ORBIT-WAVAX"
+	},
+	{
+		"Id": "farm-0x1a741548c95beb4da2cffa45bea97d5331665358",
+		"Symbol": "RADX-WAVAX"
+	},
+	{
+		"Id": "farm-0x00a386afb1524b572de7ea0a3aaad25cdf7e749a",
+		"Symbol": "WAVAX-YEL"
+	},
+	{
+		"Id": "+0xed6aaf91a2b084bd594dbd1245be3691f9f637ac",
+		"Symbol": "jUSDC"
+	},
+	{
+		"Id": "-0xbfdbe35168953c9d29bdf9a0043f902f233c76e0",
+		"Symbol": "jJOE"
+	},
+	{
+		"Id": "farm-0xc7ce8c24241ed5d5bb5c0f4c5322087d2d0abf0d",
+		"Symbol": "CRYPTO-WAVAX"
+	},
+	{
+		"Id": "farm-0x0dcd30561c1abe397feff30e244151869a3fedc6",
+		"Symbol": "MIM-MILK"
+	},
+	{
+		"Id": "farm-0xe0c109583d69dca33dc59dc7ce45c10e3b8dfc57",
+		"Symbol": "BLOOD-WAVAX"
+	},
+	{
+		"Id": "farm-0x99a1e8c33661cc9a0e6a50e384f5cae9fe282e9e",
+		"Symbol": "FOOKZ-WAVAX"
+	},
+	{
+		"Id": "farm-0xd9908862d8953bf80e5d5b17adec0c21bd1e02b2",
+		"Symbol": "TRUSD-QBTC"
 	},
 	{
 		"Id": "",
 		"Symbol": ""
 	},
 	{
-		"Id": "farm-0x30556acc64b7b8f37ae4ce8325dd279847f09926",
-		"Symbol": "DBY-WAVAX"
-	},
-	{
-		"Id": "farm-0x330f77bda60d8dab14d2bb4f6248251443722009",
-		"Symbol": "STG-USDC"
-	},
-	{
-		"Id": "farm-0xdd214469b5d76f9e0e9003f0049d920170f85ba3",
-		"Symbol": "USDC.e-XLGS"
-	},
-	{
 		"Id": "",
 		"Symbol": ""
 	},
 	{
-		"Id": "farm-0x18f92cf77839fbc15d9f928f622bad76fd89ca24",
-		"Symbol": "LEO-WAVAX"
+		"Id": "farm-0x0b2777b0c55aeaaeb56e86b6eefa6cc2cfa00e07",
+		"Symbol": "WAVAX-CLY"
 	},
 	{
-		"Id": "farm-0x81d138e21d808ffe33abc0159023441608a63ffe",
-		"Symbol": "DAMO-WAVAX"
+		"Id": "farm-0x82922e6fbe83547c5e2e0229815942a2108e4624",
+		"Symbol": "OT-JLP-28DEC2023-PENDLE"
 	},
 	{
-		"Id": "farm-0x3433b681141b4506b71aead3120b264bd9c12863",
-		"Symbol": "FOOK-WAVAX"
+		"Id": "farm-0xf57971383560715cccf94e0c639125ae0e955e60",
+		"Symbol": "BUSD-WAVAX"
+	},
+	{
+		"Id": "farm-0xb9775b9efefaefa014f159ae43058c954116aa31",
+		"Symbol": "MAGIC-WAVAX"
 	},
 	{
 		"Id": "",
@@ -880,408 +1104,88 @@
 		"Symbol": "jUSDCNative"
 	},
 	{
-		"Id": "farm-0x3793995529ab2073ba6c37dba9b2cb5a75253f29",
-		"Symbol": "MOCK-SLV"
-	},
-	{
-		"Id": "farm-0x77d67449024e38d2f6c3251aa753668d66a98b13",
-		"Symbol": "RBX-WAVAX"
-	},
-	{
-		"Id": "farm-0xdb636857317c46b453d5ab400b278cf2dadc996e",
-		"Symbol": "WETH-USDC.e"
-	},
-	{
-		"Id": "farm-0xa1aeb013a997a7e0e3b7679d4ed49b1df09b694b",
-		"Symbol": "USDC-LODE"
-	},
-	{
-		"Id": "-0x585e7bc75089ed111b656faa7aeb1104f5b96c15",
-		"Symbol": "jLINK"
-	},
-	{
-		"Id": "farm-0x4d8bc902e9e6946f7e42aff2abdd24890d02ef0b",
-		"Symbol": "WAVAX-BETS"
-	},
-	{
-		"Id": "farm-0xbb4646a764358ee93c2a9c4a147d5aded527ab73",
-		"Symbol": "USDt-WAVAX"
-	},
-	{
-		"Id": "farm-0x86d1b1ab4812a104bc1ea1fbd07809de636e6c6b",
-		"Symbol": "CRAFT-WAVAX"
-	},
-	{
-		"Id": "farm-0x861f1b5c08d781608bb371a36ecacd49a22f2c16",
-		"Symbol": "SHIT-BUSD"
-	},
-	{
-		"Id": "farm-0x2a8a315e82f85d1f0658c5d66a452bbdd9356783",
-		"Symbol": "USDC.e-USDC"
-	},
-	{
-		"Id": "farm-0xdc63069d6f920c6300065ac28acd05b1f7b3b0c1",
-		"Symbol": "PLEB-WAVAX"
+		"Id": "-0x13a7a6c167d75badd316ddeef6c526c8463a090f",
+		"Symbol": "jBTC"
 	},
 	{
 		"Id": "",
 		"Symbol": ""
-	},
-	{
-		"Id": "",
-		"Symbol": ""
-	},
-	{
-		"Id": "+0x929f5cab61dfec79a5431a7734a68d714c4633fa",
-		"Symbol": "jWETH"
-	},
-	{
-		"Id": "farm-0x67926d973cd8ee876ad210faaf7dffa99e414acf",
-		"Symbol": "JOE-USDC.e"
-	},
-	{
-		"Id": "farm-0xcd5f03d2278d0c01d7c3b6331300e02ee0da5a6c",
-		"Symbol": "PINT-USDC"
-	},
-	{
-		"Id": "farm-0x6f3a0c89f611ef5dc9d96650324ac633d02265d3",
-		"Symbol": "LINK.e-WAVAX"
-	},
-	{
-		"Id": "farm-0xdb10eb31840b6b05c24b153156ce621968c3625b",
-		"Symbol": "MILK-CROP"
-	},
-	{
-		"Id": "farm-0xcc502d6bdab9d3cd0d26cf084c9b2e7d8fb4ebfa",
-		"Symbol": "AVAT-WAVAX"
-	},
-	{
-		"Id": "farm-0x9dd702f15a935a0f051b487f33005dcf33a64bb5",
-		"Symbol": "ICMC-BUSD"
-	},
-	{
-		"Id": "farm-0x2ee2f9579189fdbd2485b190f237a599b4a1d144",
-		"Symbol": "WAVAX-KOO"
-	},
-	{
-		"Id": "farm-0xb674f93952f02f2538214d4572aa47f262e990ff",
-		"Symbol": "gOHM-WAVAX"
 	},
 	{
 		"Id": "farm-0x19c6c7176218c96947636a1a48f138f3788fec5f",
 		"Symbol": "USDC.e-O3"
 	},
 	{
-		"Id": "",
-		"Symbol": ""
+		"Id": "farm-0x2301b46c5d3378a20840bd8cefde831bb13e4e13",
+		"Symbol": "BARN-WAVAX"
 	},
 	{
-		"Id": "farm-0x391e477fca3fa3f1f5039621322bb53d1e381b7d",
-		"Symbol": "RIBT-WAVAX"
-	},
-	{
-		"Id": "farm-0x19995ad68fea76c448c2a5e2134313cf72d16dcc",
-		"Symbol": "DOUB-USDC"
-	},
-	{
-		"Id": "",
-		"Symbol": ""
-	},
-	{
-		"Id": "farm-0x6139361ccd4f40abf3d5d22aa3b72a195010f9ab",
-		"Symbol": "PAE-WAVAX"
-	},
-	{
-		"Id": "farm-0xd81425a1e9a09015b965243f803ef30b6aa605c3",
-		"Symbol": "SNCT-WAVAX"
-	},
-	{
-		"Id": "farm-0x620ad7b83722f396247a29c3d6673a8bc46bd5a5",
-		"Symbol": "USDt-RUX"
-	},
-	{
-		"Id": "farm-0xc45893e0ee426a643e54829ee8c697995e5980ed",
-		"Symbol": "WAVAX-KACY"
-	},
-	{
-		"Id": "farm-0x75adad64d0cc5f7ec4b0b1dc078f7d8c5b24056f",
-		"Symbol": "STOMB-WAVAX"
-	},
-	{
-		"Id": "",
-		"Symbol": ""
-	},
-	{
-		"Id": "",
-		"Symbol": ""
-	},
-	{
-		"Id": "farm-0xed3de16407d14ca05096f86d3d75ced4762b0549",
-		"Symbol": "BEE-TEST"
-	},
-	{
-		"Id": "farm-0x3931589c6c078524d1fa88e4d86d2f1ac9fed56d",
-		"Symbol": "NEWO-WAVAX"
-	},
-	{
-		"Id": "farm-0x0dcd30561c1abe397feff30e244151869a3fedc6",
-		"Symbol": "MIM-MILK"
-	},
-	{
-		"Id": "farm-0xee7263357a68bb4ee02444102d135074bc010fc5",
-		"Symbol": "SUB-WAVAX"
-	},
-	{
-		"Id": "farm-0x017025f07b23bb30e1140db10d3fe7a1626cfdd0",
-		"Symbol": "FEED-WAVAX"
-	},
-	{
-		"Id": "farm-0x2c3601fe09c23df8beb8216298d1502c985e376f",
-		"Symbol": "USDC.e-BAVA"
-	},
-	{
-		"Id": "",
-		"Symbol": ""
-	},
-	{
-		"Id": "farm-0x61b1e59f1d3abada4a02ffdeb6f6a6a401a7ab00",
-		"Symbol": "Summit-WAVAX"
-	},
-	{
-		"Id": "farm-0x1371a6d8cbe2ca66d0911f270e1caa7c12a3045a",
-		"Symbol": "FLY-WAVAX"
-	},
-	{
-		"Id": "farm-0x4dac8f6393edcaca7b256dc315f3b8bb8499145d",
-		"Symbol": "WAVAX-OCapital"
-	},
-	{
-		"Id": "farm-0xde1971e07a686e41b68510023b51d6ccde563b71",
-		"Symbol": "LIQR-WAVAX"
-	},
-	{
-		"Id": "farm-0xdff4475e419b34d1619bb9547a14aae7eb37993a",
-		"Symbol": "WETH.e-yyAVAX"
-	},
-	{
-		"Id": "farm-0x8fb5bd3ac8efd05dacae82f512dd03e14aadab73",
-		"Symbol": "WAVAX-SNOB"
-	},
-	{
-		"Id": "",
-		"Symbol": ""
-	},
-	{
-		"Id": "+0x585e7bc75089ed111b656faa7aeb1104f5b96c15",
-		"Symbol": "jLINK"
-	},
-	{
-		"Id": "farm-0x59bd5b0ededb3f4f5b37cb16f07636152fdb418c",
-		"Symbol": "OTO-WAVAX"
-	},
-	{
-		"Id": "farm-0x0b7e759a94d18a0109b9317606aa7094a40f8733",
-		"Symbol": "agEUR-USDC"
-	},
-	{
-		"Id": "farm-0xcdfd91eea657cc2701117fe9711c9a4f61feed23",
-		"Symbol": "PTP-WAVAX"
-	},
-	{
-		"Id": "farm-0xde8ab3276317fc59e4fc7e9a2786f4894f958953",
-		"Symbol": "LiPOGE-WAVAX"
-	},
-	{
-		"Id": "farm-0x31396c05ac08ba3d46c1664108946d1ce7415561",
-		"Symbol": "WAVAX-MMAC"
-	},
-	{
-		"Id": "farm-0xf62679787fa6830e40bc55835381dbb258a320ac",
-		"Symbol": "MIND+-WAVAX"
-	},
-	{
-		"Id": "farm-0x6c37f8f37a751540d00c5fd670615a8069b3eea5",
-		"Symbol": "USDt-OWL"
-	},
-	{
-		"Id": "farm-0x72c3438cf1c915ecf5d9f17a6ed346b273d5bf71",
-		"Symbol": "WAVAX-XAVA"
-	},
-	{
-		"Id": "farm-0xe50cafe8b537c4732edf9bb5860495db04af9bee",
-		"Symbol": "USDC.e-SUV"
-	},
-	{
-		"Id": "farm-0x5b9faf0fea95df4d4cb894ef920704daff656f3e",
-		"Symbol": "WAVAX-DOMI"
-	},
-	{
-		"Id": "",
-		"Symbol": ""
-	},
-	{
-		"Id": "",
-		"Symbol": ""
-	},
-	{
-		"Id": "",
-		"Symbol": ""
-	},
-	{
-		"Id": "",
-		"Symbol": ""
-	},
-	{
-		"Id": "farm-0x1a95f00ac4826d9a8fa6eb9f9900c39513f6b1ca",
-		"Symbol": "WAVAX-OBX"
-	},
-	{
-		"Id": "farm-0x3bc40d4307cd946157447cd55d70ee7495ba6140",
-		"Symbol": "JOE-USDC"
-	},
-	{
-		"Id": "farm-0xbdfd85af4696c988f9ac488e6eeafea82a6ed4c7",
-		"Symbol": "DAXE-USDT.e"
-	},
-	{
-		"Id": "",
-		"Symbol": ""
-	},
-	{
-		"Id": "",
-		"Symbol": ""
-	},
-	{
-		"Id": "farm-0xbd640457a0a2de67fe18d9ad6756dd2d501f08b6",
-		"Symbol": "WAVAX-SWAP.e"
-	},
-	{
-		"Id": "farm-0xe06d4fb7778b1192cd6bcae6b15f067267911740",
-		"Symbol": "WAVAX-EVB"
-	},
-	{
-		"Id": "farm-0xf469b0ca50edf7c6b0fdb0d2c5409538eb0642b9",
-		"Symbol": "USDC.e-RUG"
-	},
-	{
-		"Id": "",
-		"Symbol": ""
-	},
-	{
-		"Id": "-0xc22f01ddc8010ee05574028528614634684ec29e",
-		"Symbol": "jAVAX"
-	},
-	{
-		"Id": "farm-0xbc61c7ecef56e40404fc359ef4dfd6e7528f2b09",
-		"Symbol": "KITTY-WAVAX"
-	},
-	{
-		"Id": "farm-0xf57971383560715cccf94e0c639125ae0e955e60",
-		"Symbol": "BUSD-WAVAX"
-	},
-	{
-		"Id": "farm-0xecd6d33555183bc82264dbc8bebd77a1f02e421e",
-		"Symbol": "WAVAX-UST"
-	},
-	{
-		"Id": "farm-0x99a1e8c33661cc9a0e6a50e384f5cae9fe282e9e",
-		"Symbol": "FOOKZ-WAVAX"
-	},
-	{
-		"Id": "farm-0x68fb75a9488e405630fb6a4d7cce7d194e295d31",
-		"Symbol": "BRZ-USDC"
-	},
-	{
-		"Id": "farm-0xfacb3892f9a8d55eb50fdeee00f2b3fa8a85ded5",
-		"Symbol": "USDC.e-MU"
-	},
-	{
-		"Id": "farm-0x9155f441ffdfa81b13e385bfac6b3825c05184ee",
-		"Symbol": "ISA-WAVAX"
-	},
-	{
-		"Id": "",
-		"Symbol": ""
-	},
-	{
-		"Id": "farm-0x1a741548c95beb4da2cffa45bea97d5331665358",
-		"Symbol": "RADX-WAVAX"
-	},
-	{
-		"Id": "farm-0x82922e6fbe83547c5e2e0229815942a2108e4624",
-		"Symbol": "OT-JLP-28DEC2023-PENDLE"
-	},
-	{
-		"Id": "",
-		"Symbol": ""
-	},
-	{
-		"Id": "",
-		"Symbol": ""
-	},
-	{
-		"Id": "farm-0xb1fa0a3b990ca348d7013df2ea9ea8469a90a8a8",
-		"Symbol": "Yuzu-USDC.e"
-	},
-	{
-		"Id": "farm-0x4801602fa2ca3f62376f80cb45e0543507689fe3",
-		"Symbol": "BRO-WAVAX"
-	},
-	{
-		"Id": "farm-0x7bf98bd74e19ad8eb5e14076140ee0103f8f872b",
-		"Symbol": "UST-WAVAX"
-	},
-	{
-		"Id": "",
-		"Symbol": ""
-	},
-	{
-		"Id": "farm-0x2bdd9d8bb7e03c24dc05d0b3cc4c717637cc86eb",
-		"Symbol": "MIM-JKL"
-	},
-	{
-		"Id": "farm-0x618607f26286ef4a9cc98a2a591bac0d478b6667",
-		"Symbol": "USDC-AVABBC"
-	},
-	{
-		"Id": "farm-0xb2ff0817ad078c92c3afb82326592e06c92581b8",
-		"Symbol": "KLO-WAVAX"
-	},
-	{
-		"Id": "farm-0x4514c70a27a2e6035859d477b86c4e21b6209bf6",
-		"Symbol": "MAGIC-USDC"
-	},
-	{
-		"Id": "farm-0x6e390bdcc056446433d44b78e64f7720c810fd06",
-		"Symbol": "STASH-WAVAX"
-	},
-	{
-		"Id": "",
-		"Symbol": ""
-	},
-	{
-		"Id": "",
-		"Symbol": ""
-	},
-	{
-		"Id": "farm-0x15ab2dae41ab3edfc470dee83e322c82a200fe08",
-		"Symbol": "SLIME-WAVAX"
+		"Id": "farm-0x50e0d123adcabbf7cf95fa031f6b7f9b2c5c8dfa",
+		"Symbol": "WAVAX-NEKO"
 	},
 	{
 		"Id": "farm-0x9ce225b5441072de864acf512311e6c7d24a3146",
 		"Symbol": "KGC-USDT.e"
 	},
 	{
-		"Id": "farm-0xc252356e3fffe840f25ddfe3bfcc2bb0f15520d7",
-		"Symbol": "MUSDC-SLV"
+		"Id": "farm-0x070f23f3abe4893a0e5ac7097a2ae10cfc1b41d0",
+		"Symbol": "AVAT-USDC"
 	},
 	{
-		"Id": "farm-0x829a9f8894ef17f1523ec87a9f8e5e0cf5dc2003",
-		"Symbol": "PLN-WAVAX"
+		"Id": "",
+		"Symbol": ""
 	},
 	{
-		"Id": "farm-0xe9e16236701be5329a9ace004082d534d50ed06d",
-		"Symbol": "WAVAX-LiPOGE"
+		"Id": "",
+		"Symbol": ""
+	},
+	{
+		"Id": "+0x3fe38b7b610c0acd10296fef69d9b18eb7a9eb1f",
+		"Symbol": "jWBTC"
+	},
+	{
+		"Id": "farm-0x34ea62d682c82e998945f1d663cb65f8b4db37e1",
+		"Symbol": "ZOO-WAVAX"
+	},
+	{
+		"Id": "farm-0x6e390bdcc056446433d44b78e64f7720c810fd06",
+		"Symbol": "STASH-WAVAX"
+	},
+	{
+		"Id": "farm-0xa9d879fff956975b7d1de601ee8d75c5c9b3aee4",
+		"Symbol": "WAVAX-$BURN"
+	},
+	{
+		"Id": "farm-0xe644b67e150d10a8899e0d08d9eb3807dee91e48",
+		"Symbol": "OWL-WAVAX"
+	},
+	{
+		"Id": "farm-0x601e0f63be88a52b79dbac667d6b4a167ce39113",
+		"Symbol": "TRACTOR-WAVAX"
+	},
+	{
+		"Id": "farm-0xb99a92b6d5a7ca3a2215a63d43d5e8ad43abc4e9",
+		"Symbol": "EVO-WAVAX"
+	},
+	{
+		"Id": "-0xce095a9657a02025081e0607c8d8b081c76a75ea",
+		"Symbol": "jMIM"
+	},
+	{
+		"Id": "farm-0x50141c21e4e861d4b2cbeb825b9a2b5e5e09a186",
+		"Symbol": "MIM-USDC.e"
+	},
+	{
+		"Id": "farm-0x3052a75dfd7a9d9b0f81e510e01d3fe80a9e7ec7",
+		"Symbol": "EGG-WAVAX"
+	},
+	{
+		"Id": "farm-0xc7b7a94a65fbd2a1354a338dacfd2697181215a3",
+		"Symbol": "TRUSD-USDa"
+	},
+	{
+		"Id": "farm-0x6b51d495d97d9715288ebf85b9334d8dd45f913d",
+		"Symbol": "CheemsX-WAVAX"
 	},
 	{
 		"Id": "",
@@ -1292,235 +1196,351 @@
 		"Symbol": "MIM-BLANC"
 	},
 	{
-		"Id": "farm-0x9f7de2cd7e3927b2737653aeffc94fab97bbe972",
-		"Symbol": "LINK-WAVAX"
+		"Id": "farm-0xeebcace14c6713d59723604194ac139a2c1aa46b",
+		"Symbol": "AVOGE-WAVAX"
 	},
 	{
-		"Id": "farm-0x6e4d3e097593fd1fc214144b61d2893a936a97b1",
-		"Symbol": "USDC-420"
+		"Id": "farm-0x3bc40d4307cd946157447cd55d70ee7495ba6140",
+		"Symbol": "JOE-USDC"
 	},
 	{
-		"Id": "farm-0xb8361d0e3f3b0fc5e6071f3a3c3271223c49e3d9",
-		"Symbol": "WAVAX-MORE"
+		"Id": "farm-0x1643de2efb8e35374d796297a9f95f64c082a8ce",
+		"Symbol": "JOE-USDT.e"
 	},
 	{
-		"Id": "farm-0xfc9ba2077e95c7aa078484e5b86f312d0e41f44b",
-		"Symbol": "KALM-USDC"
+		"Id": "farm-0x7bf98bd74e19ad8eb5e14076140ee0103f8f872b",
+		"Symbol": "UST-WAVAX"
 	},
 	{
-		"Id": "farm-0xcf80e302282c1e449fd745fad1e43faffe480536",
-		"Symbol": "JOE-zJoe"
+		"Id": "farm-0xbdfd85af4696c988f9ac488e6eeafea82a6ed4c7",
+		"Symbol": "DAXE-USDT.e"
 	},
 	{
-		"Id": "+0x13a7a6c167d75badd316ddeef6c526c8463a090f",
-		"Symbol": "jBTC"
-	},
-	{
-		"Id": "farm-0x27844ad1adebb4dc26f04a11acb8010f0d9c6afd",
-		"Symbol": "COTi-Bits"
-	},
-	{
-		"Id": "farm-0xf64e1c5b6e17031f5504481ac8145f4c3eab4917",
-		"Symbol": "WAVAX-TIME"
-	},
-	{
-		"Id": "farm-0xe7c9065eef88462c2e1d9e3208b7d300e6b81c39",
-		"Symbol": "Alpha-USDC"
-	},
-	{
-		"Id": "farm-0xbdc7ef37283bc67d50886c4afb64877e3e83f869",
-		"Symbol": "YETI-WAVAX"
-	},
-	{
-		"Id": "farm-0xf0e9b2629974c32e326db7465ea44dc3bb4003e0",
-		"Symbol": "PUGGY-WAVAX"
-	},
-	{
-		"Id": "farm-0x76a551fc28029639ab017742c224159a786f544f",
-		"Symbol": "STEAK-WAVAX"
-	},
-	{
-		"Id": "",
-		"Symbol": ""
-	},
-	{
-		"Id": "",
-		"Symbol": ""
-	},
-	{
-		"Id": "farm-0x8cd9f3ba472bab5cc19c3bfff06fd7cc1121911d",
-		"Symbol": "NOD-IMON"
-	},
-	{
-		"Id": "farm-0x0c91a070f862666bbcce281346be45766d874d98",
-		"Symbol": "GMX-WAVAX"
-	},
-	{
-		"Id": "farm-0x56ada0609a9e24d5231b5561c7ea4f0b8b3a5021",
-		"Symbol": "PIZZA-SODA"
-	},
-	{
-		"Id": "farm-0xc7ce8c24241ed5d5bb5c0f4c5322087d2d0abf0d",
-		"Symbol": "CRYPTO-WAVAX"
-	},
-	{
-		"Id": "farm-0xee25009c093a06896acf29cf93386ecc00b1714b",
-		"Symbol": "WET-WAVAX"
-	},
-	{
-		"Id": "farm-0xf4003f4efbe8691b60249e6afbd307abe7758adb",
-		"Symbol": "WAVAX-USDC"
-	},
-	{
-		"Id": "",
-		"Symbol": ""
-	},
-	{
-		"Id": "",
-		"Symbol": ""
-	},
-	{
-		"Id": "",
-		"Symbol": ""
-	},
-	{
-		"Id": "-0xbfdbe35168953c9d29bdf9a0043f902f233c76e0",
-		"Symbol": "jJOE"
-	},
-	{
-		"Id": "farm-0x3acd2ff1c3450bc8a9765afd8d0dea8e40822c86",
-		"Symbol": "WAVAX-PENDLE"
-	},
-	{
-		"Id": "farm-0x3b4cb5e7e6c3ec2af6a90a0f43e3b9b9b3865cba",
-		"Symbol": "XETA-USDt"
-	},
-	{
-		"Id": "",
-		"Symbol": ""
-	},
-	{
-		"Id": "-0x13a7a6c167d75badd316ddeef6c526c8463a090f",
-		"Symbol": "jBTC"
-	},
-	{
-		"Id": "farm-0x4b5cdfd53bddea760dbe7033efaab7a62bf789fd",
-		"Symbol": "HAT-WAVAX"
-	},
-	{
-		"Id": "farm-0xec58150de32b83274cf63010b5bb1fc6d49159df",
-		"Symbol": "snowSOL-SOL"
-	},
-	{
-		"Id": "farm-0x0b2777b0c55aeaaeb56e86b6eefa6cc2cfa00e07",
-		"Symbol": "WAVAX-CLY"
-	},
-	{
-		"Id": "farm-0xc71fa9d143ad905ee73b6edb4cd44df427df1fe7",
-		"Symbol": "WAVAX-FIRE"
-	},
-	{
-		"Id": "farm-0x5472e98d22b0fb7ec5c3e360788b8700419370b5",
-		"Symbol": "WAVAX-RISE"
-	},
-	{
-		"Id": "farm-0x4b5bc8c5ae85a90d77bec11a0b99e3b273f75619",
-		"Symbol": "3ULL-WAVAX"
-	},
-	{
-		"Id": "",
-		"Symbol": ""
-	},
-	{
-		"Id": "-0xce095a9657a02025081e0607c8d8b081c76a75ea",
-		"Symbol": "jMIM"
-	},
-	{
-		"Id": "farm-0x00cb5b42684da62909665d8151ff80d1567722c3",
-		"Symbol": "MIM-WINE"
-	},
-	{
-		"Id": "farm-0x03d15e0451e54eec95ac5acb5b0a7ce69638c62a",
-		"Symbol": "USDC.e-WSHARE"
-	},
-	{
-		"Id": "farm-0x070f23f3abe4893a0e5ac7097a2ae10cfc1b41d0",
-		"Symbol": "AVAT-USDC"
+		"Id": "farm-0xbb4646a764358ee93c2a9c4a147d5aded527ab73",
+		"Symbol": "USDt-WAVAX"
 	},
 	{
 		"Id": "farm-0xd86ff5345a7043483439bcd06b36d79a5b01f7ce",
 		"Symbol": "KALM-WAVAX"
 	},
 	{
-		"Id": "farm-0x967b05d883ae5837e734836731a46976ad1f324e",
-		"Symbol": "USDC.e-UNCLE"
+		"Id": "farm-0x8ea6dd9482a49791e8c3d0f7c515bbd3be702f74",
+		"Symbol": "MIM-WETH.e"
 	},
 	{
-		"Id": "farm-0x0315522354037e48c75756ad68358ce185dad911",
-		"Symbol": "ORBS-WAVAX"
+		"Id": "farm-0xa1aeb013a997a7e0e3b7679d4ed49b1df09b694b",
+		"Symbol": "USDC-LODE"
 	},
 	{
-		"Id": "farm-0x588dc0dd7c8be073e9da79307e023f1f756f06c6",
-		"Symbol": "MIM-OT-wMEMO-24FEB2022"
+		"Id": "farm-0x5840cd18a6022f5fc5056dccd96fc4c7c041a3f7",
+		"Symbol": "MUMO-USDC"
 	},
 	{
-		"Id": "farm-0x9a053bc937fd1660fcfda4e6604021e6c2be36a5",
-		"Symbol": "SHIBX-WAVAX"
+		"Id": "farm-0x62cf16bf2bc053e7102e2ac1dee5029b94008d99",
+		"Symbol": "WAVAX-SPELL"
 	},
 	{
-		"Id": "-0xc988c170d0e38197dc634a45bf00169c7aa7ca19",
-		"Symbol": "jDAI"
+		"Id": "farm-0x0b729682785ea6ebe3fc6a80fbf65c64097b71bf",
+		"Symbol": "SPEAR-USDC"
 	},
 	{
-		"Id": "farm-0x187446a92d66e9f3269ba1ef0e6ce9de0e8b7eba",
-		"Symbol": "WAVAX-URQA"
-	},
-	{
-		"Id": "farm-0x3b8b84ce43a5de6a2c562894be030bab61aeb4b3",
-		"Symbol": "IDM-WAVAX"
-	},
-	{
-		"Id": "farm-0x2e02539203256c83c7a9f6fa6f8608a32a2b1ca2",
-		"Symbol": "USDC.e-USDT.e"
-	},
-	{
-		"Id": "farm-0xb382247667fe8ca5327ca1fa4835ae77a9907bc8",
-		"Symbol": "MIM-GRAPE"
-	},
-	{
-		"Id": "farm-0x255bccb8deceb2d94edff476638b56b1fe5b26ca",
-		"Symbol": "AVANET-sAVANET"
-	},
-	{
-		"Id": "farm-0xe90e8b880cbe62d3f2958c9280dbc139465bd9a1",
-		"Symbol": "JEWEL-WAVAX"
+		"Id": "farm-0x2ee2f9579189fdbd2485b190f237a599b4a1d144",
+		"Symbol": "WAVAX-KOO"
 	},
 	{
 		"Id": "",
 		"Symbol": ""
 	},
 	{
-		"Id": "+0x29472d511808ce925f501d25f9ee9effd2328db2",
-		"Symbol": "jUSDCNative"
+		"Id": "",
+		"Symbol": ""
 	},
 	{
-		"Id": "farm-0x81034a38a124a3290dc226798f34c6645b153a02",
-		"Symbol": "DCAU-WAVAX"
+		"Id": "farm-0x87dee1cc9ffd464b79e058ba20387c1984aed86a",
+		"Symbol": "WAVAX-DAI.e"
 	},
 	{
-		"Id": "farm-0xa4e1d420a4fffa38108514c7f4e021dd14696ece",
-		"Symbol": "Victorinox-WAVAX"
+		"Id": "farm-0x18f92cf77839fbc15d9f928f622bad76fd89ca24",
+		"Symbol": "LEO-WAVAX"
 	},
 	{
-		"Id": "farm-0x2774516897ac629ad3ed9dcac7e375dda78412b9",
-		"Symbol": "QI-WAVAX"
+		"Id": "farm-0xc5f64a94414180f79fa92e334cf1e4516185f4c7",
+		"Symbol": "SIFU-WAVAX"
 	},
 	{
-		"Id": "farm-0x7b7617c7b2236d7871741783cae8bcc222c2e05d",
-		"Symbol": "SMRTr-WAVAX"
+		"Id": "farm-0xac3f978714c613e768272c502a8912bc03dcf624",
+		"Symbol": "BLZZ-WAVAX"
 	},
 	{
-		"Id": "farm-0xc3e6d9f7a3a5e3e223356383c7c055ee3f26a34f",
-		"Symbol": "AAVE.e-WAVAX"
+		"Id": "-0xc146783a59807154f92084f9243eb139d58da696",
+		"Symbol": "jXJOE"
+	},
+	{
+		"Id": "farm-0x4b946c91c2b1a7d7c40fb3c130cdfbaf8389094d",
+		"Symbol": "sAVAX-WAVAX"
+	},
+	{
+		"Id": "",
+		"Symbol": ""
+	},
+	{
+		"Id": "-0xc22f01ddc8010ee05574028528614634684ec29e",
+		"Symbol": "jAVAX"
+	},
+	{
+		"Id": "farm-0x9a3545d8a822288936809b00e57f166f9aa824c2",
+		"Symbol": "WAVAX-CCY"
+	},
+	{
+		"Id": "farm-0x9dd702f15a935a0f051b487f33005dcf33a64bb5",
+		"Symbol": "ICMC-BUSD"
+	},
+	{
+		"Id": "farm-0x781655d802670bba3c89aebaaea59d3182fd755d",
+		"Symbol": "MIM-WAVAX"
+	},
+	{
+		"Id": "farm-0xd81425a1e9a09015b965243f803ef30b6aa605c3",
+		"Symbol": "SNCT-WAVAX"
+	},
+	{
+		"Id": "farm-0x81d138e21d808ffe33abc0159023441608a63ffe",
+		"Symbol": "DAMO-WAVAX"
+	},
+	{
+		"Id": "farm-0xf2fc5bf5259f74451edab7816b6f18b68b229142",
+		"Symbol": "CRAB-MIM"
+	},
+	{
+		"Id": "farm-0xb2ff0817ad078c92c3afb82326592e06c92581b8",
+		"Symbol": "KLO-WAVAX"
+	},
+	{
+		"Id": "farm-0xdb87ba23c60e5fe6514f352a30b1170494045221",
+		"Symbol": "WAVAX-HON"
+	},
+	{
+		"Id": "farm-0x281c0036bdbb54c76bf3c3436f68988dbc8e1d84",
+		"Symbol": "USDC-MEAT"
+	},
+	{
+		"Id": "farm-0x4b5cdfd53bddea760dbe7033efaab7a62bf789fd",
+		"Symbol": "HAT-WAVAX"
+	},
+	{
+		"Id": "farm-0x6d4bdefe5b4644aff3617ed7ce2b7599e56fa135",
+		"Symbol": "rloop-WAVAX"
+	},
+	{
+		"Id": "",
+		"Symbol": ""
+	},
+	{
+		"Id": "-0xc988c170d0e38197dc634a45bf00169c7aa7ca19",
+		"Symbol": "jDAI"
+	},
+	{
+		"Id": "farm-0xc0294fafdee273f4d8d01db52cc0c65102bc081f",
+		"Symbol": "USDC.e-WMATIC"
+	},
+	{
+		"Id": "farm-0x754a67d24fa2cc9caa9596566dd72f44c32a7afc",
+		"Symbol": "ANKR-WAVAX"
+	},
+	{
+		"Id": "farm-0xe89cc8c81988b4df910720652db5b0c9e9545462",
+		"Symbol": "WAVAX-BABINU"
+	},
+	{
+		"Id": "farm-0xbb91401d34e8c67b5a75fe9795c3158def33afe9",
+		"Symbol": "ETHP2-WAVAX"
+	},
+	{
+		"Id": "farm-0x59bd5b0ededb3f4f5b37cb16f07636152fdb418c",
+		"Symbol": "OTO-WAVAX"
+	},
+	{
+		"Id": "farm-0x361221991b3b6282ff3a62bc874d018bfaf1f8c8",
+		"Symbol": "WAVAX-BIFI"
+	},
+	{
+		"Id": "+0xc988c170d0e38197dc634a45bf00169c7aa7ca19",
+		"Symbol": "jDAI"
+	},
+	{
+		"Id": "farm-0x11bbfa2fa3b995cea99d20dfa618fd32e252d8f2",
+		"Symbol": "APE-WAVAX"
+	},
+	{
+		"Id": "farm-0x3b8b84ce43a5de6a2c562894be030bab61aeb4b3",
+		"Symbol": "IDM-WAVAX"
+	},
+	{
+		"Id": "farm-0x565d20bd591b00ead0c927e4b6d7dd8a33b0b319",
+		"Symbol": "WAVAX-TUS"
+	},
+	{
+		"Id": "farm-0x02f9ace0a161343a4ccc81110cd17cc937af99cc",
+		"Symbol": "BAY-USDC"
+	},
+	{
+		"Id": "farm-0xfacb3892f9a8d55eb50fdeee00f2b3fa8a85ded5",
+		"Symbol": "USDC.e-MU"
+	},
+	{
+		"Id": "farm-0x8fb5bd3ac8efd05dacae82f512dd03e14aadab73",
+		"Symbol": "WAVAX-SNOB"
+	},
+	{
+		"Id": "farm-0x9c396cf96319c8ef2b662af57dea6ee374b9959f",
+		"Symbol": "LOST-WAVAX"
+	},
+	{
+		"Id": "farm-0x017025f07b23bb30e1140db10d3fe7a1626cfdd0",
+		"Symbol": "FEED-WAVAX"
+	},
+	{
+		"Id": "farm-0x8d304a6acb5c9dc786c697b9c9f09603278f8805",
+		"Symbol": "ZEUS-WAVAX"
+	},
+	{
+		"Id": "farm-0x19684b5457ee4bd8671c62cfd3e3f18f089dff66",
+		"Symbol": "KINE-USDT.e"
+	},
+	{
+		"Id": "farm-0x454e67025631c065d3cfad6d71e6892f74487a15",
+		"Symbol": "JOE-WAVAX"
+	},
+	{
+		"Id": "farm-0x4cd20f3e2894ed1a0f4668d953a98e689c647bfe",
+		"Symbol": "VPND-WAVAX"
+	},
+	{
+		"Id": "-0x8b650e26404ac6837539ca96812f0123601e4448",
+		"Symbol": "jUSDT"
+	},
+	{
+		"Id": "farm-0x9a053bc937fd1660fcfda4e6604021e6c2be36a5",
+		"Symbol": "SHIBX-WAVAX"
+	},
+	{
+		"Id": "farm-0x199fb78019a08af2cb6a078409d0c8233eba8a0c",
+		"Symbol": "WETH.e-USDC.e"
+	},
+	{
+		"Id": "",
+		"Symbol": ""
+	},
+	{
+		"Id": "",
+		"Symbol": ""
+	},
+	{
+		"Id": "farm-0x5928f05feab68e9981ce51018b815289fdcccda4",
+		"Symbol": "WAVAX-AKITA"
+	},
+	{
+		"Id": "",
+		"Symbol": ""
+	},
+	{
+		"Id": "farm-0xc71fa9d143ad905ee73b6edb4cd44df427df1fe7",
+		"Symbol": "WAVAX-FIRE"
+	},
+	{
+		"Id": "farm-0x52fc7c01b7b7c68c3d73203d61b61e553a669b94",
+		"Symbol": "BioFi-WAVAX"
+	},
+	{
+		"Id": "farm-0x3fcd1d5450e63fa6af495a601e6ea1230f01c4e3",
+		"Symbol": "COOK-WAVAX"
+	},
+	{
+		"Id": "farm-0x77d67449024e38d2f6c3251aa753668d66a98b13",
+		"Symbol": "RBX-WAVAX"
+	},
+	{
+		"Id": "farm-0xc45893e0ee426a643e54829ee8c697995e5980ed",
+		"Symbol": "WAVAX-KACY"
+	},
+	{
+		"Id": "",
+		"Symbol": ""
+	},
+	{
+		"Id": "",
+		"Symbol": ""
+	},
+	{
+		"Id": "",
+		"Symbol": ""
+	},
+	{
+		"Id": "",
+		"Symbol": ""
+	},
+	{
+		"Id": "+0xc22f01ddc8010ee05574028528614634684ec29e",
+		"Symbol": "jAVAX"
+	},
+	{
+		"Id": "farm-0x2bdd9d8bb7e03c24dc05d0b3cc4c717637cc86eb",
+		"Symbol": "MIM-JKL"
+	},
+	{
+		"Id": "farm-0x5b9faf0fea95df4d4cb894ef920704daff656f3e",
+		"Symbol": "WAVAX-DOMI"
+	},
+	{
+		"Id": "farm-0x861f1b5c08d781608bb371a36ecacd49a22f2c16",
+		"Symbol": "SHIT-BUSD"
+	},
+	{
+		"Id": "farm-0xb8361d0e3f3b0fc5e6071f3a3c3271223c49e3d9",
+		"Symbol": "WAVAX-MORE"
+	},
+	{
+		"Id": "farm-0x4a24f745026bb3bd8e7e8a9d863256b5edf145e1",
+		"Symbol": "WAVAX-CINU"
+	},
+	{
+		"Id": "",
+		"Symbol": ""
+	},
+	{
+		"Id": "",
+		"Symbol": ""
+	},
+	{
+		"Id": "",
+		"Symbol": ""
+	},
+	{
+		"Id": "farm-0xf62679787fa6830e40bc55835381dbb258a320ac",
+		"Symbol": "MIND+-WAVAX"
+	},
+	{
+		"Id": "farm-0x3931589c6c078524d1fa88e4d86d2f1ac9fed56d",
+		"Symbol": "NEWO-WAVAX"
+	},
+	{
+		"Id": "farm-0xe61dc1c6bb54262a7a24bd506cd50e8986af66c6",
+		"Symbol": "JOE-yyJOE"
+	},
+	{
+		"Id": "farm-0xecd6d33555183bc82264dbc8bebd77a1f02e421e",
+		"Symbol": "WAVAX-UST"
+	},
+	{
+		"Id": "farm-0x77c95d2ba942a6a2c32f7082975c1a62493cf9fd",
+		"Symbol": "BBB-AAA"
+	},
+	{
+		"Id": "farm-0x0512ab7ccf96af5512dbc2d4c93048f3f6a16608",
+		"Symbol": "USDC-yyAVAX"
+	},
+	{
+		"Id": "farm-0xfddbe5d71c9085cffa1a15e828d7b038c4b93d89",
+		"Symbol": "LET-USDC.e"
 	}
 ]

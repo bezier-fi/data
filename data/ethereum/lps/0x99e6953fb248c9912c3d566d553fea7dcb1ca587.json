@@ -1,0 +1,10 @@
+{
+	"Id": "0x99e6953fb248c9912c3d566d553fea7dcb1ca587",
+	"Symbol": "WETH-KRAKEN",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf893f20cf0f3cf47cb8ba2f45995b92d46a19e2f"
+	],
+	"Protocol": "4fd4afb1-1c79-419c-b7aa-2b4fa524693c",
+	"Chain": "ethereum"
+}

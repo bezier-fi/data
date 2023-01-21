@@ -1,0 +1,10 @@
+{
+	"Id": "0xe6ff8b9a37b0fab776134636d9981aa778c4e718",
+	"Symbol": "WBTC-WETH (0.01%)",
+	"UnderlyingTokens": [
+		"0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f5179d46-57b7-4b88-863a-aae787de075f",
+	"Chain": "ethereum"
+}

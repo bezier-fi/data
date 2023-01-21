@@ -1,0 +1,10 @@
+{
+	"Id": "0xa7490a8797792ec0edb64ffa7257e6caef1bf0b3",
+	"Symbol": "FK-WETH",
+	"UnderlyingTokens": [
+		"0x66e6a5dfbd5d505ad8b38a7df6da2286ca52b8f9",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "4fd4afb1-1c79-419c-b7aa-2b4fa524693c",
+	"Chain": "ethereum"
+}

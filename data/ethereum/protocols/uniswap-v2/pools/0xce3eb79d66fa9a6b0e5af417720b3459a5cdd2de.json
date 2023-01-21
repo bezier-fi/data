@@ -1,0 +1,27 @@
+{
+	"Id": "0xce3eb79d66fa9a6b0e5af417720b3459a5cdd2de",
+	"Protocol": "4fd4afb1-1c79-419c-b7aa-2b4fa524693c",
+	"Outputs": [
+		{
+			"Address": "0xce3eb79d66fa9a6b0e5af417720b3459a5cdd2de",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2ec7f1ebad46310e87be96b459e6563f143e235e",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TVN-WETH",
+	"Chain": "ethereum"
+}

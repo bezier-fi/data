@@ -1,0 +1,27 @@
+{
+	"Id": "0xf4842dded96eb770bae8470ac84c24d807f88eab",
+	"Protocol": "2d1d0178-afc5-4325-b21f-721615f4d57f",
+	"Outputs": [
+		{
+			"Address": "0xf4842dded96eb770bae8470ac84c24d807f88eab",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x26c8afbbfe1ebaca03c2bb082e69d0476bffe099",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x4abb9cc67bd3da9eb966d1159a71a0e68bd15432",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CELL-KEL",
+	"Chain": "ethereum"
+}

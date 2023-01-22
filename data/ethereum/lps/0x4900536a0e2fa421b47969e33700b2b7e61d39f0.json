@@ -1,0 +1,10 @@
+{
+	"Id": "0x4900536a0e2fa421b47969e33700b2b7e61d39f0",
+	"Symbol": "WETH-DePoker",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xcb88f85ddb77419caef2c54185fcfdf5a256ad87"
+	],
+	"Protocol": "2d1d0178-afc5-4325-b21f-721615f4d57f",
+	"Chain": "ethereum"
+}

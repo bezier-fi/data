@@ -1,0 +1,10 @@
+{
+	"Id": "0x90729a579833e2ebaf3e3a4678b9ee1491f0656b",
+	"Symbol": "WETH-SHIITAKE",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe053795bfac82a7cb300c5c780e18bf908ca1c12"
+	],
+	"Protocol": "2d1d0178-afc5-4325-b21f-721615f4d57f",
+	"Chain": "ethereum"
+}

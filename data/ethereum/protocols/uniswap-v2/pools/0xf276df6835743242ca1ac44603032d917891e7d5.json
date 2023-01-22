@@ -1,0 +1,27 @@
+{
+	"Id": "0xf276df6835743242ca1ac44603032d917891e7d5",
+	"Protocol": "2d1d0178-afc5-4325-b21f-721615f4d57f",
+	"Outputs": [
+		{
+			"Address": "0xf276df6835743242ca1ac44603032d917891e7d5",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x275f5ad03be0fa221b4c6649b8aee09a42d9412a",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xd8e3fb3b08eba982f2754988d70d57edc0055ae6",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MONA-ZORA",
+	"Chain": "ethereum"
+}

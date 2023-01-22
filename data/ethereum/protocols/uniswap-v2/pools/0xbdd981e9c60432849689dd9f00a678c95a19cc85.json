@@ -1,0 +1,27 @@
+{
+	"Id": "0xbdd981e9c60432849689dd9f00a678c95a19cc85",
+	"Protocol": "2d1d0178-afc5-4325-b21f-721615f4d57f",
+	"Outputs": [
+		{
+			"Address": "0xbdd981e9c60432849689dd9f00a678c95a19cc85",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x974e5258544fedb2519a1e23935e675a519f6947",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "REXU-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xbdd981e9c60432849689dd9f00a678c95a19cc85",
+	"Symbol": "REXU-WETH",
+	"UnderlyingTokens": [
+		"0x974e5258544fedb2519a1e23935e675a519f6947",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2d1d0178-afc5-4325-b21f-721615f4d57f",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x802f5be8643094f8ea3d89b22d7112705d58c47e",
+	"Protocol": "2d1d0178-afc5-4325-b21f-721615f4d57f",
+	"Outputs": [
+		{
+			"Address": "0x802f5be8643094f8ea3d89b22d7112705d58c47e",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1d9f65ad5571b75a649ffd5107ea67d5f9428e2c",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SHIMA-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xf171981c6d4ec193f97e4d809de3eae9c284dc69",
+	"Symbol": "WHALES-WETH",
+	"UnderlyingTokens": [
+		"0x14cc51cfae7147b7f6077e9431e34e7a9ce7d269",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2d1d0178-afc5-4325-b21f-721615f4d57f",
+	"Chain": "ethereum"
+}

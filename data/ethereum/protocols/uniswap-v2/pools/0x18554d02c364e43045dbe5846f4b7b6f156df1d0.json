@@ -1,0 +1,27 @@
+{
+	"Id": "0x18554d02c364e43045dbe5846f4b7b6f156df1d0",
+	"Protocol": "2d1d0178-afc5-4325-b21f-721615f4d57f",
+	"Outputs": [
+		{
+			"Address": "0x18554d02c364e43045dbe5846f4b7b6f156df1d0",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa1a365d85262ed4c77302e6579076e7947a8fdf9",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SAMURAI-WETH",
+	"Chain": "ethereum"
+}

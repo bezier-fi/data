@@ -1,0 +1,27 @@
+{
+	"Id": "0x74e69468f1e6c76a8dac0cd7b4eaa284f52a10e0",
+	"Protocol": "da9d5642-5af5-40c9-9421-c3481d953883",
+	"Outputs": [
+		{
+			"Address": "0x74e69468f1e6c76a8dac0cd7b4eaa284f52a10e0",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x959807a7a8ae2d88210fef8ac494b6fc477228b1",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "$SHIV  -WETH",
+	"Chain": "ethereum"
+}

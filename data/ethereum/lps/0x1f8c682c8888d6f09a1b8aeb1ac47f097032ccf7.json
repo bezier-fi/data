@@ -1,0 +1,10 @@
+{
+	"Id": "0x1f8c682c8888d6f09a1b8aeb1ac47f097032ccf7",
+	"Symbol": "SHENMUE-WETH",
+	"UnderlyingTokens": [
+		"0x7ffa01e2a3627543be0c8f95f174d6fb0f06e0d5",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "da9d5642-5af5-40c9-9421-c3481d953883",
+	"Chain": "ethereum"
+}

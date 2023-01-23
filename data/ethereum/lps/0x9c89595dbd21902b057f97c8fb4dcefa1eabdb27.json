@@ -1,0 +1,10 @@
+{
+	"Id": "0x9c89595dbd21902b057f97c8fb4dcefa1eabdb27",
+	"Symbol": "HDWY-WETH",
+	"UnderlyingTokens": [
+		"0xab22e79f2dfc2e572223780fa425c827b0892170",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "da9d5642-5af5-40c9-9421-c3481d953883",
+	"Chain": "ethereum"
+}

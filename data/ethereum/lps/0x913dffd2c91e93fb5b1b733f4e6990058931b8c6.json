@@ -1,0 +1,10 @@
+{
+	"Id": "0x913dffd2c91e93fb5b1b733f4e6990058931b8c6",
+	"Symbol": "WETH-KIN",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfd5eb754c45c5e46a92bdd86b559051dd461577e"
+	],
+	"Protocol": "da9d5642-5af5-40c9-9421-c3481d953883",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xc77926abef1d80a73acc3093f59256820e94d75c",
+	"Symbol": "PORSCHE-WETH",
+	"UnderlyingTokens": [
+		"0x273a0faea2b3d10a786ea0cf0567a9bca384ac4c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "da9d5642-5af5-40c9-9421-c3481d953883",
+	"Chain": "ethereum"
+}

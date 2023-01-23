@@ -1,0 +1,10 @@
+{
+	"Id": "0x74e69468f1e6c76a8dac0cd7b4eaa284f52a10e0",
+	"Symbol": "$SHIV  -WETH",
+	"UnderlyingTokens": [
+		"0x959807a7a8ae2d88210fef8ac494b6fc477228b1",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "da9d5642-5af5-40c9-9421-c3481d953883",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x4be75771ce55ee22a71e13beb9a10c9232e60979",
+	"Protocol": "da9d5642-5af5-40c9-9421-c3481d953883",
+	"Outputs": [
+		{
+			"Address": "0x4be75771ce55ee22a71e13beb9a10c9232e60979",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb18e56061be17aec70a2e1ca95aa19b6f9e3a5c2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ASTRIOS-WETH",
+	"Chain": "ethereum"
+}

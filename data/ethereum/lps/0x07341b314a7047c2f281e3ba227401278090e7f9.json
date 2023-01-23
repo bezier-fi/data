@@ -1,0 +1,10 @@
+{
+	"Id": "0x07341b314a7047c2f281e3ba227401278090e7f9",
+	"Symbol": "JUICER-WETH",
+	"UnderlyingTokens": [
+		"0x3b811a046c8fff996e8fd73e80ad67bb4232c2e5",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "da9d5642-5af5-40c9-9421-c3481d953883",
+	"Chain": "ethereum"
+}

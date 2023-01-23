@@ -1,0 +1,27 @@
+{
+	"Id": "0x77b5eb4a318ab5fe739b4550caef702d42a46a33",
+	"Protocol": "da9d5642-5af5-40c9-9421-c3481d953883",
+	"Outputs": [
+		{
+			"Address": "0x77b5eb4a318ab5fe739b4550caef702d42a46a33",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xf12162fefe50d600a6604977d6cbbb0f83b0c328",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-IGLOO",
+	"Chain": "ethereum"
+}

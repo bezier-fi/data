@@ -1,123 +1,47 @@
 [
 	{
-		"Id": "0xE0d5f9DA3613C047003b77cAa31270aBE3EdA6b0",
-		"Symbol": "wstETH-ETH"
-	},
-	{
-		"Id": "0x245186CaA063b13d0025891c0d513aCf552fB38E",
-		"Symbol": "CRV-ETH"
-	},
-	{
-		"Id": "0xb546807794dEdfd196a5d230856190d78cF31d04",
-		"Symbol": "INV-DOLA"
-	},
-	{
-		"Id": "0xe50e2fe90745A8510491F89113959a1EF01AD400",
-		"Symbol": "TriCrypto"
-	},
-	{
-		"Id": "0xeAa61217fbbaB972fEBFAEa8D62105139D0240E8",
-		"Symbol": "wstETH/rETH/sfrxETH"
-	},
-	{
-		"Id": "0x44B6A414e73fb7387Ca250F44D7e43cD7d6992c2",
-		"Symbol": "auraBAL"
-	},
-	{
-		"Id": "0x7f3F33B42b9734e61cb44424D130B5f6e09C9Db3",
-		"Symbol": "USDD/DAI/USDC/USDT"
-	},
-	{
-		"Id": "0x4742c355711a2790b17CC0Fe48035a1AF9C22432",
-		"Symbol": "LDO-ETH LP"
-	},
-	{
-		"Id": "0x3DFF90fc69018c7B25Ae51Dee5dD4Ff8D21F02d6",
-		"Symbol": "cbETH-wstETH"
-	},
-	{
-		"Id": "0x3fe43D4ba0a5BAcC800c7E7E782466a27ab108bf",
-		"Symbol": "DOLA/FRAX/USDC"
-	},
-	{
-		"Id": "0x572181c7B073966F9FA037Cf1F79a647f5AA9Eb7",
-		"Symbol": "cvxFXS/FXS"
-	},
-	{
-		"Id": "0x6853691Ca8Da03Da16194E468068bE5A80F103b0",
-		"Symbol": "sBTC/WBTC"
-	},
-	{
-		"Id": "0x931997EC71C35A41Ba41bFE3f9c8921e285aea55",
-		"Symbol": "DOLA-bbaUSD"
-	},
-	{
-		"Id": "0x15780E0e9618c26dA679740C43bEc76830Ff187b",
-		"Symbol": "multiBTC/sBTC/WBTC"
-	},
-	{
-		"Id": "0x4a37227BFE2aD5c5126E176e16363d5c79BC1EF5",
-		"Symbol": "frxETH/ETH"
-	},
-	{
-		"Id": "0xd5bAd7c89028B3F7094e40DcCe83D4e6b3Fd9AA4",
-		"Symbol": "MIM/DAI/USDC/USDT"
-	},
-	{
-		"Id": "0x73380F4B3E6F4a8988688d1475D33CB1D46F6de0",
-		"Symbol": "USDD/FRAX/USDC"
-	},
-	{
-		"Id": "0xC2fea9942506CEF6d18b655Cb2de36d479Dc43bD",
-		"Symbol": "AURA-WETH"
-	},
-	{
-		"Id": "0x8c9754455c6a7F6A3aEfA9a3AdEc0955E83D3606",
-		"Symbol": "ACX-wstETH"
+		"Id": "0xb9548238d875fB4e12727B2750D8a0bDbc7171c7",
+		"Symbol": "CVX-ETH"
 	},
 	{
 		"Id": "0xa7739fd3d12ac7F16D8329AF3Ee407e19De10D8D",
 		"Symbol": "stETH/ETH"
 	},
 	{
-		"Id": "0x66F5263d51174bab17Ac2bda31E51F5bcF05a69A",
-		"Symbol": "USDC LP"
+		"Id": "0xe6cFc9d27f8bfC8ddcB86d75381cD21570A21B20",
+		"Symbol": "rETH-bbaUSD"
 	},
 	{
-		"Id": "0x6E4b6E879B9280C20f4004C029D3abf13E6cb323",
-		"Symbol": "wstETH-bbaUSD"
+		"Id": "0xd5bAd7c89028B3F7094e40DcCe83D4e6b3Fd9AA4",
+		"Symbol": "MIM/DAI/USDC/USDT"
 	},
 	{
-		"Id": "0x7666FA065e0c44051411A5Ca3e85ad2C210C9e98",
-		"Symbol": "MAI-USDC"
+		"Id": "0x3DFF90fc69018c7B25Ae51Dee5dD4Ff8D21F02d6",
+		"Symbol": "cbETH-wstETH"
 	},
 	{
-		"Id": "0x4dd0cF20237deb5F2bE76340838B9e2D7c70E852",
-		"Symbol": "ETH LP"
+		"Id": "0x15780E0e9618c26dA679740C43bEc76830Ff187b",
+		"Symbol": "multiBTC/sBTC/WBTC"
 	},
 	{
-		"Id": "0x4fc424a840B5fB1BAf195963eC3737904440df1D",
-		"Symbol": "FRAX/USDC"
-	},
-	{
-		"Id": "0xffA54b4bFe0225C9b6A830aE1433516736e9a97a",
-		"Symbol": "sETH/ETH"
-	},
-	{
-		"Id": "0xb9548238d875fB4e12727B2750D8a0bDbc7171c7",
-		"Symbol": "CVX-ETH"
-	},
-	{
-		"Id": "0x61F96CA5c79c9753C93244c73f1d4b4a90c1aC8c",
-		"Symbol": "ETH-USDC LP"
+		"Id": "0x3fe43D4ba0a5BAcC800c7E7E782466a27ab108bf",
+		"Symbol": "DOLA/FRAX/USDC"
 	},
 	{
 		"Id": "0x86b2D22C92ef56A9434A1b3758cC39a8D7FA8C1F",
 		"Symbol": "auraBAL-BAL/WETH(80-20)"
 	},
 	{
-		"Id": "0x61cf8d861ff3c939147c2aa1F694f9592Bf51983",
-		"Symbol": "USDT LP"
+		"Id": "0x64b3bc10e834905364178D6e23B296A5395EE111",
+		"Symbol": "Balancer Boosted USD (bb-a-USD)"
+	},
+	{
+		"Id": "0xeAa61217fbbaB972fEBFAEa8D62105139D0240E8",
+		"Symbol": "wstETH/rETH/sfrxETH"
+	},
+	{
+		"Id": "0x66F5263d51174bab17Ac2bda31E51F5bcF05a69A",
+		"Symbol": "USDC LP"
 	},
 	{
 		"Id": "0x378416346914a8B530d26b621BdA7AE291ce264A",
@@ -128,31 +52,107 @@
 		"Symbol": "rETH-ETH"
 	},
 	{
-		"Id": "0xE010B164E54735Bb6401c426E9b4Dc16949c00B8",
-		"Symbol": "SUSHI-ETH LP"
+		"Id": "0x6853691Ca8Da03Da16194E468068bE5A80F103b0",
+		"Symbol": "sBTC/WBTC"
 	},
 	{
-		"Id": "0x1bc48214A6e672FEA1eB115D9DC81B470E5F1173",
-		"Symbol": "ApeUSD/FRAX/USDC"
+		"Id": "0xbc0cF20Ac9Fc670fED9B3f230F2E8A2676451e37",
+		"Symbol": "alETH/ETH"
 	},
 	{
-		"Id": "0x60a1Cf0D617EeADbB48e488D9Ca3E74F50aB4b71",
-		"Symbol": "cbETH/ETH"
-	},
-	{
-		"Id": "0x64b3bc10e834905364178D6e23B296A5395EE111",
-		"Symbol": "Balancer Boosted USD (bb-a-USD)"
-	},
-	{
-		"Id": "0xe6cFc9d27f8bfC8ddcB86d75381cD21570A21B20",
-		"Symbol": "rETH-bbaUSD"
+		"Id": "0x931997EC71C35A41Ba41bFE3f9c8921e285aea55",
+		"Symbol": "DOLA-bbaUSD"
 	},
 	{
 		"Id": "0xe6aB93d1c253d16733d52dD40b4929a6a04b2B08",
 		"Symbol": "FRAX/DAI/USDC/USDT"
 	},
 	{
-		"Id": "0xbc0cF20Ac9Fc670fED9B3f230F2E8A2676451e37",
-		"Symbol": "alETH/ETH"
+		"Id": "0x4742c355711a2790b17CC0Fe48035a1AF9C22432",
+		"Symbol": "LDO-ETH LP"
+	},
+	{
+		"Id": "0x4a37227BFE2aD5c5126E176e16363d5c79BC1EF5",
+		"Symbol": "frxETH/ETH"
+	},
+	{
+		"Id": "0x4fc424a840B5fB1BAf195963eC3737904440df1D",
+		"Symbol": "FRAX/USDC"
+	},
+	{
+		"Id": "0xffA54b4bFe0225C9b6A830aE1433516736e9a97a",
+		"Symbol": "sETH/ETH"
+	},
+	{
+		"Id": "0x245186CaA063b13d0025891c0d513aCf552fB38E",
+		"Symbol": "CRV-ETH"
+	},
+	{
+		"Id": "0x60a1Cf0D617EeADbB48e488D9Ca3E74F50aB4b71",
+		"Symbol": "cbETH/ETH"
+	},
+	{
+		"Id": "0xE010B164E54735Bb6401c426E9b4Dc16949c00B8",
+		"Symbol": "SUSHI-ETH LP"
+	},
+	{
+		"Id": "0x8c9754455c6a7F6A3aEfA9a3AdEc0955E83D3606",
+		"Symbol": "ACX-wstETH"
+	},
+	{
+		"Id": "0x44B6A414e73fb7387Ca250F44D7e43cD7d6992c2",
+		"Symbol": "auraBAL"
+	},
+	{
+		"Id": "0xC2fea9942506CEF6d18b655Cb2de36d479Dc43bD",
+		"Symbol": "AURA-WETH"
+	},
+	{
+		"Id": "0x572181c7B073966F9FA037Cf1F79a647f5AA9Eb7",
+		"Symbol": "cvxFXS/FXS"
+	},
+	{
+		"Id": "0x6E4b6E879B9280C20f4004C029D3abf13E6cb323",
+		"Symbol": "wstETH-bbaUSD"
+	},
+	{
+		"Id": "0x61F96CA5c79c9753C93244c73f1d4b4a90c1aC8c",
+		"Symbol": "ETH-USDC LP"
+	},
+	{
+		"Id": "0x1bc48214A6e672FEA1eB115D9DC81B470E5F1173",
+		"Symbol": "ApeUSD/FRAX/USDC"
+	},
+	{
+		"Id": "0x61cf8d861ff3c939147c2aa1F694f9592Bf51983",
+		"Symbol": "USDT LP"
+	},
+	{
+		"Id": "0x73380F4B3E6F4a8988688d1475D33CB1D46F6de0",
+		"Symbol": "USDD/FRAX/USDC"
+	},
+	{
+		"Id": "0x4dd0cF20237deb5F2bE76340838B9e2D7c70E852",
+		"Symbol": "ETH LP"
+	},
+	{
+		"Id": "0xb546807794dEdfd196a5d230856190d78cF31d04",
+		"Symbol": "INV-DOLA"
+	},
+	{
+		"Id": "0xe50e2fe90745A8510491F89113959a1EF01AD400",
+		"Symbol": "TriCrypto"
+	},
+	{
+		"Id": "0x7666FA065e0c44051411A5Ca3e85ad2C210C9e98",
+		"Symbol": "MAI-USDC"
+	},
+	{
+		"Id": "0x7f3F33B42b9734e61cb44424D130B5f6e09C9Db3",
+		"Symbol": "USDD/DAI/USDC/USDT"
+	},
+	{
+		"Id": "0xE0d5f9DA3613C047003b77cAa31270aBE3EdA6b0",
+		"Symbol": "wstETH-ETH"
 	}
 ]

@@ -1,0 +1,27 @@
+{
+	"Id": "0x7a44ffa3df484e3089db4d5a2f24b2ef0e52a0a3",
+	"Protocol": "da9d5642-5af5-40c9-9421-c3481d953883",
+	"Outputs": [
+		{
+			"Address": "0x7a44ffa3df484e3089db4d5a2f24b2ef0e52a0a3",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xec7be80f97206b6c3cff46c6a24c52e9fa573e20",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-ROYALR",
+	"Chain": "ethereum"
+}

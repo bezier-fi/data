@@ -1,0 +1,27 @@
+{
+	"Id": "0xc77926abef1d80a73acc3093f59256820e94d75c",
+	"Protocol": "da9d5642-5af5-40c9-9421-c3481d953883",
+	"Outputs": [
+		{
+			"Address": "0xc77926abef1d80a73acc3093f59256820e94d75c",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x273a0faea2b3d10a786ea0cf0567a9bca384ac4c",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PORSCHE-WETH",
+	"Chain": "ethereum"
+}

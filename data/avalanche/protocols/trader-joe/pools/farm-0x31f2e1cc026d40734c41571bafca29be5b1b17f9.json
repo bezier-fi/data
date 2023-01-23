@@ -1,0 +1,23 @@
+{
+	"Id": "farm-0x31f2e1cc026d40734c41571bafca29be5b1b17f9",
+	"Protocol": "bb5efb84-3aa6-4343-adbd-1a1ee8bae2b7",
+	"Outputs": [
+		{
+			"Address": "0x31f2e1cc026d40734c41571bafca29be5b1b17f9",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x31f2e1cc026d40734c41571bafca29be5b1b17f9",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "RUGG-WAVAX",
+	"Chain": "avalanche"
+}

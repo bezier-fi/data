@@ -1,0 +1,27 @@
+{
+	"Id": "0xaf481d39db4ca6aa44699546c01908e9b1dd805e",
+	"Protocol": "71ff214b-92b5-4bfb-b4da-e9decefbe52d",
+	"Outputs": [
+		{
+			"Address": "0xaf481d39db4ca6aa44699546c01908e9b1dd805e",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xcafe001067cdef266afb7eb5a286dcfd277f3de5",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PSP-USDT (1.00%)",
+	"Chain": "ethereum"
+}

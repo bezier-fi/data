@@ -1,0 +1,27 @@
+{
+	"Id": "0x2d6fcfde9709343c4c7a78d91077473d6b604653",
+	"Protocol": "bf24c6a6-a9dc-4e90-878e-2c097ced0e3a",
+	"Outputs": [
+		{
+			"Address": "0x2d6fcfde9709343c4c7a78d91077473d6b604653",
+			"Apr": 111.06019,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9343e24716659a3551eb10aff9472a2dcad5db2d",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "STFX-WETH (0.30%)",
+	"Chain": "ethereum"
+}

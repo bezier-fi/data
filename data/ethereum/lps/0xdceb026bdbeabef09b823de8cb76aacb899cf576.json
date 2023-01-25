@@ -1,0 +1,10 @@
+{
+	"Id": "0xdceb026bdbeabef09b823de8cb76aacb899cf576",
+	"Symbol": "EL-WETH (0.30%)",
+	"UnderlyingTokens": [
+		"0x2781246fe707bb15cee3e5ea354e2154a2877b16",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "bf24c6a6-a9dc-4e90-878e-2c097ced0e3a",
+	"Chain": "ethereum"
+}

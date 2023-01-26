@@ -1,0 +1,27 @@
+{
+	"Id": "0x9dcba702b50d63fd66fc5da49036f7c7260b08d3",
+	"Protocol": "ce4258df-f206-49ba-9945-cdfbe4f930ef",
+	"Outputs": [
+		{
+			"Address": "0x9dcba702b50d63fd66fc5da49036f7c7260b08d3",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x338143aedde39844319ca3af58ceb10fcdf04f61",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ROVER-WETH",
+	"Chain": "ethereum"
+}

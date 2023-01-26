@@ -1,0 +1,10 @@
+{
+	"Id": "0x584213d5d2be9de9057ac6737e2bf78a1541f427",
+	"Symbol": "HTMI-WETH",
+	"UnderlyingTokens": [
+		"0x25fa4dac501e4a2faf8014d74ab46f2597f7d855",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ce4258df-f206-49ba-9945-cdfbe4f930ef",
+	"Chain": "ethereum"
+}

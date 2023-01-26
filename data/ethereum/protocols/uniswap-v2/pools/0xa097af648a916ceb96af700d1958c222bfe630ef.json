@@ -1,0 +1,27 @@
+{
+	"Id": "0xa097af648a916ceb96af700d1958c222bfe630ef",
+	"Protocol": "ce4258df-f206-49ba-9945-cdfbe4f930ef",
+	"Outputs": [
+		{
+			"Address": "0xa097af648a916ceb96af700d1958c222bfe630ef",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x724dd18be5de3ed3d6ad7bb46d7387d867cdbdcc",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "AVAK-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x704942a44ebbbbc0f216f84434737d1d0f9f66d9",
+	"Protocol": "ce4258df-f206-49ba-9945-cdfbe4f930ef",
+	"Outputs": [
+		{
+			"Address": "0x704942a44ebbbbc0f216f84434737d1d0f9f66d9",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x00a8b738e453ffd858a7edf03bccfe20412f0eb0",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xfc979087305a826c2b2a0056cfaba50aad3e6439",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ALBT-DAFI",
+	"Chain": "ethereum"
+}

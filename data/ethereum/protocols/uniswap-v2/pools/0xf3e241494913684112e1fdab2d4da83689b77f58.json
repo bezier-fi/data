@@ -1,0 +1,27 @@
+{
+	"Id": "0xf3e241494913684112e1fdab2d4da83689b77f58",
+	"Protocol": "ce4258df-f206-49ba-9945-cdfbe4f930ef",
+	"Outputs": [
+		{
+			"Address": "0xf3e241494913684112e1fdab2d4da83689b77f58",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5a448b5470efee9977954b01c125f20871dfabba",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BABYKAIK -WETH",
+	"Chain": "ethereum"
+}

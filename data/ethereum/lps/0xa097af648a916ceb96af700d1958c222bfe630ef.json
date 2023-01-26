@@ -1,0 +1,10 @@
+{
+	"Id": "0xa097af648a916ceb96af700d1958c222bfe630ef",
+	"Symbol": "AVAK-WETH",
+	"UnderlyingTokens": [
+		"0x724dd18be5de3ed3d6ad7bb46d7387d867cdbdcc",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ce4258df-f206-49ba-9945-cdfbe4f930ef",
+	"Chain": "ethereum"
+}

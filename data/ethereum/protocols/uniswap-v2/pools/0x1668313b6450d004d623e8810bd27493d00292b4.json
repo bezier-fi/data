@@ -1,0 +1,27 @@
+{
+	"Id": "0x1668313b6450d004d623e8810bd27493d00292b4",
+	"Protocol": "ce4258df-f206-49ba-9945-cdfbe4f930ef",
+	"Outputs": [
+		{
+			"Address": "0x1668313b6450d004d623e8810bd27493d00292b4",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6832d352d85aa93e23bf0b1fbe0190ba0bf9b637",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Mr. Tweet-WETH",
+	"Chain": "ethereum"
+}

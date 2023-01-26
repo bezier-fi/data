@@ -1,0 +1,10 @@
+{
+	"Id": "0x09a9098b11c2af933cfc745e0e0ba78c08f93a1e",
+	"Symbol": "DEJITARU-WETH",
+	"UnderlyingTokens": [
+		"0x05a0665712433625c44fa76ec74d9811086e904e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ce4258df-f206-49ba-9945-cdfbe4f930ef",
+	"Chain": "ethereum"
+}

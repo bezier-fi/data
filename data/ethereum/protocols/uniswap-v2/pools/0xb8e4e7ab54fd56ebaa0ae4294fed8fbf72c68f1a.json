@@ -1,0 +1,27 @@
+{
+	"Id": "0xb8e4e7ab54fd56ebaa0ae4294fed8fbf72c68f1a",
+	"Protocol": "ce4258df-f206-49ba-9945-cdfbe4f930ef",
+	"Outputs": [
+		{
+			"Address": "0xb8e4e7ab54fd56ebaa0ae4294fed8fbf72c68f1a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa4b14c188fb445cbd252bfa7b13ab0651b2c0d8d",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DOVA-WETH",
+	"Chain": "ethereum"
+}

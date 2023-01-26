@@ -1,0 +1,27 @@
+{
+	"Id": "0xde5362f6466ba15c8e1a3f9f9b3c18a133a04c11",
+	"Protocol": "ce4258df-f206-49ba-9945-cdfbe4f930ef",
+	"Outputs": [
+		{
+			"Address": "0xde5362f6466ba15c8e1a3f9f9b3c18a133a04c11",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x17adfcb28bf217d0acca3197b2ed4339df36feb5",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GENKIN-WETH",
+	"Chain": "ethereum"
+}

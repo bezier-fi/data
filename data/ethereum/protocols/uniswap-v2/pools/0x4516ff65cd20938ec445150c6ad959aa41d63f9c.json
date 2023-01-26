@@ -1,0 +1,27 @@
+{
+	"Id": "0x4516ff65cd20938ec445150c6ad959aa41d63f9c",
+	"Protocol": "ce4258df-f206-49ba-9945-cdfbe4f930ef",
+	"Outputs": [
+		{
+			"Address": "0x4516ff65cd20938ec445150c6ad959aa41d63f9c",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0c943300d604c732117db2755873a0a0683ee7a9",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PDF-WETH",
+	"Chain": "ethereum"
+}

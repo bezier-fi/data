@@ -1,0 +1,10 @@
+{
+	"Id": "0x6e2faa83a18e5e6a1a666695bc97955f9077fa9a",
+	"Symbol": "TSUNAMI-WETH",
+	"UnderlyingTokens": [
+		"0x76dddb6b18b08f8aa533345fb2308807bdf0bf36",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ce4258df-f206-49ba-9945-cdfbe4f930ef",
+	"Chain": "ethereum"
+}

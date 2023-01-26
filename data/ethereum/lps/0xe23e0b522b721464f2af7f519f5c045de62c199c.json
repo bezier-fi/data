@@ -1,0 +1,10 @@
+{
+	"Id": "0xe23e0b522b721464f2af7f519f5c045de62c199c",
+	"Symbol": "KAGI-WETH",
+	"UnderlyingTokens": [
+		"0x5fb1e49c6c95941f995c31bf571bfa2cc14eee47",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ce4258df-f206-49ba-9945-cdfbe4f930ef",
+	"Chain": "ethereum"
+}

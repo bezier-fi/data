@@ -1,0 +1,10 @@
+{
+	"Id": "0x5db7893907833d277a0af57aed1cdb0a83f3de15",
+	"Symbol": "WETH-SAKATA",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xeffa27de297c545f4b5106bafe4b482f96829769"
+	],
+	"Protocol": "ce4258df-f206-49ba-9945-cdfbe4f930ef",
+	"Chain": "ethereum"
+}

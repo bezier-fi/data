@@ -1,0 +1,10 @@
+{
+	"Id": "0xba88774e109185cd09db1518b17fab72e9122103",
+	"Symbol": "WETH-FLONA",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xef27252b567f6b3fe35b34a85be322917abe524a"
+	],
+	"Protocol": "ce4258df-f206-49ba-9945-cdfbe4f930ef",
+	"Chain": "ethereum"
+}

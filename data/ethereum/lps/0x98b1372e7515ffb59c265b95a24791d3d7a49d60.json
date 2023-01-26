@@ -1,0 +1,10 @@
+{
+	"Id": "0x98b1372e7515ffb59c265b95a24791d3d7a49d60",
+	"Symbol": "WETH-GAI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc252915bb43f68c2b2b2f5ee50646e65e446b2c4"
+	],
+	"Protocol": "ce4258df-f206-49ba-9945-cdfbe4f930ef",
+	"Chain": "ethereum"
+}

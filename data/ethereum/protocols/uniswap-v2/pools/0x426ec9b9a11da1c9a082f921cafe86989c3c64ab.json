@@ -1,0 +1,27 @@
+{
+	"Id": "0x426ec9b9a11da1c9a082f921cafe86989c3c64ab",
+	"Protocol": "ce4258df-f206-49ba-9945-cdfbe4f930ef",
+	"Outputs": [
+		{
+			"Address": "0x426ec9b9a11da1c9a082f921cafe86989c3c64ab",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa848a1d33d8ef1633397a6acf617620fab8e5da8",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MOUSEWORM-WETH",
+	"Chain": "ethereum"
+}

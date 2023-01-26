@@ -1,0 +1,27 @@
+{
+	"Id": "0xB5ae2A6b084f59ff9EF6b2E79302A1878306D58c",
+	"Protocol": "7fe3dbe3-3a3c-4c9a-b4c9-4cd45a3c2f6c",
+	"Outputs": [
+		{
+			"Address": "0x8109A51542294cDBB489AE5516f42FfBD92177aa",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9c354503C38481a7A7a51629142963F98eCC12D0",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "OGVETH-f",
+	"Chain": "ethereum"
+}

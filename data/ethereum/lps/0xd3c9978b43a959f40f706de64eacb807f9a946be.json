@@ -1,0 +1,10 @@
+{
+	"Id": "0xd3c9978b43a959f40f706de64eacb807f9a946be",
+	"Symbol": "SHIVA-WETH",
+	"UnderlyingTokens": [
+		"0x7f75e59c4f1dabe44eb2285d3ba4252ab01f3fb9",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ce4258df-f206-49ba-9945-cdfbe4f930ef",
+	"Chain": "ethereum"
+}

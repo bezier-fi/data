@@ -1,0 +1,10 @@
+{
+	"Id": "0x9f1b42a311469ee71dc7de3f9d4906d536727dba",
+	"Symbol": "AM-WETH",
+	"UnderlyingTokens": [
+		"0x8cced87c68e97e8cf7381fdf37db20e9ba0bec0d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ce4258df-f206-49ba-9945-cdfbe4f930ef",
+	"Chain": "ethereum"
+}

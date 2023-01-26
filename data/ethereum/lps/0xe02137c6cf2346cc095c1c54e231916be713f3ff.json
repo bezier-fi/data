@@ -1,0 +1,10 @@
+{
+	"Id": "0xe02137c6cf2346cc095c1c54e231916be713f3ff",
+	"Symbol": "WETH-YOCHI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc6c7c48f13bd390ddf2f0c44f3fefcfc5f9d2ae2"
+	],
+	"Protocol": "ce4258df-f206-49ba-9945-cdfbe4f930ef",
+	"Chain": "ethereum"
+}

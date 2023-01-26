@@ -1,0 +1,10 @@
+{
+	"Id": "0x4d7f26e585ce5178547ac2ef0dd9789417170d0d",
+	"Symbol": "MEDICIS-WETH",
+	"UnderlyingTokens": [
+		"0x2ef2f49677117d441729509d072f18d66dd65227",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ce4258df-f206-49ba-9945-cdfbe4f930ef",
+	"Chain": "ethereum"
+}

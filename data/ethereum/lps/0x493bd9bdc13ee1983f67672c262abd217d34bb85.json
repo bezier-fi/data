@@ -1,0 +1,10 @@
+{
+	"Id": "0x493bd9bdc13ee1983f67672c262abd217d34bb85",
+	"Symbol": "WETH-SHIROZI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc15ecfe8e11c6a1d8b51bd29e6866fea005bf943"
+	],
+	"Protocol": "ce4258df-f206-49ba-9945-cdfbe4f930ef",
+	"Chain": "ethereum"
+}

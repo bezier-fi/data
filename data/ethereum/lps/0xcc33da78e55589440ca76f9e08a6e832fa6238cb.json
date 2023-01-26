@@ -1,0 +1,10 @@
+{
+	"Id": "0xcc33da78e55589440ca76f9e08a6e832fa6238cb",
+	"Symbol": "FLOXI-WETH",
+	"UnderlyingTokens": [
+		"0x043af465ed8ba756af1f2ad8c2a56d5d5f46b7bc",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ce4258df-f206-49ba-9945-cdfbe4f930ef",
+	"Chain": "ethereum"
+}

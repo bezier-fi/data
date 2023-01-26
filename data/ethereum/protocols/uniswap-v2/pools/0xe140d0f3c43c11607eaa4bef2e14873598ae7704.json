@@ -1,0 +1,27 @@
+{
+	"Id": "0xe140d0f3c43c11607eaa4bef2e14873598ae7704",
+	"Protocol": "ce4258df-f206-49ba-9945-cdfbe4f930ef",
+	"Outputs": [
+		{
+			"Address": "0xe140d0f3c43c11607eaa4bef2e14873598ae7704",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x751c443c98e8cef0ab093c43e2890e002b83a047",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MAMAO-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x600fc53b6c725ffa66e91ebd500f468d09d9a729",
+	"Protocol": "ce4258df-f206-49ba-9945-cdfbe4f930ef",
+	"Outputs": [
+		{
+			"Address": "0x600fc53b6c725ffa66e91ebd500f468d09d9a729",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb0be3d5561244a6e469ec83db29b11a6268b65b9",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Layla-WETH",
+	"Chain": "ethereum"
+}

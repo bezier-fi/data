@@ -1,0 +1,27 @@
+{
+	"Id": "0xe02137c6cf2346cc095c1c54e231916be713f3ff",
+	"Protocol": "ce4258df-f206-49ba-9945-cdfbe4f930ef",
+	"Outputs": [
+		{
+			"Address": "0xe02137c6cf2346cc095c1c54e231916be713f3ff",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc6c7c48f13bd390ddf2f0c44f3fefcfc5f9d2ae2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-YOCHI",
+	"Chain": "ethereum"
+}

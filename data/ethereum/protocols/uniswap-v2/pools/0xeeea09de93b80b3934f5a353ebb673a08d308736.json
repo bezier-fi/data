@@ -1,0 +1,27 @@
+{
+	"Id": "0xeeea09de93b80b3934f5a353ebb673a08d308736",
+	"Protocol": "ce4258df-f206-49ba-9945-cdfbe4f930ef",
+	"Outputs": [
+		{
+			"Address": "0xeeea09de93b80b3934f5a353ebb673a08d308736",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x27fadb7f95e0387c097a890e8d17aa348854da68",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TSUJI-WETH",
+	"Chain": "ethereum"
+}

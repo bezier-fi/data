@@ -1,0 +1,27 @@
+{
+	"Id": "0xcc33da78e55589440ca76f9e08a6e832fa6238cb",
+	"Protocol": "ce4258df-f206-49ba-9945-cdfbe4f930ef",
+	"Outputs": [
+		{
+			"Address": "0xcc33da78e55589440ca76f9e08a6e832fa6238cb",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x043af465ed8ba756af1f2ad8c2a56d5d5f46b7bc",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FLOXI-WETH",
+	"Chain": "ethereum"
+}

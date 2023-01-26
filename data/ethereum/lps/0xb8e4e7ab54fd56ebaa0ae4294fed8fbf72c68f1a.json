@@ -1,0 +1,10 @@
+{
+	"Id": "0xb8e4e7ab54fd56ebaa0ae4294fed8fbf72c68f1a",
+	"Symbol": "DOVA-WETH",
+	"UnderlyingTokens": [
+		"0xa4b14c188fb445cbd252bfa7b13ab0651b2c0d8d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ce4258df-f206-49ba-9945-cdfbe4f930ef",
+	"Chain": "ethereum"
+}

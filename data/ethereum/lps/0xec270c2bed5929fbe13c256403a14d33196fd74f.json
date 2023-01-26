@@ -1,0 +1,10 @@
+{
+	"Id": "0xec270c2bed5929fbe13c256403a14d33196fd74f",
+	"Symbol": "CLIQUE-WETH",
+	"UnderlyingTokens": [
+		"0x098002eab888e7b4cffb3cdcd2b3e725504aa20b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ce4258df-f206-49ba-9945-cdfbe4f930ef",
+	"Chain": "ethereum"
+}

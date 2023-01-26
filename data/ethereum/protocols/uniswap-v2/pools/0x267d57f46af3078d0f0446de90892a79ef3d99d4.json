@@ -1,0 +1,27 @@
+{
+	"Id": "0x267d57f46af3078d0f0446de90892a79ef3d99d4",
+	"Protocol": "ce4258df-f206-49ba-9945-cdfbe4f930ef",
+	"Outputs": [
+		{
+			"Address": "0x267d57f46af3078d0f0446de90892a79ef3d99d4",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xfa5f1f6faa9fd5c0cb8535e006167a4c48910506",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-KISS",
+	"Chain": "ethereum"
+}

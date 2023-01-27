@@ -1,0 +1,27 @@
+{
+	"Id": "0x73bf47d6ba12c7ad78ec0017f210fc9de1f7575e",
+	"Protocol": "2fa190a6-c1c0-4b67-8570-a065a1521965",
+	"Outputs": [
+		{
+			"Address": "0x73bf47d6ba12c7ad78ec0017f210fc9de1f7575e",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x616e8bfa43f920657b3497dbf40d6b1a02d4608d",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc0c293ce456ff0ed870add98a0828dd4d2903dbf",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "auraBAL-AURA (0.30%)",
+	"Chain": "ethereum"
+}

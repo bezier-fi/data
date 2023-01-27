@@ -1,0 +1,27 @@
+{
+	"Id": "0x83819fb5184e2a418d9309bc1ac46edb67f89e7d",
+	"Protocol": "2fa190a6-c1c0-4b67-8570-a065a1521965",
+	"Outputs": [
+		{
+			"Address": "0x83819fb5184e2a418d9309bc1ac46edb67f89e7d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "UNI-WBTC (1.00%)",
+	"Chain": "ethereum"
+}

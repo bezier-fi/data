@@ -1,0 +1,27 @@
+{
+	"Id": "0xb71008f10b4b126c43fad95257aa29c6e3b8ca37",
+	"Protocol": "2fa190a6-c1c0-4b67-8570-a065a1521965",
+	"Outputs": [
+		{
+			"Address": "0xb71008f10b4b126c43fad95257aa29c6e3b8ca37",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6bb61215298f296c55b19ad842d3df69021da2ef",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DOP-WETH (1.00%)",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0xea32cfbfaf260a9989222afba687de7284615380",
+	"Protocol": "fa6a66e3-daa3-4e5a-a73a-0ebab9e5a9a2",
+	"Outputs": [
+		{
+			"Address": "0xea32cfbfaf260a9989222afba687de7284615380",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x501f630c96d1f48706d57d2bf211f044dae0fb2d",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SANDWICH-WETH",
+	"Chain": "ethereum"
+}

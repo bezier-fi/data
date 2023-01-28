@@ -1,0 +1,27 @@
+{
+	"Id": "0xc65dfb216706bba8a4383a97d381cd12fb0da8a3",
+	"Protocol": "fa6a66e3-daa3-4e5a-a73a-0ebab9e5a9a2",
+	"Outputs": [
+		{
+			"Address": "0xc65dfb216706bba8a4383a97d381cd12fb0da8a3",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x12fc2fef8a87c1f6b27d8d8559116cc36fb01141",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SHIJA-WETH",
+	"Chain": "ethereum"
+}

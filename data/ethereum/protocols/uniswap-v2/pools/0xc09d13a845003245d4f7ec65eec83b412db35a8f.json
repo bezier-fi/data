@@ -1,0 +1,27 @@
+{
+	"Id": "0xc09d13a845003245d4f7ec65eec83b412db35a8f",
+	"Protocol": "fa6a66e3-daa3-4e5a-a73a-0ebab9e5a9a2",
+	"Outputs": [
+		{
+			"Address": "0xc09d13a845003245d4f7ec65eec83b412db35a8f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6f8d37dd084870fb953e6cd37130cd757e7f8e35",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "COFFEZILLA-WETH",
+	"Chain": "ethereum"
+}

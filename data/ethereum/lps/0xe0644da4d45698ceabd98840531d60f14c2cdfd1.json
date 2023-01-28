@@ -1,0 +1,10 @@
+{
+	"Id": "0xe0644da4d45698ceabd98840531d60f14c2cdfd1",
+	"Symbol": "DRO-WETH",
+	"UnderlyingTokens": [
+		"0x1a0a1986aef9f288ac042df79b59b27d6d7febb3",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "fa6a66e3-daa3-4e5a-a73a-0ebab9e5a9a2",
+	"Chain": "ethereum"
+}

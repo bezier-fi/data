@@ -1,0 +1,10 @@
+{
+	"Id": "0xe2bf84f6e15097378144b7fdcff20da1fab71b14",
+	"Symbol": "EVOAI-WETH",
+	"UnderlyingTokens": [
+		"0x6fbc20483b53cea47839bb8e171abd6d67c3c696",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "fa6a66e3-daa3-4e5a-a73a-0ebab9e5a9a2",
+	"Chain": "ethereum"
+}

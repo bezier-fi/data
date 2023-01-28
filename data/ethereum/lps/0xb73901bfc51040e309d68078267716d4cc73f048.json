@@ -1,0 +1,10 @@
+{
+	"Id": "0xb73901bfc51040e309d68078267716d4cc73f048",
+	"Symbol": "BPTL-WETH",
+	"UnderlyingTokens": [
+		"0x3a1bc4014c4c493db3dbfbdd8ee1417113b462bf",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "fa6a66e3-daa3-4e5a-a73a-0ebab9e5a9a2",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,23 @@
+{
+	"Id": "0xeb5A443d4b4deF6f81C0Ef0B66Af5168a34A7f38",
+	"Protocol": "f7839ad0-17e8-4e38-bb1b-6a8aeae6cfa7",
+	"Outputs": [
+		{
+			"Address": "0xeb5A443d4b4deF6f81C0Ef0B66Af5168a34A7f38",
+			"Apr": 6.73215,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x97F088b0175A7319059d8e705286aA035077d624",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FRAX-USDT sLP",
+	"Chain": "ethereum"
+}

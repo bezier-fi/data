@@ -1,0 +1,10 @@
+{
+	"Id": "0xe6a16f7a2edef891c6027f419e0fafa1d3e982e5",
+	"Symbol": "WETH-Skasu",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf07de29a53e678bc9bb8f1bb7a7fa853f52d4b62"
+	],
+	"Protocol": "fa6a66e3-daa3-4e5a-a73a-0ebab9e5a9a2",
+	"Chain": "ethereum"
+}

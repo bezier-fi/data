@@ -1,0 +1,10 @@
+{
+	"Id": "0xc54d512020b359287a416c4978cd1bb04aeefae8",
+	"Symbol": "RR-WETH",
+	"UnderlyingTokens": [
+		"0x74298ea1990c2f4673e7869df821be1f1a382a1a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "fa6a66e3-daa3-4e5a-a73a-0ebab9e5a9a2",
+	"Chain": "ethereum"
+}

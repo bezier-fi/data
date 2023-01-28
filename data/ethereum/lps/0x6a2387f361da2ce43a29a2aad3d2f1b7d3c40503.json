@@ -1,0 +1,10 @@
+{
+	"Id": "0x6a2387f361da2ce43a29a2aad3d2f1b7d3c40503",
+	"Symbol": "WETH-Shiboku",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfaae1a0bf38bcb2ed8fab40d53638a2e995de024"
+	],
+	"Protocol": "fa6a66e3-daa3-4e5a-a73a-0ebab9e5a9a2",
+	"Chain": "ethereum"
+}

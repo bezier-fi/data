@@ -1,0 +1,10 @@
+{
+	"Id": "0xc9b871d9aad6eb69194ef82037a73014414561b9",
+	"Symbol": "SAGA-WETH",
+	"UnderlyingTokens": [
+		"0xb1564fe611d802073350024712daeba1808e69a5",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "fa6a66e3-daa3-4e5a-a73a-0ebab9e5a9a2",
+	"Chain": "ethereum"
+}

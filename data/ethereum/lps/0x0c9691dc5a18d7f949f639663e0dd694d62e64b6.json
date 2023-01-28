@@ -1,0 +1,10 @@
+{
+	"Id": "0x0c9691dc5a18d7f949f639663e0dd694d62e64b6",
+	"Symbol": "Mega-WETH",
+	"UnderlyingTokens": [
+		"0xbb8af59e0fd6d7b650aa6b367c1fbbb51bc43a0d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "fa6a66e3-daa3-4e5a-a73a-0ebab9e5a9a2",
+	"Chain": "ethereum"
+}

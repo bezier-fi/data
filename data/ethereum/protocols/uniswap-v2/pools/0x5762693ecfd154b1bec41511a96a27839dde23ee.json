@@ -1,0 +1,27 @@
+{
+	"Id": "0x5762693ecfd154b1bec41511a96a27839dde23ee",
+	"Protocol": "fa6a66e3-daa3-4e5a-a73a-0ebab9e5a9a2",
+	"Outputs": [
+		{
+			"Address": "0x5762693ecfd154b1bec41511a96a27839dde23ee",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6d49a19391931cae9b8e77159b50ea788d7a8b21",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "AIPAD-WETH",
+	"Chain": "ethereum"
+}

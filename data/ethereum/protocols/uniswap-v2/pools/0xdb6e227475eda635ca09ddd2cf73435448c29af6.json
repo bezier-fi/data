@@ -1,0 +1,27 @@
+{
+	"Id": "0xdb6e227475eda635ca09ddd2cf73435448c29af6",
+	"Protocol": "fa6a66e3-daa3-4e5a-a73a-0ebab9e5a9a2",
+	"Outputs": [
+		{
+			"Address": "0xdb6e227475eda635ca09ddd2cf73435448c29af6",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x484bc635e1b86930680fa0907de6dd7d3813acbe",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "AKITANA-WETH",
+	"Chain": "ethereum"
+}

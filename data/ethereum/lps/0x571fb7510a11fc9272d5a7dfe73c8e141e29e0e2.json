@@ -1,0 +1,10 @@
+{
+	"Id": "0x571fb7510a11fc9272d5a7dfe73c8e141e29e0e2",
+	"Symbol": "STUZI-WETH",
+	"UnderlyingTokens": [
+		"0x74173a9cd6cb1e8a3c7f1f2f814387fa8e0c277a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "fa6a66e3-daa3-4e5a-a73a-0ebab9e5a9a2",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,23 @@
+{
+	"Id": "0x6660fd0a97Af41c6A7b29450D3532FeDdBe0478A",
+	"Protocol": "f7839ad0-17e8-4e38-bb1b-6a8aeae6cfa7",
+	"Outputs": [
+		{
+			"Address": "0x6660fd0a97Af41c6A7b29450D3532FeDdBe0478A",
+			"Apr": 217.016,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0346638feF4694629425336c3297Bd0537fa7b43",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BIFI-ETH vLP",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x287f4d24fa2f13c62131a3fe688aebfc22f2b11c",
+	"Symbol": "GTR-WETH",
+	"UnderlyingTokens": [
+		"0x32debf31d5ed90ca2e287d306fc23fafad9361c6",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "fa6a66e3-daa3-4e5a-a73a-0ebab9e5a9a2",
+	"Chain": "ethereum"
+}

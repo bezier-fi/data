@@ -1,0 +1,23 @@
+{
+	"Id": "0xB9911AB699FD781efDA446e7FD995d375B437c8B",
+	"Protocol": "f7839ad0-17e8-4e38-bb1b-6a8aeae6cfa7",
+	"Outputs": [
+		{
+			"Address": "0xB9911AB699FD781efDA446e7FD995d375B437c8B",
+			"Apr": 4281.232,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x642431623AE5d73C19fC931aAeA0d4677303880c",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SOLID-ETH vLP",
+	"Chain": "ethereum"
+}

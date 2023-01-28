@@ -1,0 +1,10 @@
+{
+	"Id": "0x761ca21db2b878a4cf95116e831d35c4d9ef36ac",
+	"Symbol": "ASTROX-WETH",
+	"UnderlyingTokens": [
+		"0x91acaa613da5e553ad5e02339f01a233f75727c8",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "fa6a66e3-daa3-4e5a-a73a-0ebab9e5a9a2",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xd5db2aad393cfccaad018a55730de7196b945fda",
+	"Symbol": "WETH-ShibJr",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe3a7cf304d92a7bc13c6351f36715f755b314d96"
+	],
+	"Protocol": "fa6a66e3-daa3-4e5a-a73a-0ebab9e5a9a2",
+	"Chain": "ethereum"
+}

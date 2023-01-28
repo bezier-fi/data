@@ -1,0 +1,23 @@
+{
+	"Id": "0xAf59cca8d658fe89e83d78D1d39125E3F4b2a529",
+	"Protocol": "f7839ad0-17e8-4e38-bb1b-6a8aeae6cfa7",
+	"Outputs": [
+		{
+			"Address": "0xAf59cca8d658fe89e83d78D1d39125E3F4b2a529",
+			"Apr": 589.15845,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xf5E4b5f58703582Ad142B15E6c303dbB3CF7dE8a",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "moSOLID-ETH vLP",
+	"Chain": "ethereum"
+}

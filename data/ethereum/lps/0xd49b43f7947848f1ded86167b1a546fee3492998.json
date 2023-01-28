@@ -1,0 +1,10 @@
+{
+	"Id": "0xd49b43f7947848f1ded86167b1a546fee3492998",
+	"Symbol": "IKIGAI-WETH",
+	"UnderlyingTokens": [
+		"0xa0efe7d60dd96a7a5d3888d95f337a2425522fa2",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "fa6a66e3-daa3-4e5a-a73a-0ebab9e5a9a2",
+	"Chain": "ethereum"
+}

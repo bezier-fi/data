@@ -1,0 +1,23 @@
+{
+	"Id": "0x8f371Dc270548c9B8F7DB12C9F73dF19D76A6687",
+	"Protocol": "f7839ad0-17e8-4e38-bb1b-6a8aeae6cfa7",
+	"Outputs": [
+		{
+			"Address": "0x8f371Dc270548c9B8F7DB12C9F73dF19D76A6687",
+			"Apr": 16.303589,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xEb9dC7087607be7D7C3Ccbb4544347dE1354720c",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MIM-USDC sLP",
+	"Chain": "ethereum"
+}

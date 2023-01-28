@@ -1,0 +1,10 @@
+{
+	"Id": "0xd124502c72563f25ba96e7d8c9fa48efe62fb095",
+	"Symbol": "GREEN-WETH",
+	"UnderlyingTokens": [
+		"0x529bcdd9dd315be4bd19e5ac0a82652cdf28ff83",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "fa6a66e3-daa3-4e5a-a73a-0ebab9e5a9a2",
+	"Chain": "ethereum"
+}

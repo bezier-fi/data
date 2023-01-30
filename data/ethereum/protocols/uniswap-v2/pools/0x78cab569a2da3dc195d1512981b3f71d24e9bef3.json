@@ -1,0 +1,27 @@
+{
+	"Id": "0x78cab569a2da3dc195d1512981b3f71d24e9bef3",
+	"Protocol": "2f63d8ce-ff09-4fd1-a1a1-93a22a50342a",
+	"Outputs": [
+		{
+			"Address": "0x78cab569a2da3dc195d1512981b3f71d24e9bef3",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1f3dc3be1337e2cb0781eeec7157a6fbb7eb08c0",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CFXC-WETH",
+	"Chain": "ethereum"
+}

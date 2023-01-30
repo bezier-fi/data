@@ -1,0 +1,27 @@
+{
+	"Id": "0x6c4453762f1190c518712f8f4918d04cc49db644",
+	"Protocol": "2f63d8ce-ff09-4fd1-a1a1-93a22a50342a",
+	"Outputs": [
+		{
+			"Address": "0x6c4453762f1190c518712f8f4918d04cc49db644",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xba4b12fd1f41e2005ed21b007fe8d92d42c2de89",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "POTATO-WETH",
+	"Chain": "ethereum"
+}

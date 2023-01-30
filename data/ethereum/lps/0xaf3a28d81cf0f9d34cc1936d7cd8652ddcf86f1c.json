@@ -1,0 +1,10 @@
+{
+	"Id": "0xaf3a28d81cf0f9d34cc1936d7cd8652ddcf86f1c",
+	"Symbol": "$Vinu-WETH",
+	"UnderlyingTokens": [
+		"0x59725f6b814bf573e563f816abbe956b87a62055",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2f63d8ce-ff09-4fd1-a1a1-93a22a50342a",
+	"Chain": "ethereum"
+}

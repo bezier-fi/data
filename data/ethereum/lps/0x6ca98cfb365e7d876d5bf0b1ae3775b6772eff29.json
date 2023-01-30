@@ -1,0 +1,10 @@
+{
+	"Id": "0x6ca98cfb365e7d876d5bf0b1ae3775b6772eff29",
+	"Symbol": "FOTU-WETH",
+	"UnderlyingTokens": [
+		"0x4014250189697b7e324d14ee259c7c83101aa4ea",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2f63d8ce-ff09-4fd1-a1a1-93a22a50342a",
+	"Chain": "ethereum"
+}

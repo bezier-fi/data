@@ -1,0 +1,10 @@
+{
+	"Id": "0xe1f16baf17283dc40e48de5bc2b3e0776341d8b7",
+	"Symbol": "DOGEVO-WETH",
+	"UnderlyingTokens": [
+		"0x6245a4a66090315db8df351f47224033483d188b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2f63d8ce-ff09-4fd1-a1a1-93a22a50342a",
+	"Chain": "ethereum"
+}

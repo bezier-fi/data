@@ -1,0 +1,27 @@
+{
+	"Id": "0xa953a41aa89865a2f8e51478593ffefd29a3be23",
+	"Protocol": "2f63d8ce-ff09-4fd1-a1a1-93a22a50342a",
+	"Outputs": [
+		{
+			"Address": "0xa953a41aa89865a2f8e51478593ffefd29a3be23",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc8ec3f04b1014e641da40020fdd30cd3f4cb63e8",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-adidas",
+	"Chain": "ethereum"
+}

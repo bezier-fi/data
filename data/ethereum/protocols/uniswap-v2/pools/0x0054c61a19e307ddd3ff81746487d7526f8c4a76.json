@@ -1,0 +1,27 @@
+{
+	"Id": "0x0054c61a19e307ddd3ff81746487d7526f8c4a76",
+	"Protocol": "2f63d8ce-ff09-4fd1-a1a1-93a22a50342a",
+	"Outputs": [
+		{
+			"Address": "0x0054c61a19e307ddd3ff81746487d7526f8c4a76",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x04b5e13000c6e9a3255dc057091f3e3eeee7b0f0",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "iFUND-WETH",
+	"Chain": "ethereum"
+}

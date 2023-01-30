@@ -1,0 +1,10 @@
+{
+	"Id": "0xf8f6280e3581fcdcab06aa27af1a839770ca6cc9",
+	"Symbol": "MANI-WETH",
+	"UnderlyingTokens": [
+		"0x0cbe639ad051ee3e5dc37903fce329cde3d699db",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2f63d8ce-ff09-4fd1-a1a1-93a22a50342a",
+	"Chain": "ethereum"
+}

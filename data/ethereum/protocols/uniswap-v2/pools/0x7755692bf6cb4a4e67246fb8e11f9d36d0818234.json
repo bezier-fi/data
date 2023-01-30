@@ -1,0 +1,27 @@
+{
+	"Id": "0x7755692bf6cb4a4e67246fb8e11f9d36d0818234",
+	"Protocol": "2f63d8ce-ff09-4fd1-a1a1-93a22a50342a",
+	"Outputs": [
+		{
+			"Address": "0x7755692bf6cb4a4e67246fb8e11f9d36d0818234",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x15316d2438a8d7d534e4233b8e0edacd64c9fcde",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SHIBDAO-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x122b47683c7809a818b95ee9ff0da8e003f4e310",
+	"Protocol": "1e7cd03e-0bd2-45be-b088-318f122f9a57",
+	"Outputs": [
+		{
+			"Address": "0x122b47683c7809a818b95ee9ff0da8e003f4e310",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x351caa9045d65107b9d311d922d15887cfd634e4",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ARW-USDT (0.05%)",
+	"Chain": "ethereum"
+}

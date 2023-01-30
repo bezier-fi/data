@@ -1,0 +1,10 @@
+{
+	"Id": "0x04c66d274494717d3b8145e1faebd8475873ad99",
+	"Symbol": "FREEDOM-WETH",
+	"UnderlyingTokens": [
+		"0x39da2fb324b89f0fba6b77072c003d8b405ae517",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2f63d8ce-ff09-4fd1-a1a1-93a22a50342a",
+	"Chain": "ethereum"
+}

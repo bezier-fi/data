@@ -1,0 +1,10 @@
+{
+	"Id": "0xa953a41aa89865a2f8e51478593ffefd29a3be23",
+	"Symbol": "WETH-adidas",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc8ec3f04b1014e641da40020fdd30cd3f4cb63e8"
+	],
+	"Protocol": "2f63d8ce-ff09-4fd1-a1a1-93a22a50342a",
+	"Chain": "ethereum"
+}

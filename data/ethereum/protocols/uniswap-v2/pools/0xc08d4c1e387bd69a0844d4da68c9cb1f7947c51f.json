@@ -1,0 +1,27 @@
+{
+	"Id": "0xc08d4c1e387bd69a0844d4da68c9cb1f7947c51f",
+	"Protocol": "2f63d8ce-ff09-4fd1-a1a1-93a22a50342a",
+	"Outputs": [
+		{
+			"Address": "0xc08d4c1e387bd69a0844d4da68c9cb1f7947c51f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x868d65c05e74325f55a9b3cf6b6c474809a1dfb0",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TOKU-WETH",
+	"Chain": "ethereum"
+}

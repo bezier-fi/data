@@ -1,0 +1,10 @@
+{
+	"Id": "0xcfa7c564dc7766901bd67aabb99ca6f6c454a91f",
+	"Symbol": "VU3-WETH",
+	"UnderlyingTokens": [
+		"0xb499303c3e32c53d1d33d610fced269a8ed04b27",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2f63d8ce-ff09-4fd1-a1a1-93a22a50342a",
+	"Chain": "ethereum"
+}

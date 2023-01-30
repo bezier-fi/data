@@ -1,0 +1,10 @@
+{
+	"Id": "0xe5ad1b5bb09c71aa904f42c323b86226b2c6cc69",
+	"Symbol": "PONZI-WETH",
+	"UnderlyingTokens": [
+		"0x071c1272ecf0d061b9181861eaea7e6dae14a9c8",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2f63d8ce-ff09-4fd1-a1a1-93a22a50342a",
+	"Chain": "ethereum"
+}

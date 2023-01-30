@@ -1,0 +1,10 @@
+{
+	"Id": "0xd261df475e408e1e371444db0a6ed41874e79300",
+	"Symbol": "SHIBU-WETH",
+	"UnderlyingTokens": [
+		"0x2392ebd068465c74768f5e0e691c2423e8ac17f3",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2f63d8ce-ff09-4fd1-a1a1-93a22a50342a",
+	"Chain": "ethereum"
+}

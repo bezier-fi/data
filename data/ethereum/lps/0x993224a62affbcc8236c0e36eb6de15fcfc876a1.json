@@ -1,0 +1,10 @@
+{
+	"Id": "0x993224a62affbcc8236c0e36eb6de15fcfc876a1",
+	"Symbol": "MADOG-WETH",
+	"UnderlyingTokens": [
+		"0xb603dfcbb1abe7b053ba3634d7e3192fbdbad56b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2f63d8ce-ff09-4fd1-a1a1-93a22a50342a",
+	"Chain": "ethereum"
+}

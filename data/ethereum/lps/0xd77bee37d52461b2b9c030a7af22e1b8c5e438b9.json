@@ -1,0 +1,10 @@
+{
+	"Id": "0xd77bee37d52461b2b9c030a7af22e1b8c5e438b9",
+	"Symbol": "WETH-SHINO",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe9287543684f440b2f29983a3472987bf7b0ed12"
+	],
+	"Protocol": "2f63d8ce-ff09-4fd1-a1a1-93a22a50342a",
+	"Chain": "ethereum"
+}

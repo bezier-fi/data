@@ -1,0 +1,10 @@
+{
+	"Id": "0x95035ad9a46c36cfc999680564b310d7b2f5a63e",
+	"Symbol": "ŌGAMA-WETH",
+	"UnderlyingTokens": [
+		"0x610b7c586242a1b4d3a09d7a225d5cd467d7dade",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2f63d8ce-ff09-4fd1-a1a1-93a22a50342a",
+	"Chain": "ethereum"
+}

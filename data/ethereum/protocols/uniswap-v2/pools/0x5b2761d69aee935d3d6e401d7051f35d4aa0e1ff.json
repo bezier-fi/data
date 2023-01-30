@@ -1,0 +1,27 @@
+{
+	"Id": "0x5b2761d69aee935d3d6e401d7051f35d4aa0e1ff",
+	"Protocol": "2f63d8ce-ff09-4fd1-a1a1-93a22a50342a",
+	"Outputs": [
+		{
+			"Address": "0x5b2761d69aee935d3d6e401d7051f35d4aa0e1ff",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0636938b5399422c28ac05ad740d308985b8ffef",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TSHIB-WETH",
+	"Chain": "ethereum"
+}

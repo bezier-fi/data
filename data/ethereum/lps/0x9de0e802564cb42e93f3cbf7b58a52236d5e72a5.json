@@ -1,0 +1,10 @@
+{
+	"Id": "0x9de0e802564cb42e93f3cbf7b58a52236d5e72a5",
+	"Symbol": "vidnAI-WETH",
+	"UnderlyingTokens": [
+		"0x117e2358684db8a96bd755beddadcb90aa94df6a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2f63d8ce-ff09-4fd1-a1a1-93a22a50342a",
+	"Chain": "ethereum"
+}

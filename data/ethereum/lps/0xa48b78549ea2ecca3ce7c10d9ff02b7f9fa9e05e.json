@@ -1,0 +1,10 @@
+{
+	"Id": "0xa48b78549ea2ecca3ce7c10d9ff02b7f9fa9e05e",
+	"Symbol": "AID-WETH",
+	"UnderlyingTokens": [
+		"0x45fe5ef164af3ad315b5bc767370ef60def5a339",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2f63d8ce-ff09-4fd1-a1a1-93a22a50342a",
+	"Chain": "ethereum"
+}

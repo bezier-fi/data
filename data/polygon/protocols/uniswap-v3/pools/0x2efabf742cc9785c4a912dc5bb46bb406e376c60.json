@@ -1,0 +1,27 @@
+{
+	"Id": "0x2efabf742cc9785c4a912dc5bb46bb406e376c60",
+	"Protocol": "ba4c41f0-4c5e-470d-a67c-16604bfe2299",
+	"Outputs": [
+		{
+			"Address": "0x2efabf742cc9785c4a912dc5bb46bb406e376c60",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x692ac1e363ae34b6b489148152b12e2785a3d8d6",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WMATIC-TRADE (0.05%)",
+	"Chain": "polygon"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xaddd24a001243e6d446ed8d088c82aeff84073a3",
+	"Symbol": "AGRS-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x738865301a9b7dd80dc3666dd48cf034ec42bdda",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ba4c41f0-4c5e-470d-a67c-16604bfe2299",
+	"Chain": "ethereum"
+}

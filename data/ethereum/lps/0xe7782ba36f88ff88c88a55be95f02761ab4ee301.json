@@ -1,0 +1,10 @@
+{
+	"Id": "0xe7782ba36f88ff88c88a55be95f02761ab4ee301",
+	"Symbol": "ACE-WETH (0.01%)",
+	"UnderlyingTokens": [
+		"0x68c08a00fce88ceecc4d2ed648150683853dfbf6",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ba4c41f0-4c5e-470d-a67c-16604bfe2299",
+	"Chain": "ethereum"
+}

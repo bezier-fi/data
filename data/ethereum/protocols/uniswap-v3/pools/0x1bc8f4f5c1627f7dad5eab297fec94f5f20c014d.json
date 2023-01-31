@@ -1,0 +1,27 @@
+{
+	"Id": "0x1bc8f4f5c1627f7dad5eab297fec94f5f20c014d",
+	"Protocol": "ba4c41f0-4c5e-470d-a67c-16604bfe2299",
+	"Outputs": [
+		{
+			"Address": "0x1bc8f4f5c1627f7dad5eab297fec94f5f20c014d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x431d5dff03120afa4bdf332c61a6e1766ef37bdb",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "JPYC-WETH (0.30%)",
+	"Chain": "ethereum"
+}

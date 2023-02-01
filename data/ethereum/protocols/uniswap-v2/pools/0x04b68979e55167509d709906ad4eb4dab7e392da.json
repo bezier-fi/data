@@ -1,0 +1,27 @@
+{
+	"Id": "0x04b68979e55167509d709906ad4eb4dab7e392da",
+	"Protocol": "1476a581-f92a-4649-bddd-1ee483fd3a2f",
+	"Outputs": [
+		{
+			"Address": "0x04b68979e55167509d709906ad4eb4dab7e392da",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8fe51ecf1f2b49881c94874b4382bf77446677b9",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MIKOTO-WETH",
+	"Chain": "ethereum"
+}

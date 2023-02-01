@@ -1,0 +1,10 @@
+{
+	"Id": "0xf844aa8ad5a8d0d98093a12de3ca63315775f01c",
+	"Symbol": "uP-WETH",
+	"UnderlyingTokens": [
+		"0x131bf51e864024df1982f2cd7b1c786e1a005152",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "1476a581-f92a-4649-bddd-1ee483fd3a2f",
+	"Chain": "ethereum"
+}

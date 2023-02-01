@@ -1,0 +1,10 @@
+{
+	"Id": "0x4f7b21c30477f50b5eb44c009b77cb534ba1097f",
+	"Symbol": "WETH-TRIUNE",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xee24f8b6638ad711105434fee7a2bed911846d2f"
+	],
+	"Protocol": "1476a581-f92a-4649-bddd-1ee483fd3a2f",
+	"Chain": "ethereum"
+}

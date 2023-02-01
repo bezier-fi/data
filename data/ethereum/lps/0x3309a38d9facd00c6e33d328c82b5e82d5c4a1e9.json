@@ -1,0 +1,10 @@
+{
+	"Id": "0x3309a38d9facd00c6e33d328c82b5e82d5c4a1e9",
+	"Symbol": "FTRINU-WETH",
+	"UnderlyingTokens": [
+		"0x74b57152b4795969c8fad4c84b054c930099ef82",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "1476a581-f92a-4649-bddd-1ee483fd3a2f",
+	"Chain": "ethereum"
+}

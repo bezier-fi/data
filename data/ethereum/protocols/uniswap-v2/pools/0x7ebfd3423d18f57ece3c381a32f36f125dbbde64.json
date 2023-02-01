@@ -1,0 +1,27 @@
+{
+	"Id": "0x7ebfd3423d18f57ece3c381a32f36f125dbbde64",
+	"Protocol": "1476a581-f92a-4649-bddd-1ee483fd3a2f",
+	"Outputs": [
+		{
+			"Address": "0x7ebfd3423d18f57ece3c381a32f36f125dbbde64",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xe78bff28d3c5195c752e734e95421bb4bd742f1d",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC-NineFi",
+	"Chain": "ethereum"
+}

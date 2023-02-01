@@ -1,0 +1,10 @@
+{
+	"Id": "0x78a40e4ea857447ade5283b7589b8b990fc84a42",
+	"Symbol": "WASHAI-WETH",
+	"UnderlyingTokens": [
+		"0xa2f71e412083e592209babe7fbe2e03ec9dcfb05",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "1476a581-f92a-4649-bddd-1ee483fd3a2f",
+	"Chain": "ethereum"
+}

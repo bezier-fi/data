@@ -1,0 +1,10 @@
+{
+	"Id": "0xdba1d3478293e75887047bf2b05c2323651ad323",
+	"Symbol": "NOOD-WETH",
+	"UnderlyingTokens": [
+		"0x4d9f4c34a7ede8c2997282da744326ff882cbb10",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "1476a581-f92a-4649-bddd-1ee483fd3a2f",
+	"Chain": "ethereum"
+}

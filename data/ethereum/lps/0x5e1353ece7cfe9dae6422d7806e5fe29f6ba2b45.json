@@ -1,0 +1,10 @@
+{
+	"Id": "0x5e1353ece7cfe9dae6422d7806e5fe29f6ba2b45",
+	"Symbol": "SHIMEKA-WETH",
+	"UnderlyingTokens": [
+		"0xa883a9dbdea417c8a05b2c9963792c2038e1d841",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "1476a581-f92a-4649-bddd-1ee483fd3a2f",
+	"Chain": "ethereum"
+}

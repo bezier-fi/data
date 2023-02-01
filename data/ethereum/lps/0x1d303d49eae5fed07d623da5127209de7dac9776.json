@@ -1,0 +1,10 @@
+{
+	"Id": "0x1d303d49eae5fed07d623da5127209de7dac9776",
+	"Symbol": "MINAM-WETH",
+	"UnderlyingTokens": [
+		"0x4847d0912f9502331857344730373a0f47f1efc1",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "1476a581-f92a-4649-bddd-1ee483fd3a2f",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x170530164cd642624e96bd705c623f855022eb50",
+	"Symbol": "URAFI-WETH",
+	"UnderlyingTokens": [
+		"0x2135e9588902bfbee1b721dd25af6e3f92369f85",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "1476a581-f92a-4649-bddd-1ee483fd3a2f",
+	"Chain": "ethereum"
+}

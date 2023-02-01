@@ -1,0 +1,27 @@
+{
+	"Id": "0x78a6d04d1b70aea8527000a4d79d4aea337b4ad2",
+	"Protocol": "1476a581-f92a-4649-bddd-1ee483fd3a2f",
+	"Outputs": [
+		{
+			"Address": "0x78a6d04d1b70aea8527000a4d79d4aea337b4ad2",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x33132493dbfa4072d4655fe3f8238cbb940fac4a",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ChimpifAI-WETH",
+	"Chain": "ethereum"
+}

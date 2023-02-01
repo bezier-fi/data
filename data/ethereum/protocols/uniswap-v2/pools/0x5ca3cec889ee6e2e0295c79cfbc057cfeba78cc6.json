@@ -1,0 +1,27 @@
+{
+	"Id": "0x5ca3cec889ee6e2e0295c79cfbc057cfeba78cc6",
+	"Protocol": "1476a581-f92a-4649-bddd-1ee483fd3a2f",
+	"Outputs": [
+		{
+			"Address": "0x5ca3cec889ee6e2e0295c79cfbc057cfeba78cc6",
+			"Apr": 137.6948,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x67675239fa58c84e75f947c14f566842dccb69ae",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PIXIA-WETH",
+	"Chain": "ethereum"
+}

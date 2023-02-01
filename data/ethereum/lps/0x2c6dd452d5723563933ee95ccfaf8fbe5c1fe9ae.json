@@ -1,0 +1,10 @@
+{
+	"Id": "0x2c6dd452d5723563933ee95ccfaf8fbe5c1fe9ae",
+	"Symbol": "WETH-BUNAI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc3158937c9e3dfa27267529b8ac429240e6fe9e7"
+	],
+	"Protocol": "1476a581-f92a-4649-bddd-1ee483fd3a2f",
+	"Chain": "ethereum"
+}

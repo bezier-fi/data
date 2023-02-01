@@ -1,0 +1,10 @@
+{
+	"Id": "0xaa062cfcd88a9917a4e84d05a19c0e9d96bc2c57",
+	"Symbol": "WETH-Hooman",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xda52f636c22348ea77be9fcae6dfcda26bd6e83e"
+	],
+	"Protocol": "1476a581-f92a-4649-bddd-1ee483fd3a2f",
+	"Chain": "ethereum"
+}

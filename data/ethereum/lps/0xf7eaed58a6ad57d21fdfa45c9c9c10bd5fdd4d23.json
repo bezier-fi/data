@@ -1,0 +1,10 @@
+{
+	"Id": "0xf7eaed58a6ad57d21fdfa45c9c9c10bd5fdd4d23",
+	"Symbol": "ASTRAI-WETH",
+	"UnderlyingTokens": [
+		"0x0a7c0e94abf1948c3c577527f9448fd344a848b0",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "1476a581-f92a-4649-bddd-1ee483fd3a2f",
+	"Chain": "ethereum"
+}

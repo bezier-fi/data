@@ -1,0 +1,10 @@
+{
+	"Id": "0x66fc51df846046c307573d0016892809664cd865",
+	"Symbol": "ALERT-WETH",
+	"UnderlyingTokens": [
+		"0xae377ed00df9b9663b253be93035ef1cfecbc1fb",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "1476a581-f92a-4649-bddd-1ee483fd3a2f",
+	"Chain": "ethereum"
+}

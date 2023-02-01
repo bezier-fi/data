@@ -1,0 +1,27 @@
+{
+	"Id": "0x8fb6351438d8d6c80c3a8ac68f63eb25cf0a5326",
+	"Protocol": "1476a581-f92a-4649-bddd-1ee483fd3a2f",
+	"Outputs": [
+		{
+			"Address": "0x8fb6351438d8d6c80c3a8ac68f63eb25cf0a5326",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb39af28d2dfd2d532425a463bad8490c5977acd1",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WIZX-WETH",
+	"Chain": "ethereum"
+}

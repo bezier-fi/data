@@ -1,0 +1,27 @@
+{
+	"Id": "0x5d569c5eb3bf9309330fc130a246be447df798ad",
+	"Protocol": "1476a581-f92a-4649-bddd-1ee483fd3a2f",
+	"Outputs": [
+		{
+			"Address": "0x5d569c5eb3bf9309330fc130a246be447df798ad",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x65a3a159f0a2fc7ef088d430f5712837897c4921",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "KYOKAI-WETH",
+	"Chain": "ethereum"
+}

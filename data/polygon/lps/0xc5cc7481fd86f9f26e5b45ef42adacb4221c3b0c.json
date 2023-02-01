@@ -1,0 +1,10 @@
+{
+	"Id": "0xc5cc7481fd86f9f26e5b45ef42adacb4221c3b0c",
+	"Symbol": "WETH-oETH (0.30%)",
+	"UnderlyingTokens": [
+		"0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+		"0xe4c2b5db9de5da0a17ed7ec7176602ad99e52624"
+	],
+	"Protocol": "17f0f442-2487-4119-a15b-6315b67d0f64",
+	"Chain": "polygon"
+}

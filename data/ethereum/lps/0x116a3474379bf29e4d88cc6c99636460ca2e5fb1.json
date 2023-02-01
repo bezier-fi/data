@@ -1,0 +1,10 @@
+{
+	"Id": "0x116a3474379bf29e4d88cc6c99636460ca2e5fb1",
+	"Symbol": "WETH-ATAI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xdbfd10f8c32f96470eeef40f2d1dcda5dfe497bc"
+	],
+	"Protocol": "1476a581-f92a-4649-bddd-1ee483fd3a2f",
+	"Chain": "ethereum"
+}

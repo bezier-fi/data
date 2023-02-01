@@ -1,0 +1,27 @@
+{
+	"Id": "0x7119dc3957f918ed29357e56231807cc0f0d5ec4",
+	"Protocol": "1476a581-f92a-4649-bddd-1ee483fd3a2f",
+	"Outputs": [
+		{
+			"Address": "0x7119dc3957f918ed29357e56231807cc0f0d5ec4",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9813037ee2218799597d83d4a5b6f3b6778218d9",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xfcc9b2ec6473f434aa472e437ad957b6435af993",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BONE-BONE0.5",
+	"Chain": "ethereum"
+}

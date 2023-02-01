@@ -1,0 +1,27 @@
+{
+	"Id": "0x78a40e4ea857447ade5283b7589b8b990fc84a42",
+	"Protocol": "1476a581-f92a-4649-bddd-1ee483fd3a2f",
+	"Outputs": [
+		{
+			"Address": "0x78a40e4ea857447ade5283b7589b8b990fc84a42",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa2f71e412083e592209babe7fbe2e03ec9dcfb05",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WASHAI-WETH",
+	"Chain": "ethereum"
+}

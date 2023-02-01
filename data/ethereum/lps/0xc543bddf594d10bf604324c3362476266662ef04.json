@@ -1,0 +1,10 @@
+{
+	"Id": "0xc543bddf594d10bf604324c3362476266662ef04",
+	"Symbol": "KLEEK-WETH",
+	"UnderlyingTokens": [
+		"0x8302acf7e53e7cd15fc64debde96c0ff9b0dc5eb",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "1476a581-f92a-4649-bddd-1ee483fd3a2f",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x2c6dd452d5723563933ee95ccfaf8fbe5c1fe9ae",
+	"Protocol": "1476a581-f92a-4649-bddd-1ee483fd3a2f",
+	"Outputs": [
+		{
+			"Address": "0x2c6dd452d5723563933ee95ccfaf8fbe5c1fe9ae",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc3158937c9e3dfa27267529b8ac429240e6fe9e7",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-BUNAI",
+	"Chain": "ethereum"
+}

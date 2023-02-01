@@ -1,0 +1,10 @@
+{
+	"Id": "0x859573406718f1c87d25bebb616355819d5eae10",
+	"Symbol": "CHINA-WETH",
+	"UnderlyingTokens": [
+		"0x3fae52f53435438e1499841d0cc89678c11742a8",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "1476a581-f92a-4649-bddd-1ee483fd3a2f",
+	"Chain": "ethereum"
+}

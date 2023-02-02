@@ -1,0 +1,10 @@
+{
+	"Id": "0xf58dc464359a19d0815a85a2730734fcbc1c37f6",
+	"Symbol": "shoe-WETH",
+	"UnderlyingTokens": [
+		"0x3893d14ae0ea4f54603a9c5f31f1e49816438f8f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "406ab153-7b9a-42e0-946c-ef8011cdd9f9",
+	"Chain": "ethereum"
+}

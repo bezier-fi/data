@@ -1,0 +1,10 @@
+{
+	"Id": "0xc71b7aea5e6255cee1811ff252b14887008f66cd",
+	"Symbol": "WETH-SMANIA",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe70053063d8bf139e9e4c8f96b913691a56fa80b"
+	],
+	"Protocol": "406ab153-7b9a-42e0-946c-ef8011cdd9f9",
+	"Chain": "ethereum"
+}

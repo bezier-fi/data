@@ -1,0 +1,27 @@
+{
+	"Id": "0xa2869809dd32f4f2023d3723d344d21654660ea3",
+	"Protocol": "406ab153-7b9a-42e0-946c-ef8011cdd9f9",
+	"Outputs": [
+		{
+			"Address": "0xa2869809dd32f4f2023d3723d344d21654660ea3",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x52360e7d45e601e2fd1a990a77c6afb5ff1e2b1d",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ARCHION-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xfdd93f79b69ea6906941851ab7d87dcfa41c7c5b",
+	"Symbol": "WETH-$SHIBAI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc29f75d720329a4fc064396508c1a447c2974df2"
+	],
+	"Protocol": "406ab153-7b9a-42e0-946c-ef8011cdd9f9",
+	"Chain": "ethereum"
+}

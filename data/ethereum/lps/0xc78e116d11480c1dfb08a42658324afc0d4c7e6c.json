@@ -1,0 +1,10 @@
+{
+	"Id": "0xc78e116d11480c1dfb08a42658324afc0d4c7e6c",
+	"Symbol": "SHIBANK-WETH",
+	"UnderlyingTokens": [
+		"0x78dfe9c30d5e96365facde2207c51e2644a302a9",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "406ab153-7b9a-42e0-946c-ef8011cdd9f9",
+	"Chain": "ethereum"
+}

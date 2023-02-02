@@ -1,0 +1,27 @@
+{
+	"Id": "0xe2c4c997771ede649bc1161d8091b69f8c14c0e1",
+	"Protocol": "406ab153-7b9a-42e0-946c-ef8011cdd9f9",
+	"Outputs": [
+		{
+			"Address": "0xe2c4c997771ede649bc1161d8091b69f8c14c0e1",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1f961bceaef8edf6fb2797c0293ffbde3e994614",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DINGO-WETH",
+	"Chain": "ethereum"
+}

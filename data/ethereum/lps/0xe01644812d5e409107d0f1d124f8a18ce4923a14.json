@@ -1,0 +1,10 @@
+{
+	"Id": "0xe01644812d5e409107d0f1d124f8a18ce4923a14",
+	"Symbol": "KORI-WETH",
+	"UnderlyingTokens": [
+		"0x773f9bb83686dffb81db92edc7e6817681465465",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "406ab153-7b9a-42e0-946c-ef8011cdd9f9",
+	"Chain": "ethereum"
+}

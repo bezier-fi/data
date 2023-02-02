@@ -1,0 +1,10 @@
+{
+	"Id": "0xa2869809dd32f4f2023d3723d344d21654660ea3",
+	"Symbol": "ARCHION-WETH",
+	"UnderlyingTokens": [
+		"0x52360e7d45e601e2fd1a990a77c6afb5ff1e2b1d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "406ab153-7b9a-42e0-946c-ef8011cdd9f9",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0xf58dc464359a19d0815a85a2730734fcbc1c37f6",
+	"Protocol": "406ab153-7b9a-42e0-946c-ef8011cdd9f9",
+	"Outputs": [
+		{
+			"Address": "0xf58dc464359a19d0815a85a2730734fcbc1c37f6",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3893d14ae0ea4f54603a9c5f31f1e49816438f8f",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "shoe-WETH",
+	"Chain": "ethereum"
+}

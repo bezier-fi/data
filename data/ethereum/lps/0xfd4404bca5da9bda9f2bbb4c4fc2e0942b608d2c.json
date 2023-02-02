@@ -1,0 +1,10 @@
+{
+	"Id": "0xfd4404bca5da9bda9f2bbb4c4fc2e0942b608d2c",
+	"Symbol": "DekaBank-WETH",
+	"UnderlyingTokens": [
+		"0x9e6c4afc299a49d50f1848a809d517cc35ebf962",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "406ab153-7b9a-42e0-946c-ef8011cdd9f9",
+	"Chain": "ethereum"
+}

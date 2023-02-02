@@ -1,0 +1,10 @@
+{
+	"Id": "0x49ae90272ef036aa0db03aa6d4348081679a1281",
+	"Symbol": "WETH-MATEAI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf70d6f2d6efcfdfa6ff3f2e92168b822cb620f56"
+	],
+	"Protocol": "406ab153-7b9a-42e0-946c-ef8011cdd9f9",
+	"Chain": "ethereum"
+}

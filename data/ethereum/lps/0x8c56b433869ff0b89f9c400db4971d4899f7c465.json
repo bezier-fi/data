@@ -1,0 +1,10 @@
+{
+	"Id": "0x8c56b433869ff0b89f9c400db4971d4899f7c465",
+	"Symbol": "SBET-WETH",
+	"UnderlyingTokens": [
+		"0x14c256e65300026b76247e45554bb645c2c294ff",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "406ab153-7b9a-42e0-946c-ef8011cdd9f9",
+	"Chain": "ethereum"
+}

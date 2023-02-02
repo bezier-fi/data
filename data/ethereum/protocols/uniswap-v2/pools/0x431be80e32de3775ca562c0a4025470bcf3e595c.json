@@ -1,0 +1,27 @@
+{
+	"Id": "0x431be80e32de3775ca562c0a4025470bcf3e595c",
+	"Protocol": "406ab153-7b9a-42e0-946c-ef8011cdd9f9",
+	"Outputs": [
+		{
+			"Address": "0x431be80e32de3775ca562c0a4025470bcf3e595c",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9866b8a01eb90a6535f127facd8dbd4d7a9f6c21",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Kabosu-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x87069e574727bb76e0eb15e24b1d71d8a843872f",
+	"Symbol": "HIRO-WETH",
+	"UnderlyingTokens": [
+		"0x823ba5550edf470fdd48cc1c0c198c6b5e7ea3e0",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "406ab153-7b9a-42e0-946c-ef8011cdd9f9",
+	"Chain": "ethereum"
+}

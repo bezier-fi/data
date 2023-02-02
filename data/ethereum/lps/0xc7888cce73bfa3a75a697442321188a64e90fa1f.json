@@ -1,0 +1,10 @@
+{
+	"Id": "0xc7888cce73bfa3a75a697442321188a64e90fa1f",
+	"Symbol": "wCANTO-WETH",
+	"UnderlyingTokens": [
+		"0xa3a2bb0724bf6e96e5d085d81fb26bd588bc7a54",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "406ab153-7b9a-42e0-946c-ef8011cdd9f9",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xe9d87facd985397b4e9f9d4bf3acd4524e5e8609",
+	"Symbol": "AEONIC-WETH",
+	"UnderlyingTokens": [
+		"0x636ec1802adcac1301d182316d1d3adc2ed6adee",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "406ab153-7b9a-42e0-946c-ef8011cdd9f9",
+	"Chain": "ethereum"
+}

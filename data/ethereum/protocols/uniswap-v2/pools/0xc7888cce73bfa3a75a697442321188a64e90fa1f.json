@@ -1,0 +1,27 @@
+{
+	"Id": "0xc7888cce73bfa3a75a697442321188a64e90fa1f",
+	"Protocol": "406ab153-7b9a-42e0-946c-ef8011cdd9f9",
+	"Outputs": [
+		{
+			"Address": "0xc7888cce73bfa3a75a697442321188a64e90fa1f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa3a2bb0724bf6e96e5d085d81fb26bd588bc7a54",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "wCANTO-WETH",
+	"Chain": "ethereum"
+}

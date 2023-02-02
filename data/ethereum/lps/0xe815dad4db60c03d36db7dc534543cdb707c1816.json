@@ -1,0 +1,10 @@
+{
+	"Id": "0xe815dad4db60c03d36db7dc534543cdb707c1816",
+	"Symbol": "DBET-WETH",
+	"UnderlyingTokens": [
+		"0xa9457319fe0d2f8e92ebf075faf3a40502b9f92a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "406ab153-7b9a-42e0-946c-ef8011cdd9f9",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xc4e8d27f03534dde20fd2676ef41baa5e3d384a9",
+	"Symbol": "SNIFF-WETH",
+	"UnderlyingTokens": [
+		"0x13a77c1265ea380de0c8992e2dc29a03d6c1278c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "406ab153-7b9a-42e0-946c-ef8011cdd9f9",
+	"Chain": "ethereum"
+}

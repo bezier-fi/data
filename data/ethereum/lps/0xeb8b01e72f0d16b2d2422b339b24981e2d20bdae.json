@@ -1,0 +1,10 @@
+{
+	"Id": "0xeb8b01e72f0d16b2d2422b339b24981e2d20bdae",
+	"Symbol": "WETH-AISMART",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xda17f5d9e61998ea72edecb9f3f2c33f097446de"
+	],
+	"Protocol": "406ab153-7b9a-42e0-946c-ef8011cdd9f9",
+	"Chain": "ethereum"
+}

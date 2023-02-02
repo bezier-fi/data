@@ -1,0 +1,10 @@
+{
+	"Id": "0x50a16b8e8d55102dc2c590a959dabe8c5cd7ba24",
+	"Symbol": "BACK-WETH",
+	"UnderlyingTokens": [
+		"0x4af1d8f28e87a12674e416e1f6e23c7a91ee3362",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "406ab153-7b9a-42e0-946c-ef8011cdd9f9",
+	"Chain": "ethereum"
+}

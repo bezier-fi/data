@@ -1,0 +1,27 @@
+{
+	"Id": "0xfd4404bca5da9bda9f2bbb4c4fc2e0942b608d2c",
+	"Protocol": "406ab153-7b9a-42e0-946c-ef8011cdd9f9",
+	"Outputs": [
+		{
+			"Address": "0xfd4404bca5da9bda9f2bbb4c4fc2e0942b608d2c",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9e6c4afc299a49d50f1848a809d517cc35ebf962",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DekaBank-WETH",
+	"Chain": "ethereum"
+}

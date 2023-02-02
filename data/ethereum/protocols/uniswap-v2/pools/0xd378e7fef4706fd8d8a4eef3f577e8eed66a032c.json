@@ -1,0 +1,27 @@
+{
+	"Id": "0xd378e7fef4706fd8d8a4eef3f577e8eed66a032c",
+	"Protocol": "406ab153-7b9a-42e0-946c-ef8011cdd9f9",
+	"Outputs": [
+		{
+			"Address": "0xd378e7fef4706fd8d8a4eef3f577e8eed66a032c",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x37c2e217099f155361e2ddc59d0cb2d91e796a01",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SHIBRIDGE-WETH",
+	"Chain": "ethereum"
+}

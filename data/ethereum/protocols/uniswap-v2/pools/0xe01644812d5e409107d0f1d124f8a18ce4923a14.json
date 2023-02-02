@@ -1,0 +1,27 @@
+{
+	"Id": "0xe01644812d5e409107d0f1d124f8a18ce4923a14",
+	"Protocol": "406ab153-7b9a-42e0-946c-ef8011cdd9f9",
+	"Outputs": [
+		{
+			"Address": "0xe01644812d5e409107d0f1d124f8a18ce4923a14",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x773f9bb83686dffb81db92edc7e6817681465465",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "KORI-WETH",
+	"Chain": "ethereum"
+}

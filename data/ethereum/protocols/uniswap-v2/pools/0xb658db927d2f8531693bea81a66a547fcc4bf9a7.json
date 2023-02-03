@@ -1,0 +1,27 @@
+{
+	"Id": "0xb658db927d2f8531693bea81a66a547fcc4bf9a7",
+	"Protocol": "7988ef74-9e7b-44ae-b89e-30f80752d7f8",
+	"Outputs": [
+		{
+			"Address": "0xb658db927d2f8531693bea81a66a547fcc4bf9a7",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1c3c9dc22ed702e7a2aefbf824ec4192f24c7528",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Obelisk-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x05946af9da74499c8a0a2788402e7eea789bbe9d",
+	"Protocol": "7988ef74-9e7b-44ae-b89e-30f80752d7f8",
+	"Outputs": [
+		{
+			"Address": "0x05946af9da74499c8a0a2788402e7eea789bbe9d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8b937af714ac7e2129bd33d93641f52b665ca352",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "JIZZ-WETH",
+	"Chain": "ethereum"
+}

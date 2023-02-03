@@ -1,0 +1,10 @@
+{
+	"Id": "0xdcb4f74bd28ff20981d9e90be3a7dc1e43ad0c6e",
+	"Symbol": "WETH-DrAI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe663c196e7c21bf0485f592e1717dd42ad36f4b9"
+	],
+	"Protocol": "7988ef74-9e7b-44ae-b89e-30f80752d7f8",
+	"Chain": "ethereum"
+}

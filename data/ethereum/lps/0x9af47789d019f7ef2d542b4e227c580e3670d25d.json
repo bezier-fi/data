@@ -1,0 +1,10 @@
+{
+	"Id": "0x9af47789d019f7ef2d542b4e227c580e3670d25d",
+	"Symbol": "MOO-WETH",
+	"UnderlyingTokens": [
+		"0x605ee0c6b708859a4e879b7c7febc752bbd06e32",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7988ef74-9e7b-44ae-b89e-30f80752d7f8",
+	"Chain": "ethereum"
+}

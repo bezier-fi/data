@@ -1,0 +1,27 @@
+{
+	"Id": "0x543751d140d472d40da480634c1db9f49fce5ed0",
+	"Protocol": "7988ef74-9e7b-44ae-b89e-30f80752d7f8",
+	"Outputs": [
+		{
+			"Address": "0x543751d140d472d40da480634c1db9f49fce5ed0",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x68f4237489d1174fb49bc014e2ef9129e94437fb",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "KESTRIX-WETH",
+	"Chain": "ethereum"
+}

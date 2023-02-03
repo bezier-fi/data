@@ -1,0 +1,10 @@
+{
+	"Id": "0x8aeea93e93cb8e633ccbeaefe50bd9bf718944bb",
+	"Symbol": "ANSHI-WETH",
+	"UnderlyingTokens": [
+		"0xac35035649f9fb372ff13c3ec0e2afadc35936bd",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7988ef74-9e7b-44ae-b89e-30f80752d7f8",
+	"Chain": "ethereum"
+}

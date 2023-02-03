@@ -1,0 +1,10 @@
+{
+	"Id": "0x7b90d1df75c5e407542d81a973806fbe9765e77a",
+	"Symbol": "AIV-WETH",
+	"UnderlyingTokens": [
+		"0x22165bad67cb3145e58d2eb0dc6db8b9d1e877e7",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7988ef74-9e7b-44ae-b89e-30f80752d7f8",
+	"Chain": "ethereum"
+}

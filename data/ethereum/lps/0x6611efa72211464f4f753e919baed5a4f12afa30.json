@@ -1,0 +1,10 @@
+{
+	"Id": "0x6611efa72211464f4f753e919baed5a4f12afa30",
+	"Symbol": "ALON-WETH",
+	"UnderlyingTokens": [
+		"0x2f1f661469ce858e0d224162f84b1e08d4162ea1",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7988ef74-9e7b-44ae-b89e-30f80752d7f8",
+	"Chain": "ethereum"
+}

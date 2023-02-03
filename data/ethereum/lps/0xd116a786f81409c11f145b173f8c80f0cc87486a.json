@@ -1,0 +1,10 @@
+{
+	"Id": "0xd116a786f81409c11f145b173f8c80f0cc87486a",
+	"Symbol": "COM-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x5a9780bfe63f3ec57f01b087cd65bd656c9034a8",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2289ec25-f3d9-499e-a2cb-5ae772b81db9",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xd60ce20d6b3d4364546f951e990a257c74a86788",
+	"Symbol": "STORM-WETH",
+	"UnderlyingTokens": [
+		"0x8925ace19e83598d968ab37f5ece65638ebd05fb",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7988ef74-9e7b-44ae-b89e-30f80752d7f8",
+	"Chain": "ethereum"
+}

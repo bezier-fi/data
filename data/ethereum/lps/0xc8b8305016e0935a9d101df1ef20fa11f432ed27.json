@@ -1,0 +1,10 @@
+{
+	"Id": "0xc8b8305016e0935a9d101df1ef20fa11f432ed27",
+	"Symbol": "ELAI-WETH",
+	"UnderlyingTokens": [
+		"0x29b7b737b51821aa31ace8df2894064c79b20a3a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7988ef74-9e7b-44ae-b89e-30f80752d7f8",
+	"Chain": "ethereum"
+}

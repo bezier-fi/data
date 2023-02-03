@@ -1,0 +1,27 @@
+{
+	"Id": "0xed5b90d873965fccf063fb0d1b86dc1880306ce4",
+	"Protocol": "2289ec25-f3d9-499e-a2cb-5ae772b81db9",
+	"Outputs": [
+		{
+			"Address": "0xed5b90d873965fccf063fb0d1b86dc1880306ce4",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xff2382bd52efacef02cc895bcbfc4618608aa56f",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDT-ORARE (1.00%)",
+	"Chain": "polygon"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x021ab4a498448d2612dfb4b93b9e4ed19729df54",
+	"Symbol": "WETH-HOP (0.30%)",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc"
+	],
+	"Protocol": "2289ec25-f3d9-499e-a2cb-5ae772b81db9",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xec4faf7199f2eff05c743e82194410e4f2c14b52",
+	"Symbol": "ChecksAI-WETH",
+	"UnderlyingTokens": [
+		"0x30a37bc0981482361490ef14cb413631d6c7f4ba",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7988ef74-9e7b-44ae-b89e-30f80752d7f8",
+	"Chain": "ethereum"
+}

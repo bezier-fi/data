@@ -1,0 +1,10 @@
+{
+	"Id": "0xfcf3a2769c3840c1591391f26c5d10e4eea81035",
+	"Symbol": "TIME-USDC",
+	"UnderlyingTokens": [
+		"0x200c1246fca7ab357a2ed1e3d6f0bd83f85485d1",
+		"0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+	],
+	"Protocol": "7988ef74-9e7b-44ae-b89e-30f80752d7f8",
+	"Chain": "ethereum"
+}

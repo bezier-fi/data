@@ -1,0 +1,10 @@
+{
+	"Id": "0xa6237656d15a7f15348c7fd9a0e11551c516e378",
+	"Symbol": "IM-WETH",
+	"UnderlyingTokens": [
+		"0x0a58153a0cd1cfaea94ce1f7fdc5d7e679eca936",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7988ef74-9e7b-44ae-b89e-30f80752d7f8",
+	"Chain": "ethereum"
+}

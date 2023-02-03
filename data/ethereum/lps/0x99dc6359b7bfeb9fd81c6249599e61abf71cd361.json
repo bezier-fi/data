@@ -1,0 +1,10 @@
+{
+	"Id": "0x99dc6359b7bfeb9fd81c6249599e61abf71cd361",
+	"Symbol": "VISA-WETH",
+	"UnderlyingTokens": [
+		"0xa182845571c1d021f09d31e35ffcd55738117a1c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7988ef74-9e7b-44ae-b89e-30f80752d7f8",
+	"Chain": "ethereum"
+}

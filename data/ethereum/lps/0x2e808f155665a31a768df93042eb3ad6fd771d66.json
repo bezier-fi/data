@@ -1,0 +1,10 @@
+{
+	"Id": "0x2e808f155665a31a768df93042eb3ad6fd771d66",
+	"Symbol": "$She-WETH",
+	"UnderlyingTokens": [
+		"0x66ae01abaca5a85c99dad47ce0ab6f5452979b0e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cb3e3bba-91e0-4a9e-8d5e-ad250eb8d85b",
+	"Chain": "ethereum"
+}

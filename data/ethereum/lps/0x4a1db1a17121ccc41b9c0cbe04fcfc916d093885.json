@@ -1,0 +1,10 @@
+{
+	"Id": "0x4a1db1a17121ccc41b9c0cbe04fcfc916d093885",
+	"Symbol": "WETH-CREAM",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf7ae8897ff00e5be7fba85f5c064b6399abb0ea8"
+	],
+	"Protocol": "cb3e3bba-91e0-4a9e-8d5e-ad250eb8d85b",
+	"Chain": "ethereum"
+}

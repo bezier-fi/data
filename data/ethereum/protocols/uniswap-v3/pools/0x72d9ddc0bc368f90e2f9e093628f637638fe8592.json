@@ -1,0 +1,27 @@
+{
+	"Id": "0x72d9ddc0bc368f90e2f9e093628f637638fe8592",
+	"Protocol": "9dc11c00-4481-4a9f-b124-267e18cd5ee7",
+	"Outputs": [
+		{
+			"Address": "0x72d9ddc0bc368f90e2f9e093628f637638fe8592",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7d0f4ddb2ce96ac1f57b382e0c92baa7f5dc00a0",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "$CARD-WETH (1.00%)",
+	"Chain": "ethereum"
+}

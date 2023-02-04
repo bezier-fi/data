@@ -1,0 +1,10 @@
+{
+	"Id": "0x91a01ad414b458c5e36498a5841ae3ae706d745a",
+	"Symbol": "TAC-WETH",
+	"UnderlyingTokens": [
+		"0xa8f1cf0038443c71da2f6129691af583b66fb1ea",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cb3e3bba-91e0-4a9e-8d5e-ad250eb8d85b",
+	"Chain": "ethereum"
+}

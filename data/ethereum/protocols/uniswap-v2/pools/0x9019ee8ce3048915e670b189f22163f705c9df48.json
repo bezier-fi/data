@@ -1,0 +1,27 @@
+{
+	"Id": "0x9019ee8ce3048915e670b189f22163f705c9df48",
+	"Protocol": "cb3e3bba-91e0-4a9e-8d5e-ad250eb8d85b",
+	"Outputs": [
+		{
+			"Address": "0x9019ee8ce3048915e670b189f22163f705c9df48",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa4c7959a35a1534cbcc7b008a1377ac8f7736b8b",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CREAI-WETH",
+	"Chain": "ethereum"
+}

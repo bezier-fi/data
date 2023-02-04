@@ -1,0 +1,10 @@
+{
+	"Id": "0xf0b54150fbfc17e786d20b8511866b1cc635b411",
+	"Symbol": "Shibaism-WETH",
+	"UnderlyingTokens": [
+		"0x63f30928ad4d571d490b84bb41543bb14d6f26d5",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cb3e3bba-91e0-4a9e-8d5e-ad250eb8d85b",
+	"Chain": "ethereum"
+}

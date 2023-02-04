@@ -1,0 +1,23 @@
+{
+	"Id": "farm-0x88171e75786fc747e12ce9bd36a9f9747c20f4d0",
+	"Protocol": "b38bd120-c92c-426a-b36b-49f66af6175b",
+	"Outputs": [
+		{
+			"Address": "0x88171e75786fc747e12ce9bd36a9f9747c20f4d0",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x88171e75786fc747e12ce9bd36a9f9747c20f4d0",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GMD-WETH.e",
+	"Chain": "avalanche"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0xada6e2e17ba8474ad5ba78d1b1a9c3065c9b6a16",
+	"Protocol": "cb3e3bba-91e0-4a9e-8d5e-ad250eb8d85b",
+	"Outputs": [
+		{
+			"Address": "0xada6e2e17ba8474ad5ba78d1b1a9c3065c9b6a16",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x13ce819cf71499eb2637572e12f1e9d1362a250e",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BALLOON-WETH",
+	"Chain": "ethereum"
+}

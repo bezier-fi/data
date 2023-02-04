@@ -1,17 +1,5 @@
 [
 	{
-		"Id": "0x1F8f7a1d38e41eAf0Ed916dEf29bDD13f2a3f11A",
-		"Symbol": "BTC MAI Vault"
-	},
-	{
-		"Id": "0x0f680790d022BcDf317BF3E97190AcA33A0621b2-0xb0D2EB3C2cA3c6916FAb8DCbf9d9c165649231AE",
-		"Symbol": "miMATIC-av3CRV Qi"
-	},
-	{
-		"Id": "0x73A755378788A4542A780002a75A7bae7f558730",
-		"Symbol": "AVAX MAI Vault"
-	},
-	{
 		"Id": "0xfA19c1d104F4AEfb8d5564f02B3AdCa1b515da58",
 		"Symbol": "Moo Aave AVAX MAI Vault"
 	},
@@ -22,5 +10,17 @@
 	{
 		"Id": "0xA9122dACF3Fccf1AAe6b8ddd1F75B6267e5cbbB8",
 		"Symbol": "ETH MAI Vault"
+	},
+	{
+		"Id": "0x1F8f7a1d38e41eAf0Ed916dEf29bDD13f2a3f11A",
+		"Symbol": "BTC MAI Vault"
+	},
+	{
+		"Id": "0x0f680790d022BcDf317BF3E97190AcA33A0621b2-0xb0D2EB3C2cA3c6916FAb8DCbf9d9c165649231AE",
+		"Symbol": "miMATIC-av3CRV Qi"
+	},
+	{
+		"Id": "0x73A755378788A4542A780002a75A7bae7f558730",
+		"Symbol": "AVAX MAI Vault"
 	}
 ]

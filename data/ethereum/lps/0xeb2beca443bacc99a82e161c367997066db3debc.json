@@ -1,0 +1,10 @@
+{
+	"Id": "0xeb2beca443bacc99a82e161c367997066db3debc",
+	"Symbol": "WETH-SHINTOSHI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xec13100295e228a13769a1b4f778054cc5b50423"
+	],
+	"Protocol": "cb3e3bba-91e0-4a9e-8d5e-ad250eb8d85b",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x722591331154eceef5fc1eb71187774763a923f2",
+	"Protocol": "9e368b86-fa59-4095-9d02-6a9453b3f9f7",
+	"Outputs": [
+		{
+			"Address": "0x722591331154eceef5fc1eb71187774763a923f2",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x692c44990e4f408ba0917f5c78a83160c1557237",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC-THALES (0.30%)",
+	"Chain": "polygon"
+}

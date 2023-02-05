@@ -1,0 +1,10 @@
+{
+	"Id": "0x317951fe3021017ec7cc8ac25e585c77dad1b842",
+	"Symbol": "APEAI-WETH",
+	"UnderlyingTokens": [
+		"0x7804135f025845d126c37b4268664719b206c8b4",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "0475b053-2382-4751-b10c-b8e29919d35e",
+	"Chain": "ethereum"
+}

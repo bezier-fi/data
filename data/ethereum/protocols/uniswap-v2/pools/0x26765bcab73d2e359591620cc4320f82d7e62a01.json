@@ -1,0 +1,27 @@
+{
+	"Id": "0x26765bcab73d2e359591620cc4320f82d7e62a01",
+	"Protocol": "0475b053-2382-4751-b10c-b8e29919d35e",
+	"Outputs": [
+		{
+			"Address": "0x26765bcab73d2e359591620cc4320f82d7e62a01",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x647b859ed3cde351904fe1da6f08bd6df937a688",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "HONAMI-WETH",
+	"Chain": "ethereum"
+}

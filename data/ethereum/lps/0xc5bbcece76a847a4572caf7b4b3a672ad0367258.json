@@ -1,0 +1,10 @@
+{
+	"Id": "0xc5bbcece76a847a4572caf7b4b3a672ad0367258",
+	"Symbol": "ShibAir-WETH",
+	"UnderlyingTokens": [
+		"0x0aea2f3094a621443764b7e0f5a2899730bfd7e2",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "0475b053-2382-4751-b10c-b8e29919d35e",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x698b2ee2b426824673202427af3aaa59bf0f06e2",
+	"Symbol": "pBOX-WETH",
+	"UnderlyingTokens": [
+		"0x256d0db20960c6831704786a4f50e90bd388275b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "0475b053-2382-4751-b10c-b8e29919d35e",
+	"Chain": "ethereum"
+}

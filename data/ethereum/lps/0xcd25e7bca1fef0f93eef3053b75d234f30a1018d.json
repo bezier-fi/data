@@ -1,0 +1,10 @@
+{
+	"Id": "0xcd25e7bca1fef0f93eef3053b75d234f30a1018d",
+	"Symbol": "WETH-DogAI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc4856f79153c381c2249e81adc5dae96a8779678"
+	],
+	"Protocol": "0475b053-2382-4751-b10c-b8e29919d35e",
+	"Chain": "ethereum"
+}

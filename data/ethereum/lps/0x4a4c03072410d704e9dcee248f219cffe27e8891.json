@@ -1,0 +1,10 @@
+{
+	"Id": "0x4a4c03072410d704e9dcee248f219cffe27e8891",
+	"Symbol": "SHIRO-WETH",
+	"UnderlyingTokens": [
+		"0xbce5ff32893dd16841b2ae8945ab4b192d77f2d1",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "0475b053-2382-4751-b10c-b8e29919d35e",
+	"Chain": "ethereum"
+}

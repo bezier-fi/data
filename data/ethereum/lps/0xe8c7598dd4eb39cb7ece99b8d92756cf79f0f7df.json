@@ -1,0 +1,10 @@
+{
+	"Id": "0xe8c7598dd4eb39cb7ece99b8d92756cf79f0f7df",
+	"Symbol": "$SHIBGIRL-WETH",
+	"UnderlyingTokens": [
+		"0x1ebc1e79635e559f6cc3a3768bd0b84cb20d0b64",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "0475b053-2382-4751-b10c-b8e29919d35e",
+	"Chain": "ethereum"
+}

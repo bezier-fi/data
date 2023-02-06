@@ -1,0 +1,10 @@
+{
+	"Id": "0x07a5f987ed4eca0702058f5d81233efe34358a92",
+	"Symbol": "WETH-NOOK",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc0cbc03ce398f617fb21f478d3cd7e5d619252e9"
+	],
+	"Protocol": "19aa7074-7f83-4cc4-98fb-c3cd411e3c81",
+	"Chain": "ethereum"
+}

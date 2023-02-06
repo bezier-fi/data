@@ -1,0 +1,10 @@
+{
+	"Id": "0xf133f6a1a0cc9930c71fa2f370488be454f75d4f",
+	"Symbol": "WETH-safuAI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe173d11bbb67d46979765f88d3d4449f37cefb5a"
+	],
+	"Protocol": "19aa7074-7f83-4cc4-98fb-c3cd411e3c81",
+	"Chain": "ethereum"
+}

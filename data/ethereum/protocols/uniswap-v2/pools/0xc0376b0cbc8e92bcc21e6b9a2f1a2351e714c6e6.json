@@ -1,0 +1,27 @@
+{
+	"Id": "0xc0376b0cbc8e92bcc21e6b9a2f1a2351e714c6e6",
+	"Protocol": "19aa7074-7f83-4cc4-98fb-c3cd411e3c81",
+	"Outputs": [
+		{
+			"Address": "0xc0376b0cbc8e92bcc21e6b9a2f1a2351e714c6e6",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc5fb36dd2fb59d3b98deff88425a3f425ee469ed",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xdfc5964141c018485b4d017634660f85aa667714",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TSUKA-ODIN",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x67abe43cad9ec5230b4e0f37623a91c7f542698b",
+	"Symbol": "XENG-WETH",
+	"UnderlyingTokens": [
+		"0x7a3943b79d8c6e41450964ca3221ccdd1854542e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "19aa7074-7f83-4cc4-98fb-c3cd411e3c81",
+	"Chain": "ethereum"
+}

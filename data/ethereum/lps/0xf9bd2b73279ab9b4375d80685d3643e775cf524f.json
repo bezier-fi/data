@@ -1,0 +1,10 @@
+{
+	"Id": "0xf9bd2b73279ab9b4375d80685d3643e775cf524f",
+	"Symbol": "NUDEAI-WETH",
+	"UnderlyingTokens": [
+		"0x02e4a7bde8d420bf9a1e2000eedda82df760afc9",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "19aa7074-7f83-4cc4-98fb-c3cd411e3c81",
+	"Chain": "ethereum"
+}

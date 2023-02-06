@@ -1,0 +1,10 @@
+{
+	"Id": "0x908a2b1096d06899e9266ccfe25b46bcac119bf4",
+	"Symbol": "ELONAI-WETH",
+	"UnderlyingTokens": [
+		"0x04d5a1fd75cb2624192541fc44e8c5d2f260abcd",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "19aa7074-7f83-4cc4-98fb-c3cd411e3c81",
+	"Chain": "ethereum"
+}

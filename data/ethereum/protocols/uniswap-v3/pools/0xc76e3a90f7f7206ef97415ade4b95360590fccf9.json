@@ -1,0 +1,27 @@
+{
+	"Id": "0xc76e3a90f7f7206ef97415ade4b95360590fccf9",
+	"Protocol": "5f934b50-c23a-40dd-aaf7-9241dfeaa2f4",
+	"Outputs": [
+		{
+			"Address": "0xc76e3a90f7f7206ef97415ade4b95360590fccf9",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5f98805a4e8be255a32880fdec7f6728c6568ba0",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x95b3497bbcccc46a8f45f5cf54b0878b39f8d96c",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "LUSD-UNIDX (1.00%)",
+	"Chain": "ethereum"
+}

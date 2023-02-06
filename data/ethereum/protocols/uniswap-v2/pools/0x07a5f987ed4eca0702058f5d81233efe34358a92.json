@@ -1,0 +1,27 @@
+{
+	"Id": "0x07a5f987ed4eca0702058f5d81233efe34358a92",
+	"Protocol": "19aa7074-7f83-4cc4-98fb-c3cd411e3c81",
+	"Outputs": [
+		{
+			"Address": "0x07a5f987ed4eca0702058f5d81233efe34358a92",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc0cbc03ce398f617fb21f478d3cd7e5d619252e9",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-NOOK",
+	"Chain": "ethereum"
+}

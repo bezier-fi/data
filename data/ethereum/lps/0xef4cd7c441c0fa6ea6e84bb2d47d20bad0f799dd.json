@@ -1,0 +1,10 @@
+{
+	"Id": "0xef4cd7c441c0fa6ea6e84bb2d47d20bad0f799dd",
+	"Symbol": "WETH-WOOFAI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe0cf1a193901870c118053649791acc88f15d563"
+	],
+	"Protocol": "19aa7074-7f83-4cc4-98fb-c3cd411e3c81",
+	"Chain": "ethereum"
+}

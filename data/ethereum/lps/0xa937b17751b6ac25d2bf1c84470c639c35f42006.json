@@ -1,0 +1,10 @@
+{
+	"Id": "0xa937b17751b6ac25d2bf1c84470c639c35f42006",
+	"Symbol": "TMAN-WETH",
+	"UnderlyingTokens": [
+		"0x1f3fcb380f9f6d706699639ef9bfa982acff6997",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "19aa7074-7f83-4cc4-98fb-c3cd411e3c81",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xea1ecf2047b8f99199c6bdc2a89d6bf301ac3e7f",
+	"Symbol": "ANTHROPIC-WETH",
+	"UnderlyingTokens": [
+		"0x7e4382f1ad8343ab2b499e1aaec314686776cba8",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "19aa7074-7f83-4cc4-98fb-c3cd411e3c81",
+	"Chain": "ethereum"
+}

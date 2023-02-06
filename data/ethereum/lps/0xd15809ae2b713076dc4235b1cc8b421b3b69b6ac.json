@@ -1,0 +1,10 @@
+{
+	"Id": "0xd15809ae2b713076dc4235b1cc8b421b3b69b6ac",
+	"Symbol": "WETH-METH (1.00%)",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xed5464bd5c477b7f71739ce1d741b43e932b97b0"
+	],
+	"Protocol": "5f934b50-c23a-40dd-aaf7-9241dfeaa2f4",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xf14e446e354a2b64733ed06f7b007f65224328dc",
+	"Symbol": "AKEMI-WETH",
+	"UnderlyingTokens": [
+		"0x477331b0fb37e7bdf34a91bafdd9c1c3a0c8f1db",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3fb8ccef-b6ba-4242-adf5-7d6c2a662ba0",
+	"Chain": "ethereum"
+}

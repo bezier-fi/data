@@ -1,0 +1,27 @@
+{
+	"Id": "0x255fffeb73870934a9fda5a51e63021cd3d2b99a",
+	"Protocol": "3fb8ccef-b6ba-4242-adf5-7d6c2a662ba0",
+	"Outputs": [
+		{
+			"Address": "0x255fffeb73870934a9fda5a51e63021cd3d2b99a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0de4bc41ac30f459c7cb18d08cd251abe436f388",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MLDY-WETH",
+	"Chain": "ethereum"
+}

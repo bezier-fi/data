@@ -1,0 +1,27 @@
+{
+	"Id": "0xf14e446e354a2b64733ed06f7b007f65224328dc",
+	"Protocol": "3fb8ccef-b6ba-4242-adf5-7d6c2a662ba0",
+	"Outputs": [
+		{
+			"Address": "0xf14e446e354a2b64733ed06f7b007f65224328dc",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x477331b0fb37e7bdf34a91bafdd9c1c3a0c8f1db",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "AKEMI-WETH",
+	"Chain": "ethereum"
+}

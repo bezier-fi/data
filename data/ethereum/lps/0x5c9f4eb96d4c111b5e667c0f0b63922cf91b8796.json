@@ -1,0 +1,10 @@
+{
+	"Id": "0x5c9f4eb96d4c111b5e667c0f0b63922cf91b8796",
+	"Symbol": "WOOFY-WETH",
+	"UnderlyingTokens": [
+		"0x560aeea867c1a5b225c908709b2c048f49e8f78f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3fb8ccef-b6ba-4242-adf5-7d6c2a662ba0",
+	"Chain": "ethereum"
+}

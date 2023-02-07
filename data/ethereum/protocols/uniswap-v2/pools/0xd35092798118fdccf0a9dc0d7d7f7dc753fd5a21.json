@@ -1,0 +1,27 @@
+{
+	"Id": "0xd35092798118fdccf0a9dc0d7d7f7dc753fd5a21",
+	"Protocol": "3fb8ccef-b6ba-4242-adf5-7d6c2a662ba0",
+	"Outputs": [
+		{
+			"Address": "0xd35092798118fdccf0a9dc0d7d7f7dc753fd5a21",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x17347451bf65a4e849df1fa45b02cf20d4750505",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PUSSHI-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xa16b2be097fa9d787848aa3eb287670000469bfe",
+	"Symbol": "HellSing-WETH",
+	"UnderlyingTokens": [
+		"0x3447c4acabffdc9dc7043f9400fcdfb4a8f5cf5c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3fb8ccef-b6ba-4242-adf5-7d6c2a662ba0",
+	"Chain": "ethereum"
+}

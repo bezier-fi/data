@@ -1,0 +1,27 @@
+{
+	"Id": "0xac21e533e167a87d1a58a45f73089d7f38c2e420",
+	"Protocol": "3fb8ccef-b6ba-4242-adf5-7d6c2a662ba0",
+	"Outputs": [
+		{
+			"Address": "0xac21e533e167a87d1a58a45f73089d7f38c2e420",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x37318c26ecbf4c6e0300e2f2be67d92cfbd491b3",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "STABLZ-WETH",
+	"Chain": "ethereum"
+}

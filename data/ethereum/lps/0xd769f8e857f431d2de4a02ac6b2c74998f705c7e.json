@@ -1,0 +1,10 @@
+{
+	"Id": "0xd769f8e857f431d2de4a02ac6b2c74998f705c7e",
+	"Symbol": "WETH-MDAI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf6043bea98b07f0bea7813aeb22d0cb70c91c0c4"
+	],
+	"Protocol": "3fb8ccef-b6ba-4242-adf5-7d6c2a662ba0",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xabad61cabc90766e47ac4815665b6992c4f5e913",
+	"Symbol": "WETH-DINOS",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe3d7a26ab9bb4c64dc0a76a18ff148746325b973"
+	],
+	"Protocol": "3fb8ccef-b6ba-4242-adf5-7d6c2a662ba0",
+	"Chain": "ethereum"
+}

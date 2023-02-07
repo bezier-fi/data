@@ -1,0 +1,10 @@
+{
+	"Id": "0x0f55dcba998b87bbc786acb30d210460afeaf4de",
+	"Symbol": "YVP-WETH",
+	"UnderlyingTokens": [
+		"0xb36ed40de26102473d6af7c145b6c1f41f3a1d31",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3fb8ccef-b6ba-4242-adf5-7d6c2a662ba0",
+	"Chain": "ethereum"
+}

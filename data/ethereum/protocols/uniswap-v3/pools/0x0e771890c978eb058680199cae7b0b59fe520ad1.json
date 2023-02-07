@@ -1,0 +1,27 @@
+{
+	"Id": "0x0e771890c978eb058680199cae7b0b59fe520ad1",
+	"Protocol": "e19deb05-4918-4826-82be-d297eb981321",
+	"Outputs": [
+		{
+			"Address": "0x0e771890c978eb058680199cae7b0b59fe520ad1",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x97e6e31afb2d93d437301e006d9da714616766a5",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MIDAS-USDC (0.30%)",
+	"Chain": "ethereum"
+}

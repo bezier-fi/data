@@ -1,0 +1,10 @@
+{
+	"Id": "0xd35092798118fdccf0a9dc0d7d7f7dc753fd5a21",
+	"Symbol": "PUSSHI-WETH",
+	"UnderlyingTokens": [
+		"0x17347451bf65a4e849df1fa45b02cf20d4750505",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3fb8ccef-b6ba-4242-adf5-7d6c2a662ba0",
+	"Chain": "ethereum"
+}

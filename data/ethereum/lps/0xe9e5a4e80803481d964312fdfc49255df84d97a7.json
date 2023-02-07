@@ -1,0 +1,10 @@
+{
+	"Id": "0xe9e5a4e80803481d964312fdfc49255df84d97a7",
+	"Symbol": "WETH-BARD",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe269206bf89e2c7aea1e751fd74425d7e3b560ca"
+	],
+	"Protocol": "3fb8ccef-b6ba-4242-adf5-7d6c2a662ba0",
+	"Chain": "ethereum"
+}

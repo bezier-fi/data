@@ -1,0 +1,27 @@
+{
+	"Id": "0x717a144f4dd27b31195aa461f0c03739784aa5b7",
+	"Protocol": "3fb8ccef-b6ba-4242-adf5-7d6c2a662ba0",
+	"Outputs": [
+		{
+			"Address": "0x717a144f4dd27b31195aa461f0c03739784aa5b7",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x665331d5e29531dc3fbbd3c3670d441ec50c8699",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MAPSAI-WETH",
+	"Chain": "ethereum"
+}

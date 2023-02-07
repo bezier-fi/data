@@ -1,0 +1,10 @@
+{
+	"Id": "0xbcc489a50f0e2f09aec2d6f33ffe950cb6c39295",
+	"Symbol": "WETH-PAW (1.00%)",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xdc63269ea166b70d4780b3a11f5c825c2b761b01"
+	],
+	"Protocol": "e19deb05-4918-4826-82be-d297eb981321",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x503e9b421844A86D7Fbe893bc2654Ae7602e5489",
+	"Protocol": "6f664ba3-61a5-407f-a4c6-9ad284e4aa0c",
+	"Outputs": [
+		{
+			"Address": "0x503e9b421844A86D7Fbe893bc2654Ae7602e5489",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x40A8d781009E2254fd25d35eA9a49890F856Aa98",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x81A6C55da7841Eaa49C3f056c9365fF5621f722E",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "pgpays-f",
+	"Chain": "polygon"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x0fc327b9792c5863e51198d35bca2dc8fd7f5fd0",
+	"Protocol": "3fb8ccef-b6ba-4242-adf5-7d6c2a662ba0",
+	"Outputs": [
+		{
+			"Address": "0x0fc327b9792c5863e51198d35bca2dc8fd7f5fd0",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4206931337dc273a630d328da6441786bfad668f",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xca9ece22a5cc714f938f7dc030d17ffd04e92dcd",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DOGE-DOGE0.5",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xf3ed7e8db2a59ad116cf132726aa3ad25e96fb0d",
+	"Symbol": "WETH-DYAI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xdcdf4341057de4b6cf5d6dbc9e722da1992a2fa5"
+	],
+	"Protocol": "3fb8ccef-b6ba-4242-adf5-7d6c2a662ba0",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xbc2f277bad23fa03c6483240570893a77320d3dc",
+	"Symbol": "MIRRAI-WETH",
+	"UnderlyingTokens": [
+		"0x70554b61a13570f16dabd800f44775f97076833c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3fb8ccef-b6ba-4242-adf5-7d6c2a662ba0",
+	"Chain": "ethereum"
+}

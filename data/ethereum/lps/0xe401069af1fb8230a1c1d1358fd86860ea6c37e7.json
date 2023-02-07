@@ -1,0 +1,10 @@
+{
+	"Id": "0xe401069af1fb8230a1c1d1358fd86860ea6c37e7",
+	"Symbol": "WETH-SIMPAI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd7ff7d93bcfcc4471e5a570780d4ccb0ac2d7b7b"
+	],
+	"Protocol": "3fb8ccef-b6ba-4242-adf5-7d6c2a662ba0",
+	"Chain": "ethereum"
+}

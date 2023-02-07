@@ -1,0 +1,27 @@
+{
+	"Id": "0xc4216a238b171b5d13cb031fb92152035e9fcaec",
+	"Protocol": "3fb8ccef-b6ba-4242-adf5-7d6c2a662ba0",
+	"Outputs": [
+		{
+			"Address": "0xc4216a238b171b5d13cb031fb92152035e9fcaec",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc2d8462da97becc2c24265283c2704c5d346249d",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-TURKEY",
+	"Chain": "ethereum"
+}

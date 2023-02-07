@@ -1,0 +1,27 @@
+{
+	"Id": "0x73d2947fc377e934d227cdb0b71debb4f91d9c71",
+	"Protocol": "3fb8ccef-b6ba-4242-adf5-7d6c2a662ba0",
+	"Outputs": [
+		{
+			"Address": "0x73d2947fc377e934d227cdb0b71debb4f91d9c71",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xe3cd9cd9be417bbee06311d0d2c90329f375acfc",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-TERQI",
+	"Chain": "ethereum"
+}

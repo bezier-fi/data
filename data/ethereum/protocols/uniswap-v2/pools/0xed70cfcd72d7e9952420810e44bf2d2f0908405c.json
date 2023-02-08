@@ -1,0 +1,27 @@
+{
+	"Id": "0xed70cfcd72d7e9952420810e44bf2d2f0908405c",
+	"Protocol": "d6b235af-fc9c-40c2-b491-1fc7b0f568f1",
+	"Outputs": [
+		{
+			"Address": "0xed70cfcd72d7e9952420810e44bf2d2f0908405c",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0503aa0d495127eac3669e23317a1210f1818301",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "RTFM-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x79b5d17555e4d95291e6765baa33a4198d9497e7",
+	"Symbol": "ROSAI-WETH",
+	"UnderlyingTokens": [
+		"0x95529879ccc4650aa505a58de1bb6cce88ce5911",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d6b235af-fc9c-40c2-b491-1fc7b0f568f1",
+	"Chain": "ethereum"
+}

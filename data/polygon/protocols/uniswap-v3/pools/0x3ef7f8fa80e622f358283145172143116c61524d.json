@@ -1,0 +1,27 @@
+{
+	"Id": "0x3ef7f8fa80e622f358283145172143116c61524d",
+	"Protocol": "06645458-4530-492e-a376-0f7142975c6e",
+	"Outputs": [
+		{
+			"Address": "0x3ef7f8fa80e622f358283145172143116c61524d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xec38621e72d86775a89c7422746de1f52bba5320",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC-DAVOS (0.01%)",
+	"Chain": "polygon"
+}

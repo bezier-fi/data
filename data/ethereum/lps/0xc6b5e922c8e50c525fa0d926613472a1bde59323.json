@@ -1,0 +1,10 @@
+{
+	"Id": "0xc6b5e922c8e50c525fa0d926613472a1bde59323",
+	"Symbol": "WETH-MORF",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf3aa9a7c15a242b412b0e182c606539c15e8c4f9"
+	],
+	"Protocol": "d6b235af-fc9c-40c2-b491-1fc7b0f568f1",
+	"Chain": "ethereum"
+}

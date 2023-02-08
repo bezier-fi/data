@@ -1,0 +1,10 @@
+{
+	"Id": "0x65717fe021ea67801d1088cc80099004b05b6460",
+	"Symbol": "OXAI-USDC",
+	"UnderlyingTokens": [
+		"0x428dca9537116148616a5a3e44035af17238fe9d",
+		"0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+	],
+	"Protocol": "d6b235af-fc9c-40c2-b491-1fc7b0f568f1",
+	"Chain": "ethereum"
+}

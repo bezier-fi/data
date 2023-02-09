@@ -1,0 +1,27 @@
+{
+	"Id": "0x42234b6d32d71ca2f63430458f830b70a3c073aa",
+	"Protocol": "112b7143-7e50-4d45-9d90-210b0e79b5a7",
+	"Outputs": [
+		{
+			"Address": "0x42234b6d32d71ca2f63430458f830b70a3c073aa",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3f5f10ed39d161981ca10a617105c7d6d059a5e1",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SFANS-WETH",
+	"Chain": "ethereum"
+}

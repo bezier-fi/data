@@ -1,0 +1,10 @@
+{
+	"Id": "0xe18a2ea2bf52ed8eaa63613e566ad8b4c4290993",
+	"Symbol": "ASS-WETH",
+	"UnderlyingTokens": [
+		"0x76dd4ecc786ab0a027ff9a7dff15eae484085b7b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "112b7143-7e50-4d45-9d90-210b0e79b5a7",
+	"Chain": "ethereum"
+}

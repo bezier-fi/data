@@ -1,0 +1,10 @@
+{
+	"Id": "0x6611fceb279fd5fdbe60b3465dab015fadb0494b",
+	"Symbol": "SEMPAi-WETH",
+	"UnderlyingTokens": [
+		"0x513a4816f66e0df6a3619d76513f6aadc95d536b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "112b7143-7e50-4d45-9d90-210b0e79b5a7",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0xd296b77f1cad3f0ec64ae00cdbfa749e24b1f9cb",
+	"Protocol": "5166c9e5-b48a-4e37-a926-2185b1f417db",
+	"Outputs": [
+		{
+			"Address": "0xd296b77f1cad3f0ec64ae00cdbfa749e24b1f9cb",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5a98fcbea516cf06857215779fd812ca3bef1b32",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "LDO-USDT (0.30%)",
+	"Chain": "ethereum"
+}

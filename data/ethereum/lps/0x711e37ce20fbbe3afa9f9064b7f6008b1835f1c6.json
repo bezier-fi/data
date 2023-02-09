@@ -1,0 +1,10 @@
+{
+	"Id": "0x711e37ce20fbbe3afa9f9064b7f6008b1835f1c6",
+	"Symbol": "POLL-WETH",
+	"UnderlyingTokens": [
+		"0x30b86d950310f0f14b33f9dfcd61ff5e75ad7d9b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "112b7143-7e50-4d45-9d90-210b0e79b5a7",
+	"Chain": "ethereum"
+}

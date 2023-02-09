@@ -1,0 +1,27 @@
+{
+	"Id": "0xbbf9f0f8e2f3a7e4513bb0715a2a6cb8c61dce34",
+	"Protocol": "112b7143-7e50-4d45-9d90-210b0e79b5a7",
+	"Outputs": [
+		{
+			"Address": "0xbbf9f0f8e2f3a7e4513bb0715a2a6cb8c61dce34",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x45cbdf200357539e08782472818e0b1e3c0d61a3",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SHI-USDC",
+	"Chain": "ethereum"
+}

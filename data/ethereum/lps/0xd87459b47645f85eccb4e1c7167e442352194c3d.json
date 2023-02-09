@@ -1,0 +1,10 @@
+{
+	"Id": "0xd87459b47645f85eccb4e1c7167e442352194c3d",
+	"Symbol": "WETH-WIGGLE",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe41a3af2cd2ea5878d41b24f631896e63fe5b660"
+	],
+	"Protocol": "112b7143-7e50-4d45-9d90-210b0e79b5a7",
+	"Chain": "ethereum"
+}

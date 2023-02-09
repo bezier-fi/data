@@ -1,0 +1,10 @@
+{
+	"Id": "0x19a7f0a71eb6f5a53c6ea1914d4372dafefbafb4",
+	"Symbol": "WETH-ANIMAI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd06d9a102f83b30b3b79acef3cfc714d2a54ddb1"
+	],
+	"Protocol": "112b7143-7e50-4d45-9d90-210b0e79b5a7",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x77d7acc4f313a338e3745a26ae4f357e6be91d34",
+	"Symbol": "BARK-WETH",
+	"UnderlyingTokens": [
+		"0x108ac984dc014c7d204fc0d4c90575400c870dfd",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "112b7143-7e50-4d45-9d90-210b0e79b5a7",
+	"Chain": "ethereum"
+}

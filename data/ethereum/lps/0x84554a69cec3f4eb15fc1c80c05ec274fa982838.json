@@ -1,0 +1,10 @@
+{
+	"Id": "0x84554a69cec3f4eb15fc1c80c05ec274fa982838",
+	"Symbol": "WETH-TWOPAW",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf7de6def3d319811418d69bf56c532a815fc47e8"
+	],
+	"Protocol": "112b7143-7e50-4d45-9d90-210b0e79b5a7",
+	"Chain": "ethereum"
+}

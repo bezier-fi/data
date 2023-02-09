@@ -1,0 +1,27 @@
+{
+	"Id": "0xdb88a83edddb228a854f502d85a79f94dad0bbf6",
+	"Protocol": "112b7143-7e50-4d45-9d90-210b0e79b5a7",
+	"Outputs": [
+		{
+			"Address": "0xdb88a83edddb228a854f502d85a79f94dad0bbf6",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x05cb9bfd7995b0ba426c938225a89bdc6b560fcb",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FLOKI0.5-FLOKI",
+	"Chain": "ethereum"
+}

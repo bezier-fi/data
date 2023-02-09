@@ -1,0 +1,10 @@
+{
+	"Id": "0xb99c279767781f1f0fda478e20c9a5ebfa78342a",
+	"Symbol": "SUKI-WETH",
+	"UnderlyingTokens": [
+		"0x432855687ac66039509e0bd3fcaf1dbdce0fbe7a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "112b7143-7e50-4d45-9d90-210b0e79b5a7",
+	"Chain": "ethereum"
+}

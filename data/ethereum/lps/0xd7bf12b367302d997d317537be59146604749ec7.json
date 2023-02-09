@@ -1,0 +1,10 @@
+{
+	"Id": "0xd7bf12b367302d997d317537be59146604749ec7",
+	"Symbol": "AIG-WETH",
+	"UnderlyingTokens": [
+		"0x6e9513330fe54ad5a793908dfe5676596394534a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "112b7143-7e50-4d45-9d90-210b0e79b5a7",
+	"Chain": "ethereum"
+}

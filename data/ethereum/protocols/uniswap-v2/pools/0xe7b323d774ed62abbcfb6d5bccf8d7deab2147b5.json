@@ -1,0 +1,27 @@
+{
+	"Id": "0xe7b323d774ed62abbcfb6d5bccf8d7deab2147b5",
+	"Protocol": "112b7143-7e50-4d45-9d90-210b0e79b5a7",
+	"Outputs": [
+		{
+			"Address": "0xe7b323d774ed62abbcfb6d5bccf8d7deab2147b5",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa0dc02508940944cc4599b1a1c90fc1deefe6d7a",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DORU-WETH",
+	"Chain": "ethereum"
+}

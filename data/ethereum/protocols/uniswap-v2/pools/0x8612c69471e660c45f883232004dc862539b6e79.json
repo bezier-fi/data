@@ -1,0 +1,27 @@
+{
+	"Id": "0x8612c69471e660c45f883232004dc862539b6e79",
+	"Protocol": "112b7143-7e50-4d45-9d90-210b0e79b5a7",
+	"Outputs": [
+		{
+			"Address": "0x8612c69471e660c45f883232004dc862539b6e79",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x72c828ca57a009e3b74b046d738305e063418c00",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BTF-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x77d7acc4f313a338e3745a26ae4f357e6be91d34",
+	"Protocol": "112b7143-7e50-4d45-9d90-210b0e79b5a7",
+	"Outputs": [
+		{
+			"Address": "0x77d7acc4f313a338e3745a26ae4f357e6be91d34",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x108ac984dc014c7d204fc0d4c90575400c870dfd",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BARK-WETH",
+	"Chain": "ethereum"
+}

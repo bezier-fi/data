@@ -1,0 +1,27 @@
+{
+	"Id": "0xd9bd75c8f659c6757149313f4124c7df85af228e",
+	"Protocol": "112b7143-7e50-4d45-9d90-210b0e79b5a7",
+	"Outputs": [
+		{
+			"Address": "0xd9bd75c8f659c6757149313f4124c7df85af228e",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x46d18d1bd8111d6f5f6a9606b510f9906d8f067d",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PIZZA-WETH",
+	"Chain": "ethereum"
+}

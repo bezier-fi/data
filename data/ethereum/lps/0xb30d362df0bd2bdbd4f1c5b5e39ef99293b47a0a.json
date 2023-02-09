@@ -1,0 +1,10 @@
+{
+	"Id": "0xb30d362df0bd2bdbd4f1c5b5e39ef99293b47a0a",
+	"Symbol": "CTAI-WETH",
+	"UnderlyingTokens": [
+		"0x64a7c4bb46713882fce0dae61547568eb358c5ea",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "112b7143-7e50-4d45-9d90-210b0e79b5a7",
+	"Chain": "ethereum"
+}

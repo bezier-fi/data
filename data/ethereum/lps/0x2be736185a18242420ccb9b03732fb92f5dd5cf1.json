@@ -1,0 +1,10 @@
+{
+	"Id": "0x2be736185a18242420ccb9b03732fb92f5dd5cf1",
+	"Symbol": "ScanAI-WETH",
+	"UnderlyingTokens": [
+		"0x385c517584ee3a648c6420fa3801d7b28b74a51b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "112b7143-7e50-4d45-9d90-210b0e79b5a7",
+	"Chain": "ethereum"
+}

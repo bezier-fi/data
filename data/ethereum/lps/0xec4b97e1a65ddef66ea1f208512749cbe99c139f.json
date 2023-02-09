@@ -1,0 +1,10 @@
+{
+	"Id": "0xec4b97e1a65ddef66ea1f208512749cbe99c139f",
+	"Symbol": "CHAi-WETH",
+	"UnderlyingTokens": [
+		"0x524065929732e23fde7ce82ec17a2b45dbc9e00a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "112b7143-7e50-4d45-9d90-210b0e79b5a7",
+	"Chain": "ethereum"
+}

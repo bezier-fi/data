@@ -1,0 +1,27 @@
+{
+	"Id": "0x1e70521cc021a08f00019632ac3b7127885acf77",
+	"Protocol": "112b7143-7e50-4d45-9d90-210b0e79b5a7",
+	"Outputs": [
+		{
+			"Address": "0x1e70521cc021a08f00019632ac3b7127885acf77",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc74b43cc61b627667a608c3f650c2558f88028a1",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-ASTRAL",
+	"Chain": "ethereum"
+}

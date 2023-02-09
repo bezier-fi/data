@@ -1,0 +1,10 @@
+{
+	"Id": "0xf29a2b454b5da64eeb9c57169ba2776f6955e748",
+	"Symbol": "HEX-WETH (0.05%)",
+	"UnderlyingTokens": [
+		"0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "5166c9e5-b48a-4e37-a926-2185b1f417db",
+	"Chain": "ethereum"
+}

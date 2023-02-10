@@ -1,0 +1,10 @@
+{
+	"Id": "0xf658fbd4316c600c440e46adbcaa2c8aa1bb80f0",
+	"Symbol": "AIC-WETH",
+	"UnderlyingTokens": [
+		"0x98c35ebba87f455fe75ea5dab82c3f74270277fd",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "a3d5aa72-46a0-4cfd-9d79-3d5374e4b8ed",
+	"Chain": "ethereum"
+}

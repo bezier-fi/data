@@ -1,0 +1,27 @@
+{
+	"Id": "0xabcf6b6ca11ab242a7d416e84da0403dd23a751a",
+	"Protocol": "a3d5aa72-46a0-4cfd-9d79-3d5374e4b8ed",
+	"Outputs": [
+		{
+			"Address": "0xabcf6b6ca11ab242a7d416e84da0403dd23a751a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xf160e939d6733dd1cbbc50f252209200e01be9c2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-TRUMPAI",
+	"Chain": "ethereum"
+}

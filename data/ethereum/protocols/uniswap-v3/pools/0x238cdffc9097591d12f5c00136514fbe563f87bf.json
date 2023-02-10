@@ -1,0 +1,27 @@
+{
+	"Id": "0x238cdffc9097591d12f5c00136514fbe563f87bf",
+	"Protocol": "a1e2c424-bcf1-4f53-bc70-f8e40c646b40",
+	"Outputs": [
+		{
+			"Address": "0x238cdffc9097591d12f5c00136514fbe563f87bf",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x320aaab3038bc08317f5a4be19ea1d9608551d79",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "paprMEME-WETH (1.00%)",
+	"Chain": "ethereum"
+}

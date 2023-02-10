@@ -1,0 +1,10 @@
+{
+	"Id": "0x533c1a1abb5ccdfac1a80e55ed9fee324f9ee5e4",
+	"Symbol": "USDC-EAI",
+	"UnderlyingTokens": [
+		"0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+		"0xbada757cede6d965b08ac9e4c5e002de444512e3"
+	],
+	"Protocol": "a3d5aa72-46a0-4cfd-9d79-3d5374e4b8ed",
+	"Chain": "ethereum"
+}

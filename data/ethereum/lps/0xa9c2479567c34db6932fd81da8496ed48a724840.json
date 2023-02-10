@@ -1,0 +1,10 @@
+{
+	"Id": "0xa9c2479567c34db6932fd81da8496ed48a724840",
+	"Symbol": "SBAKO-WETH",
+	"UnderlyingTokens": [
+		"0x66b28e3e2e6b1fcecfba2c1fb504e1b00213f4a6",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "a3d5aa72-46a0-4cfd-9d79-3d5374e4b8ed",
+	"Chain": "ethereum"
+}

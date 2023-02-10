@@ -1,0 +1,10 @@
+{
+	"Id": "0xa4492cf68e912f296bf89502cfc5542470cf675f",
+	"Symbol": "OPNX-WETH",
+	"UnderlyingTokens": [
+		"0x309f9002808f1b610cadd129824767830112d8d3",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "a3d5aa72-46a0-4cfd-9d79-3d5374e4b8ed",
+	"Chain": "ethereum"
+}

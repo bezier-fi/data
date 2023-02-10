@@ -1,0 +1,10 @@
+{
+	"Id": "0xef7e48bca228c2090c6058b5d233c1aca14a5c15",
+	"Symbol": "$NOWAI-WETH",
+	"UnderlyingTokens": [
+		"0x987441856ba4f463544fc68ccbf6a80f434a7956",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "a3d5aa72-46a0-4cfd-9d79-3d5374e4b8ed",
+	"Chain": "ethereum"
+}

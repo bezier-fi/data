@@ -1,0 +1,27 @@
+{
+	"Id": "0x2ad6a6be8f6cc91a43d8fd0c51a121b1c61c91da",
+	"Protocol": "a1e2c424-bcf1-4f53-bc70-f8e40c646b40",
+	"Outputs": [
+		{
+			"Address": "0x2ad6a6be8f6cc91a43d8fd0c51a121b1c61c91da",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc5fb36dd2fb59d3b98deff88425a3f425ee469ed",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xcf4c68db4c2fa0bf58df07b14f45ce7709a716ac",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TSUKA-Dejitaru Shirudo (1.00%)",
+	"Chain": "ethereum"
+}

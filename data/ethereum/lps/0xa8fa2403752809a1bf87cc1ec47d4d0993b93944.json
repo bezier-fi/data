@@ -1,0 +1,10 @@
+{
+	"Id": "0xa8fa2403752809a1bf87cc1ec47d4d0993b93944",
+	"Symbol": "WETH-SSM",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd1dbc9227e044ed98d9184263b940ea5fc768648"
+	],
+	"Protocol": "a3d5aa72-46a0-4cfd-9d79-3d5374e4b8ed",
+	"Chain": "ethereum"
+}

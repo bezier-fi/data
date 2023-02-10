@@ -1,0 +1,10 @@
+{
+	"Id": "0xd5a9a2224f46d43c2a283d2dd387fd799ad2ca5c",
+	"Symbol": "ApeIn-WETH",
+	"UnderlyingTokens": [
+		"0xba84a6aab0772d6ecb877d8515cc9131c259245d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "a3d5aa72-46a0-4cfd-9d79-3d5374e4b8ed",
+	"Chain": "ethereum"
+}

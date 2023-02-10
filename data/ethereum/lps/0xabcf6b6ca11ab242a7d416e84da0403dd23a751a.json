@@ -1,0 +1,10 @@
+{
+	"Id": "0xabcf6b6ca11ab242a7d416e84da0403dd23a751a",
+	"Symbol": "WETH-TRUMPAI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf160e939d6733dd1cbbc50f252209200e01be9c2"
+	],
+	"Protocol": "a3d5aa72-46a0-4cfd-9d79-3d5374e4b8ed",
+	"Chain": "ethereum"
+}

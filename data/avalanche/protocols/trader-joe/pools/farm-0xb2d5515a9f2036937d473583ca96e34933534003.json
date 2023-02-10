@@ -1,0 +1,23 @@
+{
+	"Id": "farm-0xb2d5515a9f2036937d473583ca96e34933534003",
+	"Protocol": "8c943aeb-98a7-4093-a79c-f2fc9c4a0f69",
+	"Outputs": [
+		{
+			"Address": "0xb2d5515a9f2036937d473583ca96e34933534003",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb2d5515a9f2036937d473583ca96e34933534003",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WAVAX-ZSHARE",
+	"Chain": "avalanche"
+}

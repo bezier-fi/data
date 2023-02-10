@@ -1,0 +1,10 @@
+{
+	"Id": "0xfcc8838afb85afe85b9b31428063d44bd06cdc6f",
+	"Symbol": "MLAB -WETH",
+	"UnderlyingTokens": [
+		"0x3a484a1574413df6fb6e87e79db0de3caef34cc6",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "a3d5aa72-46a0-4cfd-9d79-3d5374e4b8ed",
+	"Chain": "ethereum"
+}

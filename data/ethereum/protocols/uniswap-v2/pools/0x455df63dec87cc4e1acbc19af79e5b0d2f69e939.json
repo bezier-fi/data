@@ -1,0 +1,27 @@
+{
+	"Id": "0x455df63dec87cc4e1acbc19af79e5b0d2f69e939",
+	"Protocol": "a3d5aa72-46a0-4cfd-9d79-3d5374e4b8ed",
+	"Outputs": [
+		{
+			"Address": "0x455df63dec87cc4e1acbc19af79e5b0d2f69e939",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4b58a037f003c70d6316d9a88786d97195ec7268",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CROGL-WETH",
+	"Chain": "ethereum"
+}

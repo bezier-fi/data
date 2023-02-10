@@ -1,0 +1,27 @@
+{
+	"Id": "0xa9c2479567c34db6932fd81da8496ed48a724840",
+	"Protocol": "a3d5aa72-46a0-4cfd-9d79-3d5374e4b8ed",
+	"Outputs": [
+		{
+			"Address": "0xa9c2479567c34db6932fd81da8496ed48a724840",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x66b28e3e2e6b1fcecfba2c1fb504e1b00213f4a6",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SBAKO-WETH",
+	"Chain": "ethereum"
+}

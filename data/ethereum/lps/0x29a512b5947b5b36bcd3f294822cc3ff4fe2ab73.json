@@ -1,0 +1,10 @@
+{
+	"Id": "0x29a512b5947b5b36bcd3f294822cc3ff4fe2ab73",
+	"Symbol": "ORD-WETH",
+	"UnderlyingTokens": [
+		"0xbe00734799a67a62af2819825580318ac1b1e4ec",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f493cbf8-eb2e-42f7-9ab9-1082a4ea2062",
+	"Chain": "ethereum"
+}

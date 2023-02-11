@@ -1,0 +1,10 @@
+{
+	"Id": "0x513e65a433e1cdbbee5be119fdace0293e4c97af",
+	"Symbol": "SHIBTOOLS-WETH",
+	"UnderlyingTokens": [
+		"0xbd84e92a4925599829cdc8db5ae6766b4151acab",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f493cbf8-eb2e-42f7-9ab9-1082a4ea2062",
+	"Chain": "ethereum"
+}

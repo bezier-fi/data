@@ -1,0 +1,27 @@
+{
+	"Id": "0x21415b3bb2d85c4fa40050bfd454ab0e19b71cbc",
+	"Protocol": "a77245f6-bd9a-4c9b-9b52-cb2d20656719",
+	"Outputs": [
+		{
+			"Address": "0x21415b3bb2d85c4fa40050bfd454ab0e19b71cbc",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x190eb8a183d22a4bdf278c6791b152228857c033",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "AGIX-WBTC (0.30%)",
+	"Chain": "polygon"
+}

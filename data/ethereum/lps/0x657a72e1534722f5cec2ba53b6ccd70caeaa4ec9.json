@@ -1,0 +1,10 @@
+{
+	"Id": "0x657a72e1534722f5cec2ba53b6ccd70caeaa4ec9",
+	"Symbol": "PVD-WETH",
+	"UnderlyingTokens": [
+		"0xb61b3e6bc3019494f93a20b24f951289ae08fdb8",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f493cbf8-eb2e-42f7-9ab9-1082a4ea2062",
+	"Chain": "ethereum"
+}

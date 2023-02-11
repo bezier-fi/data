@@ -1,0 +1,27 @@
+{
+	"Id": "0x2252d5a0250d13bac8b105e90b86960396c71668",
+	"Protocol": "f493cbf8-eb2e-42f7-9ab9-1082a4ea2062",
+	"Outputs": [
+		{
+			"Address": "0x2252d5a0250d13bac8b105e90b86960396c71668",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7195a6cc00f9e82ee6c6e1e2789816f630e21f8b",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CandyAI-WETH",
+	"Chain": "ethereum"
+}

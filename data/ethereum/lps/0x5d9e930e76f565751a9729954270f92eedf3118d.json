@@ -1,0 +1,10 @@
+{
+	"Id": "0x5d9e930e76f565751a9729954270f92eedf3118d",
+	"Symbol": "WETH-YodaAI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xcd3f1ef17d13f27940aa47fd6f63f918e1d705d9"
+	],
+	"Protocol": "f493cbf8-eb2e-42f7-9ab9-1082a4ea2062",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x450408457a3038ec0641f633b5bdf25c6f875e41",
+	"Protocol": "f493cbf8-eb2e-42f7-9ab9-1082a4ea2062",
+	"Outputs": [
+		{
+			"Address": "0x450408457a3038ec0641f633b5bdf25c6f875e41",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xcbad1de3cd18c93fe45fe63e1b4dfa28f0f0a6d5",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-DegenAI",
+	"Chain": "ethereum"
+}

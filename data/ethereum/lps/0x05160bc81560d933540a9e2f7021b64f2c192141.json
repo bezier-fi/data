@@ -1,0 +1,10 @@
+{
+	"Id": "0x05160bc81560d933540a9e2f7021b64f2c192141",
+	"Symbol": "CHIP-WETH",
+	"UnderlyingTokens": [
+		"0x5a5389ba78f04d783e9f30e5a8c45727c5e018be",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f493cbf8-eb2e-42f7-9ab9-1082a4ea2062",
+	"Chain": "ethereum"
+}

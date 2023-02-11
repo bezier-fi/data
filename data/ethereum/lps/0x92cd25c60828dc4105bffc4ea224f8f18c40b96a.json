@@ -1,0 +1,10 @@
+{
+	"Id": "0x92cd25c60828dc4105bffc4ea224f8f18c40b96a",
+	"Symbol": "BOLTAI-WETH",
+	"UnderlyingTokens": [
+		"0x85ba5fbd31dbaa652247934ba6e9c0fd3a44430a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f493cbf8-eb2e-42f7-9ab9-1082a4ea2062",
+	"Chain": "ethereum"
+}

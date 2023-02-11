@@ -1,0 +1,10 @@
+{
+	"Id": "0xf987b7aa76b175c3230c395a495350d2eb146391",
+	"Symbol": "WETH-BDP (0.30%)",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf3dcbc6d72a4e1892f7917b7c43b74131df8480e"
+	],
+	"Protocol": "a77245f6-bd9a-4c9b-9b52-cb2d20656719",
+	"Chain": "ethereum"
+}

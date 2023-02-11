@@ -1,0 +1,10 @@
+{
+	"Id": "0x19f579f2eaac10c813b893b4df5bec95b1603220",
+	"Symbol": "OMNIAI-WETH",
+	"UnderlyingTokens": [
+		"0x1a7e742e2139d7cca74d8963235c41668a46be94",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f493cbf8-eb2e-42f7-9ab9-1082a4ea2062",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0xad9b419f64d560d016c0cde075c83dbc848ceb9e",
+	"Protocol": "f493cbf8-eb2e-42f7-9ab9-1082a4ea2062",
+	"Outputs": [
+		{
+			"Address": "0xad9b419f64d560d016c0cde075c83dbc848ceb9e",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8ca5bb317f73fcd8a9f7d122c14b9a1f87688230",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "sAI-WETH",
+	"Chain": "ethereum"
+}

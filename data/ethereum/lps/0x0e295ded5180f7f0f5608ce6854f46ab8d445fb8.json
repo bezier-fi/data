@@ -1,0 +1,10 @@
+{
+	"Id": "0x0e295ded5180f7f0f5608ce6854f46ab8d445fb8",
+	"Symbol": "TRUOGE-WETH",
+	"UnderlyingTokens": [
+		"0x6d8f1f6603b20c94763406f10a1e4c9c23f9e3da",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f493cbf8-eb2e-42f7-9ab9-1082a4ea2062",
+	"Chain": "ethereum"
+}

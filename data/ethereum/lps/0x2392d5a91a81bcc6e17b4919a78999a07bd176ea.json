@@ -1,0 +1,10 @@
+{
+	"Id": "0x2392d5a91a81bcc6e17b4919a78999a07bd176ea",
+	"Symbol": "VFAI-WETH",
+	"UnderlyingTokens": [
+		"0xa79e0b5d892ecc0ecf8b2c261663f407bc88fe92",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f493cbf8-eb2e-42f7-9ab9-1082a4ea2062",
+	"Chain": "ethereum"
+}

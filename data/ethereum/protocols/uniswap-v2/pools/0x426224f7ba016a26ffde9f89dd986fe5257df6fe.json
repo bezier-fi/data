@@ -1,0 +1,27 @@
+{
+	"Id": "0x426224f7ba016a26ffde9f89dd986fe5257df6fe",
+	"Protocol": "f493cbf8-eb2e-42f7-9ab9-1082a4ea2062",
+	"Outputs": [
+		{
+			"Address": "0x426224f7ba016a26ffde9f89dd986fe5257df6fe",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xe55ac90f57700f302d633791b907e2a91c60f7ab",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-ChatJD",
+	"Chain": "ethereum"
+}

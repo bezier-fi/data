@@ -1,0 +1,27 @@
+{
+	"Id": "0x7828799686c0e829f97dadcf99a3d767bca33ff8",
+	"Protocol": "f493cbf8-eb2e-42f7-9ab9-1082a4ea2062",
+	"Outputs": [
+		{
+			"Address": "0x7828799686c0e829f97dadcf99a3d767bca33ff8",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1bc9d3a7f739161ff537afd418674350f0e69186",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DOOMER-WETH",
+	"Chain": "ethereum"
+}

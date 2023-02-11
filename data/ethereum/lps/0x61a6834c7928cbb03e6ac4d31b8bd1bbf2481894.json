@@ -1,0 +1,10 @@
+{
+	"Id": "0x61a6834c7928cbb03e6ac4d31b8bd1bbf2481894",
+	"Symbol": "FIND-WETH (0.01%)",
+	"UnderlyingTokens": [
+		"0x2f9cab5e879330ac548a8ee9375c896ff37b8e0a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "a77245f6-bd9a-4c9b-9b52-cb2d20656719",
+	"Chain": "ethereum"
+}

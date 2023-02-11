@@ -1,0 +1,27 @@
+{
+	"Id": "0x2d0e301f3e0068fba68fed334f13154659b8328e",
+	"Protocol": "f493cbf8-eb2e-42f7-9ab9-1082a4ea2062",
+	"Outputs": [
+		{
+			"Address": "0x2d0e301f3e0068fba68fed334f13154659b8328e",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xf90143bc100603d574658aa65b6be4c0879548a7",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-TSUKANA",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0xa6c08a10bc618504f9d66b4c261c1493bd5118ff",
+	"Protocol": "f493cbf8-eb2e-42f7-9ab9-1082a4ea2062",
+	"Outputs": [
+		{
+			"Address": "0xa6c08a10bc618504f9d66b4c261c1493bd5118ff",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0658652316373584e4797ae971413f9a005d262e",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SBI-WETH",
+	"Chain": "ethereum"
+}

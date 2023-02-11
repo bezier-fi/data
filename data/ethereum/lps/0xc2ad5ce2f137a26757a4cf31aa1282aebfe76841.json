@@ -1,0 +1,10 @@
+{
+	"Id": "0xc2ad5ce2f137a26757a4cf31aa1282aebfe76841",
+	"Symbol": "WETH-BOMI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe38ff346fc02b90df6ad438887ad1bf5dcb0553f"
+	],
+	"Protocol": "f493cbf8-eb2e-42f7-9ab9-1082a4ea2062",
+	"Chain": "ethereum"
+}

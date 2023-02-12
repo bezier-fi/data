@@ -1,0 +1,10 @@
+{
+	"Id": "0xabebade42d0b5ba95846e30f2520f3227cf96ca1",
+	"Symbol": "ITAI-WETH",
+	"UnderlyingTokens": [
+		"0x45a39d76027874c3ca7ad0785d74a11b87c81b7e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "9d4362bc-bec0-493d-af1b-f84b9cfc4c0b",
+	"Chain": "ethereum"
+}

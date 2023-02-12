@@ -1,0 +1,10 @@
+{
+	"Id": "0x84e0d395f1ccad2e203d2c0c00c459490a59ffd5",
+	"Symbol": "HAI -WETH",
+	"UnderlyingTokens": [
+		"0x9e83aa45b662e9e02ca81642f40d4495b7c6abec",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "9d4362bc-bec0-493d-af1b-f84b9cfc4c0b",
+	"Chain": "ethereum"
+}

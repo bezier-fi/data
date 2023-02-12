@@ -1,0 +1,10 @@
+{
+	"Id": "0xd423488a5905510e3ba28b12fa98099328507d7b",
+	"Symbol": "LSHIB-WETH",
+	"UnderlyingTokens": [
+		"0x919f1824a17eecd004da61083e3b461510bc0a96",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "9d4362bc-bec0-493d-af1b-f84b9cfc4c0b",
+	"Chain": "ethereum"
+}

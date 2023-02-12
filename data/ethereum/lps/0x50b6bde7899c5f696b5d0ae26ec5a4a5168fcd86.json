@@ -1,0 +1,10 @@
+{
+	"Id": "0x50b6bde7899c5f696b5d0ae26ec5a4a5168fcd86",
+	"Symbol": "NFI-WETH",
+	"UnderlyingTokens": [
+		"0x419daf2b9520f95891e731ed5ed1c1e3bc50c381",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "9d4362bc-bec0-493d-af1b-f84b9cfc4c0b",
+	"Chain": "ethereum"
+}

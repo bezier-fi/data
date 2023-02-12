@@ -1,0 +1,27 @@
+{
+	"Id": "0x2bdac5c1974755d8e0bed78a6e75522a1b828317",
+	"Protocol": "191422c7-5149-41c6-b050-cd2f75b36df9",
+	"Outputs": [
+		{
+			"Address": "0x2bdac5c1974755d8e0bed78a6e75522a1b828317",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8947da500eb47f82df21143d0c01a29862a8c3c5",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "THALES-USDC (1.00%)",
+	"Chain": "ethereum"
+}

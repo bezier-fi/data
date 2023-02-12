@@ -1,0 +1,27 @@
+{
+	"Id": "0xca3c2a722bb9e3a547771eefd61142b58407cafd",
+	"Protocol": "191422c7-5149-41c6-b050-cd2f75b36df9",
+	"Outputs": [
+		{
+			"Address": "0xca3c2a722bb9e3a547771eefd61142b58407cafd",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x569424c5ee13884a193773fdc5d1c5f79c443a51",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PINE-USDT (0.30%)",
+	"Chain": "ethereum"
+}

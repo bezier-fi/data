@@ -1,0 +1,27 @@
+{
+	"Id": "0x35610ec093772f5246765861c40005f4574587a5",
+	"Protocol": "9d4362bc-bec0-493d-af1b-f84b9cfc4c0b",
+	"Outputs": [
+		{
+			"Address": "0x35610ec093772f5246765861c40005f4574587a5",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6f11b6fe74b764983f1d7f5ba15901b71a3c2695",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "$LION-WETH",
+	"Chain": "ethereum"
+}

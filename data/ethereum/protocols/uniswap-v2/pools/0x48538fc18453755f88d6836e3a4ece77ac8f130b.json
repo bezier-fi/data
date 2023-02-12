@@ -1,0 +1,27 @@
+{
+	"Id": "0x48538fc18453755f88d6836e3a4ece77ac8f130b",
+	"Protocol": "9d4362bc-bec0-493d-af1b-f84b9cfc4c0b",
+	"Outputs": [
+		{
+			"Address": "0x48538fc18453755f88d6836e3a4ece77ac8f130b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xe10a5d281fcaabb348caa821879bf6f6a9acab29",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-HURTS",
+	"Chain": "ethereum"
+}

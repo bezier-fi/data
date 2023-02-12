@@ -1,0 +1,10 @@
+{
+	"Id": "0x27048da2542baa1e9757aa426f1fd38b98bce553",
+	"Symbol": "WETH-WOOFER",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf2c58364df121c5707146d41ce43592328407b3b"
+	],
+	"Protocol": "9d4362bc-bec0-493d-af1b-f84b9cfc4c0b",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xd8c2a1c487ac181b7f56646e2dab518373e04ba1",
+	"Symbol": "BET-WETH",
+	"UnderlyingTokens": [
+		"0x558a269d39ea4bf3e61d6e45190ee66920ac9ba1",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "9d4362bc-bec0-493d-af1b-f84b9cfc4c0b",
+	"Chain": "ethereum"
+}

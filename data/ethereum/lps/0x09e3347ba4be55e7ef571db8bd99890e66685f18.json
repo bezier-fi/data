@@ -1,0 +1,10 @@
+{
+	"Id": "0x09e3347ba4be55e7ef571db8bd99890e66685f18",
+	"Symbol": "ANAC-WETH",
+	"UnderlyingTokens": [
+		"0x67e75c92602d453a2380faf4cfdb9e3cf25e115d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "9d4362bc-bec0-493d-af1b-f84b9cfc4c0b",
+	"Chain": "ethereum"
+}

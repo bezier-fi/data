@@ -1,0 +1,27 @@
+{
+	"Id": "0xb3d618b55e8d79c53a259e838a6b0fb824ad834c",
+	"Protocol": "9d4362bc-bec0-493d-af1b-f84b9cfc4c0b",
+	"Outputs": [
+		{
+			"Address": "0xb3d618b55e8d79c53a259e838a6b0fb824ad834c",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4d96591f44067a670e61d75ec111090e5c5bc0bd",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CORSAIR-WETH",
+	"Chain": "ethereum"
+}

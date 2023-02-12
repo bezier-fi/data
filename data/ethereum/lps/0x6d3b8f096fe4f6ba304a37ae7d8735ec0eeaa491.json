@@ -1,0 +1,10 @@
+{
+	"Id": "0x6d3b8f096fe4f6ba304a37ae7d8735ec0eeaa491",
+	"Symbol": "NDV-WETH",
+	"UnderlyingTokens": [
+		"0x01d62e84af27c10cab6624f029030d9e84c75486",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "9d4362bc-bec0-493d-af1b-f84b9cfc4c0b",
+	"Chain": "ethereum"
+}

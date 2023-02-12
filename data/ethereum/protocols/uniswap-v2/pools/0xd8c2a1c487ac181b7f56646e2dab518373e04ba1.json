@@ -1,0 +1,27 @@
+{
+	"Id": "0xd8c2a1c487ac181b7f56646e2dab518373e04ba1",
+	"Protocol": "9d4362bc-bec0-493d-af1b-f84b9cfc4c0b",
+	"Outputs": [
+		{
+			"Address": "0xd8c2a1c487ac181b7f56646e2dab518373e04ba1",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x558a269d39ea4bf3e61d6e45190ee66920ac9ba1",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BET-WETH",
+	"Chain": "ethereum"
+}

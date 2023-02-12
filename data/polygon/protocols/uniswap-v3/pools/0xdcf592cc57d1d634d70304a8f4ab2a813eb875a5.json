@@ -1,0 +1,27 @@
+{
+	"Id": "0xdcf592cc57d1d634d70304a8f4ab2a813eb875a5",
+	"Protocol": "191422c7-5149-41c6-b050-cd2f75b36df9",
+	"Outputs": [
+		{
+			"Address": "0xdcf592cc57d1d634d70304a8f4ab2a813eb875a5",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xa1c57f48f0deb89f569dfbe6e2b7f46d33606fd4",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC-MANA (1.00%)",
+	"Chain": "polygon"
+}

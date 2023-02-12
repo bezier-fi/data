@@ -1,0 +1,10 @@
+{
+	"Id": "0x29dc75d1ef5fcf6ee5b4476d64d877dddd4c8c92",
+	"Symbol": "AIWU-WETH",
+	"UnderlyingTokens": [
+		"0x96a4a422bbab9e9816902d0ea042cd8f72fe1a70",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "9d4362bc-bec0-493d-af1b-f84b9cfc4c0b",
+	"Chain": "ethereum"
+}

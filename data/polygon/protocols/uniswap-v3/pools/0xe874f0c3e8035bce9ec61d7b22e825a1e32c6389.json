@@ -1,0 +1,27 @@
+{
+	"Id": "0xe874f0c3e8035bce9ec61d7b22e825a1e32c6389",
+	"Protocol": "191422c7-5149-41c6-b050-cd2f75b36df9",
+	"Outputs": [
+		{
+			"Address": "0xe874f0c3e8035bce9ec61d7b22e825a1e32c6389",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x692c44990e4f408ba0917f5c78a83160c1557237",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC-THALES (0.05%)",
+	"Chain": "polygon"
+}

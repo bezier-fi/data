@@ -1,0 +1,10 @@
+{
+	"Id": "0x78b929209c5207a33cb25d4298e4ab7ada0ac6e9",
+	"Symbol": "JARTAI-WETH",
+	"UnderlyingTokens": [
+		"0x6a38e3816515410c44b7a951c30c33dbb3a3abfe",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2ed428a3-f74e-48f2-8099-928a66343972",
+	"Chain": "ethereum"
+}

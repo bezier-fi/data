@@ -1,0 +1,10 @@
+{
+	"Id": "0x79c53019356055e78d9a35ddfd111d4abf4eab23",
+	"Symbol": "Summerverse-WETH",
+	"UnderlyingTokens": [
+		"0xb11dae84ef588c515d6c1920dcb57a2cc49751de",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2ed428a3-f74e-48f2-8099-928a66343972",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x3b1dcc3b9e8c00bc0a234d51447cc0d955a53fd3",
+	"Protocol": "2ed428a3-f74e-48f2-8099-928a66343972",
+	"Outputs": [
+		{
+			"Address": "0x3b1dcc3b9e8c00bc0a234d51447cc0d955a53fd3",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x94c5dea559ce7af0d7db72c34d5e140a618a86a6",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TruthGPT-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x21568d33b80854f2d299aaabc8b1bc2d1b52db1f",
+	"Symbol": "WETH-SHIBEAST",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf7a9514e183e35b87fe32755bb7269257062b2ff"
+	],
+	"Protocol": "2ed428a3-f74e-48f2-8099-928a66343972",
+	"Chain": "ethereum"
+}

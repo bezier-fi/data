@@ -1,0 +1,10 @@
+{
+	"Id": "0x9339227db67f747114c929b26b81fe7974436b94",
+	"Symbol": "WETH-YLD",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf94b5c5651c888d928439ab6514b93944eee6f48"
+	],
+	"Protocol": "2ed428a3-f74e-48f2-8099-928a66343972",
+	"Chain": "ethereum"
+}

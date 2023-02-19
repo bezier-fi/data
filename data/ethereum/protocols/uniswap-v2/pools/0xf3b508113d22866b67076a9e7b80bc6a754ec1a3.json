@@ -1,0 +1,27 @@
+{
+	"Id": "0xf3b508113d22866b67076a9e7b80bc6a754ec1a3",
+	"Protocol": "2ed428a3-f74e-48f2-8099-928a66343972",
+	"Outputs": [
+		{
+			"Address": "0xf3b508113d22866b67076a9e7b80bc6a754ec1a3",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x80a9bf2b338b7cd1aef6bfc2e89db0737aecbeef",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "RPGAI-WETH",
+	"Chain": "ethereum"
+}

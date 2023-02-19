@@ -1,0 +1,23 @@
+{
+	"Id": "farm-0x3895566c6060a9974a880a36d62cd69c7c239e40",
+	"Protocol": "12ea90a9-e59b-4b3f-9b07-1fc3aca53856",
+	"Outputs": [
+		{
+			"Address": "0x3895566c6060a9974a880a36d62cd69c7c239e40",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3895566c6060a9974a880a36d62cd69c7c239e40",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DUA-USDC",
+	"Chain": "avalanche"
+}

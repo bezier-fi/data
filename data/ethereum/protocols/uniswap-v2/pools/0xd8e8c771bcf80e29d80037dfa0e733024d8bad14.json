@@ -1,0 +1,27 @@
+{
+	"Id": "0xd8e8c771bcf80e29d80037dfa0e733024d8bad14",
+	"Protocol": "2ed428a3-f74e-48f2-8099-928a66343972",
+	"Outputs": [
+		{
+			"Address": "0xd8e8c771bcf80e29d80037dfa0e733024d8bad14",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x05eba78ee7c1cbd994ff56dc87a00d8c1ab14e5d",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Waves-DAI",
+	"Chain": "ethereum"
+}

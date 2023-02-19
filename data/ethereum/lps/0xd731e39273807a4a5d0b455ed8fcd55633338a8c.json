@@ -1,0 +1,10 @@
+{
+	"Id": "0xd731e39273807a4a5d0b455ed8fcd55633338a8c",
+	"Symbol": "ZORTAI-WETH",
+	"UnderlyingTokens": [
+		"0x88f63bad4ac839704616b63f677cecb165963b1f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2ed428a3-f74e-48f2-8099-928a66343972",
+	"Chain": "ethereum"
+}

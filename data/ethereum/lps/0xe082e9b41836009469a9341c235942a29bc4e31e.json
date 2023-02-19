@@ -1,0 +1,10 @@
+{
+	"Id": "0xe082e9b41836009469a9341c235942a29bc4e31e",
+	"Symbol": "COUP-WETH",
+	"UnderlyingTokens": [
+		"0x1301ea2178974fbb88dca8718b1baa49b65a163f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2ed428a3-f74e-48f2-8099-928a66343972",
+	"Chain": "ethereum"
+}

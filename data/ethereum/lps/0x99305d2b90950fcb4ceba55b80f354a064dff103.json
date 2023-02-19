@@ -1,0 +1,10 @@
+{
+	"Id": "0x99305d2b90950fcb4ceba55b80f354a064dff103",
+	"Symbol": "TUNE-WETH",
+	"UnderlyingTokens": [
+		"0x7997dccb5c3e8a722465fc73bb32dc3c1c86edab",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2ed428a3-f74e-48f2-8099-928a66343972",
+	"Chain": "ethereum"
+}

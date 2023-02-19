@@ -1,0 +1,10 @@
+{
+	"Id": "0xf3b508113d22866b67076a9e7b80bc6a754ec1a3",
+	"Symbol": "RPGAI-WETH",
+	"UnderlyingTokens": [
+		"0x80a9bf2b338b7cd1aef6bfc2e89db0737aecbeef",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2ed428a3-f74e-48f2-8099-928a66343972",
+	"Chain": "ethereum"
+}

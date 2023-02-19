@@ -1,0 +1,27 @@
+{
+	"Id": "0x78b929209c5207a33cb25d4298e4ab7ada0ac6e9",
+	"Protocol": "2ed428a3-f74e-48f2-8099-928a66343972",
+	"Outputs": [
+		{
+			"Address": "0x78b929209c5207a33cb25d4298e4ab7ada0ac6e9",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6a38e3816515410c44b7a951c30c33dbb3a3abfe",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "JARTAI-WETH",
+	"Chain": "ethereum"
+}

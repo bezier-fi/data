@@ -1,0 +1,10 @@
+{
+	"Id": "0xdb28312a8d26d59978d9b86ca185707b1a26725b",
+	"Symbol": "STBZ-WETH",
+	"UnderlyingTokens": [
+		"0xb987d48ed8f2c468d52d6405624eadba5e76d723",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2ed428a3-f74e-48f2-8099-928a66343972",
+	"Chain": "ethereum"
+}

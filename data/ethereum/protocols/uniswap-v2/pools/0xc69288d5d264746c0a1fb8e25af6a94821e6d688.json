@@ -1,0 +1,27 @@
+{
+	"Id": "0xc69288d5d264746c0a1fb8e25af6a94821e6d688",
+	"Protocol": "2ed428a3-f74e-48f2-8099-928a66343972",
+	"Outputs": [
+		{
+			"Address": "0xc69288d5d264746c0a1fb8e25af6a94821e6d688",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x445ec96caa6895d8e5b3918c8cf90e98e7ce3e90",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FLUT-WETH",
+	"Chain": "ethereum"
+}

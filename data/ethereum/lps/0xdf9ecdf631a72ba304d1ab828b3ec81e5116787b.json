@@ -1,0 +1,10 @@
+{
+	"Id": "0xdf9ecdf631a72ba304d1ab828b3ec81e5116787b",
+	"Symbol": "WIX-WETH",
+	"UnderlyingTokens": [
+		"0x8fc6a71be7f82373e045a97859287676a399934a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2ed428a3-f74e-48f2-8099-928a66343972",
+	"Chain": "ethereum"
+}

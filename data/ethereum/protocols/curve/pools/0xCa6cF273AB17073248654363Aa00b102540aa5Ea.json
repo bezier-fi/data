@@ -1,0 +1,27 @@
+{
+	"Id": "0xCa6cF273AB17073248654363Aa00b102540aa5Ea",
+	"Protocol": "162e5e48-f83b-44c9-8c3a-309a6a6964e7",
+	"Outputs": [
+		{
+			"Address": "0x1460d0a2b1B0D7dcf8ea7ffdDc3f0763741109c5",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x01BA67AAC7f75f647D94220Cc98FB30FCc5105Bf",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x8D8802c567e70ccADAF730263aecc60A91AC163D",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "wsLYRA-f",
+	"Chain": "ethereum"
+}

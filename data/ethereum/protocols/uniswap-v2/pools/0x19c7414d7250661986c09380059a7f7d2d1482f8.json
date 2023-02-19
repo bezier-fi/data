@@ -1,0 +1,27 @@
+{
+	"Id": "0x19c7414d7250661986c09380059a7f7d2d1482f8",
+	"Protocol": "2ed428a3-f74e-48f2-8099-928a66343972",
+	"Outputs": [
+		{
+			"Address": "0x19c7414d7250661986c09380059a7f7d2d1482f8",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7ec0ecf8a563f7dcc187bf77488e024e6cfc9f28",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FLOTWIT-WETH",
+	"Chain": "ethereum"
+}

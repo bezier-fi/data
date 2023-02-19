@@ -1,0 +1,10 @@
+{
+	"Id": "0x128dd66e4c9f1477ba29523b379aec6ace76d584",
+	"Symbol": "ARCH-USDC",
+	"UnderlyingTokens": [
+		"0x73c69d24ad28e2d43d03cbf35f79fe26ebde1011",
+		"0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+	],
+	"Protocol": "2ed428a3-f74e-48f2-8099-928a66343972",
+	"Chain": "ethereum"
+}

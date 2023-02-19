@@ -1,0 +1,10 @@
+{
+	"Id": "0x7b5de0ba0526d97c8b8a93774590eea8eb2a3a21",
+	"Symbol": "ZETA-WETH",
+	"UnderlyingTokens": [
+		"0x7820f2eb0dc3e42e71a74abd8af3fc5aa2975cd1",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2ed428a3-f74e-48f2-8099-928a66343972",
+	"Chain": "ethereum"
+}

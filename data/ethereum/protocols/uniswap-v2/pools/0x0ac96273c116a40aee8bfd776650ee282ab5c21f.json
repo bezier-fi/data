@@ -1,0 +1,27 @@
+{
+	"Id": "0x0ac96273c116a40aee8bfd776650ee282ab5c21f",
+	"Protocol": "2ed428a3-f74e-48f2-8099-928a66343972",
+	"Outputs": [
+		{
+			"Address": "0x0ac96273c116a40aee8bfd776650ee282ab5c21f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x78b1ceb872fefc6440fbdfa643f9bc533db41457",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc5fb36dd2fb59d3b98deff88425a3f425ee469ed",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "IRNBNK-TSUKA",
+	"Chain": "ethereum"
+}

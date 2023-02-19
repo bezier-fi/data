@@ -1,0 +1,10 @@
+{
+	"Id": "0x7248d64b869cef3991109c0d038ee3b296af69fd",
+	"Symbol": "Tsuka²-WETH",
+	"UnderlyingTokens": [
+		"0x36c190b753b9155da9a10f97f39fbfeb1ba6d953",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2ed428a3-f74e-48f2-8099-928a66343972",
+	"Chain": "ethereum"
+}

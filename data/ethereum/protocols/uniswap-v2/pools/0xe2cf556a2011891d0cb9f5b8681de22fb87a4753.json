@@ -1,0 +1,27 @@
+{
+	"Id": "0xe2cf556a2011891d0cb9f5b8681de22fb87a4753",
+	"Protocol": "2ed428a3-f74e-48f2-8099-928a66343972",
+	"Outputs": [
+		{
+			"Address": "0xe2cf556a2011891d0cb9f5b8681de22fb87a4753",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3d658390460295fb963f54dc0899cfb1c30776df",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Coval-MATIC",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x38fee5f2ce469ebdfaa62863928e333ef4da485f",
+	"Protocol": "3bca5c6b-7c60-4f3d-bedf-0168ddb89691",
+	"Outputs": [
+		{
+			"Address": "0x38fee5f2ce469ebdfaa62863928e333ef4da485f",
+			"Apr": 549.7736,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5283d291dbcf85356a21ba090e6db59121208b44",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BLUR-USDC (1.00%)",
+	"Chain": "ethereum"
+}

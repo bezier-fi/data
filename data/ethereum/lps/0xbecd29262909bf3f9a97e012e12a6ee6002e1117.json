@@ -1,0 +1,10 @@
+{
+	"Id": "0xbecd29262909bf3f9a97e012e12a6ee6002e1117",
+	"Symbol": "Ai-Eco-WETH",
+	"UnderlyingTokens": [
+		"0xa298fb01d310e1800847e5cf812b14f3e0850167",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2ed428a3-f74e-48f2-8099-928a66343972",
+	"Chain": "ethereum"
+}

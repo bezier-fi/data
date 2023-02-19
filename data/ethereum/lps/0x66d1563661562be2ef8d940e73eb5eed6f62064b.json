@@ -1,0 +1,10 @@
+{
+	"Id": "0x66d1563661562be2ef8d940e73eb5eed6f62064b",
+	"Symbol": "NOSTRA-WETH",
+	"UnderlyingTokens": [
+		"0xa813ac8e0db2c9ec28d2b2725461a5765f366eeb",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2ed428a3-f74e-48f2-8099-928a66343972",
+	"Chain": "ethereum"
+}

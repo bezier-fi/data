@@ -1,0 +1,27 @@
+{
+	"Id": "0xfeae318f24456c4dbaf77a7dd01fd1c69055ffa6",
+	"Protocol": "3bca5c6b-7c60-4f3d-bedf-0168ddb89691",
+	"Outputs": [
+		{
+			"Address": "0xfeae318f24456c4dbaf77a7dd01fd1c69055ffa6",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x9813037ee2218799597d83d4a5b6f3b6778218d9",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SHIB-BONE (1.00%)",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x18ac4fdfa6bdda304f8a5e5731682ab1ded61284",
+	"Symbol": "INVOX-WETH",
+	"UnderlyingTokens": [
+		"0x4485561db76614ff727f8e0a3ea95690b8b16022",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2ed428a3-f74e-48f2-8099-928a66343972",
+	"Chain": "ethereum"
+}

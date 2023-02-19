@@ -1,0 +1,27 @@
+{
+	"Id": "0xe532b04d2f2e921dfec69e132e9214d2f82df304",
+	"Protocol": "2ed428a3-f74e-48f2-8099-928a66343972",
+	"Outputs": [
+		{
+			"Address": "0xe532b04d2f2e921dfec69e132e9214d2f82df304",
+			"Apr": 27.216343,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4f08705fb8f33affc231ed66e626b40e84a71870",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FLUT-DAI",
+	"Chain": "ethereum"
+}

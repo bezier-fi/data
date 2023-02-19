@@ -1,0 +1,27 @@
+{
+	"Id": "0xfc704de88db4858419d5d0af080486a95343ba15",
+	"Protocol": "3bca5c6b-7c60-4f3d-bedf-0168ddb89691",
+	"Outputs": [
+		{
+			"Address": "0xfc704de88db4858419d5d0af080486a95343ba15",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x578fee9def9a270c20865242cfd4ff86f31d0e5b",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Runy-USDT (0.01%)",
+	"Chain": "polygon"
+}

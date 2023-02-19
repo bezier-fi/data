@@ -1,0 +1,27 @@
+{
+	"Id": "0xce12c7095a59b03ae2561bcb7ce1558ce2afd90d",
+	"Protocol": "3bca5c6b-7c60-4f3d-bedf-0168ddb89691",
+	"Outputs": [
+		{
+			"Address": "0xce12c7095a59b03ae2561bcb7ce1558ce2afd90d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb012be90957d70d9a070918027655f998c123a88",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "HMX-WETH (0.30%)",
+	"Chain": "ethereum"
+}

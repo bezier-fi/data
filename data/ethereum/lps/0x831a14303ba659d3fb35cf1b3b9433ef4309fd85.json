@@ -1,0 +1,10 @@
+{
+	"Id": "0x831a14303ba659d3fb35cf1b3b9433ef4309fd85",
+	"Symbol": "WETH-MARU",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc2456d2118299a2efdfe6522ff79aa48fc5d2b00"
+	],
+	"Protocol": "2ed428a3-f74e-48f2-8099-928a66343972",
+	"Chain": "ethereum"
+}

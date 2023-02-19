@@ -1,0 +1,27 @@
+{
+	"Id": "0xea9cd9922d2d1cbc95fb5c94b2e93f604283e222",
+	"Protocol": "2ed428a3-f74e-48f2-8099-928a66343972",
+	"Outputs": [
+		{
+			"Address": "0xea9cd9922d2d1cbc95fb5c94b2e93f604283e222",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xf82ff77988585a6b3d4cf16d273392677cb5a08f",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-LARPAI",
+	"Chain": "ethereum"
+}

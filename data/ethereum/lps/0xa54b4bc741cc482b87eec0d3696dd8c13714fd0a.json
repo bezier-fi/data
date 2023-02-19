@@ -1,0 +1,10 @@
+{
+	"Id": "0xa54b4bc741cc482b87eec0d3696dd8c13714fd0a",
+	"Symbol": "REPAY-DAI",
+	"UnderlyingTokens": [
+		"0x697e66ec668f947b207a02fa050c3853e885b77e",
+		"0x6b175474e89094c44da98b954eedeac495271d0f"
+	],
+	"Protocol": "2ed428a3-f74e-48f2-8099-928a66343972",
+	"Chain": "ethereum"
+}

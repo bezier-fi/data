@@ -1,0 +1,10 @@
+{
+	"Id": "0x961eb1645355297b5ee6e6c60ba9e72505e550f8",
+	"Symbol": "BREE-WETH",
+	"UnderlyingTokens": [
+		"0x4639cd8cd52ec1cf2e496a606ce28d8afb1c792f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2ed428a3-f74e-48f2-8099-928a66343972",
+	"Chain": "ethereum"
+}

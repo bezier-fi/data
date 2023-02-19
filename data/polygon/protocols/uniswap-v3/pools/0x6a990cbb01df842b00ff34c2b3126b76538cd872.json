@@ -1,0 +1,27 @@
+{
+	"Id": "0x6a990cbb01df842b00ff34c2b3126b76538cd872",
+	"Protocol": "3bca5c6b-7c60-4f3d-bedf-0168ddb89691",
+	"Outputs": [
+		{
+			"Address": "0x6a990cbb01df842b00ff34c2b3126b76538cd872",
+			"Apr": 3.410814,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x553d3d295e0f695b9228246232edf400ed3560b5",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PAXG-WETH (0.30%)",
+	"Chain": "polygon"
+}

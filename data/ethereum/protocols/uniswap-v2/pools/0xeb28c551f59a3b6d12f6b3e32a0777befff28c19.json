@@ -1,0 +1,27 @@
+{
+	"Id": "0xeb28c551f59a3b6d12f6b3e32a0777befff28c19",
+	"Protocol": "2ed428a3-f74e-48f2-8099-928a66343972",
+	"Outputs": [
+		{
+			"Address": "0xeb28c551f59a3b6d12f6b3e32a0777befff28c19",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7ea9cb8c09bc57de12912a6bf67c401c1926020c",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MMY-USDT",
+	"Chain": "ethereum"
+}

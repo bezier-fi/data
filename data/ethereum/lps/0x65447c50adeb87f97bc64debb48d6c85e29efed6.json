@@ -1,0 +1,10 @@
+{
+	"Id": "0x65447c50adeb87f97bc64debb48d6c85e29efed6",
+	"Symbol": "CERTEX-WETH",
+	"UnderlyingTokens": [
+		"0x4ae9ff835494982d670210c087b0e27765b210aa",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2ed428a3-f74e-48f2-8099-928a66343972",
+	"Chain": "ethereum"
+}

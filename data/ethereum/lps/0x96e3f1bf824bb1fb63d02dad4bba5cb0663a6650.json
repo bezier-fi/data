@@ -1,0 +1,10 @@
+{
+	"Id": "0x96e3f1bf824bb1fb63d02dad4bba5cb0663a6650",
+	"Symbol": "WETH-BRISE",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xeafa4b3160744744b48dc648f39637e5ecbe3355"
+	],
+	"Protocol": "2ed428a3-f74e-48f2-8099-928a66343972",
+	"Chain": "ethereum"
+}

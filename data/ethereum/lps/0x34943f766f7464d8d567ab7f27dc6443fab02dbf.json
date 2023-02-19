@@ -1,0 +1,10 @@
+{
+	"Id": "0x34943f766f7464d8d567ab7f27dc6443fab02dbf",
+	"Symbol": "WETH-KENNY",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd243a2c419bc5ada8b9b2a46f93090eda70bf2ca"
+	],
+	"Protocol": "2ed428a3-f74e-48f2-8099-928a66343972",
+	"Chain": "ethereum"
+}

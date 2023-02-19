@@ -1,0 +1,27 @@
+{
+	"Id": "0xd330236c40712d9003768ba70c70af2fc0739451",
+	"Protocol": "3bca5c6b-7c60-4f3d-bedf-0168ddb89691",
+	"Outputs": [
+		{
+			"Address": "0xd330236c40712d9003768ba70c70af2fc0739451",
+			"Apr": 41.70296,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x207e14389183a94343942de7afbc607f57460618",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "THOL-WETH (0.30%)",
+	"Chain": "ethereum"
+}

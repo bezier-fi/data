@@ -1,0 +1,27 @@
+{
+	"Id": "0xcdae70cd7be377fbecb4d12576b59aa2c3433b6b",
+	"Protocol": "3bca5c6b-7c60-4f3d-bedf-0168ddb89691",
+	"Outputs": [
+		{
+			"Address": "0xcdae70cd7be377fbecb4d12576b59aa2c3433b6b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9bd89eac3943c1e491c60fcd9e0ea73b45a006b1",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ORON-USDT (0.30%)",
+	"Chain": "polygon"
+}

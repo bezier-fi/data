@@ -1,0 +1,10 @@
+{
+	"Id": "0xc768541e831a43fd4eee5859d5557d32d2fcc306",
+	"Symbol": "SHIBGPT-WETH",
+	"UnderlyingTokens": [
+		"0x68d0d1a219157a56800ed0fc88cdf874d3acc22d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2ed428a3-f74e-48f2-8099-928a66343972",
+	"Chain": "ethereum"
+}

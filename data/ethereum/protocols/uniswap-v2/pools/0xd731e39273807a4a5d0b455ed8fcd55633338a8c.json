@@ -1,0 +1,27 @@
+{
+	"Id": "0xd731e39273807a4a5d0b455ed8fcd55633338a8c",
+	"Protocol": "2ed428a3-f74e-48f2-8099-928a66343972",
+	"Outputs": [
+		{
+			"Address": "0xd731e39273807a4a5d0b455ed8fcd55633338a8c",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x88f63bad4ac839704616b63f677cecb165963b1f",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ZORTAI-WETH",
+	"Chain": "ethereum"
+}

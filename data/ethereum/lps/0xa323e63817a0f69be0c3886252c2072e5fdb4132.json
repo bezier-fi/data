@@ -1,0 +1,10 @@
+{
+	"Id": "0xa323e63817a0f69be0c3886252c2072e5fdb4132",
+	"Symbol": "COC-WETH",
+	"UnderlyingTokens": [
+		"0x437b9f4f0682b99a89206447c1fee06f83198e7b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2ed428a3-f74e-48f2-8099-928a66343972",
+	"Chain": "ethereum"
+}

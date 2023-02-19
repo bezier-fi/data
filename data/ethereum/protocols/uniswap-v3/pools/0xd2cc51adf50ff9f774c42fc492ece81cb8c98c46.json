@@ -1,0 +1,27 @@
+{
+	"Id": "0xd2cc51adf50ff9f774c42fc492ece81cb8c98c46",
+	"Protocol": "3bca5c6b-7c60-4f3d-bedf-0168ddb89691",
+	"Outputs": [
+		{
+			"Address": "0xd2cc51adf50ff9f774c42fc492ece81cb8c98c46",
+			"Apr": 54.41056,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1b40183efb4dd766f11bda7a7c3ad8982e998421",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "VSP-WETH (1.00%)",
+	"Chain": "ethereum"
+}

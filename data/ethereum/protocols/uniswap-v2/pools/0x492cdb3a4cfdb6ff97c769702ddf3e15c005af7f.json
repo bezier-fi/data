@@ -1,0 +1,27 @@
+{
+	"Id": "0x492cdb3a4cfdb6ff97c769702ddf3e15c005af7f",
+	"Protocol": "2ed428a3-f74e-48f2-8099-928a66343972",
+	"Outputs": [
+		{
+			"Address": "0x492cdb3a4cfdb6ff97c769702ddf3e15c005af7f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4ac08b08ed324ff5d35b34887e2240d8dab58a26",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ACADEMY-WETH",
+	"Chain": "ethereum"
+}

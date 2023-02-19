@@ -1,0 +1,10 @@
+{
+	"Id": "0xf0ff54965bfe8fb1cfe1c3d2b31291d317602c11",
+	"Symbol": "TUSHI-WETH",
+	"UnderlyingTokens": [
+		"0x68ffb43026cedc070bfc01b2203d90cab62ccf30",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2ed428a3-f74e-48f2-8099-928a66343972",
+	"Chain": "ethereum"
+}

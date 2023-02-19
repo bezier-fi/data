@@ -1,0 +1,10 @@
+{
+	"Id": "0xd3524a0a437884160d96a4930430753a32252026",
+	"Symbol": "WETH-BLUNT",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe5d4988a644ef97f58583bac42285090924417d0"
+	],
+	"Protocol": "2ed428a3-f74e-48f2-8099-928a66343972",
+	"Chain": "ethereum"
+}

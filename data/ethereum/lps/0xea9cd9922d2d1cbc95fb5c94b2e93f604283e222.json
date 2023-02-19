@@ -1,0 +1,10 @@
+{
+	"Id": "0xea9cd9922d2d1cbc95fb5c94b2e93f604283e222",
+	"Symbol": "WETH-LARPAI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf82ff77988585a6b3d4cf16d273392677cb5a08f"
+	],
+	"Protocol": "2ed428a3-f74e-48f2-8099-928a66343972",
+	"Chain": "ethereum"
+}

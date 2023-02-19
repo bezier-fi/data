@@ -1,0 +1,10 @@
+{
+	"Id": "0x4224d8a51ec3ea8c290fe596088b8cedeb389e1b",
+	"Symbol": "KEKAI-WETH",
+	"UnderlyingTokens": [
+		"0x315e16cbb544d0dc2ab9bc164e61fbe7aeaf8f3a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2ed428a3-f74e-48f2-8099-928a66343972",
+	"Chain": "ethereum"
+}

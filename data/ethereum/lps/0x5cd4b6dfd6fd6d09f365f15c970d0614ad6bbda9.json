@@ -1,0 +1,10 @@
+{
+	"Id": "0x5cd4b6dfd6fd6d09f365f15c970d0614ad6bbda9",
+	"Symbol": "WETH-IBIT",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfd940cd1c21c4f83650b18874b684d7d4859bac4"
+	],
+	"Protocol": "2ed428a3-f74e-48f2-8099-928a66343972",
+	"Chain": "ethereum"
+}

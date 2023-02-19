@@ -1,0 +1,10 @@
+{
+	"Id": "0x570b94615cd0e0ee69bb503559f6ed7f0e91267c",
+	"Symbol": "CGPT-WETH",
+	"UnderlyingTokens": [
+		"0x5f5abc18fa266e7faf5d95c3a6678c77286215f6",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2ed428a3-f74e-48f2-8099-928a66343972",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0xEcB16535477F9cc6Db8D8Ea70b36D5020499d91c",
+	"Protocol": "162e5e48-f83b-44c9-8c3a-309a6a6964e7",
+	"Outputs": [
+		{
+			"Address": "0x0012940cf77a3cB5BADE409B96A60E22506CF7d0",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x00C2999c8B2AdF4ABC835cc63209533973718eB1",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "STATEWBTC-f",
+	"Chain": "ethereum"
+}

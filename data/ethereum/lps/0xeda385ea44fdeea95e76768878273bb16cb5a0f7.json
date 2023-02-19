@@ -1,0 +1,10 @@
+{
+	"Id": "0xeda385ea44fdeea95e76768878273bb16cb5a0f7",
+	"Symbol": "WETH-purr",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xee15c59775c1a5645393b3d57965d3f18d1fdf11"
+	],
+	"Protocol": "2ed428a3-f74e-48f2-8099-928a66343972",
+	"Chain": "ethereum"
+}

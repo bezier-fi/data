@@ -1,0 +1,27 @@
+{
+	"Id": "0xe64a2a5fa2803b16a435d4fd64ab9d8092863930",
+	"Protocol": "2ed428a3-f74e-48f2-8099-928a66343972",
+	"Outputs": [
+		{
+			"Address": "0xe64a2a5fa2803b16a435d4fd64ab9d8092863930",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x177b80d34fb77767e47b185692553e31782ec716",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "KSHIB-WETH",
+	"Chain": "ethereum"
+}

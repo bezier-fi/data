@@ -1,0 +1,27 @@
+{
+	"Id": "0xd7730833c4441de8aa1d4ffb8e0e4726220f4a84",
+	"Protocol": "1c6f2151-9374-4332-92b9-f02c5850f92e",
+	"Outputs": [
+		{
+			"Address": "0xd7730833c4441de8aa1d4ffb8e0e4726220f4a84",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3446dd70b2d52a6bf4a5a192d9b0a161295ab7f9",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x3aada3e213abf8529606924d8d1c55cbdc70bf74",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SUDO-XMON (0.30%)",
+	"Chain": "ethereum"
+}

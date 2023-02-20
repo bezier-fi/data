@@ -1,0 +1,27 @@
+{
+	"Id": "0xdf709525c5880322422a10e045c1e0fa82cda1b2",
+	"Protocol": "1c6f2151-9374-4332-92b9-f02c5850f92e",
+	"Outputs": [
+		{
+			"Address": "0xdf709525c5880322422a10e045c1e0fa82cda1b2",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3446dd70b2d52a6bf4a5a192d9b0a161295ab7f9",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SUDO-USDC (1.00%)",
+	"Chain": "ethereum"
+}

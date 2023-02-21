@@ -1,0 +1,27 @@
+{
+	"Id": "0x04f004fc3f2d99e36a4b4d4291933baa9d53b456",
+	"Protocol": "894edf1b-4af4-4016-9db1-1c65a5a10494",
+	"Outputs": [
+		{
+			"Address": "0x04f004fc3f2d99e36a4b4d4291933baa9d53b456",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xf06bdce02fbf8d679cd86bcc5e77b870586c8203",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-FLARBI",
+	"Chain": "ethereum"
+}

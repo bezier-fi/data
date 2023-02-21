@@ -1,0 +1,10 @@
+{
+	"Id": "0xa329c9b44dd37b6df93af39bb251772a8dbb8e02",
+	"Symbol": "CHIRON-WETH",
+	"UnderlyingTokens": [
+		"0x27db34feb18868a129cd6a285af92c28fd36807c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "894edf1b-4af4-4016-9db1-1c65a5a10494",
+	"Chain": "ethereum"
+}

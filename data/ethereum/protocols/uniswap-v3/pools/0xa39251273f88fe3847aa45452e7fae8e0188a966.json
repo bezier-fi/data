@@ -1,0 +1,27 @@
+{
+	"Id": "0xa39251273f88fe3847aa45452e7fae8e0188a966",
+	"Protocol": "96cd853e-b95a-446e-a1cf-761fdf38e797",
+	"Outputs": [
+		{
+			"Address": "0xa39251273f88fe3847aa45452e7fae8e0188a966",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x27c70cd1946795b66be9d954418546998b546634",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "LEASH-DAI (1.00%)",
+	"Chain": "ethereum"
+}

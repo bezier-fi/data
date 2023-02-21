@@ -1,0 +1,10 @@
+{
+	"Id": "0xf216e4395d839ac6a4a30d0b7ae0c67173d66220",
+	"Symbol": "AiHub-WETH",
+	"UnderlyingTokens": [
+		"0x3115c07265c6fa99a889cae0d04829bca20eb08e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "894edf1b-4af4-4016-9db1-1c65a5a10494",
+	"Chain": "ethereum"
+}

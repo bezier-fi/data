@@ -1,0 +1,10 @@
+{
+	"Id": "0x2cdc20d27b05fbd44d97f590b3abcc884af88f2d",
+	"Symbol": "FROGGIES-WETH",
+	"UnderlyingTokens": [
+		"0x7c3ff33c76c919b3f5fddaf7bdddbb20a826dc61",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "894edf1b-4af4-4016-9db1-1c65a5a10494",
+	"Chain": "ethereum"
+}

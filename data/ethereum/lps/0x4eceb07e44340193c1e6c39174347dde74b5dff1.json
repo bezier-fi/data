@@ -1,0 +1,10 @@
+{
+	"Id": "0x4eceb07e44340193c1e6c39174347dde74b5dff1",
+	"Symbol": "DARBI-WETH",
+	"UnderlyingTokens": [
+		"0xa0e9fc33d5c1fe11e88a2f59f81a8745c16e9d99",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "894edf1b-4af4-4016-9db1-1c65a5a10494",
+	"Chain": "ethereum"
+}

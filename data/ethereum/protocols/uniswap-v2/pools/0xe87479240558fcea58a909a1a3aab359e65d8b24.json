@@ -1,0 +1,27 @@
+{
+	"Id": "0xe87479240558fcea58a909a1a3aab359e65d8b24",
+	"Protocol": "894edf1b-4af4-4016-9db1-1c65a5a10494",
+	"Outputs": [
+		{
+			"Address": "0xe87479240558fcea58a909a1a3aab359e65d8b24",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3cd62db3d0b2f0ee7818e1d578cdfec182f24f14",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ORA-WETH",
+	"Chain": "ethereum"
+}

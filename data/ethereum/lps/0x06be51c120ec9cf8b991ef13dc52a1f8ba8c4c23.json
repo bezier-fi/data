@@ -1,0 +1,10 @@
+{
+	"Id": "0x06be51c120ec9cf8b991ef13dc52a1f8ba8c4c23",
+	"Symbol": "WETH-CHICKENS",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xffa153cd0fbc4489a0d58f9023effbf81a5bb552"
+	],
+	"Protocol": "894edf1b-4af4-4016-9db1-1c65a5a10494",
+	"Chain": "ethereum"
+}

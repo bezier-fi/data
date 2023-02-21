@@ -1,0 +1,10 @@
+{
+	"Id": "0x6d50514e4d41c07c4f0dd33f9f9c05e1a4abdf02",
+	"Symbol": "DNS-WETH",
+	"UnderlyingTokens": [
+		"0x6c5aa4244113e77414386630b7f963dbe1b4d73d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "894edf1b-4af4-4016-9db1-1c65a5a10494",
+	"Chain": "ethereum"
+}

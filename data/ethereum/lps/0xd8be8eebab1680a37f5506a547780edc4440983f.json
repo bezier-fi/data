@@ -1,0 +1,10 @@
+{
+	"Id": "0xd8be8eebab1680a37f5506a547780edc4440983f",
+	"Symbol": "Cryptorat-WETH",
+	"UnderlyingTokens": [
+		"0x0499333b3ff176d77081e6fc0286e41488b9e458",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "894edf1b-4af4-4016-9db1-1c65a5a10494",
+	"Chain": "ethereum"
+}

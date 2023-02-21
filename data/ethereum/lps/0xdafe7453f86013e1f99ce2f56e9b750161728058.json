@@ -1,0 +1,10 @@
+{
+	"Id": "0xdafe7453f86013e1f99ce2f56e9b750161728058",
+	"Symbol": "WETH-AICNCT",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xcf687a92c0709d849b3dfcc9f814c71d5fab6d95"
+	],
+	"Protocol": "894edf1b-4af4-4016-9db1-1c65a5a10494",
+	"Chain": "ethereum"
+}

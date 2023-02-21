@@ -1,0 +1,10 @@
+{
+	"Id": "0xec76ab679662b448c75bb602737ab677fa240f48",
+	"Symbol": "MIKAWA-WETH",
+	"UnderlyingTokens": [
+		"0x0888fd2960ddf57cfb561b59d73dd2b9524f6a26",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "894edf1b-4af4-4016-9db1-1c65a5a10494",
+	"Chain": "ethereum"
+}

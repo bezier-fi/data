@@ -1,0 +1,10 @@
+{
+	"Id": "0xdf48a6ab0e18d855730dee8c4743b4b82125fa87",
+	"Symbol": "Raioshi-WETH",
+	"UnderlyingTokens": [
+		"0x15af404f622c5ca662d2ae22de5ec31b42827f63",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "894edf1b-4af4-4016-9db1-1c65a5a10494",
+	"Chain": "ethereum"
+}

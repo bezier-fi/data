@@ -1,0 +1,27 @@
+{
+	"Id": "0xf216e4395d839ac6a4a30d0b7ae0c67173d66220",
+	"Protocol": "894edf1b-4af4-4016-9db1-1c65a5a10494",
+	"Outputs": [
+		{
+			"Address": "0xf216e4395d839ac6a4a30d0b7ae0c67173d66220",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3115c07265c6fa99a889cae0d04829bca20eb08e",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "AiHub-WETH",
+	"Chain": "ethereum"
+}

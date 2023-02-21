@@ -1,0 +1,27 @@
+{
+	"Id": "0x69527b65cda47e71b946a345c029044af197ac59",
+	"Protocol": "96cd853e-b95a-446e-a1cf-761fdf38e797",
+	"Outputs": [
+		{
+			"Address": "0x69527b65cda47e71b946a345c029044af197ac59",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0d86eb9f43c57f6ff3bc9e23d8f9d82503f0e84b",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xb7c9e99da8a857ce576a830a9c19312114d9de02",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MAXI-TEAM (1.00%)",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xb8e98e26299cc3e681fc5d3d6eb4e6fffacdc611",
+	"Symbol": "MUDSKIP-WETH",
+	"UnderlyingTokens": [
+		"0x14559de4436ca01dbc3736f5bbda2d266982b3d3",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "894edf1b-4af4-4016-9db1-1c65a5a10494",
+	"Chain": "ethereum"
+}

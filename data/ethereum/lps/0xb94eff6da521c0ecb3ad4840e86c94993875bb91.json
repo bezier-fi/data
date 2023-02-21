@@ -1,0 +1,10 @@
+{
+	"Id": "0xb94eff6da521c0ecb3ad4840e86c94993875bb91",
+	"Symbol": "CROSS-WETH",
+	"UnderlyingTokens": [
+		"0x32835ffa52295ffa5afa00eca082dc6704380430",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "894edf1b-4af4-4016-9db1-1c65a5a10494",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x07941a41a6f96332876ec7480669c4bd83378877",
+	"Symbol": "TruthGPT-WETH",
+	"UnderlyingTokens": [
+		"0xac14410fc67cfd9e0d7779b5b5666817a8a861df",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "894edf1b-4af4-4016-9db1-1c65a5a10494",
+	"Chain": "ethereum"
+}

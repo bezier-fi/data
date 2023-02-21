@@ -1,0 +1,10 @@
+{
+	"Id": "0x1efb240c86e4958c1f3fdf0a9d7b00f303d74bc5",
+	"Symbol": "CHICO-WETH",
+	"UnderlyingTokens": [
+		"0x29142b6e61bfbee6fdd2540da98fbf997849883f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "894edf1b-4af4-4016-9db1-1c65a5a10494",
+	"Chain": "ethereum"
+}

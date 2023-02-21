@@ -1,0 +1,10 @@
+{
+	"Id": "0x0d52d8ed1fcbbe2832138be499f7231a52823381",
+	"Symbol": "Bauhinia-WETH",
+	"UnderlyingTokens": [
+		"0xbc313759cdf82c7f8b7695035e06816a5f730b7a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "894edf1b-4af4-4016-9db1-1c65a5a10494",
+	"Chain": "ethereum"
+}

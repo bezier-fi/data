@@ -1,0 +1,10 @@
+{
+	"Id": "0xd983f441006ae7822a4b8842dd1f55402152a2bf",
+	"Symbol": "VELVET-WETH",
+	"UnderlyingTokens": [
+		"0x130622170547fdbb44268824e1336b9f8228b2c5",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "894edf1b-4af4-4016-9db1-1c65a5a10494",
+	"Chain": "ethereum"
+}

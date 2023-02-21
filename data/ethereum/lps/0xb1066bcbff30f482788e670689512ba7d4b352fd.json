@@ -1,0 +1,10 @@
+{
+	"Id": "0xb1066bcbff30f482788e670689512ba7d4b352fd",
+	"Symbol": "EPASS-WETH",
+	"UnderlyingTokens": [
+		"0xbc36b87bcc0b4c0c45f1a1ba53f07d52e00d7507",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "894edf1b-4af4-4016-9db1-1c65a5a10494",
+	"Chain": "ethereum"
+}

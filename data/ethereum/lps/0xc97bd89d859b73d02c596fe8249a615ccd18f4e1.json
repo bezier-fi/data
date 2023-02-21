@@ -1,0 +1,10 @@
+{
+	"Id": "0xc97bd89d859b73d02c596fe8249a615ccd18f4e1",
+	"Symbol": "OFI-WETH",
+	"UnderlyingTokens": [
+		"0x419e35e3515c2fdb652c898bf7a0b21fb20497dc",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "894edf1b-4af4-4016-9db1-1c65a5a10494",
+	"Chain": "ethereum"
+}

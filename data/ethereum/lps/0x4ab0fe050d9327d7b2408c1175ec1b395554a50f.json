@@ -1,0 +1,10 @@
+{
+	"Id": "0x4ab0fe050d9327d7b2408c1175ec1b395554a50f",
+	"Symbol": "WETH-Specter",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe91ad52b6862c0c9dda0a3b3d6bd9781822ec976"
+	],
+	"Protocol": "894edf1b-4af4-4016-9db1-1c65a5a10494",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0xf610e945474e25a1164cc18d3317236521753de0",
+	"Protocol": "894edf1b-4af4-4016-9db1-1c65a5a10494",
+	"Outputs": [
+		{
+			"Address": "0xf610e945474e25a1164cc18d3317236521753de0",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5f0a569fb69b9b51ce85e5624f0ba059be42b419",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PILL-WETH",
+	"Chain": "ethereum"
+}

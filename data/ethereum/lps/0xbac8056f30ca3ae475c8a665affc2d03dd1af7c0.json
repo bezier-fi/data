@@ -1,0 +1,10 @@
+{
+	"Id": "0xbac8056f30ca3ae475c8a665affc2d03dd1af7c0",
+	"Symbol": "BITCH-WETH",
+	"UnderlyingTokens": [
+		"0xbc00d4db6478dd2f44e9232ea8015ce7c5103a2a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "894edf1b-4af4-4016-9db1-1c65a5a10494",
+	"Chain": "ethereum"
+}

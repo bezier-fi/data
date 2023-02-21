@@ -1,0 +1,10 @@
+{
+	"Id": "0xccc8bd99180913f0557a1388363b9d6b46f0bb17",
+	"Symbol": "YOLK-WETH",
+	"UnderlyingTokens": [
+		"0x7195569dabb8d28a0971a3aeb208dfc4c748e7b3",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "894edf1b-4af4-4016-9db1-1c65a5a10494",
+	"Chain": "ethereum"
+}

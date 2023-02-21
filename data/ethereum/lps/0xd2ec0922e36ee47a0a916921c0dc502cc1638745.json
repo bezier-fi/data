@@ -1,0 +1,10 @@
+{
+	"Id": "0xd2ec0922e36ee47a0a916921c0dc502cc1638745",
+	"Symbol": "Rigr -WETH",
+	"UnderlyingTokens": [
+		"0x94c49531fac311044d399b8a211b5d867704f430",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "894edf1b-4af4-4016-9db1-1c65a5a10494",
+	"Chain": "ethereum"
+}

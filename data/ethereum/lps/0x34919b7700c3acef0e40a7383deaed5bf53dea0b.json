@@ -1,0 +1,10 @@
+{
+	"Id": "0x34919b7700c3acef0e40a7383deaed5bf53dea0b",
+	"Symbol": "LUCKY-WETH",
+	"UnderlyingTokens": [
+		"0x539a06c9172d9dfec7a35bee8a9e787e67cab1a3",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "894edf1b-4af4-4016-9db1-1c65a5a10494",
+	"Chain": "ethereum"
+}

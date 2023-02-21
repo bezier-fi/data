@@ -1,0 +1,10 @@
+{
+	"Id": "0xb248c743b0afc7b779477fcad6883c2d5af03631",
+	"Symbol": "KADO-WETH",
+	"UnderlyingTokens": [
+		"0x513901784dd7ee2538346f2711cacf1ea92290ff",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "894edf1b-4af4-4016-9db1-1c65a5a10494",
+	"Chain": "ethereum"
+}

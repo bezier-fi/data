@@ -1,0 +1,27 @@
+{
+	"Id": "0x9a81f5a6Ea7e60632f659F3f4e772Ba977d80Bd5",
+	"Protocol": "58766153-afd7-408f-a9dd-4ebb273bf9ce",
+	"Outputs": [
+		{
+			"Address": "0x7988292D0FB141085c092132e2a70B30aA1eccAB",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7616113782AaDAB041d7B10d474F8A0c04EFf258",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "VEEUSDC-f",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x6cdc11cc7d5ca89aaa394b5ce4c003f481aa1a67",
+	"Symbol": "SYNF-WETH",
+	"UnderlyingTokens": [
+		"0x78444904805c2aefa75945cbd33d41efa0c2d216",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "07e16cf9-389a-49e7-8120-f7a094c427fc",
+	"Chain": "ethereum"
+}

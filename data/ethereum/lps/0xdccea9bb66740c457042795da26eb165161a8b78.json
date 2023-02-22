@@ -1,0 +1,10 @@
+{
+	"Id": "0xdccea9bb66740c457042795da26eb165161a8b78",
+	"Symbol": "VAI-WETH",
+	"UnderlyingTokens": [
+		"0x1092a57c3b4d029555020215455097dec6ba7fe5",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "07e16cf9-389a-49e7-8120-f7a094c427fc",
+	"Chain": "ethereum"
+}

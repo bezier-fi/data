@@ -1,0 +1,27 @@
+{
+	"Id": "0x7f2b2d6fae29947a39df41c0718fc5b88747e1f2",
+	"Protocol": "250f4c35-3c32-40c4-9fd3-1793a333086c",
+	"Outputs": [
+		{
+			"Address": "0x7f2b2d6fae29947a39df41c0718fc5b88747e1f2",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa0cf46eb152656c7090e769916eb44a138aaa406",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SPH-USDT (0.30%)",
+	"Chain": "ethereum"
+}

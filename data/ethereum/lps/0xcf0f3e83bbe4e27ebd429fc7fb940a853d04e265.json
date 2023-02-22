@@ -1,0 +1,10 @@
+{
+	"Id": "0xcf0f3e83bbe4e27ebd429fc7fb940a853d04e265",
+	"Symbol": "SIMBA-WETH",
+	"UnderlyingTokens": [
+		"0x82c2f739f4af3b401a9f78d9a0d6844db485f098",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "07e16cf9-389a-49e7-8120-f7a094c427fc",
+	"Chain": "ethereum"
+}

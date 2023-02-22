@@ -1,0 +1,27 @@
+{
+	"Id": "0x49ca8a05df0af1c3501050a415a92c65693e1fb8",
+	"Protocol": "07e16cf9-389a-49e7-8120-f7a094c427fc",
+	"Outputs": [
+		{
+			"Address": "0x49ca8a05df0af1c3501050a415a92c65693e1fb8",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9c9b72851f11a0a2581b6c71e95973803aecda4a",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SOUNDAI  -WETH",
+	"Chain": "ethereum"
+}

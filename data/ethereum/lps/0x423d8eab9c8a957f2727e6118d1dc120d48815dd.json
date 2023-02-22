@@ -1,0 +1,10 @@
+{
+	"Id": "0x423d8eab9c8a957f2727e6118d1dc120d48815dd",
+	"Symbol": "WETH-snout",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf9450be43e8729b3c2b128a94e906611b1514221"
+	],
+	"Protocol": "07e16cf9-389a-49e7-8120-f7a094c427fc",
+	"Chain": "ethereum"
+}

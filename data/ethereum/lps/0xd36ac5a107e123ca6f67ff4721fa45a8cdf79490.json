@@ -1,0 +1,10 @@
+{
+	"Id": "0xd36ac5a107e123ca6f67ff4721fa45a8cdf79490",
+	"Symbol": "WETH-EARN",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd914cc66a3b91dc7ba92634ab54727ba2e2e33ae"
+	],
+	"Protocol": "07e16cf9-389a-49e7-8120-f7a094c427fc",
+	"Chain": "ethereum"
+}

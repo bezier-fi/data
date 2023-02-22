@@ -1,0 +1,10 @@
+{
+	"Id": "0xdd5462aaa31e68655eba0a5be00658ae013bef0b",
+	"Symbol": "WETH-FLO",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd5fdacb33ae31bf1074c0d31df84838ef81922a1"
+	],
+	"Protocol": "07e16cf9-389a-49e7-8120-f7a094c427fc",
+	"Chain": "ethereum"
+}

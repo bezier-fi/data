@@ -1,0 +1,10 @@
+{
+	"Id": "0xe7bc6a3f17abc0dfc4aca8cec2a952a1673868c0",
+	"Symbol": "SHIBMA-WETH",
+	"UnderlyingTokens": [
+		"0x69dad9d7c22425c664db9777e826281dbec9334d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "07e16cf9-389a-49e7-8120-f7a094c427fc",
+	"Chain": "ethereum"
+}

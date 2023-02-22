@@ -1,0 +1,27 @@
+{
+	"Id": "0x2098b0b3a94e13ae12ba071df90e46fb6f67877a",
+	"Protocol": "07e16cf9-389a-49e7-8120-f7a094c427fc",
+	"Outputs": [
+		{
+			"Address": "0x2098b0b3a94e13ae12ba071df90e46fb6f67877a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc77b5b36eadd48be1f079ae2b477df6fec46e49b",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-TRAI",
+	"Chain": "ethereum"
+}

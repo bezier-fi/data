@@ -1,0 +1,27 @@
+{
+	"Id": "0xa414489756d0d4daa6f6b5218cd796663cd97bb7",
+	"Protocol": "250f4c35-3c32-40c4-9fd3-1793a333086c",
+	"Outputs": [
+		{
+			"Address": "0xa414489756d0d4daa6f6b5218cd796663cd97bb7",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9813037ee2218799597d83d4a5b6f3b6778218d9",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xe9b076b476d8865cdf79d1cf7df420ee397a7f75",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BONE-FUND (1.00%)",
+	"Chain": "ethereum"
+}

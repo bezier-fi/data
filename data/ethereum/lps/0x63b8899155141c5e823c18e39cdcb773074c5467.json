@@ -1,0 +1,10 @@
+{
+	"Id": "0x63b8899155141c5e823c18e39cdcb773074c5467",
+	"Symbol": "WETH-BREEDS",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf753e8e8258e299892e80acd41c27411faa7ddf1"
+	],
+	"Protocol": "07e16cf9-389a-49e7-8120-f7a094c427fc",
+	"Chain": "ethereum"
+}

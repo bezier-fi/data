@@ -1,0 +1,27 @@
+{
+	"Id": "0xe75f1b0233b639733e725e18f7220648c97ea075",
+	"Protocol": "250f4c35-3c32-40c4-9fd3-1793a333086c",
+	"Outputs": [
+		{
+			"Address": "0xe75f1b0233b639733e725e18f7220648c97ea075",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2559813bbb508c4c79e9ccce4703bcb1f149edd7",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc5fb36dd2fb59d3b98deff88425a3f425ee469ed",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WAIT-TSUKA (0.30%)",
+	"Chain": "ethereum"
+}

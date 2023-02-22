@@ -1,0 +1,27 @@
+{
+	"Id": "0xb28ddf1ee8ee014eafbecd8de979ac8d297931c7",
+	"Protocol": "250f4c35-3c32-40c4-9fd3-1793a333086c",
+	"Outputs": [
+		{
+			"Address": "0xb28ddf1ee8ee014eafbecd8de979ac8d297931c7",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x745407c86df8db893011912d3ab28e68b62e49b0",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MAHA-WETH (1.00%)",
+	"Chain": "ethereum"
+}

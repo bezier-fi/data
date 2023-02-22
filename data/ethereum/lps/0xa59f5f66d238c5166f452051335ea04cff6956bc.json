@@ -1,0 +1,10 @@
+{
+	"Id": "0xa59f5f66d238c5166f452051335ea04cff6956bc",
+	"Symbol": "WETH-TAS",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd40c6f8392b071c5c354cf9293078a3bb5d8ca41"
+	],
+	"Protocol": "07e16cf9-389a-49e7-8120-f7a094c427fc",
+	"Chain": "ethereum"
+}

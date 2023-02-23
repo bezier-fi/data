@@ -1,0 +1,23 @@
+{
+	"Id": "0xaa43DFb8fC642Feb9887cDFFff1DAAd1cFA511B4",
+	"Protocol": "6a18bce2-8e4c-4517-87e0-5aa3119fb035",
+	"Outputs": [
+		{
+			"Address": "0xaa43DFb8fC642Feb9887cDFFff1DAAd1cFA511B4",
+			"Apr": 33.59738,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xF9078Fb962A7D13F55d40d49C8AA6472aBD1A5a6",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "clevCVX/CVX",
+	"Chain": "ethereum"
+}

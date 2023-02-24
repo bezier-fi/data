@@ -1,0 +1,27 @@
+{
+	"Id": "0x2d9d0b0b095129d88e58b253798e8a2ad2731732",
+	"Protocol": "22377536-05d7-45fa-9302-f6e4de6e8bcc",
+	"Outputs": [
+		{
+			"Address": "0x2d9d0b0b095129d88e58b253798e8a2ad2731732",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x765af00f9278ab696e815ffa2d0529cdebd4e10a",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xe5280425d32c26f16887b79b298fc07fd2602a30",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BSKR-LBSKR",
+	"Chain": "ethereum"
+}

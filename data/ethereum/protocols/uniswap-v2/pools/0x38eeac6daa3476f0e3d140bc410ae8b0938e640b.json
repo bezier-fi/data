@@ -1,0 +1,27 @@
+{
+	"Id": "0x38eeac6daa3476f0e3d140bc410ae8b0938e640b",
+	"Protocol": "22377536-05d7-45fa-9302-f6e4de6e8bcc",
+	"Outputs": [
+		{
+			"Address": "0x38eeac6daa3476f0e3d140bc410ae8b0938e640b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x12f1b45eb39b334173a2772c57b9ffa28d7840dd",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MILK-WETH",
+	"Chain": "ethereum"
+}

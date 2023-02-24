@@ -1,0 +1,10 @@
+{
+	"Id": "0xa11dd20cf4077d444bf92d73dd19277fc6a4d96d",
+	"Symbol": "BSKR-WETH",
+	"UnderlyingTokens": [
+		"0x765af00f9278ab696e815ffa2d0529cdebd4e10a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "22377536-05d7-45fa-9302-f6e4de6e8bcc",
+	"Chain": "ethereum"
+}

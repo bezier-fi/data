@@ -1,0 +1,27 @@
+{
+	"Id": "0xee5c67ad41baf3e8a5acf26637a907b22fc982f2",
+	"Protocol": "22377536-05d7-45fa-9302-f6e4de6e8bcc",
+	"Outputs": [
+		{
+			"Address": "0xee5c67ad41baf3e8a5acf26637a907b22fc982f2",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb125314857b990925cc0fd21caf5b199be3a9395",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MAFAI-WETH",
+	"Chain": "ethereum"
+}

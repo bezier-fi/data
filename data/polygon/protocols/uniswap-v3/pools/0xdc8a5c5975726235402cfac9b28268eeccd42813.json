@@ -1,0 +1,27 @@
+{
+	"Id": "0xdc8a5c5975726235402cfac9b28268eeccd42813",
+	"Protocol": "5329056e-ebb9-4e65-9488-7286f44f004d",
+	"Outputs": [
+		{
+			"Address": "0xdc8a5c5975726235402cfac9b28268eeccd42813",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x49e6a20f1bbdfeec2a8222e052000bbb14ee6007",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TNGBL-DAI (0.30%)",
+	"Chain": "polygon"
+}

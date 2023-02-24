@@ -1,0 +1,27 @@
+{
+	"Id": "0x65e6926ad2d9ddac95f098b105807ebe2f913401",
+	"Protocol": "5329056e-ebb9-4e65-9488-7286f44f004d",
+	"Outputs": [
+		{
+			"Address": "0x65e6926ad2d9ddac95f098b105807ebe2f913401",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x73c69d24ad28e2d43d03cbf35f79fe26ebde1011",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ARCH-USDT (1.00%)",
+	"Chain": "ethereum"
+}

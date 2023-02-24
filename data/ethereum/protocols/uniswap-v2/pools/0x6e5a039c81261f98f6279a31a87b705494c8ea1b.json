@@ -1,0 +1,27 @@
+{
+	"Id": "0x6e5a039c81261f98f6279a31a87b705494c8ea1b",
+	"Protocol": "22377536-05d7-45fa-9302-f6e4de6e8bcc",
+	"Outputs": [
+		{
+			"Address": "0x6e5a039c81261f98f6279a31a87b705494c8ea1b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb76539fb1bcde2398017603fa2356dc15f8c06b1",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Z-Fighter-WETH",
+	"Chain": "ethereum"
+}

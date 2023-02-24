@@ -1,0 +1,10 @@
+{
+	"Id": "0x616780b11dc991c9d34e00de28592f0be9c304c3",
+	"Symbol": "SWAI-WETH",
+	"UnderlyingTokens": [
+		"0x3540dfcad7cf102a2e44aa0e2132fab1c89d7eae",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "22377536-05d7-45fa-9302-f6e4de6e8bcc",
+	"Chain": "ethereum"
+}

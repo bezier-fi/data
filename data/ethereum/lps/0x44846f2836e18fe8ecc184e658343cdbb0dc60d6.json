@@ -1,0 +1,10 @@
+{
+	"Id": "0x44846f2836e18fe8ecc184e658343cdbb0dc60d6",
+	"Symbol": "FLSK-WETH",
+	"UnderlyingTokens": [
+		"0x05b902c7fd6d221d582bb973fe6e253921568717",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "22377536-05d7-45fa-9302-f6e4de6e8bcc",
+	"Chain": "ethereum"
+}

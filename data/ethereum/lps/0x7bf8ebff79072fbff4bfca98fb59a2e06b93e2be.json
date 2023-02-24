@@ -1,0 +1,10 @@
+{
+	"Id": "0x7bf8ebff79072fbff4bfca98fb59a2e06b93e2be",
+	"Symbol": "WETH-Flokireum",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfa0ca28197fc102a216307f7dbf8055f6b69e88b"
+	],
+	"Protocol": "22377536-05d7-45fa-9302-f6e4de6e8bcc",
+	"Chain": "ethereum"
+}

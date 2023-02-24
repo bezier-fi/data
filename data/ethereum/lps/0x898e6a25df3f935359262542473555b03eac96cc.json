@@ -1,0 +1,10 @@
+{
+	"Id": "0x898e6a25df3f935359262542473555b03eac96cc",
+	"Symbol": "LAB-WETH",
+	"UnderlyingTokens": [
+		"0x57b8c12261f9aa6b64fea384c7d460de3ed1d9ab",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "22377536-05d7-45fa-9302-f6e4de6e8bcc",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x01a7967fda39defed761f3ab61aa52c459899a51",
+	"Symbol": "EGGYOLK-WETH",
+	"UnderlyingTokens": [
+		"0x7e897a5fdc03f0e2cf24b5a7e28b6439f3194de7",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "22377536-05d7-45fa-9302-f6e4de6e8bcc",
+	"Chain": "ethereum"
+}

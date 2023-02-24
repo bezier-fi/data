@@ -1,0 +1,10 @@
+{
+	"Id": "0x2894bf405b09815f1ba0b5b31554a985d722fc58",
+	"Symbol": "BBAI-WETH",
+	"UnderlyingTokens": [
+		"0x3da7783274982c0577b83ba5fd8fc84f480cf275",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "22377536-05d7-45fa-9302-f6e4de6e8bcc",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xaa455cbac1c45d3c35d2beb7d9f735f3d9a6bbfa",
+	"Symbol": "SPCAI-WETH",
+	"UnderlyingTokens": [
+		"0x6fe512e493c0b53c81b7761725a89e82d23b1760",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "22377536-05d7-45fa-9302-f6e4de6e8bcc",
+	"Chain": "ethereum"
+}

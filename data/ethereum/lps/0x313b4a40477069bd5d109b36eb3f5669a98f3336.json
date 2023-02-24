@@ -1,0 +1,10 @@
+{
+	"Id": "0x313b4a40477069bd5d109b36eb3f5669a98f3336",
+	"Symbol": "WORD-WETH",
+	"UnderlyingTokens": [
+		"0x10bcdfe605afd47ebb93dc281d09bb193fa8594c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "22377536-05d7-45fa-9302-f6e4de6e8bcc",
+	"Chain": "ethereum"
+}

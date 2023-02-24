@@ -1,0 +1,10 @@
+{
+	"Id": "0x1eaaf0bb1c5bb5f9268169c10e0fb991fc983430",
+	"Symbol": "Micro++-WETH",
+	"UnderlyingTokens": [
+		"0xb1592c8b4817532a4a3b5a8b9f667e1bdded9bb1",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "22377536-05d7-45fa-9302-f6e4de6e8bcc",
+	"Chain": "ethereum"
+}

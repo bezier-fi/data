@@ -1,0 +1,10 @@
+{
+	"Id": "0x9d30d2848d585f61fbdfb6c387bbb2f1a717ab16",
+	"Symbol": "WETH-ALIT",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfec1408fa5ef2a57c4f46edb3c105ff3804ac5d6"
+	],
+	"Protocol": "22377536-05d7-45fa-9302-f6e4de6e8bcc",
+	"Chain": "ethereum"
+}

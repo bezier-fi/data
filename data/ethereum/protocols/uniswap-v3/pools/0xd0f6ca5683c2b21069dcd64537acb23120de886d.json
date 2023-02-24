@@ -1,0 +1,27 @@
+{
+	"Id": "0xd0f6ca5683c2b21069dcd64537acb23120de886d",
+	"Protocol": "5329056e-ebb9-4e65-9488-7286f44f004d",
+	"Outputs": [
+		{
+			"Address": "0xd0f6ca5683c2b21069dcd64537acb23120de886d",
+			"Apr": 9.982458,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0258f474786ddfd37abce6df6bbb1dd5dfc4434a",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ORN-WETH (1.00%)",
+	"Chain": "ethereum"
+}

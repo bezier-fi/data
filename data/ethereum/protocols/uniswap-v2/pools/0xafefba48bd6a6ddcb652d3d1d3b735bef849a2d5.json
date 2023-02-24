@@ -1,0 +1,27 @@
+{
+	"Id": "0xafefba48bd6a6ddcb652d3d1d3b735bef849a2d5",
+	"Protocol": "22377536-05d7-45fa-9302-f6e4de6e8bcc",
+	"Outputs": [
+		{
+			"Address": "0xafefba48bd6a6ddcb652d3d1d3b735bef849a2d5",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xd2b4701ece134b70613afe691d69200728eb5d40",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-CthulhuAI",
+	"Chain": "ethereum"
+}

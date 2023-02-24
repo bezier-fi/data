@@ -1,0 +1,10 @@
+{
+	"Id": "0xefe10a9cf8483ae84c1ea8229df15c818a9dbcd0",
+	"Symbol": "ROY-WETH",
+	"UnderlyingTokens": [
+		"0x24623f1bca3daf0e3acbff9abda5af3d20f11a52",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "22377536-05d7-45fa-9302-f6e4de6e8bcc",
+	"Chain": "ethereum"
+}

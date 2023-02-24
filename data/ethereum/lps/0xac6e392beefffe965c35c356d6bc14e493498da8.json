@@ -1,0 +1,10 @@
+{
+	"Id": "0xac6e392beefffe965c35c356d6bc14e493498da8",
+	"Symbol": "DOGS-WETH",
+	"UnderlyingTokens": [
+		"0xbccd27062ae1a2bea5731c904b96edfb163aba21",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "22377536-05d7-45fa-9302-f6e4de6e8bcc",
+	"Chain": "ethereum"
+}

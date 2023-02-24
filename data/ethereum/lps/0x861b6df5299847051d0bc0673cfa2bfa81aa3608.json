@@ -1,0 +1,10 @@
+{
+	"Id": "0x861b6df5299847051d0bc0673cfa2bfa81aa3608",
+	"Symbol": "FINDER-WETH",
+	"UnderlyingTokens": [
+		"0x910d9c62cab5ed15eb47447c71cbb9f4153f7a8f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "22377536-05d7-45fa-9302-f6e4de6e8bcc",
+	"Chain": "ethereum"
+}

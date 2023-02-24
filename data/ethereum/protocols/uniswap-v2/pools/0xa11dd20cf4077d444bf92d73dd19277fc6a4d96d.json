@@ -1,0 +1,27 @@
+{
+	"Id": "0xa11dd20cf4077d444bf92d73dd19277fc6a4d96d",
+	"Protocol": "22377536-05d7-45fa-9302-f6e4de6e8bcc",
+	"Outputs": [
+		{
+			"Address": "0xa11dd20cf4077d444bf92d73dd19277fc6a4d96d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x765af00f9278ab696e815ffa2d0529cdebd4e10a",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BSKR-WETH",
+	"Chain": "ethereum"
+}

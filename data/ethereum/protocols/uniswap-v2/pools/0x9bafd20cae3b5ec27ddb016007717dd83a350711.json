@@ -1,0 +1,27 @@
+{
+	"Id": "0x9bafd20cae3b5ec27ddb016007717dd83a350711",
+	"Protocol": "e178ff8e-1b89-43e3-952a-5f2533c26c36",
+	"Outputs": [
+		{
+			"Address": "0x9bafd20cae3b5ec27ddb016007717dd83a350711",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6c82de91ded1c600916f06fc0e997dc184fac464",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CYS-USDT",
+	"Chain": "ethereum"
+}

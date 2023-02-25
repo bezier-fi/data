@@ -1,0 +1,10 @@
+{
+	"Id": "0xd5319ccee31fea0668dee3cb15ba8a1ce1d253bb",
+	"Symbol": "PDT-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x4c2af3e2730e314bb0c53f0c9dd372090372fb28",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "e0cb68f1-9b89-437a-a69b-bc542a59324d",
+	"Chain": "ethereum"
+}

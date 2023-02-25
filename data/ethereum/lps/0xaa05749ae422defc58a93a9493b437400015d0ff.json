@@ -1,0 +1,10 @@
+{
+	"Id": "0xaa05749ae422defc58a93a9493b437400015d0ff",
+	"Symbol": "IDOL-WETH",
+	"UnderlyingTokens": [
+		"0x819815c7c0d288ebcfc097349fb6f879ec3b9817",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "e178ff8e-1b89-43e3-952a-5f2533c26c36",
+	"Chain": "ethereum"
+}

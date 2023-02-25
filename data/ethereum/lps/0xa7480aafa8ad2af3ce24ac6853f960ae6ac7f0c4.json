@@ -1,0 +1,10 @@
+{
+	"Id": "0xa7480aafa8ad2af3ce24ac6853f960ae6ac7f0c4",
+	"Symbol": "ATOR-WETH",
+	"UnderlyingTokens": [
+		"0x0f7b3f5a8fed821c5eb60049538a548db2d479ce",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "e178ff8e-1b89-43e3-952a-5f2533c26c36",
+	"Chain": "ethereum"
+}

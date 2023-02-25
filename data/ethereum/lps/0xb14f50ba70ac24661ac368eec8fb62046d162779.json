@@ -1,0 +1,10 @@
+{
+	"Id": "0xb14f50ba70ac24661ac368eec8fb62046d162779",
+	"Symbol": "WETH-VidAI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xdac247a9ebde148bf485d4182c9a7e3fe04bf33f"
+	],
+	"Protocol": "e178ff8e-1b89-43e3-952a-5f2533c26c36",
+	"Chain": "ethereum"
+}

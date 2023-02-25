@@ -1,0 +1,10 @@
+{
+	"Id": "0x2d8f133732df96321be2e80f7236f81d16d4b7fe",
+	"Symbol": "WETH-EGGST",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xea332b878f38db72fe1d60c1dd41db5d31febd90"
+	],
+	"Protocol": "e178ff8e-1b89-43e3-952a-5f2533c26c36",
+	"Chain": "ethereum"
+}

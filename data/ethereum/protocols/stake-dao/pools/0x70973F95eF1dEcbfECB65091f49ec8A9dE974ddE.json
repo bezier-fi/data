@@ -1,0 +1,37 @@
+{
+	"Id": "0x70973F95eF1dEcbfECB65091f49ec8A9dE974ddE",
+	"Protocol": "7add790e-e3f7-4c6f-bb3e-6f84c1dd9bc4",
+	"Outputs": [
+		{
+			"Address": "0x73968b9a57c6e53d41345fd57a6e6ae27d6cdb2f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		},
+		{
+			"Address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+			"Apr": 3.5600953,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		},
+		{
+			"Address": "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",
+			"Apr": 3.5600953,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x828b154032950C8ff7CF8085D841723Db2696056",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "stETH concentrated",
+	"Chain": "ethereum"
+}

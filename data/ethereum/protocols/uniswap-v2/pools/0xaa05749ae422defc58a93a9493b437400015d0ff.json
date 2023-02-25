@@ -1,0 +1,27 @@
+{
+	"Id": "0xaa05749ae422defc58a93a9493b437400015d0ff",
+	"Protocol": "e178ff8e-1b89-43e3-952a-5f2533c26c36",
+	"Outputs": [
+		{
+			"Address": "0xaa05749ae422defc58a93a9493b437400015d0ff",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x819815c7c0d288ebcfc097349fb6f879ec3b9817",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "IDOL-WETH",
+	"Chain": "ethereum"
+}

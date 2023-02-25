@@ -1,0 +1,10 @@
+{
+	"Id": "0xd161a0c980658044c2f316d52e940a024eedefed",
+	"Symbol": "AHI-WETH",
+	"UnderlyingTokens": [
+		"0x82db4d47c1ec25b8ecd9da6be7eeb72296264a07",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "e178ff8e-1b89-43e3-952a-5f2533c26c36",
+	"Chain": "ethereum"
+}

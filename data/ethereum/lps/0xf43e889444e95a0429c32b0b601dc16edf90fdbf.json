@@ -1,0 +1,10 @@
+{
+	"Id": "0xf43e889444e95a0429c32b0b601dc16edf90fdbf",
+	"Symbol": "AFY-WETH",
+	"UnderlyingTokens": [
+		"0xa41161af8d4ee421ba5fed4328f2b12034796a21",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "e178ff8e-1b89-43e3-952a-5f2533c26c36",
+	"Chain": "ethereum"
+}

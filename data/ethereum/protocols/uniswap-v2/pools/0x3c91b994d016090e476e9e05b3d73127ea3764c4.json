@@ -1,0 +1,27 @@
+{
+	"Id": "0x3c91b994d016090e476e9e05b3d73127ea3764c4",
+	"Protocol": "e178ff8e-1b89-43e3-952a-5f2533c26c36",
+	"Outputs": [
+		{
+			"Address": "0x3c91b994d016090e476e9e05b3d73127ea3764c4",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x588f8ebb227f7f21117e46440f9a97f03b75b6d5",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MARU-WETH",
+	"Chain": "ethereum"
+}

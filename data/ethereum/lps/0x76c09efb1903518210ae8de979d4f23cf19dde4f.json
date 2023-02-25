@@ -1,0 +1,10 @@
+{
+	"Id": "0x76c09efb1903518210ae8de979d4f23cf19dde4f",
+	"Symbol": "CATS-WETH",
+	"UnderlyingTokens": [
+		"0x4f60c8d585ca9e994750f53a989aa865ec99c9f7",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "e178ff8e-1b89-43e3-952a-5f2533c26c36",
+	"Chain": "ethereum"
+}

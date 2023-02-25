@@ -1,0 +1,10 @@
+{
+	"Id": "0xee7523226cb6ae55f642c630060b8b974dfb16bc",
+	"Symbol": "SAFU-WETH",
+	"UnderlyingTokens": [
+		"0x05b21a64250a9747babeb98dd1df7f976322d2f8",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "e178ff8e-1b89-43e3-952a-5f2533c26c36",
+	"Chain": "ethereum"
+}

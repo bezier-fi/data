@@ -1,0 +1,27 @@
+{
+	"Id": "0xd4cd70c4569f1e3661d50004449fd501a386237c",
+	"Protocol": "e0cb68f1-9b89-437a-a69b-bc542a59324d",
+	"Outputs": [
+		{
+			"Address": "0xd4cd70c4569f1e3661d50004449fd501a386237c",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x5f98805a4e8be255a32880fdec7f6728c6568ba0",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WBTC-LUSD (0.30%)",
+	"Chain": "ethereum"
+}

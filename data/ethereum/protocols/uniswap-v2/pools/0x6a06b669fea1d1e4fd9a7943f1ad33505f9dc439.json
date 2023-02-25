@@ -1,0 +1,27 @@
+{
+	"Id": "0x6a06b669fea1d1e4fd9a7943f1ad33505f9dc439",
+	"Protocol": "e178ff8e-1b89-43e3-952a-5f2533c26c36",
+	"Outputs": [
+		{
+			"Address": "0x6a06b669fea1d1e4fd9a7943f1ad33505f9dc439",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3615998b728e925a0345289cff06967b9d41c81e",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "XEION-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,37 @@
+{
+	"Id": "0xE2060820Dde4911dF009076DF18DFfaFc9435Cd0",
+	"Protocol": "7add790e-e3f7-4c6f-bb3e-6f84c1dd9bc4",
+	"Outputs": [
+		{
+			"Address": "0x73968b9a57c6e53d41345fd57a6e6ae27d6cdb2f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		},
+		{
+			"Address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+			"Apr": 1.941265,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		},
+		{
+			"Address": "0x8290333ceF9e6D528dD5618Fb97a76f268f3EDD4",
+			"Apr": 1.941265,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xaA17A236F2bAdc98DDc0Cf999AbB47D47Fc0A6Cf",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ankreth",
+	"Chain": "ethereum"
+}

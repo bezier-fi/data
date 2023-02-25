@@ -1,0 +1,27 @@
+{
+	"Id": "0x614a0ba61a9b6d6c60ef5c47b8bc207daa2e5015",
+	"Protocol": "e178ff8e-1b89-43e3-952a-5f2533c26c36",
+	"Outputs": [
+		{
+			"Address": "0x614a0ba61a9b6d6c60ef5c47b8bc207daa2e5015",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa6c8f03eac6acb622c042e4eaa030cbf1bbb7561",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "XAPITAL-WETH",
+	"Chain": "ethereum"
+}

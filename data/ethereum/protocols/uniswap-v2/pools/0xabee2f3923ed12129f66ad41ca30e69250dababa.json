@@ -1,0 +1,27 @@
+{
+	"Id": "0xabee2f3923ed12129f66ad41ca30e69250dababa",
+	"Protocol": "2e4f5ad3-d364-4e46-ae57-50a4853b3107",
+	"Outputs": [
+		{
+			"Address": "0xabee2f3923ed12129f66ad41ca30e69250dababa",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7444fd47e53a033d130af8a7854949cfb50c1f9d",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "LOCKAI-WETH",
+	"Chain": "ethereum"
+}

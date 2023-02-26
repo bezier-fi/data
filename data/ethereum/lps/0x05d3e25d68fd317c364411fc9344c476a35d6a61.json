@@ -1,0 +1,10 @@
+{
+	"Id": "0x05d3e25d68fd317c364411fc9344c476a35d6a61",
+	"Symbol": "AZORA-WETH",
+	"UnderlyingTokens": [
+		"0x27f1427a37dc5a7cf74cf0dbd08eaab5af9721f0",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2e4f5ad3-d364-4e46-ae57-50a4853b3107",
+	"Chain": "ethereum"
+}

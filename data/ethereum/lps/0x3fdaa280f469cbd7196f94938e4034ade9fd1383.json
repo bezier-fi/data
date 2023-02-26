@@ -1,0 +1,10 @@
+{
+	"Id": "0x3fdaa280f469cbd7196f94938e4034ade9fd1383",
+	"Symbol": "WETH-NPC",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc6564e6bc4b053d379e0c1a2fce673b192be64d7"
+	],
+	"Protocol": "2e4f5ad3-d364-4e46-ae57-50a4853b3107",
+	"Chain": "ethereum"
+}

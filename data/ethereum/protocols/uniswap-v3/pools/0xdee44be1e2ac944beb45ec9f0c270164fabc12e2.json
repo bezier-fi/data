@@ -1,0 +1,27 @@
+{
+	"Id": "0xdee44be1e2ac944beb45ec9f0c270164fabc12e2",
+	"Protocol": "6773be08-eee9-4b6b-a9ef-06cd769057c8",
+	"Outputs": [
+		{
+			"Address": "0xdee44be1e2ac944beb45ec9f0c270164fabc12e2",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x33909c9ce97ce509dab3a038b3ec7ac3d1be3231",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TERA2-WETH (0.01%)",
+	"Chain": "ethereum"
+}

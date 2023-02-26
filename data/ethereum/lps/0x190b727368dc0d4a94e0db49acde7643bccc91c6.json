@@ -1,0 +1,10 @@
+{
+	"Id": "0x190b727368dc0d4a94e0db49acde7643bccc91c6",
+	"Symbol": "WETH-ShibEGGS",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe26ef8cbd72add0102fbaac6f45c5d3db46516fa"
+	],
+	"Protocol": "2e4f5ad3-d364-4e46-ae57-50a4853b3107",
+	"Chain": "ethereum"
+}

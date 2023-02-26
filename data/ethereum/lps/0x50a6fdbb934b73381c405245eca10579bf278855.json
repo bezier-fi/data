@@ -1,0 +1,10 @@
+{
+	"Id": "0x50a6fdbb934b73381c405245eca10579bf278855",
+	"Symbol": "BHEIST-WETH",
+	"UnderlyingTokens": [
+		"0xa59eec54048f6a74c976329965076677a001e563",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2e4f5ad3-d364-4e46-ae57-50a4853b3107",
+	"Chain": "ethereum"
+}

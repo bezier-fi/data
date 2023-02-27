@@ -1,0 +1,10 @@
+{
+	"Id": "0xfd25dac4d8c0d84f7c62294ff60ebf3f905d40ab",
+	"Symbol": "WETH-BonePAD",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc620f7f10ee9059336f09371f21a0bd056e8a000"
+	],
+	"Protocol": "3492c042-0e6c-4369-a934-ed852217750b",
+	"Chain": "ethereum"
+}

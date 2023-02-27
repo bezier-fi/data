@@ -1,0 +1,10 @@
+{
+	"Id": "0x88fc4daa00c436b348462532f913a697eb420259",
+	"Symbol": "WETH-LOKIE",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd03452e3787813d1f261416104a2800bef12d644"
+	],
+	"Protocol": "3492c042-0e6c-4369-a934-ed852217750b",
+	"Chain": "ethereum"
+}

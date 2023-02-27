@@ -1,0 +1,10 @@
+{
+	"Id": "0x3765c54df50538d5f8aeee29c0a82299690340f3",
+	"Symbol": "MAI-WETH",
+	"UnderlyingTokens": [
+		"0x8191dff120cb1a75180d1eda055eee45531d6cc9",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3492c042-0e6c-4369-a934-ed852217750b",
+	"Chain": "ethereum"
+}

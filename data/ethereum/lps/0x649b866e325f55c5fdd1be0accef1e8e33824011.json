@@ -1,0 +1,10 @@
+{
+	"Id": "0x649b866e325f55c5fdd1be0accef1e8e33824011",
+	"Symbol": "WETH-AngstAI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe0950f8237cbfa00d3238581ab424f361c8f6654"
+	],
+	"Protocol": "3492c042-0e6c-4369-a934-ed852217750b",
+	"Chain": "ethereum"
+}

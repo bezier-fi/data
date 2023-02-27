@@ -1,0 +1,10 @@
+{
+	"Id": "0xf965f76d6c831b7d1ea848bd60ccfae792a637f8",
+	"Symbol": "WETH-VELA",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf81a15cc61f95c26a11e662cb5f2a3e640e8378d"
+	],
+	"Protocol": "3492c042-0e6c-4369-a934-ed852217750b",
+	"Chain": "ethereum"
+}

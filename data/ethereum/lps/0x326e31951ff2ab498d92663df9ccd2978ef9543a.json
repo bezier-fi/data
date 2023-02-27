@@ -1,0 +1,10 @@
+{
+	"Id": "0x326e31951ff2ab498d92663df9ccd2978ef9543a",
+	"Symbol": "TOYGER-WETH",
+	"UnderlyingTokens": [
+		"0x1ff755f4d80fdaa2fa16a6cd185814024e307035",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3492c042-0e6c-4369-a934-ed852217750b",
+	"Chain": "ethereum"
+}

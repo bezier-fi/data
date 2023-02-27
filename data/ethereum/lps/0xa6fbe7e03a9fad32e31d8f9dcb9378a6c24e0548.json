@@ -1,0 +1,10 @@
+{
+	"Id": "0xa6fbe7e03a9fad32e31d8f9dcb9378a6c24e0548",
+	"Symbol": "WETH-BabyBone",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xdcc7193ee38c95162b21e036afe83ce31c31601c"
+	],
+	"Protocol": "3492c042-0e6c-4369-a934-ed852217750b",
+	"Chain": "ethereum"
+}

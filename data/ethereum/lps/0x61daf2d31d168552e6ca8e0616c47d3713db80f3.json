@@ -1,0 +1,10 @@
+{
+	"Id": "0x61daf2d31d168552e6ca8e0616c47d3713db80f3",
+	"Symbol": "KOS-WETH",
+	"UnderlyingTokens": [
+		"0x848130645bdb46d81d9f6cb3c1750fcea5344992",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3492c042-0e6c-4369-a934-ed852217750b",
+	"Chain": "ethereum"
+}

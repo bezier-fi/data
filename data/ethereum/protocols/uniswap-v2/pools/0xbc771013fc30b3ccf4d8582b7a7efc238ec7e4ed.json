@@ -1,0 +1,27 @@
+{
+	"Id": "0xbc771013fc30b3ccf4d8582b7a7efc238ec7e4ed",
+	"Protocol": "3492c042-0e6c-4369-a934-ed852217750b",
+	"Outputs": [
+		{
+			"Address": "0xbc771013fc30b3ccf4d8582b7a7efc238ec7e4ed",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9b2c0dfcd30ac40850855ce361e5f646fd90c345",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CARBY-WETH",
+	"Chain": "ethereum"
+}

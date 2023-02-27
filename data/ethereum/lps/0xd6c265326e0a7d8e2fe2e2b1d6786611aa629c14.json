@@ -1,0 +1,10 @@
+{
+	"Id": "0xd6c265326e0a7d8e2fe2e2b1d6786611aa629c14",
+	"Symbol": "EMBRYO-WETH",
+	"UnderlyingTokens": [
+		"0x85029739223a7c40eadb4b228967eb62228dfd82",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3492c042-0e6c-4369-a934-ed852217750b",
+	"Chain": "ethereum"
+}

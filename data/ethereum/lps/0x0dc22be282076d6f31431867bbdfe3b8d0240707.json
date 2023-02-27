@@ -1,0 +1,10 @@
+{
+	"Id": "0x0dc22be282076d6f31431867bbdfe3b8d0240707",
+	"Symbol": "BSHIBA-WETH",
+	"UnderlyingTokens": [
+		"0x8bac5fe48b66be28372e366c54276acd37cb3f42",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3492c042-0e6c-4369-a934-ed852217750b",
+	"Chain": "ethereum"
+}

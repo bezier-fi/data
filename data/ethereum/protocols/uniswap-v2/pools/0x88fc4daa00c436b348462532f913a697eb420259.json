@@ -1,0 +1,27 @@
+{
+	"Id": "0x88fc4daa00c436b348462532f913a697eb420259",
+	"Protocol": "3492c042-0e6c-4369-a934-ed852217750b",
+	"Outputs": [
+		{
+			"Address": "0x88fc4daa00c436b348462532f913a697eb420259",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xd03452e3787813d1f261416104a2800bef12d644",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-LOKIE",
+	"Chain": "ethereum"
+}

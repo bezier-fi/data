@@ -1,23 +1,7 @@
 [
 	{
-		"Id": "0x172370d5cd63279efa6d502dab29171933a610af0xa97684ead0e402dc232d5a977953df7ecbab3cdb",
-		"Symbol": "CRV"
-	},
-	{
-		"Id": "0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a70xa97684ead0e402dc232d5a977953df7ecbab3cdb",
-		"Symbol": "GHST"
-	},
-	{
-		"Id": "0x4e3decbb3645551b8a19f0ea1678079fcb33fb4c0xa97684ead0e402dc232d5a977953df7ecbab3cdb",
-		"Symbol": "jEUR"
-	},
-	{
-		"Id": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f0xa97684ead0e402dc232d5a977953df7ecbab3cdb",
-		"Symbol": "USDT"
-	},
-	{
-		"Id": "0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a0xa97684ead0e402dc232d5a977953df7ecbab3cdb",
-		"Symbol": "SUSHI"
+		"Id": "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd60xa97684ead0e402dc232d5a977953df7ecbab3cdb",
+		"Symbol": "WBTC"
 	},
 	{
 		"Id": "0x2791bca1f2de4661ed88a30c99a7a9449aa841740xa97684ead0e402dc232d5a977953df7ecbab3cdb",
@@ -28,40 +12,8 @@
 		"Symbol": "WETH"
 	},
 	{
-		"Id": "0xa3fa99a148fa48d14ed51d610c367c61876997f10xa97684ead0e402dc232d5a977953df7ecbab3cdb",
-		"Symbol": "miMATIC"
-	},
-	{
-		"Id": "0xd6df932a45c0f255f85145f286ea0b292b21c90b0xa97684ead0e402dc232d5a977953df7ecbab3cdb",
-		"Symbol": "AAVE"
-	},
-	{
-		"Id": "0xe0b52e49357fd4daf2c15e02058dce6bc0057db40xa97684ead0e402dc232d5a977953df7ecbab3cdb",
-		"Symbol": "agEUR"
-	},
-	{
-		"Id": "0xe111178a87a3bff0c8d18decba5798827539ae990xa97684ead0e402dc232d5a977953df7ecbab3cdb",
-		"Symbol": "EURS"
-	},
-	{
-		"Id": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf12700xa97684ead0e402dc232d5a977953df7ecbab3cdb",
-		"Symbol": "WMATIC"
-	},
-	{
-		"Id": "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd60xa97684ead0e402dc232d5a977953df7ecbab3cdb",
-		"Symbol": "WBTC"
-	},
-	{
-		"Id": "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad390xa97684ead0e402dc232d5a977953df7ecbab3cdb",
-		"Symbol": "LINK"
-	},
-	{
-		"Id": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a0630xa97684ead0e402dc232d5a977953df7ecbab3cdb",
-		"Symbol": "DAI"
-	},
-	{
-		"Id": "0x9a71012b13ca4d3d0cdc72a177df3ef03b0e76a30xa97684ead0e402dc232d5a977953df7ecbab3cdb",
-		"Symbol": "BAL"
+		"Id": "0x172370d5cd63279efa6d502dab29171933a610af0xa97684ead0e402dc232d5a977953df7ecbab3cdb",
+		"Symbol": "CRV"
 	},
 	{
 		"Id": "0x3a58a54c066fdc0f2d55fc9c89f0415c92ebf3c40xa97684ead0e402dc232d5a977953df7ecbab3cdb",
@@ -72,7 +24,55 @@
 		"Symbol": "DPI"
 	},
 	{
+		"Id": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f0xa97684ead0e402dc232d5a977953df7ecbab3cdb",
+		"Symbol": "USDT"
+	},
+	{
+		"Id": "0x9a71012b13ca4d3d0cdc72a177df3ef03b0e76a30xa97684ead0e402dc232d5a977953df7ecbab3cdb",
+		"Symbol": "BAL"
+	},
+	{
+		"Id": "0xa3fa99a148fa48d14ed51d610c367c61876997f10xa97684ead0e402dc232d5a977953df7ecbab3cdb",
+		"Symbol": "miMATIC"
+	},
+	{
+		"Id": "0xd6df932a45c0f255f85145f286ea0b292b21c90b0xa97684ead0e402dc232d5a977953df7ecbab3cdb",
+		"Symbol": "AAVE"
+	},
+	{
+		"Id": "0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a0xa97684ead0e402dc232d5a977953df7ecbab3cdb",
+		"Symbol": "SUSHI"
+	},
+	{
+		"Id": "0x4e3decbb3645551b8a19f0ea1678079fcb33fb4c0xa97684ead0e402dc232d5a977953df7ecbab3cdb",
+		"Symbol": "jEUR"
+	},
+	{
+		"Id": "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad390xa97684ead0e402dc232d5a977953df7ecbab3cdb",
+		"Symbol": "LINK"
+	},
+	{
+		"Id": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a0630xa97684ead0e402dc232d5a977953df7ecbab3cdb",
+		"Symbol": "DAI"
+	},
+	{
 		"Id": "0xfa68fb4628dff1028cfec22b4162fccd0d45efb60xa97684ead0e402dc232d5a977953df7ecbab3cdb",
 		"Symbol": "MaticX"
+	},
+	{
+		"Id": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf12700xa97684ead0e402dc232d5a977953df7ecbab3cdb",
+		"Symbol": "WMATIC"
+	},
+	{
+		"Id": "0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a70xa97684ead0e402dc232d5a977953df7ecbab3cdb",
+		"Symbol": "GHST"
+	},
+	{
+		"Id": "0xe0b52e49357fd4daf2c15e02058dce6bc0057db40xa97684ead0e402dc232d5a977953df7ecbab3cdb",
+		"Symbol": "agEUR"
+	},
+	{
+		"Id": "0xe111178a87a3bff0c8d18decba5798827539ae990xa97684ead0e402dc232d5a977953df7ecbab3cdb",
+		"Symbol": "EURS"
 	}
 ]

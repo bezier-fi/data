@@ -1,0 +1,27 @@
+{
+	"Id": "0xa6fbe7e03a9fad32e31d8f9dcb9378a6c24e0548",
+	"Protocol": "3492c042-0e6c-4369-a934-ed852217750b",
+	"Outputs": [
+		{
+			"Address": "0xa6fbe7e03a9fad32e31d8f9dcb9378a6c24e0548",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xdcc7193ee38c95162b21e036afe83ce31c31601c",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-BabyBone",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xd2a907fe3c553d39770ddeda65003ab73620c14d",
+	"Symbol": "WETH-PLATYPUS",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe010b78b185074ea3ae95e7b4a11978365e38414"
+	],
+	"Protocol": "3492c042-0e6c-4369-a934-ed852217750b",
+	"Chain": "ethereum"
+}

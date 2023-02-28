@@ -1,0 +1,10 @@
+{
+	"Id": "0xf23e66db13da88541f80ad587b59fa9f4e337229",
+	"Symbol": "USDC-SAI",
+	"UnderlyingTokens": [
+		"0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+		"0xd96f7c07d90110fc25577788d9a6147fad092ea3"
+	],
+	"Protocol": "202cafc9-180f-4193-8ed5-8ab2de293e56",
+	"Chain": "ethereum"
+}

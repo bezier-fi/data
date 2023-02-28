@@ -1,0 +1,10 @@
+{
+	"Id": "0x0d73f1b9d55a841dfd818b15cfe9f2c06baf3bc1",
+	"Symbol": "OXIDE-WETH",
+	"UnderlyingTokens": [
+		"0x4993d82d0570f53146ea8f402b6c16609292f266",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "202cafc9-180f-4193-8ed5-8ab2de293e56",
+	"Chain": "ethereum"
+}

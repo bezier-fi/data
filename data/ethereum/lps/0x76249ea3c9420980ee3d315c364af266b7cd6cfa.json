@@ -1,0 +1,10 @@
+{
+	"Id": "0x76249ea3c9420980ee3d315c364af266b7cd6cfa",
+	"Symbol": "WETH-SPONGEBOB",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe4e076f5d0976a1c724ade409a046fd855a09315"
+	],
+	"Protocol": "202cafc9-180f-4193-8ed5-8ab2de293e56",
+	"Chain": "ethereum"
+}

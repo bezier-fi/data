@@ -1,0 +1,10 @@
+{
+	"Id": "0xcc4b27afa318726e914a5838e13b358bd9cf54d1",
+	"Symbol": "WETH-NEKOS",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xcfda076f994f19701467f5e7ec0ebccbcb3794f3"
+	],
+	"Protocol": "202cafc9-180f-4193-8ed5-8ab2de293e56",
+	"Chain": "ethereum"
+}

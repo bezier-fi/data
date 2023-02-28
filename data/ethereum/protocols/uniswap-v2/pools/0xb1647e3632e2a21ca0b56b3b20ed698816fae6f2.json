@@ -1,0 +1,27 @@
+{
+	"Id": "0xb1647e3632e2a21ca0b56b3b20ed698816fae6f2",
+	"Protocol": "202cafc9-180f-4193-8ed5-8ab2de293e56",
+	"Outputs": [
+		{
+			"Address": "0xb1647e3632e2a21ca0b56b3b20ed698816fae6f2",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xbe0d023d916bda4f996858831a18afece0800c12",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BLEGG-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x139e170734de3866149c2ff661637ae47f8435d4",
+	"Protocol": "202cafc9-180f-4193-8ed5-8ab2de293e56",
+	"Outputs": [
+		{
+			"Address": "0x139e170734de3866149c2ff661637ae47f8435d4",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8de39ec82f37d6b38abcffe0c0f9fe7dff9e4a79",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "JPMorgan-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x46c752b1da67ce438e2b73e47e3464038b3799f3",
+	"Symbol": "oDOGE-WETH",
+	"UnderlyingTokens": [
+		"0x796a4503b444a71b331c9556bef0815237ddeabc",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "202cafc9-180f-4193-8ed5-8ab2de293e56",
+	"Chain": "ethereum"
+}

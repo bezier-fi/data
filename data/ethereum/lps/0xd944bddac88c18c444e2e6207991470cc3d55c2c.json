@@ -1,0 +1,10 @@
+{
+	"Id": "0xd944bddac88c18c444e2e6207991470cc3d55c2c",
+	"Symbol": "MAPAI-WETH",
+	"UnderlyingTokens": [
+		"0x0dfdebc658b12b9bb1961ceb9adad9c79cffff72",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "202cafc9-180f-4193-8ed5-8ab2de293e56",
+	"Chain": "ethereum"
+}

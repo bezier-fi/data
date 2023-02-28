@@ -1,0 +1,10 @@
+{
+	"Id": "0xcd7dfa7a3d8ee8735a658dee058c2c767b717d8c",
+	"Symbol": "MBIT-WETH",
+	"UnderlyingTokens": [
+		"0x0dfe8072ab0ae86be5a0eb6a45e3d9723d4d187a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "202cafc9-180f-4193-8ed5-8ab2de293e56",
+	"Chain": "ethereum"
+}

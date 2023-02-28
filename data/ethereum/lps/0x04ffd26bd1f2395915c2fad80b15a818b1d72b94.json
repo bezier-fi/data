@@ -1,0 +1,10 @@
+{
+	"Id": "0x04ffd26bd1f2395915c2fad80b15a818b1d72b94",
+	"Symbol": "WETH-GAP",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xdea893edce5bc03ec3ad0a15a07315e645639761"
+	],
+	"Protocol": "202cafc9-180f-4193-8ed5-8ab2de293e56",
+	"Chain": "ethereum"
+}

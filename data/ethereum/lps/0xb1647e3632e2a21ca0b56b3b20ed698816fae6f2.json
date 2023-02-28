@@ -1,0 +1,10 @@
+{
+	"Id": "0xb1647e3632e2a21ca0b56b3b20ed698816fae6f2",
+	"Symbol": "BLEGG-WETH",
+	"UnderlyingTokens": [
+		"0xbe0d023d916bda4f996858831a18afece0800c12",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "202cafc9-180f-4193-8ed5-8ab2de293e56",
+	"Chain": "ethereum"
+}

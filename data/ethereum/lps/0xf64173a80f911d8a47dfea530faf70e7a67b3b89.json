@@ -1,0 +1,10 @@
+{
+	"Id": "0xf64173a80f911d8a47dfea530faf70e7a67b3b89",
+	"Symbol": "AMIGA-WETH",
+	"UnderlyingTokens": [
+		"0x92915fcd41dd669c11e28d1a702c525e4ff94236",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "202cafc9-180f-4193-8ed5-8ab2de293e56",
+	"Chain": "ethereum"
+}

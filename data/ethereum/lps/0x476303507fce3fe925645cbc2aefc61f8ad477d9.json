@@ -1,0 +1,10 @@
+{
+	"Id": "0x476303507fce3fe925645cbc2aefc61f8ad477d9",
+	"Symbol": "ELON-WETH",
+	"UnderlyingTokens": [
+		"0xafd293bed5b69a22aa6dc89a4903789777244719",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "202cafc9-180f-4193-8ed5-8ab2de293e56",
+	"Chain": "ethereum"
+}

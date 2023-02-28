@@ -1,0 +1,27 @@
+{
+	"Id": "0x517d547740b5f12fcea930ae419d8b791ad97c1e",
+	"Protocol": "202cafc9-180f-4193-8ed5-8ab2de293e56",
+	"Outputs": [
+		{
+			"Address": "0x517d547740b5f12fcea930ae419d8b791ad97c1e",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6e1a77d9b50832adc6f2029370f7f7b13c58df51",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "XCAS-WETH",
+	"Chain": "ethereum"
+}

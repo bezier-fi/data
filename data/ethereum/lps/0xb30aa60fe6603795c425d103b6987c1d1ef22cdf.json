@@ -1,0 +1,10 @@
+{
+	"Id": "0xb30aa60fe6603795c425d103b6987c1d1ef22cdf",
+	"Symbol": "MAGNATE-WETH",
+	"UnderlyingTokens": [
+		"0x6041ce8ceab69bdf70bd6aab3685397d20152e0d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "1b22731b-3c8f-447f-ade4-9140504318ea",
+	"Chain": "ethereum"
+}

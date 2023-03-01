@@ -1,0 +1,27 @@
+{
+	"Id": "0xc6df2e0a216db88ded61b15b7abcc22986fe9687",
+	"Protocol": "1b22731b-3c8f-447f-ade4-9140504318ea",
+	"Outputs": [
+		{
+			"Address": "0xc6df2e0a216db88ded61b15b7abcc22986fe9687",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x811c491c6f8b8cd7be91f9ddd7e463b196701bf1",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DOGEBONE-WETH",
+	"Chain": "ethereum"
+}

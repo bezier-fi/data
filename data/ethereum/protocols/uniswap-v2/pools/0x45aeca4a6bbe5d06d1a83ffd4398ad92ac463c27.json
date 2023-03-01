@@ -1,0 +1,27 @@
+{
+	"Id": "0x45aeca4a6bbe5d06d1a83ffd4398ad92ac463c27",
+	"Protocol": "1b22731b-3c8f-447f-ade4-9140504318ea",
+	"Outputs": [
+		{
+			"Address": "0x45aeca4a6bbe5d06d1a83ffd4398ad92ac463c27",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6cfaa94f9f9aaa37cfa0ae9579bd8adc5ffe0ae8",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CHAPPIE-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xb144b6f31385e48556d0c714cd215b48ce2fdb28",
+	"Symbol": "WETH-TPOLE",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf10e9db4b860d813994c68d47c12bb435133a2ce"
+	],
+	"Protocol": "1b22731b-3c8f-447f-ade4-9140504318ea",
+	"Chain": "ethereum"
+}

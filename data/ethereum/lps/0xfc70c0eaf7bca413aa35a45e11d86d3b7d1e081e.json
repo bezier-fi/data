@@ -1,0 +1,10 @@
+{
+	"Id": "0xfc70c0eaf7bca413aa35a45e11d86d3b7d1e081e",
+	"Symbol": "DOOR-WETH",
+	"UnderlyingTokens": [
+		"0x2805390f81a7f19c2c49300a094aa500597b1862",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "1b22731b-3c8f-447f-ade4-9140504318ea",
+	"Chain": "ethereum"
+}

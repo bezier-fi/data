@@ -1,0 +1,27 @@
+{
+	"Id": "0xba4d7563556f5aaf04c4415644317e1154369969",
+	"Protocol": "d2e4750a-d93e-4d2e-8518-336fd306744e",
+	"Outputs": [
+		{
+			"Address": "0xba4d7563556f5aaf04c4415644317e1154369969",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x42b91f1d05afea671a2da3c780eda2abf0a2a366",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "$MNB-WETH (1.00%)",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x3306c01f98f848092ad5ae57e5c7dc432f761d81",
+	"Symbol": "gtcETH-WETH (0.05%)",
+	"UnderlyingTokens": [
+		"0x36c833eed0d376f75d1ff9dfdee260191336065e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d2e4750a-d93e-4d2e-8518-336fd306744e",
+	"Chain": "ethereum"
+}

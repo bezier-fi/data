@@ -1,0 +1,27 @@
+{
+	"Id": "0x1DF0Bae5add689D6BE57aC6fd18b1e4a27B4498B",
+	"Protocol": "879a2688-e27b-40bf-8a1b-b4fdf212365c",
+	"Outputs": [
+		{
+			"Address": "0x16850CDDdfabDD38Ca1EF6813d5704E0594ce62e",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x41D5D79431A913C4aE7d69a668ecdfE5fF9DFB68",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "INVETH-f",
+	"Chain": "ethereum"
+}

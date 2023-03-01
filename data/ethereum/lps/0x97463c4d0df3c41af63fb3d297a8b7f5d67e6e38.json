@@ -1,0 +1,10 @@
+{
+	"Id": "0x97463c4d0df3c41af63fb3d297a8b7f5d67e6e38",
+	"Symbol": "BACON-WETH",
+	"UnderlyingTokens": [
+		"0x186785d4cba7263532f1da9bbec3da612dd6d085",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "1b22731b-3c8f-447f-ade4-9140504318ea",
+	"Chain": "ethereum"
+}

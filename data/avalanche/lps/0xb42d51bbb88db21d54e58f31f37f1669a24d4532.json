@@ -1,0 +1,10 @@
+{
+	"Id": "0xb42d51bbb88db21d54e58f31f37f1669a24d4532",
+	"Symbol": "BTC.b-MUMO",
+	"UnderlyingTokens": [
+		"0x152b9d0fdc40c096757f570a51e494bd4b943e50",
+		"0x875e3352baae84c38d930dd7fd796178b2fcaa05"
+	],
+	"Protocol": "4ca0c9ad-ed1d-457c-ad60-3010b0b3020c",
+	"Chain": "avalanche"
+}

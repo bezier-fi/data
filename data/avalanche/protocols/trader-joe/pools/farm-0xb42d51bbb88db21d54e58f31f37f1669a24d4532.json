@@ -1,0 +1,23 @@
+{
+	"Id": "farm-0xb42d51bbb88db21d54e58f31f37f1669a24d4532",
+	"Protocol": "4ca0c9ad-ed1d-457c-ad60-3010b0b3020c",
+	"Outputs": [
+		{
+			"Address": "0xb42d51bbb88db21d54e58f31f37f1669a24d4532",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb42d51bbb88db21d54e58f31f37f1669a24d4532",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BTC.b-MUMO",
+	"Chain": "avalanche"
+}

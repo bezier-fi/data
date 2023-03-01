@@ -1,0 +1,27 @@
+{
+	"Id": "0x11fa2aac28f4e84b2e5b9907580dbf44a1975912",
+	"Protocol": "1b22731b-3c8f-447f-ade4-9140504318ea",
+	"Outputs": [
+		{
+			"Address": "0x11fa2aac28f4e84b2e5b9907580dbf44a1975912",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x785c34312dfa6b74f6f1829f79ade39042222168",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BUMP-USDC",
+	"Chain": "ethereum"
+}

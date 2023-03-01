@@ -1,0 +1,10 @@
+{
+	"Id": "0x4f0e3721f03f90d455112b70e104c319013a6121",
+	"Symbol": "IPIKA-WETH",
+	"UnderlyingTokens": [
+		"0x921c453fd15e6d20ab20ef0f2ba58d122f693b9d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "1b22731b-3c8f-447f-ade4-9140504318ea",
+	"Chain": "ethereum"
+}

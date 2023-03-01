@@ -1,0 +1,10 @@
+{
+	"Id": "0x30da7a4f625405ca52796c286dfb84c9c9a99d87",
+	"Symbol": "WETH-CHAPPIE",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xede2e4ca44ff8f491be160f8f57e01fa1f80b03d"
+	],
+	"Protocol": "1b22731b-3c8f-447f-ade4-9140504318ea",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0xa82787e55400522fdf10149016d32144eee2cfc2",
+	"Protocol": "1b22731b-3c8f-447f-ade4-9140504318ea",
+	"Outputs": [
+		{
+			"Address": "0xa82787e55400522fdf10149016d32144eee2cfc2",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x51df178659bec8533cede644c9792e2bc7728334",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "RUG-WETH",
+	"Chain": "ethereum"
+}

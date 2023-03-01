@@ -1,0 +1,10 @@
+{
+	"Id": "0xa29f849bc28cde1b89ce038ffc608c6011ea8290",
+	"Symbol": "WETH-BORK",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe655a4a9b3541ef9a7a7382b743c3309760d5683"
+	],
+	"Protocol": "1b22731b-3c8f-447f-ade4-9140504318ea",
+	"Chain": "ethereum"
+}

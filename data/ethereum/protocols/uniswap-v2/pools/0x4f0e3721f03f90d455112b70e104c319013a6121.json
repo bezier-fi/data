@@ -1,0 +1,27 @@
+{
+	"Id": "0x4f0e3721f03f90d455112b70e104c319013a6121",
+	"Protocol": "1b22731b-3c8f-447f-ade4-9140504318ea",
+	"Outputs": [
+		{
+			"Address": "0x4f0e3721f03f90d455112b70e104c319013a6121",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x921c453fd15e6d20ab20ef0f2ba58d122f693b9d",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "IPIKA-WETH",
+	"Chain": "ethereum"
+}

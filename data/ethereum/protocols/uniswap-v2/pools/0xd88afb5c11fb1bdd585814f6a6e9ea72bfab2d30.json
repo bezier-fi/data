@@ -1,0 +1,27 @@
+{
+	"Id": "0xd88afb5c11fb1bdd585814f6a6e9ea72bfab2d30",
+	"Protocol": "1b22731b-3c8f-447f-ade4-9140504318ea",
+	"Outputs": [
+		{
+			"Address": "0xd88afb5c11fb1bdd585814f6a6e9ea72bfab2d30",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x32bd6fe605b6278e1bc1a79d4da608f94215128f",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MUSIC-WETH",
+	"Chain": "ethereum"
+}

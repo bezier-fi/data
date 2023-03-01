@@ -1,0 +1,10 @@
+{
+	"Id": "0xa6af61ce4834d0c36912464bc1820a398be9ea87",
+	"Symbol": "BASEDAI-WETH",
+	"UnderlyingTokens": [
+		"0x26b54f4c378a5fe9cfcceceefb225b40273cf8dd",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "1b22731b-3c8f-447f-ade4-9140504318ea",
+	"Chain": "ethereum"
+}

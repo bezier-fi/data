@@ -1,0 +1,27 @@
+{
+	"Id": "0xf514a54693Db2f3b4C43f78088d361b3F3A317A9",
+	"Protocol": "1a6af98b-9ccb-430e-9283-74c21f2aa099",
+	"Outputs": [
+		{
+			"Address": "0x3E7402817e4F8eFc41381D7E6AE533EF2cf3388B",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x86B4dBE5D203e634a12364C0e428fa242A3FbA98",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GBPTUSDC-f",
+	"Chain": "ethereum"
+}

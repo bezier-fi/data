@@ -1,13 +1,5 @@
 [
 	{
-		"Id": "0xd586e7f844cea2f87f50152665bcbc2c279d8d700xa97684ead0e402dc232d5a977953df7ecbab3cdb",
-		"Symbol": "DAI.e"
-	},
-	{
-		"Id": "0x152b9d0fdc40c096757f570a51e494bd4b943e500xa97684ead0e402dc232d5a977953df7ecbab3cdb",
-		"Symbol": "BTC.b"
-	},
-	{
 		"Id": "0x2b2c81e08f1af8835a78bb2a90ae924ace0ea4be0xa97684ead0e402dc232d5a977953df7ecbab3cdb",
 		"Symbol": "sAVAX"
 	},
@@ -26,6 +18,14 @@
 	{
 		"Id": "0xd24c2ad096400b6fbcd2ad8b24e7acbc21a1da640xa97684ead0e402dc232d5a977953df7ecbab3cdb",
 		"Symbol": "FRAX"
+	},
+	{
+		"Id": "0xd586e7f844cea2f87f50152665bcbc2c279d8d700xa97684ead0e402dc232d5a977953df7ecbab3cdb",
+		"Symbol": "DAI.e"
+	},
+	{
+		"Id": "0x152b9d0fdc40c096757f570a51e494bd4b943e500xa97684ead0e402dc232d5a977953df7ecbab3cdb",
+		"Symbol": "BTC.b"
 	},
 	{
 		"Id": "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab0xa97684ead0e402dc232d5a977953df7ecbab3cdb",

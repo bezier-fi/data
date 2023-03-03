@@ -1,0 +1,10 @@
+{
+	"Id": "0x6ca22be6ea89dd79aa98ec0a26cd1fffb347cfb0",
+	"Symbol": "NEV-WETH",
+	"UnderlyingTokens": [
+		"0x0069187b7859b96b2cfe088a4b82313a3d639bf6",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d2830aa7-8dec-4579-a8c7-207c3bbe4ebf",
+	"Chain": "ethereum"
+}

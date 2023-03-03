@@ -1,0 +1,27 @@
+{
+	"Id": "0x80a608afb31ba763a05ffb317370288c00549e99",
+	"Protocol": "d2830aa7-8dec-4579-a8c7-207c3bbe4ebf",
+	"Outputs": [
+		{
+			"Address": "0x80a608afb31ba763a05ffb317370288c00549e99",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3b6cfd5a1b35db9882c2434d931226d6dd484ee1",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TWINU-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0xa69459cb48cc74273f06d4b8bcb89cdb7dba3b63",
+	"Protocol": "d2830aa7-8dec-4579-a8c7-207c3bbe4ebf",
+	"Outputs": [
+		{
+			"Address": "0xa69459cb48cc74273f06d4b8bcb89cdb7dba3b63",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xd1073a3d73ba922be8bc4f072b92c01623c6a5a0",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-CHIMMY",
+	"Chain": "ethereum"
+}

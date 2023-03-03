@@ -1,0 +1,10 @@
+{
+	"Id": "0xa27a0a1f9fcfe4f0d9a438f8fd11ad3b6394e99c",
+	"Symbol": "WETH-oAPE",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xdcd62d44aaf1dd307e51ccf1d829da14aa41cdd7"
+	],
+	"Protocol": "d2830aa7-8dec-4579-a8c7-207c3bbe4ebf",
+	"Chain": "ethereum"
+}

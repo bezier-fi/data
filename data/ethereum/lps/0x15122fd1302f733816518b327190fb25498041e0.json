@@ -1,0 +1,10 @@
+{
+	"Id": "0x15122fd1302f733816518b327190fb25498041e0",
+	"Symbol": "WETH-$SNIP",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfa53a3e978623ea3025ab1f80cd45c56c0f49d84"
+	],
+	"Protocol": "d2830aa7-8dec-4579-a8c7-207c3bbe4ebf",
+	"Chain": "ethereum"
+}

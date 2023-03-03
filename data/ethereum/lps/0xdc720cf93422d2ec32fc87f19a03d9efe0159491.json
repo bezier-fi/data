@@ -1,0 +1,10 @@
+{
+	"Id": "0xdc720cf93422d2ec32fc87f19a03d9efe0159491",
+	"Symbol": "SWIPE-WETH",
+	"UnderlyingTokens": [
+		"0xacb47686b92fdde6d233ec6445c1f8d4d0d59c38",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d2830aa7-8dec-4579-a8c7-207c3bbe4ebf",
+	"Chain": "ethereum"
+}

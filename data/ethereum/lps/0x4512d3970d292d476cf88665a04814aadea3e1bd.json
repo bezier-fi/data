@@ -1,0 +1,10 @@
+{
+	"Id": "0x4512d3970d292d476cf88665a04814aadea3e1bd",
+	"Symbol": "BKBY-WETH",
+	"UnderlyingTokens": [
+		"0x1e3a3b9c6177ba05102b749eecb6164155fd44ae",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d2830aa7-8dec-4579-a8c7-207c3bbe4ebf",
+	"Chain": "ethereum"
+}

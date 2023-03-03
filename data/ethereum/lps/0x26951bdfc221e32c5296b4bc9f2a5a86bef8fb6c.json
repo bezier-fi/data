@@ -1,0 +1,10 @@
+{
+	"Id": "0x26951bdfc221e32c5296b4bc9f2a5a86bef8fb6c",
+	"Symbol": "WETH-GOATMAI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd829ecebbfd19a2a1c3f951e2766ab068ef0b2cb"
+	],
+	"Protocol": "d2830aa7-8dec-4579-a8c7-207c3bbe4ebf",
+	"Chain": "ethereum"
+}

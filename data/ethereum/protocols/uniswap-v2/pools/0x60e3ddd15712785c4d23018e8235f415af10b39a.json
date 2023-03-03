@@ -1,0 +1,27 @@
+{
+	"Id": "0x60e3ddd15712785c4d23018e8235f415af10b39a",
+	"Protocol": "d2830aa7-8dec-4579-a8c7-207c3bbe4ebf",
+	"Outputs": [
+		{
+			"Address": "0x60e3ddd15712785c4d23018e8235f415af10b39a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xf73cbe769b2f4dae0f5e966df1365d825c93372f",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-VALKON",
+	"Chain": "ethereum"
+}

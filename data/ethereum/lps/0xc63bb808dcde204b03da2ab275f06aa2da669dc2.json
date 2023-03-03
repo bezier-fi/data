@@ -1,0 +1,10 @@
+{
+	"Id": "0xc63bb808dcde204b03da2ab275f06aa2da669dc2",
+	"Symbol": "M2-WETH (0.01%)",
+	"UnderlyingTokens": [
+		"0x965d79f1a1016b574a62986e13ca8ab04dfdd15c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "9070b794-6dc1-4228-b31b-8fd46adee02c",
+	"Chain": "ethereum"
+}

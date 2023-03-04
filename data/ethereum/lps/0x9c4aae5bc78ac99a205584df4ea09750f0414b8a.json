@@ -1,0 +1,10 @@
+{
+	"Id": "0x9c4aae5bc78ac99a205584df4ea09750f0414b8a",
+	"Symbol": "POM-WETH",
+	"UnderlyingTokens": [
+		"0x4fb659ce4abce6a38e1ee4ec19d14c9c43c483e9",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "a4a125e0-2082-4fb3-a3fa-b147ed2368cd",
+	"Chain": "ethereum"
+}

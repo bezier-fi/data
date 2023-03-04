@@ -1,0 +1,27 @@
+{
+	"Id": "0x595d9bd704d6c7bf3830448dd7ab2de5ccbdfe3a",
+	"Protocol": "a4a125e0-2082-4fb3-a3fa-b147ed2368cd",
+	"Outputs": [
+		{
+			"Address": "0x595d9bd704d6c7bf3830448dd7ab2de5ccbdfe3a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1130962a82b252a2cb416d5e4fa7df4e8c537c25",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BMAIL-WETH",
+	"Chain": "ethereum"
+}

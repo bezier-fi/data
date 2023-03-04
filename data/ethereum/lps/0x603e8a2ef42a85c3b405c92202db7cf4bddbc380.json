@@ -1,0 +1,10 @@
+{
+	"Id": "0x603e8a2ef42a85c3b405c92202db7cf4bddbc380",
+	"Symbol": "$MUSAI-WETH",
+	"UnderlyingTokens": [
+		"0x35113aa2392241f77506a44156aaf6fbb7331c45",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "a4a125e0-2082-4fb3-a3fa-b147ed2368cd",
+	"Chain": "ethereum"
+}

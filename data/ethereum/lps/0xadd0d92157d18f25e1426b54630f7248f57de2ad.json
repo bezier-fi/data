@@ -1,0 +1,10 @@
+{
+	"Id": "0xadd0d92157d18f25e1426b54630f7248f57de2ad",
+	"Symbol": "SHI44ACC-WETH",
+	"UnderlyingTokens": [
+		"0x184832c187d3d44e6b22c40d85572f5e74e489c6",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "a4a125e0-2082-4fb3-a3fa-b147ed2368cd",
+	"Chain": "ethereum"
+}

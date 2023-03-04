@@ -1,0 +1,10 @@
+{
+	"Id": "0x6eaf9e6d8f5cd1fcc90f4456610f4272198ac10a",
+	"Symbol": "WETH-MANDO",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xee1d8702ab462cd9c4022a1bff76e68ec9539ba2"
+	],
+	"Protocol": "a4a125e0-2082-4fb3-a3fa-b147ed2368cd",
+	"Chain": "ethereum"
+}

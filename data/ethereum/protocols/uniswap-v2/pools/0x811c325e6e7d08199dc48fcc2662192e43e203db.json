@@ -1,0 +1,27 @@
+{
+	"Id": "0x811c325e6e7d08199dc48fcc2662192e43e203db",
+	"Protocol": "a4a125e0-2082-4fb3-a3fa-b147ed2368cd",
+	"Outputs": [
+		{
+			"Address": "0x811c325e6e7d08199dc48fcc2662192e43e203db",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x00dd5ad8f5d9c5118bceeb526c55ea6b2c07e922",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "VFY-WETH",
+	"Chain": "ethereum"
+}

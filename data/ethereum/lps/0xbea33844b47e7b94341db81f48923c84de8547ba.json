@@ -1,0 +1,10 @@
+{
+	"Id": "0xbea33844b47e7b94341db81f48923c84de8547ba",
+	"Symbol": "ZETRIX-WETH",
+	"UnderlyingTokens": [
+		"0x88f47f9f398d6f8822de112ca7f2588c8dfbacb9",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "a4a125e0-2082-4fb3-a3fa-b147ed2368cd",
+	"Chain": "ethereum"
+}

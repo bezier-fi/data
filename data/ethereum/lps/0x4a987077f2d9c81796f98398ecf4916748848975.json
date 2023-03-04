@@ -1,0 +1,10 @@
+{
+	"Id": "0x4a987077f2d9c81796f98398ecf4916748848975",
+	"Symbol": "ORDINARIUS-WETH",
+	"UnderlyingTokens": [
+		"0x8abd94dee7363ad948daa061b9382c4d46a7d36a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "a4a125e0-2082-4fb3-a3fa-b147ed2368cd",
+	"Chain": "ethereum"
+}

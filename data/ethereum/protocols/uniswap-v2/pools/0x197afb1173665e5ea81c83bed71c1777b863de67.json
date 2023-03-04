@@ -1,0 +1,27 @@
+{
+	"Id": "0x197afb1173665e5ea81c83bed71c1777b863de67",
+	"Protocol": "a4a125e0-2082-4fb3-a3fa-b147ed2368cd",
+	"Outputs": [
+		{
+			"Address": "0x197afb1173665e5ea81c83bed71c1777b863de67",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xaec329d6f4dd33493c15433f780ab110787e8e8f",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SHIBILLIONAIRE-WETH",
+	"Chain": "ethereum"
+}

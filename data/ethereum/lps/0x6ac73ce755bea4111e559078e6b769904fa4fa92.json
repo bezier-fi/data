@@ -1,0 +1,10 @@
+{
+	"Id": "0x6ac73ce755bea4111e559078e6b769904fa4fa92",
+	"Symbol": "PAWDINAL-WETH",
+	"UnderlyingTokens": [
+		"0xafb5ea00f377b15528fb3d7a909143d9fbf989bc",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "a4a125e0-2082-4fb3-a3fa-b147ed2368cd",
+	"Chain": "ethereum"
+}

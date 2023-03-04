@@ -1,0 +1,10 @@
+{
+	"Id": "0x9c7477bffe543d9a564b6d0bfdfb5a50b1e53034",
+	"Symbol": "WETH-oTsuka",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd530a41214f3c5363afc2db1895999fe56fb9b54"
+	],
+	"Protocol": "a4a125e0-2082-4fb3-a3fa-b147ed2368cd",
+	"Chain": "ethereum"
+}

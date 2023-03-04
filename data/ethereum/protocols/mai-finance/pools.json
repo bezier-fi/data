@@ -1,9 +1,5 @@
 [
 	{
-		"Id": "0xEcbd32bD581e241739be1763DFE7a8fFcC844ae1",
-		"Symbol": "Yearn ETH Ethereum MAI Vault"
-	},
-	{
 		"Id": "0x98eb27E5F24FB83b7D129D789665b08C258b4cCF",
 		"Symbol": "Wrapped Ethereum MAI Vault"
 	},
@@ -22,5 +18,9 @@
 	{
 		"Id": "0x60d133c666919B54a3254E0d3F14332cB783B733",
 		"Symbol": "Yearn LINK Ethereum MAI Vault"
+	},
+	{
+		"Id": "0xEcbd32bD581e241739be1763DFE7a8fFcC844ae1",
+		"Symbol": "Yearn ETH Ethereum MAI Vault"
 	}
 ]

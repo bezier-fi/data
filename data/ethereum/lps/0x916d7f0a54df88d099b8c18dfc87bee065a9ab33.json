@@ -1,0 +1,10 @@
+{
+	"Id": "0x916d7f0a54df88d099b8c18dfc87bee065a9ab33",
+	"Symbol": "WETH-hAKITA",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd0938d873f4ba6694397360da032bdc2b150b7b5"
+	],
+	"Protocol": "a4a125e0-2082-4fb3-a3fa-b147ed2368cd",
+	"Chain": "ethereum"
+}

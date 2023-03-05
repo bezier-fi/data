@@ -1,0 +1,10 @@
+{
+	"Id": "0x20a0e92a838a14fd0beb758c6bad590a196905e1",
+	"Symbol": "WETH-RYOKAIDDO",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc862d35360b7a590a2637d970b7fa9ec78f6d8e3"
+	],
+	"Protocol": "42b57ec5-24cc-4ec8-b6f1-d4936321c18b",
+	"Chain": "ethereum"
+}

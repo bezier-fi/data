@@ -1,0 +1,27 @@
+{
+	"Id": "0x8ab4309019d7674c6112eb32698a30fdcba6a278",
+	"Protocol": "42b57ec5-24cc-4ec8-b6f1-d4936321c18b",
+	"Outputs": [
+		{
+			"Address": "0x8ab4309019d7674c6112eb32698a30fdcba6a278",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xaa1db055d53f14f7e6a13e01097b17db620d3ef4",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Ofuda-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0xf68ed10671ed73f160d73d51f22c1695e493716b",
+	"Protocol": "42b57ec5-24cc-4ec8-b6f1-d4936321c18b",
+	"Outputs": [
+		{
+			"Address": "0xf68ed10671ed73f160d73d51f22c1695e493716b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9f1eba7767bd31e706832719d772a73f89431712",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SHIBTOR-WETH",
+	"Chain": "ethereum"
+}

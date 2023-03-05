@@ -1,0 +1,27 @@
+{
+	"Id": "0xb4f13fa31d9564a0ec7a88448afad799fde907b7",
+	"Protocol": "42b57ec5-24cc-4ec8-b6f1-d4936321c18b",
+	"Outputs": [
+		{
+			"Address": "0xb4f13fa31d9564a0ec7a88448afad799fde907b7",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x56bd589482152a461d414c94a8e43413ebd0a6f5",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "VORTEX-WETH",
+	"Chain": "ethereum"
+}

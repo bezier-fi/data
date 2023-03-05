@@ -1,0 +1,27 @@
+{
+	"Id": "0x780897cb2765270f5aefc458092f68dbbb4c320c",
+	"Protocol": "5ea538cb-8735-4b12-b415-15444ee10474",
+	"Outputs": [
+		{
+			"Address": "0x780897cb2765270f5aefc458092f68dbbb4c320c",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x518c21e61edfa2d16313ba54f8c7c05a254d9e59",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SATURN-WETH (0.30%)",
+	"Chain": "ethereum"
+}

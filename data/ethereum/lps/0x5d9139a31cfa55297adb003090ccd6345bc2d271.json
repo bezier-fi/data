@@ -1,0 +1,10 @@
+{
+	"Id": "0x5d9139a31cfa55297adb003090ccd6345bc2d271",
+	"Symbol": "SHIBWATCH-WETH",
+	"UnderlyingTokens": [
+		"0xa74198b36731d888f22a5256ee3331cdf8b2443c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "42b57ec5-24cc-4ec8-b6f1-d4936321c18b",
+	"Chain": "ethereum"
+}

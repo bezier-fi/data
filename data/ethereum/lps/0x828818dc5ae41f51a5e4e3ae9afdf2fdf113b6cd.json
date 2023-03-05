@@ -1,0 +1,10 @@
+{
+	"Id": "0x828818dc5ae41f51a5e4e3ae9afdf2fdf113b6cd",
+	"Symbol": "CRNK-WETH",
+	"UnderlyingTokens": [
+		"0x181a7bf76e45b3414f8b15bc0840d83a624265ac",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "42b57ec5-24cc-4ec8-b6f1-d4936321c18b",
+	"Chain": "ethereum"
+}

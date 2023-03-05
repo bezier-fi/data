@@ -1,0 +1,10 @@
+{
+	"Id": "0x8dddffed6c82c5933313dd86ffccaf8494b603d5",
+	"Symbol": "LSD-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x97d4f49eeb0e2c96d5ebaa71ab8418e563ecd9fd",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "5ea538cb-8735-4b12-b415-15444ee10474",
+	"Chain": "ethereum"
+}

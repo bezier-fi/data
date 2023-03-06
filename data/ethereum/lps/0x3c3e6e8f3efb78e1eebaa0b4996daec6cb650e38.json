@@ -1,0 +1,10 @@
+{
+	"Id": "0x3c3e6e8f3efb78e1eebaa0b4996daec6cb650e38",
+	"Symbol": "WETH-EDGE",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfeefa691927b4f0437442054172c17f14d768fc7"
+	],
+	"Protocol": "3ebc54f7-2d24-4063-86e2-e52fb3dfea87",
+	"Chain": "ethereum"
+}

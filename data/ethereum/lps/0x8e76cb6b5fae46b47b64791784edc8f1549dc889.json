@@ -1,0 +1,10 @@
+{
+	"Id": "0x8e76cb6b5fae46b47b64791784edc8f1549dc889",
+	"Symbol": "SENTIO-WETH",
+	"UnderlyingTokens": [
+		"0x6cef47e8895538b21d5fa7aef36cf705d2bca38b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3ebc54f7-2d24-4063-86e2-e52fb3dfea87",
+	"Chain": "ethereum"
+}

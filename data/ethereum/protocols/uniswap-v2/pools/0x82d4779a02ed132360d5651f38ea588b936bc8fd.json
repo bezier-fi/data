@@ -1,0 +1,27 @@
+{
+	"Id": "0x82d4779a02ed132360d5651f38ea588b936bc8fd",
+	"Protocol": "3ebc54f7-2d24-4063-86e2-e52fb3dfea87",
+	"Outputs": [
+		{
+			"Address": "0x82d4779a02ed132360d5651f38ea588b936bc8fd",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xe2e32b1d72bdca37536dfbf7705dd70cbe03ccb3",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-BONEPAD",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xf8ea3dc701b03f695ac24b244c8f9f82aeff9ea6",
+	"Symbol": "DAVINCI-WETH",
+	"UnderlyingTokens": [
+		"0x9bacb4e17328d11b334da6d48bec3ec55cec0858",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3ebc54f7-2d24-4063-86e2-e52fb3dfea87",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x71275690841e3420fad1fe7b74efa13b7755a77c",
+	"Symbol": "CASH-WETH",
+	"UnderlyingTokens": [
+		"0x6a1e94128a5065c6544d23ffa9b4e78b69015611",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3ebc54f7-2d24-4063-86e2-e52fb3dfea87",
+	"Chain": "ethereum"
+}

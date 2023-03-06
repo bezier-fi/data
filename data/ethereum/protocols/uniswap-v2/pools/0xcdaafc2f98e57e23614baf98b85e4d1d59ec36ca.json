@@ -1,0 +1,27 @@
+{
+	"Id": "0xcdaafc2f98e57e23614baf98b85e4d1d59ec36ca",
+	"Protocol": "3ebc54f7-2d24-4063-86e2-e52fb3dfea87",
+	"Outputs": [
+		{
+			"Address": "0xcdaafc2f98e57e23614baf98b85e4d1d59ec36ca",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2978acecb2c436802964f1a41f9e0e83d5c29532",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "shiLSD-WETH",
+	"Chain": "ethereum"
+}

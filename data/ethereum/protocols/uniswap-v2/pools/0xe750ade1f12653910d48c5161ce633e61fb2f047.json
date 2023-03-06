@@ -1,0 +1,27 @@
+{
+	"Id": "0xe750ade1f12653910d48c5161ce633e61fb2f047",
+	"Protocol": "3ebc54f7-2d24-4063-86e2-e52fb3dfea87",
+	"Outputs": [
+		{
+			"Address": "0xe750ade1f12653910d48c5161ce633e61fb2f047",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa43f6008d2cde69e1ebdfb4d0143091551a19a68",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DOGU-WETH",
+	"Chain": "ethereum"
+}

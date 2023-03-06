@@ -1,0 +1,10 @@
+{
+	"Id": "0x543e199abaa4b904a89f143ad0af9d4991b20f6e",
+	"Symbol": "VRIUM-WETH",
+	"UnderlyingTokens": [
+		"0x8e0dc91beaf8c21a63b84ebc135d6641d1e5c047",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3ebc54f7-2d24-4063-86e2-e52fb3dfea87",
+	"Chain": "ethereum"
+}

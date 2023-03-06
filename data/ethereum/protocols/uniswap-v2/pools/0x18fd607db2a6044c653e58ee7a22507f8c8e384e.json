@@ -1,0 +1,27 @@
+{
+	"Id": "0x18fd607db2a6044c653e58ee7a22507f8c8e384e",
+	"Protocol": "3ebc54f7-2d24-4063-86e2-e52fb3dfea87",
+	"Outputs": [
+		{
+			"Address": "0x18fd607db2a6044c653e58ee7a22507f8c8e384e",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc3c3e98049d65d05ed0b50526086bcb591938cc9",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-SPOOL",
+	"Chain": "ethereum"
+}

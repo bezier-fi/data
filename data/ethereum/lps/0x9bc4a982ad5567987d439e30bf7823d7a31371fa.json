@@ -1,0 +1,10 @@
+{
+	"Id": "0x9bc4a982ad5567987d439e30bf7823d7a31371fa",
+	"Symbol": "WETH-SHIBTR",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc12347f8246d36ab592b55782afe754b22ae587c"
+	],
+	"Protocol": "3ebc54f7-2d24-4063-86e2-e52fb3dfea87",
+	"Chain": "ethereum"
+}

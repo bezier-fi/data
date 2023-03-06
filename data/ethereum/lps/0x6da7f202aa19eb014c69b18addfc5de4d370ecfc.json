@@ -1,0 +1,10 @@
+{
+	"Id": "0x6da7f202aa19eb014c69b18addfc5de4d370ecfc",
+	"Symbol": "MUZZLE-WETH",
+	"UnderlyingTokens": [
+		"0x37f4fcbfb6c6321c79675ebef7dd9b6c2664ff37",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3ebc54f7-2d24-4063-86e2-e52fb3dfea87",
+	"Chain": "ethereum"
+}

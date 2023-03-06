@@ -1,0 +1,10 @@
+{
+	"Id": "0x75230c30b7d50d16c3fcd73ea54ea9716a04a096",
+	"Symbol": "CULTARIUM-WETH",
+	"UnderlyingTokens": [
+		"0x2f2e9f67aad40723f33c4e19d12a331ffa9813f6",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3ebc54f7-2d24-4063-86e2-e52fb3dfea87",
+	"Chain": "ethereum"
+}

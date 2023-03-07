@@ -16,6 +16,14 @@
 		"Symbol": "USDt"
 	},
 	{
+		"Id": "0xd24c2ad096400b6fbcd2ad8b24e7acbc21a1da640xa97684ead0e402dc232d5a977953df7ecbab3cdb",
+		"Symbol": "FRAX"
+	},
+	{
+		"Id": "0xd586e7f844cea2f87f50152665bcbc2c279d8d700xa97684ead0e402dc232d5a977953df7ecbab3cdb",
+		"Symbol": "DAI.e"
+	},
+	{
 		"Id": "0x152b9d0fdc40c096757f570a51e494bd4b943e500xa97684ead0e402dc232d5a977953df7ecbab3cdb",
 		"Symbol": "BTC.b"
 	},
@@ -32,19 +40,11 @@
 		"Symbol": "WBTC.e"
 	},
 	{
-		"Id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e0xa97684ead0e402dc232d5a977953df7ecbab3cdb",
-		"Symbol": "USDC"
-	},
-	{
 		"Id": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c70xa97684ead0e402dc232d5a977953df7ecbab3cdb",
 		"Symbol": "WAVAX"
 	},
 	{
-		"Id": "0xd24c2ad096400b6fbcd2ad8b24e7acbc21a1da640xa97684ead0e402dc232d5a977953df7ecbab3cdb",
-		"Symbol": "FRAX"
-	},
-	{
-		"Id": "0xd586e7f844cea2f87f50152665bcbc2c279d8d700xa97684ead0e402dc232d5a977953df7ecbab3cdb",
-		"Symbol": "DAI.e"
+		"Id": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e0xa97684ead0e402dc232d5a977953df7ecbab3cdb",
+		"Symbol": "USDC"
 	}
 ]

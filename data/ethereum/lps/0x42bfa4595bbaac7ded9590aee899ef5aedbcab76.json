@@ -1,0 +1,10 @@
+{
+	"Id": "0x42bfa4595bbaac7ded9590aee899ef5aedbcab76",
+	"Symbol": "DPAW-WETH",
+	"UnderlyingTokens": [
+		"0xa40df9cf26539f613fa2db96e92ed9038076eebf",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "9962d183-370e-4c48-978f-312d87b3cec6",
+	"Chain": "ethereum"
+}

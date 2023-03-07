@@ -1,0 +1,27 @@
+{
+	"Id": "0x5286bf19cb89e0ccb2115c39949ef81e7b13464a",
+	"Protocol": "9962d183-370e-4c48-978f-312d87b3cec6",
+	"Outputs": [
+		{
+			"Address": "0x5286bf19cb89e0ccb2115c39949ef81e7b13464a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x433d342a6780b48ad1bafd5cecd364844946e4e6",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SVAULT-WETH",
+	"Chain": "ethereum"
+}

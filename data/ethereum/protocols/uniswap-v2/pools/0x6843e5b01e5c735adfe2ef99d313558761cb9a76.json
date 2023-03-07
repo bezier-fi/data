@@ -1,0 +1,27 @@
+{
+	"Id": "0x6843e5b01e5c735adfe2ef99d313558761cb9a76",
+	"Protocol": "9962d183-370e-4c48-978f-312d87b3cec6",
+	"Outputs": [
+		{
+			"Address": "0x6843e5b01e5c735adfe2ef99d313558761cb9a76",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x412850453d0c5d0ba0a7b7b82d5b5200e5ad4b86",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SORTIUM-WETH",
+	"Chain": "ethereum"
+}

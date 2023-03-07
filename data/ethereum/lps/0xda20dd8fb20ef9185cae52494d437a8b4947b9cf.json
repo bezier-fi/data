@@ -1,0 +1,10 @@
+{
+	"Id": "0xda20dd8fb20ef9185cae52494d437a8b4947b9cf",
+	"Symbol": "WILD-WETH",
+	"UnderlyingTokens": [
+		"0x5806aa266013d733db093f8a74da733a081f989a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "9962d183-370e-4c48-978f-312d87b3cec6",
+	"Chain": "ethereum"
+}

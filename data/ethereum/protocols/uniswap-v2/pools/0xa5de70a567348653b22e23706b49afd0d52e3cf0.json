@@ -1,0 +1,27 @@
+{
+	"Id": "0xa5de70a567348653b22e23706b49afd0d52e3cf0",
+	"Protocol": "9962d183-370e-4c48-978f-312d87b3cec6",
+	"Outputs": [
+		{
+			"Address": "0xa5de70a567348653b22e23706b49afd0d52e3cf0",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb2090afc090458f4062ae882e4a40e422ec8623f",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MVPL-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x5746a40c1d138f589d7f92023a50f455419316ed",
+	"Symbol": "WETH-PAWSTAKE",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc0734847e76c6e1a7412992a139976fd5f6ec159"
+	],
+	"Protocol": "9962d183-370e-4c48-978f-312d87b3cec6",
+	"Chain": "ethereum"
+}

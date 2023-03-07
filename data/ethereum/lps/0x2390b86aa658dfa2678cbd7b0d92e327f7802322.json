@@ -1,0 +1,10 @@
+{
+	"Id": "0x2390b86aa658dfa2678cbd7b0d92e327f7802322",
+	"Symbol": "FFDA-WETH",
+	"UnderlyingTokens": [
+		"0x3d9eff90694c772c113175da06dd828bf23b6cbd",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "9962d183-370e-4c48-978f-312d87b3cec6",
+	"Chain": "ethereum"
+}

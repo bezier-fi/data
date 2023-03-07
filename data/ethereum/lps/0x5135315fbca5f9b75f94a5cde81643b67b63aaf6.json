@@ -1,0 +1,10 @@
+{
+	"Id": "0x5135315fbca5f9b75f94a5cde81643b67b63aaf6",
+	"Symbol": "WETH-SHIMEV",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc6db0324457da59bc38785b97c40c6c7f8dca357"
+	],
+	"Protocol": "9962d183-370e-4c48-978f-312d87b3cec6",
+	"Chain": "ethereum"
+}

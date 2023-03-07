@@ -1,0 +1,10 @@
+{
+	"Id": "0xf9b6992c749aab3781a00765a7088bc3568f743f",
+	"Symbol": "WETH-CHEW",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf5d126077096e5b01bc30ffa5d9324d7202d7cb3"
+	],
+	"Protocol": "9962d183-370e-4c48-978f-312d87b3cec6",
+	"Chain": "ethereum"
+}

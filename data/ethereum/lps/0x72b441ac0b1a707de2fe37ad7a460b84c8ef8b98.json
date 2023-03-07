@@ -1,0 +1,10 @@
+{
+	"Id": "0x72b441ac0b1a707de2fe37ad7a460b84c8ef8b98",
+	"Symbol": "WETH-LEASH",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd5c4d8bb899c4ca701400e00c924bcdd4f824dae"
+	],
+	"Protocol": "9962d183-370e-4c48-978f-312d87b3cec6",
+	"Chain": "ethereum"
+}

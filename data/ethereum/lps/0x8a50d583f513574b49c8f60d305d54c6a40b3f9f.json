@@ -1,0 +1,10 @@
+{
+	"Id": "0x8a50d583f513574b49c8f60d305d54c6a40b3f9f",
+	"Symbol": "WBTC-CRAMER",
+	"UnderlyingTokens": [
+		"0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+		"0x64df3aab3b21cc275bb76c4a581cf8b726478ee0"
+	],
+	"Protocol": "9962d183-370e-4c48-978f-312d87b3cec6",
+	"Chain": "ethereum"
+}

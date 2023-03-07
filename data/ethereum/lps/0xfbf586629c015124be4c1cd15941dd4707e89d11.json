@@ -1,0 +1,10 @@
+{
+	"Id": "0xfbf586629c015124be4c1cd15941dd4707e89d11",
+	"Symbol": "$PawCEO-WETH",
+	"UnderlyingTokens": [
+		"0x119f51c8adbae1ffa11552a64dec0918b9f5baeb",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "9962d183-370e-4c48-978f-312d87b3cec6",
+	"Chain": "ethereum"
+}

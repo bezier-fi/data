@@ -1,0 +1,10 @@
+{
+	"Id": "0xdde5ac2781895db869b10f2c7b2fc64dc2998cc1",
+	"Symbol": "ZKFire-WETH",
+	"UnderlyingTokens": [
+		"0x25d46711c77ebd6367c44e619ca02ea81a923610",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "9962d183-370e-4c48-978f-312d87b3cec6",
+	"Chain": "ethereum"
+}

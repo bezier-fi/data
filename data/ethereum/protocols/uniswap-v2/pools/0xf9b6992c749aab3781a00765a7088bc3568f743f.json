@@ -1,0 +1,27 @@
+{
+	"Id": "0xf9b6992c749aab3781a00765a7088bc3568f743f",
+	"Protocol": "9962d183-370e-4c48-978f-312d87b3cec6",
+	"Outputs": [
+		{
+			"Address": "0xf9b6992c749aab3781a00765a7088bc3568f743f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xf5d126077096e5b01bc30ffa5d9324d7202d7cb3",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-CHEW",
+	"Chain": "ethereum"
+}

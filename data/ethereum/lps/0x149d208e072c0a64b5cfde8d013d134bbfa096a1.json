@@ -1,0 +1,10 @@
+{
+	"Id": "0x149d208e072c0a64b5cfde8d013d134bbfa096a1",
+	"Symbol": "WETH-FETCH",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xcc779bbbd17b2e68ecdccaea3d8c791b1573c66b"
+	],
+	"Protocol": "9962d183-370e-4c48-978f-312d87b3cec6",
+	"Chain": "ethereum"
+}

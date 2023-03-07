@@ -1,0 +1,10 @@
+{
+	"Id": "0x1641569cb4015404cf957f1b868fbf43ff722a6e",
+	"Symbol": "STSP-WETH",
+	"UnderlyingTokens": [
+		"0x0eefe108b1b6b35b6551fdea0e3ad2149473b2a8",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "9962d183-370e-4c48-978f-312d87b3cec6",
+	"Chain": "ethereum"
+}

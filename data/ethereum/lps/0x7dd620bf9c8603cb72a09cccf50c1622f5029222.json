@@ -1,0 +1,10 @@
+{
+	"Id": "0x7dd620bf9c8603cb72a09cccf50c1622f5029222",
+	"Symbol": "TSU-WETH",
+	"UnderlyingTokens": [
+		"0xaa6a6c065116004743f5199ab457c94d45f2ab62",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "9962d183-370e-4c48-978f-312d87b3cec6",
+	"Chain": "ethereum"
+}

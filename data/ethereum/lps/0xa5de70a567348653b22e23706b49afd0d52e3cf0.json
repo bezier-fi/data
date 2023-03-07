@@ -1,0 +1,10 @@
+{
+	"Id": "0xa5de70a567348653b22e23706b49afd0d52e3cf0",
+	"Symbol": "MVPL-WETH",
+	"UnderlyingTokens": [
+		"0xb2090afc090458f4062ae882e4a40e422ec8623f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "9962d183-370e-4c48-978f-312d87b3cec6",
+	"Chain": "ethereum"
+}

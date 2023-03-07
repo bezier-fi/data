@@ -1,0 +1,10 @@
+{
+	"Id": "0x9c7ce39675029a97d4b541f69ad7e5b8388dd989",
+	"Symbol": "WOOFME-WETH",
+	"UnderlyingTokens": [
+		"0x5d13ace25d4171fcf24c7e230320bfc6809b00f8",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "9962d183-370e-4c48-978f-312d87b3cec6",
+	"Chain": "ethereum"
+}

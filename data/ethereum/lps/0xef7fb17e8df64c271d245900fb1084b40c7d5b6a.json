@@ -1,0 +1,10 @@
+{
+	"Id": "0xef7fb17e8df64c271d245900fb1084b40c7d5b6a",
+	"Symbol": "ZKO-WETH",
+	"UnderlyingTokens": [
+		"0x68bc9bb2a99b6ae279536d258164837ce3d8c74e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "9962d183-370e-4c48-978f-312d87b3cec6",
+	"Chain": "ethereum"
+}

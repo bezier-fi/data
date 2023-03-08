@@ -1,0 +1,10 @@
+{
+	"Id": "0x3e62ea2b303fb4847c280428f27a4ec82b1c869e",
+	"Symbol": "CANINE-WETH",
+	"UnderlyingTokens": [
+		"0x43788ef4630dbcfc53c2f04eb34e4083108a517e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "03db7d34-c1f6-4ad5-af6e-ef4ae40fc7ed",
+	"Chain": "ethereum"
+}

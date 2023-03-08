@@ -1,0 +1,27 @@
+{
+	"Id": "0xb98bc31bd61770b24f36e21160020489d773f9b8",
+	"Protocol": "7eb96655-159f-44c0-a593-a916e6d7bcd6",
+	"Outputs": [
+		{
+			"Address": "0xb98bc31bd61770b24f36e21160020489d773f9b8",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb97fca5a2967ed91f36c1cbb60dbfe4c53c1df44",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "RUBE-USDT (0.30%)",
+	"Chain": "ethereum"
+}

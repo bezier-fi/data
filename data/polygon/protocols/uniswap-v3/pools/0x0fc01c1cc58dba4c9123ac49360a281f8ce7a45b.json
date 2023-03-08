@@ -1,0 +1,27 @@
+{
+	"Id": "0x0fc01c1cc58dba4c9123ac49360a281f8ce7a45b",
+	"Protocol": "7eb96655-159f-44c0-a593-a916e6d7bcd6",
+	"Outputs": [
+		{
+			"Address": "0x0fc01c1cc58dba4c9123ac49360a281f8ce7a45b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xd0258a3fd00f38aa8090dfee343f10a9d4d30d3f",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC-VOXEL (1.00%)",
+	"Chain": "polygon"
+}

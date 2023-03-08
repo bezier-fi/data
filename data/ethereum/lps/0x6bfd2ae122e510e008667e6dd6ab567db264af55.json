@@ -1,0 +1,10 @@
+{
+	"Id": "0x6bfd2ae122e510e008667e6dd6ab567db264af55",
+	"Symbol": "WETH-SENKEN",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfcfabe7dbf0b7fda161d6c778bbfb661fc759d28"
+	],
+	"Protocol": "03db7d34-c1f6-4ad5-af6e-ef4ae40fc7ed",
+	"Chain": "ethereum"
+}

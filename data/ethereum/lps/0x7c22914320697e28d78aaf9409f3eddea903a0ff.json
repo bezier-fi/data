@@ -1,0 +1,10 @@
+{
+	"Id": "0x7c22914320697e28d78aaf9409f3eddea903a0ff",
+	"Symbol": "WETH-TEETH",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfcee07496a2946c250c1b7af296ff6071797dcef"
+	],
+	"Protocol": "03db7d34-c1f6-4ad5-af6e-ef4ae40fc7ed",
+	"Chain": "ethereum"
+}

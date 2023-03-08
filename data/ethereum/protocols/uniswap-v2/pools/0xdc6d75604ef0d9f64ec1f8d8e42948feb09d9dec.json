@@ -1,0 +1,27 @@
+{
+	"Id": "0xdc6d75604ef0d9f64ec1f8d8e42948feb09d9dec",
+	"Protocol": "03db7d34-c1f6-4ad5-af6e-ef4ae40fc7ed",
+	"Outputs": [
+		{
+			"Address": "0xdc6d75604ef0d9f64ec1f8d8e42948feb09d9dec",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xe081555c70869473fe130dad2b6cecbc2ba38fad",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-Madagascar",
+	"Chain": "ethereum"
+}

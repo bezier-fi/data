@@ -1,0 +1,27 @@
+{
+	"Id": "0x2efd90e73b35823eb2f67dda0a800ed1e6901815",
+	"Protocol": "03db7d34-c1f6-4ad5-af6e-ef4ae40fc7ed",
+	"Outputs": [
+		{
+			"Address": "0x2efd90e73b35823eb2f67dda0a800ed1e6901815",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8598e892be45770c5dba939259eb92e2c33484bb",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Syield-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x20057b01d080be876c115ec0226cc3e2536b2ec5",
+	"Protocol": "7eb96655-159f-44c0-a593-a916e6d7bcd6",
+	"Outputs": [
+		{
+			"Address": "0x20057b01d080be876c115ec0226cc3e2536b2ec5",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5e8422345238f34275888049021821e8e08caa1f",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "frxETH-WETH (0.01%)",
+	"Chain": "ethereum"
+}

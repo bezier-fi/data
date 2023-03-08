@@ -1,0 +1,10 @@
+{
+	"Id": "0xab3b855e5d0c61ecabbdb20e85aa2727ccdd1af5",
+	"Symbol": "vSELL-WETH",
+	"UnderlyingTokens": [
+		"0x09e555a4202e357087caff97d3f0bd3f2f46aa0b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "03db7d34-c1f6-4ad5-af6e-ef4ae40fc7ed",
+	"Chain": "ethereum"
+}

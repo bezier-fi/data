@@ -1,0 +1,27 @@
+{
+	"Id": "0xa3c7d9bb879860bb4dd701e82bfe681498e38aae",
+	"Protocol": "7eb96655-159f-44c0-a593-a916e6d7bcd6",
+	"Outputs": [
+		{
+			"Address": "0xa3c7d9bb879860bb4dd701e82bfe681498e38aae",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x24da31e7bb182cb2cabfef1d88db19c2ae1f5572",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SHIK-WETH (1.00%)",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x7d754ada6131ded608307107b760a32e350598e4",
+	"Symbol": "Locked-WETH",
+	"UnderlyingTokens": [
+		"0x03a13515c0ba72ef3ddabd673e0ac3597769cd56",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "03db7d34-c1f6-4ad5-af6e-ef4ae40fc7ed",
+	"Chain": "ethereum"
+}

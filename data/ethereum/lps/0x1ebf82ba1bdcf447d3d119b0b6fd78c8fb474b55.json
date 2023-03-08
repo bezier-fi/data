@@ -1,0 +1,10 @@
+{
+	"Id": "0x1ebf82ba1bdcf447d3d119b0b6fd78c8fb474b55",
+	"Symbol": "BMARVIN-WETH",
+	"UnderlyingTokens": [
+		"0x87ebe228e3e4d4e4d24f144d85f6a12f26d48fc1",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "03db7d34-c1f6-4ad5-af6e-ef4ae40fc7ed",
+	"Chain": "ethereum"
+}

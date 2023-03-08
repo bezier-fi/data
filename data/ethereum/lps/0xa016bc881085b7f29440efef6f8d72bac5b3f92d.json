@@ -1,0 +1,10 @@
+{
+	"Id": "0xa016bc881085b7f29440efef6f8d72bac5b3f92d",
+	"Symbol": "WETH-FUNGIFY",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf4cbd627e9f65775c90b592056a89b27ccaff1ef"
+	],
+	"Protocol": "03db7d34-c1f6-4ad5-af6e-ef4ae40fc7ed",
+	"Chain": "ethereum"
+}

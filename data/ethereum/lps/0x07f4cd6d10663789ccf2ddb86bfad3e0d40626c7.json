@@ -1,0 +1,10 @@
+{
+	"Id": "0x07f4cd6d10663789ccf2ddb86bfad3e0d40626c7",
+	"Symbol": "PAWP-WETH",
+	"UnderlyingTokens": [
+		"0x5a9ca36d492c946d0fefefb4817d4b330704b83e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "03db7d34-c1f6-4ad5-af6e-ef4ae40fc7ed",
+	"Chain": "ethereum"
+}

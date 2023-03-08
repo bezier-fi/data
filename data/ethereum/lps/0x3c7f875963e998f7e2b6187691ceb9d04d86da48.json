@@ -1,0 +1,10 @@
+{
+	"Id": "0x3c7f875963e998f7e2b6187691ceb9d04d86da48",
+	"Symbol": "SaaS-WETH",
+	"UnderlyingTokens": [
+		"0x175a3d23d347c910deb28e1df1db566b912fdf35",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "03db7d34-c1f6-4ad5-af6e-ef4ae40fc7ed",
+	"Chain": "ethereum"
+}

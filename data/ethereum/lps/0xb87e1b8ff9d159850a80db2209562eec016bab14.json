@@ -1,0 +1,10 @@
+{
+	"Id": "0xb87e1b8ff9d159850a80db2209562eec016bab14",
+	"Symbol": "PINU-WETH",
+	"UnderlyingTokens": [
+		"0x487937dcabd3562b3b5181d4a898c93cef287289",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "03db7d34-c1f6-4ad5-af6e-ef4ae40fc7ed",
+	"Chain": "ethereum"
+}

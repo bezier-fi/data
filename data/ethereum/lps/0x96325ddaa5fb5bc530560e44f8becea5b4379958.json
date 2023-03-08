@@ -1,0 +1,10 @@
+{
+	"Id": "0x96325ddaa5fb5bc530560e44f8becea5b4379958",
+	"Symbol": "SHIBTI-WETH",
+	"UnderlyingTokens": [
+		"0x66c003feab352aa2c062a06819f0e09494626c71",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "03db7d34-c1f6-4ad5-af6e-ef4ae40fc7ed",
+	"Chain": "ethereum"
+}

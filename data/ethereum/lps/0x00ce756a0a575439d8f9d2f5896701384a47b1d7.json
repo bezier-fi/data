@@ -1,0 +1,10 @@
+{
+	"Id": "0x00ce756a0a575439d8f9d2f5896701384a47b1d7",
+	"Symbol": "POUCH-WETH",
+	"UnderlyingTokens": [
+		"0x35138b508398b8a7733e4e3d8bf29ceeda8a2024",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "06c3f36f-f4cc-4028-9a83-b76208130c9e",
+	"Chain": "ethereum"
+}

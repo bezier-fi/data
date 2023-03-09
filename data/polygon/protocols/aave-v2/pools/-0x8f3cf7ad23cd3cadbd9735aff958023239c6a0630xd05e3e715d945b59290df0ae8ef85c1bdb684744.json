@@ -1,17 +1,17 @@
 {
 	"Id": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a0630xd05e3e715d945b59290df0ae8ef85c1bdb684744",
-	"Protocol": "af772f64-370a-4c8d-ac93-78be5dedcd47",
+	"Protocol": "81b9ba3c-c3d8-43c9-aa13-9b98b763000a",
 	"Outputs": [
 		{
 			"Address": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
-			"Apr": -4.8552794,
+			"Apr": -4.855296,
 			"GroupId": 1,
 			"Key": "stable",
 			"RequiredKeyInGroup": null
 		},
 		{
 			"Address": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
-			"Apr": -1.9105586,
+			"Apr": -1.9105924,
 			"GroupId": 1,
 			"Key": "variable",
 			"RequiredKeyInGroup": null
@@ -20,51 +20,51 @@
 	"Inputs": [
 		{
 			"Address": "0x21ec9431b5b55c5339eb1ae7582763087f98fac2",
-			"GroupId": 0
+			"GroupId": 1
 		},
 		{
 			"Address": "0x8df3aad3a84da6b69a4da8aec3ea40d9091b2ac4",
-			"GroupId": 0
+			"GroupId": 1
 		},
 		{
 			"Address": "0x3df8f92b7e798820ddcca2ebea7babda2c90c4ad",
-			"GroupId": 0
+			"GroupId": 1
 		},
 		{
 			"Address": "0x5c2ed810328349100a66b82b78a1791b101c9d61",
-			"GroupId": 0
+			"GroupId": 1
 		},
 		{
 			"Address": "0x1a13f4ca1d028320a707d99520abfefca3998b7f",
-			"GroupId": 0
+			"GroupId": 1
 		},
 		{
 			"Address": "0x080b5bf8f360f624628e0fb961f4e67c9e3c7cf1",
-			"GroupId": 0
+			"GroupId": 1
 		},
 		{
 			"Address": "0x0ca2e42e8c21954af73bc9af1213e4e81d6a669a",
-			"GroupId": 0
+			"GroupId": 1
 		},
 		{
 			"Address": "0x28424507fefb6f7f8e9d3860f56504e4e5f5f390",
-			"GroupId": 0
+			"GroupId": 1
 		},
 		{
 			"Address": "0x81fb82aacb4abe262fc57f06fd4c1d2de347d7b1",
-			"GroupId": 0
+			"GroupId": 1
 		},
 		{
 			"Address": "0x27f8d03b3a2196956ed754badc28d73be8830a6e",
-			"GroupId": 0
+			"GroupId": 1
 		},
 		{
 			"Address": "0xc4195d4060daeac44058ed668aa5efec50d77ff6",
-			"GroupId": 0
+			"GroupId": 1
 		},
 		{
 			"Address": "0x1d2a0e5ec8e5bbdca5cb219e649b565d8e5c3360",
-			"GroupId": 0
+			"GroupId": 1
 		}
 	],
 	"MinimumInputs": 1,

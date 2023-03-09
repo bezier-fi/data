@@ -1,0 +1,10 @@
+{
+	"Id": "0x99b975590364dfdea0ed8550d0d862c78e07c43d",
+	"Symbol": "YUNA-WETH",
+	"UnderlyingTokens": [
+		"0x2f6f397332b0f8b4536430bcc97980aa838f62f9",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "06c3f36f-f4cc-4028-9a83-b76208130c9e",
+	"Chain": "ethereum"
+}

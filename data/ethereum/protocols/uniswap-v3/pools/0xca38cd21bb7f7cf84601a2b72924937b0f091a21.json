@@ -1,0 +1,27 @@
+{
+	"Id": "0xca38cd21bb7f7cf84601a2b72924937b0f091a21",
+	"Protocol": "47fb0f8f-7751-4b5b-bdf7-63f0872f5f8d",
+	"Outputs": [
+		{
+			"Address": "0xca38cd21bb7f7cf84601a2b72924937b0f091a21",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x181a7bf76e45b3414f8b15bc0840d83a624265ac",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CRNK-WETH (1.00%)",
+	"Chain": "ethereum"
+}

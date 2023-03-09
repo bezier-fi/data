@@ -1,0 +1,10 @@
+{
+	"Id": "0xd44d222bec2c2c4e6d9e1fa8d57e3bd73340f167",
+	"Symbol": "SHIBCASH-WETH",
+	"UnderlyingTokens": [
+		"0x9771010d5fbf9f45a8ac30b3c191d2fc63418873",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "06c3f36f-f4cc-4028-9a83-b76208130c9e",
+	"Chain": "ethereum"
+}

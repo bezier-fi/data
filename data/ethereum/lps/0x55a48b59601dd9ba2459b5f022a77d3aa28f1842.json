@@ -1,0 +1,10 @@
+{
+	"Id": "0x55a48b59601dd9ba2459b5f022a77d3aa28f1842",
+	"Symbol": "TOKR-WETH",
+	"UnderlyingTokens": [
+		"0xa885b6d3c87535de688194ec3645199ee76d6772",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "06c3f36f-f4cc-4028-9a83-b76208130c9e",
+	"Chain": "ethereum"
+}

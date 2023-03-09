@@ -1,0 +1,10 @@
+{
+	"Id": "0x1c8a0c6d6b5db53f2b1d366783b1b3808f69ca33",
+	"Symbol": "WHEEL-WETH",
+	"UnderlyingTokens": [
+		"0xb6abb02969466f402d6ec9642ea4b4a517047e58",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "06c3f36f-f4cc-4028-9a83-b76208130c9e",
+	"Chain": "ethereum"
+}

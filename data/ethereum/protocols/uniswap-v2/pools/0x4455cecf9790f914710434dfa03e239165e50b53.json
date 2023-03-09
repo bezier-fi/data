@@ -1,0 +1,27 @@
+{
+	"Id": "0x4455cecf9790f914710434dfa03e239165e50b53",
+	"Protocol": "06c3f36f-f4cc-4028-9a83-b76208130c9e",
+	"Outputs": [
+		{
+			"Address": "0x4455cecf9790f914710434dfa03e239165e50b53",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xe36dca2c073a84b1cab26052a28ee55fe25a966b",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-SHIPAY",
+	"Chain": "ethereum"
+}

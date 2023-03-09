@@ -1,0 +1,10 @@
+{
+	"Id": "0xa6810475e84a15136e9c21f5d9fb25a891debad0",
+	"Symbol": "WETH-ETHZILLA",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfd3b0a9eb43c1c140f7afa115e0d199a61dc3c01"
+	],
+	"Protocol": "06c3f36f-f4cc-4028-9a83-b76208130c9e",
+	"Chain": "ethereum"
+}

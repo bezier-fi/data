@@ -1,0 +1,10 @@
+{
+	"Id": "0x98de1be393227528b6917711ce686e8cce4cc4cd",
+	"Symbol": "USDC-MAC",
+	"UnderlyingTokens": [
+		"0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+		"0xf01baf83e0b1a66110188e0d36b41099c47008ee"
+	],
+	"Protocol": "06c3f36f-f4cc-4028-9a83-b76208130c9e",
+	"Chain": "ethereum"
+}

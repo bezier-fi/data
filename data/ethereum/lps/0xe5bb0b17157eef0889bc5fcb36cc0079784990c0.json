@@ -1,0 +1,10 @@
+{
+	"Id": "0xe5bb0b17157eef0889bc5fcb36cc0079784990c0",
+	"Symbol": "SCRATCH-WETH",
+	"UnderlyingTokens": [
+		"0x8a951ab4e473b44fad871718125e23d7f0d8c990",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "06c3f36f-f4cc-4028-9a83-b76208130c9e",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x5bf8ca1036e929378b8032db4d0a621f59a11cae",
+	"Symbol": "WETH-OCRAP",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xccce376ffebde910a23993d5b44d50e8b2096204"
+	],
+	"Protocol": "06c3f36f-f4cc-4028-9a83-b76208130c9e",
+	"Chain": "ethereum"
+}

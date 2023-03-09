@@ -1,0 +1,10 @@
+{
+	"Id": "0xefb640e27a37c75a62a4e43d22c6ba2e802d7d41",
+	"Symbol": "WETH-ShibOK",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf8b2a440a380c05ecde74182716607b99517282b"
+	],
+	"Protocol": "06c3f36f-f4cc-4028-9a83-b76208130c9e",
+	"Chain": "ethereum"
+}

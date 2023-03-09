@@ -1,0 +1,10 @@
+{
+	"Id": "0xe18df41c1ace0f58a98445b716d9de991e11139f",
+	"Symbol": "PAWS-WETH",
+	"UnderlyingTokens": [
+		"0x2db432a8aef378f7227e80126e4a29bb36050ed7",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "06c3f36f-f4cc-4028-9a83-b76208130c9e",
+	"Chain": "ethereum"
+}

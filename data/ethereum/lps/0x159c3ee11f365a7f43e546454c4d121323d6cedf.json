@@ -1,0 +1,10 @@
+{
+	"Id": "0x159c3ee11f365a7f43e546454c4d121323d6cedf",
+	"Symbol": "ShibArm-WETH",
+	"UnderlyingTokens": [
+		"0x50c6e7b780479a457926491e367370d54c1c88ae",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "a91523b8-e33c-41bc-a9e9-d32d978c704f",
+	"Chain": "ethereum"
+}

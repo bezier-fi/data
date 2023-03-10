@@ -1,0 +1,27 @@
+{
+	"Id": "0x4b63b0424ed61c76ad03cc19422076f67a828d6a",
+	"Protocol": "a91523b8-e33c-41bc-a9e9-d32d978c704f",
+	"Outputs": [
+		{
+			"Address": "0x4b63b0424ed61c76ad03cc19422076f67a828d6a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xe2db1b6a7df29934ee434b3b75609ed9f33aeb7e",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-MUZZLE",
+	"Chain": "ethereum"
+}

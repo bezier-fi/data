@@ -1,0 +1,10 @@
+{
+	"Id": "0x6fbf8ab58c4133e3c6384252e9b5f20e11cb5847",
+	"Symbol": "R4-WETH",
+	"UnderlyingTokens": [
+		"0x996ce8f069636600e51bddc11e262a80a55971a0",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "a91523b8-e33c-41bc-a9e9-d32d978c704f",
+	"Chain": "ethereum"
+}

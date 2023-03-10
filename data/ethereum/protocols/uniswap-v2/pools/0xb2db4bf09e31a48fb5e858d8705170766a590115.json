@@ -1,0 +1,27 @@
+{
+	"Id": "0xb2db4bf09e31a48fb5e858d8705170766a590115",
+	"Protocol": "a91523b8-e33c-41bc-a9e9-d32d978c704f",
+	"Outputs": [
+		{
+			"Address": "0xb2db4bf09e31a48fb5e858d8705170766a590115",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x91ccf123b14d00f75df112b1a7fe5210e5f821fc",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DUCKBILL-WETH",
+	"Chain": "ethereum"
+}

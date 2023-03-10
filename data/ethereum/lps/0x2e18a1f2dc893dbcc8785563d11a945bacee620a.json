@@ -1,0 +1,10 @@
+{
+	"Id": "0x2e18a1f2dc893dbcc8785563d11a945bacee620a",
+	"Symbol": "orSHIB-WETH",
+	"UnderlyingTokens": [
+		"0x217b7810965e719fb6127a2e30ed790bf9d7f966",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "a91523b8-e33c-41bc-a9e9-d32d978c704f",
+	"Chain": "ethereum"
+}

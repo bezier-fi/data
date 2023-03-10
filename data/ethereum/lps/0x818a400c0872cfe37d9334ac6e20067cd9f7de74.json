@@ -1,0 +1,10 @@
+{
+	"Id": "0x818a400c0872cfe37d9334ac6e20067cd9f7de74",
+	"Symbol": "SHIBLET-WETH",
+	"UnderlyingTokens": [
+		"0x2660d8effb8cc7392c769dfb889680579ace1b17",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "a91523b8-e33c-41bc-a9e9-d32d978c704f",
+	"Chain": "ethereum"
+}

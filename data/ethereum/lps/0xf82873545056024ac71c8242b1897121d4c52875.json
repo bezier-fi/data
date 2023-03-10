@@ -1,0 +1,10 @@
+{
+	"Id": "0xf82873545056024ac71c8242b1897121d4c52875",
+	"Symbol": "WETH-BitGen",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf1647d868df7da6e06c962c5a13585b00a5dd1d2"
+	],
+	"Protocol": "a91523b8-e33c-41bc-a9e9-d32d978c704f",
+	"Chain": "ethereum"
+}

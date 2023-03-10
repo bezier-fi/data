@@ -1,0 +1,10 @@
+{
+	"Id": "0x6d546f173ae9de9ec5bb0b536dab461b133515ce",
+	"Symbol": "TAIL-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x2915b56d5162eabfc8dfa943e8464b89210286b3",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "19f0d761-454b-4b38-a5cb-9c5575daaa54",
+	"Chain": "ethereum"
+}

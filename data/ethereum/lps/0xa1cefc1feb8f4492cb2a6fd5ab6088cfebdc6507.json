@@ -1,0 +1,10 @@
+{
+	"Id": "0xa1cefc1feb8f4492cb2a6fd5ab6088cfebdc6507",
+	"Symbol": "GROWL-WETH",
+	"UnderlyingTokens": [
+		"0x79b48e9d29a6d6a23580fb18db0852a6495f2b26",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "a91523b8-e33c-41bc-a9e9-d32d978c704f",
+	"Chain": "ethereum"
+}

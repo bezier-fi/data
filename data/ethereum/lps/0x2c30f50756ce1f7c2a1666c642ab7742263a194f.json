@@ -1,0 +1,10 @@
+{
+	"Id": "0x2c30f50756ce1f7c2a1666c642ab7742263a194f",
+	"Symbol": "WETH-SHIBLO",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc9731f7343e533059d77c65b81916ba472f8ea84"
+	],
+	"Protocol": "a91523b8-e33c-41bc-a9e9-d32d978c704f",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x092c9c0de1860b7df423d22f4751f5c15a415a88",
+	"Symbol": "HOWL-WETH",
+	"UnderlyingTokens": [
+		"0xa9cc5ae1416ea0616e92f7290304953defaf2341",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "287d9c3e-72d5-4ed5-a29d-48925368a3b0",
+	"Chain": "ethereum"
+}

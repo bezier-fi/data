@@ -1,0 +1,27 @@
+{
+	"Id": "0xa606c13c87cad4454c96cc99bb91191717049287",
+	"Protocol": "65b60f5e-1aff-428a-bf3c-bdb1000e6f22",
+	"Outputs": [
+		{
+			"Address": "0xa606c13c87cad4454c96cc99bb91191717049287",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4b9278b94a1112cad404048903b8d343a810b07e",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xd1557677ffe0a6741a652d53b86c63c0b2f503aa",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "HIFI-BOTSp (0.30%)",
+	"Chain": "ethereum"
+}

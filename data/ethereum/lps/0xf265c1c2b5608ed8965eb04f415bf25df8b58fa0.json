@@ -1,0 +1,10 @@
+{
+	"Id": "0xf265c1c2b5608ed8965eb04f415bf25df8b58fa0",
+	"Symbol": "AI WEB3-WETH",
+	"UnderlyingTokens": [
+		"0x0b037269d25c48304482d3e2e7c66590fdfda8d6",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "287d9c3e-72d5-4ed5-a29d-48925368a3b0",
+	"Chain": "ethereum"
+}

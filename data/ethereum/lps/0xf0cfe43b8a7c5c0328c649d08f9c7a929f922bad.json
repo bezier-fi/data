@@ -1,0 +1,10 @@
+{
+	"Id": "0xf0cfe43b8a7c5c0328c649d08f9c7a929f922bad",
+	"Symbol": "PAI-WETH",
+	"UnderlyingTokens": [
+		"0x12b474c144d22ef9f80733332665a0bec9553e4d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "287d9c3e-72d5-4ed5-a29d-48925368a3b0",
+	"Chain": "ethereum"
+}

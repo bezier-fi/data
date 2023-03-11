@@ -1,0 +1,10 @@
+{
+	"Id": "0x0e9c4e7db2845e6d1a7e84e84ec55f76e2515185",
+	"Symbol": "SHEP-WETH",
+	"UnderlyingTokens": [
+		"0x7b86f9feb2832c3c455148f33acaf59f8a4250ed",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "287d9c3e-72d5-4ed5-a29d-48925368a3b0",
+	"Chain": "ethereum"
+}

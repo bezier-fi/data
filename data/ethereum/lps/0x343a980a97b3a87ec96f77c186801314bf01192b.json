@@ -1,0 +1,10 @@
+{
+	"Id": "0x343a980a97b3a87ec96f77c186801314bf01192b",
+	"Symbol": "SVBC-WETH",
+	"UnderlyingTokens": [
+		"0x7aed4bd74a9aca5842d31da4123927fe6a47cf53",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "287d9c3e-72d5-4ed5-a29d-48925368a3b0",
+	"Chain": "ethereum"
+}

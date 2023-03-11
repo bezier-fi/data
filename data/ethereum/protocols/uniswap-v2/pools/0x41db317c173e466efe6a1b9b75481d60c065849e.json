@@ -1,0 +1,27 @@
+{
+	"Id": "0x41db317c173e466efe6a1b9b75481d60c065849e",
+	"Protocol": "287d9c3e-72d5-4ed5-a29d-48925368a3b0",
+	"Outputs": [
+		{
+			"Address": "0x41db317c173e466efe6a1b9b75481d60c065849e",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xd742329cdbce897c4be092aa1f1564baf24f8662",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-VINI",
+	"Chain": "ethereum"
+}

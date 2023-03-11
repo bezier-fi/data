@@ -1,0 +1,10 @@
+{
+	"Id": "0x0d0db217afb6436915e3140b2b6547ce9622e8d7",
+	"Symbol": "PAX-WETH (0.05%)",
+	"UnderlyingTokens": [
+		"0x8e870d67f660d95d5be530380d0ec0bd388289e1",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "65b60f5e-1aff-428a-bf3c-bdb1000e6f22",
+	"Chain": "ethereum"
+}

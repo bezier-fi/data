@@ -1,0 +1,10 @@
+{
+	"Id": "0xc0413022368695d2f8df66a197ffb21ce6cae149",
+	"Symbol": "CU-WETH",
+	"UnderlyingTokens": [
+		"0xa5f1bcbda9c2187733c9dedce0eeec241eaa12a7",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "287d9c3e-72d5-4ed5-a29d-48925368a3b0",
+	"Chain": "ethereum"
+}

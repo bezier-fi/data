@@ -1,0 +1,27 @@
+{
+	"Id": "0xfa031db197ad232f4a8ef6dde40aa6a3c17168d2",
+	"Protocol": "65b60f5e-1aff-428a-bf3c-bdb1000e6f22",
+	"Outputs": [
+		{
+			"Address": "0xfa031db197ad232f4a8ef6dde40aa6a3c17168d2",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xe111178a87a3bff0c8d18decba5798827539ae99",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDT-EURS (0.30%)",
+	"Chain": "polygon"
+}

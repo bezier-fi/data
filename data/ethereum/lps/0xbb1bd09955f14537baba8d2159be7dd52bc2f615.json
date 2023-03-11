@@ -1,0 +1,10 @@
+{
+	"Id": "0xbb1bd09955f14537baba8d2159be7dd52bc2f615",
+	"Symbol": "ABUN-WETH",
+	"UnderlyingTokens": [
+		"0x0131935225b17ca35c536ab30ea8afebe849b516",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "287d9c3e-72d5-4ed5-a29d-48925368a3b0",
+	"Chain": "ethereum"
+}

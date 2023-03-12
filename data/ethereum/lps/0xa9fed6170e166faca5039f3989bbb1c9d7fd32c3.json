@@ -1,0 +1,10 @@
+{
+	"Id": "0xa9fed6170e166faca5039f3989bbb1c9d7fd32c3",
+	"Symbol": "REKTT-WETH",
+	"UnderlyingTokens": [
+		"0x0343b67c0d90baa76145c4e43a519afa220a20c2",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "a58ed6b5-80db-4aea-ab4d-f37d2e0011c9",
+	"Chain": "ethereum"
+}

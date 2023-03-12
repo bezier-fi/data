@@ -1,0 +1,23 @@
+{
+	"Id": "0x3f80F7aE80F54DDB31B1211e7d03CF24fCBB8334",
+	"Protocol": "9f95f089-b228-425f-b5c9-40a49776d928",
+	"Outputs": [
+		{
+			"Address": "0x3f80F7aE80F54DDB31B1211e7d03CF24fCBB8334",
+			"Apr": 146.88898,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x682831244b0E97946ABC52Cb1893Cce398De3A35",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DAI-ETH LP",
+	"Chain": "ethereum"
+}

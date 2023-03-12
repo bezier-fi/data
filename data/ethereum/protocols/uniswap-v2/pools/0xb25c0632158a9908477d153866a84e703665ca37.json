@@ -1,0 +1,27 @@
+{
+	"Id": "0xb25c0632158a9908477d153866a84e703665ca37",
+	"Protocol": "a58ed6b5-80db-4aea-ab4d-f37d2e0011c9",
+	"Outputs": [
+		{
+			"Address": "0xb25c0632158a9908477d153866a84e703665ca37",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x113b1fec47ad2a1ef5934ebd7d823f213c894784",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x9dbe54b2bca08b4626563555ab197771312aa669",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "LONS-DIAM",
+	"Chain": "ethereum"
+}

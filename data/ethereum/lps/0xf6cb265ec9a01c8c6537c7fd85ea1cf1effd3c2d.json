@@ -1,0 +1,10 @@
+{
+	"Id": "0xf6cb265ec9a01c8c6537c7fd85ea1cf1effd3c2d",
+	"Symbol": "WETH-OZEMPIC",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xdd9b2f28a069bacc81132f6432e5ef1c9c743d03"
+	],
+	"Protocol": "a58ed6b5-80db-4aea-ab4d-f37d2e0011c9",
+	"Chain": "ethereum"
+}

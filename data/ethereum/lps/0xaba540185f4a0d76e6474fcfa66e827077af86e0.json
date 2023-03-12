@@ -1,0 +1,10 @@
+{
+	"Id": "0xaba540185f4a0d76e6474fcfa66e827077af86e0",
+	"Symbol": "STRP-WETH",
+	"UnderlyingTokens": [
+		"0x97872eafd79940c7b24f7bcc1eadb1457347adc9",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "a58ed6b5-80db-4aea-ab4d-f37d2e0011c9",
+	"Chain": "ethereum"
+}

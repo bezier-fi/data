@@ -1,0 +1,23 @@
+{
+	"Id": "0xd9800EeF1756f156E025859eE0DBE6E5f6a6428b",
+	"Protocol": "9f95f089-b228-425f-b5c9-40a49776d928",
+	"Outputs": [
+		{
+			"Address": "0xd9800EeF1756f156E025859eE0DBE6E5f6a6428b",
+			"Apr": 277.66156,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xF3f82bC165a83425e81b8f2858D786E41ab21671",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WBTC-USDC LP",
+	"Chain": "ethereum"
+}

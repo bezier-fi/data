@@ -1,0 +1,10 @@
+{
+	"Id": "0xf348e669821c35d5a5e7e021cac6f63ee95ed483",
+	"Symbol": "APO-WETH",
+	"UnderlyingTokens": [
+		"0x163b06708a86bc77b898a24fb7fca39691068fcc",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "a58ed6b5-80db-4aea-ab4d-f37d2e0011c9",
+	"Chain": "ethereum"
+}

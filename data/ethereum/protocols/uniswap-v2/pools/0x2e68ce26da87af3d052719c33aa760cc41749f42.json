@@ -1,0 +1,27 @@
+{
+	"Id": "0x2e68ce26da87af3d052719c33aa760cc41749f42",
+	"Protocol": "a58ed6b5-80db-4aea-ab4d-f37d2e0011c9",
+	"Outputs": [
+		{
+			"Address": "0x2e68ce26da87af3d052719c33aa760cc41749f42",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x15e82019d3d2479f6c5f24d9829e12545fa186c2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "YUME-WETH",
+	"Chain": "ethereum"
+}

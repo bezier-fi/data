@@ -1,0 +1,10 @@
+{
+	"Id": "0xd464a59cb6088b2328b2213381e48e9eee93ecf5",
+	"Symbol": "GPT-WETH",
+	"UnderlyingTokens": [
+		"0xb0e06199bd6ce63d271f90eb5b904ec5b1cf6628",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "a58ed6b5-80db-4aea-ab4d-f37d2e0011c9",
+	"Chain": "ethereum"
+}

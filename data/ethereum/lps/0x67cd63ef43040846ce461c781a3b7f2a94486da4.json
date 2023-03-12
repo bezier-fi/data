@@ -1,0 +1,10 @@
+{
+	"Id": "0x67cd63ef43040846ce461c781a3b7f2a94486da4",
+	"Symbol": "WETH-LUNAR",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd5f82ba67428b501bc281f6391a01e8e08ec182d"
+	],
+	"Protocol": "a58ed6b5-80db-4aea-ab4d-f37d2e0011c9",
+	"Chain": "ethereum"
+}

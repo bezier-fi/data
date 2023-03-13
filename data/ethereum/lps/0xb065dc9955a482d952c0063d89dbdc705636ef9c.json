@@ -1,0 +1,10 @@
+{
+	"Id": "0xb065dc9955a482d952c0063d89dbdc705636ef9c",
+	"Symbol": "CZF-WETH",
+	"UnderlyingTokens": [
+		"0x4df07bf370565854c81711c745cda02282789a46",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ed0f0a08-aeba-46cb-ba53-eb81f4409b54",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x4c1b3c23f444274eedcfd5a851f8b854e8721df9",
+	"Protocol": "ed0f0a08-aeba-46cb-ba53-eb81f4409b54",
+	"Outputs": [
+		{
+			"Address": "0x4c1b3c23f444274eedcfd5a851f8b854e8721df9",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1ffa5134ec73ce7e895d23e70c1100e17d7df202",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "OptimusWaifu-WETH",
+	"Chain": "ethereum"
+}

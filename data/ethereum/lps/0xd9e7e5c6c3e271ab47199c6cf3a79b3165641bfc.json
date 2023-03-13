@@ -1,0 +1,10 @@
+{
+	"Id": "0xd9e7e5c6c3e271ab47199c6cf3a79b3165641bfc",
+	"Symbol": "Floofy-WETH",
+	"UnderlyingTokens": [
+		"0x1a6eb0f2aa82638cbb2389243850989abcd71357",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ed0f0a08-aeba-46cb-ba53-eb81f4409b54",
+	"Chain": "ethereum"
+}

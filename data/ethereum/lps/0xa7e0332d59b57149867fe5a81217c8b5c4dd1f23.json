@@ -1,0 +1,10 @@
+{
+	"Id": "0xa7e0332d59b57149867fe5a81217c8b5c4dd1f23",
+	"Symbol": "WETH-hVOLT",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf755e691208e1e5758987ad16f7f6ca689ff1068"
+	],
+	"Protocol": "ed0f0a08-aeba-46cb-ba53-eb81f4409b54",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x4c1b3c23f444274eedcfd5a851f8b854e8721df9",
+	"Symbol": "OptimusWaifu-WETH",
+	"UnderlyingTokens": [
+		"0x1ffa5134ec73ce7e895d23e70c1100e17d7df202",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ed0f0a08-aeba-46cb-ba53-eb81f4409b54",
+	"Chain": "ethereum"
+}

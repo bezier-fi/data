@@ -1,0 +1,27 @@
+{
+	"Id": "0x194aa72806d46b83311773d5415e05199ebb6b0c",
+	"Protocol": "ed0f0a08-aeba-46cb-ba53-eb81f4409b54",
+	"Outputs": [
+		{
+			"Address": "0x194aa72806d46b83311773d5415e05199ebb6b0c",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xac3c4b6c75cf8a756bcef53aba9b1c0fdf5feb44",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SHELTER-WETH",
+	"Chain": "ethereum"
+}

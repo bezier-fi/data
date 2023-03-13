@@ -1,0 +1,27 @@
+{
+	"Id": "0x1e0fcd6c2edbc38c740ec2ea31e12c9362350d8e",
+	"Protocol": "ed0f0a08-aeba-46cb-ba53-eb81f4409b54",
+	"Outputs": [
+		{
+			"Address": "0x1e0fcd6c2edbc38c740ec2ea31e12c9362350d8e",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x42e7ecffe5a6a92946b660e8cb850aaf37729572",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BONERIUM-WETH",
+	"Chain": "ethereum"
+}

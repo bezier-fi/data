@@ -1,0 +1,27 @@
+{
+	"Id": "0xf09e5f387b749cf7ea7c1c3f1ece69fb59720cd0",
+	"Protocol": "862f0e07-5bd9-4566-b0c2-0124639f6531",
+	"Outputs": [
+		{
+			"Address": "0xf09e5f387b749cf7ea7c1c3f1ece69fb59720cd0",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc91a71a1ffa3d8b22ba615ba1b9c01b2bbbf55ad",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ZZ-USDT (0.30%)",
+	"Chain": "ethereum"
+}

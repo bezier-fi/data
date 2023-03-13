@@ -1,0 +1,10 @@
+{
+	"Id": "0x5a4371e791793da3f115fc7eea625395a822204c",
+	"Symbol": "ALPHASHIB-WETH",
+	"UnderlyingTokens": [
+		"0x795696ef54abeccac201ada89ee7fd488d549364",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ed0f0a08-aeba-46cb-ba53-eb81f4409b54",
+	"Chain": "ethereum"
+}

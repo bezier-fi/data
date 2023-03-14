@@ -1,0 +1,27 @@
+{
+	"Id": "0x434ddc8d3cfb33efe3dacc6da407d28452e3db33",
+	"Protocol": "d2d03791-65a8-45d4-99bb-5bded5ebbe62",
+	"Outputs": [
+		{
+			"Address": "0x434ddc8d3cfb33efe3dacc6da407d28452e3db33",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3e642c08d70680fa7f8854feaa93139b56a978d8",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BANKS-WETH",
+	"Chain": "ethereum"
+}

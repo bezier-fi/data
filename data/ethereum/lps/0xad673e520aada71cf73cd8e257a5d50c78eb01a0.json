@@ -1,0 +1,10 @@
+{
+	"Id": "0xad673e520aada71cf73cd8e257a5d50c78eb01a0",
+	"Symbol": "WBTC-ODIN",
+	"UnderlyingTokens": [
+		"0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+		"0xdfc5964141c018485b4d017634660f85aa667714"
+	],
+	"Protocol": "d2d03791-65a8-45d4-99bb-5bded5ebbe62",
+	"Chain": "ethereum"
+}

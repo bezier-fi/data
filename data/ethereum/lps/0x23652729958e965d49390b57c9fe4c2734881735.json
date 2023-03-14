@@ -1,0 +1,10 @@
+{
+	"Id": "0x23652729958e965d49390b57c9fe4c2734881735",
+	"Symbol": "BAILOUT-WETH",
+	"UnderlyingTokens": [
+		"0x6230c3a0e34bbc247388de6d9a5497c949ab1b25",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d2d03791-65a8-45d4-99bb-5bded5ebbe62",
+	"Chain": "ethereum"
+}

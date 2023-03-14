@@ -1,0 +1,27 @@
+{
+	"Id": "0xf113f2ff2ee98e0e27efb6a7a0cc45f0d3afb6ba",
+	"Protocol": "d2d03791-65a8-45d4-99bb-5bded5ebbe62",
+	"Outputs": [
+		{
+			"Address": "0xf113f2ff2ee98e0e27efb6a7a0cc45f0d3afb6ba",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x417802b5a02d4af5c2914cc57d37feb296719f35",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "THE MEME-WETH",
+	"Chain": "ethereum"
+}

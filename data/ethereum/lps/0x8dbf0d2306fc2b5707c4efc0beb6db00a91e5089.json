@@ -1,0 +1,10 @@
+{
+	"Id": "0x8dbf0d2306fc2b5707c4efc0beb6db00a91e5089",
+	"Symbol": "NSE-WETH",
+	"UnderlyingTokens": [
+		"0x637f8ef8b7abb1b1530670c6c45c497e266ca2ee",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d2d03791-65a8-45d4-99bb-5bded5ebbe62",
+	"Chain": "ethereum"
+}

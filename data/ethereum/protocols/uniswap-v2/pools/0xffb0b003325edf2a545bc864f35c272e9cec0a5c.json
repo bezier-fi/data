@@ -1,0 +1,27 @@
+{
+	"Id": "0xffb0b003325edf2a545bc864f35c272e9cec0a5c",
+	"Protocol": "d2d03791-65a8-45d4-99bb-5bded5ebbe62",
+	"Outputs": [
+		{
+			"Address": "0xffb0b003325edf2a545bc864f35c272e9cec0a5c",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa05eb1736f13d678ec2d68cddfc1579e29b94af3",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ORYXUS-WETH",
+	"Chain": "ethereum"
+}

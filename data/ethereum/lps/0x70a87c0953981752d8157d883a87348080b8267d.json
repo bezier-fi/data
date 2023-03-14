@@ -1,0 +1,10 @@
+{
+	"Id": "0x70a87c0953981752d8157d883a87348080b8267d",
+	"Symbol": "SHIDAO-WETH",
+	"UnderlyingTokens": [
+		"0xba9952b8713f2820147140e4cc7db15ccb440f16",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d2d03791-65a8-45d4-99bb-5bded5ebbe62",
+	"Chain": "ethereum"
+}

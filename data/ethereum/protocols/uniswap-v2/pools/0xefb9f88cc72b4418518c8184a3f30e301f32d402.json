@@ -1,0 +1,27 @@
+{
+	"Id": "0xefb9f88cc72b4418518c8184a3f30e301f32d402",
+	"Protocol": "d2d03791-65a8-45d4-99bb-5bded5ebbe62",
+	"Outputs": [
+		{
+			"Address": "0xefb9f88cc72b4418518c8184a3f30e301f32d402",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x76eb4b06018a22b4099bb931ea3812a342ebae2e",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CRM-WETH",
+	"Chain": "ethereum"
+}

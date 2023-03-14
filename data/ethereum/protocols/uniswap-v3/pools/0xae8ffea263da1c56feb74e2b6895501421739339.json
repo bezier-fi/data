@@ -1,0 +1,27 @@
+{
+	"Id": "0xae8ffea263da1c56feb74e2b6895501421739339",
+	"Protocol": "3faee913-e1f5-4dfe-88e1-c307198b152f",
+	"Outputs": [
+		{
+			"Address": "0xae8ffea263da1c56feb74e2b6895501421739339",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x29ead32e30d351768f59e2569c0c399dda6e850d",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ZVT-WETH (0.30%)",
+	"Chain": "ethereum"
+}

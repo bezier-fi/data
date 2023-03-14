@@ -1,0 +1,27 @@
+{
+	"Id": "0xf0ad9b5f6b8ccd60806372aa65f02cf7f02c69cf",
+	"Protocol": "d2d03791-65a8-45d4-99bb-5bded5ebbe62",
+	"Outputs": [
+		{
+			"Address": "0xf0ad9b5f6b8ccd60806372aa65f02cf7f02c69cf",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa693032e8cfdb8115c6e72b60ae77a1a592fe4bd",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "HIBIKI-WETH",
+	"Chain": "ethereum"
+}

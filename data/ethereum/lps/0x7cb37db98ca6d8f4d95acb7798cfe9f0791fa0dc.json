@@ -1,0 +1,10 @@
+{
+	"Id": "0x7cb37db98ca6d8f4d95acb7798cfe9f0791fa0dc",
+	"Symbol": "WETH-ZILLA",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd49752db69dbddfbf83710f1970b6207c3d1aed9"
+	],
+	"Protocol": "d2d03791-65a8-45d4-99bb-5bded5ebbe62",
+	"Chain": "ethereum"
+}

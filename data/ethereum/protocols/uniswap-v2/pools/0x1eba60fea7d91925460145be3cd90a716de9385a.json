@@ -1,0 +1,27 @@
+{
+	"Id": "0x1eba60fea7d91925460145be3cd90a716de9385a",
+	"Protocol": "d2d03791-65a8-45d4-99bb-5bded5ebbe62",
+	"Outputs": [
+		{
+			"Address": "0x1eba60fea7d91925460145be3cd90a716de9385a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xd113b0c0dda69a66ac78b6794eb09c81d04b25c1",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-Ripple",
+	"Chain": "ethereum"
+}

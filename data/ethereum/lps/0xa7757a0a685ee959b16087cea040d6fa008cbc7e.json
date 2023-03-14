@@ -1,0 +1,10 @@
+{
+	"Id": "0xa7757a0a685ee959b16087cea040d6fa008cbc7e",
+	"Symbol": "BANKBURN-WETH",
+	"UnderlyingTokens": [
+		"0x4a2d48c82826f5c8235cc78794765dd237028f78",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d2d03791-65a8-45d4-99bb-5bded5ebbe62",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0xb20a3eec2bbf2a6fb3e6e4b065b1938b04fdfe8c",
+	"Protocol": "d37680ed-7ea2-4b1b-ace7-5fdd0b754e1c",
+	"Outputs": [
+		{
+			"Address": "0xb20a3eec2bbf2a6fb3e6e4b065b1938b04fdfe8c",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x693f34256261c371c29575ac091f9c9ce2e578e1",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "KYC-WETH",
+	"Chain": "ethereum"
+}

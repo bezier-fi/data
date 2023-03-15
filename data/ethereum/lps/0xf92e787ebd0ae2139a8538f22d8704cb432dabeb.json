@@ -1,0 +1,10 @@
+{
+	"Id": "0xf92e787ebd0ae2139a8538f22d8704cb432dabeb",
+	"Symbol": "SOVIETS-WETH",
+	"UnderlyingTokens": [
+		"0xa91866d2def77859799a4c8ef9d6eb8affa36af5",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d37680ed-7ea2-4b1b-ace7-5fdd0b754e1c",
+	"Chain": "ethereum"
+}

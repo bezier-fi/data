@@ -1,0 +1,10 @@
+{
+	"Id": "0xb6b2b09ced473a11c8be983ce7838fd4d83a21e6",
+	"Symbol": "PACK-WETH",
+	"UnderlyingTokens": [
+		"0xb186035490c8602ead853ec98be05e3461521ab2",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d37680ed-7ea2-4b1b-ace7-5fdd0b754e1c",
+	"Chain": "ethereum"
+}

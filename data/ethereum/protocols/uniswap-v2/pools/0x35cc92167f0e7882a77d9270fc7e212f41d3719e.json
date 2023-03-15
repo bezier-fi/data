@@ -1,0 +1,27 @@
+{
+	"Id": "0x35cc92167f0e7882a77d9270fc7e212f41d3719e",
+	"Protocol": "d37680ed-7ea2-4b1b-ace7-5fdd0b754e1c",
+	"Outputs": [
+		{
+			"Address": "0x35cc92167f0e7882a77d9270fc7e212f41d3719e",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xbd65761bb95d7b20ad74cbf751c0db045b21134e",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FLOKA-WETH",
+	"Chain": "ethereum"
+}

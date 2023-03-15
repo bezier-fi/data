@@ -1,0 +1,27 @@
+{
+	"Id": "0xd366d8d80d3b8007220e50e91bf934d9f1958a45",
+	"Protocol": "d37680ed-7ea2-4b1b-ace7-5fdd0b754e1c",
+	"Outputs": [
+		{
+			"Address": "0xd366d8d80d3b8007220e50e91bf934d9f1958a45",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x92ddce1c882a93b751c3167874584eb9ee6199af",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Securix-WETH",
+	"Chain": "ethereum"
+}

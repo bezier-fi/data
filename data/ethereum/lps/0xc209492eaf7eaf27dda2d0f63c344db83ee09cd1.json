@@ -1,0 +1,10 @@
+{
+	"Id": "0xc209492eaf7eaf27dda2d0f63c344db83ee09cd1",
+	"Symbol": "WETH-VISION",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd15fa6113a407e4a173a08f960e7a01cf569e6b3"
+	],
+	"Protocol": "d37680ed-7ea2-4b1b-ace7-5fdd0b754e1c",
+	"Chain": "ethereum"
+}

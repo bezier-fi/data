@@ -1,0 +1,10 @@
+{
+	"Id": "0xb20a3eec2bbf2a6fb3e6e4b065b1938b04fdfe8c",
+	"Symbol": "KYC-WETH",
+	"UnderlyingTokens": [
+		"0x693f34256261c371c29575ac091f9c9ce2e578e1",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d37680ed-7ea2-4b1b-ace7-5fdd0b754e1c",
+	"Chain": "ethereum"
+}

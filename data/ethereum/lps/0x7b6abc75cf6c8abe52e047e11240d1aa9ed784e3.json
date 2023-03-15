@@ -1,0 +1,10 @@
+{
+	"Id": "0x7b6abc75cf6c8abe52e047e11240d1aa9ed784e3",
+	"Symbol": "WETH-DIA",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfde00bd1da57349b0df85f134b18124266f3bc5b"
+	],
+	"Protocol": "d37680ed-7ea2-4b1b-ace7-5fdd0b754e1c",
+	"Chain": "ethereum"
+}

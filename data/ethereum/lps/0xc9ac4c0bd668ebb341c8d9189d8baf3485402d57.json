@@ -1,0 +1,10 @@
+{
+	"Id": "0xc9ac4c0bd668ebb341c8d9189d8baf3485402d57",
+	"Symbol": "CAI-WETH",
+	"UnderlyingTokens": [
+		"0xb8d907ecd5663cd73ebdf22fbc0e93514161dd15",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d37680ed-7ea2-4b1b-ace7-5fdd0b754e1c",
+	"Chain": "ethereum"
+}

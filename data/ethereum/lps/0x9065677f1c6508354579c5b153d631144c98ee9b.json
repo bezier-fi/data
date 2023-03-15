@@ -1,0 +1,10 @@
+{
+	"Id": "0x9065677f1c6508354579c5b153d631144c98ee9b",
+	"Symbol": "WETH-MUTT",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf8a986a04f63703c1558f9308b49d95975e869f1"
+	],
+	"Protocol": "d37680ed-7ea2-4b1b-ace7-5fdd0b754e1c",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0xf164086a288568ec084d25975ff6754ce56153ab",
+	"Protocol": "d37680ed-7ea2-4b1b-ace7-5fdd0b754e1c",
+	"Outputs": [
+		{
+			"Address": "0xf164086a288568ec084d25975ff6754ce56153ab",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x88c51e7d45aaaa1f8bb7ba364a22f3bf1fc4b034",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "VAELIX-WETH",
+	"Chain": "ethereum"
+}

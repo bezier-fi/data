@@ -1,0 +1,10 @@
+{
+	"Id": "0xcf4f400cc4b6493a4f7827d6fbbcccc98074e894",
+	"Symbol": "PawPad-WETH",
+	"UnderlyingTokens": [
+		"0x5cd48e98bd39b3c3e1586687b3ea7f54d9e465a9",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d37680ed-7ea2-4b1b-ace7-5fdd0b754e1c",
+	"Chain": "ethereum"
+}

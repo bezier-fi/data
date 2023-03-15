@@ -1,0 +1,27 @@
+{
+	"Id": "0xf92e787ebd0ae2139a8538f22d8704cb432dabeb",
+	"Protocol": "d37680ed-7ea2-4b1b-ace7-5fdd0b754e1c",
+	"Outputs": [
+		{
+			"Address": "0xf92e787ebd0ae2139a8538f22d8704cb432dabeb",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa91866d2def77859799a4c8ef9d6eb8affa36af5",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SOVIETS-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xf23612848801a79df71a91fbbd4b0635de338d7d",
+	"Symbol": "MIC-WETH",
+	"UnderlyingTokens": [
+		"0x7eac69699ce38603551654cc342cd02e53807a90",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d37680ed-7ea2-4b1b-ace7-5fdd0b754e1c",
+	"Chain": "ethereum"
+}

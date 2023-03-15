@@ -1,0 +1,10 @@
+{
+	"Id": "0xb82de236bd839abc2fa9c60b4759a11d138ed4f2",
+	"Symbol": "WETH-GUARD",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd205db40d0598bda0da11e8976eb882d84b59bbf"
+	],
+	"Protocol": "d37680ed-7ea2-4b1b-ace7-5fdd0b754e1c",
+	"Chain": "ethereum"
+}

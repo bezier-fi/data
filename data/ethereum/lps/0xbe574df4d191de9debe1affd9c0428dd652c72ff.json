@@ -1,0 +1,10 @@
+{
+	"Id": "0xbe574df4d191de9debe1affd9c0428dd652c72ff",
+	"Symbol": "NUM83RS-WETH",
+	"UnderlyingTokens": [
+		"0x48b26c6d6400444f63eccc47638ea8abd6e699b7",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d37680ed-7ea2-4b1b-ace7-5fdd0b754e1c",
+	"Chain": "ethereum"
+}

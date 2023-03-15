@@ -1,0 +1,10 @@
+{
+	"Id": "0xe0ee4225b317033805fabf4efc3b81b3f9eca44d",
+	"Symbol": "BankGPT-WETH",
+	"UnderlyingTokens": [
+		"0x4089889e53362dca049916b2f9a60b96da75ba47",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d37680ed-7ea2-4b1b-ace7-5fdd0b754e1c",
+	"Chain": "ethereum"
+}

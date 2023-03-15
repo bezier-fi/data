@@ -1,0 +1,10 @@
+{
+	"Id": "0x35cc92167f0e7882a77d9270fc7e212f41d3719e",
+	"Symbol": "FLOKA-WETH",
+	"UnderlyingTokens": [
+		"0xbd65761bb95d7b20ad74cbf751c0db045b21134e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d37680ed-7ea2-4b1b-ace7-5fdd0b754e1c",
+	"Chain": "ethereum"
+}

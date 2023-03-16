@@ -1,0 +1,10 @@
+{
+	"Id": "0xdcb796b00265902c130f54d6d823decda551b62a",
+	"Symbol": "OSWAP-WETH",
+	"UnderlyingTokens": [
+		"0x22f4d8c2871697b67fb5b811bee620e70170365f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "53dda2f6-2b13-42f9-8a2c-a01cd065e839",
+	"Chain": "ethereum"
+}

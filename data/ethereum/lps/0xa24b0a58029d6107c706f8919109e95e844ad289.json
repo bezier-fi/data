@@ -1,0 +1,10 @@
+{
+	"Id": "0xa24b0a58029d6107c706f8919109e95e844ad289",
+	"Symbol": "TOY-WETH",
+	"UnderlyingTokens": [
+		"0x2019f4657d59cec9cc4f1bd0964b9f751a302588",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "53dda2f6-2b13-42f9-8a2c-a01cd065e839",
+	"Chain": "ethereum"
+}

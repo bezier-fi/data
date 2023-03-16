@@ -1,0 +1,10 @@
+{
+	"Id": "0x971e6ef578bfb170a79ddba4903c2a7788dfe0ba",
+	"Symbol": "CSC-WETH",
+	"UnderlyingTokens": [
+		"0x8fa65071db5ada5113935fa029a381ca03e26ef9",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "53dda2f6-2b13-42f9-8a2c-a01cd065e839",
+	"Chain": "ethereum"
+}

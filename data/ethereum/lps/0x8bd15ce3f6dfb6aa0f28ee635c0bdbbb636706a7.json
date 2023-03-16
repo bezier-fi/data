@@ -1,0 +1,10 @@
+{
+	"Id": "0x8bd15ce3f6dfb6aa0f28ee635c0bdbbb636706a7",
+	"Symbol": "HAIKU-WETH",
+	"UnderlyingTokens": [
+		"0x8243784fa82e0a5dbe6e08080a4e18dc2964ae5d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "53dda2f6-2b13-42f9-8a2c-a01cd065e839",
+	"Chain": "ethereum"
+}

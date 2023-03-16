@@ -1,0 +1,27 @@
+{
+	"Id": "0xb822a33ee9d77b7f707b2fbc93e9fb53e3fcca2c",
+	"Protocol": "7f4b743e-9b13-49df-95d9-379767644719",
+	"Outputs": [
+		{
+			"Address": "0xb822a33ee9d77b7f707b2fbc93e9fb53e3fcca2c",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x92d6c1e31e14520e676a687f0a93788b716beff5",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BUSD-DYDX (1.00%)",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x0981c86a7cd41bf276802f8fa72b917899495078",
+	"Symbol": "RPRO-WETH",
+	"UnderlyingTokens": [
+		"0x3f2fa2838c4afb871e8295bc92d4221669f18993",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "53dda2f6-2b13-42f9-8a2c-a01cd065e839",
+	"Chain": "ethereum"
+}

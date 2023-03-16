@@ -1,0 +1,23 @@
+{
+	"Id": "0xD6F5BEF9b63bf648EeA43b80B480BE653138D116",
+	"Protocol": "13e26b7b-67ea-487f-9ba1-53eca7be9bb7",
+	"Outputs": [
+		{
+			"Address": "0xD6F5BEF9b63bf648EeA43b80B480BE653138D116",
+			"Apr": 128.65794,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xF9835375f6b268743Ea0a54d742Aa156947f8C06",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CNC/ETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xbdc502534ec79b002d8177911bea56554ea86148",
+	"Symbol": "KENNELBURN-WETH",
+	"UnderlyingTokens": [
+		"0x55f055ad3154e515dad1ebfac6e242f31f0cb0fd",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "53dda2f6-2b13-42f9-8a2c-a01cd065e839",
+	"Chain": "ethereum"
+}

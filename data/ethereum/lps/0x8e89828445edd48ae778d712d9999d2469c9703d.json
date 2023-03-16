@@ -1,0 +1,10 @@
+{
+	"Id": "0x8e89828445edd48ae778d712d9999d2469c9703d",
+	"Symbol": "House-WETH",
+	"UnderlyingTokens": [
+		"0x1c11e85e9c49fc642f8a56e39efb95f559702836",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "53dda2f6-2b13-42f9-8a2c-a01cd065e839",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0xc065f7d8d250db61340ffe1006fc545bdb25fb1d",
+	"Protocol": "7f4b743e-9b13-49df-95d9-379767644719",
+	"Outputs": [
+		{
+			"Address": "0xc065f7d8d250db61340ffe1006fc545bdb25fb1d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc08512927d12348f6620a698105e1baac6ecd911",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GYEN-USDT (0.05%)",
+	"Chain": "ethereum"
+}

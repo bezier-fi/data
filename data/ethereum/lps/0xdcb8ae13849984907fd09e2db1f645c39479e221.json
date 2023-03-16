@@ -1,0 +1,10 @@
+{
+	"Id": "0xdcb8ae13849984907fd09e2db1f645c39479e221",
+	"Symbol": "WETH-XCB",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc5983a6f218cf34f082b701d81410846b256aa47"
+	],
+	"Protocol": "53dda2f6-2b13-42f9-8a2c-a01cd065e839",
+	"Chain": "ethereum"
+}

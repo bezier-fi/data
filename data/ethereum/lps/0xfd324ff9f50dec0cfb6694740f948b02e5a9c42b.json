@@ -1,0 +1,10 @@
+{
+	"Id": "0xfd324ff9f50dec0cfb6694740f948b02e5a9c42b",
+	"Symbol": "WETH-FNOW",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf718a0723753e82e9c242979924c7ce17f510e01"
+	],
+	"Protocol": "53dda2f6-2b13-42f9-8a2c-a01cd065e839",
+	"Chain": "ethereum"
+}

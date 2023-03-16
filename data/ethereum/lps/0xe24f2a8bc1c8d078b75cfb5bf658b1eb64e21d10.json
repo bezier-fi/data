@@ -1,0 +1,10 @@
+{
+	"Id": "0xe24f2a8bc1c8d078b75cfb5bf658b1eb64e21d10",
+	"Symbol": "WETH-OPTIMEX",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xca28b3c92f51019331065bef798d832f207fa8dd"
+	],
+	"Protocol": "53dda2f6-2b13-42f9-8a2c-a01cd065e839",
+	"Chain": "ethereum"
+}

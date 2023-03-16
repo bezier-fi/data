@@ -1,0 +1,10 @@
+{
+	"Id": "0x93c217d48cc3f0c2bdcadab3c6c5b17a2c7a108d",
+	"Symbol": "WATER-WETH",
+	"UnderlyingTokens": [
+		"0x207f49e4336223e05a54d1f339df32e8f40dba25",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "53dda2f6-2b13-42f9-8a2c-a01cd065e839",
+	"Chain": "ethereum"
+}

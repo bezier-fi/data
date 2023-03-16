@@ -1,0 +1,10 @@
+{
+	"Id": "0xff8353004dc9e135131178828405fa2f356178a2",
+	"Symbol": "TAI-WETH",
+	"UnderlyingTokens": [
+		"0xb096b35a8b883f1767ca60d86351df32666e02a9",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "53dda2f6-2b13-42f9-8a2c-a01cd065e839",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xe910f8d9601ae5b9eeef8cd86a0577428b3cb65a",
+	"Symbol": "yama-WETH",
+	"UnderlyingTokens": [
+		"0x47e047425d185967db99bf8a2c008e982601bd83",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "53dda2f6-2b13-42f9-8a2c-a01cd065e839",
+	"Chain": "ethereum"
+}

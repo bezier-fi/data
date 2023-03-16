@@ -1,0 +1,10 @@
+{
+	"Id": "0x22c3dbe9a8f0545f23ce95626f211c8f676dd741",
+	"Symbol": "PUFI-WETH",
+	"UnderlyingTokens": [
+		"0xb3169c4dd9b90f6ff3389542dd65f6aea4012faa",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "53dda2f6-2b13-42f9-8a2c-a01cd065e839",
+	"Chain": "ethereum"
+}

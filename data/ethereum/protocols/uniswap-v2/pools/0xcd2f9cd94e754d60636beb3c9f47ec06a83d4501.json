@@ -1,0 +1,27 @@
+{
+	"Id": "0xcd2f9cd94e754d60636beb3c9f47ec06a83d4501",
+	"Protocol": "53dda2f6-2b13-42f9-8a2c-a01cd065e839",
+	"Outputs": [
+		{
+			"Address": "0xcd2f9cd94e754d60636beb3c9f47ec06a83d4501",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9cffe30922ff01d1dc274be651629a11093aeb08",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SHIBRA-WETH",
+	"Chain": "ethereum"
+}

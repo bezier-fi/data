@@ -1,0 +1,23 @@
+{
+	"Id": "0xa6b53563a13de4C443FC4fd60d7127Ad54924cd3",
+	"Protocol": "13e26b7b-67ea-487f-9ba1-53eca7be9bb7",
+	"Outputs": [
+		{
+			"Address": "0xa6b53563a13de4C443FC4fd60d7127Ad54924cd3",
+			"Apr": 85.07508,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3f0e7916681452D23Cd36B1281457DA721F2E5dF",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CTR/ETH",
+	"Chain": "ethereum"
+}

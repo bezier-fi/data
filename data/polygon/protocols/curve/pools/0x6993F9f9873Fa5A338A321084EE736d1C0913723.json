@@ -1,0 +1,27 @@
+{
+	"Id": "0x6993F9f9873Fa5A338A321084EE736d1C0913723",
+	"Protocol": "37d66440-e53d-4d0b-a9e0-145afc6203f4",
+	"Outputs": [
+		{
+			"Address": "0x302F1Aa3127714e028Ce12dD4Afb915fADA026c8",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xd8D150EeA6293CDc3d27a959993C56B4821A45B0",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xdAD97F7713Ae9437fa9249920eC8507e5FbB23d3",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "XO3-f",
+	"Chain": "polygon"
+}

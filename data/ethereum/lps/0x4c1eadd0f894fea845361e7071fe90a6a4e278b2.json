@@ -1,0 +1,10 @@
+{
+	"Id": "0x4c1eadd0f894fea845361e7071fe90a6a4e278b2",
+	"Symbol": "PRIME-WETH (0.05%)",
+	"UnderlyingTokens": [
+		"0xb23d80f5fefcddaa212212f028021b41ded428cf",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2b3ab23c-64b3-4191-b762-c7dec9b116d5",
+	"Chain": "ethereum"
+}

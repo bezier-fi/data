@@ -1,0 +1,27 @@
+{
+	"Id": "0xc21831336e4940c5a6e640fb40f0e86735dca02c",
+	"Protocol": "32a93faf-b0c4-488a-8dea-e2a9dc0b4dc3",
+	"Outputs": [
+		{
+			"Address": "0xc21831336e4940c5a6e640fb40f0e86735dca02c",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4e15361fd6b4bb609fa63c81a2be19d873717870",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FTM-DAI (1.00%)",
+	"Chain": "ethereum"
+}

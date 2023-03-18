@@ -1,0 +1,27 @@
+{
+	"Id": "0x767bf5dac099cf748cb15f1c6d46f4a374a9c0e3",
+	"Protocol": "5acc2184-f876-4b4d-8650-2dfb03f8a16f",
+	"Outputs": [
+		{
+			"Address": "0x767bf5dac099cf748cb15f1c6d46f4a374a9c0e3",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc1c2db9c1a6486420b21ddb55187cf834bc50ef1",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-RINIAERUM",
+	"Chain": "ethereum"
+}

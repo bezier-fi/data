@@ -1,0 +1,10 @@
+{
+	"Id": "0xa83137ef4799e1502b22e8acb0cdd06e41168573",
+	"Symbol": "$MAZEP-WETH",
+	"UnderlyingTokens": [
+		"0x0a354ad0b93087d479be635bb8a77d4b3e476b24",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "5acc2184-f876-4b4d-8650-2dfb03f8a16f",
+	"Chain": "ethereum"
+}

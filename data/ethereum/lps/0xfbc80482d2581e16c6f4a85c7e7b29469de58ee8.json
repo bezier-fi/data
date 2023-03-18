@@ -1,0 +1,10 @@
+{
+	"Id": "0xfbc80482d2581e16c6f4a85c7e7b29469de58ee8",
+	"Symbol": "SICAI-WETH",
+	"UnderlyingTokens": [
+		"0x42816b1a1f5bd21d4c64bbb89ace59fac381d1b5",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "5acc2184-f876-4b4d-8650-2dfb03f8a16f",
+	"Chain": "ethereum"
+}

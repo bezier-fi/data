@@ -1,0 +1,27 @@
+{
+	"Id": "0x1aae2bedfedb0bb1c07f599445fbb740033035fa",
+	"Protocol": "32a93faf-b0c4-488a-8dea-e2a9dc0b4dc3",
+	"Outputs": [
+		{
+			"Address": "0x1aae2bedfedb0bb1c07f599445fbb740033035fa",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x111111517e4929d3dcbdfa7cce55d30d4b6bc4d6",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ICHI-WBTC (0.01%)",
+	"Chain": "polygon"
+}

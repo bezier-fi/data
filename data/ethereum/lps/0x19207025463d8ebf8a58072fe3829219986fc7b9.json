@@ -1,0 +1,10 @@
+{
+	"Id": "0x19207025463d8ebf8a58072fe3829219986fc7b9",
+	"Symbol": "MTDX-WETH",
+	"UnderlyingTokens": [
+		"0x610c9d30021fbed383f1eaa5a16b446be133a7a7",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "5acc2184-f876-4b4d-8650-2dfb03f8a16f",
+	"Chain": "ethereum"
+}

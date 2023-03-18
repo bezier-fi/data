@@ -1,0 +1,27 @@
+{
+	"Id": "0x6cf5c857f0aafb97a822573ae18963256bdf9d4b",
+	"Protocol": "5acc2184-f876-4b4d-8650-2dfb03f8a16f",
+	"Outputs": [
+		{
+			"Address": "0x6cf5c857f0aafb97a822573ae18963256bdf9d4b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x25652a4b6415a6ff5fbe9319b5ee4eaee1230cdf",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "NEYSHI-WETH",
+	"Chain": "ethereum"
+}

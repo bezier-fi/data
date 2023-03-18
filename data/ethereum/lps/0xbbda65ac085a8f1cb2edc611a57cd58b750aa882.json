@@ -1,0 +1,10 @@
+{
+	"Id": "0xbbda65ac085a8f1cb2edc611a57cd58b750aa882",
+	"Symbol": "WETH-oBank",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf31eb9c0a3766565e94b5d5f9b6de4e8fa623bf5"
+	],
+	"Protocol": "5acc2184-f876-4b4d-8650-2dfb03f8a16f",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xaaa74f42895b4774602aa1345d475b309500fd34",
+	"Symbol": "SHIBNV-WETH",
+	"UnderlyingTokens": [
+		"0x47991b4b44a48e30397ad5fd6bdfe2afa9008266",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "5acc2184-f876-4b4d-8650-2dfb03f8a16f",
+	"Chain": "ethereum"
+}

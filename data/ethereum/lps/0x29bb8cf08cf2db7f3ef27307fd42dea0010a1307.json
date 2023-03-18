@@ -1,0 +1,10 @@
+{
+	"Id": "0x29bb8cf08cf2db7f3ef27307fd42dea0010a1307",
+	"Symbol": "BROWS-WETH",
+	"UnderlyingTokens": [
+		"0x2d50251cf7e9369699d20b18d6895430392ac35a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "5acc2184-f876-4b4d-8650-2dfb03f8a16f",
+	"Chain": "ethereum"
+}

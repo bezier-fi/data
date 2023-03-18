@@ -1,0 +1,27 @@
+{
+	"Id": "0xbbda65ac085a8f1cb2edc611a57cd58b750aa882",
+	"Protocol": "5acc2184-f876-4b4d-8650-2dfb03f8a16f",
+	"Outputs": [
+		{
+			"Address": "0xbbda65ac085a8f1cb2edc611a57cd58b750aa882",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xf31eb9c0a3766565e94b5d5f9b6de4e8fa623bf5",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-oBank",
+	"Chain": "ethereum"
+}

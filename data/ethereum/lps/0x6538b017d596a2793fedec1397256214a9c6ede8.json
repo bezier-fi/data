@@ -1,0 +1,10 @@
+{
+	"Id": "0x6538b017d596a2793fedec1397256214a9c6ede8",
+	"Symbol": "TESS-WETH",
+	"UnderlyingTokens": [
+		"0x37386619942bff6b3f5e1756d4ae052b411d1094",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "5acc2184-f876-4b4d-8650-2dfb03f8a16f",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x49d97aa9e2395951e990070436e09e385cad7f91",
+	"Symbol": "WETH-MESS",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xea65976cac7bbd785b134ccee1479f97aab60566"
+	],
+	"Protocol": "5acc2184-f876-4b4d-8650-2dfb03f8a16f",
+	"Chain": "ethereum"
+}

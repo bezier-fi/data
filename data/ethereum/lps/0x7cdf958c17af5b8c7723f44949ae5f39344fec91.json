@@ -1,0 +1,10 @@
+{
+	"Id": "0x7cdf958c17af5b8c7723f44949ae5f39344fec91",
+	"Symbol": "WETH-KAZUMI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe0730e891f4959445e7ca1b2d7d0a250318e3028"
+	],
+	"Protocol": "5acc2184-f876-4b4d-8650-2dfb03f8a16f",
+	"Chain": "ethereum"
+}

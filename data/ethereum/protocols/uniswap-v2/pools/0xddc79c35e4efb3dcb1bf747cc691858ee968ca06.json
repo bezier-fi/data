@@ -1,0 +1,27 @@
+{
+	"Id": "0xddc79c35e4efb3dcb1bf747cc691858ee968ca06",
+	"Protocol": "5acc2184-f876-4b4d-8650-2dfb03f8a16f",
+	"Outputs": [
+		{
+			"Address": "0xddc79c35e4efb3dcb1bf747cc691858ee968ca06",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1d18259f2a88ebee3a87a8d3feb03b41b16255f3",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BONER-WETH",
+	"Chain": "ethereum"
+}

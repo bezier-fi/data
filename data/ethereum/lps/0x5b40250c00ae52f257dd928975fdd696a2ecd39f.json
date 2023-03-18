@@ -1,0 +1,10 @@
+{
+	"Id": "0x5b40250c00ae52f257dd928975fdd696a2ecd39f",
+	"Symbol": "DZOO-WETH",
+	"UnderlyingTokens": [
+		"0x10b8ed179877fb1663b089aaae3df34c5a5b78c1",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "5acc2184-f876-4b4d-8650-2dfb03f8a16f",
+	"Chain": "ethereum"
+}

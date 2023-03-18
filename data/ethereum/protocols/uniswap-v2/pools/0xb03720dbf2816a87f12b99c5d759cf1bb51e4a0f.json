@@ -1,0 +1,27 @@
+{
+	"Id": "0xb03720dbf2816a87f12b99c5d759cf1bb51e4a0f",
+	"Protocol": "5acc2184-f876-4b4d-8650-2dfb03f8a16f",
+	"Outputs": [
+		{
+			"Address": "0xb03720dbf2816a87f12b99c5d759cf1bb51e4a0f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5463c3e0c0427bee9fa5533f81ecefcf5bf763d1",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Neyma2.0-WETH",
+	"Chain": "ethereum"
+}

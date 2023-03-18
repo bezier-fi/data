@@ -1,0 +1,10 @@
+{
+	"Id": "0x02d3190258741b14565ef94d9f12013f8f86979f",
+	"Symbol": "WETH-HOODOO",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc41f3f4135133780cdde62b64fce280470b9623b"
+	],
+	"Protocol": "5acc2184-f876-4b4d-8650-2dfb03f8a16f",
+	"Chain": "ethereum"
+}

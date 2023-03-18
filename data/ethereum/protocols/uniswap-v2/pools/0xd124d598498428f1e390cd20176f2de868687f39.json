@@ -1,0 +1,27 @@
+{
+	"Id": "0xd124d598498428f1e390cd20176f2de868687f39",
+	"Protocol": "5acc2184-f876-4b4d-8650-2dfb03f8a16f",
+	"Outputs": [
+		{
+			"Address": "0xd124d598498428f1e390cd20176f2de868687f39",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xece0f8e5c9b85e7282052b7111bbee9d26c6563b",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-UTARO",
+	"Chain": "ethereum"
+}

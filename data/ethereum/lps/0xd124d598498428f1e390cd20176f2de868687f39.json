@@ -1,0 +1,10 @@
+{
+	"Id": "0xd124d598498428f1e390cd20176f2de868687f39",
+	"Symbol": "WETH-UTARO",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xece0f8e5c9b85e7282052b7111bbee9d26c6563b"
+	],
+	"Protocol": "5acc2184-f876-4b4d-8650-2dfb03f8a16f",
+	"Chain": "ethereum"
+}

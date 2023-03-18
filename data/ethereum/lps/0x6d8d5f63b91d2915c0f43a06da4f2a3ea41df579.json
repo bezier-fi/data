@@ -1,0 +1,10 @@
+{
+	"Id": "0x6d8d5f63b91d2915c0f43a06da4f2a3ea41df579",
+	"Symbol": "FLOKSHI-WETH",
+	"UnderlyingTokens": [
+		"0x895bfabbd55c191e35cdc5d3e9f8224f2e2ba7ee",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "5acc2184-f876-4b4d-8650-2dfb03f8a16f",
+	"Chain": "ethereum"
+}

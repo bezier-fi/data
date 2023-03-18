@@ -1,0 +1,27 @@
+{
+	"Id": "0xbc2c85b023534f2890f0279d62f964d135d473f1",
+	"Protocol": "5acc2184-f876-4b4d-8650-2dfb03f8a16f",
+	"Outputs": [
+		{
+			"Address": "0xbc2c85b023534f2890f0279d62f964d135d473f1",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xad5945b0ce954e394ef20e24a848ce7ffd4301fc",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BSHIN-WETH",
+	"Chain": "ethereum"
+}

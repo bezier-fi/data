@@ -1,0 +1,27 @@
+{
+	"Id": "0x99ff7a5b37f71ddfe88630271e6ab4de25e93aa4",
+	"Protocol": "5acc2184-f876-4b4d-8650-2dfb03f8a16f",
+	"Outputs": [
+		{
+			"Address": "0x99ff7a5b37f71ddfe88630271e6ab4de25e93aa4",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x51a05124218910eee30f2f84e261df7d230496ed",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "YUELIANG-WETH",
+	"Chain": "ethereum"
+}

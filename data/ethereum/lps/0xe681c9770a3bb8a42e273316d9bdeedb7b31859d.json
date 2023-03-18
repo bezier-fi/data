@@ -1,0 +1,10 @@
+{
+	"Id": "0xe681c9770a3bb8a42e273316d9bdeedb7b31859d",
+	"Symbol": "LL-WETH",
+	"UnderlyingTokens": [
+		"0x92b3edf698cbdb5616c9815154ce3dd3eea76257",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "5acc2184-f876-4b4d-8650-2dfb03f8a16f",
+	"Chain": "ethereum"
+}

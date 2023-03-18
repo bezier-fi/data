@@ -1,0 +1,10 @@
+{
+	"Id": "0xb03720dbf2816a87f12b99c5d759cf1bb51e4a0f",
+	"Symbol": "Neyma2.0-WETH",
+	"UnderlyingTokens": [
+		"0x5463c3e0c0427bee9fa5533f81ecefcf5bf763d1",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "5acc2184-f876-4b4d-8650-2dfb03f8a16f",
+	"Chain": "ethereum"
+}

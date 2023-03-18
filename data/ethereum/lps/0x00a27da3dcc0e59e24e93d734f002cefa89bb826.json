@@ -1,0 +1,10 @@
+{
+	"Id": "0x00a27da3dcc0e59e24e93d734f002cefa89bb826",
+	"Symbol": "ShamanInu-WETH",
+	"UnderlyingTokens": [
+		"0x192c1b7850c440c8081cb16ee76e9ddf4abb6368",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "5acc2184-f876-4b4d-8650-2dfb03f8a16f",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xf3033c15162e9565ba39098d42cefd95b1dbd601",
+	"Symbol": "FIRE-WETH",
+	"UnderlyingTokens": [
+		"0x8ea12d23f469543a61c4f6f7ffdfdbaa7635609d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "5acc2184-f876-4b4d-8650-2dfb03f8a16f",
+	"Chain": "ethereum"
+}

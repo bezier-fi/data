@@ -1,0 +1,27 @@
+{
+	"Id": "0xd9d27decffa31c061bf3ae0a92689ed02f973d5e",
+	"Protocol": "32a93faf-b0c4-488a-8dea-e2a9dc0b4dc3",
+	"Outputs": [
+		{
+			"Address": "0xd9d27decffa31c061bf3ae0a92689ed02f973d5e",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8f828a0644f12fa352888e645a90333d30f6fd7d",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "RINIA-WETH (1.00%)",
+	"Chain": "ethereum"
+}

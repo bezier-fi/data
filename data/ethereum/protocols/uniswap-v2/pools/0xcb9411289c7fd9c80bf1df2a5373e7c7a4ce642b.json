@@ -1,0 +1,27 @@
+{
+	"Id": "0xcb9411289c7fd9c80bf1df2a5373e7c7a4ce642b",
+	"Protocol": "5acc2184-f876-4b4d-8650-2dfb03f8a16f",
+	"Outputs": [
+		{
+			"Address": "0xcb9411289c7fd9c80bf1df2a5373e7c7a4ce642b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x96f173a6fb21c83addf66b6d1a6a8cfa62eee63f",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GENY-WETH",
+	"Chain": "ethereum"
+}

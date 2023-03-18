@@ -1,0 +1,10 @@
+{
+	"Id": "0x1b425529c9d7472603e2dcf125fd195f71dfb412",
+	"Symbol": "RINIA-WETH",
+	"UnderlyingTokens": [
+		"0x8f828a0644f12fa352888e645a90333d30f6fd7d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "5acc2184-f876-4b4d-8650-2dfb03f8a16f",
+	"Chain": "ethereum"
+}

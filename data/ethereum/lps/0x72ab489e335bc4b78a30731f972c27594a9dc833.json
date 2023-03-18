@@ -1,0 +1,10 @@
+{
+	"Id": "0x72ab489e335bc4b78a30731f972c27594a9dc833",
+	"Symbol": "BONER-WETH",
+	"UnderlyingTokens": [
+		"0x8b72e33a0d4f670cbf7e3dd1c9e8e7e224a79084",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "5acc2184-f876-4b4d-8650-2dfb03f8a16f",
+	"Chain": "ethereum"
+}

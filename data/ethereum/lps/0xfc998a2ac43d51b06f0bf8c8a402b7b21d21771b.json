@@ -1,0 +1,10 @@
+{
+	"Id": "0xfc998a2ac43d51b06f0bf8c8a402b7b21d21771b",
+	"Symbol": "WETH-CMNT",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf9a3b64c1d1a756f47090378e11ff6c67927eb22"
+	],
+	"Protocol": "5acc2184-f876-4b4d-8650-2dfb03f8a16f",
+	"Chain": "ethereum"
+}

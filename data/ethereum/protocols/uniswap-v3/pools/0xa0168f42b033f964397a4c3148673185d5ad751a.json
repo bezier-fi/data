@@ -1,0 +1,27 @@
+{
+	"Id": "0xa0168f42b033f964397a4c3148673185d5ad751a",
+	"Protocol": "8d1ace94-3519-40a9-9af2-f57188d24cd4",
+	"Outputs": [
+		{
+			"Address": "0xa0168f42b033f964397a4c3148673185d5ad751a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xba5bd3d5644f570738eecd5ad9639e6f712dae87",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GDOG-WETH (1.00%)",
+	"Chain": "ethereum"
+}

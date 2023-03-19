@@ -1,0 +1,27 @@
+{
+	"Id": "0x450918694c49df24092dba12d0b58b7a44ebf07b",
+	"Protocol": "8d1ace94-3519-40a9-9af2-f57188d24cd4",
+	"Outputs": [
+		{
+			"Address": "0x450918694c49df24092dba12d0b58b7a44ebf07b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x61299774020da444af134c82fa83e3810b309991",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC-RNDR (1.00%)",
+	"Chain": "polygon"
+}

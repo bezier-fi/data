@@ -1,0 +1,23 @@
+{
+	"Id": "0x9d7b626cb1c07f63A46a8337111b65D6Cb4B8a58",
+	"Protocol": "d27a0d48-4ef0-456d-b362-1a508a2a312c",
+	"Outputs": [
+		{
+			"Address": "0x9d7b626cb1c07f63A46a8337111b65D6Cb4B8a58",
+			"Apr": 62.56857,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x362DdD14F69924ebBF9066dDD2AE7C171cF6d098",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ETH-USDT LP",
+	"Chain": "ethereum"
+}

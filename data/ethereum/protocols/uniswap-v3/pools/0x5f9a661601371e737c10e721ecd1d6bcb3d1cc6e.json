@@ -1,0 +1,27 @@
+{
+	"Id": "0x5f9a661601371e737c10e721ecd1d6bcb3d1cc6e",
+	"Protocol": "8d1ace94-3519-40a9-9af2-f57188d24cd4",
+	"Outputs": [
+		{
+			"Address": "0x5f9a661601371e737c10e721ecd1d6bcb3d1cc6e",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6fc73113fc1afab4c28d3dd4c537a1da6045d47d",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TRENDAI-WETH (1.00%)",
+	"Chain": "ethereum"
+}

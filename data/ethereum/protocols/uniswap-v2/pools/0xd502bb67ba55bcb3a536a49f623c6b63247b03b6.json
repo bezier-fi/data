@@ -1,0 +1,27 @@
+{
+	"Id": "0xd502bb67ba55bcb3a536a49f623c6b63247b03b6",
+	"Protocol": "a9c61a54-c7a5-45c0-81f4-9b6dab18dfc9",
+	"Outputs": [
+		{
+			"Address": "0xd502bb67ba55bcb3a536a49f623c6b63247b03b6",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x741dacb30789a6ea883a05911d37dae70ed26d8f",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ASTRONIC-WETH",
+	"Chain": "ethereum"
+}

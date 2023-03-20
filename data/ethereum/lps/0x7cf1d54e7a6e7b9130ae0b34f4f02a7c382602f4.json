@@ -1,0 +1,10 @@
+{
+	"Id": "0x7cf1d54e7a6e7b9130ae0b34f4f02a7c382602f4",
+	"Symbol": "AIMM-WETH",
+	"UnderlyingTokens": [
+		"0x7ca6952cb622ef268b93ca9362803681fc14b16b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "a9c61a54-c7a5-45c0-81f4-9b6dab18dfc9",
+	"Chain": "ethereum"
+}

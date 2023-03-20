@@ -1,0 +1,10 @@
+{
+	"Id": "0xe288e17740a8e489364b1dc27dd6705ac37af10e",
+	"Symbol": "RBI-WETH",
+	"UnderlyingTokens": [
+		"0x7df8c2f13ee71897604b3eca10b7b41a95cb6b5c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "a9c61a54-c7a5-45c0-81f4-9b6dab18dfc9",
+	"Chain": "ethereum"
+}

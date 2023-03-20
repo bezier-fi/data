@@ -1,0 +1,27 @@
+{
+	"Id": "0xfcea3e3dcaddceb64897eb30619f5e384d0a3de6",
+	"Protocol": "a9c61a54-c7a5-45c0-81f4-9b6dab18dfc9",
+	"Outputs": [
+		{
+			"Address": "0xfcea3e3dcaddceb64897eb30619f5e384d0a3de6",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xbb2c2555b784ee1d0068425286f84a04e31161cf",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "IHSOYR-WETH",
+	"Chain": "ethereum"
+}

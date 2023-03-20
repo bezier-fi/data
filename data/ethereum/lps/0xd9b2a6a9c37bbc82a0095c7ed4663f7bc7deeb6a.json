@@ -1,0 +1,10 @@
+{
+	"Id": "0xd9b2a6a9c37bbc82a0095c7ed4663f7bc7deeb6a",
+	"Symbol": "WETH-MRAI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xcec985087ed80231ac51af1e6bbdf9d8521449f5"
+	],
+	"Protocol": "a9c61a54-c7a5-45c0-81f4-9b6dab18dfc9",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xc6c8c0ef2e7bf1d9059dc6fd8625e1431eefe133",
+	"Symbol": "LAI-WETH",
+	"UnderlyingTokens": [
+		"0x097ea5508917aaa2011ae5b0bb236bda34a3a0a8",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "a9c61a54-c7a5-45c0-81f4-9b6dab18dfc9",
+	"Chain": "ethereum"
+}

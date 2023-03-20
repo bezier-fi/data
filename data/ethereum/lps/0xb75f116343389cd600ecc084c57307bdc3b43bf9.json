@@ -1,0 +1,10 @@
+{
+	"Id": "0xb75f116343389cd600ecc084c57307bdc3b43bf9",
+	"Symbol": "WETH-BDoge",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xcea90b8c8744cdfc45b10dfc7f7cc357b87d29ee"
+	],
+	"Protocol": "a9c61a54-c7a5-45c0-81f4-9b6dab18dfc9",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x3cbf3f879a059c1ba68dec9a45f047f346ec5f8b",
+	"Symbol": "AOS$-WETH",
+	"UnderlyingTokens": [
+		"0xbdd1e63ed9031030634089b73b32edaea5a0040e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "a9c61a54-c7a5-45c0-81f4-9b6dab18dfc9",
+	"Chain": "ethereum"
+}

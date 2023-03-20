@@ -1,0 +1,23 @@
+{
+	"Id": "farm-0x43805606ac42fe39394bb07c37b6c9974b494550",
+	"Protocol": "68071fb3-8f68-413a-adb8-2eec22deba59",
+	"Outputs": [
+		{
+			"Address": "0x43805606ac42fe39394bb07c37b6c9974b494550",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x43805606ac42fe39394bb07c37b6c9974b494550",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FEARTH-FEARTH_burn%50",
+	"Chain": "avalanche"
+}

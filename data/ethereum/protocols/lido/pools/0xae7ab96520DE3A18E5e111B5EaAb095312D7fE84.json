@@ -1,0 +1,23 @@
+{
+	"Id": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
+	"Protocol": "b6153f7a-83ba-47bb-aa36-b92e1f505db3",
+	"Outputs": [
+		{
+			"Address": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
+			"Apr": 4.2,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "stETH",
+	"Chain": "ethereum"
+}

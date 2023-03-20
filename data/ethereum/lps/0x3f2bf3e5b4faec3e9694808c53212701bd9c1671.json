@@ -1,0 +1,10 @@
+{
+	"Id": "0x3f2bf3e5b4faec3e9694808c53212701bd9c1671",
+	"Symbol": "Arbinu-WETH",
+	"UnderlyingTokens": [
+		"0x39c41d9dcda2dfb84bf085e4cf20a1b7b313ebcb",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "a9c61a54-c7a5-45c0-81f4-9b6dab18dfc9",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x6178081202165c521c80b95d2c7ef54893c7232c",
+	"Protocol": "a9c61a54-c7a5-45c0-81f4-9b6dab18dfc9",
+	"Outputs": [
+		{
+			"Address": "0x6178081202165c521c80b95d2c7ef54893c7232c",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x819c1a1568934ee59d9f3c8b9640908556c44140",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "HOBBES-WETH",
+	"Chain": "ethereum"
+}

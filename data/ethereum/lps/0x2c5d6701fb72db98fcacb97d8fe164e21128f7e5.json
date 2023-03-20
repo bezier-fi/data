@@ -1,0 +1,10 @@
+{
+	"Id": "0x2c5d6701fb72db98fcacb97d8fe164e21128f7e5",
+	"Symbol": "ENGINEERING-WETH",
+	"UnderlyingTokens": [
+		"0x05a8bc40c485e499b67e2060683cf7f33220d2a8",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "a9c61a54-c7a5-45c0-81f4-9b6dab18dfc9",
+	"Chain": "ethereum"
+}

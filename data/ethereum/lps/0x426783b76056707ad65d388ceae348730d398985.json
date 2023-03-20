@@ -1,0 +1,10 @@
+{
+	"Id": "0x426783b76056707ad65d388ceae348730d398985",
+	"Symbol": "CHOMP-WETH",
+	"UnderlyingTokens": [
+		"0x0673799b15affbf1b91b5eb859cd4a46672905df",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "a9c61a54-c7a5-45c0-81f4-9b6dab18dfc9",
+	"Chain": "ethereum"
+}

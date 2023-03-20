@@ -1,0 +1,27 @@
+{
+	"Id": "0xebdeab2f1ee12503d9f9c9ffd030ade246806dc6",
+	"Protocol": "a9c61a54-c7a5-45c0-81f4-9b6dab18dfc9",
+	"Outputs": [
+		{
+			"Address": "0xebdeab2f1ee12503d9f9c9ffd030ade246806dc6",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1a2b825741ed851571f4b2fc352c2a295c2302cd",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "KONA-WETH",
+	"Chain": "ethereum"
+}

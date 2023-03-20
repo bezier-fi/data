@@ -1,0 +1,10 @@
+{
+	"Id": "0x6178081202165c521c80b95d2c7ef54893c7232c",
+	"Symbol": "HOBBES-WETH",
+	"UnderlyingTokens": [
+		"0x819c1a1568934ee59d9f3c8b9640908556c44140",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "a9c61a54-c7a5-45c0-81f4-9b6dab18dfc9",
+	"Chain": "ethereum"
+}

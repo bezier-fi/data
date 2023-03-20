@@ -1,0 +1,10 @@
+{
+	"Id": "0x93153c154bbdb4fba46be19414b7346dc874305d",
+	"Symbol": "SNIFFER-WETH",
+	"UnderlyingTokens": [
+		"0x19f3f564b203676f085ec66efedd5763cb4c18f7",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "a9c61a54-c7a5-45c0-81f4-9b6dab18dfc9",
+	"Chain": "ethereum"
+}

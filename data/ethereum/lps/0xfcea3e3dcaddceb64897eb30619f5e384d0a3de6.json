@@ -1,0 +1,10 @@
+{
+	"Id": "0xfcea3e3dcaddceb64897eb30619f5e384d0a3de6",
+	"Symbol": "IHSOYR-WETH",
+	"UnderlyingTokens": [
+		"0xbb2c2555b784ee1d0068425286f84a04e31161cf",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "a9c61a54-c7a5-45c0-81f4-9b6dab18dfc9",
+	"Chain": "ethereum"
+}

@@ -1,10 +1,10 @@
 {
 	"Id": "0x67E6E5D769194Fd4421b514380526CD7bDae92E6",
-	"Protocol": "91e75870-3f81-40ec-ac37-06ec69bf50dd",
+	"Protocol": "abeb499c-7753-4204-aad6-bc3b2f73c241",
 	"Outputs": [
 		{
 			"Address": "0x67E6E5D769194Fd4421b514380526CD7bDae92E6",
-			"Apr": 45.98017,
+			"Apr": 50.69012,
 			"GroupId": 0,
 			"Key": "",
 			"RequiredKeyInGroup": null
@@ -18,6 +18,6 @@
 	],
 	"MinimumInputs": 0,
 	"RequiredInputs": null,
-	"Symbol": "USDC-wUSDR",
+	"Symbol": "wUSDR-USDC",
 	"Chain": "polygon"
 }

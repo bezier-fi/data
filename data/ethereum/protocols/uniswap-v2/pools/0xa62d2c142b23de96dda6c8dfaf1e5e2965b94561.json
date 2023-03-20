@@ -1,0 +1,27 @@
+{
+	"Id": "0xa62d2c142b23de96dda6c8dfaf1e5e2965b94561",
+	"Protocol": "a9c61a54-c7a5-45c0-81f4-9b6dab18dfc9",
+	"Outputs": [
+		{
+			"Address": "0xa62d2c142b23de96dda6c8dfaf1e5e2965b94561",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x551127e183b638caf8cbeb403c320940228a8168",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SEEKE-WETH",
+	"Chain": "ethereum"
+}

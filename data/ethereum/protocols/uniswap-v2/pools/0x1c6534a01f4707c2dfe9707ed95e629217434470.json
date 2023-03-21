@@ -1,0 +1,27 @@
+{
+	"Id": "0x1c6534a01f4707c2dfe9707ed95e629217434470",
+	"Protocol": "cb5e5250-6ad6-4e07-ae57-5b0537941a85",
+	"Outputs": [
+		{
+			"Address": "0x1c6534a01f4707c2dfe9707ed95e629217434470",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x83edab5d1059c0236c4b734e89da9807fa4c8014",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "YORKIE-WETH",
+	"Chain": "ethereum"
+}

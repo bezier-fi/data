@@ -1,0 +1,10 @@
+{
+	"Id": "0x51b5cca9791b14d7e38ae4da20a53e867b8e8079",
+	"Symbol": "ONYXIA-WETH",
+	"UnderlyingTokens": [
+		"0xbd64d467fb4c17f439f554391fb2aef3885eca5c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cb5e5250-6ad6-4e07-ae57-5b0537941a85",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x9ab17c36ccfd2d1bc9a1ff6e7d095514ad02da72",
+	"Symbol": "WETH-BPAD ",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf31ebb5bf5bef9cc75bfba35d0059092c4317ad4"
+	],
+	"Protocol": "cb5e5250-6ad6-4e07-ae57-5b0537941a85",
+	"Chain": "ethereum"
+}

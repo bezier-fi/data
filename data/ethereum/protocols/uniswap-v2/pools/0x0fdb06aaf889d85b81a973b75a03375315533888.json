@@ -1,0 +1,27 @@
+{
+	"Id": "0x0fdb06aaf889d85b81a973b75a03375315533888",
+	"Protocol": "cb5e5250-6ad6-4e07-ae57-5b0537941a85",
+	"Outputs": [
+		{
+			"Address": "0x0fdb06aaf889d85b81a973b75a03375315533888",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8fc21ae0cea6aeea7feb55a8d1551b86b3f7a4d4",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Hoboki-WETH",
+	"Chain": "ethereum"
+}

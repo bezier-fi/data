@@ -1,0 +1,10 @@
+{
+	"Id": "0x88c337bfdf06fc5f68c2087cd514ff995aa1e7c7",
+	"Symbol": "WETH-SHIBCADE",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc64beb1a838cb7d159fb2c377df9881d0572f3c8"
+	],
+	"Protocol": "cb5e5250-6ad6-4e07-ae57-5b0537941a85",
+	"Chain": "ethereum"
+}

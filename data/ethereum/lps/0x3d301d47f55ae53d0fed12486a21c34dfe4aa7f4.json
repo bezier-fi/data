@@ -1,0 +1,10 @@
+{
+	"Id": "0x3d301d47f55ae53d0fed12486a21c34dfe4aa7f4",
+	"Symbol": "WETH-PUGINU",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xcddba8fb0fe09de7bdf1a410574da610f768757c"
+	],
+	"Protocol": "cb5e5250-6ad6-4e07-ae57-5b0537941a85",
+	"Chain": "ethereum"
+}

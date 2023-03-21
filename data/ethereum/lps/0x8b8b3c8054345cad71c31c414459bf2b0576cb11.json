@@ -1,0 +1,10 @@
+{
+	"Id": "0x8b8b3c8054345cad71c31c414459bf2b0576cb11",
+	"Symbol": "KONA-WETH",
+	"UnderlyingTokens": [
+		"0x792d8cf856c3c98c42cb8388aa07c292f9a2b31b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cb5e5250-6ad6-4e07-ae57-5b0537941a85",
+	"Chain": "ethereum"
+}

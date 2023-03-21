@@ -1,0 +1,10 @@
+{
+	"Id": "0xbac0765702c1140f924b901b2ca9cf8809258eb3",
+	"Symbol": "JAW-WETH",
+	"UnderlyingTokens": [
+		"0xb7c2adfd0f225271e7c0487b6f40d56acb490179",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cb5e5250-6ad6-4e07-ae57-5b0537941a85",
+	"Chain": "ethereum"
+}

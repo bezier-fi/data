@@ -1,0 +1,10 @@
+{
+	"Id": "0xc031d52e71ca29ad1bece44a014a2d9fd165c239",
+	"Symbol": "CLEND-WETH",
+	"UnderlyingTokens": [
+		"0xa0e8fed3426391fdb446516799c4d6248e2b2860",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cb5e5250-6ad6-4e07-ae57-5b0537941a85",
+	"Chain": "ethereum"
+}

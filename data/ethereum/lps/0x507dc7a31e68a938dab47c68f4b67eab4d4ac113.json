@@ -1,0 +1,10 @@
+{
+	"Id": "0x507dc7a31e68a938dab47c68f4b67eab4d4ac113",
+	"Symbol": "GPTAI-WETH",
+	"UnderlyingTokens": [
+		"0x429b502085357cecf793e16274f10984dbbe2419",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cb5e5250-6ad6-4e07-ae57-5b0537941a85",
+	"Chain": "ethereum"
+}

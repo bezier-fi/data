@@ -1,0 +1,27 @@
+{
+	"Id": "0x507dc7a31e68a938dab47c68f4b67eab4d4ac113",
+	"Protocol": "cb5e5250-6ad6-4e07-ae57-5b0537941a85",
+	"Outputs": [
+		{
+			"Address": "0x507dc7a31e68a938dab47c68f4b67eab4d4ac113",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x429b502085357cecf793e16274f10984dbbe2419",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GPTAI-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0xc1fedebac7f7e8033ee00e8c317ed2a1899d4f3a",
+	"Protocol": "cb5e5250-6ad6-4e07-ae57-5b0537941a85",
+	"Outputs": [
+		{
+			"Address": "0xc1fedebac7f7e8033ee00e8c317ed2a1899d4f3a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xae5dcbaa3ae724e401a9e4606bc2dfb1f882cf11",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC-Park",
+	"Chain": "ethereum"
+}

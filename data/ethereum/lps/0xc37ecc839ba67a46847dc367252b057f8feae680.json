@@ -1,0 +1,10 @@
+{
+	"Id": "0xc37ecc839ba67a46847dc367252b057f8feae680",
+	"Symbol": "WETH-GATSBY",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe22910d04bdc9d55570f3bc52e786b49dddf37b4"
+	],
+	"Protocol": "cb5e5250-6ad6-4e07-ae57-5b0537941a85",
+	"Chain": "ethereum"
+}

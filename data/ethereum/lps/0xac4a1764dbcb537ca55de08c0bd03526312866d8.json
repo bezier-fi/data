@@ -1,0 +1,10 @@
+{
+	"Id": "0xac4a1764dbcb537ca55de08c0bd03526312866d8",
+	"Symbol": "SHINU-WETH",
+	"UnderlyingTokens": [
+		"0x0d229c3ff2d76e4b88ca4f9d3d3353f4545ec53f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cb5e5250-6ad6-4e07-ae57-5b0537941a85",
+	"Chain": "ethereum"
+}

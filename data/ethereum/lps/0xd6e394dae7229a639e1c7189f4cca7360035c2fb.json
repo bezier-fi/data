@@ -1,0 +1,10 @@
+{
+	"Id": "0xd6e394dae7229a639e1c7189f4cca7360035c2fb",
+	"Symbol": "SHIBFUR-WETH",
+	"UnderlyingTokens": [
+		"0xadd2f58cd3f1dcdc297ca41858046a5c1c750505",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cb5e5250-6ad6-4e07-ae57-5b0537941a85",
+	"Chain": "ethereum"
+}

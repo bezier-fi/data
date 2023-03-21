@@ -1,0 +1,10 @@
+{
+	"Id": "0xc899befa2ac86115db6f4a0a07a227827b4d7250",
+	"Symbol": "BankRekt-WETH",
+	"UnderlyingTokens": [
+		"0xa9c04a94760efa2070b5d5a0cb78cc5187c6d634",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cb5e5250-6ad6-4e07-ae57-5b0537941a85",
+	"Chain": "ethereum"
+}

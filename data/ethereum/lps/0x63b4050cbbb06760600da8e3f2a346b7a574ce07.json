@@ -1,0 +1,10 @@
+{
+	"Id": "0x63b4050cbbb06760600da8e3f2a346b7a574ce07",
+	"Symbol": "MEDO-WETH",
+	"UnderlyingTokens": [
+		"0x74c115882114d29240e508bcba5d9711519550de",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cb5e5250-6ad6-4e07-ae57-5b0537941a85",
+	"Chain": "ethereum"
+}

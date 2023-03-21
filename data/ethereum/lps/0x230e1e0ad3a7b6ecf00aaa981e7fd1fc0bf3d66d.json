@@ -1,0 +1,10 @@
+{
+	"Id": "0x230e1e0ad3a7b6ecf00aaa981e7fd1fc0bf3d66d",
+	"Symbol": "CHEF-WETH",
+	"UnderlyingTokens": [
+		"0x69078e819a4780c9ae23b8f63d2fe137a8c10791",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cb5e5250-6ad6-4e07-ae57-5b0537941a85",
+	"Chain": "ethereum"
+}

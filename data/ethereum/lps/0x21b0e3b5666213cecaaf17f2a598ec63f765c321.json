@@ -1,0 +1,10 @@
+{
+	"Id": "0x21b0e3b5666213cecaaf17f2a598ec63f765c321",
+	"Symbol": "PuppiTools-WETH",
+	"UnderlyingTokens": [
+		"0xa1db00e81d4285618bf0ba4117358fda057f9269",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cb5e5250-6ad6-4e07-ae57-5b0537941a85",
+	"Chain": "ethereum"
+}

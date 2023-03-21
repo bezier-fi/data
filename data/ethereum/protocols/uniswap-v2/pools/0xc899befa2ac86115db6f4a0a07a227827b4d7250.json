@@ -1,0 +1,27 @@
+{
+	"Id": "0xc899befa2ac86115db6f4a0a07a227827b4d7250",
+	"Protocol": "cb5e5250-6ad6-4e07-ae57-5b0537941a85",
+	"Outputs": [
+		{
+			"Address": "0xc899befa2ac86115db6f4a0a07a227827b4d7250",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa9c04a94760efa2070b5d5a0cb78cc5187c6d634",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BankRekt-WETH",
+	"Chain": "ethereum"
+}

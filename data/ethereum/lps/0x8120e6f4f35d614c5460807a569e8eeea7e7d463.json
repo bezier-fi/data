@@ -1,0 +1,10 @@
+{
+	"Id": "0x8120e6f4f35d614c5460807a569e8eeea7e7d463",
+	"Symbol": "RWA-WETH",
+	"UnderlyingTokens": [
+		"0x9d6340068a47063437de43e1008cc98adf9dc344",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cb5e5250-6ad6-4e07-ae57-5b0537941a85",
+	"Chain": "ethereum"
+}

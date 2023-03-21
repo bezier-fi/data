@@ -1,0 +1,10 @@
+{
+	"Id": "0x5971ad64b7c11fe210c2d7ae8a8883b3e72ca11a",
+	"Symbol": "Equinox-WETH",
+	"UnderlyingTokens": [
+		"0x75297e4e541c38f7be993a0d02dcc8ffcb5656ac",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cb5e5250-6ad6-4e07-ae57-5b0537941a85",
+	"Chain": "ethereum"
+}

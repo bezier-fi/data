@@ -1,0 +1,27 @@
+{
+	"Id": "0x2bcc7ed3ad0c8f898bfa6fdaa4b2b363e2be5702",
+	"Protocol": "cb5e5250-6ad6-4e07-ae57-5b0537941a85",
+	"Outputs": [
+		{
+			"Address": "0x2bcc7ed3ad0c8f898bfa6fdaa4b2b363e2be5702",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2cef9779c546472743307b195a605290b355c006",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "HOBBESP-WETH",
+	"Chain": "ethereum"
+}

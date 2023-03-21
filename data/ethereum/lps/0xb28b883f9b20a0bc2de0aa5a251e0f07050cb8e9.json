@@ -1,0 +1,10 @@
+{
+	"Id": "0xb28b883f9b20a0bc2de0aa5a251e0f07050cb8e9",
+	"Symbol": "WETH-DeFiBard",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd7ddcee8ed5d7fe740dbcdd789c9b2410e844770"
+	],
+	"Protocol": "cb5e5250-6ad6-4e07-ae57-5b0537941a85",
+	"Chain": "ethereum"
+}

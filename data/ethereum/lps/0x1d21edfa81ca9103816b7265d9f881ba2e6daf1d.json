@@ -1,0 +1,10 @@
+{
+	"Id": "0x1d21edfa81ca9103816b7265d9f881ba2e6daf1d",
+	"Symbol": "HOBBIA-WETH",
+	"UnderlyingTokens": [
+		"0x5c7ae93561c4085c45e7689b933a0ee216a3d126",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cb5e5250-6ad6-4e07-ae57-5b0537941a85",
+	"Chain": "ethereum"
+}

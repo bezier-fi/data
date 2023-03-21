@@ -1,0 +1,10 @@
+{
+	"Id": "0x38fd5d966b877f4435ddacdaeeae14546261b87f",
+	"Symbol": "JETRINO-WETH",
+	"UnderlyingTokens": [
+		"0x125c35aacf985be087e34bcb3a6b6f0a1ef15eeb",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "cb5e5250-6ad6-4e07-ae57-5b0537941a85",
+	"Chain": "ethereum"
+}

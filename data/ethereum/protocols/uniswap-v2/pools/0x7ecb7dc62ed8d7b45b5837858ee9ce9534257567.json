@@ -1,0 +1,27 @@
+{
+	"Id": "0x7ecb7dc62ed8d7b45b5837858ee9ce9534257567",
+	"Protocol": "cb5e5250-6ad6-4e07-ae57-5b0537941a85",
+	"Outputs": [
+		{
+			"Address": "0x7ecb7dc62ed8d7b45b5837858ee9ce9534257567",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xe23f93f081c2207bc61c8d3594e9871c87cb6437",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-DBOX",
+	"Chain": "ethereum"
+}

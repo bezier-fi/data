@@ -1,0 +1,10 @@
+{
+	"Id": "0x7ecb7dc62ed8d7b45b5837858ee9ce9534257567",
+	"Symbol": "WETH-DBOX",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe23f93f081c2207bc61c8d3594e9871c87cb6437"
+	],
+	"Protocol": "cb5e5250-6ad6-4e07-ae57-5b0537941a85",
+	"Chain": "ethereum"
+}

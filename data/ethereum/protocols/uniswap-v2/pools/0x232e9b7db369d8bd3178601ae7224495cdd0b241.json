@@ -1,0 +1,27 @@
+{
+	"Id": "0x232e9b7db369d8bd3178601ae7224495cdd0b241",
+	"Protocol": "cb5e5250-6ad6-4e07-ae57-5b0537941a85",
+	"Outputs": [
+		{
+			"Address": "0x232e9b7db369d8bd3178601ae7224495cdd0b241",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xaeb83d3db3d9ed571f8d5dd8fb6c48257e6d99b1",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BRAND-AI-WETH",
+	"Chain": "ethereum"
+}

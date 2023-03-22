@@ -1,0 +1,10 @@
+{
+	"Id": "0x4c95e2da655af1896047932c8ec2546b86073206",
+	"Symbol": "WETH-BELDEX",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc4ccc488f3238144f41608d913d5c4d8b40d7af6"
+	],
+	"Protocol": "df0daf91-efdb-4ee3-8e2a-75e570c097c1",
+	"Chain": "ethereum"
+}

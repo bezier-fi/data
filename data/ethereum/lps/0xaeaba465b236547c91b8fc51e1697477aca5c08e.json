@@ -1,0 +1,10 @@
+{
+	"Id": "0xaeaba465b236547c91b8fc51e1697477aca5c08e",
+	"Symbol": "SPAW-WETH",
+	"UnderlyingTokens": [
+		"0x1468de156b1c899be3026689edda7dbf68dbb6d5",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "df0daf91-efdb-4ee3-8e2a-75e570c097c1",
+	"Chain": "ethereum"
+}

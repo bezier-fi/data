@@ -1,0 +1,10 @@
+{
+	"Id": "0xb519c4450745206f1a8cd0d7b74fefffcf93d4d6",
+	"Symbol": "Mortjour-WETH",
+	"UnderlyingTokens": [
+		"0x8988266b04cabe3383c20e5e73b3f761ef9a5d39",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "df0daf91-efdb-4ee3-8e2a-75e570c097c1",
+	"Chain": "ethereum"
+}

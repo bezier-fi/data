@@ -1,0 +1,27 @@
+{
+	"Id": "0xf9886b1c0eb347abce5c6e2063e6c5922aa47051",
+	"Protocol": "df0daf91-efdb-4ee3-8e2a-75e570c097c1",
+	"Outputs": [
+		{
+			"Address": "0xf9886b1c0eb347abce5c6e2063e6c5922aa47051",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2c0a27921e55532b72cbc3ada08e54f477958c38",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "mRINIA-WETH",
+	"Chain": "ethereum"
+}

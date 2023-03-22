@@ -1,0 +1,10 @@
+{
+	"Id": "0xd7898a2dc73bd41012b8efd8f677ec8004e4c747",
+	"Symbol": "ZKINU-WETH",
+	"UnderlyingTokens": [
+		"0x02c928d37d8447f2138990e8f549d980fc3cd4fb",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "df0daf91-efdb-4ee3-8e2a-75e570c097c1",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x2c4440c54d52d639ce676be3be0118c714f3099b",
+	"Symbol": "MARLEY-WETH",
+	"UnderlyingTokens": [
+		"0xa90e7184aa1bf2788397b6c52eecadd04e755781",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "df0daf91-efdb-4ee3-8e2a-75e570c097c1",
+	"Chain": "ethereum"
+}

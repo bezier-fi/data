@@ -1,0 +1,27 @@
+{
+	"Id": "0x1601cd725279b0701c97c9437ac6377e49a01515",
+	"Protocol": "df0daf91-efdb-4ee3-8e2a-75e570c097c1",
+	"Outputs": [
+		{
+			"Address": "0x1601cd725279b0701c97c9437ac6377e49a01515",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2e3cf5243d77eeb8cb8edaa12cb4c4a6bcdeba35",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "$SBDNS-WETH",
+	"Chain": "ethereum"
+}

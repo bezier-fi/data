@@ -1,0 +1,10 @@
+{
+	"Id": "0x7b6bccd567a43ac839482dfd87ebfa93d98196b2",
+	"Symbol": "WETH-MOSAIC ",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe404988e79b1d3d26839b5b9265a120b0cfaa54f"
+	],
+	"Protocol": "df0daf91-efdb-4ee3-8e2a-75e570c097c1",
+	"Chain": "ethereum"
+}

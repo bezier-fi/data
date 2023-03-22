@@ -1,0 +1,10 @@
+{
+	"Id": "0x20f2341dcac57d29cfa75c09f48cf2634a2914a1",
+	"Symbol": "Yamashita-WETH",
+	"UnderlyingTokens": [
+		"0x51518b3a4ea86ca1c56a1f1057909e7e128e7f74",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "df0daf91-efdb-4ee3-8e2a-75e570c097c1",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x20f2341dcac57d29cfa75c09f48cf2634a2914a1",
+	"Protocol": "df0daf91-efdb-4ee3-8e2a-75e570c097c1",
+	"Outputs": [
+		{
+			"Address": "0x20f2341dcac57d29cfa75c09f48cf2634a2914a1",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x51518b3a4ea86ca1c56a1f1057909e7e128e7f74",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Yamashita-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xeb981d4fb56b60fbee050763cca5481751803ae5",
+	"Symbol": "WETH-RINU",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xeb0fa2a4893e544cef761127a2eaa7d7a80deee1"
+	],
+	"Protocol": "df0daf91-efdb-4ee3-8e2a-75e570c097c1",
+	"Chain": "ethereum"
+}

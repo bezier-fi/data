@@ -1,0 +1,10 @@
+{
+	"Id": "0x36181818a392cfd01b0837b6bcdaa6226235a193",
+	"Symbol": "FUGUE-WETH",
+	"UnderlyingTokens": [
+		"0x604d6827dd510cce6c598d49aae73a7192016719",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "df0daf91-efdb-4ee3-8e2a-75e570c097c1",
+	"Chain": "ethereum"
+}

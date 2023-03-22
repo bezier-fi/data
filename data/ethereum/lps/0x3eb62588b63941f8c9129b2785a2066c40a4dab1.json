@@ -1,0 +1,10 @@
+{
+	"Id": "0x3eb62588b63941f8c9129b2785a2066c40a4dab1",
+	"Symbol": "RVF-WETH",
+	"UnderlyingTokens": [
+		"0x25a962440e22d08edc9cbd928e6fafd4a77bae89",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "df0daf91-efdb-4ee3-8e2a-75e570c097c1",
+	"Chain": "ethereum"
+}

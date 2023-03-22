@@ -1,0 +1,23 @@
+{
+	"Id": "farm-0xa321b026a43f4be179ed9e837aa141d87af40f9a",
+	"Protocol": "cda40c68-0cd5-44ca-bf17-57368cae8e33",
+	"Outputs": [
+		{
+			"Address": "0xa321b026a43f4be179ed9e837aa141d87af40f9a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa321b026a43f4be179ed9e837aa141d87af40f9a",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "METAG-USDt",
+	"Chain": "avalanche"
+}

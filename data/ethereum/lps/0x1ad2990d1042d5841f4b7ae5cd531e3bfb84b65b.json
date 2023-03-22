@@ -1,0 +1,10 @@
+{
+	"Id": "0x1ad2990d1042d5841f4b7ae5cd531e3bfb84b65b",
+	"Symbol": "WETH-$TCC",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe97324a5d2621ce0049aeb769713a43affd9484c"
+	],
+	"Protocol": "df0daf91-efdb-4ee3-8e2a-75e570c097c1",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xf823ad018b0c30a6710a3640c4583f444e313233",
+	"Symbol": "VOLTCEO-WETH",
+	"UnderlyingTokens": [
+		"0x159edcc7d9072d703fe41fed7607f97aacf1ecff",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "df0daf91-efdb-4ee3-8e2a-75e570c097c1",
+	"Chain": "ethereum"
+}

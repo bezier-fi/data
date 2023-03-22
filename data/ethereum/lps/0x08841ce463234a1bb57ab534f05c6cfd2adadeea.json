@@ -1,0 +1,10 @@
+{
+	"Id": "0x08841ce463234a1bb57ab534f05c6cfd2adadeea",
+	"Symbol": "SHIPT-WETH",
+	"UnderlyingTokens": [
+		"0x7139ea0e8720a31193fc4b9e352a7bd12a92fba7",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "df0daf91-efdb-4ee3-8e2a-75e570c097c1",
+	"Chain": "ethereum"
+}

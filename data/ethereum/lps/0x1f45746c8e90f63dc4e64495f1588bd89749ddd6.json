@@ -1,0 +1,10 @@
+{
+	"Id": "0x1f45746c8e90f63dc4e64495f1588bd89749ddd6",
+	"Symbol": "SHAREX-WETH",
+	"UnderlyingTokens": [
+		"0x5315db2f87359c569b1139b72322d65c24ee9b04",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "df0daf91-efdb-4ee3-8e2a-75e570c097c1",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x7fbb7d5f6dada4e539a504dce679213ed3b34dae",
+	"Symbol": "SVERSE-WETH",
+	"UnderlyingTokens": [
+		"0x3869a9cb5b7169ddcb1838f63de3f1a255a61bdb",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "df0daf91-efdb-4ee3-8e2a-75e570c097c1",
+	"Chain": "ethereum"
+}

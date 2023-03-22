@@ -1,0 +1,10 @@
+{
+	"Id": "0xb65ce1a8969bc4f871a3a20de5a81bc690870b6f",
+	"Symbol": "ADRENALINE_EXCLUSIVE-WETH",
+	"UnderlyingTokens": [
+		"0x0544ada225de796baa4030877314a96faacea7fc",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "df0daf91-efdb-4ee3-8e2a-75e570c097c1",
+	"Chain": "ethereum"
+}

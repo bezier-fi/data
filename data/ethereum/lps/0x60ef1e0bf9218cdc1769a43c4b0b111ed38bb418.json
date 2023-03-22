@@ -1,0 +1,10 @@
+{
+	"Id": "0x60ef1e0bf9218cdc1769a43c4b0b111ed38bb418",
+	"Symbol": "FEG-WETH",
+	"UnderlyingTokens": [
+		"0xbededdf2ef49e87037c4fb2ca34d1ff3d3992a11",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "df0daf91-efdb-4ee3-8e2a-75e570c097c1",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xc39714070fa2af7d4c5cb210c4bebcf0cda261d8",
+	"Symbol": "PWRC-WETH",
+	"UnderlyingTokens": [
+		"0x6aa40d02115090d40dc33c7c5f3cf05112fa4f83",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "411c5e8c-068f-49ab-a71e-a15c99a51462",
+	"Chain": "ethereum"
+}

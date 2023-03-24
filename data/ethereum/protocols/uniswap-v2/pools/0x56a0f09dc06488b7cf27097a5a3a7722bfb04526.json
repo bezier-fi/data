@@ -1,0 +1,27 @@
+{
+	"Id": "0x56a0f09dc06488b7cf27097a5a3a7722bfb04526",
+	"Protocol": "411c5e8c-068f-49ab-a71e-a15c99a51462",
+	"Outputs": [
+		{
+			"Address": "0x56a0f09dc06488b7cf27097a5a3a7722bfb04526",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1f4f05fd1ceec551d528e0dd62770f983bb460a6",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "AMBL-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x63f0b41c0ef4fdf3a4d749ec2e48bf86b8bace7e",
+	"Symbol": "LOCKEDUP-WETH",
+	"UnderlyingTokens": [
+		"0x26f1513ef109778726579fb30f819967ab17f82a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "411c5e8c-068f-49ab-a71e-a15c99a51462",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xcf517d40830cb45ddc0258bf01b33caf34ad72e8",
+	"Symbol": "SHARB-WETH",
+	"UnderlyingTokens": [
+		"0xa47c881c892ed0c010783150598bfecd363826b3",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "411c5e8c-068f-49ab-a71e-a15c99a51462",
+	"Chain": "ethereum"
+}

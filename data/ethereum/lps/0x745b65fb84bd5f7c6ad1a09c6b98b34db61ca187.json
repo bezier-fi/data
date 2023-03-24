@@ -1,0 +1,10 @@
+{
+	"Id": "0x745b65fb84bd5f7c6ad1a09c6b98b34db61ca187",
+	"Symbol": "BNLG-WETH",
+	"UnderlyingTokens": [
+		"0x4aa96eae42946966500d2ac956e53b424dd2eec5",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "411c5e8c-068f-49ab-a71e-a15c99a51462",
+	"Chain": "ethereum"
+}

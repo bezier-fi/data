@@ -1,0 +1,10 @@
+{
+	"Id": "0x76130a8db80d290222879a9054f519e70078cdb6",
+	"Symbol": "WETH-CNEX",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd3d5846e511f425609b99cec3a2e68780d501ec9"
+	],
+	"Protocol": "411c5e8c-068f-49ab-a71e-a15c99a51462",
+	"Chain": "ethereum"
+}

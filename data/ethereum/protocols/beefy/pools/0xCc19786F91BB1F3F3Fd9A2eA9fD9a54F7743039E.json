@@ -1,0 +1,23 @@
+{
+	"Id": "0xCc19786F91BB1F3F3Fd9A2eA9fD9a54F7743039E",
+	"Protocol": "83ed56e4-f6fb-4a6a-a495-e20c7fa28b8a",
+	"Outputs": [
+		{
+			"Address": "0xCc19786F91BB1F3F3Fd9A2eA9fD9a54F7743039E",
+			"Apr": 23.491365,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xFEEf77d3f69374f66429C91d732A244f074bdf74",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "cvxFXS",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x9860577089312b15bd0ed14c521cc21c416ad34c",
+	"Symbol": "WETH-PACHA",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xea63a4d9dc33969d655149353d630c4754a4282b"
+	],
+	"Protocol": "411c5e8c-068f-49ab-a71e-a15c99a51462",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x1959632f97a243434f2c4b35ea98f6fc37c04d51",
+	"Symbol": "SHIBTIMUS-WETH",
+	"UnderlyingTokens": [
+		"0x0e3a108b0f0cd24c72c27474ffbd90aa8791d85d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "411c5e8c-068f-49ab-a71e-a15c99a51462",
+	"Chain": "ethereum"
+}

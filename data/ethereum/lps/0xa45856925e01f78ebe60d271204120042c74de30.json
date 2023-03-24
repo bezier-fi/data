@@ -1,0 +1,10 @@
+{
+	"Id": "0xa45856925e01f78ebe60d271204120042c74de30",
+	"Symbol": "XEARN-WETH",
+	"UnderlyingTokens": [
+		"0x863c2f712fe17d3682f70c0e6ebf3ba7bac19f5a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "411c5e8c-068f-49ab-a71e-a15c99a51462",
+	"Chain": "ethereum"
+}

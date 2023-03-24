@@ -1,0 +1,10 @@
+{
+	"Id": "0xa8c52a2c0dfca4f12f98967038e7835825e069dd",
+	"Symbol": "WETH-BOBCAT",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf00e55f3c1eb60eb30c1c765c4926a90da69cf7b"
+	],
+	"Protocol": "411c5e8c-068f-49ab-a71e-a15c99a51462",
+	"Chain": "ethereum"
+}

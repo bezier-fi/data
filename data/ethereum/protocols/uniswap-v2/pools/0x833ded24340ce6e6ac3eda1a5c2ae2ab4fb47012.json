@@ -1,0 +1,27 @@
+{
+	"Id": "0x833ded24340ce6e6ac3eda1a5c2ae2ab4fb47012",
+	"Protocol": "411c5e8c-068f-49ab-a71e-a15c99a51462",
+	"Outputs": [
+		{
+			"Address": "0x833ded24340ce6e6ac3eda1a5c2ae2ab4fb47012",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x152e7fa452925231f33b011bae5d634b8b922b4b",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "$BITRUM -WETH",
+	"Chain": "ethereum"
+}

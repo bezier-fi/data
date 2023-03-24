@@ -1,0 +1,10 @@
+{
+	"Id": "0xc276e84f1508031995dedb0ad73e40c4fde729d2",
+	"Symbol": "SHIMI-WETH",
+	"UnderlyingTokens": [
+		"0x616cfb4da15144d13aea8bc0175f4654438b8b8f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "411c5e8c-068f-49ab-a71e-a15c99a51462",
+	"Chain": "ethereum"
+}

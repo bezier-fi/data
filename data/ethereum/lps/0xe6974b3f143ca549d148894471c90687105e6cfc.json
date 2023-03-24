@@ -1,0 +1,10 @@
+{
+	"Id": "0xe6974b3f143ca549d148894471c90687105e6cfc",
+	"Symbol": "CLICKER-WETH",
+	"UnderlyingTokens": [
+		"0x539ff645464430bfc98177c88df29eac69cb88b0",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "411c5e8c-068f-49ab-a71e-a15c99a51462",
+	"Chain": "ethereum"
+}

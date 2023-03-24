@@ -1,0 +1,10 @@
+{
+	"Id": "0xf38e144f6856459c9e3cb9953c39e0ddf8f9b201",
+	"Symbol": "BONEI-WETH",
+	"UnderlyingTokens": [
+		"0x49985e40ca7b0920513b12bbe2093028cba29b6e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "411c5e8c-068f-49ab-a71e-a15c99a51462",
+	"Chain": "ethereum"
+}

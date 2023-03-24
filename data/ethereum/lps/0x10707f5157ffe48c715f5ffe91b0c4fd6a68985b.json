@@ -1,0 +1,10 @@
+{
+	"Id": "0x10707f5157ffe48c715f5ffe91b0c4fd6a68985b",
+	"Symbol": "POWERWALL-WETH",
+	"UnderlyingTokens": [
+		"0xaec02256f111fdada25b8f01e70b77c2723688a1",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "411c5e8c-068f-49ab-a71e-a15c99a51462",
+	"Chain": "ethereum"
+}

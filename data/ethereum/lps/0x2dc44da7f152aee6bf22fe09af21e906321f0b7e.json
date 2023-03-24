@@ -1,0 +1,10 @@
+{
+	"Id": "0x2dc44da7f152aee6bf22fe09af21e906321f0b7e",
+	"Symbol": "SCAT-WETH",
+	"UnderlyingTokens": [
+		"0x4726c912e3876ad00103ec5dbc33c7301c10182c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "411c5e8c-068f-49ab-a71e-a15c99a51462",
+	"Chain": "ethereum"
+}

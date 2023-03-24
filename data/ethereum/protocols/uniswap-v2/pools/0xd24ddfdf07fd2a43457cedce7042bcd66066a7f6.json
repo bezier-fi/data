@@ -1,0 +1,27 @@
+{
+	"Id": "0xd24ddfdf07fd2a43457cedce7042bcd66066a7f6",
+	"Protocol": "411c5e8c-068f-49ab-a71e-a15c99a51462",
+	"Outputs": [
+		{
+			"Address": "0xd24ddfdf07fd2a43457cedce7042bcd66066a7f6",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa096e66bda0984da5c6d76a485755843a3059e91",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ONION-WETH",
+	"Chain": "ethereum"
+}

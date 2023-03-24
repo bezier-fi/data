@@ -1,0 +1,27 @@
+{
+	"Id": "0xb2816cf0b5be430d94067727cabf49630394bdd0",
+	"Protocol": "411c5e8c-068f-49ab-a71e-a15c99a51462",
+	"Outputs": [
+		{
+			"Address": "0xb2816cf0b5be430d94067727cabf49630394bdd0",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7be04b987bbdb37c407d2ec822a63fe384f41bdf",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SHIBITRUM-WETH",
+	"Chain": "ethereum"
+}

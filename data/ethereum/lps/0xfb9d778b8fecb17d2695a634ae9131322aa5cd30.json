@@ -1,0 +1,10 @@
+{
+	"Id": "0xfb9d778b8fecb17d2695a634ae9131322aa5cd30",
+	"Symbol": "TAIKO-WETH",
+	"UnderlyingTokens": [
+		"0x2d960edeae42350785aab55310c092b7886e20a7",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "411c5e8c-068f-49ab-a71e-a15c99a51462",
+	"Chain": "ethereum"
+}

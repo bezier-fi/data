@@ -1,0 +1,10 @@
+{
+	"Id": "0x492e5e4299caaddcc000ddf4bf58fdc459d7846e",
+	"Symbol": "ALEXAI-WETH",
+	"UnderlyingTokens": [
+		"0x953ea3d7ae6069e75c6aa99c73f360aea7fe598f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "411c5e8c-068f-49ab-a71e-a15c99a51462",
+	"Chain": "ethereum"
+}

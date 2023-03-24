@@ -1,0 +1,27 @@
+{
+	"Id": "0x5c188f9587f87e11f10fa675a3834c7d22fedad5",
+	"Protocol": "23f91939-436c-45cc-9c83-4215cd85d71f",
+	"Outputs": [
+		{
+			"Address": "0x5c188f9587f87e11f10fa675a3834c7d22fedad5",
+			"Apr": 307.29822,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa49d7499271ae71cd8ab9ac515e6694c755d400c",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MUTE-USDT (1.00%)",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xa3c634603a3589d0a2bf2cb80dfce8f19d4b21ca",
+	"Symbol": "RUGX-WETH",
+	"UnderlyingTokens": [
+		"0x18020f44f1e86ca250b8193a70ceaa07e16643b6",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "411c5e8c-068f-49ab-a71e-a15c99a51462",
+	"Chain": "ethereum"
+}

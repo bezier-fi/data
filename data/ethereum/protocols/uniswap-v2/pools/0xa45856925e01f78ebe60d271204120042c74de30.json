@@ -1,0 +1,27 @@
+{
+	"Id": "0xa45856925e01f78ebe60d271204120042c74de30",
+	"Protocol": "411c5e8c-068f-49ab-a71e-a15c99a51462",
+	"Outputs": [
+		{
+			"Address": "0xa45856925e01f78ebe60d271204120042c74de30",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x863c2f712fe17d3682f70c0e6ebf3ba7bac19f5a",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "XEARN-WETH",
+	"Chain": "ethereum"
+}

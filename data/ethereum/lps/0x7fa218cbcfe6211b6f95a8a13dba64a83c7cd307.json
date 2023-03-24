@@ -1,0 +1,10 @@
+{
+	"Id": "0x7fa218cbcfe6211b6f95a8a13dba64a83c7cd307",
+	"Symbol": "KAI-WETH",
+	"UnderlyingTokens": [
+		"0x5a1d314177cc5df2d87ecad3646235e6693c6110",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "411c5e8c-068f-49ab-a71e-a15c99a51462",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x84ee4142913936c6a630ee10ae8da22ac44f9e57",
+	"Symbol": "WETH-ARISE",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xca6c6a63f19b330dd8e0c07cb2b20de4bc523e53"
+	],
+	"Protocol": "411c5e8c-068f-49ab-a71e-a15c99a51462",
+	"Chain": "ethereum"
+}

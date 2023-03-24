@@ -1,0 +1,27 @@
+{
+	"Id": "0xf38e144f6856459c9e3cb9953c39e0ddf8f9b201",
+	"Protocol": "411c5e8c-068f-49ab-a71e-a15c99a51462",
+	"Outputs": [
+		{
+			"Address": "0xf38e144f6856459c9e3cb9953c39e0ddf8f9b201",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x49985e40ca7b0920513b12bbe2093028cba29b6e",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BONEI-WETH",
+	"Chain": "ethereum"
+}

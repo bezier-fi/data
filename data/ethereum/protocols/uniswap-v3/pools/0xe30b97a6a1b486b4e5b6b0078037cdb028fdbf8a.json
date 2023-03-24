@@ -1,0 +1,27 @@
+{
+	"Id": "0xe30b97a6a1b486b4e5b6b0078037cdb028fdbf8a",
+	"Protocol": "23f91939-436c-45cc-9c83-4215cd85d71f",
+	"Outputs": [
+		{
+			"Address": "0xe30b97a6a1b486b4e5b6b0078037cdb028fdbf8a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5f98805a4e8be255a32880fdec7f6728c6568ba0",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xf77da5c50725379dd33c93f8a4e12c693bc06c6a",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "LUSD-TRUST (1.00%)",
+	"Chain": "ethereum"
+}

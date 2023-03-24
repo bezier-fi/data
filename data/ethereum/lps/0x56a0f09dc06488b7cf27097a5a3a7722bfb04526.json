@@ -1,0 +1,10 @@
+{
+	"Id": "0x56a0f09dc06488b7cf27097a5a3a7722bfb04526",
+	"Symbol": "AMBL-WETH",
+	"UnderlyingTokens": [
+		"0x1f4f05fd1ceec551d528e0dd62770f983bb460a6",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "411c5e8c-068f-49ab-a71e-a15c99a51462",
+	"Chain": "ethereum"
+}

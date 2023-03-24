@@ -1,0 +1,10 @@
+{
+	"Id": "0xec7904739fc36b19f685fc9742c7fc9e8862f8fa",
+	"Symbol": "ARB-WETH",
+	"UnderlyingTokens": [
+		"0xb5070c9bd2e61c6f59ffbcdac795130eeee14ad1",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "411c5e8c-068f-49ab-a71e-a15c99a51462",
+	"Chain": "ethereum"
+}

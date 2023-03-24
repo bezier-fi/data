@@ -1,0 +1,10 @@
+{
+	"Id": "0x255ecb43d40e686ca0914348fc6b012e0be14dd0",
+	"Symbol": "WETH-$FLUFFY",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc2a2e9b87b37938d934fd51cfec0c5fd5cb14c31"
+	],
+	"Protocol": "411c5e8c-068f-49ab-a71e-a15c99a51462",
+	"Chain": "ethereum"
+}

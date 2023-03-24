@@ -1,0 +1,10 @@
+{
+	"Id": "0xb7371a5cdc103745abee7826155f0040c0f3295b",
+	"Symbol": "DBAG-WETH",
+	"UnderlyingTokens": [
+		"0xa7dbfc8b53ed7491a20e998f4bfbafad6589206d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "411c5e8c-068f-49ab-a71e-a15c99a51462",
+	"Chain": "ethereum"
+}

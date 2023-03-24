@@ -1,0 +1,10 @@
+{
+	"Id": "0x08f6c06cedaa98563e562c5ce26906dd53a0ed7b",
+	"Symbol": "RIP-WETH",
+	"UnderlyingTokens": [
+		"0x09ae9582017315d34bae973efc7c94e91af45aae",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "411c5e8c-068f-49ab-a71e-a15c99a51462",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x46de6ec57e0885c7f6d5f8fc254ab04edfb174ae",
+	"Symbol": "TER-WETH",
+	"UnderlyingTokens": [
+		"0xaff3b0096c3da0132d2549fccc0d7f9ea7a80d6e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d6b7a200-5377-4339-9b89-7d7cc372baf7",
+	"Chain": "ethereum"
+}

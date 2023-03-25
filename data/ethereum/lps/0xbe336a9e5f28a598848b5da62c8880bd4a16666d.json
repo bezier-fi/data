@@ -1,0 +1,10 @@
+{
+	"Id": "0xbe336a9e5f28a598848b5da62c8880bd4a16666d",
+	"Symbol": "AMT-WETH",
+	"UnderlyingTokens": [
+		"0x101c357b71974a8e4479d35f0a3f64bd2aa84784",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d6b7a200-5377-4339-9b89-7d7cc372baf7",
+	"Chain": "ethereum"
+}

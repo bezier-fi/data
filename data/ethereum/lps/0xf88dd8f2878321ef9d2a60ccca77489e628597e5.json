@@ -1,0 +1,10 @@
+{
+	"Id": "0xf88dd8f2878321ef9d2a60ccca77489e628597e5",
+	"Symbol": "WETH-DOGEHEX",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc85c094745ca6c27c919411fd022d1b38b8472c6"
+	],
+	"Protocol": "d6b7a200-5377-4339-9b89-7d7cc372baf7",
+	"Chain": "ethereum"
+}

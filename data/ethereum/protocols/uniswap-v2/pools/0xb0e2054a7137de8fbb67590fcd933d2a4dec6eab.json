@@ -1,0 +1,27 @@
+{
+	"Id": "0xb0e2054a7137de8fbb67590fcd933d2a4dec6eab",
+	"Protocol": "d6b7a200-5377-4339-9b89-7d7cc372baf7",
+	"Outputs": [
+		{
+			"Address": "0xb0e2054a7137de8fbb67590fcd933d2a4dec6eab",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa9687c8cfb7d1b831a4ad733173927af83fe8c94",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "$HONKLER-WETH",
+	"Chain": "ethereum"
+}

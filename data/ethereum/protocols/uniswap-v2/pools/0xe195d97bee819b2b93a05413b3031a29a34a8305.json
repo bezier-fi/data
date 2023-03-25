@@ -1,0 +1,27 @@
+{
+	"Id": "0xe195d97bee819b2b93a05413b3031a29a34a8305",
+	"Protocol": "d6b7a200-5377-4339-9b89-7d7cc372baf7",
+	"Outputs": [
+		{
+			"Address": "0xe195d97bee819b2b93a05413b3031a29a34a8305",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6fadf4aea85e1cd1d2b4b57d65954b424ddaa6ae",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "STARSHIP-WETH",
+	"Chain": "ethereum"
+}

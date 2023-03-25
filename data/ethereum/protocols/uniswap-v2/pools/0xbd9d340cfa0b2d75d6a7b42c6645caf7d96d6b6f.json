@@ -1,0 +1,27 @@
+{
+	"Id": "0xbd9d340cfa0b2d75d6a7b42c6645caf7d96d6b6f",
+	"Protocol": "d6b7a200-5377-4339-9b89-7d7cc372baf7",
+	"Outputs": [
+		{
+			"Address": "0xbd9d340cfa0b2d75d6a7b42c6645caf7d96d6b6f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xf751477665dc7affaa93851a4c7a17fdf01a5f8d",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-APOLLO",
+	"Chain": "ethereum"
+}

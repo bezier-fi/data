@@ -1,0 +1,10 @@
+{
+	"Id": "0xe195d97bee819b2b93a05413b3031a29a34a8305",
+	"Symbol": "STARSHIP-WETH",
+	"UnderlyingTokens": [
+		"0x6fadf4aea85e1cd1d2b4b57d65954b424ddaa6ae",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d6b7a200-5377-4339-9b89-7d7cc372baf7",
+	"Chain": "ethereum"
+}

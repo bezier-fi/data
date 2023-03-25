@@ -1,0 +1,10 @@
+{
+	"Id": "0xbd9d340cfa0b2d75d6a7b42c6645caf7d96d6b6f",
+	"Symbol": "WETH-APOLLO",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf751477665dc7affaa93851a4c7a17fdf01a5f8d"
+	],
+	"Protocol": "d6b7a200-5377-4339-9b89-7d7cc372baf7",
+	"Chain": "ethereum"
+}

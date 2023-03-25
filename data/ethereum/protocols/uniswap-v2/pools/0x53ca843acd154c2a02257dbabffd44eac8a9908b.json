@@ -1,0 +1,27 @@
+{
+	"Id": "0x53ca843acd154c2a02257dbabffd44eac8a9908b",
+	"Protocol": "d6b7a200-5377-4339-9b89-7d7cc372baf7",
+	"Outputs": [
+		{
+			"Address": "0x53ca843acd154c2a02257dbabffd44eac8a9908b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3b7c22232dceca7a1d0935c61ac16cca0aeca07c",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CLIMB AI-WETH",
+	"Chain": "ethereum"
+}

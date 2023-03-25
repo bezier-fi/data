@@ -1,0 +1,10 @@
+{
+	"Id": "0xb0e2054a7137de8fbb67590fcd933d2a4dec6eab",
+	"Symbol": "$HONKLER-WETH",
+	"UnderlyingTokens": [
+		"0xa9687c8cfb7d1b831a4ad733173927af83fe8c94",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d6b7a200-5377-4339-9b89-7d7cc372baf7",
+	"Chain": "ethereum"
+}

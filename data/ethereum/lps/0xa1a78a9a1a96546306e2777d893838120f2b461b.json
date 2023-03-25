@@ -1,0 +1,10 @@
+{
+	"Id": "0xa1a78a9a1a96546306e2777d893838120f2b461b",
+	"Symbol": "WETH-BUG",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf47270443b1407171ef5eee8091b8044294c9964"
+	],
+	"Protocol": "d6b7a200-5377-4339-9b89-7d7cc372baf7",
+	"Chain": "ethereum"
+}

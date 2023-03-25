@@ -1,0 +1,27 @@
+{
+	"Id": "0xfdef615920c7781316a6bf0c9bd4b79ec70715e1",
+	"Protocol": "d6b7a200-5377-4339-9b89-7d7cc372baf7",
+	"Outputs": [
+		{
+			"Address": "0xfdef615920c7781316a6bf0c9bd4b79ec70715e1",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2c9b1917cf194bf7db3cd53ccb90852a35497deb",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ZKDOWN-WETH",
+	"Chain": "ethereum"
+}

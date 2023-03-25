@@ -1,0 +1,10 @@
+{
+	"Id": "0x5457b0e53b333f5f58cf78f8d17fdbe112cf0f9f",
+	"Symbol": "VBUSS-WETH",
+	"UnderlyingTokens": [
+		"0xbd80e0dcfdb41d9df4c609b569651a3086483c33",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d6b7a200-5377-4339-9b89-7d7cc372baf7",
+	"Chain": "ethereum"
+}

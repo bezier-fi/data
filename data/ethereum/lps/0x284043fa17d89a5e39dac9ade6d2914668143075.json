@@ -1,0 +1,10 @@
+{
+	"Id": "0x284043fa17d89a5e39dac9ade6d2914668143075",
+	"Symbol": "YUTA-WETH",
+	"UnderlyingTokens": [
+		"0x4d7d5f90554aa9775114c64a332ebeb9652fab0c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d6b7a200-5377-4339-9b89-7d7cc372baf7",
+	"Chain": "ethereum"
+}

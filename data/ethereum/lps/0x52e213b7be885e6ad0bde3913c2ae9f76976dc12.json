@@ -1,0 +1,10 @@
+{
+	"Id": "0x52e213b7be885e6ad0bde3913c2ae9f76976dc12",
+	"Symbol": "ZKUP-WETH",
+	"UnderlyingTokens": [
+		"0x8c1439df359a70025cbc1193f57f3271039e0234",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d6b7a200-5377-4339-9b89-7d7cc372baf7",
+	"Chain": "ethereum"
+}

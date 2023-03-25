@@ -1,0 +1,27 @@
+{
+	"Id": "0x920124b5d2b19260a2bd8b2ff95f089546274bba",
+	"Protocol": "d6b7a200-5377-4339-9b89-7d7cc372baf7",
+	"Outputs": [
+		{
+			"Address": "0x920124b5d2b19260a2bd8b2ff95f089546274bba",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5c7ad3eb8264ef91dd4d756ef9759f7aa86744e7",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TGC-USDC",
+	"Chain": "ethereum"
+}

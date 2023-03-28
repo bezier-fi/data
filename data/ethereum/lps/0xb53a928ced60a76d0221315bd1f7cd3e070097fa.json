@@ -1,0 +1,10 @@
+{
+	"Id": "0xb53a928ced60a76d0221315bd1f7cd3e070097fa",
+	"Symbol": "MARVIN-WETH",
+	"UnderlyingTokens": [
+		"0x54d1eacdbc1ba6b16b979259d121e5c8d0ca8560",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "fa306be4-518e-4fb9-86ca-27120b7296ec",
+	"Chain": "ethereum"
+}

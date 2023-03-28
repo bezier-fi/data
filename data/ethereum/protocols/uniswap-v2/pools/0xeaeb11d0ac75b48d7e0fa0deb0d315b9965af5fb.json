@@ -1,0 +1,27 @@
+{
+	"Id": "0xeaeb11d0ac75b48d7e0fa0deb0d315b9965af5fb",
+	"Protocol": "fa306be4-518e-4fb9-86ca-27120b7296ec",
+	"Outputs": [
+		{
+			"Address": "0xeaeb11d0ac75b48d7e0fa0deb0d315b9965af5fb",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa0fcae2bc95c3164382cf66e9ab6e5a199a2aca4",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ZUZALU-WETH",
+	"Chain": "ethereum"
+}

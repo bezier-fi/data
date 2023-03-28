@@ -1,0 +1,10 @@
+{
+	"Id": "0x14b13677b08abdfb1f19730254e70c344d17282d",
+	"Symbol": "THEGWEI-WETH",
+	"UnderlyingTokens": [
+		"0x37b4b02cfa6a1f2efde5e3cf999411248eaa2a0c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "fa306be4-518e-4fb9-86ca-27120b7296ec",
+	"Chain": "ethereum"
+}

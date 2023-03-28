@@ -1,0 +1,10 @@
+{
+	"Id": "0xb0434b86d2c5c6edbc1ad74dd644cb22bd2f981f",
+	"Symbol": "BUMBLE-C-WETH",
+	"UnderlyingTokens": [
+		"0xbf0940f8e95c035d197fefc87d4d4ef19afc8672",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "fa306be4-518e-4fb9-86ca-27120b7296ec",
+	"Chain": "ethereum"
+}

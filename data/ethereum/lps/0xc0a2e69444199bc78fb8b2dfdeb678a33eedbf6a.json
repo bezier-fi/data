@@ -1,0 +1,10 @@
+{
+	"Id": "0xc0a2e69444199bc78fb8b2dfdeb678a33eedbf6a",
+	"Symbol": "ARIABUN-WETH",
+	"UnderlyingTokens": [
+		"0x13d8c9ab230f205e3e2a2afc16da055fcc9bf957",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "fa306be4-518e-4fb9-86ca-27120b7296ec",
+	"Chain": "ethereum"
+}

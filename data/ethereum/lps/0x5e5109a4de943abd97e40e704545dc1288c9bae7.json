@@ -1,0 +1,10 @@
+{
+	"Id": "0x5e5109a4de943abd97e40e704545dc1288c9bae7",
+	"Symbol": "BUMBLEAI-WETH",
+	"UnderlyingTokens": [
+		"0xbbfbfbf98b12466b0467403075ebba31de7a7320",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "fa306be4-518e-4fb9-86ca-27120b7296ec",
+	"Chain": "ethereum"
+}

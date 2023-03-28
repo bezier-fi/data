@@ -1,0 +1,10 @@
+{
+	"Id": "0xa7850d3ed4c7b998871c52e8f3d531d30ac2886a",
+	"Symbol": "SHIC-WETH",
+	"UnderlyingTokens": [
+		"0x66e656b4e6b0c649b50e73414fdcc1cb034a1c51",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "fa306be4-518e-4fb9-86ca-27120b7296ec",
+	"Chain": "ethereum"
+}

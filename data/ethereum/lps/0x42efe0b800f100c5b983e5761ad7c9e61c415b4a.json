@@ -1,0 +1,10 @@
+{
+	"Id": "0x42efe0b800f100c5b983e5761ad7c9e61c415b4a",
+	"Symbol": "LIQLABS-WETH",
+	"UnderlyingTokens": [
+		"0x21c5f2a1fe642fe2282a6f03858bbafb7b86b42b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "fa306be4-518e-4fb9-86ca-27120b7296ec",
+	"Chain": "ethereum"
+}

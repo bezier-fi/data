@@ -1,0 +1,27 @@
+{
+	"Id": "0x0d1ff2b09a23c6422da22e5bfa2fedf3deaaba03",
+	"Protocol": "fa306be4-518e-4fb9-86ca-27120b7296ec",
+	"Outputs": [
+		{
+			"Address": "0x0d1ff2b09a23c6422da22e5bfa2fedf3deaaba03",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xad83b92cdd542db07445597f7f06963b31cf9444",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BUMBLEC-WETH",
+	"Chain": "ethereum"
+}

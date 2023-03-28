@@ -1,0 +1,10 @@
+{
+	"Id": "0x0eccf5e44ec090203ce8d6f99605dcb01843f8c7",
+	"Symbol": "WETH-PAWBURN",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc27ce03f764bdfb407502fe14192ff200ade0354"
+	],
+	"Protocol": "fa306be4-518e-4fb9-86ca-27120b7296ec",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xc76b44448612defde1deaf4e2d19ab920a0727dd",
+	"Symbol": "ESCANOR-WETH",
+	"UnderlyingTokens": [
+		"0x73b4f876f452603e2c7c8c2e4de33134dedc3aed",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "fa306be4-518e-4fb9-86ca-27120b7296ec",
+	"Chain": "ethereum"
+}

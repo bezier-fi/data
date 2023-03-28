@@ -1,0 +1,10 @@
+{
+	"Id": "0x04846c8acc0b91f23402a2ee51f9e52af2221f38",
+	"Symbol": "FLIRT-WETH",
+	"UnderlyingTokens": [
+		"0x7594697e2435befeee89a8ae5b75a0245211660f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "fa306be4-518e-4fb9-86ca-27120b7296ec",
+	"Chain": "ethereum"
+}

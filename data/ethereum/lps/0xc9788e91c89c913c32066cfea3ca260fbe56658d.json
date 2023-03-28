@@ -1,0 +1,10 @@
+{
+	"Id": "0xc9788e91c89c913c32066cfea3ca260fbe56658d",
+	"Symbol": "WETH-MIPAD",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc9ea732a7bc9cfa0c7fa6d9b8755a424b17e93e8"
+	],
+	"Protocol": "fa306be4-518e-4fb9-86ca-27120b7296ec",
+	"Chain": "ethereum"
+}

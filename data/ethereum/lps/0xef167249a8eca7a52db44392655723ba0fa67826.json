@@ -1,0 +1,10 @@
+{
+	"Id": "0xef167249a8eca7a52db44392655723ba0fa67826",
+	"Symbol": "Kishka-WETH",
+	"UnderlyingTokens": [
+		"0xbf73bbceffe1bc7698e3fe17467b5f844ec2fbfe",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "fa306be4-518e-4fb9-86ca-27120b7296ec",
+	"Chain": "ethereum"
+}

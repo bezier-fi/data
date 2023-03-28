@@ -1,0 +1,10 @@
+{
+	"Id": "0xce2b3f0af61ace88cc59b763beb61b0a4c8a00f3",
+	"Symbol": "OZ-WETH",
+	"UnderlyingTokens": [
+		"0x23c1d5472ae04b55ab34bef48f9141efefb92f6f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "fa306be4-518e-4fb9-86ca-27120b7296ec",
+	"Chain": "ethereum"
+}

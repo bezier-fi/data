@@ -1,0 +1,10 @@
+{
+	"Id": "0x301cd805bcbbe17c02a32894612c33a529d33dc5",
+	"Symbol": "WETH-FLAPPY",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xeaf6c7993e16fda21169be534576127d9c8cde59"
+	],
+	"Protocol": "fa306be4-518e-4fb9-86ca-27120b7296ec",
+	"Chain": "ethereum"
+}

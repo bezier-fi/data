@@ -1,0 +1,27 @@
+{
+	"Id": "0xd7fe7f7c562f417fa87bcc627fa8398c755f5189",
+	"Protocol": "3b27f919-5699-4c34-a560-cd3d104d894d",
+	"Outputs": [
+		{
+			"Address": "0xd7fe7f7c562f417fa87bcc627fa8398c755f5189",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x5e85211fe63eb29c5adb6d95c9ad578fd6f7be86",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC-CENTUS (0.30%)",
+	"Chain": "polygon"
+}

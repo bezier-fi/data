@@ -1,0 +1,10 @@
+{
+	"Id": "0xf309fb06493a59ad8a379dfd83ab692aef2368b2",
+	"Symbol": "WETH-Ryosei",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe1ae82fb83290ff49c894c857677a5ae99e8322c"
+	],
+	"Protocol": "fa306be4-518e-4fb9-86ca-27120b7296ec",
+	"Chain": "ethereum"
+}

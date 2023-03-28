@@ -1,0 +1,10 @@
+{
+	"Id": "0xc42262b2082ab925464b54d045bac8c359a2b1f5",
+	"Symbol": "DAIGE-WETH",
+	"UnderlyingTokens": [
+		"0x1648b7ffe19b68abc0d12c757b100496dea44514",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "fa306be4-518e-4fb9-86ca-27120b7296ec",
+	"Chain": "ethereum"
+}

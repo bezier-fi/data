@@ -1,0 +1,10 @@
+{
+	"Id": "0xbacabeeecf9e481e247bb7ed2c7d253576d9d911",
+	"Symbol": "MEVMAX-WETH",
+	"UnderlyingTokens": [
+		"0x6289396d0678fdf92f431e9d042b2f0b94bd993d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "fa306be4-518e-4fb9-86ca-27120b7296ec",
+	"Chain": "ethereum"
+}

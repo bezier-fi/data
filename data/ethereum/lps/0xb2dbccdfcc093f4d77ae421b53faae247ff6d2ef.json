@@ -1,0 +1,10 @@
+{
+	"Id": "0xb2dbccdfcc093f4d77ae421b53faae247ff6d2ef",
+	"Symbol": "Carbh-WETH",
+	"UnderlyingTokens": [
+		"0x6b41e2a3c6c11756383574618d7cf13b9247a228",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "fa306be4-518e-4fb9-86ca-27120b7296ec",
+	"Chain": "ethereum"
+}

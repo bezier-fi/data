@@ -1,0 +1,23 @@
+{
+	"Id": "farm-0x8b1a1824b60e52c65fe5252e3ef89fc89df74255",
+	"Protocol": "73b88a11-3651-4c49-9b82-354e177ac6ce",
+	"Outputs": [
+		{
+			"Address": "0x8b1a1824b60e52c65fe5252e3ef89fc89df74255",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8b1a1824b60e52c65fe5252e3ef89fc89df74255",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SHADY-WAVAX",
+	"Chain": "avalanche"
+}

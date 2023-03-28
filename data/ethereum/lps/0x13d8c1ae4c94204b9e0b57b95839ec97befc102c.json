@@ -1,0 +1,10 @@
+{
+	"Id": "0x13d8c1ae4c94204b9e0b57b95839ec97befc102c",
+	"Symbol": "WETH-SVAULT",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc65294878d921626376084df81952a44267c0a14"
+	],
+	"Protocol": "fa306be4-518e-4fb9-86ca-27120b7296ec",
+	"Chain": "ethereum"
+}

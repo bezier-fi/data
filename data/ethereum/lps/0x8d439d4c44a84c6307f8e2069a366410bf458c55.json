@@ -1,0 +1,10 @@
+{
+	"Id": "0x8d439d4c44a84c6307f8e2069a366410bf458c55",
+	"Symbol": "Eric-WETH",
+	"UnderlyingTokens": [
+		"0xb2d6a0346a51996393e36c823b208f8cbe7452b6",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "fa306be4-518e-4fb9-86ca-27120b7296ec",
+	"Chain": "ethereum"
+}

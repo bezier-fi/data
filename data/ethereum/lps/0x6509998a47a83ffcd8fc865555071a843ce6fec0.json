@@ -1,0 +1,10 @@
+{
+	"Id": "0x6509998a47a83ffcd8fc865555071a843ce6fec0",
+	"Symbol": "LEASHARIUM-WETH",
+	"UnderlyingTokens": [
+		"0x1072bf3fe71b5f5f1c5fe0d2a84a6d6c25660c51",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "fa306be4-518e-4fb9-86ca-27120b7296ec",
+	"Chain": "ethereum"
+}

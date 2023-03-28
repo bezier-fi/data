@@ -1,0 +1,10 @@
+{
+	"Id": "0xd40c3016791bf8ae0a21f56939a85599cf945a26",
+	"Symbol": "WETH-ZUZALU",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd1f17b7a6bff962659ed608bcd6d318bb5fbb249"
+	],
+	"Protocol": "fa306be4-518e-4fb9-86ca-27120b7296ec",
+	"Chain": "ethereum"
+}

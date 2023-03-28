@@ -1,0 +1,27 @@
+{
+	"Id": "0xe34947aaaff202e2f08bd8b05f550b868c7383d4",
+	"Protocol": "fa306be4-518e-4fb9-86ca-27120b7296ec",
+	"Outputs": [
+		{
+			"Address": "0xe34947aaaff202e2f08bd8b05f550b868c7383d4",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5b8650cd999b23cf39ab12e3213fbc8709c7f5cb",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Mazi-WETH",
+	"Chain": "ethereum"
+}

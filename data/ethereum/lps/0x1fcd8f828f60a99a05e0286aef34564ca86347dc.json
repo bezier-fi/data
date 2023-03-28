@@ -1,0 +1,10 @@
+{
+	"Id": "0x1fcd8f828f60a99a05e0286aef34564ca86347dc",
+	"Symbol": "PZI-WETH",
+	"UnderlyingTokens": [
+		"0x4e8f93140d8c707218ae8501dd03969da9083b72",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "fa306be4-518e-4fb9-86ca-27120b7296ec",
+	"Chain": "ethereum"
+}

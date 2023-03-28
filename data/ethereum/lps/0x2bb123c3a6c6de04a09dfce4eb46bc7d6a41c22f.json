@@ -1,0 +1,10 @@
+{
+	"Id": "0x2bb123c3a6c6de04a09dfce4eb46bc7d6a41c22f",
+	"Symbol": "WETH-CHARMY",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc0da3c60f7c9b62ac35ae9fc4465b83a6e3ad61b"
+	],
+	"Protocol": "fa306be4-518e-4fb9-86ca-27120b7296ec",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xe3d90885e9c0bf10b555bc590c075dfc4458d8fc",
+	"Symbol": "SHI6-WETH",
+	"UnderlyingTokens": [
+		"0x883d503888fcd825b369e981a99334b0cf43b441",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "fa306be4-518e-4fb9-86ca-27120b7296ec",
+	"Chain": "ethereum"
+}

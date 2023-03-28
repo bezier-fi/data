@@ -1,0 +1,10 @@
+{
+	"Id": "0xf126ac81688aa0fc16aa41361a3891b6cd78736f",
+	"Symbol": "SOV-WETH",
+	"UnderlyingTokens": [
+		"0x2c5bc2ba3614fd27fcc7022ea71d9172e2632c16",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "fa306be4-518e-4fb9-86ca-27120b7296ec",
+	"Chain": "ethereum"
+}

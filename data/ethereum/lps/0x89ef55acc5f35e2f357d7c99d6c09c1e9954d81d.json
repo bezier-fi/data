@@ -1,0 +1,10 @@
+{
+	"Id": "0x89ef55acc5f35e2f357d7c99d6c09c1e9954d81d",
+	"Symbol": "WETH-$BSHARBI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc99808c486d2a4cb5c0a0402066098fbdb77a2ec"
+	],
+	"Protocol": "fa306be4-518e-4fb9-86ca-27120b7296ec",
+	"Chain": "ethereum"
+}

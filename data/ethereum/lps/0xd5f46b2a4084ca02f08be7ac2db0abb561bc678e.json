@@ -1,0 +1,10 @@
+{
+	"Id": "0xd5f46b2a4084ca02f08be7ac2db0abb561bc678e",
+	"Symbol": "WETH-TIP",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe01af0522c3fcd5cfde852c00a93162b74e91b8d"
+	],
+	"Protocol": "fa306be4-518e-4fb9-86ca-27120b7296ec",
+	"Chain": "ethereum"
+}

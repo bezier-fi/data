@@ -1,0 +1,27 @@
+{
+	"Id": "0x581d7f6596f001e902e748d5f8561224d3b6351d",
+	"Protocol": "fa306be4-518e-4fb9-86ca-27120b7296ec",
+	"Outputs": [
+		{
+			"Address": "0x581d7f6596f001e902e748d5f8561224d3b6351d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xe7c2acb2fe5bd3ac7e5f065f7e8aece3db3fd597",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-C-3PO",
+	"Chain": "ethereum"
+}

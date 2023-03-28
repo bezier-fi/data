@@ -1,0 +1,27 @@
+{
+	"Id": "0x66536a288722e74558393c97501ed2eea6b82154",
+	"Protocol": "fa306be4-518e-4fb9-86ca-27120b7296ec",
+	"Outputs": [
+		{
+			"Address": "0x66536a288722e74558393c97501ed2eea6b82154",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x258f3a059c39dc965da8f983e43248a73c9560e3",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "P2PIFY-WETH",
+	"Chain": "ethereum"
+}

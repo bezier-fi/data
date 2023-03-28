@@ -1,0 +1,10 @@
+{
+	"Id": "0xe9bc789c9683ccb83a9c7c3b664f59587146023b",
+	"Symbol": "WETH-TZU",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd389ae0240fffd7af3bd966cce85bdcfce415a70"
+	],
+	"Protocol": "fa306be4-518e-4fb9-86ca-27120b7296ec",
+	"Chain": "ethereum"
+}

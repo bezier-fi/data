@@ -1,0 +1,10 @@
+{
+	"Id": "0x294b9a5ea195c56ca87fffd326c70883f6a280b1",
+	"Symbol": "PS -WETH",
+	"UnderlyingTokens": [
+		"0xa0ddb36efc8de575d76fd318e0fa54a321fd9910",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "fa306be4-518e-4fb9-86ca-27120b7296ec",
+	"Chain": "ethereum"
+}

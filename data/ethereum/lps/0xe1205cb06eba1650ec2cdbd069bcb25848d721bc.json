@@ -1,0 +1,10 @@
+{
+	"Id": "0xe1205cb06eba1650ec2cdbd069bcb25848d721bc",
+	"Symbol": "WETH-DOMO",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xef5cb5d0e4f933531b26e4ff1e2b08a0b148e1c2"
+	],
+	"Protocol": "fa306be4-518e-4fb9-86ca-27120b7296ec",
+	"Chain": "ethereum"
+}

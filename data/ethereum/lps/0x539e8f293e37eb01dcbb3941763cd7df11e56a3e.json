@@ -1,0 +1,10 @@
+{
+	"Id": "0x539e8f293e37eb01dcbb3941763cd7df11e56a3e",
+	"Symbol": "ZKP-WETH",
+	"UnderlyingTokens": [
+		"0x09637e374ec5bab8c9e9654a97c9593e3038c5b3",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "fa306be4-518e-4fb9-86ca-27120b7296ec",
+	"Chain": "ethereum"
+}

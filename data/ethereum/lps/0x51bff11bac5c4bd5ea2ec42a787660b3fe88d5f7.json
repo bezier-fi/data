@@ -1,0 +1,10 @@
+{
+	"Id": "0x51bff11bac5c4bd5ea2ec42a787660b3fe88d5f7",
+	"Symbol": "WETH-DOGEHUB",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd622a0e32cf99487a6712f26e43108275f9b9d97"
+	],
+	"Protocol": "8a2ff99e-c75f-402a-9000-b0136ac95453",
+	"Chain": "ethereum"
+}

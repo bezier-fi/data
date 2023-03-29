@@ -1,0 +1,27 @@
+{
+	"Id": "0x9f3af9f2d8db6898a37313bf92da0f80c491e990",
+	"Protocol": "7792aefe-5847-424b-90bc-cdd638df7608",
+	"Outputs": [
+		{
+			"Address": "0x9f3af9f2d8db6898a37313bf92da0f80c491e990",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x15b7c0c907e4c6b9adaaaabc300c08991d6cea05",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GEL-USDC (0.05%)",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x5f37376e9748eabd0a43f7c50f43a858f4e12eab",
+	"Protocol": "7792aefe-5847-424b-90bc-cdd638df7608",
+	"Outputs": [
+		{
+			"Address": "0x5f37376e9748eabd0a43f7c50f43a858f4e12eab",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xaf3cbaeba9fe7a7d4e7531f1b2553972fd1c4e9c",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ZIZY-USDT (0.30%)",
+	"Chain": "polygon"
+}

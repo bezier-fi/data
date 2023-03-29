@@ -1,0 +1,27 @@
+{
+	"Id": "0x6b6e50192d8079f064ae0eca9f6fce65f8857dc4",
+	"Protocol": "8a2ff99e-c75f-402a-9000-b0136ac95453",
+	"Outputs": [
+		{
+			"Address": "0x6b6e50192d8079f064ae0eca9f6fce65f8857dc4",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb056a11d7643c8b8bd653c4ce09e690c96f06f26",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "YUNA-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x8ffb366bd3fc30a73479aafb76278b3329c99fb1",
+	"Symbol": "WETH-SMRT",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf7d063b8ef4df9b38ebf8ada4a813ecfb149426b"
+	],
+	"Protocol": "8a2ff99e-c75f-402a-9000-b0136ac95453",
+	"Chain": "ethereum"
+}

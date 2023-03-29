@@ -1,0 +1,10 @@
+{
+	"Id": "0xa4e02d793b88b6e275a4062cd029aaf7dae8b1cc",
+	"Symbol": "$CORTANA-WETH",
+	"UnderlyingTokens": [
+		"0x81f83371ab96d27c76508edd9edd6251cb38b72b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "8a2ff99e-c75f-402a-9000-b0136ac95453",
+	"Chain": "ethereum"
+}

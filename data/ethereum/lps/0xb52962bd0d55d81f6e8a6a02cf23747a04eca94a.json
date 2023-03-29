@@ -1,0 +1,10 @@
+{
+	"Id": "0xb52962bd0d55d81f6e8a6a02cf23747a04eca94a",
+	"Symbol": "WETH-ELONSCAT",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xde18b01f8ca0b5bddabe0f5dbdce9f2e126db945"
+	],
+	"Protocol": "8a2ff99e-c75f-402a-9000-b0136ac95453",
+	"Chain": "ethereum"
+}

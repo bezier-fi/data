@@ -1,0 +1,27 @@
+{
+	"Id": "0x3da04b0607cb366fc15693ae1dce378659de135e",
+	"Protocol": "8a2ff99e-c75f-402a-9000-b0136ac95453",
+	"Outputs": [
+		{
+			"Address": "0x3da04b0607cb366fc15693ae1dce378659de135e",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3dc3ee3da0f56d4024f46fc81ed093bd7ed467b6",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SAFEMOONU-WETH",
+	"Chain": "ethereum"
+}

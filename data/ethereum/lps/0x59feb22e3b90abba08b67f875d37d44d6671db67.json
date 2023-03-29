@@ -1,0 +1,10 @@
+{
+	"Id": "0x59feb22e3b90abba08b67f875d37d44d6671db67",
+	"Symbol": "WETH-LOBBY",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc6b598b4f0a8020a20dbac48adbab453fa1e63db"
+	],
+	"Protocol": "8a2ff99e-c75f-402a-9000-b0136ac95453",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x6e4f1fdef8531fcfe90a1e4900dbe90c69be9397",
+	"Protocol": "8a2ff99e-c75f-402a-9000-b0136ac95453",
+	"Outputs": [
+		{
+			"Address": "0x6e4f1fdef8531fcfe90a1e4900dbe90c69be9397",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4596971dca386329cce1e0d46104f2df5aedc556",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FUJINU-WETH",
+	"Chain": "ethereum"
+}

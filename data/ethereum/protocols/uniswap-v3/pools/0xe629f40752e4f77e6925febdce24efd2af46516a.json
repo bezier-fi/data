@@ -1,0 +1,27 @@
+{
+	"Id": "0xe629f40752e4f77e6925febdce24efd2af46516a",
+	"Protocol": "7792aefe-5847-424b-90bc-cdd638df7608",
+	"Outputs": [
+		{
+			"Address": "0xe629f40752e4f77e6925febdce24efd2af46516a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1487bd704fa05a222b0adb50dc420f001f003045",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CCDAO-WETH (0.30%)",
+	"Chain": "ethereum"
+}

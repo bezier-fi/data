@@ -1,0 +1,27 @@
+{
+	"Id": "0x6139158a237df0558f906692bd0a3d3b0a9b9681",
+	"Protocol": "8a2ff99e-c75f-402a-9000-b0136ac95453",
+	"Outputs": [
+		{
+			"Address": "0x6139158a237df0558f906692bd0a3d3b0a9b9681",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xfc8e118892f9c3519484a9af7aa817de59d35992",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-ELONSDOG",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0xc93e3851de03b0e45512aaabe2dc9619e0650eed",
+	"Protocol": "8a2ff99e-c75f-402a-9000-b0136ac95453",
+	"Outputs": [
+		{
+			"Address": "0xc93e3851de03b0e45512aaabe2dc9619e0650eed",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xf6542eea6338dcef6253b0525571518e34ced5a8",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-LOVE",
+	"Chain": "ethereum"
+}

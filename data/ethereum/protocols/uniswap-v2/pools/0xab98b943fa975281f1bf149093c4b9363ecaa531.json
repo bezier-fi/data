@@ -1,0 +1,27 @@
+{
+	"Id": "0xab98b943fa975281f1bf149093c4b9363ecaa531",
+	"Protocol": "8a2ff99e-c75f-402a-9000-b0136ac95453",
+	"Outputs": [
+		{
+			"Address": "0xab98b943fa975281f1bf149093c4b9363ecaa531",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x270977c823b2ed059a6d0f25fd5fcb4b8419e08e",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "HUBRIS-WETH",
+	"Chain": "ethereum"
+}

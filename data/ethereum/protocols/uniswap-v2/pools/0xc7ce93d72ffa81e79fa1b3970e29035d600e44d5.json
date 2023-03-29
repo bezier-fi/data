@@ -1,0 +1,27 @@
+{
+	"Id": "0xc7ce93d72ffa81e79fa1b3970e29035d600e44d5",
+	"Protocol": "8a2ff99e-c75f-402a-9000-b0136ac95453",
+	"Outputs": [
+		{
+			"Address": "0xc7ce93d72ffa81e79fa1b3970e29035d600e44d5",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x53771e3f52d48ed020c5c3c3dfed5e3c1c6f8e33",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "VICTORY-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0xcaf0d17d073b94cfc1ed5992a3e71914ca042ac7",
+	"Protocol": "ef82eeb5-e46c-4717-bb12-02ed6c2acb93",
+	"Outputs": [
+		{
+			"Address": "0xcaf0d17d073b94cfc1ed5992a3e71914ca042ac7",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0a6d60fa9efbb151dc07996cf0cea5f84f2e8404",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BCARTEL-WETH",
+	"Chain": "ethereum"
+}

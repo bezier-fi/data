@@ -1,0 +1,10 @@
+{
+	"Id": "0xcaf0d17d073b94cfc1ed5992a3e71914ca042ac7",
+	"Symbol": "BCARTEL-WETH",
+	"UnderlyingTokens": [
+		"0x0a6d60fa9efbb151dc07996cf0cea5f84f2e8404",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ef82eeb5-e46c-4717-bb12-02ed6c2acb93",
+	"Chain": "ethereum"
+}

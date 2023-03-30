@@ -1,0 +1,10 @@
+{
+	"Id": "0x5222774c5b3c177376cf848b313f8ab9acd514e7",
+	"Symbol": "PunkSHIB-WETH",
+	"UnderlyingTokens": [
+		"0x054627144c20cdca0a147032de4cc205b4472556",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ef82eeb5-e46c-4717-bb12-02ed6c2acb93",
+	"Chain": "ethereum"
+}

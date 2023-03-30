@@ -1,0 +1,27 @@
+{
+	"Id": "0xae0c26c2792524f076edf47282fe3ad3abddec29",
+	"Protocol": "ef82eeb5-e46c-4717-bb12-02ed6c2acb93",
+	"Outputs": [
+		{
+			"Address": "0xae0c26c2792524f076edf47282fe3ad3abddec29",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8260328d0c405d9ca061d80199102ddc9089e43c",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DOJO-WETH",
+	"Chain": "ethereum"
+}

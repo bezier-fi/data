@@ -1,0 +1,10 @@
+{
+	"Id": "0xe33095fcfb06466fed410c3e53da150b57bf7e61",
+	"Symbol": "SHIOUN-WETH",
+	"UnderlyingTokens": [
+		"0xb44f6092e325cc2b3dff815e96b61395aeea574b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ef82eeb5-e46c-4717-bb12-02ed6c2acb93",
+	"Chain": "ethereum"
+}

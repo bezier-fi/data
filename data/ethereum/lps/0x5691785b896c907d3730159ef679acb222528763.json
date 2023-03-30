@@ -1,0 +1,10 @@
+{
+	"Id": "0x5691785b896c907d3730159ef679acb222528763",
+	"Symbol": "dWHISPR-WETH",
+	"UnderlyingTokens": [
+		"0x0ddf6dc0417633ce348ffa9189ca7789e7267931",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ef82eeb5-e46c-4717-bb12-02ed6c2acb93",
+	"Chain": "ethereum"
+}

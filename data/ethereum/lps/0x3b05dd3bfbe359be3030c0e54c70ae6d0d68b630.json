@@ -1,0 +1,10 @@
+{
+	"Id": "0x3b05dd3bfbe359be3030c0e54c70ae6d0d68b630",
+	"Symbol": "WETH-SFRM",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe94ae07b44e0c16588615bf94f41960f69642487"
+	],
+	"Protocol": "ef82eeb5-e46c-4717-bb12-02ed6c2acb93",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xae0c26c2792524f076edf47282fe3ad3abddec29",
+	"Symbol": "DOJO-WETH",
+	"UnderlyingTokens": [
+		"0x8260328d0c405d9ca061d80199102ddc9089e43c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ef82eeb5-e46c-4717-bb12-02ed6c2acb93",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x0318170609141bfdb38d20d1f1c5b5197670ecee",
+	"Symbol": "SOV-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x2c5bc2ba3614fd27fcc7022ea71d9172e2632c16",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b61b1fbe-b844-46b9-a9ce-9cb83520720b",
+	"Chain": "ethereum"
+}

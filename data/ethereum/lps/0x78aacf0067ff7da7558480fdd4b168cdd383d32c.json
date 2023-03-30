@@ -1,0 +1,10 @@
+{
+	"Id": "0x78aacf0067ff7da7558480fdd4b168cdd383d32c",
+	"Symbol": "OVLT-WETH",
+	"UnderlyingTokens": [
+		"0x61f20ffbe349d678d023e9a5b3b6eba307abfad9",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ef82eeb5-e46c-4717-bb12-02ed6c2acb93",
+	"Chain": "ethereum"
+}

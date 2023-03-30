@@ -1,0 +1,10 @@
+{
+	"Id": "0xe6633d46178259a50598317a57fb911ac5fb6a07",
+	"Symbol": "HUBRIS-WETH",
+	"UnderlyingTokens": [
+		"0xb17a78dc7a238638a933cbc8a0f3d5ed4e1565a0",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ef82eeb5-e46c-4717-bb12-02ed6c2acb93",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x5ca3a40dae371136a227ea950040575c95a18673",
+	"Protocol": "ef82eeb5-e46c-4717-bb12-02ed6c2acb93",
+	"Outputs": [
+		{
+			"Address": "0x5ca3a40dae371136a227ea950040575c95a18673",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x94a3a55315c625786750918be0d26a58185f7f3e",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "$SCRILLA -WETH",
+	"Chain": "ethereum"
+}

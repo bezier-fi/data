@@ -1,0 +1,10 @@
+{
+	"Id": "0xeb867cb49c72c65867515c8b5c21051b223006f5",
+	"Symbol": "WETH-KOLIBRI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfc466c17432ca3195c8cfd043e6fd03e342ee759"
+	],
+	"Protocol": "ef82eeb5-e46c-4717-bb12-02ed6c2acb93",
+	"Chain": "ethereum"
+}

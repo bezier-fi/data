@@ -1,0 +1,10 @@
+{
+	"Id": "0x21610b06dc9811c02fd02826e7476ed29077774e",
+	"Symbol": "WETH-HAMLET",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc12e84d8ac608f6b3550f3fb23e818cebb72852b"
+	],
+	"Protocol": "ef82eeb5-e46c-4717-bb12-02ed6c2acb93",
+	"Chain": "ethereum"
+}

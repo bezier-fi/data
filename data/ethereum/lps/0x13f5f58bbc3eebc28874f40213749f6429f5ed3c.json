@@ -1,0 +1,10 @@
+{
+	"Id": "0x13f5f58bbc3eebc28874f40213749f6429f5ed3c",
+	"Symbol": "WETH-JSHIB",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc65b796cbdd8b94852a6be8274db99722afb22a9"
+	],
+	"Protocol": "ef82eeb5-e46c-4717-bb12-02ed6c2acb93",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xbb8dce1ca00150846d011d406eb603de2409c248",
+	"Symbol": "WETH-SNAIL",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd577122e5d413eb33aa926e7e09efcbb04cb59c6"
+	],
+	"Protocol": "ef82eeb5-e46c-4717-bb12-02ed6c2acb93",
+	"Chain": "ethereum"
+}

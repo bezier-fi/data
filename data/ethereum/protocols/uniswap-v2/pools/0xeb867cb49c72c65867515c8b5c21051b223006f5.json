@@ -1,0 +1,27 @@
+{
+	"Id": "0xeb867cb49c72c65867515c8b5c21051b223006f5",
+	"Protocol": "ef82eeb5-e46c-4717-bb12-02ed6c2acb93",
+	"Outputs": [
+		{
+			"Address": "0xeb867cb49c72c65867515c8b5c21051b223006f5",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xfc466c17432ca3195c8cfd043e6fd03e342ee759",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-KOLIBRI",
+	"Chain": "ethereum"
+}

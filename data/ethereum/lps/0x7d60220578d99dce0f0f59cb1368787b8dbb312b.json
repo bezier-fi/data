@@ -1,0 +1,10 @@
+{
+	"Id": "0x7d60220578d99dce0f0f59cb1368787b8dbb312b",
+	"Symbol": "WETH-SWK (1.00%)",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xddfbe9173c90deb428fdd494cb16125653172919"
+	],
+	"Protocol": "b61b1fbe-b844-46b9-a9ce-9cb83520720b",
+	"Chain": "ethereum"
+}

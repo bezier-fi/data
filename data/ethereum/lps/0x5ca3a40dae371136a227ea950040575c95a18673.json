@@ -1,0 +1,10 @@
+{
+	"Id": "0x5ca3a40dae371136a227ea950040575c95a18673",
+	"Symbol": "$SCRILLA -WETH",
+	"UnderlyingTokens": [
+		"0x94a3a55315c625786750918be0d26a58185f7f3e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ef82eeb5-e46c-4717-bb12-02ed6c2acb93",
+	"Chain": "ethereum"
+}

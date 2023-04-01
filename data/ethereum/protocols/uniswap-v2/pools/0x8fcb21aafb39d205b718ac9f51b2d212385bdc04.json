@@ -1,0 +1,27 @@
+{
+	"Id": "0x8fcb21aafb39d205b718ac9f51b2d212385bdc04",
+	"Protocol": "d8ef9fe2-cf4f-4e2d-ac6b-405970df3e61",
+	"Outputs": [
+		{
+			"Address": "0x8fcb21aafb39d205b718ac9f51b2d212385bdc04",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x412a68a1de737da33e0a326c023c345b343e8092",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "VELO-WETH",
+	"Chain": "ethereum"
+}

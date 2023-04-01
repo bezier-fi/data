@@ -1,0 +1,27 @@
+{
+	"Id": "0xcb622e1f7fdb8206854393d8b4fa251431e0840a",
+	"Protocol": "d8ef9fe2-cf4f-4e2d-ac6b-405970df3e61",
+	"Outputs": [
+		{
+			"Address": "0xcb622e1f7fdb8206854393d8b4fa251431e0840a",
+			"Apr": 15.953279,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa52cc6ea6e2b5d96c8901f7fa674ed7f3b78f844",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "AMF-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x48330299071c9eda28562c7ce188c37d97771dbb",
+	"Symbol": "WETH-YOGI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf387359fab862eaef4b7c03d2174755918c58d4d"
+	],
+	"Protocol": "d8ef9fe2-cf4f-4e2d-ac6b-405970df3e61",
+	"Chain": "ethereum"
+}

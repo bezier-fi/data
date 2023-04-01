@@ -1,0 +1,10 @@
+{
+	"Id": "0x4b1e04d2335f5f7b353021797e1b7dd4f367f001",
+	"Symbol": "EIG-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x3505aa51fe556c6e7eda81aa8f300e34969b79d4",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "a465dbd9-b190-4cf7-83a6-31eb872993e9",
+	"Chain": "ethereum"
+}

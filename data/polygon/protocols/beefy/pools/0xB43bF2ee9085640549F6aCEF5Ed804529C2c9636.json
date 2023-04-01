@@ -1,0 +1,23 @@
+{
+	"Id": "0xB43bF2ee9085640549F6aCEF5Ed804529C2c9636",
+	"Protocol": "ce5d7e7e-667e-4d39-b59f-891c29602731",
+	"Outputs": [
+		{
+			"Address": "0xB43bF2ee9085640549F6aCEF5Ed804529C2c9636",
+			"Apr": 50.238815,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4973f591784D9c94052a6c3EBd553FCD37Bb0E55",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SD-MaticX",
+	"Chain": "polygon"
+}

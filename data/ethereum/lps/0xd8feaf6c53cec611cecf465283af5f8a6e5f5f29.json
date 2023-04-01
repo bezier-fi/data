@@ -1,0 +1,10 @@
+{
+	"Id": "0xd8feaf6c53cec611cecf465283af5f8a6e5f5f29",
+	"Symbol": "BCDC-WETH",
+	"UnderlyingTokens": [
+		"0xa1069a93b0e44cc42bdcec90d010746d1b65a65c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d8ef9fe2-cf4f-4e2d-ac6b-405970df3e61",
+	"Chain": "ethereum"
+}

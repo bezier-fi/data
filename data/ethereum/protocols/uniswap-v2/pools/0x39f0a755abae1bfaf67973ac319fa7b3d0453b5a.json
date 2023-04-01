@@ -1,0 +1,27 @@
+{
+	"Id": "0x39f0a755abae1bfaf67973ac319fa7b3d0453b5a",
+	"Protocol": "d8ef9fe2-cf4f-4e2d-ac6b-405970df3e61",
+	"Outputs": [
+		{
+			"Address": "0x39f0a755abae1bfaf67973ac319fa7b3d0453b5a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5a5696dddcc4a7c5215953bc704309eb4b3f7ae4",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BRICS-WETH",
+	"Chain": "ethereum"
+}

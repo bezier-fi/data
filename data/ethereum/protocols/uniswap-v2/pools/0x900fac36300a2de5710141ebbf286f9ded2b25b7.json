@@ -1,0 +1,27 @@
+{
+	"Id": "0x900fac36300a2de5710141ebbf286f9ded2b25b7",
+	"Protocol": "d8ef9fe2-cf4f-4e2d-ac6b-405970df3e61",
+	"Outputs": [
+		{
+			"Address": "0x900fac36300a2de5710141ebbf286f9ded2b25b7",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xe297a3e43c341ea34bf354ce3431cfb689d8318b",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-BLASTAR",
+	"Chain": "ethereum"
+}

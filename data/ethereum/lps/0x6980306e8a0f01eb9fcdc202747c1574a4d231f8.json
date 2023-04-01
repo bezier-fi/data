@@ -1,0 +1,10 @@
+{
+	"Id": "0x6980306e8a0f01eb9fcdc202747c1574a4d231f8",
+	"Symbol": "SupportTRUMP-WETH",
+	"UnderlyingTokens": [
+		"0xa91f8c04378fa49a4cbdaf92d6f9dca3ff07bd99",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d8ef9fe2-cf4f-4e2d-ac6b-405970df3e61",
+	"Chain": "ethereum"
+}

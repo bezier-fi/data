@@ -1,0 +1,27 @@
+{
+	"Id": "0xcdb10581006963cecea6dce731e13b0fc6f887ec",
+	"Protocol": "d8ef9fe2-cf4f-4e2d-ac6b-405970df3e61",
+	"Outputs": [
+		{
+			"Address": "0xcdb10581006963cecea6dce731e13b0fc6f887ec",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb74795625537d6ae29350f7b6bec152e5ff34a0b",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ITUBE-WETH",
+	"Chain": "ethereum"
+}

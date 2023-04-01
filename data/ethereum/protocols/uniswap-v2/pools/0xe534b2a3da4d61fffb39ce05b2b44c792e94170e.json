@@ -1,0 +1,27 @@
+{
+	"Id": "0xe534b2a3da4d61fffb39ce05b2b44c792e94170e",
+	"Protocol": "d8ef9fe2-cf4f-4e2d-ac6b-405970df3e61",
+	"Outputs": [
+		{
+			"Address": "0xe534b2a3da4d61fffb39ce05b2b44c792e94170e",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xd3a2303a08b77babe00f128bcf0a280033417f6a",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-POTION",
+	"Chain": "ethereum"
+}

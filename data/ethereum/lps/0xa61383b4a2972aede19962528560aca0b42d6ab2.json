@@ -1,0 +1,10 @@
+{
+	"Id": "0xa61383b4a2972aede19962528560aca0b42d6ab2",
+	"Symbol": "DANGPT-WETH",
+	"UnderlyingTokens": [
+		"0x12aeb1f15a0410053af90724697fb267882104ba",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d8ef9fe2-cf4f-4e2d-ac6b-405970df3e61",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xf226e1dd15c857a74a0af32f266f8e5187c367d9",
+	"Symbol": "CELL-USDC",
+	"UnderlyingTokens": [
+		"0x26c8afbbfe1ebaca03c2bb082e69d0476bffe099",
+		"0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+	],
+	"Protocol": "d8ef9fe2-cf4f-4e2d-ac6b-405970df3e61",
+	"Chain": "ethereum"
+}

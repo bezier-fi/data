@@ -1,0 +1,10 @@
+{
+	"Id": "0xb6c0e650d920d5c4bb31a46b13a3b9c068253631",
+	"Symbol": "WETH-KAS",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xda0e01df73685568857d978ce573bd8b0ca18bbd"
+	],
+	"Protocol": "d8ef9fe2-cf4f-4e2d-ac6b-405970df3e61",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xe5115b63c13a80af32d409358b20ff3878faebfc",
+	"Symbol": "GEEKS-WETH",
+	"UnderlyingTokens": [
+		"0xa8384b5bb61a1cfc8c08e663e988796e22e13b2b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d8ef9fe2-cf4f-4e2d-ac6b-405970df3e61",
+	"Chain": "ethereum"
+}

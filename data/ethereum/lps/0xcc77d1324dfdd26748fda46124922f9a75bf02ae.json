@@ -1,0 +1,10 @@
+{
+	"Id": "0xcc77d1324dfdd26748fda46124922f9a75bf02ae",
+	"Symbol": "KUMO-WETH",
+	"UnderlyingTokens": [
+		"0x6b0c7e1d5f0ae2c2f8d265b6f5ba21715a379ff3",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d8ef9fe2-cf4f-4e2d-ac6b-405970df3e61",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0xff08f7f928ede282a870c83b81adb6cec1cab301",
+	"Protocol": "a465dbd9-b190-4cf7-83a6-31eb872993e9",
+	"Outputs": [
+		{
+			"Address": "0xff08f7f928ede282a870c83b81adb6cec1cab301",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x55c08ca52497e2f1534b59e2917bf524d4765257",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "UwU-USDC (1.00%)",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x0ab283eff757869304a2cd69e75118489f29799c",
+	"Symbol": "BOLT-WETH",
+	"UnderlyingTokens": [
+		"0x3e9d29e1cd7b86b82df01b1f5225e0f6a99ba84e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d8ef9fe2-cf4f-4e2d-ac6b-405970df3e61",
+	"Chain": "ethereum"
+}

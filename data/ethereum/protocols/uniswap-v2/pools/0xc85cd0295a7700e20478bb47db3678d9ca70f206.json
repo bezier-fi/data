@@ -1,0 +1,27 @@
+{
+	"Id": "0xc85cd0295a7700e20478bb47db3678d9ca70f206",
+	"Protocol": "d8ef9fe2-cf4f-4e2d-ac6b-405970df3e61",
+	"Outputs": [
+		{
+			"Address": "0xc85cd0295a7700e20478bb47db3678d9ca70f206",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc72d1f61e6acf91273b02e33dd9b0943abcd977a",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-MUZZ",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xdf8469f511516d4c370c7a11ef42a6b0e3b1f78b",
+	"Symbol": "FUUL-WETH",
+	"UnderlyingTokens": [
+		"0x6dafce6f37f64267b4544e365ec291b3aa741f96",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d8ef9fe2-cf4f-4e2d-ac6b-405970df3e61",
+	"Chain": "ethereum"
+}

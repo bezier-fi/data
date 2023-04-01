@@ -1,0 +1,10 @@
+{
+	"Id": "0x33f622baa7fbe5859f2cb95e6b4df4fe5e7249da",
+	"Symbol": "IGNORE-WETH",
+	"UnderlyingTokens": [
+		"0x8594913eb84ff0caaa3425e4772038c25c6956c6",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d8ef9fe2-cf4f-4e2d-ac6b-405970df3e61",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0xa69f66a9a87bdffca04fc6913e6025c1686cc8dd",
+	"Protocol": "d8ef9fe2-cf4f-4e2d-ac6b-405970df3e61",
+	"Outputs": [
+		{
+			"Address": "0xa69f66a9a87bdffca04fc6913e6025c1686cc8dd",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xbca3ffc9652b99f72bd357036a147356ffab9d49",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GigaBier-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xeb5da08e4ae8edd700e382acabc85000a975e13a",
+	"Symbol": "SICKKK-WETH",
+	"UnderlyingTokens": [
+		"0x0b14e9dc3a5c41f393a5860333818a4b33e0e36f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d8ef9fe2-cf4f-4e2d-ac6b-405970df3e61",
+	"Chain": "ethereum"
+}

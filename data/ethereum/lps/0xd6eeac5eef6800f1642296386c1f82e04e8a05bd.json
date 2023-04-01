@@ -1,0 +1,10 @@
+{
+	"Id": "0xd6eeac5eef6800f1642296386c1f82e04e8a05bd",
+	"Symbol": "ZK-EVM-WETH",
+	"UnderlyingTokens": [
+		"0xb3c0c042e6cc14c5b154796ca10443b965610e11",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d8ef9fe2-cf4f-4e2d-ac6b-405970df3e61",
+	"Chain": "ethereum"
+}

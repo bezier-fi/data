@@ -1,0 +1,27 @@
+{
+	"Id": "0x4eb19b39376445aafd4896f8a752542a6cc6ee7a",
+	"Protocol": "d8ef9fe2-cf4f-4e2d-ac6b-405970df3e61",
+	"Outputs": [
+		{
+			"Address": "0x4eb19b39376445aafd4896f8a752542a6cc6ee7a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3be65bd36c1ad28d33acc1c9dd8338a2706ca000",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Kairos-WETH",
+	"Chain": "ethereum"
+}

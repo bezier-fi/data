@@ -1,0 +1,10 @@
+{
+	"Id": "0xb211220b609c0a2bfc433df6f0f8ab65663612c6",
+	"Symbol": "SPOT-WETH",
+	"UnderlyingTokens": [
+		"0x9e5827c437023d4ef9a7ec3f458121ea19f338b0",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d8ef9fe2-cf4f-4e2d-ac6b-405970df3e61",
+	"Chain": "ethereum"
+}

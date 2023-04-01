@@ -1,0 +1,10 @@
+{
+	"Id": "0x01a663411342396c484424db90f3061aadd6c057",
+	"Symbol": "DOUGH-WETH",
+	"UnderlyingTokens": [
+		"0x153fb5673c9933fa2347b006dd64e00ac0821121",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d8ef9fe2-cf4f-4e2d-ac6b-405970df3e61",
+	"Chain": "ethereum"
+}

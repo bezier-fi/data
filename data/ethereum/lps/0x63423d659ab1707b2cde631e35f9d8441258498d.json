@@ -1,0 +1,10 @@
+{
+	"Id": "0x63423d659ab1707b2cde631e35f9d8441258498d",
+	"Symbol": "WETH-SPN",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc944a297dd88c967775f806489fdb58c2527f451"
+	],
+	"Protocol": "d8ef9fe2-cf4f-4e2d-ac6b-405970df3e61",
+	"Chain": "ethereum"
+}

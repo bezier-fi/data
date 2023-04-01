@@ -1,0 +1,10 @@
+{
+	"Id": "0x47304fe5a7797127895e5c066e57523ec250cc74",
+	"Symbol": "PLLP-WETH",
+	"UnderlyingTokens": [
+		"0x777f931939eb1402c82412a44a37fbe80ed55b6d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d8ef9fe2-cf4f-4e2d-ac6b-405970df3e61",
+	"Chain": "ethereum"
+}

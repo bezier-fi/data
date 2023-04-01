@@ -1,0 +1,10 @@
+{
+	"Id": "0xb62d5ef7b3f5dbd230577269e11224b49dd24cd6",
+	"Symbol": "IRONY-WETH",
+	"UnderlyingTokens": [
+		"0x09fb7b8985fc910795f59a64044a05cba1c7e875",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d8ef9fe2-cf4f-4e2d-ac6b-405970df3e61",
+	"Chain": "ethereum"
+}

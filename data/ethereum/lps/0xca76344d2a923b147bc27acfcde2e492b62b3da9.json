@@ -1,0 +1,10 @@
+{
+	"Id": "0xca76344d2a923b147bc27acfcde2e492b62b3da9",
+	"Symbol": "ICEM-WETH",
+	"UnderlyingTokens": [
+		"0x6e167c914a09fd97df6431c1241c2aa5afb4925f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d8ef9fe2-cf4f-4e2d-ac6b-405970df3e61",
+	"Chain": "ethereum"
+}

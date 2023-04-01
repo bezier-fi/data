@@ -1,0 +1,27 @@
+{
+	"Id": "0xfac118c999d6718717a5207980fee9496ff3c609",
+	"Protocol": "d8ef9fe2-cf4f-4e2d-ac6b-405970df3e61",
+	"Outputs": [
+		{
+			"Address": "0xfac118c999d6718717a5207980fee9496ff3c609",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9fac8e4ef27679640fb8cf69cb799961ba259c0f",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CMC-WETH",
+	"Chain": "ethereum"
+}

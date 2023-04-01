@@ -1,0 +1,10 @@
+{
+	"Id": "0x795e9b7db93354867c892f6b49bf5c8ac29d78a9",
+	"Symbol": "SOPHIA-WETH",
+	"UnderlyingTokens": [
+		"0x10508fd02af6a4b99775b4469e7fbe857513c2a7",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d8ef9fe2-cf4f-4e2d-ac6b-405970df3e61",
+	"Chain": "ethereum"
+}

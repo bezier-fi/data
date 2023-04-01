@@ -1,0 +1,10 @@
+{
+	"Id": "0xe534b2a3da4d61fffb39ce05b2b44c792e94170e",
+	"Symbol": "WETH-POTION",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd3a2303a08b77babe00f128bcf0a280033417f6a"
+	],
+	"Protocol": "d8ef9fe2-cf4f-4e2d-ac6b-405970df3e61",
+	"Chain": "ethereum"
+}

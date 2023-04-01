@@ -1,0 +1,10 @@
+{
+	"Id": "0xedc524c74354b8f18b870e671f582cbcf277c8b8",
+	"Symbol": "AFOOLS-WETH",
+	"UnderlyingTokens": [
+		"0x71f498d2d7ca2a93d2d43c394a46b349bcbd4816",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d8ef9fe2-cf4f-4e2d-ac6b-405970df3e61",
+	"Chain": "ethereum"
+}

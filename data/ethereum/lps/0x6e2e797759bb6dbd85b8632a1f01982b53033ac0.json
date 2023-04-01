@@ -1,0 +1,10 @@
+{
+	"Id": "0x6e2e797759bb6dbd85b8632a1f01982b53033ac0",
+	"Symbol": "TOPG-WETH",
+	"UnderlyingTokens": [
+		"0xb6cc4482e815e18be77b673746a9fccbe2a23039",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d8ef9fe2-cf4f-4e2d-ac6b-405970df3e61",
+	"Chain": "ethereum"
+}

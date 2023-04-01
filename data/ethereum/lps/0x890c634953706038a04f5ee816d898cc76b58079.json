@@ -1,0 +1,10 @@
+{
+	"Id": "0x890c634953706038a04f5ee816d898cc76b58079",
+	"Symbol": "ALGO-WETH",
+	"UnderlyingTokens": [
+		"0xbc6a08a8bb67e9b3231c6fb03c6d1956d651b03c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d8ef9fe2-cf4f-4e2d-ac6b-405970df3e61",
+	"Chain": "ethereum"
+}

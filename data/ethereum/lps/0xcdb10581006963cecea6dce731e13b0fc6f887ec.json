@@ -1,0 +1,10 @@
+{
+	"Id": "0xcdb10581006963cecea6dce731e13b0fc6f887ec",
+	"Symbol": "ITUBE-WETH",
+	"UnderlyingTokens": [
+		"0xb74795625537d6ae29350f7b6bec152e5ff34a0b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d8ef9fe2-cf4f-4e2d-ac6b-405970df3e61",
+	"Chain": "ethereum"
+}

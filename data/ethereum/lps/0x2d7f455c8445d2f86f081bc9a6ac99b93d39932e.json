@@ -1,0 +1,10 @@
+{
+	"Id": "0x2d7f455c8445d2f86f081bc9a6ac99b93d39932e",
+	"Symbol": "SAI -WETH",
+	"UnderlyingTokens": [
+		"0x338707b439cddd89302b5c3318c080287faf959e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d8ef9fe2-cf4f-4e2d-ac6b-405970df3e61",
+	"Chain": "ethereum"
+}

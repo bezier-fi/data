@@ -1,0 +1,27 @@
+{
+	"Id": "0x9b6748e667540b4d4f4c740e8bbcd876af243c78",
+	"Protocol": "ca452f0b-3921-44d3-b571-7e20035fc3c5",
+	"Outputs": [
+		{
+			"Address": "0x9b6748e667540b4d4f4c740e8bbcd876af243c78",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1bdd7c06bd28d6e43e13c425ec728750d35895d4",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SurimiDAO-WETH",
+	"Chain": "ethereum"
+}

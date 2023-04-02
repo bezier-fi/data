@@ -1,0 +1,27 @@
+{
+	"Id": "0x052425e0e4606ce22ad1c611853f0c4315056e32",
+	"Protocol": "ca452f0b-3921-44d3-b571-7e20035fc3c5",
+	"Outputs": [
+		{
+			"Address": "0x052425e0e4606ce22ad1c611853f0c4315056e32",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0662f3702e83fd059c3dbd42eba0f5a72e22eaf7",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "VBlock-WETH",
+	"Chain": "ethereum"
+}

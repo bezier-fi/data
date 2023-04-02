@@ -1,0 +1,27 @@
+{
+	"Id": "0x5214818d8082d91b14d5c7dc12bfd59c8660fc0f",
+	"Protocol": "ca452f0b-3921-44d3-b571-7e20035fc3c5",
+	"Outputs": [
+		{
+			"Address": "0x5214818d8082d91b14d5c7dc12bfd59c8660fc0f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2d3af9bcaeed77b97d992a17d2e9e9777c269dfd",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SUGAR-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x08c7418708c5d4f4ef3d8acc920a4d6bf50d2c0f",
+	"Protocol": "ca452f0b-3921-44d3-b571-7e20035fc3c5",
+	"Outputs": [
+		{
+			"Address": "0x08c7418708c5d4f4ef3d8acc920a4d6bf50d2c0f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x098344ddb018a20962c876d19ab7943e805ca8a5",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "OPTIGIRL-WETH",
+	"Chain": "ethereum"
+}

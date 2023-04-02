@@ -1,0 +1,27 @@
+{
+	"Id": "0x1585afaff56fc5672297454307afa4646d7c3e17",
+	"Protocol": "ca452f0b-3921-44d3-b571-7e20035fc3c5",
+	"Outputs": [
+		{
+			"Address": "0x1585afaff56fc5672297454307afa4646d7c3e17",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4af039be87bb6cb6d4fefdd656ce17faf20d6b3c",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GRACE-WETH",
+	"Chain": "ethereum"
+}

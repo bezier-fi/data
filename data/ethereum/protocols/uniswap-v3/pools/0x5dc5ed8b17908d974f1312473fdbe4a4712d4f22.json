@@ -1,0 +1,27 @@
+{
+	"Id": "0x5dc5ed8b17908d974f1312473fdbe4a4712d4f22",
+	"Protocol": "9f5b512e-4103-4d4a-a254-2ccc6f217453",
+	"Outputs": [
+		{
+			"Address": "0x5dc5ed8b17908d974f1312473fdbe4a4712d4f22",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9a2af0abb12bee5369b180976be01e8c80d0e7b6",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "EMPIRE-WETH (1.00%)",
+	"Chain": "ethereum"
+}

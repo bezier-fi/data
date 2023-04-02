@@ -1,0 +1,10 @@
+{
+	"Id": "0x173eb2bcfb693e6ac34e2dc222faa926ff4116e9",
+	"Symbol": "LarpNet-WETH",
+	"UnderlyingTokens": [
+		"0xbdf7d2be095bbd1eead98805e58be414d475eb42",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ca452f0b-3921-44d3-b571-7e20035fc3c5",
+	"Chain": "ethereum"
+}

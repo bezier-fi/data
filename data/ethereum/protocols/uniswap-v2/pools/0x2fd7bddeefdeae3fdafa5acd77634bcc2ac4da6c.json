@@ -1,0 +1,27 @@
+{
+	"Id": "0x2fd7bddeefdeae3fdafa5acd77634bcc2ac4da6c",
+	"Protocol": "5cdeaad3-7f03-4fa8-b879-78a1664e9cfa",
+	"Outputs": [
+		{
+			"Address": "0x2fd7bddeefdeae3fdafa5acd77634bcc2ac4da6c",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1f18ba2cbfc9e5da6f2989d20ad81b4710556030",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TRUCK-WETH",
+	"Chain": "ethereum"
+}

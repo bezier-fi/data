@@ -1,0 +1,10 @@
+{
+	"Id": "0x21bbb91b60ef99bd38d1202c927502ea08af0d00",
+	"Symbol": "cNotes-WETH",
+	"UnderlyingTokens": [
+		"0x148af0cada405380e8e3b2f694a6a7de848759b0",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "5cdeaad3-7f03-4fa8-b879-78a1664e9cfa",
+	"Chain": "ethereum"
+}

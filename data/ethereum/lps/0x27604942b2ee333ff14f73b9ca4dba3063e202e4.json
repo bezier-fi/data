@@ -1,0 +1,10 @@
+{
+	"Id": "0x27604942b2ee333ff14f73b9ca4dba3063e202e4",
+	"Symbol": "DragElon-WETH",
+	"UnderlyingTokens": [
+		"0xb969b41d1138b7b4b1f74e4eba32c570a825aa44",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "5cdeaad3-7f03-4fa8-b879-78a1664e9cfa",
+	"Chain": "ethereum"
+}

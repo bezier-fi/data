@@ -1,0 +1,10 @@
+{
+	"Id": "0x4d7c6722f37f6eb4d8a6303121bc77004f5b5f85",
+	"Symbol": "Peponzi-WETH",
+	"UnderlyingTokens": [
+		"0x8061a744622b0817db8b51f08340da47b3cf00fd",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "5cdeaad3-7f03-4fa8-b879-78a1664e9cfa",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x2068899bb9668e16d05e8eaa33fb697d89837af3",
+	"Symbol": "WETH-$SHIBOPT",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd0907f715f4ce229385a97a2edce0d20901f1fe8"
+	],
+	"Protocol": "5cdeaad3-7f03-4fa8-b879-78a1664e9cfa",
+	"Chain": "ethereum"
+}

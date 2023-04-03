@@ -1,0 +1,10 @@
+{
+	"Id": "0x7b04b9d1c0edfd65c357ed4b1f7b77d17110b935",
+	"Symbol": "VAGUE-WETH",
+	"UnderlyingTokens": [
+		"0x64acceb1d971861768397ecf8385d6ac168b389f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "5cdeaad3-7f03-4fa8-b879-78a1664e9cfa",
+	"Chain": "ethereum"
+}

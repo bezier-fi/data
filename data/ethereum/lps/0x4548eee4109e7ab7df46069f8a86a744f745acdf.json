@@ -1,0 +1,10 @@
+{
+	"Id": "0x4548eee4109e7ab7df46069f8a86a744f745acdf",
+	"Symbol": "CASSIE-WETH",
+	"UnderlyingTokens": [
+		"0x5cbfb09e7d94805e4bbca55be50a1e11443f9431",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "5cdeaad3-7f03-4fa8-b879-78a1664e9cfa",
+	"Chain": "ethereum"
+}

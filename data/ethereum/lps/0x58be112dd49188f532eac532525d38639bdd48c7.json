@@ -1,0 +1,10 @@
+{
+	"Id": "0x58be112dd49188f532eac532525d38639bdd48c7",
+	"Symbol": "FUELX-WETH",
+	"UnderlyingTokens": [
+		"0x8a5f5d2da92864a2df7a3b02ec8604143ca10c8b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "5cdeaad3-7f03-4fa8-b879-78a1664e9cfa",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x09d1df9ff2139e3d249c6a0ee3b62b5a4e3fd29f",
+	"Symbol": "WETH-BACKTO",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xdb5c26c6ebca55e2b38ea6ce2839117c35751a51"
+	],
+	"Protocol": "5cdeaad3-7f03-4fa8-b879-78a1664e9cfa",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0xf7806f9f271bc2dfc76352881bd2c6560ef6ee7c",
+	"Protocol": "72171210-ff91-41b3-809e-828237807845",
+	"Outputs": [
+		{
+			"Address": "0xf7806f9f271bc2dfc76352881bd2c6560ef6ee7c",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x5f5c86a9f8aaf63ce27b82fab3b33df73cbc3d12",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WBTC-SPARK (0.30%)",
+	"Chain": "ethereum"
+}

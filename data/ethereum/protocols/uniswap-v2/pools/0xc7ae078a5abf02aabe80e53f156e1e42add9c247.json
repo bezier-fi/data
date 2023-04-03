@@ -1,0 +1,27 @@
+{
+	"Id": "0xc7ae078a5abf02aabe80e53f156e1e42add9c247",
+	"Protocol": "5cdeaad3-7f03-4fa8-b879-78a1664e9cfa",
+	"Outputs": [
+		{
+			"Address": "0xc7ae078a5abf02aabe80e53f156e1e42add9c247",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3b85d81a7ddbf6b604d8403086df7f4fcccea62c",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DOJIMA-WETH",
+	"Chain": "ethereum"
+}

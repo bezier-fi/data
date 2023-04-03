@@ -1,0 +1,10 @@
+{
+	"Id": "0x917a54e08f1dce3fb84da892d4fc5185c30e51d2",
+	"Symbol": "WETH-TSUKI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe13ffa656948baff6a9f35d55b9b014070e42483"
+	],
+	"Protocol": "5cdeaad3-7f03-4fa8-b879-78a1664e9cfa",
+	"Chain": "ethereum"
+}

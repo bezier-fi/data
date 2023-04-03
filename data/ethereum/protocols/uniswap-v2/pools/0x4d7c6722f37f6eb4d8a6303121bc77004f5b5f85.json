@@ -1,0 +1,27 @@
+{
+	"Id": "0x4d7c6722f37f6eb4d8a6303121bc77004f5b5f85",
+	"Protocol": "5cdeaad3-7f03-4fa8-b879-78a1664e9cfa",
+	"Outputs": [
+		{
+			"Address": "0x4d7c6722f37f6eb4d8a6303121bc77004f5b5f85",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8061a744622b0817db8b51f08340da47b3cf00fd",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Peponzi-WETH",
+	"Chain": "ethereum"
+}

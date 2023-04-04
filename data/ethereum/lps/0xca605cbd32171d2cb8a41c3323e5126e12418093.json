@@ -1,0 +1,10 @@
+{
+	"Id": "0xca605cbd32171d2cb8a41c3323e5126e12418093",
+	"Symbol": "BESTAI-WETH",
+	"UnderlyingTokens": [
+		"0x271c035aa2f1f5f655b4349b617453003b5d88bb",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "be284225-217c-4e83-87c8-61c5ed78c591",
+	"Chain": "ethereum"
+}

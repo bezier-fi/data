@@ -1,0 +1,10 @@
+{
+	"Id": "0xf4139b7f292a957701ef3b0fead031f918457282",
+	"Symbol": "EPAD-WETH",
+	"UnderlyingTokens": [
+		"0x79052a5c82b8ede60f9fb393af7c692096a22586",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "be284225-217c-4e83-87c8-61c5ed78c591",
+	"Chain": "ethereum"
+}

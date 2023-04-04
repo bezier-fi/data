@@ -1,0 +1,10 @@
+{
+	"Id": "0xa98d11fd2f4d3faf2502dae0779d34eb68c1c50f",
+	"Symbol": "WETH-DOGGER",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xca439f89d65f2cab52f27159c6fe8ac0c2ce6618"
+	],
+	"Protocol": "be284225-217c-4e83-87c8-61c5ed78c591",
+	"Chain": "ethereum"
+}

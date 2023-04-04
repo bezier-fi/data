@@ -1,0 +1,23 @@
+{
+	"Id": "farm-0xd3994da532b369885f58f03f8591a2f09e7aa07d",
+	"Protocol": "ff520e9e-2f16-4261-833f-a26612fb5225",
+	"Outputs": [
+		{
+			"Address": "0xd3994da532b369885f58f03f8591a2f09e7aa07d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xd3994da532b369885f58f03f8591a2f09e7aa07d",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GBGS-VSO",
+	"Chain": "avalanche"
+}

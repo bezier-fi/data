@@ -1,0 +1,10 @@
+{
+	"Id": "0xcf6c6fbc6abe98e744cf860d28608fab3751d488",
+	"Symbol": "TENDON-WETH",
+	"UnderlyingTokens": [
+		"0x98682e633f1283919315a600ac1570901d5a59ec",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "be284225-217c-4e83-87c8-61c5ed78c591",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x0d1cf4a2fd48ff6c770349fff2954901f146eab9",
+	"Symbol": "FPIKA-WETH",
+	"UnderlyingTokens": [
+		"0x8713df72a3320b80b7cf76a77e2ba7698f3daf96",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "be284225-217c-4e83-87c8-61c5ed78c591",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x443fe20fe462bb4f9328019a0ccd2bd72e9d10dc",
+	"Protocol": "be284225-217c-4e83-87c8-61c5ed78c591",
+	"Outputs": [
+		{
+			"Address": "0x443fe20fe462bb4f9328019a0ccd2bd72e9d10dc",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x07666cc8f397cdce5972c486f72d0ee0564ce2ab",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "STORMY-WETH",
+	"Chain": "ethereum"
+}

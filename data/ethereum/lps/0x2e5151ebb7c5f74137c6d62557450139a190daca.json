@@ -1,0 +1,10 @@
+{
+	"Id": "0x2e5151ebb7c5f74137c6d62557450139a190daca",
+	"Symbol": "LEVX-WETH",
+	"UnderlyingTokens": [
+		"0x86f0cdb38a853420be4dbf6a3a9a3fe0756bc701",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "be284225-217c-4e83-87c8-61c5ed78c591",
+	"Chain": "ethereum"
+}

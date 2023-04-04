@@ -1,0 +1,27 @@
+{
+	"Id": "0x7364634e4efbf42d24841b675da6a738cd4aa0e5",
+	"Protocol": "be284225-217c-4e83-87c8-61c5ed78c591",
+	"Outputs": [
+		{
+			"Address": "0x7364634e4efbf42d24841b675da6a738cd4aa0e5",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6ea2d4c33165ba36f1493fd730d8c37a00c32b08",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MetamorphosisAI-WETH",
+	"Chain": "ethereum"
+}

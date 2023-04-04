@@ -1,0 +1,10 @@
+{
+	"Id": "0xf69c002b568fa6439e55fe756706b78a6cdff79d",
+	"Symbol": "yShori-WETH",
+	"UnderlyingTokens": [
+		"0x25644ea5be09d1266b5df3f96559ecdc2d0ad69b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "be284225-217c-4e83-87c8-61c5ed78c591",
+	"Chain": "ethereum"
+}

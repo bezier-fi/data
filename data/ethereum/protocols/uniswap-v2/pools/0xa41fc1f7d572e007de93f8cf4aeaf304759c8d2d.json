@@ -1,0 +1,27 @@
+{
+	"Id": "0xa41fc1f7d572e007de93f8cf4aeaf304759c8d2d",
+	"Protocol": "be284225-217c-4e83-87c8-61c5ed78c591",
+	"Outputs": [
+		{
+			"Address": "0xa41fc1f7d572e007de93f8cf4aeaf304759c8d2d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa337346ede306543ad3e80b75f295d8f9663e756",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "AIBO-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xa808d1cad7e8bc42dd9ce94f91db547a0632da4b",
+	"Symbol": "Shobbes-WETH",
+	"UnderlyingTokens": [
+		"0x7aab6e9d2ec499430b9efb1643842d52d75ddc60",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "be284225-217c-4e83-87c8-61c5ed78c591",
+	"Chain": "ethereum"
+}

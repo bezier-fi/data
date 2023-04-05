@@ -1,0 +1,10 @@
+{
+	"Id": "0x368a9be6b44587fac7520c6ad5e74aa9f413e6c5",
+	"Symbol": "WETH-DOGEZONE",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe839389882b2eb8baee6041d465edb1cb932cab8"
+	],
+	"Protocol": "b6b6e1ce-b05a-4599-bc42-e29eda189981",
+	"Chain": "ethereum"
+}

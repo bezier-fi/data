@@ -1,0 +1,10 @@
+{
+	"Id": "0x1ab0d92ea4e058393f4e2d817f4fffbc0b24cfe3",
+	"Symbol": "ELIPAD-WETH",
+	"UnderlyingTokens": [
+		"0x48fe24b13256159da42828c8de472e9c1e8b8bf8",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b6b6e1ce-b05a-4599-bc42-e29eda189981",
+	"Chain": "ethereum"
+}

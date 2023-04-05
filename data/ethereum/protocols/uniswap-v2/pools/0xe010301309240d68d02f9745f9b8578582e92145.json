@@ -1,0 +1,27 @@
+{
+	"Id": "0xe010301309240d68d02f9745f9b8578582e92145",
+	"Protocol": "b6b6e1ce-b05a-4599-bc42-e29eda189981",
+	"Outputs": [
+		{
+			"Address": "0xe010301309240d68d02f9745f9b8578582e92145",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x97e01b42703d96363d8bbba05a9c0e00b6f11ff4",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MARIO-WETH",
+	"Chain": "ethereum"
+}

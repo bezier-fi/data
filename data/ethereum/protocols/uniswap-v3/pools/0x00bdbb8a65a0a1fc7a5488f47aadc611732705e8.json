@@ -1,0 +1,27 @@
+{
+	"Id": "0x00bdbb8a65a0a1fc7a5488f47aadc611732705e8",
+	"Protocol": "cfb7b9f8-0fb3-4127-beed-c6f3999f2323",
+	"Outputs": [
+		{
+			"Address": "0x00bdbb8a65a0a1fc7a5488f47aadc611732705e8",
+			"Apr": 56.500275,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x569424c5ee13884a193773fdc5d1c5f79c443a51",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PINE-WETH (1.00%)",
+	"Chain": "ethereum"
+}

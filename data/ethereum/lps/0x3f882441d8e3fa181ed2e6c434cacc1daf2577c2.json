@@ -1,0 +1,10 @@
+{
+	"Id": "0x3f882441d8e3fa181ed2e6c434cacc1daf2577c2",
+	"Symbol": "WETH-ZENU",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xdb1e2c26422c643ebc00852b6a57aef1497a68a7"
+	],
+	"Protocol": "b6b6e1ce-b05a-4599-bc42-e29eda189981",
+	"Chain": "ethereum"
+}

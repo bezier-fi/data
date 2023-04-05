@@ -1,0 +1,27 @@
+{
+	"Id": "0xc311faebe8802f9cfc91284016d1de9537ec66b7",
+	"Protocol": "cfb7b9f8-0fb3-4127-beed-c6f3999f2323",
+	"Outputs": [
+		{
+			"Address": "0xc311faebe8802f9cfc91284016d1de9537ec66b7",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4da34f8264cb33a5c9f17081b9ef5ff6091116f4",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ELFI-WETH (0.30%)",
+	"Chain": "ethereum"
+}

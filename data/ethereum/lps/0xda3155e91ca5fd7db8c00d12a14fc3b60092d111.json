@@ -1,0 +1,10 @@
+{
+	"Id": "0xda3155e91ca5fd7db8c00d12a14fc3b60092d111",
+	"Symbol": "JUDY-WETH",
+	"UnderlyingTokens": [
+		"0x37d640b7eff34400637199084f7fc926f866f0d4",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b6b6e1ce-b05a-4599-bc42-e29eda189981",
+	"Chain": "ethereum"
+}

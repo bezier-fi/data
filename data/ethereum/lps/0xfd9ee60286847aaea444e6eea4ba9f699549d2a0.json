@@ -1,0 +1,10 @@
+{
+	"Id": "0xfd9ee60286847aaea444e6eea4ba9f699549d2a0",
+	"Symbol": "GGO-WETH",
+	"UnderlyingTokens": [
+		"0x39b7e6c83cbbeb52df17f0bfe7f5f9013e05fe3b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b6b6e1ce-b05a-4599-bc42-e29eda189981",
+	"Chain": "ethereum"
+}

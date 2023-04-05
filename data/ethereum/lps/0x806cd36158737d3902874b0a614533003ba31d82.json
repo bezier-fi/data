@@ -1,0 +1,10 @@
+{
+	"Id": "0x806cd36158737d3902874b0a614533003ba31d82",
+	"Symbol": "WETH-VOV",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf2104a4747a6b2ad14866753f336e02ab96346e4"
+	],
+	"Protocol": "b6b6e1ce-b05a-4599-bc42-e29eda189981",
+	"Chain": "ethereum"
+}

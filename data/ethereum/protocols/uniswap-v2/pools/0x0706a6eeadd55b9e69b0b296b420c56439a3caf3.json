@@ -1,0 +1,27 @@
+{
+	"Id": "0x0706a6eeadd55b9e69b0b296b420c56439a3caf3",
+	"Protocol": "b6b6e1ce-b05a-4599-bc42-e29eda189981",
+	"Outputs": [
+		{
+			"Address": "0x0706a6eeadd55b9e69b0b296b420c56439a3caf3",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x298e3b8f77558e83a4a161a5b321ba62e050db24",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "$VULPI-WETH",
+	"Chain": "ethereum"
+}

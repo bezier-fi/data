@@ -1,0 +1,10 @@
+{
+	"Id": "0x4fc99d48c068e955db23d48b12d8c0585911a6da",
+	"Symbol": "DogeOG-WETH",
+	"UnderlyingTokens": [
+		"0x451cb763ec7cf98cf1fec73ba00e713cf86b70a3",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b6b6e1ce-b05a-4599-bc42-e29eda189981",
+	"Chain": "ethereum"
+}

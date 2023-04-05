@@ -1,0 +1,10 @@
+{
+	"Id": "0xc818bac13c4d48eb5ba6e329ad9b86d523023690",
+	"Symbol": "SPECTRAL-WETH",
+	"UnderlyingTokens": [
+		"0x39d2a0b0237512aadf3491e43eecd53a6c08a189",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b6b6e1ce-b05a-4599-bc42-e29eda189981",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x5cb9f06a68dd51b50f02f52f7852b03d5960e221",
+	"Symbol": "GRAIL-WETH",
+	"UnderlyingTokens": [
+		"0xa332f9047b9703cfa1aba96156796f658d37c079",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b6b6e1ce-b05a-4599-bc42-e29eda189981",
+	"Chain": "ethereum"
+}

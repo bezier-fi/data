@@ -1,0 +1,10 @@
+{
+	"Id": "0xf8a5bd9141822c2e44de8dc5829521b8344cd68f",
+	"Symbol": "SHILL-WETH",
+	"UnderlyingTokens": [
+		"0x299360b5d919f4c376902a5c37c34ccd6f9efc66",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b6b6e1ce-b05a-4599-bc42-e29eda189981",
+	"Chain": "ethereum"
+}

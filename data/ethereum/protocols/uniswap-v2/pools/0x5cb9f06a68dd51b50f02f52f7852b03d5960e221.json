@@ -1,0 +1,27 @@
+{
+	"Id": "0x5cb9f06a68dd51b50f02f52f7852b03d5960e221",
+	"Protocol": "b6b6e1ce-b05a-4599-bc42-e29eda189981",
+	"Outputs": [
+		{
+			"Address": "0x5cb9f06a68dd51b50f02f52f7852b03d5960e221",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa332f9047b9703cfa1aba96156796f658d37c079",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GRAIL-WETH",
+	"Chain": "ethereum"
+}

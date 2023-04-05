@@ -1,0 +1,10 @@
+{
+	"Id": "0xc2c8654280ea72302d957b340de4bb73f601e603",
+	"Symbol": "XCOM-WETH",
+	"UnderlyingTokens": [
+		"0x29d6f4a8522fe20fc81fe126203b26b98ada9df7",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b6b6e1ce-b05a-4599-bc42-e29eda189981",
+	"Chain": "ethereum"
+}

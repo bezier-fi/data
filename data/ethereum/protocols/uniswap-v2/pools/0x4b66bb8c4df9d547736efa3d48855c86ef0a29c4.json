@@ -1,0 +1,27 @@
+{
+	"Id": "0x4b66bb8c4df9d547736efa3d48855c86ef0a29c4",
+	"Protocol": "b6b6e1ce-b05a-4599-bc42-e29eda189981",
+	"Outputs": [
+		{
+			"Address": "0x4b66bb8c4df9d547736efa3d48855c86ef0a29c4",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1339159dab3cce180b99b2f1df8aa7593769a6fc",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "EggsDAO-WETH",
+	"Chain": "ethereum"
+}

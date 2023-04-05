@@ -1,0 +1,10 @@
+{
+	"Id": "0x9b0d1cea70f9ec4848ef2ec5c098ba7d7e5f90dd",
+	"Symbol": "DOGEFLOKI-WETH",
+	"UnderlyingTokens": [
+		"0x25ccfd91d6885191dfffce83a8dc0bdf750217d1",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b6b6e1ce-b05a-4599-bc42-e29eda189981",
+	"Chain": "ethereum"
+}

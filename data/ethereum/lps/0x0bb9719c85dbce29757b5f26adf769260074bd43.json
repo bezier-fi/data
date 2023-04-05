@@ -1,0 +1,10 @@
+{
+	"Id": "0x0bb9719c85dbce29757b5f26adf769260074bd43",
+	"Symbol": "KONAMI-WETH",
+	"UnderlyingTokens": [
+		"0x2e1f07d5f5495d21571a7cdf2256b2e9fad481d4",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b6b6e1ce-b05a-4599-bc42-e29eda189981",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xdc142ea4ee96fc456a3ed89809242d5d38e443cf",
+	"Symbol": "SNET -WETH",
+	"UnderlyingTokens": [
+		"0xaaa7023452c2cb7da98ee653f71ac09c396b9fde",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b6b6e1ce-b05a-4599-bc42-e29eda189981",
+	"Chain": "ethereum"
+}

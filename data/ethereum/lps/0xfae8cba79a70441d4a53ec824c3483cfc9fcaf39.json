@@ -1,0 +1,10 @@
+{
+	"Id": "0xfae8cba79a70441d4a53ec824c3483cfc9fcaf39",
+	"Symbol": "H100S-WETH",
+	"UnderlyingTokens": [
+		"0x95171374b7d8fccd54aa0efb1985668eacb5344a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b6b6e1ce-b05a-4599-bc42-e29eda189981",
+	"Chain": "ethereum"
+}

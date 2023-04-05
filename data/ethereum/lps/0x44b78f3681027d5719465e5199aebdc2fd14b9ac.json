@@ -1,0 +1,10 @@
+{
+	"Id": "0x44b78f3681027d5719465e5199aebdc2fd14b9ac",
+	"Symbol": "WETH-QMARQ",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfc9246f2593d82e11febbdecbabdf7322f64b8f5"
+	],
+	"Protocol": "b6b6e1ce-b05a-4599-bc42-e29eda189981",
+	"Chain": "ethereum"
+}

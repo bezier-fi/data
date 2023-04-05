@@ -1,0 +1,10 @@
+{
+	"Id": "0x45683fa7d35976bb0441e18fa58a92c1bf2cbb6b",
+	"Symbol": "ALICE-WETH",
+	"UnderlyingTokens": [
+		"0x2aab4f5f50703d0a27393f0dd0b67a90df0d26f8",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b6b6e1ce-b05a-4599-bc42-e29eda189981",
+	"Chain": "ethereum"
+}

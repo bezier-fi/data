@@ -1,0 +1,27 @@
+{
+	"Id": "0xf22609776807d173adb0f97b4315d1e1401f7b5c",
+	"Protocol": "253a8d25-72a6-4fa4-80fe-ab0db1dcfd0a",
+	"Outputs": [
+		{
+			"Address": "0xf22609776807d173adb0f97b4315d1e1401f7b5c",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x64d84dd193d8ae4be3741519e437230433d25092",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "$BUBBLE-WETH",
+	"Chain": "ethereum"
+}

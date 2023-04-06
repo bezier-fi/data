@@ -1,0 +1,10 @@
+{
+	"Id": "0x5eac6708b83344f9023e808c1652e4cd1297cbc6",
+	"Symbol": "AURAI-WETH",
+	"UnderlyingTokens": [
+		"0x8417320b529064476132168365ca33c3251be1ec",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "253a8d25-72a6-4fa4-80fe-ab0db1dcfd0a",
+	"Chain": "ethereum"
+}

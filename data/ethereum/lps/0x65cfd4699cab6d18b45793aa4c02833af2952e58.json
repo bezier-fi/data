@@ -1,0 +1,10 @@
+{
+	"Id": "0x65cfd4699cab6d18b45793aa4c02833af2952e58",
+	"Symbol": "WETH-CONI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfdf2e870c96a6a96db4ba6e7cbde37708411a5ff"
+	],
+	"Protocol": "253a8d25-72a6-4fa4-80fe-ab0db1dcfd0a",
+	"Chain": "ethereum"
+}

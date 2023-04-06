@@ -1,0 +1,27 @@
+{
+	"Id": "0xb576585dc89b0f9d03160df0ebaa324cd78b05d7",
+	"Protocol": "253a8d25-72a6-4fa4-80fe-ab0db1dcfd0a",
+	"Outputs": [
+		{
+			"Address": "0xb576585dc89b0f9d03160df0ebaa324cd78b05d7",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5fddea98b02a018a23f69e7359e202bee74ce47c",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TAIKO-WETH",
+	"Chain": "ethereum"
+}

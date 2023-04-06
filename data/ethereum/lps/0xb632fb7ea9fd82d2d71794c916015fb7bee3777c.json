@@ -1,0 +1,10 @@
+{
+	"Id": "0xb632fb7ea9fd82d2d71794c916015fb7bee3777c",
+	"Symbol": "chBTC-WETH",
+	"UnderlyingTokens": [
+		"0x783aee1f44a0da4a5827c727269b62eef116d311",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "253a8d25-72a6-4fa4-80fe-ab0db1dcfd0a",
+	"Chain": "ethereum"
+}

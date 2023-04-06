@@ -1,0 +1,10 @@
+{
+	"Id": "0x5ccaccc8259c059c078a32e662191b22a73d4dcc",
+	"Symbol": "WETH-R5",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc9be142e032f694f534dadde21e8690ff491797b"
+	],
+	"Protocol": "253a8d25-72a6-4fa4-80fe-ab0db1dcfd0a",
+	"Chain": "ethereum"
+}

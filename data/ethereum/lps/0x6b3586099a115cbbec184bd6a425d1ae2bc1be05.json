@@ -1,0 +1,10 @@
+{
+	"Id": "0x6b3586099a115cbbec184bd6a425d1ae2bc1be05",
+	"Symbol": "Unity-WETH",
+	"UnderlyingTokens": [
+		"0x193bd53c11af69fcb6f6cc531a3dbdd7f74342b3",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "253a8d25-72a6-4fa4-80fe-ab0db1dcfd0a",
+	"Chain": "ethereum"
+}

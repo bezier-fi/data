@@ -1,0 +1,10 @@
+{
+	"Id": "0x77f1786284215f5ac24f14198092ef341ad7d5c6",
+	"Symbol": "NFDAO-WETH",
+	"UnderlyingTokens": [
+		"0x66f1bc1245e8bdd7e28b9e2209bddb96db782cd6",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "253a8d25-72a6-4fa4-80fe-ab0db1dcfd0a",
+	"Chain": "ethereum"
+}

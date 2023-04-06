@@ -1,0 +1,10 @@
+{
+	"Id": "0x790e7711fe1b57462b06785a7329932f68c84b23",
+	"Symbol": "WETH-TRON",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe6db9255c292b9181c5e5d285d4e134ff289c0aa"
+	],
+	"Protocol": "253a8d25-72a6-4fa4-80fe-ab0db1dcfd0a",
+	"Chain": "ethereum"
+}

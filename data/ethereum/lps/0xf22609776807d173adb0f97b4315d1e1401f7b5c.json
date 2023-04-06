@@ -1,0 +1,10 @@
+{
+	"Id": "0xf22609776807d173adb0f97b4315d1e1401f7b5c",
+	"Symbol": "$BUBBLE-WETH",
+	"UnderlyingTokens": [
+		"0x64d84dd193d8ae4be3741519e437230433d25092",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "253a8d25-72a6-4fa4-80fe-ab0db1dcfd0a",
+	"Chain": "ethereum"
+}

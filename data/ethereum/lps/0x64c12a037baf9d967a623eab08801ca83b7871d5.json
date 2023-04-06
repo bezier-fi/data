@@ -1,0 +1,10 @@
+{
+	"Id": "0x64c12a037baf9d967a623eab08801ca83b7871d5",
+	"Symbol": "MHAI-WETH",
+	"UnderlyingTokens": [
+		"0x9793843fd44849b171a8c5cd0ee2a1725fca85e0",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "253a8d25-72a6-4fa4-80fe-ab0db1dcfd0a",
+	"Chain": "ethereum"
+}

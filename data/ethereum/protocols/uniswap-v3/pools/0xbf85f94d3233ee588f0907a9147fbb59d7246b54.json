@@ -1,0 +1,27 @@
+{
+	"Id": "0xbf85f94d3233ee588f0907a9147fbb59d7246b54",
+	"Protocol": "f95a556b-ba27-4fb4-9d0a-7d059211f79b",
+	"Outputs": [
+		{
+			"Address": "0xbf85f94d3233ee588f0907a9147fbb59d7246b54",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa0ef786bf476fe0810408caba05e536ac800ff86",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MYRIA-WETH (0.30%)",
+	"Chain": "ethereum"
+}

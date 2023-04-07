@@ -1,0 +1,10 @@
+{
+	"Id": "0x69f8731fb38fd1e8bd8b9f2b465cee2d218be617",
+	"Symbol": "SJI-WETH",
+	"UnderlyingTokens": [
+		"0x8646e185a388f42fbf0087cd75d6e1f95084d08b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "6f596a37-7869-4e63-8f29-08e14b22074a",
+	"Chain": "ethereum"
+}

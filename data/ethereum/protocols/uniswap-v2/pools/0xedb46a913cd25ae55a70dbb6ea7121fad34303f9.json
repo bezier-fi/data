@@ -1,0 +1,27 @@
+{
+	"Id": "0xedb46a913cd25ae55a70dbb6ea7121fad34303f9",
+	"Protocol": "6f596a37-7869-4e63-8f29-08e14b22074a",
+	"Outputs": [
+		{
+			"Address": "0xedb46a913cd25ae55a70dbb6ea7121fad34303f9",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4f0724bced47fbd1fd4aeed71979f8dbb2a81372",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "AZTEC-WETH",
+	"Chain": "ethereum"
+}

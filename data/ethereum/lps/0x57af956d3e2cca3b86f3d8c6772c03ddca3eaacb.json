@@ -1,0 +1,10 @@
+{
+	"Id": "0x57af956d3e2cca3b86f3d8c6772c03ddca3eaacb",
+	"Symbol": "PENDLE-WETH (0.30%)",
+	"UnderlyingTokens": [
+		"0x808507121b80c02388fad14726482e061b8da827",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f95a556b-ba27-4fb4-9d0a-7d059211f79b",
+	"Chain": "ethereum"
+}

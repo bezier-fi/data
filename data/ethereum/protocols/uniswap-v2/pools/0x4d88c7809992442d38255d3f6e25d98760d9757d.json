@@ -1,0 +1,27 @@
+{
+	"Id": "0x4d88c7809992442d38255d3f6e25d98760d9757d",
+	"Protocol": "6f596a37-7869-4e63-8f29-08e14b22074a",
+	"Outputs": [
+		{
+			"Address": "0x4d88c7809992442d38255d3f6e25d98760d9757d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x561fe72bf06fef95d18830e142d44a63bfc27639",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "AURALON-WETH",
+	"Chain": "ethereum"
+}

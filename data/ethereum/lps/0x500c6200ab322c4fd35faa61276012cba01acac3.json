@@ -1,0 +1,10 @@
+{
+	"Id": "0x500c6200ab322c4fd35faa61276012cba01acac3",
+	"Symbol": "Tesla MasterPlan-WETH",
+	"UnderlyingTokens": [
+		"0xa5fed94ab4e6d3c36e61727e08772fe90f02789b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "6f596a37-7869-4e63-8f29-08e14b22074a",
+	"Chain": "ethereum"
+}

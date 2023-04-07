@@ -1,0 +1,10 @@
+{
+	"Id": "0xce1f0626083a00eaef1d85dd2979abb5b1c3657c",
+	"Symbol": "XLON-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x36ff4dae0e88113d68b1209e245b0e3af92e9d58",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f95a556b-ba27-4fb4-9d0a-7d059211f79b",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0xdee582d15ece3dd88a62d205e552914e0fc133fa",
+	"Protocol": "f95a556b-ba27-4fb4-9d0a-7d059211f79b",
+	"Outputs": [
+		{
+			"Address": "0xdee582d15ece3dd88a62d205e552914e0fc133fa",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xa444ec96ee01bb219a44b285de47bf33c3447ad5",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC-LEOX (1.00%)",
+	"Chain": "ethereum"
+}

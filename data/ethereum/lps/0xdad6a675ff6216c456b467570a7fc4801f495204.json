@@ -1,0 +1,10 @@
+{
+	"Id": "0xdad6a675ff6216c456b467570a7fc4801f495204",
+	"Symbol": "LEET-WETH",
+	"UnderlyingTokens": [
+		"0x6758647a4cd6b4225b922b456be5c05359012032",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "6f596a37-7869-4e63-8f29-08e14b22074a",
+	"Chain": "ethereum"
+}

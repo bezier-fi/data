@@ -1,0 +1,10 @@
+{
+	"Id": "0x4d88c7809992442d38255d3f6e25d98760d9757d",
+	"Symbol": "AURALON-WETH",
+	"UnderlyingTokens": [
+		"0x561fe72bf06fef95d18830e142d44a63bfc27639",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "6f596a37-7869-4e63-8f29-08e14b22074a",
+	"Chain": "ethereum"
+}

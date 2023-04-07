@@ -1,0 +1,10 @@
+{
+	"Id": "0xa59d03eaad71083ecacfa949019da64d61854dcb",
+	"Symbol": "DOGU-WETH",
+	"UnderlyingTokens": [
+		"0x4085ac6a33d2d7663486795da83b99ecba9be1bd",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "6f596a37-7869-4e63-8f29-08e14b22074a",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x44563ac4d6bc5129e843aa85323c23ab0f1362b4",
+	"Symbol": "PRIEST-WETH",
+	"UnderlyingTokens": [
+		"0x445e721ef03156d1130bc57659c28d8ef9e3f97a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "6f596a37-7869-4e63-8f29-08e14b22074a",
+	"Chain": "ethereum"
+}

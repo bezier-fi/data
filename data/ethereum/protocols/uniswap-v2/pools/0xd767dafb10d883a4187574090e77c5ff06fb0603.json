@@ -1,0 +1,27 @@
+{
+	"Id": "0xd767dafb10d883a4187574090e77c5ff06fb0603",
+	"Protocol": "6f596a37-7869-4e63-8f29-08e14b22074a",
+	"Outputs": [
+		{
+			"Address": "0xd767dafb10d883a4187574090e77c5ff06fb0603",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2c623d3cc9a2cc158951b8093cb94e80cf56deea",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "NEX-WETH",
+	"Chain": "ethereum"
+}

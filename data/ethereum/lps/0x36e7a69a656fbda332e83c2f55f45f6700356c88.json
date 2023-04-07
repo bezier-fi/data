@@ -1,0 +1,10 @@
+{
+	"Id": "0x36e7a69a656fbda332e83c2f55f45f6700356c88",
+	"Symbol": "SNI-WETH",
+	"UnderlyingTokens": [
+		"0x0b1b44a2d358837460c09a3c87349d8be1ab1ea3",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "6f596a37-7869-4e63-8f29-08e14b22074a",
+	"Chain": "ethereum"
+}

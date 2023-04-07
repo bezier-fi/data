@@ -1,0 +1,10 @@
+{
+	"Id": "0x1026e69d63bb6403effb363a840bd3452467ef60",
+	"Symbol": "zkSync-WETH",
+	"UnderlyingTokens": [
+		"0x9bb93e76d45823ab845b922fa58b9d28e287c962",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "6f596a37-7869-4e63-8f29-08e14b22074a",
+	"Chain": "ethereum"
+}

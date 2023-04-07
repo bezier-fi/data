@@ -1,0 +1,27 @@
+{
+	"Id": "0x80c76ce1288fe0439c78a0883f135a9d6379513a",
+	"Protocol": "6f596a37-7869-4e63-8f29-08e14b22074a",
+	"Outputs": [
+		{
+			"Address": "0x80c76ce1288fe0439c78a0883f135a9d6379513a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xf2bef7e1b325e734141126e28bbaa10892976cd5",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-SWIRL",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x57af956d3e2cca3b86f3d8c6772c03ddca3eaacb",
+	"Protocol": "f95a556b-ba27-4fb4-9d0a-7d059211f79b",
+	"Outputs": [
+		{
+			"Address": "0x57af956d3e2cca3b86f3d8c6772c03ddca3eaacb",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x808507121b80c02388fad14726482e061b8da827",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PENDLE-WETH (0.30%)",
+	"Chain": "ethereum"
+}

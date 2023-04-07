@@ -1,0 +1,10 @@
+{
+	"Id": "0x3a67cf946742f93eb6cf9e5d7204f876025e4d50",
+	"Symbol": "SKUNK-WETH",
+	"UnderlyingTokens": [
+		"0x4992c9c8c905711ed204c9b021fd2a3ee438746d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "6f596a37-7869-4e63-8f29-08e14b22074a",
+	"Chain": "ethereum"
+}

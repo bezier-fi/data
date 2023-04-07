@@ -1,0 +1,27 @@
+{
+	"Id": "0xf3e996148839df04153c70865cff12559fd3fad1",
+	"Protocol": "f95a556b-ba27-4fb4-9d0a-7d059211f79b",
+	"Outputs": [
+		{
+			"Address": "0xf3e996148839df04153c70865cff12559fd3fad1",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x375abb85c329753b1ba849a601438ae77eec9893",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xb23d80f5fefcddaa212212f028021b41ded428cf",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PDT-PRIME (1.00%)",
+	"Chain": "ethereum"
+}

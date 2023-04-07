@@ -1,35 +1,15 @@
 [
 	{
-		"Id": "0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a0xd05e3e715d945b59290df0ae8ef85c1bdb684744",
-		"Symbol": "SUSHI"
-	},
-	{
-		"Id": "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd60xd05e3e715d945b59290df0ae8ef85c1bdb684744",
-		"Symbol": "WBTC"
-	},
-	{
 		"Id": "0x2791bca1f2de4661ed88a30c99a7a9449aa841740xd05e3e715d945b59290df0ae8ef85c1bdb684744",
 		"Symbol": "USDC"
 	},
 	{
-		"Id": "0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a70xd05e3e715d945b59290df0ae8ef85c1bdb684744",
-		"Symbol": "GHST"
-	},
-	{
-		"Id": "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad390xd05e3e715d945b59290df0ae8ef85c1bdb684744",
-		"Symbol": "LINK"
+		"Id": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f6190xd05e3e715d945b59290df0ae8ef85c1bdb684744",
+		"Symbol": "WETH"
 	},
 	{
 		"Id": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a0630xd05e3e715d945b59290df0ae8ef85c1bdb684744",
 		"Symbol": "DAI"
-	},
-	{
-		"Id": "0x9a71012b13ca4d3d0cdc72a177df3ef03b0e76a30xd05e3e715d945b59290df0ae8ef85c1bdb684744",
-		"Symbol": "BAL"
-	},
-	{
-		"Id": "0xd6df932a45c0f255f85145f286ea0b292b21c90b0xd05e3e715d945b59290df0ae8ef85c1bdb684744",
-		"Symbol": "AAVE"
 	},
 	{
 		"Id": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf12700xd05e3e715d945b59290df0ae8ef85c1bdb684744",
@@ -40,15 +20,35 @@
 		"Symbol": "CRV"
 	},
 	{
-		"Id": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f6190xd05e3e715d945b59290df0ae8ef85c1bdb684744",
-		"Symbol": "WETH"
+		"Id": "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd60xd05e3e715d945b59290df0ae8ef85c1bdb684744",
+		"Symbol": "WBTC"
 	},
 	{
 		"Id": "0x85955046df4668e1dd369d2de9f3aeb98dd2a3690xd05e3e715d945b59290df0ae8ef85c1bdb684744",
 		"Symbol": "DPI"
 	},
 	{
+		"Id": "0x9a71012b13ca4d3d0cdc72a177df3ef03b0e76a30xd05e3e715d945b59290df0ae8ef85c1bdb684744",
+		"Symbol": "BAL"
+	},
+	{
 		"Id": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f0xd05e3e715d945b59290df0ae8ef85c1bdb684744",
 		"Symbol": "USDT"
+	},
+	{
+		"Id": "0xd6df932a45c0f255f85145f286ea0b292b21c90b0xd05e3e715d945b59290df0ae8ef85c1bdb684744",
+		"Symbol": "AAVE"
+	},
+	{
+		"Id": "0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a0xd05e3e715d945b59290df0ae8ef85c1bdb684744",
+		"Symbol": "SUSHI"
+	},
+	{
+		"Id": "0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a70xd05e3e715d945b59290df0ae8ef85c1bdb684744",
+		"Symbol": "GHST"
+	},
+	{
+		"Id": "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad390xd05e3e715d945b59290df0ae8ef85c1bdb684744",
+		"Symbol": "LINK"
 	}
 ]

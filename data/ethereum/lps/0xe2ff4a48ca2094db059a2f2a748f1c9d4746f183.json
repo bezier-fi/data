@@ -1,0 +1,10 @@
+{
+	"Id": "0xe2ff4a48ca2094db059a2f2a748f1c9d4746f183",
+	"Symbol": "APPLES-WETH",
+	"UnderlyingTokens": [
+		"0x9245f85a8a35c419489e2690294014f6a9b81c68",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "6f596a37-7869-4e63-8f29-08e14b22074a",
+	"Chain": "ethereum"
+}

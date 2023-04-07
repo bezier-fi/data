@@ -1,0 +1,10 @@
+{
+	"Id": "0x93e2c4ad54368e90bcb3d445a1d7a50e76cab79f",
+	"Symbol": "WETH-禪",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xeb9f9ab465f5ef52b1945b7f4d51032e540829f8"
+	],
+	"Protocol": "6f596a37-7869-4e63-8f29-08e14b22074a",
+	"Chain": "ethereum"
+}

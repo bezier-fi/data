@@ -1,0 +1,27 @@
+{
+	"Id": "0xe2ff4a48ca2094db059a2f2a748f1c9d4746f183",
+	"Protocol": "6f596a37-7869-4e63-8f29-08e14b22074a",
+	"Outputs": [
+		{
+			"Address": "0xe2ff4a48ca2094db059a2f2a748f1c9d4746f183",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9245f85a8a35c419489e2690294014f6a9b81c68",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "APPLES-WETH",
+	"Chain": "ethereum"
+}

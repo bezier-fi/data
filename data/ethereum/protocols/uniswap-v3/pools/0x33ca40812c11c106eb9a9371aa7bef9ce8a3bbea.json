@@ -1,0 +1,27 @@
+{
+	"Id": "0x33ca40812c11c106eb9a9371aa7bef9ce8a3bbea",
+	"Protocol": "31f4e6f1-53e5-40bd-bf7f-5fc768177eb9",
+	"Outputs": [
+		{
+			"Address": "0x33ca40812c11c106eb9a9371aa7bef9ce8a3bbea",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xe9f721e7419423f11863e83dbd710b5d6127b5b0",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC-ePhiat (1.00%)",
+	"Chain": "ethereum"
+}

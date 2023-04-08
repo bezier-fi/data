@@ -1,0 +1,27 @@
+{
+	"Id": "0xc05ea0af9a628087b4365b5446e53b89e62c5a08",
+	"Protocol": "31f4e6f1-53e5-40bd-bf7f-5fc768177eb9",
+	"Outputs": [
+		{
+			"Address": "0xc05ea0af9a628087b4365b5446e53b89e62c5a08",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x34f0915a5f15a66eba86f6a58be1a471fb7836a7",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xe9f721e7419423f11863e83dbd710b5d6127b5b0",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PLSD-ePhiat (1.00%)",
+	"Chain": "ethereum"
+}

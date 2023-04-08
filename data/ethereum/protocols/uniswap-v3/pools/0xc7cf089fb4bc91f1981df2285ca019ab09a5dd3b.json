@@ -1,0 +1,27 @@
+{
+	"Id": "0xc7cf089fb4bc91f1981df2285ca019ab09a5dd3b",
+	"Protocol": "31f4e6f1-53e5-40bd-bf7f-5fc768177eb9",
+	"Outputs": [
+		{
+			"Address": "0xc7cf089fb4bc91f1981df2285ca019ab09a5dd3b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x226bb599a12c826476e3a771454697ea52e9e220",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PRO-WETH (1.00%)",
+	"Chain": "ethereum"
+}

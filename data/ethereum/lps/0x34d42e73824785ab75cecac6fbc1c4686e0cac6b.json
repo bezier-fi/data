@@ -1,0 +1,10 @@
+{
+	"Id": "0x34d42e73824785ab75cecac6fbc1c4686e0cac6b",
+	"Symbol": "ELONIUM-WETH",
+	"UnderlyingTokens": [
+		"0x06322efe526b4d0851038b9613fdf1aec2c1bfe2",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "02853a81-52a5-493f-b77c-f03ba5c7c1cb",
+	"Chain": "ethereum"
+}

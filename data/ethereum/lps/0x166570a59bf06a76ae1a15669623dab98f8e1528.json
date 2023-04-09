@@ -1,0 +1,10 @@
+{
+	"Id": "0x166570a59bf06a76ae1a15669623dab98f8e1528",
+	"Symbol": "WETH-STRANGERS",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xce4f50d82bf2991f9a380bb08c5980114d769b82"
+	],
+	"Protocol": "02853a81-52a5-493f-b77c-f03ba5c7c1cb",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x534044106b09d0c15d3248917a23d52646d374bb",
+	"Symbol": "RISE-WETH",
+	"UnderlyingTokens": [
+		"0x59d75c99a179aea21ffbed75443aeb3a85451cdd",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "02853a81-52a5-493f-b77c-f03ba5c7c1cb",
+	"Chain": "ethereum"
+}

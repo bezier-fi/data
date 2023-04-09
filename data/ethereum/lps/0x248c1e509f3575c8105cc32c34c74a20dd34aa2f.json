@@ -1,0 +1,10 @@
+{
+	"Id": "0x248c1e509f3575c8105cc32c34c74a20dd34aa2f",
+	"Symbol": "SFGC-WETH",
+	"UnderlyingTokens": [
+		"0x5390bd979acb121bf1b6b55a064b7528736dcf6a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "02853a81-52a5-493f-b77c-f03ba5c7c1cb",
+	"Chain": "ethereum"
+}

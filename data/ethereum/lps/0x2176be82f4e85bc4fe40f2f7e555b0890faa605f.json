@@ -1,0 +1,10 @@
+{
+	"Id": "0x2176be82f4e85bc4fe40f2f7e555b0890faa605f",
+	"Symbol": "CYBEREON-WETH",
+	"UnderlyingTokens": [
+		"0x5abbd5065380002f539c60166950a24ceef52310",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "02853a81-52a5-493f-b77c-f03ba5c7c1cb",
+	"Chain": "ethereum"
+}

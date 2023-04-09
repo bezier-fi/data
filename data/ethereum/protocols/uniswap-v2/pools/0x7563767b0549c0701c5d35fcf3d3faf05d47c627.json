@@ -1,0 +1,27 @@
+{
+	"Id": "0x7563767b0549c0701c5d35fcf3d3faf05d47c627",
+	"Protocol": "02853a81-52a5-493f-b77c-f03ba5c7c1cb",
+	"Outputs": [
+		{
+			"Address": "0x7563767b0549c0701c5d35fcf3d3faf05d47c627",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8e28a06508a44688b71159c37ab8c2380c203a02",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BUNNY-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x52c3d8d3250296db277932333bec137fb6e97b51",
+	"Protocol": "02853a81-52a5-493f-b77c-f03ba5c7c1cb",
+	"Outputs": [
+		{
+			"Address": "0x52c3d8d3250296db277932333bec137fb6e97b51",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x746fcc50f6005e1fd57179458a61ae69892d7131",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "RADI-WETH",
+	"Chain": "ethereum"
+}

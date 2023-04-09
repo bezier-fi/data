@@ -1,0 +1,27 @@
+{
+	"Id": "0x94f665f197cdf5de4ab9860053af5fb3f41d24d7",
+	"Protocol": "02853a81-52a5-493f-b77c-f03ba5c7c1cb",
+	"Outputs": [
+		{
+			"Address": "0x94f665f197cdf5de4ab9860053af5fb3f41d24d7",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5745c9c44d96d313734b2f0472dd304684a9b00e",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "YASUKE-USDC",
+	"Chain": "ethereum"
+}

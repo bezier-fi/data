@@ -1,0 +1,27 @@
+{
+	"Id": "0x1b0c233ff67fec6cfc72cc820de8192be1256c64",
+	"Protocol": "02853a81-52a5-493f-b77c-f03ba5c7c1cb",
+	"Outputs": [
+		{
+			"Address": "0x1b0c233ff67fec6cfc72cc820de8192be1256c64",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0ec490a89b083a50a4bf8b5f09e125002090dee2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CTRK-WETH",
+	"Chain": "ethereum"
+}

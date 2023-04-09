@@ -1,0 +1,10 @@
+{
+	"Id": "0xfabc74ffbf25b185bd80bd11a650fdda37b9f52d",
+	"Symbol": "FLAIKI-WETH",
+	"UnderlyingTokens": [
+		"0x80c81c10ec125facebe5f8d6608d946d7ae711c9",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "02853a81-52a5-493f-b77c-f03ba5c7c1cb",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x363fc0363e72828812eb9dfebd4da97d1c691d50",
+	"Symbol": "HACK3D-WETH",
+	"UnderlyingTokens": [
+		"0x19ebde2e0c0ff9397d04ed8607d45ad70a53dc38",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "02853a81-52a5-493f-b77c-f03ba5c7c1cb",
+	"Chain": "ethereum"
+}

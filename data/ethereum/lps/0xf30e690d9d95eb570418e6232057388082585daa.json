@@ -1,0 +1,10 @@
+{
+	"Id": "0xf30e690d9d95eb570418e6232057388082585daa",
+	"Symbol": "SEEKER-WETH",
+	"UnderlyingTokens": [
+		"0x2e1c7c684e8077100751bd94b328ab555f640ea8",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "02853a81-52a5-493f-b77c-f03ba5c7c1cb",
+	"Chain": "ethereum"
+}

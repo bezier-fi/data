@@ -1,0 +1,27 @@
+{
+	"Id": "0x7bbE7a17E501BB6542e975D8A163950149487fa3",
+	"Protocol": "f7d2191e-2021-45ed-96a6-10cd2b5fc7b3",
+	"Outputs": [
+		{
+			"Address": "0x596b330fA8AB2b449973309af6D6ddc002CaA52D",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xDF4Ef6EE483953fE3B84ABd08C6A060445c01170",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x5E8422345238F34275888049021821E8E08CAa1f",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WACMEFRXET-f",
+	"Chain": "ethereum"
+}

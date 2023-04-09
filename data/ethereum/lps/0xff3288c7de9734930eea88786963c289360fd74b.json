@@ -1,0 +1,10 @@
+{
+	"Id": "0xff3288c7de9734930eea88786963c289360fd74b",
+	"Symbol": "EUDOGE-WETH",
+	"UnderlyingTokens": [
+		"0x232b530ffe8404e655f51615151eff7001286669",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "02853a81-52a5-493f-b77c-f03ba5c7c1cb",
+	"Chain": "ethereum"
+}

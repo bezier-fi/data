@@ -1,0 +1,10 @@
+{
+	"Id": "0x9e7809c21ba130c1a51c112928ea6474d9a9ae3c",
+	"Symbol": "BNB-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0xb8c77482e45f1f44de1745f52c74426c631bdd52",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "115c2864-a5f9-4077-85d6-4f64cd784e01",
+	"Chain": "ethereum"
+}

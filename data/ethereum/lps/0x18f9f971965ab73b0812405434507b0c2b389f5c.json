@@ -1,0 +1,10 @@
+{
+	"Id": "0x18f9f971965ab73b0812405434507b0c2b389f5c",
+	"Symbol": "WETH-SFGE",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc7288a17cf4184cb366a9ebe4ef5e2be55f09ce4"
+	],
+	"Protocol": "02853a81-52a5-493f-b77c-f03ba5c7c1cb",
+	"Chain": "ethereum"
+}

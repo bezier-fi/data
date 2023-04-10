@@ -1,0 +1,27 @@
+{
+	"Id": "0xbb750f7feb9f20cb05b921f22387c6d47fea29f3",
+	"Protocol": "b8ca5316-06d6-48a8-a228-5542fd14bb90",
+	"Outputs": [
+		{
+			"Address": "0xbb750f7feb9f20cb05b921f22387c6d47fea29f3",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x797b8b83b04dc52beefcc4bea828a978d9f4dacc",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SUSHIC-WETH",
+	"Chain": "ethereum"
+}

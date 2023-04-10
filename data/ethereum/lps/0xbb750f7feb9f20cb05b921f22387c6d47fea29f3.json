@@ -1,0 +1,10 @@
+{
+	"Id": "0xbb750f7feb9f20cb05b921f22387c6d47fea29f3",
+	"Symbol": "SUSHIC-WETH",
+	"UnderlyingTokens": [
+		"0x797b8b83b04dc52beefcc4bea828a978d9f4dacc",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b8ca5316-06d6-48a8-a228-5542fd14bb90",
+	"Chain": "ethereum"
+}

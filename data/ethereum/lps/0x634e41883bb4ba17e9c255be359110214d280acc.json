@@ -1,0 +1,10 @@
+{
+	"Id": "0x634e41883bb4ba17e9c255be359110214d280acc",
+	"Symbol": "BITE-WETH",
+	"UnderlyingTokens": [
+		"0x89b69663a56d9333bb0dbaf7310ac5abf1992b20",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b8ca5316-06d6-48a8-a228-5542fd14bb90",
+	"Chain": "ethereum"
+}

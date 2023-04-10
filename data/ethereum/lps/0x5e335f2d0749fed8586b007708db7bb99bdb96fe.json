@@ -1,0 +1,10 @@
+{
+	"Id": "0x5e335f2d0749fed8586b007708db7bb99bdb96fe",
+	"Symbol": "SDEX-USDT",
+	"UnderlyingTokens": [
+		"0x5de8ab7e27f6e7a1fff3e5b337584aa43961beef",
+		"0xdac17f958d2ee523a2206206994597c13d831ec7"
+	],
+	"Protocol": "b8ca5316-06d6-48a8-a228-5542fd14bb90",
+	"Chain": "ethereum"
+}

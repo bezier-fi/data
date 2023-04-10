@@ -1,0 +1,27 @@
+{
+	"Id": "0xbcf3e7609ba3a056546bcf787bb87e16dea9409c",
+	"Protocol": "b8ca5316-06d6-48a8-a228-5542fd14bb90",
+	"Outputs": [
+		{
+			"Address": "0xbcf3e7609ba3a056546bcf787bb87e16dea9409c",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa59aeb914081f20d477b884db1e51efacb8f3871",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "shiBELLA-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xb115d1894ad45442f77db79d498af38a1f54f298",
+	"Symbol": "MEOW-WETH",
+	"UnderlyingTokens": [
+		"0xad7468fe14eba021b3cdd8f929d69bb519c66e47",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b8ca5316-06d6-48a8-a228-5542fd14bb90",
+	"Chain": "ethereum"
+}

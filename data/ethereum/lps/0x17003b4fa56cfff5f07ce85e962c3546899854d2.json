@@ -1,0 +1,10 @@
+{
+	"Id": "0x17003b4fa56cfff5f07ce85e962c3546899854d2",
+	"Symbol": "WETH-NEXIUM",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfd48ef7d1ce810129948e662225f9f54761ee92a"
+	],
+	"Protocol": "b8ca5316-06d6-48a8-a228-5542fd14bb90",
+	"Chain": "ethereum"
+}

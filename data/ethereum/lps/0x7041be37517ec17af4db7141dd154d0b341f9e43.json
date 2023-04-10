@@ -1,0 +1,10 @@
+{
+	"Id": "0x7041be37517ec17af4db7141dd154d0b341f9e43",
+	"Symbol": "WETH-HEASTER!",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xec943a5f558fddb137441eab9cbdab1d3d314c65"
+	],
+	"Protocol": "b8ca5316-06d6-48a8-a228-5542fd14bb90",
+	"Chain": "ethereum"
+}

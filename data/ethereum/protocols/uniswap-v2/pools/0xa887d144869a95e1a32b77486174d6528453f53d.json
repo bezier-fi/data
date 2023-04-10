@@ -1,0 +1,27 @@
+{
+	"Id": "0xa887d144869a95e1a32b77486174d6528453f53d",
+	"Protocol": "b8ca5316-06d6-48a8-a228-5542fd14bb90",
+	"Outputs": [
+		{
+			"Address": "0xa887d144869a95e1a32b77486174d6528453f53d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xaf0f0f47ab5f205c643e51bc0ea40b10b76434a1",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "AVELON-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xa39d560e3e877bddbcc72f653cd43571690bf51f",
+	"Symbol": "SAFEGROW-WETH",
+	"UnderlyingTokens": [
+		"0xb96dccb9f2c10bd27f9b42dc9f1eaaf827c0101d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b8ca5316-06d6-48a8-a228-5542fd14bb90",
+	"Chain": "ethereum"
+}

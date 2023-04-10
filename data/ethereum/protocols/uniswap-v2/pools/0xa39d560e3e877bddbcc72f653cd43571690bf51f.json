@@ -1,0 +1,27 @@
+{
+	"Id": "0xa39d560e3e877bddbcc72f653cd43571690bf51f",
+	"Protocol": "b8ca5316-06d6-48a8-a228-5542fd14bb90",
+	"Outputs": [
+		{
+			"Address": "0xa39d560e3e877bddbcc72f653cd43571690bf51f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb96dccb9f2c10bd27f9b42dc9f1eaaf827c0101d",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SAFEGROW-WETH",
+	"Chain": "ethereum"
+}

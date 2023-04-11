@@ -1,0 +1,27 @@
+{
+	"Id": "0xd8c5a5614f352bfad5863d638d99e850a3dbd78e",
+	"Protocol": "43f78ebf-adf4-44ed-b7ab-940265780c99",
+	"Outputs": [
+		{
+			"Address": "0xd8c5a5614f352bfad5863d638d99e850a3dbd78e",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9a2f255160daf4e6fc2cdfa8ea5457fcd0598868",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "HAMLET-WETH",
+	"Chain": "ethereum"
+}

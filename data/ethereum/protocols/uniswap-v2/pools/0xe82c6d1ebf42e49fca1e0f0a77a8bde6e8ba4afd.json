@@ -1,0 +1,27 @@
+{
+	"Id": "0xe82c6d1ebf42e49fca1e0f0a77a8bde6e8ba4afd",
+	"Protocol": "43f78ebf-adf4-44ed-b7ab-940265780c99",
+	"Outputs": [
+		{
+			"Address": "0xe82c6d1ebf42e49fca1e0f0a77a8bde6e8ba4afd",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9f8c6e69372c20c7b45f31c40034ff5bd3403d20",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SHIBTALIK-WETH",
+	"Chain": "ethereum"
+}

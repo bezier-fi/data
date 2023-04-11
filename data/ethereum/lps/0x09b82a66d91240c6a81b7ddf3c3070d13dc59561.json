@@ -1,0 +1,10 @@
+{
+	"Id": "0x09b82a66d91240c6a81b7ddf3c3070d13dc59561",
+	"Symbol": "TGS-WETH",
+	"UnderlyingTokens": [
+		"0x91bb018715e4170127099a19bd03a8b41615e8cf",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "43f78ebf-adf4-44ed-b7ab-940265780c99",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xe2c33692f96b0ddb6a70bc13b07f063d408236f4",
+	"Symbol": "Harry-WETH",
+	"UnderlyingTokens": [
+		"0xa0c52cc16d37dce7d0648c4a638f123adf73e9bc",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "43f78ebf-adf4-44ed-b7ab-940265780c99",
+	"Chain": "ethereum"
+}

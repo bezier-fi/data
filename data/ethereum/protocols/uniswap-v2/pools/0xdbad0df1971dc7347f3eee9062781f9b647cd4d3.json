@@ -1,0 +1,27 @@
+{
+	"Id": "0xdbad0df1971dc7347f3eee9062781f9b647cd4d3",
+	"Protocol": "43f78ebf-adf4-44ed-b7ab-940265780c99",
+	"Outputs": [
+		{
+			"Address": "0xdbad0df1971dc7347f3eee9062781f9b647cd4d3",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x21f34281f1c4d8d356fab36c37e877df3a028d8c",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "KODA-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xce2fef673664227016fe15632881163db4037952",
+	"Symbol": "RoseM-WETH",
+	"UnderlyingTokens": [
+		"0x171cc7264b1a5696789bc5e9b976898598eaabfa",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "43f78ebf-adf4-44ed-b7ab-940265780c99",
+	"Chain": "ethereum"
+}

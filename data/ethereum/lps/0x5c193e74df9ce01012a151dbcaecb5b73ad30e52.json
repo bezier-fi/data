@@ -1,0 +1,10 @@
+{
+	"Id": "0x5c193e74df9ce01012a151dbcaecb5b73ad30e52",
+	"Symbol": "RICH-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x8d4c3f1db05bc1613ecd062b434f14743ec5b007",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "523e1f3d-1864-4ff4-96bd-d586412d95bf",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xbd4ddb477b4f360d2601a6676b093e1dd91e2a38",
+	"Symbol": "WETH-HAWKER",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfb19c8f2fe488ffbd51ae89a08e189d7a18e668b"
+	],
+	"Protocol": "43f78ebf-adf4-44ed-b7ab-940265780c99",
+	"Chain": "ethereum"
+}

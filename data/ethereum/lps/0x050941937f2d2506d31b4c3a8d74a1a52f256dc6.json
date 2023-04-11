@@ -1,0 +1,10 @@
+{
+	"Id": "0x050941937f2d2506d31b4c3a8d74a1a52f256dc6",
+	"Symbol": "Propaganda-WETH",
+	"UnderlyingTokens": [
+		"0x505cc418ebc2ce0a204d85982d5711c594d772b8",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "43f78ebf-adf4-44ed-b7ab-940265780c99",
+	"Chain": "ethereum"
+}

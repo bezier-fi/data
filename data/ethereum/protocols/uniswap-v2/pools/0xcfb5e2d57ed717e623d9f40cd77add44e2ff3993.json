@@ -1,0 +1,27 @@
+{
+	"Id": "0xcfb5e2d57ed717e623d9f40cd77add44e2ff3993",
+	"Protocol": "43f78ebf-adf4-44ed-b7ab-940265780c99",
+	"Outputs": [
+		{
+			"Address": "0xcfb5e2d57ed717e623d9f40cd77add44e2ff3993",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5a7eb8b6087d87726a0fbec14551e2795edc12e0",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Zgon-WETH",
+	"Chain": "ethereum"
+}

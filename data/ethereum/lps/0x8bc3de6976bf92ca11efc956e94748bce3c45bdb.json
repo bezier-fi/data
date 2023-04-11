@@ -1,0 +1,10 @@
+{
+	"Id": "0x8bc3de6976bf92ca11efc956e94748bce3c45bdb",
+	"Symbol": "LPP-WETH",
+	"UnderlyingTokens": [
+		"0xa5f5f8750a74b6075224e8790a6fbe134be14ccf",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "43f78ebf-adf4-44ed-b7ab-940265780c99",
+	"Chain": "ethereum"
+}

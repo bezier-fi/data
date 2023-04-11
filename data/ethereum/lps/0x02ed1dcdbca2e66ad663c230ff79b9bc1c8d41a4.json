@@ -1,0 +1,10 @@
+{
+	"Id": "0x02ed1dcdbca2e66ad663c230ff79b9bc1c8d41a4",
+	"Symbol": "WETH-PLSP",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe644aa61ced21b0d09840e9e2c1e6111bf5c2b84"
+	],
+	"Protocol": "43f78ebf-adf4-44ed-b7ab-940265780c99",
+	"Chain": "ethereum"
+}

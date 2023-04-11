@@ -1,0 +1,27 @@
+{
+	"Id": "0xce2fef673664227016fe15632881163db4037952",
+	"Protocol": "43f78ebf-adf4-44ed-b7ab-940265780c99",
+	"Outputs": [
+		{
+			"Address": "0xce2fef673664227016fe15632881163db4037952",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x171cc7264b1a5696789bc5e9b976898598eaabfa",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "RoseM-WETH",
+	"Chain": "ethereum"
+}

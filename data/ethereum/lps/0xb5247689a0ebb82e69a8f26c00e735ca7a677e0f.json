@@ -1,0 +1,10 @@
+{
+	"Id": "0xb5247689a0ebb82e69a8f26c00e735ca7a677e0f",
+	"Symbol": "ALFASC-WETH",
+	"UnderlyingTokens": [
+		"0xa96a16616b8c5cb3674af2c6dfedc9c9759c0003",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "43f78ebf-adf4-44ed-b7ab-940265780c99",
+	"Chain": "ethereum"
+}

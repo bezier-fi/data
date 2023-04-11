@@ -1,0 +1,10 @@
+{
+	"Id": "0x3e6e080a387f6c5ae9472b78f9007956e5795c88",
+	"Symbol": "HBI-WETH",
+	"UnderlyingTokens": [
+		"0x2ad50f49103a330545df563bfaef9f2e0e22385c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "43f78ebf-adf4-44ed-b7ab-940265780c99",
+	"Chain": "ethereum"
+}

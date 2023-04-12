@@ -1,0 +1,10 @@
+{
+	"Id": "0x55579d35b1df847d52189d089aef666756904152",
+	"Symbol": "TETRA-WETH",
+	"UnderlyingTokens": [
+		"0x49cb7d1d6d20e217a74f8bf346f0d2c1cfab604c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "02a7eea7-e796-4055-bfa6-4cebeadc458f",
+	"Chain": "ethereum"
+}

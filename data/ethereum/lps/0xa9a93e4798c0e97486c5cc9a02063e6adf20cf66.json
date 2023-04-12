@@ -1,0 +1,10 @@
+{
+	"Id": "0xa9a93e4798c0e97486c5cc9a02063e6adf20cf66",
+	"Symbol": "ConnectLink-WETH",
+	"UnderlyingTokens": [
+		"0x873e6b60376d50a912a8ebc6ef16b65dfa9d2c43",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "02a7eea7-e796-4055-bfa6-4cebeadc458f",
+	"Chain": "ethereum"
+}

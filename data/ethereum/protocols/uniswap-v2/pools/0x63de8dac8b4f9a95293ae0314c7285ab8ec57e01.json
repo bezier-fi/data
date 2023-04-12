@@ -1,0 +1,27 @@
+{
+	"Id": "0x63de8dac8b4f9a95293ae0314c7285ab8ec57e01",
+	"Protocol": "02a7eea7-e796-4055-bfa6-4cebeadc458f",
+	"Outputs": [
+		{
+			"Address": "0x63de8dac8b4f9a95293ae0314c7285ab8ec57e01",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xe9f7031fc5a0496c217658292b35187cc71bfc92",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-EXOTIX",
+	"Chain": "ethereum"
+}

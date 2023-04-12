@@ -1,0 +1,10 @@
+{
+	"Id": "0xe3e4be081e5c4e9e7e3640c724810b7f373c9db0",
+	"Symbol": "ASHIELD-WETH",
+	"UnderlyingTokens": [
+		"0x5c1f4a0be29adb89510ff5e8892f06d7f74a11be",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "02a7eea7-e796-4055-bfa6-4cebeadc458f",
+	"Chain": "ethereum"
+}

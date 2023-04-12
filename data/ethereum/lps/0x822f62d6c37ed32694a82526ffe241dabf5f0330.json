@@ -1,0 +1,10 @@
+{
+	"Id": "0x822f62d6c37ed32694a82526ffe241dabf5f0330",
+	"Symbol": "AOSHIMA-WETH",
+	"UnderlyingTokens": [
+		"0x75931526e93807e75f4d67eed2dbe7011268424c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "02a7eea7-e796-4055-bfa6-4cebeadc458f",
+	"Chain": "ethereum"
+}

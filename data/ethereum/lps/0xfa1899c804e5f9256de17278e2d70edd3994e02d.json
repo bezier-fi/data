@@ -1,0 +1,10 @@
+{
+	"Id": "0xfa1899c804e5f9256de17278e2d70edd3994e02d",
+	"Symbol": "Lofi-WETH",
+	"UnderlyingTokens": [
+		"0x1e9aa13a85b8a075c2918e566ff6580b67e28bbd",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "02a7eea7-e796-4055-bfa6-4cebeadc458f",
+	"Chain": "ethereum"
+}

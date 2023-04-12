@@ -1,0 +1,10 @@
+{
+	"Id": "0x6e7e784a06894c85a507f459c721e69cb43f33e2",
+	"Symbol": "WETH-BDAMM (1.00%)",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfa372ff1547fa1a283b5112a4685f1358ce5574d"
+	],
+	"Protocol": "bbf873a6-a859-48dd-82c4-d56ba0c79b1a",
+	"Chain": "ethereum"
+}

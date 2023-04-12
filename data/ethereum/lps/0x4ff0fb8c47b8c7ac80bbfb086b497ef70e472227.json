@@ -1,0 +1,10 @@
+{
+	"Id": "0x4ff0fb8c47b8c7ac80bbfb086b497ef70e472227",
+	"Symbol": "QUBE-WETH",
+	"UnderlyingTokens": [
+		"0x5c0f0615db41f7e966b960005226c3656ab2da23",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "02a7eea7-e796-4055-bfa6-4cebeadc458f",
+	"Chain": "ethereum"
+}

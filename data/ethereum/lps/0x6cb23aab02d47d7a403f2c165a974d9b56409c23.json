@@ -1,0 +1,10 @@
+{
+	"Id": "0x6cb23aab02d47d7a403f2c165a974d9b56409c23",
+	"Symbol": "WETH-FOV",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf59748796aa9959f97055188feb4860e66103c1e"
+	],
+	"Protocol": "02a7eea7-e796-4055-bfa6-4cebeadc458f",
+	"Chain": "ethereum"
+}

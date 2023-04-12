@@ -1,0 +1,27 @@
+{
+	"Id": "0x638cf0ef31574908b55ce549ea2e1df15d410f15",
+	"Protocol": "02a7eea7-e796-4055-bfa6-4cebeadc458f",
+	"Outputs": [
+		{
+			"Address": "0x638cf0ef31574908b55ce549ea2e1df15d410f15",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x13def34a6d3b3da4daf19dfb1c8ca58ab55d3391",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "QIANWEN-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xe377e701259aa9360d0944ef0a2eb6c3819e33bf",
+	"Symbol": "WETH-Titter",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfdfe47278d37192c36726dd86831e58ef16595ae"
+	],
+	"Protocol": "02a7eea7-e796-4055-bfa6-4cebeadc458f",
+	"Chain": "ethereum"
+}

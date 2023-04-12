@@ -1,0 +1,10 @@
+{
+	"Id": "0x63de8dac8b4f9a95293ae0314c7285ab8ec57e01",
+	"Symbol": "WETH-EXOTIX",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe9f7031fc5a0496c217658292b35187cc71bfc92"
+	],
+	"Protocol": "02a7eea7-e796-4055-bfa6-4cebeadc458f",
+	"Chain": "ethereum"
+}

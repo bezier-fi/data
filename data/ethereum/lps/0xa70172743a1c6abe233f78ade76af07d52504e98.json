@@ -1,0 +1,10 @@
+{
+	"Id": "0xa70172743a1c6abe233f78ade76af07d52504e98",
+	"Symbol": "NAC-WETH",
+	"UnderlyingTokens": [
+		"0x0e94c04edd4e3c9458625f0b97a5bf33b3b7ccc8",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "02a7eea7-e796-4055-bfa6-4cebeadc458f",
+	"Chain": "ethereum"
+}

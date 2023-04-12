@@ -1,0 +1,10 @@
+{
+	"Id": "0xf033d8cc88b7632a13c420d1f38b61354a88debb",
+	"Symbol": "WETH-ZAT",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd6b7fa11bb26131eb1ddd6b8b9e37bee3dc50dce"
+	],
+	"Protocol": "02a7eea7-e796-4055-bfa6-4cebeadc458f",
+	"Chain": "ethereum"
+}

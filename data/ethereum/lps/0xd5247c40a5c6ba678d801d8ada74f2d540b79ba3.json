@@ -1,0 +1,10 @@
+{
+	"Id": "0xd5247c40a5c6ba678d801d8ada74f2d540b79ba3",
+	"Symbol": "WETH-SHAPELLA",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd720a6efa69975589da57f3a351c861745cdda3c"
+	],
+	"Protocol": "02a7eea7-e796-4055-bfa6-4cebeadc458f",
+	"Chain": "ethereum"
+}

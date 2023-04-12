@@ -1,0 +1,10 @@
+{
+	"Id": "0x024c25759594195918ae09d720a60ea0def4b254",
+	"Symbol": "$BEYE -WETH",
+	"UnderlyingTokens": [
+		"0x495770da068ac5ed8cbe020b961408511c75934e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "02a7eea7-e796-4055-bfa6-4cebeadc458f",
+	"Chain": "ethereum"
+}

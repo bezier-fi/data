@@ -1,0 +1,27 @@
+{
+	"Id": "0xfa1899c804e5f9256de17278e2d70edd3994e02d",
+	"Protocol": "02a7eea7-e796-4055-bfa6-4cebeadc458f",
+	"Outputs": [
+		{
+			"Address": "0xfa1899c804e5f9256de17278e2d70edd3994e02d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1e9aa13a85b8a075c2918e566ff6580b67e28bbd",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Lofi-WETH",
+	"Chain": "ethereum"
+}

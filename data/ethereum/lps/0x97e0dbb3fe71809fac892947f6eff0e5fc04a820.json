@@ -1,0 +1,10 @@
+{
+	"Id": "0x97e0dbb3fe71809fac892947f6eff0e5fc04a820",
+	"Symbol": "MSG-WETH",
+	"UnderlyingTokens": [
+		"0x308516e6daac88d719af5a6d7ea2a82d8c8e7356",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "02a7eea7-e796-4055-bfa6-4cebeadc458f",
+	"Chain": "ethereum"
+}

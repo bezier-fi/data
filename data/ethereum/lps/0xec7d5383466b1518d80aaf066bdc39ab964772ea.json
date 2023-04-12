@@ -1,0 +1,10 @@
+{
+	"Id": "0xec7d5383466b1518d80aaf066bdc39ab964772ea",
+	"Symbol": "WETH-BGPT",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xcb4dd27908a17d408c708d774ec7ad012ae66dc5"
+	],
+	"Protocol": "02a7eea7-e796-4055-bfa6-4cebeadc458f",
+	"Chain": "ethereum"
+}

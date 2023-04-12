@@ -1,0 +1,10 @@
+{
+	"Id": "0xee99d320828155a33f989a311313c71b6383fd17",
+	"Symbol": "WETH-ePAPER",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe42e2b29af0ad70e8d92b28096e6ac285fbb9ed0"
+	],
+	"Protocol": "02a7eea7-e796-4055-bfa6-4cebeadc458f",
+	"Chain": "ethereum"
+}

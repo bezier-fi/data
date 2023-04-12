@@ -1,0 +1,10 @@
+{
+	"Id": "0x7675311d9eede24528bbdb076f2bcad7c12899b3",
+	"Symbol": "Oil-WETH",
+	"UnderlyingTokens": [
+		"0x25a5e0988d6dd920a96f97f9bbfe6aae646cdc7e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "02a7eea7-e796-4055-bfa6-4cebeadc458f",
+	"Chain": "ethereum"
+}

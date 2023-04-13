@@ -1,0 +1,10 @@
+{
+	"Id": "0x9ac5d3357ce25b62c757de38c72f98077e46a538",
+	"Symbol": "TOFU-WETH",
+	"UnderlyingTokens": [
+		"0x8672b02f4d8b9a44b483862b17fb82cebf8f05d9",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d833183e-c3f4-4d87-a09c-372861a08746",
+	"Chain": "ethereum"
+}

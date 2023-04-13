@@ -1,0 +1,10 @@
+{
+	"Id": "0xb9e40d075c29e9e19dfe64766eae572faba7377c",
+	"Symbol": "VLD-USDC",
+	"UnderlyingTokens": [
+		"0x8624cbbe3e85edbab8c3f20d28f469e01f75f59b",
+		"0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+	],
+	"Protocol": "d833183e-c3f4-4d87-a09c-372861a08746",
+	"Chain": "ethereum"
+}

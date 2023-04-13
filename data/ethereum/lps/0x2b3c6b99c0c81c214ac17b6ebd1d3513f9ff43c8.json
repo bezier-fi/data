@@ -1,0 +1,10 @@
+{
+	"Id": "0x2b3c6b99c0c81c214ac17b6ebd1d3513f9ff43c8",
+	"Symbol": "WETH-COWTEST1",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc19d2f8830ffdd4d9948ecd889b84d026fb3d372"
+	],
+	"Protocol": "d833183e-c3f4-4d87-a09c-372861a08746",
+	"Chain": "ethereum"
+}

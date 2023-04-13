@@ -1,0 +1,10 @@
+{
+	"Id": "0x3fce25f97de6d937143654ecf6241d72bf6770f6",
+	"Symbol": "HARD-WETH",
+	"UnderlyingTokens": [
+		"0x1f9ed1d0697f8f9b376b4da2416bbff60efbf7e0",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d833183e-c3f4-4d87-a09c-372861a08746",
+	"Chain": "ethereum"
+}

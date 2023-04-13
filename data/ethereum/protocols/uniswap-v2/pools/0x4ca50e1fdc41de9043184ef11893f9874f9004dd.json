@@ -1,0 +1,27 @@
+{
+	"Id": "0x4ca50e1fdc41de9043184ef11893f9874f9004dd",
+	"Protocol": "d833183e-c3f4-4d87-a09c-372861a08746",
+	"Outputs": [
+		{
+			"Address": "0x4ca50e1fdc41de9043184ef11893f9874f9004dd",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x624570720277abf7ea4f78bd4d6cd1d795311a35",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "KURO-WETH",
+	"Chain": "ethereum"
+}

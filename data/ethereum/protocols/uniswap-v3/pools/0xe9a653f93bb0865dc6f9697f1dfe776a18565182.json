@@ -1,0 +1,27 @@
+{
+	"Id": "0xe9a653f93bb0865dc6f9697f1dfe776a18565182",
+	"Protocol": "608fe36f-05f6-4fcf-8c18-fa4a202ce3bf",
+	"Outputs": [
+		{
+			"Address": "0xe9a653f93bb0865dc6f9697f1dfe776a18565182",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xe2237a34246eedceb43283073ba9adef0450351e",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC-fstETH-B8C6 (1.00%)",
+	"Chain": "ethereum"
+}

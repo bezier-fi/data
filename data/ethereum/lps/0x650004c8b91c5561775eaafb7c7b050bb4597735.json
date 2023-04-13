@@ -1,0 +1,10 @@
+{
+	"Id": "0x650004c8b91c5561775eaafb7c7b050bb4597735",
+	"Symbol": "CIEL-WETH",
+	"UnderlyingTokens": [
+		"0x00f03a498e84586a181540d066852fa99ffe9586",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d833183e-c3f4-4d87-a09c-372861a08746",
+	"Chain": "ethereum"
+}

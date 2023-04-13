@@ -1,0 +1,10 @@
+{
+	"Id": "0x91354ee37d48c95125cbc4545d770babab4d7b31",
+	"Symbol": "WETH-PENETRATING",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xeb9d5a3bc4c7f376ee4433e60d5de2c2183202a3"
+	],
+	"Protocol": "d833183e-c3f4-4d87-a09c-372861a08746",
+	"Chain": "ethereum"
+}

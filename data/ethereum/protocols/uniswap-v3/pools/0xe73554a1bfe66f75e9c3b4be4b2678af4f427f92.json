@@ -1,0 +1,27 @@
+{
+	"Id": "0xe73554a1bfe66f75e9c3b4be4b2678af4f427f92",
+	"Protocol": "608fe36f-05f6-4fcf-8c18-fa4a202ce3bf",
+	"Outputs": [
+		{
+			"Address": "0xe73554a1bfe66f75e9c3b4be4b2678af4f427f92",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x9e32b13ce7f2e80a01932b42553652e053d6ed8e",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DAI-Metis (0.30%)",
+	"Chain": "ethereum"
+}

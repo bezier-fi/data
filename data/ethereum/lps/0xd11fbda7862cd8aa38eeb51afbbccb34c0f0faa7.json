@@ -1,0 +1,10 @@
+{
+	"Id": "0xd11fbda7862cd8aa38eeb51afbbccb34c0f0faa7",
+	"Symbol": "FTT2.0-WETH",
+	"UnderlyingTokens": [
+		"0x30b008432f90ce1c0f5333e0599b7644b5c12307",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d833183e-c3f4-4d87-a09c-372861a08746",
+	"Chain": "ethereum"
+}

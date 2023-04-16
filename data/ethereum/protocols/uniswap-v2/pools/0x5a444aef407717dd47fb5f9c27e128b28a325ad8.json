@@ -1,0 +1,27 @@
+{
+	"Id": "0x5a444aef407717dd47fb5f9c27e128b28a325ad8",
+	"Protocol": "f568e32d-8a21-4ecb-be12-55ebe442486f",
+	"Outputs": [
+		{
+			"Address": "0x5a444aef407717dd47fb5f9c27e128b28a325ad8",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x489f4a1eb5a2df9b6e19af0a2ce6ccf9435fc8c7",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "VCASH-WETH",
+	"Chain": "ethereum"
+}

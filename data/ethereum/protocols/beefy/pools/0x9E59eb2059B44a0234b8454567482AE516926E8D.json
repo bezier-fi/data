@@ -1,0 +1,23 @@
+{
+	"Id": "0x9E59eb2059B44a0234b8454567482AE516926E8D",
+	"Protocol": "a6cb7d9a-f07b-4352-a916-2b9f9f7b9472",
+	"Outputs": [
+		{
+			"Address": "0x9E59eb2059B44a0234b8454567482AE516926E8D",
+			"Apr": 53.87926,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xE4010EF5E37dc23154680f23c4A0d48BFca91687",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SD-ETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0xb8021d536e182986b6043f535316d7e68bbfcfb9",
+	"Protocol": "f568e32d-8a21-4ecb-be12-55ebe442486f",
+	"Outputs": [
+		{
+			"Address": "0xb8021d536e182986b6043f535316d7e68bbfcfb9",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2682ed0db994cd002a2fd5c5421e316f5025736d",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Waffles-WETH",
+	"Chain": "ethereum"
+}

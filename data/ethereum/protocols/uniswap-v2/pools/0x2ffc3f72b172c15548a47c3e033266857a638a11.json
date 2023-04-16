@@ -1,0 +1,27 @@
+{
+	"Id": "0x2ffc3f72b172c15548a47c3e033266857a638a11",
+	"Protocol": "f568e32d-8a21-4ecb-be12-55ebe442486f",
+	"Outputs": [
+		{
+			"Address": "0x2ffc3f72b172c15548a47c3e033266857a638a11",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xd6710559656f2ecd336b153b0719500fff8c2435",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-PLAQ",
+	"Chain": "ethereum"
+}

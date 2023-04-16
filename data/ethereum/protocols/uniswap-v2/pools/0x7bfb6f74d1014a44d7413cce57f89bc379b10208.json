@@ -1,0 +1,27 @@
+{
+	"Id": "0x7bfb6f74d1014a44d7413cce57f89bc379b10208",
+	"Protocol": "f568e32d-8a21-4ecb-be12-55ebe442486f",
+	"Outputs": [
+		{
+			"Address": "0x7bfb6f74d1014a44d7413cce57f89bc379b10208",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x140d351abe4b666221f2e9a20f6d7de4814095bd",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PNODE-WETH",
+	"Chain": "ethereum"
+}

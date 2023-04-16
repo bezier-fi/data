@@ -1,0 +1,10 @@
+{
+	"Id": "0x321073dd508d747c9561093efd2bccc908585e78",
+	"Symbol": "AptAI-WETH",
+	"UnderlyingTokens": [
+		"0x2fd570bedb06337de2e59d07c71a3057cdb082f9",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f568e32d-8a21-4ecb-be12-55ebe442486f",
+	"Chain": "ethereum"
+}

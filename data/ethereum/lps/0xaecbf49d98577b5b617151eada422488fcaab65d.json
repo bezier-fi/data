@@ -1,0 +1,10 @@
+{
+	"Id": "0xaecbf49d98577b5b617151eada422488fcaab65d",
+	"Symbol": "WETH-TURTLE",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd178374d0b11acbc73f98d7a1e39cd6f596b8e2c"
+	],
+	"Protocol": "f568e32d-8a21-4ecb-be12-55ebe442486f",
+	"Chain": "ethereum"
+}

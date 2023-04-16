@@ -1,0 +1,10 @@
+{
+	"Id": "0x2c178bd785f20886ead55f8ce594f9ba8331e03f",
+	"Symbol": "YHA-WETH",
+	"UnderlyingTokens": [
+		"0x4c20537f573cf3950ab2da8c078ace6fd9cc97a9",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f568e32d-8a21-4ecb-be12-55ebe442486f",
+	"Chain": "ethereum"
+}

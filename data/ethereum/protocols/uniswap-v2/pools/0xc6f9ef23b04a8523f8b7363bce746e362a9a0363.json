@@ -1,0 +1,27 @@
+{
+	"Id": "0xc6f9ef23b04a8523f8b7363bce746e362a9a0363",
+	"Protocol": "f568e32d-8a21-4ecb-be12-55ebe442486f",
+	"Outputs": [
+		{
+			"Address": "0xc6f9ef23b04a8523f8b7363bce746e362a9a0363",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xf236683b45cc870e91cfdcbe2cd96bd993484c97",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-BASHTANK",
+	"Chain": "ethereum"
+}

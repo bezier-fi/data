@@ -1,0 +1,10 @@
+{
+	"Id": "0x8d669b31b8689ad9cdd68db2c7824016fa67dcae",
+	"Symbol": "WETH-UFO",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xef8d232c5d21e905978e431a207e25c87ef92f49"
+	],
+	"Protocol": "f568e32d-8a21-4ecb-be12-55ebe442486f",
+	"Chain": "ethereum"
+}

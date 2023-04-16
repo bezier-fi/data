@@ -1,0 +1,10 @@
+{
+	"Id": "0xa514637e2d2c1dbb5a269760db1f53da4724b0ac",
+	"Symbol": "TaroINU-WETH",
+	"UnderlyingTokens": [
+		"0xaef1c993bb57d9e82f82eafdedde7dd62f4a1f1f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f568e32d-8a21-4ecb-be12-55ebe442486f",
+	"Chain": "ethereum"
+}

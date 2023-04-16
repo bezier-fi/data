@@ -1,0 +1,27 @@
+{
+	"Id": "0x7bf20504d602f5d1cc565d74699970d22c662fd0",
+	"Protocol": "f568e32d-8a21-4ecb-be12-55ebe442486f",
+	"Outputs": [
+		{
+			"Address": "0x7bf20504d602f5d1cc565d74699970d22c662fd0",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x09f8c130b27ee844af77cf05cffa569febac819e",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "LAURA-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xce2ae3a528073718d2049bdba8e81bb58ffd1543",
+	"Symbol": "DEUSEX-WETH",
+	"UnderlyingTokens": [
+		"0xbae310bd5cd78171514b655ccc08bcfc70d62eb9",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f568e32d-8a21-4ecb-be12-55ebe442486f",
+	"Chain": "ethereum"
+}

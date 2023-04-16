@@ -1,0 +1,10 @@
+{
+	"Id": "0x55eabce1e32f66ed8864c192a8456b9c473a6d24",
+	"Symbol": "PBS-WETH",
+	"UnderlyingTokens": [
+		"0x932e9accad5dc06715d94725f05ceef88f5c792d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f568e32d-8a21-4ecb-be12-55ebe442486f",
+	"Chain": "ethereum"
+}

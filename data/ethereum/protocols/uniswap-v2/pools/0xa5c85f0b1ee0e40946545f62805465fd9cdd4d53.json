@@ -1,0 +1,27 @@
+{
+	"Id": "0xa5c85f0b1ee0e40946545f62805465fd9cdd4d53",
+	"Protocol": "f568e32d-8a21-4ecb-be12-55ebe442486f",
+	"Outputs": [
+		{
+			"Address": "0xa5c85f0b1ee0e40946545f62805465fd9cdd4d53",
+			"Apr": 62.21145,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x68b429161ec09a6c1d65ba70727ab1faa5bc4026",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "oDoge-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x0eb310d9ec65b2c3e29a0f461c955e763c20a49f",
+	"Symbol": "OPENCRAFT-WETH",
+	"UnderlyingTokens": [
+		"0x833f344b37ce09af433396881d660df140e65c36",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f568e32d-8a21-4ecb-be12-55ebe442486f",
+	"Chain": "ethereum"
+}

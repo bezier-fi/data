@@ -1,0 +1,10 @@
+{
+	"Id": "0x7bfb6f74d1014a44d7413cce57f89bc379b10208",
+	"Symbol": "PNODE-WETH",
+	"UnderlyingTokens": [
+		"0x140d351abe4b666221f2e9a20f6d7de4814095bd",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f568e32d-8a21-4ecb-be12-55ebe442486f",
+	"Chain": "ethereum"
+}

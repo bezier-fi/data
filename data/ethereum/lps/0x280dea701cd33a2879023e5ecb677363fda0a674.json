@@ -1,0 +1,10 @@
+{
+	"Id": "0x280dea701cd33a2879023e5ecb677363fda0a674",
+	"Symbol": "WETH-ngml",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd3b0ea5997f2de5cdb8a759830e29d2d12f434c7"
+	],
+	"Protocol": "f568e32d-8a21-4ecb-be12-55ebe442486f",
+	"Chain": "ethereum"
+}

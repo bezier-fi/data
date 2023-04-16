@@ -1,0 +1,10 @@
+{
+	"Id": "0x41a55cb20c6febec610bc87876a245956b27adf1",
+	"Symbol": "Muv-WETH",
+	"UnderlyingTokens": [
+		"0x1b4d78adbf4f2c07f008548fcc32ac939244db0c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f568e32d-8a21-4ecb-be12-55ebe442486f",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x65c94059efd81bacef8bdda5acfe6a4ddedf814f",
+	"Symbol": "FOMOCAPITAL-WETH",
+	"UnderlyingTokens": [
+		"0x5119351a29d7420b22bb88fb3be84eb93118237b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f568e32d-8a21-4ecb-be12-55ebe442486f",
+	"Chain": "ethereum"
+}

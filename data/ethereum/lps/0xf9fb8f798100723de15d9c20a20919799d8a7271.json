@@ -1,0 +1,10 @@
+{
+	"Id": "0xf9fb8f798100723de15d9c20a20919799d8a7271",
+	"Symbol": "GPT4C-WETH",
+	"UnderlyingTokens": [
+		"0x1a9d9a519462429bdde04ae0a8c54b24bb72b5c0",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f568e32d-8a21-4ecb-be12-55ebe442486f",
+	"Chain": "ethereum"
+}

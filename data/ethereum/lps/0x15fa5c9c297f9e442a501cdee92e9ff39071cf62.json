@@ -1,0 +1,10 @@
+{
+	"Id": "0x15fa5c9c297f9e442a501cdee92e9ff39071cf62",
+	"Symbol": "CYMI-WETH",
+	"UnderlyingTokens": [
+		"0x7449c93abe66457e83b3799bcf1a99e92d58a93b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f568e32d-8a21-4ecb-be12-55ebe442486f",
+	"Chain": "ethereum"
+}

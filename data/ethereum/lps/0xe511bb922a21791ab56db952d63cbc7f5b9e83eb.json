@@ -1,0 +1,10 @@
+{
+	"Id": "0xe511bb922a21791ab56db952d63cbc7f5b9e83eb",
+	"Symbol": "$TFAI-WETH",
+	"UnderlyingTokens": [
+		"0x1a494d8c53aaf6f03a12f4495752a90ad914e1d2",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f568e32d-8a21-4ecb-be12-55ebe442486f",
+	"Chain": "ethereum"
+}

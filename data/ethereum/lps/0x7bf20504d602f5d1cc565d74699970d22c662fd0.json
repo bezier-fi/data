@@ -1,0 +1,10 @@
+{
+	"Id": "0x7bf20504d602f5d1cc565d74699970d22c662fd0",
+	"Symbol": "LAURA-WETH",
+	"UnderlyingTokens": [
+		"0x09f8c130b27ee844af77cf05cffa569febac819e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f568e32d-8a21-4ecb-be12-55ebe442486f",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xd55ee98ab1c25bf27ff1da97e9c674caa6a35914",
+	"Symbol": "WETH-UMU",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xcda6bf19eec6d82d927c7b239ebdd6853ae99f8b"
+	],
+	"Protocol": "f568e32d-8a21-4ecb-be12-55ebe442486f",
+	"Chain": "ethereum"
+}

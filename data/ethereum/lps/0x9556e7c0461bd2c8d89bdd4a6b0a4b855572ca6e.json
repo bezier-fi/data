@@ -1,0 +1,10 @@
+{
+	"Id": "0x9556e7c0461bd2c8d89bdd4a6b0a4b855572ca6e",
+	"Symbol": "JSI-WETH",
+	"UnderlyingTokens": [
+		"0x7b01369910e974a1c6878af295f82166a45eb357",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f568e32d-8a21-4ecb-be12-55ebe442486f",
+	"Chain": "ethereum"
+}

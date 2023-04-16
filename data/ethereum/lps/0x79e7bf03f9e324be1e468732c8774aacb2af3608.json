@@ -1,0 +1,10 @@
+{
+	"Id": "0x79e7bf03f9e324be1e468732c8774aacb2af3608",
+	"Symbol": "WETH-TRAIT",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfdc4b49a009d83c2cc2bfd3265ed283acd267803"
+	],
+	"Protocol": "f568e32d-8a21-4ecb-be12-55ebe442486f",
+	"Chain": "ethereum"
+}

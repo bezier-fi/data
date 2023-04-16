@@ -1,0 +1,10 @@
+{
+	"Id": "0xb3d241dc705bdd43ac68725e11782ae1ac5a12b8",
+	"Symbol": "RAYN-WETH",
+	"UnderlyingTokens": [
+		"0x562d8e607bed7fc183ca84c0362c853680b99638",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f568e32d-8a21-4ecb-be12-55ebe442486f",
+	"Chain": "ethereum"
+}

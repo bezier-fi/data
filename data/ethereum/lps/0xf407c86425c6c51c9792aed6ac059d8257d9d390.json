@@ -1,0 +1,10 @@
+{
+	"Id": "0xf407c86425c6c51c9792aed6ac059d8257d9d390",
+	"Symbol": "BasedAI-WETH",
+	"UnderlyingTokens": [
+		"0x365ac0aaddeb642d8751139ab83b1c475045fef3",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f568e32d-8a21-4ecb-be12-55ebe442486f",
+	"Chain": "ethereum"
+}

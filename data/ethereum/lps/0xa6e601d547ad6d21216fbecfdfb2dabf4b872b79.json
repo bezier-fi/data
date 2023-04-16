@@ -1,0 +1,10 @@
+{
+	"Id": "0xa6e601d547ad6d21216fbecfdfb2dabf4b872b79",
+	"Symbol": "XINU-WETH",
+	"UnderlyingTokens": [
+		"0x23528a23b1c3bb17d48a07378f6da7a1a13ef854",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f568e32d-8a21-4ecb-be12-55ebe442486f",
+	"Chain": "ethereum"
+}

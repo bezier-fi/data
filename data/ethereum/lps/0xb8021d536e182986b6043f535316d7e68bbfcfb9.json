@@ -1,0 +1,10 @@
+{
+	"Id": "0xb8021d536e182986b6043f535316d7e68bbfcfb9",
+	"Symbol": "Waffles-WETH",
+	"UnderlyingTokens": [
+		"0x2682ed0db994cd002a2fd5c5421e316f5025736d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f568e32d-8a21-4ecb-be12-55ebe442486f",
+	"Chain": "ethereum"
+}

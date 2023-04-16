@@ -1,0 +1,27 @@
+{
+	"Id": "0xc8e14740db4a84cd7c9f8c6f07c554ddca352221",
+	"Protocol": "f568e32d-8a21-4ecb-be12-55ebe442486f",
+	"Outputs": [
+		{
+			"Address": "0xc8e14740db4a84cd7c9f8c6f07c554ddca352221",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3f9a97014b0c1e431054e2afc102c197ff652698",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PLSFI-WETH",
+	"Chain": "ethereum"
+}

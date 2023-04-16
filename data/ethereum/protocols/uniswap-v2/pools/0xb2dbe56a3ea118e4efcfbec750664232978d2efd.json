@@ -1,0 +1,27 @@
+{
+	"Id": "0xb2dbe56a3ea118e4efcfbec750664232978d2efd",
+	"Protocol": "f568e32d-8a21-4ecb-be12-55ebe442486f",
+	"Outputs": [
+		{
+			"Address": "0xb2dbe56a3ea118e4efcfbec750664232978d2efd",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xd85fcdfc48166d8857c80a618016737ea89935da",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-STARSHIELD",
+	"Chain": "ethereum"
+}

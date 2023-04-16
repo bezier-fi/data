@@ -1,0 +1,31 @@
+{
+	"Id": "0x204f0620E7E7f07B780535711884835977679bba",
+	"Protocol": "3cf9f941-0c04-49a1-9e63-7503e157f2f7",
+	"Outputs": [
+		{
+			"Address": "0x6a4aC4DE3bF6bCD2975E2cb15A46954D9bA43fDb",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0974D9d3bc463Fa17497aAFc3a87535553298FbE",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x152b9d0FdC40C096757F570A51E494bd4b943E50",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CurveFi USD-BTC-AVAX",
+	"Chain": "avalanche"
+}

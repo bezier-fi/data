@@ -1,0 +1,10 @@
+{
+	"Id": "0x75e9c06b0e77218b600cbb5dc9e2dd6d2f69e724",
+	"Symbol": "PACO-WETH",
+	"UnderlyingTokens": [
+		"0x7e61f61609c010aa79844bebbeb8962f209e69ed",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f568e32d-8a21-4ecb-be12-55ebe442486f",
+	"Chain": "ethereum"
+}

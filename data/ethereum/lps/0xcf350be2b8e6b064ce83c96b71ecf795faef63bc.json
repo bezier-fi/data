@@ -1,0 +1,10 @@
+{
+	"Id": "0xcf350be2b8e6b064ce83c96b71ecf795faef63bc",
+	"Symbol": "OPENSPACE-WETH",
+	"UnderlyingTokens": [
+		"0x218e0a7176f07222845593fdf2eabddf4734b8bc",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f568e32d-8a21-4ecb-be12-55ebe442486f",
+	"Chain": "ethereum"
+}

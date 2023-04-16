@@ -1,0 +1,10 @@
+{
+	"Id": "0x523cc73a6727e5d96ce1c5f0b41665ec3a037b07",
+	"Symbol": "ONE-WETH",
+	"UnderlyingTokens": [
+		"0x8e1417c074d4810b46e957e353916c848d67e0e3",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f568e32d-8a21-4ecb-be12-55ebe442486f",
+	"Chain": "ethereum"
+}

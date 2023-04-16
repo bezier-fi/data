@@ -1,0 +1,10 @@
+{
+	"Id": "0xb2d098a7db75004cc51c7fb913dc05229623da20",
+	"Symbol": "DAI-MODS",
+	"UnderlyingTokens": [
+		"0x6b175474e89094c44da98b954eedeac495271d0f",
+		"0xa43a8fc632d809fb2c16f590c0ff6423e311c67d"
+	],
+	"Protocol": "f568e32d-8a21-4ecb-be12-55ebe442486f",
+	"Chain": "ethereum"
+}

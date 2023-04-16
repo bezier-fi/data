@@ -1,0 +1,10 @@
+{
+	"Id": "0x7ee4de37fd0d84966a03f597b31c3d210ea05e41",
+	"Symbol": "WETH-OG",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xddd43ae12de09827861483259d4c5f0237563026"
+	],
+	"Protocol": "f568e32d-8a21-4ecb-be12-55ebe442486f",
+	"Chain": "ethereum"
+}

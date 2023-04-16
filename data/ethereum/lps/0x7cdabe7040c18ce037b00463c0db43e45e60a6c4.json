@@ -1,0 +1,10 @@
+{
+	"Id": "0x7cdabe7040c18ce037b00463c0db43e45e60a6c4",
+	"Symbol": "WASH-WETH",
+	"UnderlyingTokens": [
+		"0x3549a0af0fcd42b0e63a3ea49576cf6e9bf1b3f1",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f568e32d-8a21-4ecb-be12-55ebe442486f",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x95b264963f80ae2fbb6c1e939d7ea73cf32e272c",
+	"Protocol": "f568e32d-8a21-4ecb-be12-55ebe442486f",
+	"Outputs": [
+		{
+			"Address": "0x95b264963f80ae2fbb6c1e939d7ea73cf32e272c",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5cfdfaeffaf345a7adfc8f69ef9e88049f1f38d1",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ELONBOT-WETH",
+	"Chain": "ethereum"
+}

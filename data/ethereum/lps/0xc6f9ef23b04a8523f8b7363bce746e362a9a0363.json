@@ -1,0 +1,10 @@
+{
+	"Id": "0xc6f9ef23b04a8523f8b7363bce746e362a9a0363",
+	"Symbol": "WETH-BASHTANK",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf236683b45cc870e91cfdcbe2cd96bd993484c97"
+	],
+	"Protocol": "f568e32d-8a21-4ecb-be12-55ebe442486f",
+	"Chain": "ethereum"
+}

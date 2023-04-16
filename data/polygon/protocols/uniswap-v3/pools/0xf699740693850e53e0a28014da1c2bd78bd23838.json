@@ -1,0 +1,27 @@
+{
+	"Id": "0xf699740693850e53e0a28014da1c2bd78bd23838",
+	"Protocol": "2060e74a-cda1-4a56-934e-3e6e0d26a711",
+	"Outputs": [
+		{
+			"Address": "0xf699740693850e53e0a28014da1c2bd78bd23838",
+			"Apr": 6.028718,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x5bc7c13dfb6df70733565a4db41f5057606ed550",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC-METADEXDAO (0.30%)",
+	"Chain": "polygon"
+}

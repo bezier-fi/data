@@ -1,0 +1,10 @@
+{
+	"Id": "0xc914b0864c943d519cd294209a4edb94d2c4431f",
+	"Symbol": "WETH-COREC",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf4e31643d3a1a733cb20fcf0c8c12e82d315a70a"
+	],
+	"Protocol": "f568e32d-8a21-4ecb-be12-55ebe442486f",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xe646d19ac76d5078be1409eb975659b21877d873",
+	"Symbol": "SUI-WETH",
+	"UnderlyingTokens": [
+		"0xa6bbcca6cc125ec53c495db672892b2e2a42bb87",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f568e32d-8a21-4ecb-be12-55ebe442486f",
+	"Chain": "ethereum"
+}

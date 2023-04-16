@@ -1,0 +1,10 @@
+{
+	"Id": "0x44c8ee5e4e2ffc139da43d5d49cf564dc0ddabee",
+	"Symbol": "Apollo-WETH",
+	"UnderlyingTokens": [
+		"0x425d105913a04f4f95311788195ba13c3e82c3b9",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f568e32d-8a21-4ecb-be12-55ebe442486f",
+	"Chain": "ethereum"
+}

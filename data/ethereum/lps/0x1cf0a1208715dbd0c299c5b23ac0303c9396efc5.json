@@ -1,0 +1,10 @@
+{
+	"Id": "0x1cf0a1208715dbd0c299c5b23ac0303c9396efc5",
+	"Symbol": "YAI-WETH",
+	"UnderlyingTokens": [
+		"0xa6588dfe7388fb0077121a83f546cc03fef690d4",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f568e32d-8a21-4ecb-be12-55ebe442486f",
+	"Chain": "ethereum"
+}

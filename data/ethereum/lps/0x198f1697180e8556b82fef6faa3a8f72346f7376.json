@@ -1,0 +1,10 @@
+{
+	"Id": "0x198f1697180e8556b82fef6faa3a8f72346f7376",
+	"Symbol": "MemeStealer-WETH",
+	"UnderlyingTokens": [
+		"0x889832503cba08ece82bdc088afb5590b59477da",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f568e32d-8a21-4ecb-be12-55ebe442486f",
+	"Chain": "ethereum"
+}

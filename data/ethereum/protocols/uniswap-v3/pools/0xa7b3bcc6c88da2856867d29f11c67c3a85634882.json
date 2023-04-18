@@ -1,0 +1,27 @@
+{
+	"Id": "0xa7b3bcc6c88da2856867d29f11c67c3a85634882",
+	"Protocol": "211c0d1e-3190-46c0-8ce1-1347eec2f5ee",
+	"Outputs": [
+		{
+			"Address": "0xa7b3bcc6c88da2856867d29f11c67c3a85634882",
+			"Apr": 5.9586287,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x761d38e5ddf6ccf6cf7c55759d5210750b5d60f3",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ELON-USDC (1.00%)",
+	"Chain": "ethereum"
+}

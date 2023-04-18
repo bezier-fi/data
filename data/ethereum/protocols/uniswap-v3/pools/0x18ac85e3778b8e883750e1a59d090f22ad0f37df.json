@@ -1,0 +1,27 @@
+{
+	"Id": "0x18ac85e3778b8e883750e1a59d090f22ad0f37df",
+	"Protocol": "211c0d1e-3190-46c0-8ce1-1347eec2f5ee",
+	"Outputs": [
+		{
+			"Address": "0x18ac85e3778b8e883750e1a59d090f22ad0f37df",
+			"Apr": 10.638328,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xa4c5cf93cbc87b82fba152e0ede4bbc5264c24ef",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC-PLSIOU (1.00%)",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x34c4a40a1bc23bb302cdd5a43b5aeef5006b2da2",
+	"Protocol": "211c0d1e-3190-46c0-8ce1-1347eec2f5ee",
+	"Outputs": [
+		{
+			"Address": "0x34c4a40a1bc23bb302cdd5a43b5aeef5006b2da2",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x862b1c8f53e0a7f766834fbbf197520956f87f48",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "RPRM-WETH (0.30%)",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x52fb234e2e63301fdd3786417064748b08e195af",
+	"Protocol": "211c0d1e-3190-46c0-8ce1-1347eec2f5ee",
+	"Outputs": [
+		{
+			"Address": "0x52fb234e2e63301fdd3786417064748b08e195af",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9725010fcfdec577f688bb86fe654f9b4e993df5",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "RUBL-USDT (1.00%)",
+	"Chain": "ethereum"
+}

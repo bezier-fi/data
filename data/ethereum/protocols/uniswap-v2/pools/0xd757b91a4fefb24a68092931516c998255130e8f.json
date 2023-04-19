@@ -1,0 +1,27 @@
+{
+	"Id": "0xd757b91a4fefb24a68092931516c998255130e8f",
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Outputs": [
+		{
+			"Address": "0xd757b91a4fefb24a68092931516c998255130e8f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x942f37bc2a0f9532d2a61ab8ef59fdc94f25b141",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PEBU-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xdf2f1111696f36b5148fbb2b769b023fcd550b78",
+	"Symbol": "FADED-WETH",
+	"UnderlyingTokens": [
+		"0x381c482cf7120f3b0e3e4fd0f6bc9f1c12a2c2b1",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Chain": "ethereum"
+}

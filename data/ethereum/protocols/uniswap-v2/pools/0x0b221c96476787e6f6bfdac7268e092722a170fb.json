@@ -1,0 +1,27 @@
+{
+	"Id": "0x0b221c96476787e6f6bfdac7268e092722a170fb",
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Outputs": [
+		{
+			"Address": "0x0b221c96476787e6f6bfdac7268e092722a170fb",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa6114f7024fe61532a68428cb7e1d431de7dac3f",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "OPENHUB-WETH",
+	"Chain": "ethereum"
+}

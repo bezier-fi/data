@@ -1,0 +1,10 @@
+{
+	"Id": "0x7eef4c9a74d0959eef803d3c9f3e62a8b7f2fe78",
+	"Symbol": "BART-WETH",
+	"UnderlyingTokens": [
+		"0x6da2aac2e74aab177b09817d15dd6f28f3551817",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Chain": "ethereum"
+}

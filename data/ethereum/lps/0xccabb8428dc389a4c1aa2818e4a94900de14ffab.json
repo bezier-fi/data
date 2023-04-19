@@ -1,0 +1,10 @@
+{
+	"Id": "0xccabb8428dc389a4c1aa2818e4a94900de14ffab",
+	"Symbol": "WETH-WAGIE",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfb9061826028976cbed54b366951d5fc2bd6c357"
+	],
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Chain": "ethereum"
+}

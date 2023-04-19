@@ -1,0 +1,10 @@
+{
+	"Id": "0x80187e13978a4135a7a20884338a8025a62a32ea",
+	"Symbol": "WETH-BOBO",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfdb44352ea2e161d5c6d5c3bb4d892a5bc86e7a1"
+	],
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Chain": "ethereum"
+}

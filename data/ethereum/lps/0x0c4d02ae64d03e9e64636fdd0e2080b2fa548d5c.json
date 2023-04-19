@@ -1,0 +1,10 @@
+{
+	"Id": "0x0c4d02ae64d03e9e64636fdd0e2080b2fa548d5c",
+	"Symbol": "MAGI-WETH",
+	"UnderlyingTokens": [
+		"0x3daa80ed8c3a91d746dd1eb30d254816cee6b448",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Chain": "ethereum"
+}

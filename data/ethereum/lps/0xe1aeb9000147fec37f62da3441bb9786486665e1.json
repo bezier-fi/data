@@ -1,0 +1,10 @@
+{
+	"Id": "0xe1aeb9000147fec37f62da3441bb9786486665e1",
+	"Symbol": "RMX-WETH",
+	"UnderlyingTokens": [
+		"0x8a275ab20076a01d14731a6ea6f3ed8c6f3c4aa1",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Chain": "ethereum"
+}

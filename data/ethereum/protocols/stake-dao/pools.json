@@ -1,634 +1,638 @@
 [
 	{
-		"Id": "0x0a509a935EC9c4d6E230Ed757C275Fa0F58b3B66",
-		"Symbol": "CLEVETH"
-	},
-	{
-		"Id": "0x1b2043a60225836fc9ce9fb8794a7854c6d78060",
-		"Symbol": "ibEUR/sEUR"
-	},
-	{
-		"Id": "0xbd1b242b87ffbce65bfd95160a42ad665df31c7a",
-		"Symbol": "IBAUD/USDC"
-	},
-	{
-		"Id": "0x68e5001da84B87581484C0C204140b6C439f2245",
-		"Symbol": "LDO/ETH"
-	},
-	{
-		"Id": "0x9f9a0b2d2eb0fa92913a24116674416b10b40fdf",
-		"Symbol": "WETH/MATIC"
-	},
-	{
-		"Id": "0x49c1a638de9ef6fd2740a30d4c2fb3c8b2e3768d",
-		"Symbol": "sdFXS/FXS"
-	},
-	{
-		"Id": "0x7894c2cb6b29892c0675c1b7d488e4efb59a658b",
-		"Symbol": "LDO/WETH"
-	},
-	{
-		"Id": "0x4d9ba7b59af73005d93ff5322c86eca0a35f2e1e",
-		"Symbol": "IBCHF/USDC"
-	},
-	{
-		"Id": "0x2D40FaDcA899Da8636e064b8d25f93E972D4f4DD",
-		"Symbol": "ALCX/FRAXBP"
-	},
-	{
-		"Id": "0x3eec17d76da0b7f94d2f61ee52599970362c30d9",
-		"Symbol": "D2D/USDC"
-	},
-	{
-		"Id": "0x1ce5181124c33Abc281BF0F07eF4fB8573556aA5",
-		"Symbol": "FPIS"
-	},
-	{
-		"Id": "0x231bcdae916daf34686f85f372ac51d0c0afa08d",
-		"Symbol": "BADGER/WBTC"
-	},
-	{
-		"Id": "0x40e7d853021806d2982cc9f123683388add16f39",
-		"Symbol": "cvxFXS"
-	},
-	{
-		"Id": "yield-0xbC10c4F7B9FE0B305e8639B04c536633A3dB7065",
-		"Symbol": "sdsteCRV Staking"
-	},
-	{
-		"Id": "0xD13F8C25CceD32cdfA79EB5eD654Ce3e484dCAF5",
-		"Symbol": "ANGLE"
-	},
-	{
-		"Id": "0x711F5F12070C5C8bc3bFADa148D24493a63dF976",
-		"Symbol": "FXS/ETH"
-	},
-	{
-		"Id": "0xF0716D9c1Af879Cd5bE38F638845DEC0c53eaC6A",
-		"Symbol": "cbETH/ETH"
-	},
-	{
-		"Id": "0x2c33d8a09c6f47b2446884e0eb8e783eca31fa12",
-		"Symbol": "SILO/FRAX"
-	},
-	{
-		"Id": "0x391ec41f9ac7e16d6a1e286a9807de61e702ef1f",
-		"Symbol": "BADGER/WBTC"
-	},
-	{
-		"Id": "0xa99ce10312b55dc145c56e1960e6b5f713c25280",
-		"Symbol": "WETH/YFI"
-	},
-	{
-		"Id": "0xbac96b9411c11844fc525323c5261550e62dfd4d",
-		"Symbol": "USDC/WETH"
-	},
-	{
-		"Id": "0x1513b44a589ffc76d0727968eb55da4110b39422",
-		"Symbol": "SDT/ETH"
-	},
-	{
-		"Id": "0xb442400959867d7ad8238bca2044ccba2ce60b11",
-		"Symbol": "CRVETH"
-	},
-	{
-		"Id": "0xf6bccd68d12223349dfa2c500d89ccd075adc430",
-		"Symbol": "DYDX/ETH"
-	},
-	{
-		"Id": "0xF6F12EfFb70A9a5372dC9eA6848991799bB3ff96",
-		"Symbol": "G-Uni agEUR/ETH LP"
-	},
-	{
-		"Id": "0xCD6997334867728ba14d7922f72c893fcee70e84",
-		"Symbol": "Passive sEUR"
-	},
-	{
-		"Id": "0x13CB956866fD76636383d7b769f08C64bBE81D6c",
-		"Symbol": "sdYFI/YFI"
-	},
-	{
-		"Id": "0x9fc8bb6b851e495b868f1f4826b4665422727466",
-		"Symbol": "WETH/DAI"
-	},
-	{
-		"Id": "0xdd007cb6005017e548c761c2d12d9aa03961c30a",
-		"Symbol": "STG/USDC"
-	},
-	{
-		"Id": "0x2f3fc84df1e44f3cb5227f54617a20098b5a1735",
-		"Symbol": "WBTC/WETH"
-	},
-	{
-		"Id": "0xA90755727aaC633bd1A189121922d0eA3B49974c",
-		"Symbol": "OGVETH"
-	},
-	{
-		"Id": "0xddf440ffb3cb1cf6eee891f05e84a2137ebcce34",
-		"Symbol": "sBTC"
-	},
-	{
-		"Id": "0xa6538eeed7579e5da0b7bcb2b3186e0c5eebc54d",
-		"Symbol": "sETH"
-	},
-	{
-		"Id": "0x058275e934174D40037FEcF2daa7611f372A3729",
-		"Symbol": "clevCVX/CVX"
-	},
-	{
-		"Id": "yield-0xa2761B0539374EB7AF2155f76eb09864af075250",
-		"Symbol": "sdeCRV Staking"
-	},
-	{
-		"Id": "0x70cefc71e988309c8361f64ec21d1bbf6097762c",
-		"Symbol": "alUSD"
-	},
-	{
-		"Id": "0x690607e2302908acd5ee7dec1b8ddffa3c29e3a4",
-		"Symbol": "cvxETH"
-	},
-	{
-		"Id": "0xc10B7CA0383F0357EdEED233Dc806B5229DCF4a5",
-		"Symbol": "ETH Covered Call Strategy V2"
-	},
-	{
-		"Id": "0xc625402960f453c09bb80c40e2e9c649daf49177",
-		"Symbol": "EUROC3CRV"
-	},
-	{
-		"Id": "0xB17640796e4c27a39AF51887aff3F8DC0daF9567",
-		"Symbol": "Passive 3CRV"
-	},
-	{
-		"Id": "0xeFB5A00C3F7C732D12CA7d937cB6167913d17b31",
-		"Symbol": "rETH"
-	},
-	{
-		"Id": "0x7fA74edBC606918b7ba67911b4Be13a8616FE3DE",
-		"Symbol": "DOLAFRAXBP"
-	},
-	{
-		"Id": "0x887716b67C60C4832E1c0Bc877716609450Eb009",
-		"Symbol": "MAI/FRAXBP"
-	},
-	{
-		"Id": "0x4bef7cac19b256b37415aa03c29de7a12fb18be9",
-		"Symbol": "PAL/ETH"
-	},
-	{
-		"Id": "0xea79d1a83da6db43a85942767c389fe0acf336a5",
-		"Symbol": "BAL"
-	},
-	{
-		"Id": "0x8Bd6283E2158937327eB196C22FF38eBa9a84e44",
-		"Symbol": "CTRETH"
-	},
-	{
-		"Id": "0xD65F01C0249247175433ac8f4748042Ac0307AdC",
-		"Symbol": "50STG-50bb-a-USD"
-	},
-	{
-		"Id": "0x1816620a9843818c29EBF0bc096A90fbf3a3bE13",
-		"Symbol": "TEMPLE/DAI"
-	},
-	{
-		"Id": "0xaDA7CcB62331737D77A3950Ac253F333de260318",
-		"Symbol": "sfrxETH-stETH-rETH-BPT"
-	},
-	{
-		"Id": "0xfb5312107c4150c86228e8fd719b8b0ae2db581d",
-		"Symbol": "LUSD"
-	},
-	{
-		"Id": "0x48ec7b470de85564d839293a2bf41a6fcba30811",
-		"Symbol": "VITA/WETH"
-	},
-	{
-		"Id": "0xb686cb269409b8431cce19412b3e57d0a146c674",
-		"Symbol": "OHM/ETH"
-	},
-	{
-		"Id": "yield-0xB17640796e4c27a39AF51887aff3F8DC0daF9567",
-		"Symbol": "sd3Crv Staking"
-	},
-	{
-		"Id": "0xad8D8664D12b22cC79139210c5FEd3e4F971441A",
-		"Symbol": "EURSUSD"
-	},
-	{
-		"Id": "0x70D4556729EFB02247037BEa3A9c469573a96De1",
-		"Symbol": "SDT/FRAXBP"
-	},
-	{
-		"Id": "0xc6aa301d1eff676229aa2738577dd7ff5b9f6be6",
-		"Symbol": "SNX/WETH"
-	},
-	{
-		"Id": "0x077741779b482f4cbd6e91f9c939f7ea2d761c4d",
-		"Symbol": "DOLA3POOL"
-	},
-	{
-		"Id": "0x2cfe0e7b0eff280d74c2f406c05511b9b7c72549",
-		"Symbol": "sdANGLE/ANGLE"
-	},
-	{
-		"Id": "0x4c37680EB50e1CA2f6cfB77A4Dd58F932d7818C5",
-		"Symbol": "TRYB/USD"
-	},
-	{
-		"Id": "0xF750162fD81F9a436d74d737EF6eE8FC08e98220",
-		"Symbol": "YFI"
-	},
-	{
-		"Id": "0x1bd865ba36a510514d389b2ea763bad5d96b6ff9",
-		"Symbol": "sanFRAX"
-	},
-	{
-		"Id": "0xb2a5dd2902dc34411f2e848b5311fc442aabfcd5",
-		"Symbol": "XAUt/3CRV"
-	},
-	{
-		"Id": "0xd59b663cc1e758f546658dc4649e8724720872fd",
-		"Symbol": "ALUSDFRAXBP"
-	},
-	{
-		"Id": "0x35e27b68c75e5b6431b823ceb664537b91e87ffe",
-		"Symbol": "sanDAI"
-	},
-	{
-		"Id": "0x97ba0311babab0ccde141d9fe52f8826547509a5",
-		"Symbol": "FRAX3CRV"
-	},
-	{
-		"Id": "0xf2f19314f693b5d4dc12a578272464d138684d38",
-		"Symbol": "RETH/WETH"
-	},
-	{
-		"Id": "0xE71e28a510bC3F98a9E77e847aE5AEF9a2e5721d",
-		"Symbol": "APW"
-	},
-	{
-		"Id": "0x52f541764E6e90eeBc5c21Ff570De0e2D63766B6",
-		"Symbol": "CRV"
-	},
-	{
-		"Id": "0xc25d747e93003807cea17cd8c16528f98602da25",
-		"Symbol": "FPI2Pool"
-	},
-	{
-		"Id": "0x8904daca6c2f39e0c4d99d72e7bfccd15d73811c",
-		"Symbol": "IronBank"
-	},
-	{
-		"Id": "0xDf136d25b95A3C01b54B43c002A55c4172a5c1AF",
-		"Symbol": "clevUSDFRAXBP"
-	},
-	{
-		"Id": "0xe594001a80685E70E9E6357fd85136728fEfF111",
-		"Symbol": "GEAR/ETH"
-	},
-	{
-		"Id": "0xdcf4509290899bd9fc317ed31bf3b74e7789a6b4",
-		"Symbol": "MTA/WETH"
-	},
-	{
-		"Id": "0x1e60d1618F4Be07Ebf7C37735d31C7BE0646dFa0",
-		"Symbol": "USDD/3CRV"
-	},
-	{
-		"Id": "0x3d2757641445a49668a935d9b178b69989059dc2",
-		"Symbol": "Boosted Aave USD"
-	},
-	{
-		"Id": "0x04718089AA7574785f0AE88D53c19f4Df43a4de8",
-		"Symbol": "cvxCRV/CRV"
-	},
-	{
-		"Id": "0x059d3A4c6CE6D1454219Ad118D14c16AD66BB47B",
-		"Symbol": "USDP3CRV"
-	},
-	{
-		"Id": "0xb9205784b05fbe5b5298792a24c2cb844b7dc467",
-		"Symbol": "3pool"
-	},
-	{
-		"Id": "0x34cee8e574e78c3269d96768bf873f133c14b640",
-		"Symbol": "hBTC"
-	},
-	{
-		"Id": "0xb574a98626454039d57eeb5109117ec35aa8a0c5",
-		"Symbol": "busdv2"
-	},
-	{
-		"Id": "0x3b28004e94e00a510ab3d124bd9721c3243c6962",
-		"Symbol": "ETH/MATIC"
-	},
-	{
-		"Id": "0x43cb3d038b09593ba1ddb749efa7e6d3c1370aaa",
-		"Symbol": "RAI3CRV"
-	},
-	{
-		"Id": "0xc34487651feab5919fe128a0fc186f39a7d0c681",
-		"Symbol": "WETH/LINK"
-	},
-	{
-		"Id": "0x559d025d04d6e805095b6854cadb427035bd9845",
-		"Symbol": "LUSDFRAXBP"
-	},
-	{
-		"Id": "0xbC10c4F7B9FE0B305e8639B04c536633A3dB7065",
-		"Symbol": "Passive stETH"
-	},
-	{
-		"Id": "0x22abae1748a4a03517f070f0b5f2403250755612",
-		"Symbol": "HAUS/WETH"
-	},
-	{
-		"Id": "0x9b1b7a318c2511ab53c5bd06caec18540819a238",
-		"Symbol": "GNO/WETH"
-	},
-	{
-		"Id": "0xAC723A9EB4DDB0F7D55cc175c49A407d9F590EC6",
-		"Symbol": "agEUR/FRAXBP"
-	},
-	{
-		"Id": "0x94c68501f02c9da94512cb47968d57af0da766f9",
-		"Symbol": "3EUR"
-	},
-	{
-		"Id": "0xfb2a5d65e41f023a5f805b94f07fcb16c67799ef",
-		"Symbol": "SUSDFRAXBP"
-	},
-	{
-		"Id": "0xbc61f6973cE564eFFB16Cd79B5BC3916eaD592E2",
-		"Symbol": "UZD/FRAXBP"
-	},
-	{
-		"Id": "0xdee50b05a4b6a4febe974d1884bdf4c94d41a89a",
-		"Symbol": "TUSDFRAXBP"
-	},
-	{
-		"Id": "0x9e2e1dca29feb74505de0da8d08ee846b1146027",
-		"Symbol": "COW/WETH"
-	},
-	{
 		"Id": "0x813dd674fc5763e6b5b8f381d069e32b6f02d020",
 		"Symbol": "TOKE/ETH"
-	},
-	{
-		"Id": "0x70973F95eF1dEcbfECB65091f49ec8A9dE974ddE",
-		"Symbol": "stETH concentrated"
-	},
-	{
-		"Id": "0x999Ad161d90c7112Cf9AEc6fCC2f814E0bB225b3",
-		"Symbol": "INV/DOLA"
-	},
-	{
-		"Id": "0x5282ffd9fd18770b929f95b30422d95c0fc25ea6",
-		"Symbol": "GUSDFRAXBP"
-	},
-	{
-		"Id": "0x4Ca321E4966A6BCbC26c13921CD76cac7D1f1B02",
-		"Symbol": "G-Uni agEUR/USDC LP"
-	},
-	{
-		"Id": "0x832af84a3012A5f804002fC6DBb4F53E00C72F4e",
-		"Symbol": "CNCETH"
-	},
-	{
-		"Id": "0x9e57de89dd2eb4c07ecfd70dbc4059a454db7218",
-		"Symbol": "ETH/KP3R"
-	},
-	{
-		"Id": "0x7ca0a95c96cd34013d619effcb02f200a031210d",
-		"Symbol": "sdBAL/B-80BAL-20WETH"
-	},
-	{
-		"Id": "yield-0xCD6997334867728ba14d7922f72c893fcee70e84",
-		"Symbol": "sdeursCRV Staking"
-	},
-	{
-		"Id": "0xe8d9b7BDDfEA9f75F7DF517E68EAa2dfB5b94C90",
-		"Symbol": "PUSd/FRAXBP"
-	},
-	{
-		"Id": "0x473f83E0FcB828730E61deE80b1df55F5bA6A139",
-		"Symbol": "gusd"
-	},
-	{
-		"Id": "0x9BAF7747cC4DbE1199b5FE248a23AC1803A0694a",
-		"Symbol": "JPEG/ETH"
-	},
-	{
-		"Id": "0xd6415ff2639835300ab947fe67bad6f0b31400c1",
-		"Symbol": "sdCRV/CRV"
-	},
-	{
-		"Id": "0xa86591158d4af7ece9e18cc35b04beb3588a6cb4",
-		"Symbol": "SUSD"
-	},
-	{
-		"Id": "0x11d87d278432bb2ca6ce175e4a8b4abdade80fd0",
-		"Symbol": "FRAX/USDC"
-	},
-	{
-		"Id": "0x1242e4a83ea7556c7d846739a66e475d689b5cd4",
-		"Symbol": "TETH"
-	},
-	{
-		"Id": "0x6b03e9c8e8d2d8a8c21a090e9d363d3d0bf2ee19",
-		"Symbol": "USDDFRAXBP"
-	},
-	{
-		"Id": "0x45F492751e88497b6C38fE4E8920307532699f79",
-		"Symbol": "yCRV"
-	},
-	{
-		"Id": "0xae8fe0928a68b1fbac7789398da18fd929f4f729",
-		"Symbol": "d3Pool"
-	},
-	{
-		"Id": "yield-0x478bBC744811eE8310B461514BDc29D03739084D",
-		"Symbol": "sdveCRV-DAO Staking"
-	},
-	{
-		"Id": "0xf106cd073fc25ad42c7617d2f1630e538e9bd736",
-		"Symbol": "YFI/ETH"
-	},
-	{
-		"Id": "0x5c87d4a74dc65bb01573a2cabf29e56dd8221294",
-		"Symbol": "WNCG/WETH"
-	},
-	{
-		"Id": "0xbee51E9b1B07d1D44b8732DA46A3201c14cae879",
-		"Symbol": "50wstETH-50bb-a-USD"
 	},
 	{
 		"Id": "0xed2c4c7518e0a9cb70da8aa89e58efa04cac59c9",
 		"Symbol": "CREAM/WETH"
 	},
 	{
-		"Id": "0x0cbd1fb1c170ddcf1fd945f50429f84f94e670f8",
-		"Symbol": "Sushi agEUR/ANGLE LP"
+		"Id": "0xD65F01C0249247175433ac8f4748042Ac0307AdC",
+		"Symbol": "50STG-50bb-a-USD"
 	},
 	{
-		"Id": "",
-		"Symbol": "FRAX/SYN"
+		"Id": "0x4d9ba7b59af73005d93ff5322c86eca0a35f2e1e",
+		"Symbol": "IBCHF/USDC"
 	},
 	{
-		"Id": "0xE2060820Dde4911dF009076DF18DFfaFc9435Cd0",
-		"Symbol": "ankreth"
+		"Id": "0x40e7d853021806d2982cc9f123683388add16f39",
+		"Symbol": "cvxFXS"
 	},
 	{
-		"Id": "0x6145d4E396B2aDb76F7A5aA369E25cC2cef95703",
-		"Symbol": "sBTC2"
+		"Id": "0x97ba0311babab0ccde141d9fe52f8826547509a5",
+		"Symbol": "FRAX3CRV"
 	},
 	{
-		"Id": "0xb0b1e2c9d020439418508d3d6f7fc6ed7edeb62d",
-		"Symbol": "CADC/USDC"
-	},
-	{
-		"Id": "0x2b59f2711df8b73736d043a1aa3d23840da3ee31",
-		"Symbol": "MAI/USDC"
-	},
-	{
-		"Id": "0x6c1b9a168dcc7bdbed92621d1c7d84f58c04d7ff",
-		"Symbol": "WETH/FEI"
-	},
-	{
-		"Id": "0x76CD1dcc429c2A7Ccdb01564fD1bD0C0cEb1dE90",
-		"Symbol": "OHM/FRAXBP"
-	},
-	{
-		"Id": "0x339C0814a5c3256b936F85f020d151Bcb1972035",
-		"Symbol": "apeUSDFRAXBP"
-	},
-	{
-		"Id": "0xa2761B0539374EB7AF2155f76eb09864af075250",
-		"Symbol": "Passive sETH"
-	},
-	{
-		"Id": "0xd072d3dB1343029087cb9466DE19492b7A1C66FF",
-		"Symbol": "DEV strategy"
-	},
-	{
-		"Id": "0x8194d5d07dc7b6354ecf1efd96755f01454870aa",
-		"Symbol": "EUROPOOL"
-	},
-	{
-		"Id": "0xD3c74bcce2dfBBa6A08f387F607cfaFA4279DAAA",
-		"Symbol": "pETH"
-	},
-	{
-		"Id": "0xD935a972758342c8807cF99870EebCa8108B4FbF",
-		"Symbol": "frxETH"
-	},
-	{
-		"Id": "0x0223a1a00a10b1cfb7e64512800f34ff2d03362a",
-		"Symbol": "IBJPY/USDC"
-	},
-	{
-		"Id": "0x5da5228d95653b5c2c082c53a5e83112e8114aa4",
-		"Symbol": "Compound"
-	},
-	{
-		"Id": "0x7dbab34cfaccf4aabac9d5ec298497dc252e2920",
-		"Symbol": "wstETH/WETH"
+		"Id": "0x4c37680EB50e1CA2f6cfB77A4Dd58F932d7818C5",
+		"Symbol": "TRYB/USD"
 	},
 	{
 		"Id": "0xe6abcc59cdf31dc09ee856395dd46e21665b4d09",
 		"Symbol": "cvxCRV"
 	},
 	{
-		"Id": "0xa321A6D31b097FAd32d4c89E9a4A2A6eA61e9118",
-		"Symbol": "ibAUD/sAUD"
+		"Id": "0xB17640796e4c27a39AF51887aff3F8DC0daF9567",
+		"Symbol": "Passive 3CRV"
 	},
 	{
-		"Id": "0x42a83D2935224fd93FABCD92C032DD5661675198",
-		"Symbol": "80palStkAAVE-20AAVE"
+		"Id": "0x2f3fc84df1e44f3cb5227f54617a20098b5a1735",
+		"Symbol": "WBTC/WETH"
 	},
 	{
-		"Id": "0x1e02e6ef2d762882dec7ee61867f3f17b8c75aa7",
-		"Symbol": "OUSD/3CRV"
+		"Id": "0x339C0814a5c3256b936F85f020d151Bcb1972035",
+		"Symbol": "apeUSDFRAXBP"
 	},
 	{
-		"Id": "0xd4eD44aa0aC185ad3024f5433442d9aef4b39ED8",
-		"Symbol": "XAI/FRAXBP"
+		"Id": "0x1513b44a589ffc76d0727968eb55da4110b39422",
+		"Symbol": "SDT/ETH"
 	},
 	{
-		"Id": "0xCd3a267DE09196C48bbB1d9e842D7D7645cE448f",
-		"Symbol": "FXS"
+		"Id": "0x559d025d04d6e805095b6854cadb427035bd9845",
+		"Symbol": "LUSDFRAXBP"
 	},
 	{
-		"Id": "0xb01d78b635e8404ac5dd3e3e5e7d71eb348a591d",
-		"Symbol": "alETH"
+		"Id": "0x077741779b482f4cbd6e91f9c939f7ea2d761c4d",
+		"Symbol": "DOLA3POOL"
 	},
 	{
-		"Id": "0x0a4dF7809F83e130D8ffa297f03b75318E37B461",
-		"Symbol": "BPT"
+		"Id": "0xa6538eeed7579e5da0b7bcb2b3186e0c5eebc54d",
+		"Symbol": "sETH"
 	},
 	{
-		"Id": "0x035652a14e27de1d7ca36bff0c4dfc3e2f0749b4",
-		"Symbol": "steth"
+		"Id": "0xa2761B0539374EB7AF2155f76eb09864af075250",
+		"Symbol": "Passive sETH"
 	},
 	{
-		"Id": "0xa56c82EbeBaE59a3c5a18D39932BB9a45e74b8F9",
-		"Symbol": "RSR+FRAX/USDC"
+		"Id": "0x8194d5d07dc7b6354ecf1efd96755f01454870aa",
+		"Symbol": "EUROPOOL"
 	},
 	{
-		"Id": "0x8Af0832dCd45FD452fcdbBCD388Ce8D4b8d196B0",
-		"Symbol": "PUSd"
+		"Id": "0xb442400959867d7ad8238bca2044ccba2ce60b11",
+		"Symbol": "CRVETH"
 	},
 	{
-		"Id": "0xB9Cf11B20C702Af9B8FA89122b33A47C01DC77B4",
-		"Symbol": "multiBTC+WBTC/sBTC"
+		"Id": "0x43cb3d038b09593ba1ddb749efa7e6d3c1370aaa",
+		"Symbol": "RAI3CRV"
 	},
 	{
-		"Id": "0x1e238ff08e374ffc87dec596d0c75ca524c43bee",
-		"Symbol": "IBGBP/USDC"
+		"Id": "0x0a509a935EC9c4d6E230Ed757C275Fa0F58b3B66",
+		"Symbol": "CLEVETH"
 	},
 	{
-		"Id": "0x5af15DA84A4a6EDf2d9FA6720De921E1026E37b7",
-		"Symbol": "Passive FRAX"
+		"Id": "0x7ca0a95c96cd34013d619effcb02f200a031210d",
+		"Symbol": "sdBAL/B-80BAL-20WETH"
 	},
 	{
-		"Id": "0x8881c497f6f5f2cecd0742c37c6840bcf5234535",
-		"Symbol": "sanUSDC"
+		"Id": "0x4bef7cac19b256b37415aa03c29de7a12fb18be9",
+		"Symbol": "PAL/ETH"
 	},
 	{
-		"Id": "0xde46532a49c88af504594f488822f452b7fbc7bd",
-		"Symbol": "agEUR/EUROC"
+		"Id": "0xBFc7DE82a77280B6332f50a24e509c8B55C9F696",
+		"Symbol": "bLUSD/LUSD3CRV"
+	},
+	{
+		"Id": "",
+		"Symbol": "FRAX/SYN"
+	},
+	{
+		"Id": "0xF750162fD81F9a436d74d737EF6eE8FC08e98220",
+		"Symbol": "YFI"
+	},
+	{
+		"Id": "0x690607e2302908acd5ee7dec1b8ddffa3c29e3a4",
+		"Symbol": "cvxETH"
+	},
+	{
+		"Id": "0x04718089AA7574785f0AE88D53c19f4Df43a4de8",
+		"Symbol": "cvxCRV/CRV"
+	},
+	{
+		"Id": "0xbac96b9411c11844fc525323c5261550e62dfd4d",
+		"Symbol": "USDC/WETH"
+	},
+	{
+		"Id": "0x6c1b9a168dcc7bdbed92621d1c7d84f58c04d7ff",
+		"Symbol": "WETH/FEI"
+	},
+	{
+		"Id": "0xdcf4509290899bd9fc317ed31bf3b74e7789a6b4",
+		"Symbol": "MTA/WETH"
+	},
+	{
+		"Id": "0xD13F8C25CceD32cdfA79EB5eD654Ce3e484dCAF5",
+		"Symbol": "ANGLE"
+	},
+	{
+		"Id": "0xdee50b05a4b6a4febe974d1884bdf4c94d41a89a",
+		"Symbol": "TUSDFRAXBP"
+	},
+	{
+		"Id": "0xb686cb269409b8431cce19412b3e57d0a146c674",
+		"Symbol": "OHM/ETH"
+	},
+	{
+		"Id": "0x999Ad161d90c7112Cf9AEc6fCC2f814E0bB225b3",
+		"Symbol": "INV/DOLA"
+	},
+	{
+		"Id": "0xb0b1e2c9d020439418508d3d6f7fc6ed7edeb62d",
+		"Symbol": "CADC/USDC"
+	},
+	{
+		"Id": "0x4Ca321E4966A6BCbC26c13921CD76cac7D1f1B02",
+		"Symbol": "G-Uni agEUR/USDC LP"
+	},
+	{
+		"Id": "0xfb2a5d65e41f023a5f805b94f07fcb16c67799ef",
+		"Symbol": "SUSDFRAXBP"
+	},
+	{
+		"Id": "0x9e2e1dca29feb74505de0da8d08ee846b1146027",
+		"Symbol": "COW/WETH"
 	},
 	{
 		"Id": "0x227e4635c5fe22D1e36daB1C921B62f8ACC451b9",
 		"Symbol": "BTC Covered Call Strategy"
 	},
 	{
-		"Id": "0x5e06f8ef65d44668597589c679209468880c8bcc",
-		"Symbol": "IBKRW/USDC"
+		"Id": "0xd072d3dB1343029087cb9466DE19492b7A1C66FF",
+		"Symbol": "DEV strategy"
+	},
+	{
+		"Id": "0x8Bd6283E2158937327eB196C22FF38eBa9a84e44",
+		"Symbol": "CTRETH"
+	},
+	{
+		"Id": "0x2D40FaDcA899Da8636e064b8d25f93E972D4f4DD",
+		"Symbol": "ALCX/FRAXBP"
+	},
+	{
+		"Id": "0x76CD1dcc429c2A7Ccdb01564fD1bD0C0cEb1dE90",
+		"Symbol": "OHM/FRAXBP"
+	},
+	{
+		"Id": "0xF0716D9c1Af879Cd5bE38F638845DEC0c53eaC6A",
+		"Symbol": "cbETH/ETH"
+	},
+	{
+		"Id": "0x48ec7b470de85564d839293a2bf41a6fcba30811",
+		"Symbol": "VITA/WETH"
+	},
+	{
+		"Id": "0x0a4dF7809F83e130D8ffa297f03b75318E37B461",
+		"Symbol": "BPT"
+	},
+	{
+		"Id": "0x059d3A4c6CE6D1454219Ad118D14c16AD66BB47B",
+		"Symbol": "USDP3CRV"
+	},
+	{
+		"Id": "0x1816620a9843818c29EBF0bc096A90fbf3a3bE13",
+		"Symbol": "TEMPLE/DAI"
+	},
+	{
+		"Id": "0x9b1b7a318c2511ab53c5bd06caec18540819a238",
+		"Symbol": "GNO/WETH"
+	},
+	{
+		"Id": "0xE2060820Dde4911dF009076DF18DFfaFc9435Cd0",
+		"Symbol": "ankreth"
+	},
+	{
+		"Id": "0x1ce5181124c33Abc281BF0F07eF4fB8573556aA5",
+		"Symbol": "FPIS"
+	},
+	{
+		"Id": "0xA90755727aaC633bd1A189121922d0eA3B49974c",
+		"Symbol": "OGVETH"
+	},
+	{
+		"Id": "0x34cee8e574e78c3269d96768bf873f133c14b640",
+		"Symbol": "hBTC"
+	},
+	{
+		"Id": "0x6b03e9c8e8d2d8a8c21a090e9d363d3d0bf2ee19",
+		"Symbol": "USDDFRAXBP"
+	},
+	{
+		"Id": "0xc25d747e93003807cea17cd8c16528f98602da25",
+		"Symbol": "FPI2Pool"
+	},
+	{
+		"Id": "0x9fc8bb6b851e495b868f1f4826b4665422727466",
+		"Symbol": "WETH/DAI"
+	},
+	{
+		"Id": "0x1bd865ba36a510514d389b2ea763bad5d96b6ff9",
+		"Symbol": "sanFRAX"
+	},
+	{
+		"Id": "0xe594001a80685E70E9E6357fd85136728fEfF111",
+		"Symbol": "GEAR/ETH"
+	},
+	{
+		"Id": "yield-0xa2761B0539374EB7AF2155f76eb09864af075250",
+		"Symbol": "sdeCRV Staking"
+	},
+	{
+		"Id": "0x473f83E0FcB828730E61deE80b1df55F5bA6A139",
+		"Symbol": "gusd"
 	},
 	{
 		"Id": "yield-0x5af15DA84A4a6EDf2d9FA6720De921E1026E37b7",
 		"Symbol": "sdFRAX3CRV-f Staking"
 	},
 	{
-		"Id": "0x98dd95d0ac5b70b0f4ae5080a1c2eea8c5c48387",
-		"Symbol": "mim"
+		"Id": "0xa56c82EbeBaE59a3c5a18D39932BB9a45e74b8F9",
+		"Symbol": "RSR+FRAX/USDC"
 	},
 	{
-		"Id": "0x7c3420d06fc78e2fdc8ca42dd890f77cc8c5f2a8",
-		"Symbol": "TBTC2"
+		"Id": "0xE67b54bF07F5dFD3c7a992627F6bB8C35B239FB4",
+		"Symbol": "StaFi-rETH/ETH"
 	},
 	{
-		"Id": "0x622aa9b1ff7132336751f528278e4100a6ea3de9",
-		"Symbol": "IBEUR/USDC"
+		"Id": "0xf2f19314f693b5d4dc12a578272464d138684d38",
+		"Symbol": "RETH/WETH"
+	},
+	{
+		"Id": "0x058275e934174D40037FEcF2daa7611f372A3729",
+		"Symbol": "clevCVX/CVX"
+	},
+	{
+		"Id": "yield-0xbC10c4F7B9FE0B305e8639B04c536633A3dB7065",
+		"Symbol": "sdsteCRV Staking"
+	},
+	{
+		"Id": "0xe8d9b7BDDfEA9f75F7DF517E68EAa2dfB5b94C90",
+		"Symbol": "PUSd/FRAXBP"
 	},
 	{
 		"Id": "0x903f3c7b4c3b18df9a06157f9fd5176e6a1fde68",
 		"Symbol": "Tricrypto2"
 	},
 	{
-		"Id": "0xBFc7DE82a77280B6332f50a24e509c8B55C9F696",
-		"Symbol": "bLUSD/LUSD3CRV"
+		"Id": "0xb9205784b05fbe5b5298792a24c2cb844b7dc467",
+		"Symbol": "3pool"
+	},
+	{
+		"Id": "0x1e238ff08e374ffc87dec596d0c75ca524c43bee",
+		"Symbol": "IBGBP/USDC"
+	},
+	{
+		"Id": "0xc34487651feab5919fe128a0fc186f39a7d0c681",
+		"Symbol": "WETH/LINK"
+	},
+	{
+		"Id": "0x3b28004e94e00a510ab3d124bd9721c3243c6962",
+		"Symbol": "ETH/MATIC"
+	},
+	{
+		"Id": "0xeFB5A00C3F7C732D12CA7d937cB6167913d17b31",
+		"Symbol": "rETH"
+	},
+	{
+		"Id": "0x2b59f2711df8b73736d043a1aa3d23840da3ee31",
+		"Symbol": "MAI/USDC"
+	},
+	{
+		"Id": "0x2cfe0e7b0eff280d74c2f406c05511b9b7c72549",
+		"Symbol": "sdANGLE/ANGLE"
+	},
+	{
+		"Id": "0x70973F95eF1dEcbfECB65091f49ec8A9dE974ddE",
+		"Symbol": "stETH concentrated"
+	},
+	{
+		"Id": "0xf106cd073fc25ad42c7617d2f1630e538e9bd736",
+		"Symbol": "YFI/ETH"
+	},
+	{
+		"Id": "0x7fA74edBC606918b7ba67911b4Be13a8616FE3DE",
+		"Symbol": "DOLAFRAXBP"
+	},
+	{
+		"Id": "0x5e06f8ef65d44668597589c679209468880c8bcc",
+		"Symbol": "IBKRW/USDC"
+	},
+	{
+		"Id": "0x7c3420d06fc78e2fdc8ca42dd890f77cc8c5f2a8",
+		"Symbol": "TBTC2"
+	},
+	{
+		"Id": "0xae8fe0928a68b1fbac7789398da18fd929f4f729",
+		"Symbol": "d3Pool"
+	},
+	{
+		"Id": "0x94c68501f02c9da94512cb47968d57af0da766f9",
+		"Symbol": "3EUR"
+	},
+	{
+		"Id": "0xd59b663cc1e758f546658dc4649e8724720872fd",
+		"Symbol": "ALUSDFRAXBP"
+	},
+	{
+		"Id": "0x622aa9b1ff7132336751f528278e4100a6ea3de9",
+		"Symbol": "IBEUR/USDC"
+	},
+	{
+		"Id": "0x22abae1748a4a03517f070f0b5f2403250755612",
+		"Symbol": "HAUS/WETH"
+	},
+	{
+		"Id": "0xc625402960f453c09bb80c40e2e9c649daf49177",
+		"Symbol": "EUROC3CRV"
+	},
+	{
+		"Id": "0xaDA7CcB62331737D77A3950Ac253F333de260318",
+		"Symbol": "sfrxETH-stETH-rETH-BPT"
+	},
+	{
+		"Id": "0xc6aa301d1eff676229aa2738577dd7ff5b9f6be6",
+		"Symbol": "SNX/WETH"
+	},
+	{
+		"Id": "0x231bcdae916daf34686f85f372ac51d0c0afa08d",
+		"Symbol": "BADGER/WBTC"
+	},
+	{
+		"Id": "0x3eec17d76da0b7f94d2f61ee52599970362c30d9",
+		"Symbol": "D2D/USDC"
+	},
+	{
+		"Id": "0x711F5F12070C5C8bc3bFADa148D24493a63dF976",
+		"Symbol": "FXS/ETH"
+	},
+	{
+		"Id": "0x70cefc71e988309c8361f64ec21d1bbf6097762c",
+		"Symbol": "alUSD"
+	},
+	{
+		"Id": "0x6145d4E396B2aDb76F7A5aA369E25cC2cef95703",
+		"Symbol": "sBTC2"
+	},
+	{
+		"Id": "0xbd1b242b87ffbce65bfd95160a42ad665df31c7a",
+		"Symbol": "IBAUD/USDC"
+	},
+	{
+		"Id": "0x70D4556729EFB02247037BEa3A9c469573a96De1",
+		"Symbol": "SDT/FRAXBP"
+	},
+	{
+		"Id": "0xa321A6D31b097FAd32d4c89E9a4A2A6eA61e9118",
+		"Symbol": "ibAUD/sAUD"
+	},
+	{
+		"Id": "0xDf136d25b95A3C01b54B43c002A55c4172a5c1AF",
+		"Symbol": "clevUSDFRAXBP"
+	},
+	{
+		"Id": "0x8881c497f6f5f2cecd0742c37c6840bcf5234535",
+		"Symbol": "sanUSDC"
+	},
+	{
+		"Id": "0x5af15DA84A4a6EDf2d9FA6720De921E1026E37b7",
+		"Symbol": "Passive FRAX"
+	},
+	{
+		"Id": "0x832af84a3012A5f804002fC6DBb4F53E00C72F4e",
+		"Symbol": "CNCETH"
+	},
+	{
+		"Id": "yield-0xB17640796e4c27a39AF51887aff3F8DC0daF9567",
+		"Symbol": "sd3Crv Staking"
+	},
+	{
+		"Id": "0x0223a1a00a10b1cfb7e64512800f34ff2d03362a",
+		"Symbol": "IBJPY/USDC"
+	},
+	{
+		"Id": "0xfb5312107c4150c86228e8fd719b8b0ae2db581d",
+		"Symbol": "LUSD"
+	},
+	{
+		"Id": "0xb01d78b635e8404ac5dd3e3e5e7d71eb348a591d",
+		"Symbol": "alETH"
+	},
+	{
+		"Id": "0xd4eD44aa0aC185ad3024f5433442d9aef4b39ED8",
+		"Symbol": "XAI/FRAXBP"
+	},
+	{
+		"Id": "0xbc61f6973cE564eFFB16Cd79B5BC3916eaD592E2",
+		"Symbol": "UZD/FRAXBP"
+	},
+	{
+		"Id": "0x49c1a638de9ef6fd2740a30d4c2fb3c8b2e3768d",
+		"Symbol": "sdFXS/FXS"
+	},
+	{
+		"Id": "0x11d87d278432bb2ca6ce175e4a8b4abdade80fd0",
+		"Symbol": "FRAX/USDC"
+	},
+	{
+		"Id": "0xD3c74bcce2dfBBa6A08f387F607cfaFA4279DAAA",
+		"Symbol": "pETH"
+	},
+	{
+		"Id": "0x7894c2cb6b29892c0675c1b7d488e4efb59a658b",
+		"Symbol": "LDO/WETH"
+	},
+	{
+		"Id": "0x8Af0832dCd45FD452fcdbBCD388Ce8D4b8d196B0",
+		"Symbol": "PUSd"
+	},
+	{
+		"Id": "0x98dd95d0ac5b70b0f4ae5080a1c2eea8c5c48387",
+		"Symbol": "mim"
+	},
+	{
+		"Id": "0x8904daca6c2f39e0c4d99d72e7bfccd15d73811c",
+		"Symbol": "IronBank"
+	},
+	{
+		"Id": "0xB9Cf11B20C702Af9B8FA89122b33A47C01DC77B4",
+		"Symbol": "multiBTC+WBTC/sBTC"
+	},
+	{
+		"Id": "0x1242e4a83ea7556c7d846739a66e475d689b5cd4",
+		"Symbol": "TETH"
+	},
+	{
+		"Id": "0xd6415ff2639835300ab947fe67bad6f0b31400c1",
+		"Symbol": "sdCRV/CRV"
+	},
+	{
+		"Id": "0xb2a5dd2902dc34411f2e848b5311fc442aabfcd5",
+		"Symbol": "XAUt/3CRV"
+	},
+	{
+		"Id": "0xE71e28a510bC3F98a9E77e847aE5AEF9a2e5721d",
+		"Symbol": "APW"
+	},
+	{
+		"Id": "0xc10B7CA0383F0357EdEED233Dc806B5229DCF4a5",
+		"Symbol": "ETH Covered Call Strategy V2"
+	},
+	{
+		"Id": "0xbC10c4F7B9FE0B305e8639B04c536633A3dB7065",
+		"Symbol": "Passive stETH"
+	},
+	{
+		"Id": "0xD935a972758342c8807cF99870EebCa8108B4FbF",
+		"Symbol": "frxETH"
+	},
+	{
+		"Id": "0x035652a14e27de1d7ca36bff0c4dfc3e2f0749b4",
+		"Symbol": "steth"
+	},
+	{
+		"Id": "0xCD6997334867728ba14d7922f72c893fcee70e84",
+		"Symbol": "Passive sEUR"
+	},
+	{
+		"Id": "0x5c87d4a74dc65bb01573a2cabf29e56dd8221294",
+		"Symbol": "WNCG/WETH"
+	},
+	{
+		"Id": "0x391ec41f9ac7e16d6a1e286a9807de61e702ef1f",
+		"Symbol": "BADGER/WBTC"
+	},
+	{
+		"Id": "0x2c33d8a09c6f47b2446884e0eb8e783eca31fa12",
+		"Symbol": "SILO/FRAX"
+	},
+	{
+		"Id": "0xea79d1a83da6db43a85942767c389fe0acf336a5",
+		"Symbol": "BAL"
+	},
+	{
+		"Id": "0xad8D8664D12b22cC79139210c5FEd3e4F971441A",
+		"Symbol": "EURSUSD"
+	},
+	{
+		"Id": "0x7dbab34cfaccf4aabac9d5ec298497dc252e2920",
+		"Symbol": "wstETH/WETH"
+	},
+	{
+		"Id": "0x9e57de89dd2eb4c07ecfd70dbc4059a454db7218",
+		"Symbol": "ETH/KP3R"
+	},
+	{
+		"Id": "0xa99ce10312b55dc145c56e1960e6b5f713c25280",
+		"Symbol": "WETH/YFI"
+	},
+	{
+		"Id": "0x13CB956866fD76636383d7b769f08C64bBE81D6c",
+		"Symbol": "sdYFI/YFI"
+	},
+	{
+		"Id": "0x0cbd1fb1c170ddcf1fd945f50429f84f94e670f8",
+		"Symbol": "Sushi agEUR/ANGLE LP"
+	},
+	{
+		"Id": "0x5da5228d95653b5c2c082c53a5e83112e8114aa4",
+		"Symbol": "Compound"
+	},
+	{
+		"Id": "0xF6F12EfFb70A9a5372dC9eA6848991799bB3ff96",
+		"Symbol": "G-Uni agEUR/ETH LP"
+	},
+	{
+		"Id": "0x887716b67C60C4832E1c0Bc877716609450Eb009",
+		"Symbol": "MAI/FRAXBP"
+	},
+	{
+		"Id": "0x45F492751e88497b6C38fE4E8920307532699f79",
+		"Symbol": "yCRV"
+	},
+	{
+		"Id": "0x52f541764E6e90eeBc5c21Ff570De0e2D63766B6",
+		"Symbol": "CRV"
+	},
+	{
+		"Id": "yield-0xCD6997334867728ba14d7922f72c893fcee70e84",
+		"Symbol": "sdeursCRV Staking"
+	},
+	{
+		"Id": "0x1e02e6ef2d762882dec7ee61867f3f17b8c75aa7",
+		"Symbol": "OUSD/3CRV"
+	},
+	{
+		"Id": "0xAC723A9EB4DDB0F7D55cc175c49A407d9F590EC6",
+		"Symbol": "agEUR/FRAXBP"
+	},
+	{
+		"Id": "0xCd3a267DE09196C48bbB1d9e842D7D7645cE448f",
+		"Symbol": "FXS"
+	},
+	{
+		"Id": "0xddf440ffb3cb1cf6eee891f05e84a2137ebcce34",
+		"Symbol": "sBTC"
+	},
+	{
+		"Id": "0xbee51E9b1B07d1D44b8732DA46A3201c14cae879",
+		"Symbol": "50wstETH-50bb-a-USD"
+	},
+	{
+		"Id": "yield-0x478bBC744811eE8310B461514BDc29D03739084D",
+		"Symbol": "sdveCRV-DAO Staking"
+	},
+	{
+		"Id": "0xf6bccd68d12223349dfa2c500d89ccd075adc430",
+		"Symbol": "DYDX/ETH"
+	},
+	{
+		"Id": "0x9f9a0b2d2eb0fa92913a24116674416b10b40fdf",
+		"Symbol": "WETH/MATIC"
+	},
+	{
+		"Id": "0xa86591158d4af7ece9e18cc35b04beb3588a6cb4",
+		"Symbol": "SUSD"
+	},
+	{
+		"Id": "0xde46532a49c88af504594f488822f452b7fbc7bd",
+		"Symbol": "agEUR/EUROC"
+	},
+	{
+		"Id": "0x9BAF7747cC4DbE1199b5FE248a23AC1803A0694a",
+		"Symbol": "JPEG/ETH"
+	},
+	{
+		"Id": "0x35e27b68c75e5b6431b823ceb664537b91e87ffe",
+		"Symbol": "sanDAI"
+	},
+	{
+		"Id": "0xb574a98626454039d57eeb5109117ec35aa8a0c5",
+		"Symbol": "busdv2"
+	},
+	{
+		"Id": "0x5282ffd9fd18770b929f95b30422d95c0fc25ea6",
+		"Symbol": "GUSDFRAXBP"
+	},
+	{
+		"Id": "0x68e5001da84B87581484C0C204140b6C439f2245",
+		"Symbol": "LDO/ETH"
+	},
+	{
+		"Id": "0x3d2757641445a49668a935d9b178b69989059dc2",
+		"Symbol": "Boosted Aave USD"
+	},
+	{
+		"Id": "0x42a83D2935224fd93FABCD92C032DD5661675198",
+		"Symbol": "80palStkAAVE-20AAVE"
+	},
+	{
+		"Id": "0x1e60d1618F4Be07Ebf7C37735d31C7BE0646dFa0",
+		"Symbol": "USDD/3CRV"
+	},
+	{
+		"Id": "0xdd007cb6005017e548c761c2d12d9aa03961c30a",
+		"Symbol": "STG/USDC"
+	},
+	{
+		"Id": "0x1b2043a60225836fc9ce9fb8794a7854c6d78060",
+		"Symbol": "ibEUR/sEUR"
 	}
 ]

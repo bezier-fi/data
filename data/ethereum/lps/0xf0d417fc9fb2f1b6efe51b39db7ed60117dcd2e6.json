@@ -1,0 +1,10 @@
+{
+	"Id": "0xf0d417fc9fb2f1b6efe51b39db7ed60117dcd2e6",
+	"Symbol": "WETH-SHANG",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xee772cec929d8430b4fa7a01cd7fbd159a68aa83"
+	],
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Chain": "ethereum"
+}

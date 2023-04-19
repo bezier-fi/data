@@ -1,0 +1,10 @@
+{
+	"Id": "0xbb7caab5077cabfe1bec5b6724d550f9a6635be1",
+	"Symbol": "ECF-WETH",
+	"UnderlyingTokens": [
+		"0x0cb76ba39b5b860a28b91343d715fce2a2ecb3b4",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Chain": "ethereum"
+}

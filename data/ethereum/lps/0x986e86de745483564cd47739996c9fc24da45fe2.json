@@ -1,0 +1,10 @@
+{
+	"Id": "0x986e86de745483564cd47739996c9fc24da45fe2",
+	"Symbol": "HACKED-WETH",
+	"UnderlyingTokens": [
+		"0x064597fe3f4c53a3768a60f3a532c040bea24a47",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Chain": "ethereum"
+}

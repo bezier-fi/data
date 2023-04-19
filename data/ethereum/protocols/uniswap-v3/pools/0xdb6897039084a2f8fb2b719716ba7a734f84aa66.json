@@ -1,0 +1,27 @@
+{
+	"Id": "0xdb6897039084a2f8fb2b719716ba7a734f84aa66",
+	"Protocol": "01c4e236-3b2f-4a44-be30-2d54b0ebc897",
+	"Outputs": [
+		{
+			"Address": "0xdb6897039084a2f8fb2b719716ba7a734f84aa66",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1892f6ff5fbe11c31158f8c6f6f6e33106c5b10e",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MEGA-WETH (1.00%)",
+	"Chain": "ethereum"
+}

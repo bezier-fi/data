@@ -1,0 +1,10 @@
+{
+	"Id": "0xe872c13e8b8a6fbd8938779e08dfbc13874ac38e",
+	"Symbol": "WETH-MWV",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xda1179d7cdf2fb342baa9bb9a501573b3ab882c4"
+	],
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Chain": "ethereum"
+}

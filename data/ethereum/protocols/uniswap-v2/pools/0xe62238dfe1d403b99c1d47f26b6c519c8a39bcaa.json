@@ -1,0 +1,27 @@
+{
+	"Id": "0xe62238dfe1d403b99c1d47f26b6c519c8a39bcaa",
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Outputs": [
+		{
+			"Address": "0xe62238dfe1d403b99c1d47f26b6c519c8a39bcaa",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xbd9578a5f9bc074d1fb2f4b0bb251c82856012e7",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BOOMERCOIN-WETH",
+	"Chain": "ethereum"
+}

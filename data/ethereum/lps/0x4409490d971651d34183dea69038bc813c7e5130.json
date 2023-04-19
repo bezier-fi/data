@@ -1,0 +1,10 @@
+{
+	"Id": "0x4409490d971651d34183dea69038bc813c7e5130",
+	"Symbol": "PFC-WETH",
+	"UnderlyingTokens": [
+		"0x1c1ee48ddb6e4a56c0a55a0fe123435e629d88d0",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0xcee31c846cbf003f4ceb5bbd234cba03c6e940c7",
+	"Protocol": "01c4e236-3b2f-4a44-be30-2d54b0ebc897",
+	"Outputs": [
+		{
+			"Address": "0xcee31c846cbf003f4ceb5bbd234cba03c6e940c7",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PEPE-USDC (1.00%)",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0xcf0544a047a48aed76ca7011a69468c5bac62006",
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Outputs": [
+		{
+			"Address": "0xcf0544a047a48aed76ca7011a69468c5bac62006",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x94aba206bea386e4a4fe115eb788597b6f7690e4",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BRNLT-WETH",
+	"Chain": "ethereum"
+}

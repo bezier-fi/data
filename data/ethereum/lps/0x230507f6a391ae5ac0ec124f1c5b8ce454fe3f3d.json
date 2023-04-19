@@ -1,0 +1,10 @@
+{
+	"Id": "0x230507f6a391ae5ac0ec124f1c5b8ce454fe3f3d",
+	"Symbol": "NEET-WETH",
+	"UnderlyingTokens": [
+		"0x5883c66ca442461d406f330775d42954bfcf7d92",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Chain": "ethereum"
+}

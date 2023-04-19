@@ -1,0 +1,10 @@
+{
+	"Id": "0xa5cd5464bc0cfd962d12e49a6a319cff0bd630a9",
+	"Symbol": "BABYWOJAK-WETH",
+	"UnderlyingTokens": [
+		"0x9575392fcb7477e5c2d6b1f27b4c80eca4b4f299",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x356dce246cbccecdb5ee005d916dd80d41177ec7",
+	"Symbol": "$RIC-WETH",
+	"UnderlyingTokens": [
+		"0x468505263d2b1c9bf13a4e1542e97dcfa22a2c24",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Chain": "ethereum"
+}

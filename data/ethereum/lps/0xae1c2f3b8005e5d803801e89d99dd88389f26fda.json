@@ -1,0 +1,10 @@
+{
+	"Id": "0xae1c2f3b8005e5d803801e89d99dd88389f26fda",
+	"Symbol": "WETH-Jenkins",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xea9ca3d5322482b92aa0a1b519a3031e48da51d7"
+	],
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Chain": "ethereum"
+}

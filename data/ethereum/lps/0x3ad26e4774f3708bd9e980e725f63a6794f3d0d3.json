@@ -1,0 +1,10 @@
+{
+	"Id": "0x3ad26e4774f3708bd9e980e725f63a6794f3d0d3",
+	"Symbol": "WETH-ELMO",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xcfc5ab97783539151d57b795fe56da43407a2b33"
+	],
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Chain": "ethereum"
+}

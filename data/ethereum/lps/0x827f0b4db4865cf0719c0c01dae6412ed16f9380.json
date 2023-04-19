@@ -1,0 +1,10 @@
+{
+	"Id": "0x827f0b4db4865cf0719c0c01dae6412ed16f9380",
+	"Symbol": "WETH-NATOR",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xcfa3b8319090b14663bd3f4f406f7ea7388e0027"
+	],
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Chain": "ethereum"
+}

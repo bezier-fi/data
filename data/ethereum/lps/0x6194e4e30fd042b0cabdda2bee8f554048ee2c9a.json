@@ -1,0 +1,10 @@
+{
+	"Id": "0x6194e4e30fd042b0cabdda2bee8f554048ee2c9a",
+	"Symbol": "WETH-SPOODER",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xef49684ea0ea00bc440d037ca59d904a5d3c7bc3"
+	],
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Chain": "ethereum"
+}

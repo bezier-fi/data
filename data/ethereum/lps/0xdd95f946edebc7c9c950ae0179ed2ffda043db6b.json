@@ -1,0 +1,10 @@
+{
+	"Id": "0xdd95f946edebc7c9c950ae0179ed2ffda043db6b",
+	"Symbol": "FSJAL-WETH",
+	"UnderlyingTokens": [
+		"0xa175f1be2073e4e46b0ce77ddb789b025c38298f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Chain": "ethereum"
+}

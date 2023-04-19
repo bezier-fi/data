@@ -1,0 +1,27 @@
+{
+	"Id": "0xabd50310f2a409257576ff4337ec0ab664ae8cdc",
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Outputs": [
+		{
+			"Address": "0xabd50310f2a409257576ff4337ec0ab664ae8cdc",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2f573070e6090b3264fe707e2c9f201716f123c7",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MUMU-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xe79d5656073c2d76c31b954d0c5cc252e07e6060",
+	"Symbol": "HONKA-WETH",
+	"UnderlyingTokens": [
+		"0x688b30b5b53fc67392b307afad82f110091a06ff",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Chain": "ethereum"
+}

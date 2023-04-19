@@ -1,0 +1,10 @@
+{
+	"Id": "0x1544cd349bb803129dd6e0fc1118686f8e6bff8c",
+	"Symbol": "PEPPER-WETH",
+	"UnderlyingTokens": [
+		"0x0625c8b98e46ad7c65ad76079c52583b7fa7936b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Chain": "ethereum"
+}

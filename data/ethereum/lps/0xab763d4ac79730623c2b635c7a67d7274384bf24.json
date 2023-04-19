@@ -1,0 +1,10 @@
+{
+	"Id": "0xab763d4ac79730623c2b635c7a67d7274384bf24",
+	"Symbol": "WETH-BOGGED",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfd90b3536539fa313b37c31b15836e90c6158710"
+	],
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Chain": "ethereum"
+}

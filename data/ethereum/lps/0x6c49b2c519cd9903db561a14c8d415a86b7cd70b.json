@@ -1,0 +1,10 @@
+{
+	"Id": "0x6c49b2c519cd9903db561a14c8d415a86b7cd70b",
+	"Symbol": "WETH-WOCHAD",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe72dc7f21d6c174211652508d0be68519e6072a2"
+	],
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Chain": "ethereum"
+}

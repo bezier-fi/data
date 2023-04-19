@@ -1,0 +1,10 @@
+{
+	"Id": "0xa58ffd06124ad749cc99762cee13f9947f606d5f",
+	"Symbol": "PEEPO-WETH",
+	"UnderlyingTokens": [
+		"0x092fa97ec3860dd8f8f6df8c517a026e0225b885",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x0f23d49bc92ec52ff591d091b3e16c937034496e",
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Outputs": [
+		{
+			"Address": "0x0f23d49bc92ec52ff591d091b3e16c937034496e",
+			"Apr": 5847.1206,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WOJAK-WETH",
+	"Chain": "ethereum"
+}

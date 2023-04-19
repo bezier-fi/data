@@ -1,0 +1,10 @@
+{
+	"Id": "0x6f7bba1028959f60fc3eebca3d037660f5324a5f",
+	"Symbol": "HYX-WETH",
+	"UnderlyingTokens": [
+		"0x0986df731436a131ab346ce7f93d4682bf005906",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Chain": "ethereum"
+}

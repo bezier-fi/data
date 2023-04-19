@@ -1,0 +1,10 @@
+{
+	"Id": "0x04d9edbef215b2ac3c0e7fc6f86457fe9ff128bb",
+	"Symbol": "POP-WETH",
+	"UnderlyingTokens": [
+		"0x78e33639132d46396ad1a5327161cfc3ac4ae36d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Chain": "ethereum"
+}

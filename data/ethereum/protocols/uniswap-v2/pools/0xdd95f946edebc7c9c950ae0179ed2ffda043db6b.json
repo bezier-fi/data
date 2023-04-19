@@ -1,0 +1,27 @@
+{
+	"Id": "0xdd95f946edebc7c9c950ae0179ed2ffda043db6b",
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Outputs": [
+		{
+			"Address": "0xdd95f946edebc7c9c950ae0179ed2ffda043db6b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa175f1be2073e4e46b0ce77ddb789b025c38298f",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FSJAL-WETH",
+	"Chain": "ethereum"
+}

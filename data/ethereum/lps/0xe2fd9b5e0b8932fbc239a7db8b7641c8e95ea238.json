@@ -1,0 +1,10 @@
+{
+	"Id": "0xe2fd9b5e0b8932fbc239a7db8b7641c8e95ea238",
+	"Symbol": "DOLAN-WETH",
+	"UnderlyingTokens": [
+		"0x9c482b9d17192aca4c8f7e3c16860ef56f437078",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Chain": "ethereum"
+}

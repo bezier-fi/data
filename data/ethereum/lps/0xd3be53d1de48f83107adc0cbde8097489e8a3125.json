@@ -1,0 +1,10 @@
+{
+	"Id": "0xd3be53d1de48f83107adc0cbde8097489e8a3125",
+	"Symbol": "SIGMA-WETH",
+	"UnderlyingTokens": [
+		"0x49b2e90b7cc7825ff4ccd59c64018c0275a0cf1c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Chain": "ethereum"
+}

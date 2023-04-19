@@ -1,0 +1,10 @@
+{
+	"Id": "0x7bfeb1c62cb419d6a5ab4dc7b731cf41418f7bc7",
+	"Symbol": "BOOMER-WETH",
+	"UnderlyingTokens": [
+		"0xb9715612d05c5d52ecfad0888020b74db855b896",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Chain": "ethereum"
+}

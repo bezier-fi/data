@@ -1,0 +1,10 @@
+{
+	"Id": "0xa3946eb1214849c588b5ec38728414c2890fdf72",
+	"Symbol": "WETH-PEA",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf1b622d3f08045fb7e2f7918b20655ec7e529dcd"
+	],
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Chain": "ethereum"
+}

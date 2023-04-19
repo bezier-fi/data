@@ -1,0 +1,27 @@
+{
+	"Id": "0xba55501e03c383d512d5631b9264e8db87e2839f",
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Outputs": [
+		{
+			"Address": "0xba55501e03c383d512d5631b9264e8db87e2839f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x148bffe7c3cc11a8499875d09c5ff48d7b3c554e",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "AXIOM-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x1f0c932a9890fbec0554a8aa94d48a2ef246eb34",
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Outputs": [
+		{
+			"Address": "0x1f0c932a9890fbec0554a8aa94d48a2ef246eb34",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7c472fb17890dfda74a71e23b353ba76e6cc2300",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "NEMBUS-WETH",
+	"Chain": "ethereum"
+}

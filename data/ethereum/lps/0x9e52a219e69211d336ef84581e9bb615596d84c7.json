@@ -1,0 +1,10 @@
+{
+	"Id": "0x9e52a219e69211d336ef84581e9bb615596d84c7",
+	"Symbol": "DOPE-WETH",
+	"UnderlyingTokens": [
+		"0x9d024ae29114b7c11843312877d58b9939f6aeb2",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Chain": "ethereum"
+}

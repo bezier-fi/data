@@ -1,0 +1,10 @@
+{
+	"Id": "0x9ca7ead4f65be6ac0b95dece9c7ab93a26bd8ee0",
+	"Symbol": "WETH-BONECHIKI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd3273b45f1415df0c072941c1bcb14b88f861829"
+	],
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Chain": "ethereum"
+}

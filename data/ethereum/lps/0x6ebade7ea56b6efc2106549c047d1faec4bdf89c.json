@@ -1,0 +1,10 @@
+{
+	"Id": "0x6ebade7ea56b6efc2106549c047d1faec4bdf89c",
+	"Symbol": "DEGEN-WETH",
+	"UnderlyingTokens": [
+		"0xb27b907c2de4a2bf87c14fe503cf7ea4388451d5",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Chain": "ethereum"
+}

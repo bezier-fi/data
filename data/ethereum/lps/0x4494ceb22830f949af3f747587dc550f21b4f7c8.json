@@ -1,0 +1,10 @@
+{
+	"Id": "0x4494ceb22830f949af3f747587dc550f21b4f7c8",
+	"Symbol": "BORPA-WETH",
+	"UnderlyingTokens": [
+		"0xafaae78a955ce539293729297c5d7ab95188848f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Chain": "ethereum"
+}

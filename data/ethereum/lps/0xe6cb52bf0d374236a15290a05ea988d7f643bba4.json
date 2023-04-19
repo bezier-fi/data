@@ -1,0 +1,10 @@
+{
+	"Id": "0xe6cb52bf0d374236a15290a05ea988d7f643bba4",
+	"Symbol": "SPURDO-WETH",
+	"UnderlyingTokens": [
+		"0x6e04259a93457d47ce20dafa50ec7a2ea49f5eb2",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Chain": "ethereum"
+}

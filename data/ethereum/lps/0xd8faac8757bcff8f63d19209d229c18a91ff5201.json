@@ -1,0 +1,10 @@
+{
+	"Id": "0xd8faac8757bcff8f63d19209d229c18a91ff5201",
+	"Symbol": "BURN-WETH",
+	"UnderlyingTokens": [
+		"0x29eff8b55418a52163b974d60f4de9f3810901b5",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Chain": "ethereum"
+}

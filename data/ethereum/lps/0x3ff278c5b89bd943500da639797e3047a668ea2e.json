@@ -1,0 +1,10 @@
+{
+	"Id": "0x3ff278c5b89bd943500da639797e3047a668ea2e",
+	"Symbol": "LMAO-WETH",
+	"UnderlyingTokens": [
+		"0x7700050fa7d273363a3424c2f273bea292b2112a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Chain": "ethereum"
+}

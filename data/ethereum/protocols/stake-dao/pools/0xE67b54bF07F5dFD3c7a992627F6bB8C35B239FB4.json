@@ -1,0 +1,30 @@
+{
+	"Id": "0xE67b54bF07F5dFD3c7a992627F6bB8C35B239FB4",
+	"Protocol": "b215491f-66e2-4b8c-83f9-3765192eb67e",
+	"Outputs": [
+		{
+			"Address": "0x73968b9a57c6e53d41345fd57a6e6ae27d6cdb2f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		},
+		{
+			"Address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+			"Apr": 2.5320942,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x53a901d48795C58f485cBB38df08FA96a24669D5",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "StaFi-rETH/ETH",
+	"Chain": "ethereum"
+}

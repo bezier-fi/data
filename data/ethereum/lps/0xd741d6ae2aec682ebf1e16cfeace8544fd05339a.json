@@ -1,0 +1,10 @@
+{
+	"Id": "0xd741d6ae2aec682ebf1e16cfeace8544fd05339a",
+	"Symbol": "CRAZY-WETH",
+	"UnderlyingTokens": [
+		"0x1d18148666de025395f68f3fc5b60db209047c0a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Chain": "ethereum"
+}

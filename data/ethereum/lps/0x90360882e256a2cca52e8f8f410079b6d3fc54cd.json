@@ -1,0 +1,10 @@
+{
+	"Id": "0x90360882e256a2cca52e8f8f410079b6d3fc54cd",
+	"Symbol": "HOBO-WETH",
+	"UnderlyingTokens": [
+		"0xbab67de5a8ed56ccaca11d0724fb7bbcc83fafe7",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Chain": "ethereum"
+}

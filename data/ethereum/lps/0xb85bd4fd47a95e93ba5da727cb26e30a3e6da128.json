@@ -1,0 +1,10 @@
+{
+	"Id": "0xb85bd4fd47a95e93ba5da727cb26e30a3e6da128",
+	"Symbol": "BRRR-WETH",
+	"UnderlyingTokens": [
+		"0x02084d4733e3c42239f61affb6347368fac212ae",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Chain": "ethereum"
+}

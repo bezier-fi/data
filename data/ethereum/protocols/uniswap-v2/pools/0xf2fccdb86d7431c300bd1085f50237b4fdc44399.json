@@ -1,0 +1,27 @@
+{
+	"Id": "0xf2fccdb86d7431c300bd1085f50237b4fdc44399",
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Outputs": [
+		{
+			"Address": "0xf2fccdb86d7431c300bd1085f50237b4fdc44399",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6caf5d435546770acf9b790efd90da8eb7d8744b",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GOV-WETH",
+	"Chain": "ethereum"
+}

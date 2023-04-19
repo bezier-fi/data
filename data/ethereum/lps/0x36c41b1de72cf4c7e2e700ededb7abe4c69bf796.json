@@ -1,0 +1,10 @@
+{
+	"Id": "0x36c41b1de72cf4c7e2e700ededb7abe4c69bf796",
+	"Symbol": "CHUDJAK-WETH",
+	"UnderlyingTokens": [
+		"0xa78b8339596553af54785e34fa5bdf9689a1d1cf",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Chain": "ethereum"
+}

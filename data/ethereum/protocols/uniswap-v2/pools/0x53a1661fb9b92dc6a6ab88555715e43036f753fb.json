@@ -1,0 +1,27 @@
+{
+	"Id": "0x53a1661fb9b92dc6a6ab88555715e43036f753fb",
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Outputs": [
+		{
+			"Address": "0x53a1661fb9b92dc6a6ab88555715e43036f753fb",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2c9cd9156dcd5aa809d63dd70b2d11faa272e227",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WAGIE-WETH",
+	"Chain": "ethereum"
+}

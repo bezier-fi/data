@@ -1,0 +1,10 @@
+{
+	"Id": "0x038b6cf1954f79c32ebf76add590947849ee446a",
+	"Symbol": "GROYP-WETH",
+	"UnderlyingTokens": [
+		"0xafe084cdaad09c921fcf9ecb548a7e6c1cb2075b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Chain": "ethereum"
+}

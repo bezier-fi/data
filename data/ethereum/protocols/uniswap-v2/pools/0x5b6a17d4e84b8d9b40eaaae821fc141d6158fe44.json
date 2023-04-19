@@ -1,0 +1,27 @@
+{
+	"Id": "0x5b6a17d4e84b8d9b40eaaae821fc141d6158fe44",
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Outputs": [
+		{
+			"Address": "0x5b6a17d4e84b8d9b40eaaae821fc141d6158fe44",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5c559f3ee9a81da83e069c0093471cb05d84052a",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BABYPEPE-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0xf445ba75b12e20ef94c97af13f6069290cb0e97d",
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Outputs": [
+		{
+			"Address": "0xf445ba75b12e20ef94c97af13f6069290cb0e97d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x36d71358ed731652d063d9d8b6adf91574583d0b",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "KEVIN-WETH",
+	"Chain": "ethereum"
+}

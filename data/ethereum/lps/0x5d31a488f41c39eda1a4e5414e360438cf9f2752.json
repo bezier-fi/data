@@ -1,0 +1,10 @@
+{
+	"Id": "0x5d31a488f41c39eda1a4e5414e360438cf9f2752",
+	"Symbol": "SMINEM-WETH",
+	"UnderlyingTokens": [
+		"0x9344aedee87870bc97349aa4cbdcff594b07da5a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Chain": "ethereum"
+}

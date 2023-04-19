@@ -1,0 +1,10 @@
+{
+	"Id": "0xb4c271afca972eb066f15740860d7fa7fa536fd7",
+	"Symbol": "FOMO-WETH",
+	"UnderlyingTokens": [
+		"0x6a17212c1841ab3a3ccc20aeef6cb4fa22523c92",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Chain": "ethereum"
+}

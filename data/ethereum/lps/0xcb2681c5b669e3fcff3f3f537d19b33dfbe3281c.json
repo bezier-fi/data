@@ -1,0 +1,10 @@
+{
+	"Id": "0xcb2681c5b669e3fcff3f3f537d19b33dfbe3281c",
+	"Symbol": "WETH-$SARA",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc3abdf4de3f3bf291343864b4befc169262a579b"
+	],
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Chain": "ethereum"
+}

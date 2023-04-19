@@ -1,0 +1,10 @@
+{
+	"Id": "0x8ae7a7511f181baca93fef95da25b0bfc0361370",
+	"Symbol": "LOWIQ-WETH",
+	"UnderlyingTokens": [
+		"0x08a388ddb0e4f69573402271c36097f0613d5932",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Chain": "ethereum"
+}

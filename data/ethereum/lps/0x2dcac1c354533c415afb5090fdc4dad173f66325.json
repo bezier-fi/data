@@ -1,0 +1,10 @@
+{
+	"Id": "0x2dcac1c354533c415afb5090fdc4dad173f66325",
+	"Symbol": "WETH-GDOGE",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc24000f6143e3a6ca1b03d094dce905daf134cbf"
+	],
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Chain": "ethereum"
+}

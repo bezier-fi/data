@@ -1,0 +1,10 @@
+{
+	"Id": "0xe58737ca4c55bdd380d6e548fc8fb629db218bf4",
+	"Symbol": "WETH-SYX",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfba6da865d0d074085176088408014972393f639"
+	],
+	"Protocol": "d1ca6bad-7d35-4954-ac61-7915a07135df",
+	"Chain": "ethereum"
+}

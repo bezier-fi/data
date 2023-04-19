@@ -1,5 +1,13 @@
 [
 	{
+		"Id": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c6640xb6a86025f0fe1862b372cb0ca18ce3ede02a318f",
+		"Symbol": "USDC.e"
+	},
+	{
+		"Id": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c70xb6a86025f0fe1862b372cb0ca18ce3ede02a318f",
+		"Symbol": "WAVAX"
+	},
+	{
 		"Id": "0xc7198437980c041c805a1edcba50c1ce5db951180xb6a86025f0fe1862b372cb0ca18ce3ede02a318f",
 		"Symbol": "USDT.e"
 	},
@@ -18,13 +26,5 @@
 	{
 		"Id": "0x63a72806098bd3d9520cc43356dd78afe5d386d90xb6a86025f0fe1862b372cb0ca18ce3ede02a318f",
 		"Symbol": "AAVE.e"
-	},
-	{
-		"Id": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c6640xb6a86025f0fe1862b372cb0ca18ce3ede02a318f",
-		"Symbol": "USDC.e"
-	},
-	{
-		"Id": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c70xb6a86025f0fe1862b372cb0ca18ce3ede02a318f",
-		"Symbol": "WAVAX"
 	}
 ]

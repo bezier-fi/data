@@ -1,0 +1,27 @@
+{
+	"Id": "0xb1015e7477e1478ba48eab9d95c26a88247f6e4b",
+	"Protocol": "8f380cac-3749-4246-890a-5a0ac4af5aa9",
+	"Outputs": [
+		{
+			"Address": "0xb1015e7477e1478ba48eab9d95c26a88247f6e4b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb70c6228f25b7694d8093c01d541ecf3f584a575",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GOBLIN-WETH",
+	"Chain": "ethereum"
+}

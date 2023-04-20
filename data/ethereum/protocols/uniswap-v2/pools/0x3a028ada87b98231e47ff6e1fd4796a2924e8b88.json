@@ -1,0 +1,27 @@
+{
+	"Id": "0x3a028ada87b98231e47ff6e1fd4796a2924e8b88",
+	"Protocol": "8f380cac-3749-4246-890a-5a0ac4af5aa9",
+	"Outputs": [
+		{
+			"Address": "0x3a028ada87b98231e47ff6e1fd4796a2924e8b88",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb42e7d9f5f324ec722233274a8760688a7a7ede6",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SXGUY-WETH",
+	"Chain": "ethereum"
+}

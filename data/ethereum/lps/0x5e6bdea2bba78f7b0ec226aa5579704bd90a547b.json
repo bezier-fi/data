@@ -1,0 +1,10 @@
+{
+	"Id": "0x5e6bdea2bba78f7b0ec226aa5579704bd90a547b",
+	"Symbol": "TURING-WETH",
+	"UnderlyingTokens": [
+		"0xaf26cca0e94bd0235ade8ec6bcbf218e7d40937c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "8f380cac-3749-4246-890a-5a0ac4af5aa9",
+	"Chain": "ethereum"
+}

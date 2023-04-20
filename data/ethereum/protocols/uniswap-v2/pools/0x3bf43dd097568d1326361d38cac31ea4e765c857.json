@@ -1,0 +1,27 @@
+{
+	"Id": "0x3bf43dd097568d1326361d38cac31ea4e765c857",
+	"Protocol": "8f380cac-3749-4246-890a-5a0ac4af5aa9",
+	"Outputs": [
+		{
+			"Address": "0x3bf43dd097568d1326361d38cac31ea4e765c857",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x420690047f2df28e0cc6dd866333aea9a14b67fe",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PEPEMOON-WETH",
+	"Chain": "ethereum"
+}

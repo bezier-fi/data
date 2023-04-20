@@ -1,0 +1,27 @@
+{
+	"Id": "0xeefbf3bee79f837af8af8714aaa42ecd4e53d4c6",
+	"Protocol": "8f380cac-3749-4246-890a-5a0ac4af5aa9",
+	"Outputs": [
+		{
+			"Address": "0xeefbf3bee79f837af8af8714aaa42ecd4e53d4c6",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xbefccf8d1acf0b2ca60b4c393c1f6406aabe0b03",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TAX-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x811a10657440928c9cda3580eb54f271ac4b9a19",
+	"Protocol": "8f380cac-3749-4246-890a-5a0ac4af5aa9",
+	"Outputs": [
+		{
+			"Address": "0x811a10657440928c9cda3580eb54f271ac4b9a19",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6c059413686565d5ad6cce6eed7742c42dbc44ca",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "LAELAPS-WETH",
+	"Chain": "ethereum"
+}

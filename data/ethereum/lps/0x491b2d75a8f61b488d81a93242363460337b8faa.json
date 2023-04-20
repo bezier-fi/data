@@ -1,0 +1,10 @@
+{
+	"Id": "0x491b2d75a8f61b488d81a93242363460337b8faa",
+	"Symbol": "INSIDE-WETH",
+	"UnderlyingTokens": [
+		"0x45fcfd749081899a00f06587bdc7c42004551404",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "8f380cac-3749-4246-890a-5a0ac4af5aa9",
+	"Chain": "ethereum"
+}

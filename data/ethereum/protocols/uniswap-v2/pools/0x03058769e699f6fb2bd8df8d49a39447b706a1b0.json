@@ -1,0 +1,27 @@
+{
+	"Id": "0x03058769e699f6fb2bd8df8d49a39447b706a1b0",
+	"Protocol": "8f380cac-3749-4246-890a-5a0ac4af5aa9",
+	"Outputs": [
+		{
+			"Address": "0x03058769e699f6fb2bd8df8d49a39447b706a1b0",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1f19d846d99a0e75581913b64510fe0e18bbc31f",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FGM-WETH",
+	"Chain": "ethereum"
+}

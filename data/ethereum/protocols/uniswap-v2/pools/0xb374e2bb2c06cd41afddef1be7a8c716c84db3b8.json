@@ -1,0 +1,27 @@
+{
+	"Id": "0xb374e2bb2c06cd41afddef1be7a8c716c84db3b8",
+	"Protocol": "8f380cac-3749-4246-890a-5a0ac4af5aa9",
+	"Outputs": [
+		{
+			"Address": "0xb374e2bb2c06cd41afddef1be7a8c716c84db3b8",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8423b100f880904c57003ffa8e0d925e16b251b8",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "LIGMA-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x63146a14dab0b2cbbd7917f3aa6235ff7cb94a70",
+	"Symbol": "PepeGF-WETH",
+	"UnderlyingTokens": [
+		"0x0586d192e88214f449bb7e37cc55ccdf5f36834c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "8f380cac-3749-4246-890a-5a0ac4af5aa9",
+	"Chain": "ethereum"
+}

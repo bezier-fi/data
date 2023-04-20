@@ -1,0 +1,10 @@
+{
+	"Id": "0xf6d8092df15abfee3475724d4a2555f4868fa24c",
+	"Symbol": "WETH-BONGO",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xce2caa1a8737dbc7d8219094e629995a3ce3829d"
+	],
+	"Protocol": "8f380cac-3749-4246-890a-5a0ac4af5aa9",
+	"Chain": "ethereum"
+}

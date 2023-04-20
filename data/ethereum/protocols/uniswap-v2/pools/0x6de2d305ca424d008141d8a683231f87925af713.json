@@ -1,0 +1,27 @@
+{
+	"Id": "0x6de2d305ca424d008141d8a683231f87925af713",
+	"Protocol": "8f380cac-3749-4246-890a-5a0ac4af5aa9",
+	"Outputs": [
+		{
+			"Address": "0x6de2d305ca424d008141d8a683231f87925af713",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5bddc640ba96c4df3dad3a6d64012469a778cc9c",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CUCK-WETH",
+	"Chain": "ethereum"
+}

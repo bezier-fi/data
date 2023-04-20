@@ -1,0 +1,23 @@
+{
+	"Id": "0x2520D50bfD793D3C757900D81229422F70171969",
+	"Protocol": "f363312b-c0c9-4409-8a07-9e4d3ed9f6b2",
+	"Outputs": [
+		{
+			"Address": "0x2520D50bfD793D3C757900D81229422F70171969",
+			"Apr": 5.1946645,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa138341185a9D0429B0021A11FB717B225e13e1F",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDR/DAI/USDC/USDT",
+	"Chain": "polygon"
+}

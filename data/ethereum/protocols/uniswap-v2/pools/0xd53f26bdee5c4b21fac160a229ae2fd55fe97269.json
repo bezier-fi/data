@@ -1,0 +1,27 @@
+{
+	"Id": "0xd53f26bdee5c4b21fac160a229ae2fd55fe97269",
+	"Protocol": "8f380cac-3749-4246-890a-5a0ac4af5aa9",
+	"Outputs": [
+		{
+			"Address": "0xd53f26bdee5c4b21fac160a229ae2fd55fe97269",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc3dcbd5db7bc0c55908f604204cf42ab60bf1334",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-BASCII",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xde58170edfc617e6a17ef57b9e5087e07e7bcdbb",
+	"Symbol": "RPEPE-WETH",
+	"UnderlyingTokens": [
+		"0x2f3473c819aff1ad0d83c171ed868ee05ecdb1fe",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "8f380cac-3749-4246-890a-5a0ac4af5aa9",
+	"Chain": "ethereum"
+}

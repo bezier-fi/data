@@ -1,0 +1,10 @@
+{
+	"Id": "0xb1b97c926272586e246df82f4121bea818ec4afd",
+	"Symbol": "SHIN-WETH",
+	"UnderlyingTokens": [
+		"0xb7ce456de0d116541988d35a5ba1ef7dce161e67",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "8f380cac-3749-4246-890a-5a0ac4af5aa9",
+	"Chain": "ethereum"
+}

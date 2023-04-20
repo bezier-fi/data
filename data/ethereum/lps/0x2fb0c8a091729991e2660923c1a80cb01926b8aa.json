@@ -1,0 +1,10 @@
+{
+	"Id": "0x2fb0c8a091729991e2660923c1a80cb01926b8aa",
+	"Symbol": "GAS-WETH",
+	"UnderlyingTokens": [
+		"0x8f222105bd288329b70096ebe0e4ed0b94f39b11",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "8f380cac-3749-4246-890a-5a0ac4af5aa9",
+	"Chain": "ethereum"
+}

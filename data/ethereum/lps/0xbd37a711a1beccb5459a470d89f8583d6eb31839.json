@@ -1,0 +1,10 @@
+{
+	"Id": "0xbd37a711a1beccb5459a470d89f8583d6eb31839",
+	"Symbol": "WETH-dawae",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe0e5be82d9d37363e410d764137568c85417ed15"
+	],
+	"Protocol": "8f380cac-3749-4246-890a-5a0ac4af5aa9",
+	"Chain": "ethereum"
+}

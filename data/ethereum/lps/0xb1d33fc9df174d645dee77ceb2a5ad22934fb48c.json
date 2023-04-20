@@ -1,0 +1,10 @@
+{
+	"Id": "0xb1d33fc9df174d645dee77ceb2a5ad22934fb48c",
+	"Symbol": "Terio-WETH",
+	"UnderlyingTokens": [
+		"0x5b30fee6af1d880bdcb88133890598846fde8486",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "8f380cac-3749-4246-890a-5a0ac4af5aa9",
+	"Chain": "ethereum"
+}

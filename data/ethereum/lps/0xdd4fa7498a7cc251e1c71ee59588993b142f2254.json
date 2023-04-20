@@ -1,0 +1,10 @@
+{
+	"Id": "0xdd4fa7498a7cc251e1c71ee59588993b142f2254",
+	"Symbol": "WETH-4chan",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe284343cc91f23b78a07046f4a3d5b840b8df2b2"
+	],
+	"Protocol": "8f380cac-3749-4246-890a-5a0ac4af5aa9",
+	"Chain": "ethereum"
+}

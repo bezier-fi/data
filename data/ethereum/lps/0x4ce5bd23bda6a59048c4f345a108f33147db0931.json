@@ -1,0 +1,10 @@
+{
+	"Id": "0x4ce5bd23bda6a59048c4f345a108f33147db0931",
+	"Symbol": "DANK-WETH",
+	"UnderlyingTokens": [
+		"0x8a91e42ef28a9525b3ef4a25ec191913c3d57043",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "8f380cac-3749-4246-890a-5a0ac4af5aa9",
+	"Chain": "ethereum"
+}

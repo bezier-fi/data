@@ -1,0 +1,10 @@
+{
+	"Id": "0xa1eb75ae338965d4b05b45b900cb79b5566bf2d4",
+	"Symbol": "ROPE-WETH",
+	"UnderlyingTokens": [
+		"0x050f4668decafd4e61a1aaf6bf0e6caf76e3ebcb",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "8f380cac-3749-4246-890a-5a0ac4af5aa9",
+	"Chain": "ethereum"
+}

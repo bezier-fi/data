@@ -1,0 +1,10 @@
+{
+	"Id": "0x0d0c350faa102ca3627c09621bc82a65615e2901",
+	"Symbol": "PPEPE-WETH",
+	"UnderlyingTokens": [
+		"0x444d233a6bb5e10c341028d299b9511f4dab219c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "8f380cac-3749-4246-890a-5a0ac4af5aa9",
+	"Chain": "ethereum"
+}

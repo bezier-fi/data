@@ -1,0 +1,10 @@
+{
+	"Id": "0xd24b608fec7e215b3cb69a5c0833bc2ccac45b1b",
+	"Symbol": "BPYC-WETH",
+	"UnderlyingTokens": [
+		"0x3b8f25492553563210d55217ae308e62a42d85b2",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "8f380cac-3749-4246-890a-5a0ac4af5aa9",
+	"Chain": "ethereum"
+}

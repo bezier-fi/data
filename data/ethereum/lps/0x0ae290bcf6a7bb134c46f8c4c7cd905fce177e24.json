@@ -1,0 +1,10 @@
+{
+	"Id": "0x0ae290bcf6a7bb134c46f8c4c7cd905fce177e24",
+	"Symbol": "WETH-RUG",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xdd782657af86492771bdb369caeb8c246be362f5"
+	],
+	"Protocol": "8f380cac-3749-4246-890a-5a0ac4af5aa9",
+	"Chain": "ethereum"
+}

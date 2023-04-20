@@ -1,0 +1,10 @@
+{
+	"Id": "0xa48205d338f473fa71a0e4cbb8b5469f3329c95b",
+	"Symbol": "WETH-MISSPEPE",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc7957c3967a9ada1630f862891c0e419af2e6489"
+	],
+	"Protocol": "8f380cac-3749-4246-890a-5a0ac4af5aa9",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xb1015e7477e1478ba48eab9d95c26a88247f6e4b",
+	"Symbol": "GOBLIN-WETH",
+	"UnderlyingTokens": [
+		"0xb70c6228f25b7694d8093c01d541ecf3f584a575",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "8f380cac-3749-4246-890a-5a0ac4af5aa9",
+	"Chain": "ethereum"
+}

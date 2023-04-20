@@ -1,0 +1,27 @@
+{
+	"Id": "0xf6d8092df15abfee3475724d4a2555f4868fa24c",
+	"Protocol": "8f380cac-3749-4246-890a-5a0ac4af5aa9",
+	"Outputs": [
+		{
+			"Address": "0xf6d8092df15abfee3475724d4a2555f4868fa24c",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xce2caa1a8737dbc7d8219094e629995a3ce3829d",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-BONGO",
+	"Chain": "ethereum"
+}

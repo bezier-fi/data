@@ -1,0 +1,10 @@
+{
+	"Id": "0xaa1a6f8ef441dd71c21a7b6de04dc9d3b0467f59",
+	"Symbol": "THANOS-WETH",
+	"UnderlyingTokens": [
+		"0x523586333e7aa0e8782b7c1554829a98e8965840",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b8413aca-9a4b-4b49-822b-0d8a92ecbd99",
+	"Chain": "ethereum"
+}

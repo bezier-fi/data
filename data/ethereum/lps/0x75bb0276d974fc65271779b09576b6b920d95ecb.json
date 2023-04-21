@@ -1,0 +1,10 @@
+{
+	"Id": "0x75bb0276d974fc65271779b09576b6b920d95ecb",
+	"Symbol": "FKAPED-WETH",
+	"UnderlyingTokens": [
+		"0xadcb3211c509ab78935b974d556bbd8dbd8edc82",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b8413aca-9a4b-4b49-822b-0d8a92ecbd99",
+	"Chain": "ethereum"
+}

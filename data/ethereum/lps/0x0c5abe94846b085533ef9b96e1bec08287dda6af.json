@@ -1,0 +1,10 @@
+{
+	"Id": "0x0c5abe94846b085533ef9b96e1bec08287dda6af",
+	"Symbol": "WETH-$SENTIENT",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd6c87c7568d8c420240dbf7c29a02d000f7e7076"
+	],
+	"Protocol": "b8413aca-9a4b-4b49-822b-0d8a92ecbd99",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x7200f8dbc9be208b599fe19a57883b6e948808c5",
+	"Protocol": "b8413aca-9a4b-4b49-822b-0d8a92ecbd99",
+	"Outputs": [
+		{
+			"Address": "0x7200f8dbc9be208b599fe19a57883b6e948808c5",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xf59eb60d7f3b219f2609396cb37787d54e44c515",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-FLORK",
+	"Chain": "ethereum"
+}

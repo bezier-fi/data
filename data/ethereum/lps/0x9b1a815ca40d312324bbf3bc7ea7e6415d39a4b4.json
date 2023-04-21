@@ -1,0 +1,10 @@
+{
+	"Id": "0x9b1a815ca40d312324bbf3bc7ea7e6415d39a4b4",
+	"Symbol": "PIPE-WETH",
+	"UnderlyingTokens": [
+		"0x9e1164940529722e055f096bb2dfe2d65517105b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b8413aca-9a4b-4b49-822b-0d8a92ecbd99",
+	"Chain": "ethereum"
+}

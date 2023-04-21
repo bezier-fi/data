@@ -1,0 +1,10 @@
+{
+	"Id": "0x454c0214138941dd76df0779399012fe4e2d408c",
+	"Symbol": "MINIPEPE-WETH",
+	"UnderlyingTokens": [
+		"0x961492d39e7c66501dd7638f782891ca08808355",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b8413aca-9a4b-4b49-822b-0d8a92ecbd99",
+	"Chain": "ethereum"
+}

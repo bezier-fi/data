@@ -1,0 +1,10 @@
+{
+	"Id": "0x7200f8dbc9be208b599fe19a57883b6e948808c5",
+	"Symbol": "WETH-FLORK",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf59eb60d7f3b219f2609396cb37787d54e44c515"
+	],
+	"Protocol": "b8413aca-9a4b-4b49-822b-0d8a92ecbd99",
+	"Chain": "ethereum"
+}

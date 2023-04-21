@@ -1,0 +1,27 @@
+{
+	"Id": "0xe293dd6afc44f576f43219c75bb868e311938324",
+	"Protocol": "b8413aca-9a4b-4b49-822b-0d8a92ecbd99",
+	"Outputs": [
+		{
+			"Address": "0xe293dd6afc44f576f43219c75bb868e311938324",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa4fbaf3448ac9086cc4fd63fea6e80d6b39cf898",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "AMIGO-WETH",
+	"Chain": "ethereum"
+}

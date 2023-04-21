@@ -1,10 +1,17 @@
 {
 	"Id": "0xbcb91E689114B9Cc865AD7871845C95241Df4105",
-	"Protocol": "b2452064-ec25-440c-859f-863e16821155",
+	"Protocol": "c22222ab-e9db-4a64-bd63-cec1b463bb26",
 	"Outputs": [
 		{
 			"Address": "0xbcb91E689114B9Cc865AD7871845C95241Df4105",
 			"Apr": 1.2778226,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		},
+		{
+			"Address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+			"Apr": 11.110896,
 			"GroupId": 0,
 			"Key": "",
 			"RequiredKeyInGroup": null

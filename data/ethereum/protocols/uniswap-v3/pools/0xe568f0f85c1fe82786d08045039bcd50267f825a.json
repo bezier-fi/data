@@ -1,0 +1,27 @@
+{
+	"Id": "0xe568f0f85c1fe82786d08045039bcd50267f825a",
+	"Protocol": "db88979e-f771-4261-839d-c6cc5f4eeaad",
+	"Outputs": [
+		{
+			"Address": "0xe568f0f85c1fe82786d08045039bcd50267f825a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1a963df363d01eebb2816b366d61c917f20e1ebe",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MEMEME-WETH (1.00%)",
+	"Chain": "ethereum"
+}

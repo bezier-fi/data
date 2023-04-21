@@ -1,0 +1,10 @@
+{
+	"Id": "0xb14ddf0a832a322955f2fed8711af16172caa93d",
+	"Symbol": "WETH-Grass",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe93d6c8d2fbc9c84db778e125d4863f6f2e7395f"
+	],
+	"Protocol": "b8413aca-9a4b-4b49-822b-0d8a92ecbd99",
+	"Chain": "ethereum"
+}

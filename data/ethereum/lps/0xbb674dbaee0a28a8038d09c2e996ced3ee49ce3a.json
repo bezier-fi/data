@@ -1,0 +1,10 @@
+{
+	"Id": "0xbb674dbaee0a28a8038d09c2e996ced3ee49ce3a",
+	"Symbol": "WETH-PUP",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xda5709113a1f1059ac3217172f52901ac87b8fe3"
+	],
+	"Protocol": "b8413aca-9a4b-4b49-822b-0d8a92ecbd99",
+	"Chain": "ethereum"
+}

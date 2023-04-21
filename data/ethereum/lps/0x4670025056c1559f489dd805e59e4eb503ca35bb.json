@@ -1,0 +1,10 @@
+{
+	"Id": "0x4670025056c1559f489dd805e59e4eb503ca35bb",
+	"Symbol": "WOPE-WETH",
+	"UnderlyingTokens": [
+		"0x67372b64386708a616f2683efd56122fda26c9d3",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b8413aca-9a4b-4b49-822b-0d8a92ecbd99",
+	"Chain": "ethereum"
+}

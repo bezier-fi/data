@@ -1,0 +1,10 @@
+{
+	"Id": "0x5e42f4e0b281ae38962889307a494b719a9ac066",
+	"Symbol": "UMAD-WETH",
+	"UnderlyingTokens": [
+		"0x680df03b304e6e9479423c9b2b8474aa7515ec00",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b8413aca-9a4b-4b49-822b-0d8a92ecbd99",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x7978b59bd873f6cf1d25544e869f6f65d41651e3",
+	"Symbol": "DEF-WETH (0.05%)",
+	"UnderlyingTokens": [
+		"0x54d6bdb08a9346200521de9a738c176e0d53d36c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "db88979e-f771-4261-839d-c6cc5f4eeaad",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0xc9029dd751ec819036131117d4c9c669aef677ed",
+	"Protocol": "b8413aca-9a4b-4b49-822b-0d8a92ecbd99",
+	"Outputs": [
+		{
+			"Address": "0xc9029dd751ec819036131117d4c9c669aef677ed",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xaa0de51deab3a9272b83a810056c2f4036e60475",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FKWOJAK-WETH",
+	"Chain": "ethereum"
+}

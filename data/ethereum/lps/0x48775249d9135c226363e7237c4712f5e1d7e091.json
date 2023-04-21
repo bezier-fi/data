@@ -1,0 +1,10 @@
+{
+	"Id": "0x48775249d9135c226363e7237c4712f5e1d7e091",
+	"Symbol": "HAROLD-WETH",
+	"UnderlyingTokens": [
+		"0x157931c8106d01b6849908e244bc885446b018ae",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b8413aca-9a4b-4b49-822b-0d8a92ecbd99",
+	"Chain": "ethereum"
+}

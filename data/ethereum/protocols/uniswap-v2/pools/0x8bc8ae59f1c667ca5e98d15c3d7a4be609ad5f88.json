@@ -1,0 +1,27 @@
+{
+	"Id": "0x8bc8ae59f1c667ca5e98d15c3d7a4be609ad5f88",
+	"Protocol": "b8413aca-9a4b-4b49-822b-0d8a92ecbd99",
+	"Outputs": [
+		{
+			"Address": "0x8bc8ae59f1c667ca5e98d15c3d7a4be609ad5f88",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x80fac99f62a273ddc1a6d59880e8466cfb50eb7b",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DANK-WETH",
+	"Chain": "ethereum"
+}

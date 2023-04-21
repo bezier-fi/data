@@ -1,0 +1,27 @@
+{
+	"Id": "0xbe2a11d47f00f7003dfe39c386c324272a435684",
+	"Protocol": "b8413aca-9a4b-4b49-822b-0d8a92ecbd99",
+	"Outputs": [
+		{
+			"Address": "0xbe2a11d47f00f7003dfe39c386c324272a435684",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x946253f928298ecc01ce6ba96e6f545e764b9c6e",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PepeGame-WETH",
+	"Chain": "ethereum"
+}

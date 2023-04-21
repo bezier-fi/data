@@ -1,0 +1,10 @@
+{
+	"Id": "0x40eededfa88fc5396f1f2ccdb788afbb3ae3ce2d",
+	"Symbol": "MILADY-WETH",
+	"UnderlyingTokens": [
+		"0x2ed37cf9c1ebab7cb11703b8fa34d5cb1953600a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b8413aca-9a4b-4b49-822b-0d8a92ecbd99",
+	"Chain": "ethereum"
+}

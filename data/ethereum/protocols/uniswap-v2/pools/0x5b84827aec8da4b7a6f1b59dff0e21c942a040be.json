@@ -1,0 +1,27 @@
+{
+	"Id": "0x5b84827aec8da4b7a6f1b59dff0e21c942a040be",
+	"Protocol": "b8413aca-9a4b-4b49-822b-0d8a92ecbd99",
+	"Outputs": [
+		{
+			"Address": "0x5b84827aec8da4b7a6f1b59dff0e21c942a040be",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6b0149b3e881468b6ca415ee554d97502103a2a6",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PEDO-WETH",
+	"Chain": "ethereum"
+}

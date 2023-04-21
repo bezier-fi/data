@@ -1,0 +1,27 @@
+{
+	"Id": "0x7d71a8aa2c33a452ac09cfbf0a0d753c176706fb",
+	"Protocol": "b8413aca-9a4b-4b49-822b-0d8a92ecbd99",
+	"Outputs": [
+		{
+			"Address": "0x7d71a8aa2c33a452ac09cfbf0a0d753c176706fb",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4991d0b1287aed4b3c8a7ef8ac072c68efcff0c2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PEEPO-WETH",
+	"Chain": "ethereum"
+}

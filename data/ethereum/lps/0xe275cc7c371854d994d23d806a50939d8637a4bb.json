@@ -1,0 +1,10 @@
+{
+	"Id": "0xe275cc7c371854d994d23d806a50939d8637a4bb",
+	"Symbol": "FADE-WETH",
+	"UnderlyingTokens": [
+		"0x1bad88bd0127c57b82362ca572757797122a851d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b8413aca-9a4b-4b49-822b-0d8a92ecbd99",
+	"Chain": "ethereum"
+}

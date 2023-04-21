@@ -1,0 +1,10 @@
+{
+	"Id": "0xdd1a6053d1bbb399d3a8c802aab42ae8b58bda99",
+	"Symbol": "DB-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x5423a6a06dd64480ad17c46e42b95827da2719d9",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "db88979e-f771-4261-839d-c6cc5f4eeaad",
+	"Chain": "ethereum"
+}

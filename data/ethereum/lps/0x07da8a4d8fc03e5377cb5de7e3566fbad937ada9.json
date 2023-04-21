@@ -1,0 +1,10 @@
+{
+	"Id": "0x07da8a4d8fc03e5377cb5de7e3566fbad937ada9",
+	"Symbol": "TISM-WETH",
+	"UnderlyingTokens": [
+		"0x97c565ca2256e01f6a63a5e448f9818f1da5f394",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b8413aca-9a4b-4b49-822b-0d8a92ecbd99",
+	"Chain": "ethereum"
+}

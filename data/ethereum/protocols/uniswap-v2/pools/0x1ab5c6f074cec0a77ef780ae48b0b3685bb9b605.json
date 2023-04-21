@@ -1,0 +1,27 @@
+{
+	"Id": "0x1ab5c6f074cec0a77ef780ae48b0b3685bb9b605",
+	"Protocol": "b8413aca-9a4b-4b49-822b-0d8a92ecbd99",
+	"Outputs": [
+		{
+			"Address": "0x1ab5c6f074cec0a77ef780ae48b0b3685bb9b605",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x132ec74194e46d0dc5e4b3c27fc1ef9cc004ed16",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GAINZ-WETH",
+	"Chain": "ethereum"
+}

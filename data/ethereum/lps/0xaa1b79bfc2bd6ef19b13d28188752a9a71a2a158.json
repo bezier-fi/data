@@ -1,0 +1,10 @@
+{
+	"Id": "0xaa1b79bfc2bd6ef19b13d28188752a9a71a2a158",
+	"Symbol": "WETH-AIBO",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfc9b4a4f3348258d02cff53b110af2022f1aad0c"
+	],
+	"Protocol": "b8413aca-9a4b-4b49-822b-0d8a92ecbd99",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xc6a45ecdc8bcef94c476647be1303fd83d438cd0",
+	"Symbol": "SNAIL-WETH",
+	"UnderlyingTokens": [
+		"0x6bc40d4099f9057b23af309c08d935b890d7adc0",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b8413aca-9a4b-4b49-822b-0d8a92ecbd99",
+	"Chain": "ethereum"
+}

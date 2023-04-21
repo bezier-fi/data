@@ -1,0 +1,10 @@
+{
+	"Id": "0x2cd64b193f26e5df1adf28b108c8a5034995a460",
+	"Symbol": "PIGEON-WETH",
+	"UnderlyingTokens": [
+		"0x18fecab996c9e99a1f8447ef913b3f1a3e36642a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b8413aca-9a4b-4b49-822b-0d8a92ecbd99",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x688447f73e59cef6f82735104f48a34db84b1598",
+	"Protocol": "b8413aca-9a4b-4b49-822b-0d8a92ecbd99",
+	"Outputs": [
+		{
+			"Address": "0x688447f73e59cef6f82735104f48a34db84b1598",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8ac4855b59ce5227d343983f73a4c14ff6241b4c",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BOZO-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xc5b4aa3383b56872ff06c8ece9f26e815f095cef",
+	"Symbol": "PPC-WETH",
+	"UnderlyingTokens": [
+		"0x01e006708440ea4ec259869232b4127089e9753d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b8413aca-9a4b-4b49-822b-0d8a92ecbd99",
+	"Chain": "ethereum"
+}

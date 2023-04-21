@@ -1,0 +1,10 @@
+{
+	"Id": "0x04d780f343adc0cbf8e40a98d94b363215748d04",
+	"Symbol": "GROYD-WETH",
+	"UnderlyingTokens": [
+		"0x70fdc6f9d53cfa5fbefd008744df900be5da7df8",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b8413aca-9a4b-4b49-822b-0d8a92ecbd99",
+	"Chain": "ethereum"
+}

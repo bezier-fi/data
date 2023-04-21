@@ -1,0 +1,10 @@
+{
+	"Id": "0x415a442376cd33ce99e9bdad67e3aca560eca798",
+	"Symbol": "WETH-LO",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfe1e07badbaa075824c28569454212c264fe9c6a"
+	],
+	"Protocol": "b8413aca-9a4b-4b49-822b-0d8a92ecbd99",
+	"Chain": "ethereum"
+}

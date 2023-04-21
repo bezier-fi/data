@@ -1,0 +1,27 @@
+{
+	"Id": "0x40eededfa88fc5396f1f2ccdb788afbb3ae3ce2d",
+	"Protocol": "b8413aca-9a4b-4b49-822b-0d8a92ecbd99",
+	"Outputs": [
+		{
+			"Address": "0x40eededfa88fc5396f1f2ccdb788afbb3ae3ce2d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2ed37cf9c1ebab7cb11703b8fa34d5cb1953600a",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MILADY-WETH",
+	"Chain": "ethereum"
+}

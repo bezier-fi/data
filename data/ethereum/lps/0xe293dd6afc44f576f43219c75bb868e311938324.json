@@ -1,0 +1,10 @@
+{
+	"Id": "0xe293dd6afc44f576f43219c75bb868e311938324",
+	"Symbol": "AMIGO-WETH",
+	"UnderlyingTokens": [
+		"0xa4fbaf3448ac9086cc4fd63fea6e80d6b39cf898",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b8413aca-9a4b-4b49-822b-0d8a92ecbd99",
+	"Chain": "ethereum"
+}

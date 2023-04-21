@@ -1,0 +1,10 @@
+{
+	"Id": "0xf32e1fe2c23d3a65704e6bf2790ce933d0afba44",
+	"Symbol": "WETH-pandajak",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf29c9fc973b98745561e8c74eff934f418f8b707"
+	],
+	"Protocol": "b8413aca-9a4b-4b49-822b-0d8a92ecbd99",
+	"Chain": "ethereum"
+}

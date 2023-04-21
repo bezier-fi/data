@@ -1,0 +1,10 @@
+{
+	"Id": "0x70f854800711e7b911a0782f7fc14ede35c8f0cb",
+	"Symbol": "WETH-COOK",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd9239316d9888b53f6b2a58055df8cc9bb8f8c91"
+	],
+	"Protocol": "b8413aca-9a4b-4b49-822b-0d8a92ecbd99",
+	"Chain": "ethereum"
+}

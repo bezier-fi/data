@@ -1,0 +1,10 @@
+{
+	"Id": "0x3f46f0e29d7e7d9e26f1edb4e3f1fe03f590546d",
+	"Symbol": "FKB-WETH",
+	"UnderlyingTokens": [
+		"0x0f0040823eb737ca400a440d2e02ee1df0adf26d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "4e75be33-b827-403f-aa3f-45fc83e1207b",
+	"Chain": "ethereum"
+}

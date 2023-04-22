@@ -1,0 +1,27 @@
+{
+	"Id": "0x6d11647c3e3b8dfd000e4fcea6e20c621c3c68f3",
+	"Protocol": "4e75be33-b827-403f-aa3f-45fc83e1207b",
+	"Outputs": [
+		{
+			"Address": "0x6d11647c3e3b8dfd000e4fcea6e20c621c3c68f3",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4341535053384c6b130f0e703a4f906bbdb9d645",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SENKEN-WETH",
+	"Chain": "ethereum"
+}

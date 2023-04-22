@@ -1,0 +1,27 @@
+{
+	"Id": "0xdd32f384c6fe10bfc06813a03ad53bc4b13402e1",
+	"Protocol": "4e75be33-b827-403f-aa3f-45fc83e1207b",
+	"Outputs": [
+		{
+			"Address": "0xdd32f384c6fe10bfc06813a03ad53bc4b13402e1",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9a263b9467b3c8eddabadc820460e70e83541e5d",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PUZZ-WETH",
+	"Chain": "ethereum"
+}

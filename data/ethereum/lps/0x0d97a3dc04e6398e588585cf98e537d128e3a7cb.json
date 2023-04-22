@@ -1,0 +1,10 @@
+{
+	"Id": "0x0d97a3dc04e6398e588585cf98e537d128e3a7cb",
+	"Symbol": "HOPE-WETH",
+	"UnderlyingTokens": [
+		"0x7e745fc8c19afe7d7f8a5a6bcc2618a19e809abd",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "4e75be33-b827-403f-aa3f-45fc83e1207b",
+	"Chain": "ethereum"
+}

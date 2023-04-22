@@ -1,0 +1,10 @@
+{
+	"Id": "0xcc7fc4740ae0c58e3b473bee732b79c708e5a4c4",
+	"Symbol": "WETH-SWOLPEPE",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe48434e4bf2adfde00b6f2de3aff0b58ea94b0f5"
+	],
+	"Protocol": "4e75be33-b827-403f-aa3f-45fc83e1207b",
+	"Chain": "ethereum"
+}

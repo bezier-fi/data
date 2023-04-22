@@ -1,0 +1,10 @@
+{
+	"Id": "0x354e2557bc66adf23a903b26a294043e1a781fcc",
+	"Symbol": "WETH-PUMPED",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe0a4a14ac3490ade5f319341878f1af9d17810f2"
+	],
+	"Protocol": "4e75be33-b827-403f-aa3f-45fc83e1207b",
+	"Chain": "ethereum"
+}

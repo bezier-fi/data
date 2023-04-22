@@ -1,0 +1,10 @@
+{
+	"Id": "0x7b1e124a872c04cf09c0e64a1e9c6404aaadd714",
+	"Symbol": "NGMI-WETH",
+	"UnderlyingTokens": [
+		"0xba44aee9e5a361ae6cb1cc06615a07c4e948a26d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "4e75be33-b827-403f-aa3f-45fc83e1207b",
+	"Chain": "ethereum"
+}

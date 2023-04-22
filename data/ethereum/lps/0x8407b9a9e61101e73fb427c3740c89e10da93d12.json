@@ -1,0 +1,10 @@
+{
+	"Id": "0x8407b9a9e61101e73fb427c3740c89e10da93d12",
+	"Symbol": "Kabosu-WETH",
+	"UnderlyingTokens": [
+		"0xbadff0ef41d2a68f22de21eabca8a59aaf495cf0",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "4e75be33-b827-403f-aa3f-45fc83e1207b",
+	"Chain": "ethereum"
+}

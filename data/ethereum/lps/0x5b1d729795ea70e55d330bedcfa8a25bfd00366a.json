@@ -1,0 +1,10 @@
+{
+	"Id": "0x5b1d729795ea70e55d330bedcfa8a25bfd00366a",
+	"Symbol": "PEPEJR-WETH",
+	"UnderlyingTokens": [
+		"0xa92dff3dc3b000c541e3662e7c9415b9cf72daf7",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "4e75be33-b827-403f-aa3f-45fc83e1207b",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xd86274541ae1b509d1f70e3c8c4fc4e23de36d87",
+	"Symbol": "MISSED-WETH",
+	"UnderlyingTokens": [
+		"0xb85c6fdb301d57b5866d970c6c92a55b9154dfe5",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "4e75be33-b827-403f-aa3f-45fc83e1207b",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xeb7b5294c79b0369315ed7fe76b52d3108b0a62d",
+	"Symbol": "USDC-JAY",
+	"UnderlyingTokens": [
+		"0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+		"0xda7c0810ce6f8329786160bb3d1734cf6661ca6e"
+	],
+	"Protocol": "4e75be33-b827-403f-aa3f-45fc83e1207b",
+	"Chain": "ethereum"
+}

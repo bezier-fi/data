@@ -1,0 +1,10 @@
+{
+	"Id": "0x380a1e83f3cc872b1e631bbebad4121fb8713d79",
+	"Symbol": "FTV-WETH",
+	"UnderlyingTokens": [
+		"0x5a22038cc4e951003c43fd2846111917fe26ac2b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "4e75be33-b827-403f-aa3f-45fc83e1207b",
+	"Chain": "ethereum"
+}

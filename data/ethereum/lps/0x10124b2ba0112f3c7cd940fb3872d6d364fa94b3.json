@@ -1,0 +1,10 @@
+{
+	"Id": "0x10124b2ba0112f3c7cd940fb3872d6d364fa94b3",
+	"Symbol": "WETH-DYOR",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe2c22bba8ae0468464410ba18f2b8ef59400a12d"
+	],
+	"Protocol": "4e75be33-b827-403f-aa3f-45fc83e1207b",
+	"Chain": "ethereum"
+}

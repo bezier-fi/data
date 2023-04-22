@@ -1,0 +1,10 @@
+{
+	"Id": "0x8f4bed4a810eefca5970263023a2b7fb1044b127",
+	"Symbol": "FORKY-WETH",
+	"UnderlyingTokens": [
+		"0x2ff2725275c49dec9ca721d9939c15856399a26f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "4e75be33-b827-403f-aa3f-45fc83e1207b",
+	"Chain": "ethereum"
+}

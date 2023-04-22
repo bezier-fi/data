@@ -1,0 +1,10 @@
+{
+	"Id": "0xd6fbfaf278aa4eeca2dfb865d5ce11442b1f6167",
+	"Symbol": "RAM-WETH",
+	"UnderlyingTokens": [
+		"0x8d3d73604f41e43764a5e324b75666d3c8f60c96",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "4e75be33-b827-403f-aa3f-45fc83e1207b",
+	"Chain": "ethereum"
+}

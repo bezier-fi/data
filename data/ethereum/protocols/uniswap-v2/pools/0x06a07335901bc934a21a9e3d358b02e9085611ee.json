@@ -1,0 +1,27 @@
+{
+	"Id": "0x06a07335901bc934a21a9e3d358b02e9085611ee",
+	"Protocol": "4e75be33-b827-403f-aa3f-45fc83e1207b",
+	"Outputs": [
+		{
+			"Address": "0x06a07335901bc934a21a9e3d358b02e9085611ee",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x703f5ce1cac2262810feb1107a0a0ecfffab6b56",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PAPA-WETH",
+	"Chain": "ethereum"
+}

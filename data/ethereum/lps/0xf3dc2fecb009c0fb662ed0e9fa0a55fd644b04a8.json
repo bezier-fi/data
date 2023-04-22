@@ -1,0 +1,10 @@
+{
+	"Id": "0xf3dc2fecb009c0fb662ed0e9fa0a55fd644b04a8",
+	"Symbol": "WETH-CANDY",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc46ffe22942dc5ad4de6412afc74694f06137d03"
+	],
+	"Protocol": "4e75be33-b827-403f-aa3f-45fc83e1207b",
+	"Chain": "ethereum"
+}

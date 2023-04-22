@@ -1,0 +1,10 @@
+{
+	"Id": "0x2eda1de203c80967bd7901b4fc0e61c94a09f905",
+	"Symbol": "HFSP-WETH",
+	"UnderlyingTokens": [
+		"0x26f76cf9a8f8d3b8915922cd46e8d8194f633573",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "4e75be33-b827-403f-aa3f-45fc83e1207b",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x3ea52b23958920fc9c63f2b703bf4fe04eb59c4a",
+	"Symbol": "PWNED-WETH",
+	"UnderlyingTokens": [
+		"0x951770e563a3a9be56052396f67c9cc025050935",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "4e75be33-b827-403f-aa3f-45fc83e1207b",
+	"Chain": "ethereum"
+}

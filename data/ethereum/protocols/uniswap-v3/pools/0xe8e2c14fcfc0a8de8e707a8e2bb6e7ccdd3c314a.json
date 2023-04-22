@@ -1,0 +1,27 @@
+{
+	"Id": "0xe8e2c14fcfc0a8de8e707a8e2bb6e7ccdd3c314a",
+	"Protocol": "419af7c1-49c7-44bf-a48f-25d8c04c52e0",
+	"Outputs": [
+		{
+			"Address": "0xe8e2c14fcfc0a8de8e707a8e2bb6e7ccdd3c314a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x340d2bde5eb28c1eed91b2f790723e3b160613b7",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "VEE-USDT (0.30%)",
+	"Chain": "ethereum"
+}

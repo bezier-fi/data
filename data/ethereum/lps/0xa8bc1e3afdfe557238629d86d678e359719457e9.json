@@ -1,0 +1,10 @@
+{
+	"Id": "0xa8bc1e3afdfe557238629d86d678e359719457e9",
+	"Symbol": "WETH-YaoMing",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf9062f301eb316428bb7826ba4cedf9b771f192a"
+	],
+	"Protocol": "4e75be33-b827-403f-aa3f-45fc83e1207b",
+	"Chain": "ethereum"
+}

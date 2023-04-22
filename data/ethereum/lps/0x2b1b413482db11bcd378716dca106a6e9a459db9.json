@@ -1,0 +1,10 @@
+{
+	"Id": "0x2b1b413482db11bcd378716dca106a6e9a459db9",
+	"Symbol": "HOPIUM-WETH",
+	"UnderlyingTokens": [
+		"0x52f68408c529e08d95054abb6ba8e260d82d3945",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "4e75be33-b827-403f-aa3f-45fc83e1207b",
+	"Chain": "ethereum"
+}

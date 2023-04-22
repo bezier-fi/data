@@ -1,0 +1,10 @@
+{
+	"Id": "0xf3f1b62226d4f6b9b171da6685829a52f82aacbd",
+	"Symbol": "WETH-PETROLL",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd78c8744b58234f811deb90a737b4efa624dee91"
+	],
+	"Protocol": "4e75be33-b827-403f-aa3f-45fc83e1207b",
+	"Chain": "ethereum"
+}

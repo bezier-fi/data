@@ -1,0 +1,10 @@
+{
+	"Id": "0x03b971e17b73af5a1613e7e7ee7cb00d4d9339b0",
+	"Symbol": "RETARD-WETH",
+	"UnderlyingTokens": [
+		"0x7732b6051deb3cd32469070f3c8f67295a2cbbdf",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "4e75be33-b827-403f-aa3f-45fc83e1207b",
+	"Chain": "ethereum"
+}

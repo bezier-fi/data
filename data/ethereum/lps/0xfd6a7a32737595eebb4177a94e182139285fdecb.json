@@ -1,0 +1,10 @@
+{
+	"Id": "0xfd6a7a32737595eebb4177a94e182139285fdecb",
+	"Symbol": "Kokan-WETH",
+	"UnderlyingTokens": [
+		"0x07c4f57790a9b9372adb2516bd41c99fc38c7170",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "4e75be33-b827-403f-aa3f-45fc83e1207b",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x027bd8e80f77187f3e650c2c925173b21185af6e",
+	"Protocol": "95601766-fcb1-44df-af7d-23a647854f09",
+	"Outputs": [
+		{
+			"Address": "0x027bd8e80f77187f3e650c2c925173b21185af6e",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9779c4546fe5c74ad5a086cbf2d066c4c83bce36",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PEPOGE-WETH",
+	"Chain": "ethereum"
+}

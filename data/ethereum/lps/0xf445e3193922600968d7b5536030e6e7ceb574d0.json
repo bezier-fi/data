@@ -1,0 +1,10 @@
+{
+	"Id": "0xf445e3193922600968d7b5536030e6e7ceb574d0",
+	"Symbol": "TOTOFO-WETH",
+	"UnderlyingTokens": [
+		"0x0adcfdfe9e88d28cc4c1daac9cc021067aff9b0c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "95601766-fcb1-44df-af7d-23a647854f09",
+	"Chain": "ethereum"
+}

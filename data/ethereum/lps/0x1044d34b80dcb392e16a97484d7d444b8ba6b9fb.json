@@ -1,0 +1,10 @@
+{
+	"Id": "0x1044d34b80dcb392e16a97484d7d444b8ba6b9fb",
+	"Symbol": "VITGF-WETH",
+	"UnderlyingTokens": [
+		"0x3ad94c6aa9c22ee1e9caff4c4098910f404e712b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "95601766-fcb1-44df-af7d-23a647854f09",
+	"Chain": "ethereum"
+}

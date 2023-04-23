@@ -1,0 +1,10 @@
+{
+	"Id": "0xfea515b4d8c83a72eab3bc404e16e7e7159464cf",
+	"Symbol": "BEERUS-WETH",
+	"UnderlyingTokens": [
+		"0x0c9bba351b3d46eebe7fb1c6d090dc8afe5509a2",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "95601766-fcb1-44df-af7d-23a647854f09",
+	"Chain": "ethereum"
+}

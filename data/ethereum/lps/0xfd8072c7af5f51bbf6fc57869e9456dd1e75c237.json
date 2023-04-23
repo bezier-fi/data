@@ -1,0 +1,10 @@
+{
+	"Id": "0xfd8072c7af5f51bbf6fc57869e9456dd1e75c237",
+	"Symbol": "FIREGENSLER-WETH",
+	"UnderlyingTokens": [
+		"0x8082d321728383fdc25baec46a7834cb2fc21eff",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "95601766-fcb1-44df-af7d-23a647854f09",
+	"Chain": "ethereum"
+}

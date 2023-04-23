@@ -1,0 +1,10 @@
+{
+	"Id": "0x03e6f3e18ff4024485984848d6d1f44e8b1a67f5",
+	"Symbol": "RICHPEPE-WETH",
+	"UnderlyingTokens": [
+		"0x258d7a3f50b03a9f75263733fc0c2a155cf512b4",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "95601766-fcb1-44df-af7d-23a647854f09",
+	"Chain": "ethereum"
+}

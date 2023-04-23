@@ -1,0 +1,10 @@
+{
+	"Id": "0xa48a46f35d09f1453563e7073a581735f5628172",
+	"Symbol": "RktP-WETH",
+	"UnderlyingTokens": [
+		"0x6a347d634883a0b122b189b3a232c8d94d7aed8d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "95601766-fcb1-44df-af7d-23a647854f09",
+	"Chain": "ethereum"
+}

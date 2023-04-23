@@ -1,0 +1,27 @@
+{
+	"Id": "0xf219f9546093f5761c27a31eee16e555cb27993f",
+	"Protocol": "95601766-fcb1-44df-af7d-23a647854f09",
+	"Outputs": [
+		{
+			"Address": "0xf219f9546093f5761c27a31eee16e555cb27993f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x72a0fd39b7a1498fee0e4e3adaf20a342a54c9f5",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "LENNY-WETH",
+	"Chain": "ethereum"
+}

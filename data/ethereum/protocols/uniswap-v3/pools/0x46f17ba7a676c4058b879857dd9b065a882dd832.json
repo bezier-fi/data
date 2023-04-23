@@ -1,0 +1,27 @@
+{
+	"Id": "0x46f17ba7a676c4058b879857dd9b065a882dd832",
+	"Protocol": "24180d63-0cd7-49e9-8437-a66f52643356",
+	"Outputs": [
+		{
+			"Address": "0x46f17ba7a676c4058b879857dd9b065a882dd832",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3e943c8b33d81c420a19756b8f5bf922f37f695a",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WGMI-WETH (0.30%)",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0xdf8ffc614784d182f47208fac24d422604115b36",
+	"Protocol": "95601766-fcb1-44df-af7d-23a647854f09",
+	"Outputs": [
+		{
+			"Address": "0xdf8ffc614784d182f47208fac24d422604115b36",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc7c2b6e453f7e3e680c4ad44ebe24f84a8aaba71",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-SerDoge",
+	"Chain": "ethereum"
+}

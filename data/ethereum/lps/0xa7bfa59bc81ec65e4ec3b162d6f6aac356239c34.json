@@ -1,0 +1,10 @@
+{
+	"Id": "0xa7bfa59bc81ec65e4ec3b162d6f6aac356239c34",
+	"Symbol": "SASUKE-WETH",
+	"UnderlyingTokens": [
+		"0x03f12419fdd499519247128f1670bfed4903828f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "95601766-fcb1-44df-af7d-23a647854f09",
+	"Chain": "ethereum"
+}

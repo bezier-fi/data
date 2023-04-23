@@ -1,0 +1,27 @@
+{
+	"Id": "0xcaa6b2c45aefef2053fe6895f10ad65068ba611b",
+	"Protocol": "95601766-fcb1-44df-af7d-23a647854f09",
+	"Outputs": [
+		{
+			"Address": "0xcaa6b2c45aefef2053fe6895f10ad65068ba611b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x030d087bfb025268f129a1979bda8ed3a6191a02",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ROOMIE-WETH",
+	"Chain": "ethereum"
+}

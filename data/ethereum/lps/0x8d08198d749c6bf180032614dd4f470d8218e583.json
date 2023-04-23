@@ -1,0 +1,10 @@
+{
+	"Id": "0x8d08198d749c6bf180032614dd4f470d8218e583",
+	"Symbol": "PEPEPOTTER-WETH",
+	"UnderlyingTokens": [
+		"0x1accbb31ec2d3ef555c68c8b5411f75f991e86e5",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "95601766-fcb1-44df-af7d-23a647854f09",
+	"Chain": "ethereum"
+}

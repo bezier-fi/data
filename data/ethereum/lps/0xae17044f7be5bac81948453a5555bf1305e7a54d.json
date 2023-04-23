@@ -1,0 +1,10 @@
+{
+	"Id": "0xae17044f7be5bac81948453a5555bf1305e7a54d",
+	"Symbol": "KIRA-WETH",
+	"UnderlyingTokens": [
+		"0x3715aefe58a721825c1e1422196c9815a9068654",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "95601766-fcb1-44df-af7d-23a647854f09",
+	"Chain": "ethereum"
+}

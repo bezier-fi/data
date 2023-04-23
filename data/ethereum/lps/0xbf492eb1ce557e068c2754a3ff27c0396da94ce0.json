@@ -1,0 +1,10 @@
+{
+	"Id": "0xbf492eb1ce557e068c2754a3ff27c0396da94ce0",
+	"Symbol": "Hinata-WETH",
+	"UnderlyingTokens": [
+		"0x42ddefd7a35164075677fe74edadb37475bdda54",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "95601766-fcb1-44df-af7d-23a647854f09",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xceb9c69bd5b4e97ce3385ef3806eb3f3f11242f6",
+	"Symbol": "WETH-EREN",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc70d253cd2a7d78c2463751e9c1f6eb6f1d33185"
+	],
+	"Protocol": "95601766-fcb1-44df-af7d-23a647854f09",
+	"Chain": "ethereum"
+}

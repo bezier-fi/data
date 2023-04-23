@@ -1,0 +1,27 @@
+{
+	"Id": "0xd1e4596d39ab08717a2d0ab8e6c5bfa5c0c6e60a",
+	"Protocol": "95601766-fcb1-44df-af7d-23a647854f09",
+	"Outputs": [
+		{
+			"Address": "0xd1e4596d39ab08717a2d0ab8e6c5bfa5c0c6e60a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc1bdfd4c6daba0f875ea6fbf121f08d1dafe0241",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-RUG",
+	"Chain": "ethereum"
+}

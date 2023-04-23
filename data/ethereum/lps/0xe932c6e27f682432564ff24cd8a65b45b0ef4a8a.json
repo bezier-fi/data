@@ -1,0 +1,10 @@
+{
+	"Id": "0xe932c6e27f682432564ff24cd8a65b45b0ef4a8a",
+	"Symbol": "GF-WETH",
+	"UnderlyingTokens": [
+		"0x39b1d0bb6a4c71a45dd1c4ec611ff3892e9b9c82",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "95601766-fcb1-44df-af7d-23a647854f09",
+	"Chain": "ethereum"
+}

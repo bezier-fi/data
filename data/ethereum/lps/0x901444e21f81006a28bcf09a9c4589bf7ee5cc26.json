@@ -1,0 +1,10 @@
+{
+	"Id": "0x901444e21f81006a28bcf09a9c4589bf7ee5cc26",
+	"Symbol": "GOKU-WETH",
+	"UnderlyingTokens": [
+		"0x62796c03e2b9eeee7591a28d796a4e67ca7d4652",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "95601766-fcb1-44df-af7d-23a647854f09",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0xfea515b4d8c83a72eab3bc404e16e7e7159464cf",
+	"Protocol": "95601766-fcb1-44df-af7d-23a647854f09",
+	"Outputs": [
+		{
+			"Address": "0xfea515b4d8c83a72eab3bc404e16e7e7159464cf",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0c9bba351b3d46eebe7fb1c6d090dc8afe5509a2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BEERUS-WETH",
+	"Chain": "ethereum"
+}

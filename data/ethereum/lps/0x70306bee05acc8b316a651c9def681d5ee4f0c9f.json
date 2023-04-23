@@ -1,0 +1,10 @@
+{
+	"Id": "0x70306bee05acc8b316a651c9def681d5ee4f0c9f",
+	"Symbol": "SATAI-WETH",
+	"UnderlyingTokens": [
+		"0x1665ce8ed7cc27a8163eee2106034fb7a2a0a562",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "95601766-fcb1-44df-af7d-23a647854f09",
+	"Chain": "ethereum"
+}

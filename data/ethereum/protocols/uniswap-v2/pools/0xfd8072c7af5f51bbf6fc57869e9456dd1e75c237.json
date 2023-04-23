@@ -1,0 +1,27 @@
+{
+	"Id": "0xfd8072c7af5f51bbf6fc57869e9456dd1e75c237",
+	"Protocol": "95601766-fcb1-44df-af7d-23a647854f09",
+	"Outputs": [
+		{
+			"Address": "0xfd8072c7af5f51bbf6fc57869e9456dd1e75c237",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8082d321728383fdc25baec46a7834cb2fc21eff",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FIREGENSLER-WETH",
+	"Chain": "ethereum"
+}

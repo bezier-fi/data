@@ -1,0 +1,10 @@
+{
+	"Id": "0xb4ec5ca7f57068fbf45c333a9702f1a55b7d3155",
+	"Symbol": "YuGi-WETH",
+	"UnderlyingTokens": [
+		"0x2e4eb26fa4c737e7da161d538a58d99c8c858b19",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "95601766-fcb1-44df-af7d-23a647854f09",
+	"Chain": "ethereum"
+}

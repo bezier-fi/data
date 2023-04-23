@@ -1,0 +1,27 @@
+{
+	"Id": "0x25a9680b2f4b034055345b0beb8b1a28f06f5fc0",
+	"Protocol": "24180d63-0cd7-49e9-8437-a66f52643356",
+	"Outputs": [
+		{
+			"Address": "0x25a9680b2f4b034055345b0beb8b1a28f06f5fc0",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x67d85a291fcdc862a78812a3c26d55e28ffb2701",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ASX-USDC (0.30%)",
+	"Chain": "ethereum"
+}

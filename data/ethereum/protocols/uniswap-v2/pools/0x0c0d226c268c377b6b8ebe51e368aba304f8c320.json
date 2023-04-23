@@ -1,0 +1,27 @@
+{
+	"Id": "0x0c0d226c268c377b6b8ebe51e368aba304f8c320",
+	"Protocol": "95601766-fcb1-44df-af7d-23a647854f09",
+	"Outputs": [
+		{
+			"Address": "0x0c0d226c268c377b6b8ebe51e368aba304f8c320",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xaa59c1793df71f4a689ad41f8e3e94fd4cb4b5c6",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "LEVI-WETH",
+	"Chain": "ethereum"
+}

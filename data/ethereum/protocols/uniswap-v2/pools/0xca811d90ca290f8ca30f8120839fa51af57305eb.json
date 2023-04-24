@@ -1,0 +1,27 @@
+{
+	"Id": "0xca811d90ca290f8ca30f8120839fa51af57305eb",
+	"Protocol": "f823afb8-75ff-4d95-a33a-5d5be8755261",
+	"Outputs": [
+		{
+			"Address": "0xca811d90ca290f8ca30f8120839fa51af57305eb",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xd6e04c5165f932e67da7020fa58b157da4984319",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-BOBRUTO",
+	"Chain": "ethereum"
+}

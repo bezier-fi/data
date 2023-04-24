@@ -1,0 +1,27 @@
+{
+	"Id": "0x1439fab001efe00629acd00c75311b3ad6d18769",
+	"Protocol": "f823afb8-75ff-4d95-a33a-5d5be8755261",
+	"Outputs": [
+		{
+			"Address": "0x1439fab001efe00629acd00c75311b3ad6d18769",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb62d732bd00d5934f75eb1d30cb86b9dfd05eec0",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TIKTOK-WETH",
+	"Chain": "ethereum"
+}

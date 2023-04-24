@@ -1,0 +1,10 @@
+{
+	"Id": "0xae689b555b42061fd8eb321a47ea0e483f3ed5b9",
+	"Symbol": "ZORO-WETH",
+	"UnderlyingTokens": [
+		"0x5f2ca927df28a06dfbe721f78a2e979275ed1c48",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f823afb8-75ff-4d95-a33a-5d5be8755261",
+	"Chain": "ethereum"
+}

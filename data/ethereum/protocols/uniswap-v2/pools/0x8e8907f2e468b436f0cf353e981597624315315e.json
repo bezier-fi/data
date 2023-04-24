@@ -1,0 +1,27 @@
+{
+	"Id": "0x8e8907f2e468b436f0cf353e981597624315315e",
+	"Protocol": "f823afb8-75ff-4d95-a33a-5d5be8755261",
+	"Outputs": [
+		{
+			"Address": "0x8e8907f2e468b436f0cf353e981597624315315e",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa8c195109339c8d41057ab0296de2dc1f655f874",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FTN-WETH",
+	"Chain": "ethereum"
+}

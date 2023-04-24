@@ -1,0 +1,27 @@
+{
+	"Id": "0xd17ede93a44e672e75715f72279014f9352190ea",
+	"Protocol": "f823afb8-75ff-4d95-a33a-5d5be8755261",
+	"Outputs": [
+		{
+			"Address": "0xd17ede93a44e672e75715f72279014f9352190ea",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5d0fe7947deaf8df5055cca9f867cabda084267b",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PELON-WETH",
+	"Chain": "ethereum"
+}

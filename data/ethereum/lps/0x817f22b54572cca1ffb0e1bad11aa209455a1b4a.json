@@ -1,0 +1,10 @@
+{
+	"Id": "0x817f22b54572cca1ffb0e1bad11aa209455a1b4a",
+	"Symbol": "SPAWN-WETH",
+	"UnderlyingTokens": [
+		"0xa2afad6083d6e0ec01a0a252505c7e3b1223d39a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f823afb8-75ff-4d95-a33a-5d5be8755261",
+	"Chain": "ethereum"
+}

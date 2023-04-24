@@ -1,0 +1,27 @@
+{
+	"Id": "0x4151e9dce06d4f319b82b141af87ec69751218b9",
+	"Protocol": "f823afb8-75ff-4d95-a33a-5d5be8755261",
+	"Outputs": [
+		{
+			"Address": "0x4151e9dce06d4f319b82b141af87ec69751218b9",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xfcf5aab1508b526130ffd3d202481f4d3529ea2e",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-ZRO",
+	"Chain": "ethereum"
+}

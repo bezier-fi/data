@@ -1,0 +1,27 @@
+{
+	"Id": "0x05c024b441d2c288c2729b484bd4bcef3596aa51",
+	"Protocol": "f823afb8-75ff-4d95-a33a-5d5be8755261",
+	"Outputs": [
+		{
+			"Address": "0x05c024b441d2c288c2729b484bd4bcef3596aa51",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa21af1050f7b26e0cff45ee51548254c41ed6b5c",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "OSAK-WETH",
+	"Chain": "ethereum"
+}

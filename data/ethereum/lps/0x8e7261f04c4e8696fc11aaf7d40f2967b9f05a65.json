@@ -1,0 +1,10 @@
+{
+	"Id": "0x8e7261f04c4e8696fc11aaf7d40f2967b9f05a65",
+	"Symbol": "SHINCHAN-WETH",
+	"UnderlyingTokens": [
+		"0x932c68598bc7858b1d482729ca3a34f10cca611f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f823afb8-75ff-4d95-a33a-5d5be8755261",
+	"Chain": "ethereum"
+}

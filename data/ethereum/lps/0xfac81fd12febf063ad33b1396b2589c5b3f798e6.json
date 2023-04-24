@@ -1,0 +1,10 @@
+{
+	"Id": "0xfac81fd12febf063ad33b1396b2589c5b3f798e6",
+	"Symbol": "DBZ-WETH",
+	"UnderlyingTokens": [
+		"0xa947156e2f4c227d4891cce2408aa0cb4f0f86cf",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f823afb8-75ff-4d95-a33a-5d5be8755261",
+	"Chain": "ethereum"
+}

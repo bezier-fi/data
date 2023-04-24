@@ -1,0 +1,27 @@
+{
+	"Id": "0x2678de408c04a609781e502c13987460bdf0ed79",
+	"Protocol": "8ac0e126-5995-4a32-bfc3-ff1fe6f2137f",
+	"Outputs": [
+		{
+			"Address": "0x2678de408c04a609781e502c13987460bdf0ed79",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0bd49815ea8e2682220bcb41524c0dd10ba71d41",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PYM-USDT (1.00%)",
+	"Chain": "polygon"
+}

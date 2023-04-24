@@ -1,0 +1,10 @@
+{
+	"Id": "0xdb20e5e7ac887241291659bfba4034148f646ad9",
+	"Symbol": "OBITO-WETH",
+	"UnderlyingTokens": [
+		"0x2b52e70c7707beb8a425ad7eb173460a1b08d9f9",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f823afb8-75ff-4d95-a33a-5d5be8755261",
+	"Chain": "ethereum"
+}

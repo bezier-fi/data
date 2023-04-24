@@ -1,0 +1,27 @@
+{
+	"Id": "0xb141f1f7b2bf9ab51525298af20c15a50899045f",
+	"Protocol": "f823afb8-75ff-4d95-a33a-5d5be8755261",
+	"Outputs": [
+		{
+			"Address": "0xb141f1f7b2bf9ab51525298af20c15a50899045f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9f7020ed51e7d956d8ae086df17c136659eee000",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TAURID-WETH",
+	"Chain": "ethereum"
+}

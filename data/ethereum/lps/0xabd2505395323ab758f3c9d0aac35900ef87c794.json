@@ -1,0 +1,10 @@
+{
+	"Id": "0xabd2505395323ab758f3c9d0aac35900ef87c794",
+	"Symbol": "Piccolo-WETH",
+	"UnderlyingTokens": [
+		"0xba3da548c4e9698a8213d7d0d4f0c67395ef33fb",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f823afb8-75ff-4d95-a33a-5d5be8755261",
+	"Chain": "ethereum"
+}

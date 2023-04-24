@@ -1,0 +1,10 @@
+{
+	"Id": "0xfca63763ee55c43bbcf2db3ab22d4aa637ba5966",
+	"Symbol": "TANJIRO-WETH",
+	"UnderlyingTokens": [
+		"0x5439d01ae6ccad40a87dc9c035febe544346fb04",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f823afb8-75ff-4d95-a33a-5d5be8755261",
+	"Chain": "ethereum"
+}

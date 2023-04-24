@@ -1,0 +1,27 @@
+{
+	"Id": "0x5ea24cd2ba38767a40688f2ee2ccaf474e11c5aa",
+	"Protocol": "f823afb8-75ff-4d95-a33a-5d5be8755261",
+	"Outputs": [
+		{
+			"Address": "0x5ea24cd2ba38767a40688f2ee2ccaf474e11c5aa",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x752e56d6b3b6e05fc9729c4992db40fc02df534a",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "YUGI-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x60fe1a343d5d2aeeb9288451c7bdfcd0ad0f34e9",
+	"Symbol": "LARP-WETH",
+	"UnderlyingTokens": [
+		"0x7114a0c396baa2bea5e012c7caa0d2dc0d702565",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f823afb8-75ff-4d95-a33a-5d5be8755261",
+	"Chain": "ethereum"
+}

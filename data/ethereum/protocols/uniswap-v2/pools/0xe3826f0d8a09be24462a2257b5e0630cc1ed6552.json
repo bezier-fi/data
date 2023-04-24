@@ -1,0 +1,27 @@
+{
+	"Id": "0xe3826f0d8a09be24462a2257b5e0630cc1ed6552",
+	"Protocol": "f823afb8-75ff-4d95-a33a-5d5be8755261",
+	"Outputs": [
+		{
+			"Address": "0xe3826f0d8a09be24462a2257b5e0630cc1ed6552",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa11c9f189ec1a12e5338d6ef468134160c2eddb0",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "JNPNG-WETH",
+	"Chain": "ethereum"
+}

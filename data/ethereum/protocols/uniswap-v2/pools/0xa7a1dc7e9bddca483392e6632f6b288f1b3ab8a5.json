@@ -1,0 +1,27 @@
+{
+	"Id": "0xa7a1dc7e9bddca483392e6632f6b288f1b3ab8a5",
+	"Protocol": "f823afb8-75ff-4d95-a33a-5d5be8755261",
+	"Outputs": [
+		{
+			"Address": "0xa7a1dc7e9bddca483392e6632f6b288f1b3ab8a5",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xda14ac92a8ddc890404d0c03c4b16317763e1508",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-NAMI",
+	"Chain": "ethereum"
+}

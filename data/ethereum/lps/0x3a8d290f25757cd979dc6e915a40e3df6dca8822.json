@@ -1,0 +1,10 @@
+{
+	"Id": "0x3a8d290f25757cd979dc6e915a40e3df6dca8822",
+	"Symbol": "CHITA-WETH",
+	"UnderlyingTokens": [
+		"0x07a306815fac9ffe8a20ff5224084b061bab12ab",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f823afb8-75ff-4d95-a33a-5d5be8755261",
+	"Chain": "ethereum"
+}

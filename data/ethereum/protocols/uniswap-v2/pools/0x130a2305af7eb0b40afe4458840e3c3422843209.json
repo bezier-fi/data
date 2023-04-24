@@ -1,0 +1,27 @@
+{
+	"Id": "0x130a2305af7eb0b40afe4458840e3c3422843209",
+	"Protocol": "f823afb8-75ff-4d95-a33a-5d5be8755261",
+	"Outputs": [
+		{
+			"Address": "0x130a2305af7eb0b40afe4458840e3c3422843209",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1eaba44174f5a9ea0434d6177bd813b335552d4f",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "HINATA-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0xa65bc9f31d54db1d082d41b7160bb71d12679542",
+	"Protocol": "f823afb8-75ff-4d95-a33a-5d5be8755261",
+	"Outputs": [
+		{
+			"Address": "0xa65bc9f31d54db1d082d41b7160bb71d12679542",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x87335d6b4426fa642b418f820b5b298b6a7392fd",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PEPEARMY-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xda5dc4c2a30e9f27dcce8e702f0aae05ec937b44",
+	"Symbol": "ANDY-WETH",
+	"UnderlyingTokens": [
+		"0x805be90c8f3fa0d462450f03e8d2462160eb2287",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f823afb8-75ff-4d95-a33a-5d5be8755261",
+	"Chain": "ethereum"
+}

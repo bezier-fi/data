@@ -1,0 +1,10 @@
+{
+	"Id": "0x014755b34aae80bb9fa54f6c52897b7898bec6a7",
+	"Symbol": "RAPE-WETH",
+	"UnderlyingTokens": [
+		"0xaefad2ce578adbf6e98377d604b3bf6d7cf125bb",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f823afb8-75ff-4d95-a33a-5d5be8755261",
+	"Chain": "ethereum"
+}

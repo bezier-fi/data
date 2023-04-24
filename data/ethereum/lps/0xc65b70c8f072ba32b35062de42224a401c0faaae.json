@@ -1,0 +1,10 @@
+{
+	"Id": "0xc65b70c8f072ba32b35062de42224a401c0faaae",
+	"Symbol": "DogBird-WETH",
+	"UnderlyingTokens": [
+		"0xa766f0e63f79aaef7c35bd9281ff44a08e1b31a4",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f823afb8-75ff-4d95-a33a-5d5be8755261",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0xc65b70c8f072ba32b35062de42224a401c0faaae",
+	"Protocol": "f823afb8-75ff-4d95-a33a-5d5be8755261",
+	"Outputs": [
+		{
+			"Address": "0xc65b70c8f072ba32b35062de42224a401c0faaae",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa766f0e63f79aaef7c35bd9281ff44a08e1b31a4",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DogBird-WETH",
+	"Chain": "ethereum"
+}

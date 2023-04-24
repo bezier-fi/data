@@ -1,0 +1,10 @@
+{
+	"Id": "0xdcfa37b4e2a54b644be6f5afb904d5f808416763",
+	"Symbol": "TamaPEPE-WETH",
+	"UnderlyingTokens": [
+		"0x25237079222c198340cfaad0441d8cb6d3af0c56",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f823afb8-75ff-4d95-a33a-5d5be8755261",
+	"Chain": "ethereum"
+}

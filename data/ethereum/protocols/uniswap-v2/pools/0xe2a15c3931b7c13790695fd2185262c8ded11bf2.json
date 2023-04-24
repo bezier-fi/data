@@ -1,0 +1,27 @@
+{
+	"Id": "0xe2a15c3931b7c13790695fd2185262c8ded11bf2",
+	"Protocol": "f823afb8-75ff-4d95-a33a-5d5be8755261",
+	"Outputs": [
+		{
+			"Address": "0xe2a15c3931b7c13790695fd2185262c8ded11bf2",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xdb792e8e08f113271072626fbf6e5a827a72ef39",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-TANJIRO",
+	"Chain": "ethereum"
+}

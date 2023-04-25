@@ -1,0 +1,10 @@
+{
+	"Id": "0x08e2c4aec98bc6c01e50337b9a78e56045473340",
+	"Symbol": "JUSTIN-WETH",
+	"UnderlyingTokens": [
+		"0xb50245b8d372e3f4236de04deb42f26df911db50",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "8033b50e-d015-4e81-b47a-a9e5c3f38da0",
+	"Chain": "ethereum"
+}

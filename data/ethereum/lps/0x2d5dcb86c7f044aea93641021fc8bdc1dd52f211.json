@@ -1,0 +1,10 @@
+{
+	"Id": "0x2d5dcb86c7f044aea93641021fc8bdc1dd52f211",
+	"Symbol": "BTC2010-WETH",
+	"UnderlyingTokens": [
+		"0x69f71a97cd274a444165fd0f6767d2a46ecfe396",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "8033b50e-d015-4e81-b47a-a9e5c3f38da0",
+	"Chain": "ethereum"
+}

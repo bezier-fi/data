@@ -1,0 +1,27 @@
+{
+	"Id": "0x8407b8d5d3a09a6bb13a786fd05f227e4a564b41",
+	"Protocol": "8033b50e-d015-4e81-b47a-a9e5c3f38da0",
+	"Outputs": [
+		{
+			"Address": "0x8407b8d5d3a09a6bb13a786fd05f227e4a564b41",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2c49f5083dc49b49433b3f0206d8ca50e2634820",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FKSEC-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x4512e1f6a79a213bb3a9bd13a092d7d5ab82c18d",
+	"Protocol": "8033b50e-d015-4e81-b47a-a9e5c3f38da0",
+	"Outputs": [
+		{
+			"Address": "0x4512e1f6a79a213bb3a9bd13a092d7d5ab82c18d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xe4198fe93a4be94438e406bf422de0ec90ddba0f",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-FOMO",
+	"Chain": "ethereum"
+}

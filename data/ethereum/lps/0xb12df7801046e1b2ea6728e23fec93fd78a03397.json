@@ -1,0 +1,10 @@
+{
+	"Id": "0xb12df7801046e1b2ea6728e23fec93fd78a03397",
+	"Symbol": "WETH-CERVEZA",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc20723db7a6bc5d2f401219624a3908552ffef01"
+	],
+	"Protocol": "8033b50e-d015-4e81-b47a-a9e5c3f38da0",
+	"Chain": "ethereum"
+}

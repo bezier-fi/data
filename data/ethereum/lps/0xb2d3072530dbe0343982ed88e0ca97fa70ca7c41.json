@@ -1,0 +1,10 @@
+{
+	"Id": "0xb2d3072530dbe0343982ed88e0ca97fa70ca7c41",
+	"Symbol": "CHEERS-WETH",
+	"UnderlyingTokens": [
+		"0xa65edff09716f9dd4cd62fa8f715323444d2d157",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "8033b50e-d015-4e81-b47a-a9e5c3f38da0",
+	"Chain": "ethereum"
+}

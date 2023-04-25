@@ -1,0 +1,27 @@
+{
+	"Id": "0xe4bf709ce0982dd1f2c0a320fd6ba95650063dfe",
+	"Protocol": "8033b50e-d015-4e81-b47a-a9e5c3f38da0",
+	"Outputs": [
+		{
+			"Address": "0xe4bf709ce0982dd1f2c0a320fd6ba95650063dfe",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3bcddd52ee9f21323a2a1dd162b2175e471a02e0",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PELO-WETH",
+	"Chain": "ethereum"
+}

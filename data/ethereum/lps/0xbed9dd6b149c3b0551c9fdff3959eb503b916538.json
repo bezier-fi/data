@@ -1,0 +1,10 @@
+{
+	"Id": "0xbed9dd6b149c3b0551c9fdff3959eb503b916538",
+	"Symbol": "FUD-WETH",
+	"UnderlyingTokens": [
+		"0x3526a18626a02fbbe993ca03e9c37775c9a6ff8c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "8033b50e-d015-4e81-b47a-a9e5c3f38da0",
+	"Chain": "ethereum"
+}

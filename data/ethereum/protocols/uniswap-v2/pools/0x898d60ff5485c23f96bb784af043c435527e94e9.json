@@ -1,0 +1,27 @@
+{
+	"Id": "0x898d60ff5485c23f96bb784af043c435527e94e9",
+	"Protocol": "8033b50e-d015-4e81-b47a-a9e5c3f38da0",
+	"Outputs": [
+		{
+			"Address": "0x898d60ff5485c23f96bb784af043c435527e94e9",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5546cd3f8fef3329a57a5de9797a8b9b471aa5c5",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "NASA-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x9d32de57b7a63e3413ceb7ed288096a4371450f3",
+	"Symbol": "WETH-VEILIX",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf27b39f37ac2f6847b63cdf7d0ce27cdde4e669d"
+	],
+	"Protocol": "8033b50e-d015-4e81-b47a-a9e5c3f38da0",
+	"Chain": "ethereum"
+}

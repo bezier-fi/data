@@ -1,0 +1,10 @@
+{
+	"Id": "0xf7c968a52facb8e8b6dd74703b1f9745f7294307",
+	"Symbol": "PEPEMEME-WETH",
+	"UnderlyingTokens": [
+		"0x0458f1d7c8003bc8ebfc12d1c560dffc34f69829",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "8033b50e-d015-4e81-b47a-a9e5c3f38da0",
+	"Chain": "ethereum"
+}

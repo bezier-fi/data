@@ -1,0 +1,27 @@
+{
+	"Id": "0xb12df7801046e1b2ea6728e23fec93fd78a03397",
+	"Protocol": "8033b50e-d015-4e81-b47a-a9e5c3f38da0",
+	"Outputs": [
+		{
+			"Address": "0xb12df7801046e1b2ea6728e23fec93fd78a03397",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc20723db7a6bc5d2f401219624a3908552ffef01",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-CERVEZA",
+	"Chain": "ethereum"
+}

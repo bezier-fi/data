@@ -1,0 +1,27 @@
+{
+	"Id": "0xa657c1c3fbfe7fea55219b15b955d3e831cdebf9",
+	"Protocol": "8033b50e-d015-4e81-b47a-a9e5c3f38da0",
+	"Outputs": [
+		{
+			"Address": "0xa657c1c3fbfe7fea55219b15b955d3e831cdebf9",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x02eaea73d3e3a077ee0bf1fd9acfdcf0ae80829f",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BUFFET-WETH",
+	"Chain": "ethereum"
+}

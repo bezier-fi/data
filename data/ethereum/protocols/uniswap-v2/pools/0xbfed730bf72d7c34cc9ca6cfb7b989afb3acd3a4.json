@@ -1,0 +1,27 @@
+{
+	"Id": "0xbfed730bf72d7c34cc9ca6cfb7b989afb3acd3a4",
+	"Protocol": "2d615bcb-dd28-4969-8f3d-5b3a87bfdefd",
+	"Outputs": [
+		{
+			"Address": "0xbfed730bf72d7c34cc9ca6cfb7b989afb3acd3a4",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x636d585f40a7a445da7403fcf92e03f89dc3ebd0",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "pepeGPT-USDC",
+	"Chain": "ethereum"
+}

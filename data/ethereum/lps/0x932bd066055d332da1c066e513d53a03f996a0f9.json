@@ -1,0 +1,10 @@
+{
+	"Id": "0x932bd066055d332da1c066e513d53a03f996a0f9",
+	"Symbol": "WETH-NBPP",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf58f3766706a44a7444c3fe767458a1f454817ad"
+	],
+	"Protocol": "2d615bcb-dd28-4969-8f3d-5b3a87bfdefd",
+	"Chain": "ethereum"
+}

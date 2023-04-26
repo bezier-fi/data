@@ -1,0 +1,10 @@
+{
+	"Id": "0xfc932be359a728f0998dd6664681900a9ec7a418",
+	"Symbol": "ERMN-WETH",
+	"UnderlyingTokens": [
+		"0x32eda739748d7315fca9ba7db6d70d23db22f990",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2d615bcb-dd28-4969-8f3d-5b3a87bfdefd",
+	"Chain": "ethereum"
+}

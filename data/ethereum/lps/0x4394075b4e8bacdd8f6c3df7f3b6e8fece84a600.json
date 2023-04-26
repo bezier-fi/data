@@ -1,0 +1,10 @@
+{
+	"Id": "0x4394075b4e8bacdd8f6c3df7f3b6e8fece84a600",
+	"Symbol": "WETH-HABIBI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe1d224a66427a4e839e5eeb13cee4e027f37507b"
+	],
+	"Protocol": "2d615bcb-dd28-4969-8f3d-5b3a87bfdefd",
+	"Chain": "ethereum"
+}

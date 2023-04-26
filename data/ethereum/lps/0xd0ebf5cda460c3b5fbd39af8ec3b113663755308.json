@@ -1,0 +1,10 @@
+{
+	"Id": "0xd0ebf5cda460c3b5fbd39af8ec3b113663755308",
+	"Symbol": "BRUH-WETH",
+	"UnderlyingTokens": [
+		"0x154f1c9c7a0cba6a4098d4fa675abd3e63aaee00",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2d615bcb-dd28-4969-8f3d-5b3a87bfdefd",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xef5accb2bb72bc343aff7b3cb66b187c92e9eff3",
+	"Symbol": "PEVEN-WETH",
+	"UnderlyingTokens": [
+		"0xb6b7df08ac6a59a75b7c3d0e0dc3bcd9ab8c9f10",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2d615bcb-dd28-4969-8f3d-5b3a87bfdefd",
+	"Chain": "ethereum"
+}

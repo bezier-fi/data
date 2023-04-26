@@ -1,0 +1,10 @@
+{
+	"Id": "0xd793e688a2e76de4c7246de8adbd77e6a3d375a8",
+	"Symbol": "HABIPEPE-WETH",
+	"UnderlyingTokens": [
+		"0x366eb0c2baec7446151710ccd5e4b750c0ed3cd7",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2d615bcb-dd28-4969-8f3d-5b3a87bfdefd",
+	"Chain": "ethereum"
+}

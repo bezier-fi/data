@@ -1,0 +1,10 @@
+{
+	"Id": "0x913e01dc1d9d3233302bfc592f2ef1c8bdbe8bc9",
+	"Symbol": "RP-WETH",
+	"UnderlyingTokens": [
+		"0x56c56e4277509fd1a1a8e676079751b284c43091",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2d615bcb-dd28-4969-8f3d-5b3a87bfdefd",
+	"Chain": "ethereum"
+}

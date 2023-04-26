@@ -1,0 +1,10 @@
+{
+	"Id": "0x7587ceffc55f177b3a909ec60d75aaa496b06475",
+	"Symbol": "LORDS-WETH",
+	"UnderlyingTokens": [
+		"0x58d3fb8b79dfccbcbe90f3d6dde0fb3ec7d3c9bd",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2d615bcb-dd28-4969-8f3d-5b3a87bfdefd",
+	"Chain": "ethereum"
+}

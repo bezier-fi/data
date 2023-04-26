@@ -1,0 +1,27 @@
+{
+	"Id": "0xd793e688a2e76de4c7246de8adbd77e6a3d375a8",
+	"Protocol": "2d615bcb-dd28-4969-8f3d-5b3a87bfdefd",
+	"Outputs": [
+		{
+			"Address": "0xd793e688a2e76de4c7246de8adbd77e6a3d375a8",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x366eb0c2baec7446151710ccd5e4b750c0ed3cd7",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "HABIPEPE-WETH",
+	"Chain": "ethereum"
+}

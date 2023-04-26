@@ -1,0 +1,27 @@
+{
+	"Id": "0xe838bc5b10ec0b24477d6a1ade21078d7b0c0200",
+	"Protocol": "2d615bcb-dd28-4969-8f3d-5b3a87bfdefd",
+	"Outputs": [
+		{
+			"Address": "0xe838bc5b10ec0b24477d6a1ade21078d7b0c0200",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb0cbfdbfe2f1ef6f46ebdedbf89188e6cad86322",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "STEPHY-WETH",
+	"Chain": "ethereum"
+}

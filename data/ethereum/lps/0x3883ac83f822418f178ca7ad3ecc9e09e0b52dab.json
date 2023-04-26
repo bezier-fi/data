@@ -1,0 +1,10 @@
+{
+	"Id": "0x3883ac83f822418f178ca7ad3ecc9e09e0b52dab",
+	"Symbol": "WETH-KK",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe0b325836064298405e70d8c0dd7d7f41f08db72"
+	],
+	"Protocol": "2d615bcb-dd28-4969-8f3d-5b3a87bfdefd",
+	"Chain": "ethereum"
+}

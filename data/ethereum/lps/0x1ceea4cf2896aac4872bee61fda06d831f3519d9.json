@@ -1,0 +1,10 @@
+{
+	"Id": "0x1ceea4cf2896aac4872bee61fda06d831f3519d9",
+	"Symbol": "WOKE-WETH",
+	"UnderlyingTokens": [
+		"0x22ee12dfebc4685ba2240d45893d4e479775b4cf",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2d615bcb-dd28-4969-8f3d-5b3a87bfdefd",
+	"Chain": "ethereum"
+}

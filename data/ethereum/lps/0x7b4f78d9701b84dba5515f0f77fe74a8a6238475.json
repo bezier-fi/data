@@ -1,0 +1,10 @@
+{
+	"Id": "0x7b4f78d9701b84dba5515f0f77fe74a8a6238475",
+	"Symbol": "FEFE-WETH",
+	"UnderlyingTokens": [
+		"0x76c73e630b61551067ab78c6f5909b5ed74edb8a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2d615bcb-dd28-4969-8f3d-5b3a87bfdefd",
+	"Chain": "ethereum"
+}

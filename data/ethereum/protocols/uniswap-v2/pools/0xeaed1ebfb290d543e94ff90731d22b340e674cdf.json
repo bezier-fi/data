@@ -1,0 +1,27 @@
+{
+	"Id": "0xeaed1ebfb290d543e94ff90731d22b340e674cdf",
+	"Protocol": "2d615bcb-dd28-4969-8f3d-5b3a87bfdefd",
+	"Outputs": [
+		{
+			"Address": "0xeaed1ebfb290d543e94ff90731d22b340e674cdf",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3882e37697e756e6a9d58387a0ee6c9e7f7a0f58",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xe717a30d8a97faa8788559d19e52d574c9593d37",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SEC-COIN",
+	"Chain": "ethereum"
+}

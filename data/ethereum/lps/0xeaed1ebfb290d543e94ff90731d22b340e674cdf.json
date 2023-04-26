@@ -1,0 +1,10 @@
+{
+	"Id": "0xeaed1ebfb290d543e94ff90731d22b340e674cdf",
+	"Symbol": "SEC-COIN",
+	"UnderlyingTokens": [
+		"0x3882e37697e756e6a9d58387a0ee6c9e7f7a0f58",
+		"0xe717a30d8a97faa8788559d19e52d574c9593d37"
+	],
+	"Protocol": "2d615bcb-dd28-4969-8f3d-5b3a87bfdefd",
+	"Chain": "ethereum"
+}

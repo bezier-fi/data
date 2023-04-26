@@ -1,0 +1,10 @@
+{
+	"Id": "0xe838bc5b10ec0b24477d6a1ade21078d7b0c0200",
+	"Symbol": "STEPHY-WETH",
+	"UnderlyingTokens": [
+		"0xb0cbfdbfe2f1ef6f46ebdedbf89188e6cad86322",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2d615bcb-dd28-4969-8f3d-5b3a87bfdefd",
+	"Chain": "ethereum"
+}

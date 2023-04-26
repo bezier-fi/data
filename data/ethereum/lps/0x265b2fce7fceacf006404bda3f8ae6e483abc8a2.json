@@ -1,0 +1,10 @@
+{
+	"Id": "0x265b2fce7fceacf006404bda3f8ae6e483abc8a2",
+	"Symbol": "TATE-WETH",
+	"UnderlyingTokens": [
+		"0x7c7c872d18969967a3cf12c71df170424a4b0f66",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2d615bcb-dd28-4969-8f3d-5b3a87bfdefd",
+	"Chain": "ethereum"
+}

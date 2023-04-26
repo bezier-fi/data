@@ -1,0 +1,10 @@
+{
+	"Id": "0xbfcc5ad8720cd88f9312a81c7756c5a6b06b64e7",
+	"Symbol": "SLOCK-WETH",
+	"UnderlyingTokens": [
+		"0xbcbf09b4b83eb3893d58f0665d21460c04e39d8e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2d615bcb-dd28-4969-8f3d-5b3a87bfdefd",
+	"Chain": "ethereum"
+}

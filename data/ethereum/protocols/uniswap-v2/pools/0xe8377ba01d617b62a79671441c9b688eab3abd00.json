@@ -1,0 +1,27 @@
+{
+	"Id": "0xe8377ba01d617b62a79671441c9b688eab3abd00",
+	"Protocol": "2d615bcb-dd28-4969-8f3d-5b3a87bfdefd",
+	"Outputs": [
+		{
+			"Address": "0xe8377ba01d617b62a79671441c9b688eab3abd00",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5c76ea804c3eb0590fa07e5c98848c5e7b46db7b",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Groyper-WETH",
+	"Chain": "ethereum"
+}

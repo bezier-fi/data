@@ -1,0 +1,10 @@
+{
+	"Id": "0x08a8337d302c9c14fe4247534b48bffe7c8a1b79",
+	"Symbol": "AKIRA-WETH",
+	"UnderlyingTokens": [
+		"0x1a84fe4ac2cf7869258cee312eda4db36912b528",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2d615bcb-dd28-4969-8f3d-5b3a87bfdefd",
+	"Chain": "ethereum"
+}

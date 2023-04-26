@@ -1,0 +1,10 @@
+{
+	"Id": "0xca21f02fb71613f235459c0db81eb29695bbfaf4",
+	"Symbol": "FML-WETH",
+	"UnderlyingTokens": [
+		"0x838abcc72c7e74ef4974fd95c7339697ad7b178e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2d615bcb-dd28-4969-8f3d-5b3a87bfdefd",
+	"Chain": "ethereum"
+}

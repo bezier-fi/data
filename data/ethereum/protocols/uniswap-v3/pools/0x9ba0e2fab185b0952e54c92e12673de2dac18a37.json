@@ -1,0 +1,27 @@
+{
+	"Id": "0x9ba0e2fab185b0952e54c92e12673de2dac18a37",
+	"Protocol": "fd7b6ae9-689c-4682-bf9c-d77316719532",
+	"Outputs": [
+		{
+			"Address": "0x9ba0e2fab185b0952e54c92e12673de2dac18a37",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xdd782657af86492771bdb369caeb8c246be362f5",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDT-RUG (1.00%)",
+	"Chain": "ethereum"
+}

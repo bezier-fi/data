@@ -1,0 +1,10 @@
+{
+	"Id": "0x8f1b19622a888c53c8ee4f7d7b4dc8f574ff9068",
+	"Symbol": "JESUS-WETH",
+	"UnderlyingTokens": [
+		"0xba386a4ca26b85fd057ab1ef86e3dc7bdeb5ce70",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2d615bcb-dd28-4969-8f3d-5b3a87bfdefd",
+	"Chain": "ethereum"
+}

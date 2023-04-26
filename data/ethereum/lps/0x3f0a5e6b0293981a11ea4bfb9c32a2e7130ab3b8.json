@@ -1,0 +1,10 @@
+{
+	"Id": "0x3f0a5e6b0293981a11ea4bfb9c32a2e7130ab3b8",
+	"Symbol": "GMI-WETH",
+	"UnderlyingTokens": [
+		"0x27c16a391cac46fd750d0807847d3dde26bb54a4",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2d615bcb-dd28-4969-8f3d-5b3a87bfdefd",
+	"Chain": "ethereum"
+}

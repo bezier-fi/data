@@ -1,0 +1,10 @@
+{
+	"Id": "0x353385b8a0328c0caefc5478fe039aa63daf7d7e",
+	"Symbol": "SCAM-WETH",
+	"UnderlyingTokens": [
+		"0x8414da8f3e48e6c2e0b6c43b6e9ed4b81c2dd7d7",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2d615bcb-dd28-4969-8f3d-5b3a87bfdefd",
+	"Chain": "ethereum"
+}

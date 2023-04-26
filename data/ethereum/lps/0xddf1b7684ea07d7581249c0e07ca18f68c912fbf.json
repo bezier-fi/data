@@ -1,0 +1,10 @@
+{
+	"Id": "0xddf1b7684ea07d7581249c0e07ca18f68c912fbf",
+	"Symbol": "FAUN-WETH",
+	"UnderlyingTokens": [
+		"0xbf82a074812ff7c29c358a82cae510269fd7cf6f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2d615bcb-dd28-4969-8f3d-5b3a87bfdefd",
+	"Chain": "ethereum"
+}

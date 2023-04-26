@@ -1,0 +1,10 @@
+{
+	"Id": "0xd62b9ee97a8dc00c8e4fa67d7ba5f4d386d4fcf2",
+	"Symbol": "ICYMI-WETH",
+	"UnderlyingTokens": [
+		"0x66d42b600717e4edf8acc44d6c02eb28bd1b8557",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2d615bcb-dd28-4969-8f3d-5b3a87bfdefd",
+	"Chain": "ethereum"
+}

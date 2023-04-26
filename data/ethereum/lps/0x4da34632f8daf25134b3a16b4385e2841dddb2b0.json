@@ -1,0 +1,10 @@
+{
+	"Id": "0x4da34632f8daf25134b3a16b4385e2841dddb2b0",
+	"Symbol": "DAPE-WETH",
+	"UnderlyingTokens": [
+		"0x38e4bd7fdd4e582ce1648b6e173913129d70030d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2d615bcb-dd28-4969-8f3d-5b3a87bfdefd",
+	"Chain": "ethereum"
+}

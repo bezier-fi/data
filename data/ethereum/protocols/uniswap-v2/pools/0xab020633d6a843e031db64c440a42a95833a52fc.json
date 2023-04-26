@@ -1,0 +1,27 @@
+{
+	"Id": "0xab020633d6a843e031db64c440a42a95833a52fc",
+	"Protocol": "2d615bcb-dd28-4969-8f3d-5b3a87bfdefd",
+	"Outputs": [
+		{
+			"Address": "0xab020633d6a843e031db64c440a42a95833a52fc",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc0265951b216d7641ef522d63319dedc4e5bf9ea",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TEPE-WETH",
+	"Chain": "ethereum"
+}

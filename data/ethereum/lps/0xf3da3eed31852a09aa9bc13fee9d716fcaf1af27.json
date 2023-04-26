@@ -1,0 +1,10 @@
+{
+	"Id": "0xf3da3eed31852a09aa9bc13fee9d716fcaf1af27",
+	"Symbol": "BOG-WETH",
+	"UnderlyingTokens": [
+		"0x0ba74fb26ca523f2dc22fa4318581cc2452eaba1",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2d615bcb-dd28-4969-8f3d-5b3a87bfdefd",
+	"Chain": "ethereum"
+}

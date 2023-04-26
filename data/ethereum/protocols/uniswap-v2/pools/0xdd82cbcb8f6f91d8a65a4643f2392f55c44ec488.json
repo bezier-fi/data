@@ -1,0 +1,27 @@
+{
+	"Id": "0xdd82cbcb8f6f91d8a65a4643f2392f55c44ec488",
+	"Protocol": "2d615bcb-dd28-4969-8f3d-5b3a87bfdefd",
+	"Outputs": [
+		{
+			"Address": "0xdd82cbcb8f6f91d8a65a4643f2392f55c44ec488",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xfa4cd7f154b55f7fc82e78a0ec9832b4d1117578",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-GENESIS",
+	"Chain": "ethereum"
+}

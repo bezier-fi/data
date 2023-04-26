@@ -1,0 +1,27 @@
+{
+	"Id": "0x072051bb0f8384c2ba70b6c8e8b2332ee6905ed5",
+	"Protocol": "2d615bcb-dd28-4969-8f3d-5b3a87bfdefd",
+	"Outputs": [
+		{
+			"Address": "0x072051bb0f8384c2ba70b6c8e8b2332ee6905ed5",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9de334b85c7a0e14b2c3304c6044dbb8ba86ec56",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "KETNIPZ-WETH",
+	"Chain": "ethereum"
+}

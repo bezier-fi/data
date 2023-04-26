@@ -1,0 +1,10 @@
+{
+	"Id": "0x2d892a985a55e3d5f4e06aba8bc4486a3f3f8588",
+	"Symbol": "LASHI-WETH",
+	"UnderlyingTokens": [
+		"0x1195c2d4b9035b04af52063021fa3f5296090485",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2d615bcb-dd28-4969-8f3d-5b3a87bfdefd",
+	"Chain": "ethereum"
+}

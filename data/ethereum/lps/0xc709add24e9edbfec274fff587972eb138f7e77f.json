@@ -1,0 +1,10 @@
+{
+	"Id": "0xc709add24e9edbfec274fff587972eb138f7e77f",
+	"Symbol": "WETH-VIGPT",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd08e2d59f9595e3c59b33c3f0cbdba161c82cc37"
+	],
+	"Protocol": "2d615bcb-dd28-4969-8f3d-5b3a87bfdefd",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xaa9d7670a7637bc9bad10cf8846b3b58ef9ff1d3",
+	"Symbol": "WETH-BTICK",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc67d0f11fcce34e60060962956412c5352976c47"
+	],
+	"Protocol": "2d615bcb-dd28-4969-8f3d-5b3a87bfdefd",
+	"Chain": "ethereum"
+}

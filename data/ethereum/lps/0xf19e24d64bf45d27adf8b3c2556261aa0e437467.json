@@ -1,0 +1,10 @@
+{
+	"Id": "0xf19e24d64bf45d27adf8b3c2556261aa0e437467",
+	"Symbol": "WETH-OMIKUJI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xec78bcc84770649e96575bb858a4cdb75fae7255"
+	],
+	"Protocol": "2d615bcb-dd28-4969-8f3d-5b3a87bfdefd",
+	"Chain": "ethereum"
+}

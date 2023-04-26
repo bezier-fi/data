@@ -1,0 +1,27 @@
+{
+	"Id": "0xdfb7d811fd0140d1a74b970d3651b0505678fcdf",
+	"Protocol": "2d615bcb-dd28-4969-8f3d-5b3a87bfdefd",
+	"Outputs": [
+		{
+			"Address": "0xdfb7d811fd0140d1a74b970d3651b0505678fcdf",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x010193632556908683ad75ec7b1b86771a8c42a6",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "NAKAS-WETH",
+	"Chain": "ethereum"
+}

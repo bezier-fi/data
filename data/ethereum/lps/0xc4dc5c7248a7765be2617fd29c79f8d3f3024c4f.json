@@ -1,0 +1,10 @@
+{
+	"Id": "0xc4dc5c7248a7765be2617fd29c79f8d3f3024c4f",
+	"Symbol": "BNGS-WETH",
+	"UnderlyingTokens": [
+		"0x11f458ac6f8d7f465fb6456c0f56742a954d6597",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "2d615bcb-dd28-4969-8f3d-5b3a87bfdefd",
+	"Chain": "ethereum"
+}

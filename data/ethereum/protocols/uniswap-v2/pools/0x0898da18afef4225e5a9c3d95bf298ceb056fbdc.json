@@ -1,0 +1,27 @@
+{
+	"Id": "0x0898da18afef4225e5a9c3d95bf298ceb056fbdc",
+	"Protocol": "e16581af-b496-40bb-815c-045b3eed300f",
+	"Outputs": [
+		{
+			"Address": "0x0898da18afef4225e5a9c3d95bf298ceb056fbdc",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb8a768cd332e4461fccfbdb1d0292ceffbb2bb8a",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "COLLIE-WETH",
+	"Chain": "ethereum"
+}

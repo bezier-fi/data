@@ -1,0 +1,27 @@
+{
+	"Id": "0x8766b7c565ca9490508539075b46e3ac2e89ffa7",
+	"Protocol": "e16581af-b496-40bb-815c-045b3eed300f",
+	"Outputs": [
+		{
+			"Address": "0x8766b7c565ca9490508539075b46e3ac2e89ffa7",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x70858e9cc713b353a2e6065dcb886f97015203a5",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MEMECOIN-WETH",
+	"Chain": "ethereum"
+}

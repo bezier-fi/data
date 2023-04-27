@@ -1,0 +1,10 @@
+{
+	"Id": "0x92a7a59b6bb827309261034fa2750f4c40be6161",
+	"Symbol": "EPEP-WETH",
+	"UnderlyingTokens": [
+		"0x938e2c907e10d717de32a39a3fe82158c7b91676",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "e16581af-b496-40bb-815c-045b3eed300f",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x69104c65faac5355e9033341998f04414088acaa",
+	"Protocol": "e16581af-b496-40bb-815c-045b3eed300f",
+	"Outputs": [
+		{
+			"Address": "0x69104c65faac5355e9033341998f04414088acaa",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x761eb61fb4481364b1766bd70542067a910a9439",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FUZZ-WETH",
+	"Chain": "ethereum"
+}

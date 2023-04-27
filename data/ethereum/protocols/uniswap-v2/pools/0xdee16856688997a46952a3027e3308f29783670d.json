@@ -1,0 +1,27 @@
+{
+	"Id": "0xdee16856688997a46952a3027e3308f29783670d",
+	"Protocol": "e16581af-b496-40bb-815c-045b3eed300f",
+	"Outputs": [
+		{
+			"Address": "0xdee16856688997a46952a3027e3308f29783670d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x99fbfdc2e2ff529558f74cc6d30eceb38e9c50b7",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "HKPAD-WETH",
+	"Chain": "ethereum"
+}

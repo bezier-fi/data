@@ -1,0 +1,10 @@
+{
+	"Id": "0x36a6298aa0c1ad7df6279e4c650aa3ea0cfba579",
+	"Symbol": "BUTT-WETH",
+	"UnderlyingTokens": [
+		"0xac20bad1ef7b75ef3bc06ea0c979366a16baaafc",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "e16581af-b496-40bb-815c-045b3eed300f",
+	"Chain": "ethereum"
+}

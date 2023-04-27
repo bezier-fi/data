@@ -1,0 +1,27 @@
+{
+	"Id": "0x7e1f055bdd057622b5db5ce31709a4e625eb3f2d",
+	"Protocol": "e16581af-b496-40bb-815c-045b3eed300f",
+	"Outputs": [
+		{
+			"Address": "0x7e1f055bdd057622b5db5ce31709a4e625eb3f2d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xcec149de67b3bde2ff65c284e8f57dac52de2c8c",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-DYOR",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x3a64a471f76c70ef5be7ab686c89c50c9bdbce42",
+	"Protocol": "e16581af-b496-40bb-815c-045b3eed300f",
+	"Outputs": [
+		{
+			"Address": "0x3a64a471f76c70ef5be7ab686c89c50c9bdbce42",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9877daca2abf2ced82bdd51f9e533fdd2410795c",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "LMT-USDT",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xdee16856688997a46952a3027e3308f29783670d",
+	"Symbol": "HKPAD-WETH",
+	"UnderlyingTokens": [
+		"0x99fbfdc2e2ff529558f74cc6d30eceb38e9c50b7",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "e16581af-b496-40bb-815c-045b3eed300f",
+	"Chain": "ethereum"
+}

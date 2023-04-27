@@ -1,0 +1,10 @@
+{
+	"Id": "0x546a541c71bf6c1c3d678ed6b1cff41cb4b7cf8a",
+	"Symbol": "GODPEPE-WETH",
+	"UnderlyingTokens": [
+		"0xb3780849cc89c75b72d215d4c4585e8a3fe7cdb7",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "e16581af-b496-40bb-815c-045b3eed300f",
+	"Chain": "ethereum"
+}

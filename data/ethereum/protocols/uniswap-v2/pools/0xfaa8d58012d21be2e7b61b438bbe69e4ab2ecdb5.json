@@ -1,0 +1,27 @@
+{
+	"Id": "0xfaa8d58012d21be2e7b61b438bbe69e4ab2ecdb5",
+	"Protocol": "e16581af-b496-40bb-815c-045b3eed300f",
+	"Outputs": [
+		{
+			"Address": "0xfaa8d58012d21be2e7b61b438bbe69e4ab2ecdb5",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x095f41ec3506fee4f83a4a345897c5f665682e45",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PEPEDAO-WETH",
+	"Chain": "ethereum"
+}

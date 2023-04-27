@@ -1,0 +1,27 @@
+{
+	"Id": "0xc358297abf55fe6c7ed7162b948fb00684ae7654",
+	"Protocol": "e16581af-b496-40bb-815c-045b3eed300f",
+	"Outputs": [
+		{
+			"Address": "0xc358297abf55fe6c7ed7162b948fb00684ae7654",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7a81159eb6cd52eba2ad6d5f483846beb322a196",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BABYDOGE-WETH",
+	"Chain": "ethereum"
+}

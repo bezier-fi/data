@@ -1,0 +1,27 @@
+{
+	"Id": "0xb5a63bcbe8a62d0a063b1abeba99fcec19a893e5",
+	"Protocol": "1743ab2f-b8f8-4451-81e9-5e53c866e723",
+	"Outputs": [
+		{
+			"Address": "0xb5a63bcbe8a62d0a063b1abeba99fcec19a893e5",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0e5c8c387c5eba2ecbc137ad012aed5fe729e251",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "RPG-USDT (0.30%)",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x69104c65faac5355e9033341998f04414088acaa",
+	"Symbol": "FUZZ-WETH",
+	"UnderlyingTokens": [
+		"0x761eb61fb4481364b1766bd70542067a910a9439",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "e16581af-b496-40bb-815c-045b3eed300f",
+	"Chain": "ethereum"
+}

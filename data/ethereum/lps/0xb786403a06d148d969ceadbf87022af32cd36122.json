@@ -1,0 +1,10 @@
+{
+	"Id": "0xb786403a06d148d969ceadbf87022af32cd36122",
+	"Symbol": "PETER-WETH",
+	"UnderlyingTokens": [
+		"0x00204288bbeaa9b546b5d409a63d24d1501f01cd",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "e16581af-b496-40bb-815c-045b3eed300f",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x260fccce510ced78973dea598f000c21c472a602",
+	"Protocol": "e16581af-b496-40bb-815c-045b3eed300f",
+	"Outputs": [
+		{
+			"Address": "0x260fccce510ced78973dea598f000c21c472a602",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x09c71467dae5e12b0b35fd93648c55ba7f3b6070",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MTGOX-WETH",
+	"Chain": "ethereum"
+}

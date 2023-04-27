@@ -1,0 +1,10 @@
+{
+	"Id": "0xd993656bd75d018c606ae34a0fb67ea68939b58c",
+	"Symbol": "MIRA-WETH",
+	"UnderlyingTokens": [
+		"0x687d1ff1961a33129207b0bb013c71def815ec34",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "e16581af-b496-40bb-815c-045b3eed300f",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x61FDdD212F02F46fEa58DDfE3BE92D07B1249bCC",
+	"Protocol": "9d23411e-915a-48ac-b576-1382c7beb959",
+	"Outputs": [
+		{
+			"Address": "0x1Dc27B26ecdE9eDcAf95Adb1532aD4036d9AC307",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xDEf1CA1fb7FBcDC777520aa7f396b4E015F497aB",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "COWETH-f",
+	"Chain": "ethereum"
+}

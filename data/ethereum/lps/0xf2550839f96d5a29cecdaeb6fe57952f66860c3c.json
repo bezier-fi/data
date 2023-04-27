@@ -1,0 +1,10 @@
+{
+	"Id": "0xf2550839f96d5a29cecdaeb6fe57952f66860c3c",
+	"Symbol": "SLEEPY-WETH",
+	"UnderlyingTokens": [
+		"0xb3fd65d7986a356851b898faef8b5e0f036cf4a9",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "e16581af-b496-40bb-815c-045b3eed300f",
+	"Chain": "ethereum"
+}

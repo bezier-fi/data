@@ -1,0 +1,10 @@
+{
+	"Id": "0x30b10a637eb01b2ac1d522d7723a27f180c83f3f",
+	"Symbol": "WETH-ZELDA",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xccedff5237912081fcf523954b6a3cee93e006ef"
+	],
+	"Protocol": "e16581af-b496-40bb-815c-045b3eed300f",
+	"Chain": "ethereum"
+}

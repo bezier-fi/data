@@ -1,0 +1,10 @@
+{
+	"Id": "0xc358297abf55fe6c7ed7162b948fb00684ae7654",
+	"Symbol": "BABYDOGE-WETH",
+	"UnderlyingTokens": [
+		"0x7a81159eb6cd52eba2ad6d5f483846beb322a196",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "e16581af-b496-40bb-815c-045b3eed300f",
+	"Chain": "ethereum"
+}

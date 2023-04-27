@@ -1,0 +1,10 @@
+{
+	"Id": "0xf8ec6c2e5f49be588ac1b405791176e4eb736b16",
+	"Symbol": "PEPERONI-WETH",
+	"UnderlyingTokens": [
+		"0x1859cf581be918b95e90c9f20ea481053cab7d89",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "e16581af-b496-40bb-815c-045b3eed300f",
+	"Chain": "ethereum"
+}

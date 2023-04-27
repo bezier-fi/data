@@ -1,0 +1,10 @@
+{
+	"Id": "0xc63137a6edeaf59c293dedd997ebc9099499e2b3",
+	"Symbol": "JEFF-WETH",
+	"UnderlyingTokens": [
+		"0xa0c664c98405c8ef36532a41757ae29f461f1196",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "e16581af-b496-40bb-815c-045b3eed300f",
+	"Chain": "ethereum"
+}

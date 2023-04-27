@@ -1,0 +1,10 @@
+{
+	"Id": "0xbeeb6cac1742dbc5e567d1340e620727d4a4a288",
+	"Symbol": "$PTOR-WETH",
+	"UnderlyingTokens": [
+		"0xbddcfdca3041243a1f2062fea832a1331909a6bf",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "e16581af-b496-40bb-815c-045b3eed300f",
+	"Chain": "ethereum"
+}

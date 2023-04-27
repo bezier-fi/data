@@ -1,0 +1,10 @@
+{
+	"Id": "0xd147ec51a4efa6ddf0c17594b035ec0408c53384",
+	"Symbol": "GROGU-WETH",
+	"UnderlyingTokens": [
+		"0xa01ec64f828762dde7fad11ff11aca36c30b7654",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "e16581af-b496-40bb-815c-045b3eed300f",
+	"Chain": "ethereum"
+}

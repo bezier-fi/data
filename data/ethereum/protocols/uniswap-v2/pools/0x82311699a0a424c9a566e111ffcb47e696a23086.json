@@ -1,0 +1,27 @@
+{
+	"Id": "0x82311699a0a424c9a566e111ffcb47e696a23086",
+	"Protocol": "e16581af-b496-40bb-815c-045b3eed300f",
+	"Outputs": [
+		{
+			"Address": "0x82311699a0a424c9a566e111ffcb47e696a23086",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xadf7ea49578344cd738e3ce87485067485c3e4ff",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PHUB-WETH",
+	"Chain": "ethereum"
+}

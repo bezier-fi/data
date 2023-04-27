@@ -1,0 +1,10 @@
+{
+	"Id": "0x21aa916eaee238b5cfdaed194dcdf18f6759126e",
+	"Symbol": "WETH-DERP",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd3af7e96cad8d72f577e55f87e1e56b60aa675b0"
+	],
+	"Protocol": "e16581af-b496-40bb-815c-045b3eed300f",
+	"Chain": "ethereum"
+}

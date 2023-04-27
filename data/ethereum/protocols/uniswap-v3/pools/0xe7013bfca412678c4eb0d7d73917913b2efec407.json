@@ -1,0 +1,27 @@
+{
+	"Id": "0xe7013bfca412678c4eb0d7d73917913b2efec407",
+	"Protocol": "1743ab2f-b8f8-4451-81e9-5e53c866e723",
+	"Outputs": [
+		{
+			"Address": "0xe7013bfca412678c4eb0d7d73917913b2efec407",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xad2afccec0384f272f430e763041f0ba4decbe27",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TRUMP-WETH (0.30%)",
+	"Chain": "ethereum"
+}

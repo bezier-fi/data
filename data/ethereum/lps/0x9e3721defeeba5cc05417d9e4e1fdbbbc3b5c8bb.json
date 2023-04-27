@@ -1,0 +1,10 @@
+{
+	"Id": "0x9e3721defeeba5cc05417d9e4e1fdbbbc3b5c8bb",
+	"Symbol": "HIT-WETH",
+	"UnderlyingTokens": [
+		"0x874ddf820a15c88b90442df15192066ec38866e4",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "e16581af-b496-40bb-815c-045b3eed300f",
+	"Chain": "ethereum"
+}

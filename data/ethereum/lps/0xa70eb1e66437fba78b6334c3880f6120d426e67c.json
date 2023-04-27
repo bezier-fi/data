@@ -1,0 +1,10 @@
+{
+	"Id": "0xa70eb1e66437fba78b6334c3880f6120d426e67c",
+	"Symbol": "RAICHU-WETH",
+	"UnderlyingTokens": [
+		"0xa24b83ea5cdd1048f4f870d4b042e990ce22088c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "e16581af-b496-40bb-815c-045b3eed300f",
+	"Chain": "ethereum"
+}

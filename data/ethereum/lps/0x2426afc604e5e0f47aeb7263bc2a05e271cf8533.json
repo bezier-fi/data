@@ -1,0 +1,10 @@
+{
+	"Id": "0x2426afc604e5e0f47aeb7263bc2a05e271cf8533",
+	"Symbol": "TRUST-WETH",
+	"UnderlyingTokens": [
+		"0x94f7d1989ae571861399d111efe33f76bdf17ff1",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "26e07bed-2ab7-43f1-b5dc-3884c9ef39f5",
+	"Chain": "ethereum"
+}

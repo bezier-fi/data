@@ -1,0 +1,10 @@
+{
+	"Id": "0xb7de692076389fd0d7ca3ece736f8e763a986fb5",
+	"Symbol": "WETH-SPYvsSPY",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe7460cf82421fe51d538b1c4407d9362e56b1100"
+	],
+	"Protocol": "26e07bed-2ab7-43f1-b5dc-3884c9ef39f5",
+	"Chain": "ethereum"
+}

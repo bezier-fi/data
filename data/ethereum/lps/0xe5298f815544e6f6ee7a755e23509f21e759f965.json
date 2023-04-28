@@ -1,0 +1,10 @@
+{
+	"Id": "0xe5298f815544e6f6ee7a755e23509f21e759f965",
+	"Symbol": "NORMIE-WETH",
+	"UnderlyingTokens": [
+		"0x002d652e0a81fc4a945cf80ab11113399dd59e20",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "26e07bed-2ab7-43f1-b5dc-3884c9ef39f5",
+	"Chain": "ethereum"
+}

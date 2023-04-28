@@ -1,0 +1,27 @@
+{
+	"Id": "0xe5d5f8f61b1555f1a27488a122fb3cde2ee16f2b",
+	"Protocol": "26e07bed-2ab7-43f1-b5dc-3884c9ef39f5",
+	"Outputs": [
+		{
+			"Address": "0xe5d5f8f61b1555f1a27488a122fb3cde2ee16f2b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4385328cc4d643ca98dfea734360c0f596c83449",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TOMI-USDT",
+	"Chain": "ethereum"
+}

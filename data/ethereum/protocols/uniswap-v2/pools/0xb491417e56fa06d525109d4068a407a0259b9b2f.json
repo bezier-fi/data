@@ -1,0 +1,27 @@
+{
+	"Id": "0xb491417e56fa06d525109d4068a407a0259b9b2f",
+	"Protocol": "26e07bed-2ab7-43f1-b5dc-3884c9ef39f5",
+	"Outputs": [
+		{
+			"Address": "0xb491417e56fa06d525109d4068a407a0259b9b2f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xf8bdb33b9e4f52cfb8f670a6a522fa800d03f9cd",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-KING",
+	"Chain": "ethereum"
+}

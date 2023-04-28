@@ -1,0 +1,10 @@
+{
+	"Id": "0x330713acef05f24ae5f477d4ded12e4816b001aa",
+	"Symbol": "PEPEMINATI-WETH",
+	"UnderlyingTokens": [
+		"0x5a3f59d71c1845491f83707f939036749c53bb40",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "26e07bed-2ab7-43f1-b5dc-3884c9ef39f5",
+	"Chain": "ethereum"
+}

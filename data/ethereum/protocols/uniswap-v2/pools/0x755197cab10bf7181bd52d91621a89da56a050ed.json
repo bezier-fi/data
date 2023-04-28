@@ -1,0 +1,27 @@
+{
+	"Id": "0x755197cab10bf7181bd52d91621a89da56a050ed",
+	"Protocol": "26e07bed-2ab7-43f1-b5dc-3884c9ef39f5",
+	"Outputs": [
+		{
+			"Address": "0x755197cab10bf7181bd52d91621a89da56a050ed",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x40a5101dce87967e6d941efb6f1154ae7596663d",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DRAKE-WETH",
+	"Chain": "ethereum"
+}

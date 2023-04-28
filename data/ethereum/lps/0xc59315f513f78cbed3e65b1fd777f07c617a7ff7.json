@@ -1,0 +1,10 @@
+{
+	"Id": "0xc59315f513f78cbed3e65b1fd777f07c617a7ff7",
+	"Symbol": "GREENDOT-WETH",
+	"UnderlyingTokens": [
+		"0x5cad3984babbfbf0576e978f81d8e56c8b2a9d10",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "26e07bed-2ab7-43f1-b5dc-3884c9ef39f5",
+	"Chain": "ethereum"
+}

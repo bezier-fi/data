@@ -1,0 +1,10 @@
+{
+	"Id": "0x11cb3894897c1b0bda130839eb2b2164278c4aab",
+	"Symbol": "WETH-ICSA",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfc4913214444af5c715cc9f7b52655e788a569ed"
+	],
+	"Protocol": "26e07bed-2ab7-43f1-b5dc-3884c9ef39f5",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x330713acef05f24ae5f477d4ded12e4816b001aa",
+	"Protocol": "26e07bed-2ab7-43f1-b5dc-3884c9ef39f5",
+	"Outputs": [
+		{
+			"Address": "0x330713acef05f24ae5f477d4ded12e4816b001aa",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5a3f59d71c1845491f83707f939036749c53bb40",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PEPEMINATI-WETH",
+	"Chain": "ethereum"
+}

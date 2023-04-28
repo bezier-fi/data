@@ -1,0 +1,27 @@
+{
+	"Id": "0xd4883d3e973dd8712dba8d062159d217b476f462",
+	"Protocol": "26e07bed-2ab7-43f1-b5dc-3884c9ef39f5",
+	"Outputs": [
+		{
+			"Address": "0xd4883d3e973dd8712dba8d062159d217b476f462",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x27c97aa32cbfcc93f32c746fd23c38a217bd509b",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Parrots-WETH",
+	"Chain": "ethereum"
+}

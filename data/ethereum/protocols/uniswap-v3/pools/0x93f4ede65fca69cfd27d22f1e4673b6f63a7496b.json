@@ -1,0 +1,27 @@
+{
+	"Id": "0x93f4ede65fca69cfd27d22f1e4673b6f63a7496b",
+	"Protocol": "5908036d-75c7-42a6-81bf-63af14c3cf93",
+	"Outputs": [
+		{
+			"Address": "0x93f4ede65fca69cfd27d22f1e4673b6f63a7496b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x55e72144930df76048d63f1a61699c9821dde159",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "VONNI-WETH (0.01%)",
+	"Chain": "ethereum"
+}

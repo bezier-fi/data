@@ -1,0 +1,10 @@
+{
+	"Id": "0xb491417e56fa06d525109d4068a407a0259b9b2f",
+	"Symbol": "WETH-KING",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf8bdb33b9e4f52cfb8f670a6a522fa800d03f9cd"
+	],
+	"Protocol": "26e07bed-2ab7-43f1-b5dc-3884c9ef39f5",
+	"Chain": "ethereum"
+}

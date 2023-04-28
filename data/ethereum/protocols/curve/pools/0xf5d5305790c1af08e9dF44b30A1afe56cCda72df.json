@@ -1,0 +1,27 @@
+{
+	"Id": "0xf5d5305790c1af08e9dF44b30A1afe56cCda72df",
+	"Protocol": "46ec3b83-4d6e-45fe-9a99-7e218859867c",
+	"Outputs": [
+		{
+			"Address": "0xd84eD4986D9Cc6e4B32a65af24C548c216fe8bdc",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3175Df0976dFA876431C2E9eE6Bc45b65d3473CC",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FRAXBP-f",
+	"Chain": "ethereum"
+}

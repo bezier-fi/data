@@ -1,0 +1,27 @@
+{
+	"Id": "0xbca6cbde4264f5eb2d9f1dd5edb6a1dfcf4e1089",
+	"Protocol": "26e07bed-2ab7-43f1-b5dc-3884c9ef39f5",
+	"Outputs": [
+		{
+			"Address": "0xbca6cbde4264f5eb2d9f1dd5edb6a1dfcf4e1089",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x249d1460d199842ddbaaf41ae01054179c9d258b",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GUSTA-WETH",
+	"Chain": "ethereum"
+}

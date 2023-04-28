@@ -1,0 +1,27 @@
+{
+	"Id": "0x36f3ecffc9f4235936c9ed7259bceb4ce9459009",
+	"Protocol": "26e07bed-2ab7-43f1-b5dc-3884c9ef39f5",
+	"Outputs": [
+		{
+			"Address": "0x36f3ecffc9f4235936c9ed7259bceb4ce9459009",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2f2980611aa9fe8cabcbdfe7b747aa781fd6ec2d",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SKYNET-WETH",
+	"Chain": "ethereum"
+}

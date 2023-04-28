@@ -1,0 +1,27 @@
+{
+	"Id": "0x66bf3eb7ad4150b77561037246cfeb4fa3c543c6",
+	"Protocol": "26e07bed-2ab7-43f1-b5dc-3884c9ef39f5",
+	"Outputs": [
+		{
+			"Address": "0x66bf3eb7ad4150b77561037246cfeb4fa3c543c6",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3e62b4049eaa1c24d264b1d4b8629def1728f229",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "RATPEPE-WETH",
+	"Chain": "ethereum"
+}

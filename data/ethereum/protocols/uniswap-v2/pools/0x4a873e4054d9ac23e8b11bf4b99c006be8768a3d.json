@@ -1,0 +1,27 @@
+{
+	"Id": "0x4a873e4054d9ac23e8b11bf4b99c006be8768a3d",
+	"Protocol": "26e07bed-2ab7-43f1-b5dc-3884c9ef39f5",
+	"Outputs": [
+		{
+			"Address": "0x4a873e4054d9ac23e8b11bf4b99c006be8768a3d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7ee8206c484911067693170f76c2ebce5b9160aa",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BRO-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x7113a87104af7b0a58da6d65140f0062e794aa02",
+	"Protocol": "26e07bed-2ab7-43f1-b5dc-3884c9ef39f5",
+	"Outputs": [
+		{
+			"Address": "0x7113a87104af7b0a58da6d65140f0062e794aa02",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6d427fdcbd1ed72328ccbb2dda2961a54ee37bb0",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DRIP-WETH",
+	"Chain": "ethereum"
+}

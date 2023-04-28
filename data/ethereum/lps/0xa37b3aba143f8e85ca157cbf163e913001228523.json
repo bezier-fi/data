@@ -1,0 +1,10 @@
+{
+	"Id": "0xa37b3aba143f8e85ca157cbf163e913001228523",
+	"Symbol": "KAIXOS-WETH",
+	"UnderlyingTokens": [
+		"0x58852d85edb518686b3e3a3e2780fd86e0ef67bc",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "26e07bed-2ab7-43f1-b5dc-3884c9ef39f5",
+	"Chain": "ethereum"
+}

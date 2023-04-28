@@ -1,0 +1,10 @@
+{
+	"Id": "0xf6da302d0f5aeeebc3c54384f651172acc50218f",
+	"Symbol": "DUCKER-WETH",
+	"UnderlyingTokens": [
+		"0x54492df8494c7bbe47e358ce8f3e57cc48d09446",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "26e07bed-2ab7-43f1-b5dc-3884c9ef39f5",
+	"Chain": "ethereum"
+}

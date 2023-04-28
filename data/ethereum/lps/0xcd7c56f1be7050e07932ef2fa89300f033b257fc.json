@@ -1,0 +1,10 @@
+{
+	"Id": "0xcd7c56f1be7050e07932ef2fa89300f033b257fc",
+	"Symbol": "FINE-WETH",
+	"UnderlyingTokens": [
+		"0x702f75252dcdb6a8defa74d5b78637c08756473e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "26e07bed-2ab7-43f1-b5dc-3884c9ef39f5",
+	"Chain": "ethereum"
+}

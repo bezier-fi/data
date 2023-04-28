@@ -1,0 +1,10 @@
+{
+	"Id": "0x980d9d32c60bfc8c97ffc67e72ac5f1fa323af31",
+	"Symbol": "VIOLEX-WETH",
+	"UnderlyingTokens": [
+		"0x0d388c3fa72824249a8ecd3f0fd713d2eb4fe8b1",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "26e07bed-2ab7-43f1-b5dc-3884c9ef39f5",
+	"Chain": "ethereum"
+}

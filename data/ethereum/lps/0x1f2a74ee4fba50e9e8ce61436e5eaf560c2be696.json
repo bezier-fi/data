@@ -1,0 +1,10 @@
+{
+	"Id": "0x1f2a74ee4fba50e9e8ce61436e5eaf560c2be696",
+	"Symbol": "TRISTAN-WETH",
+	"UnderlyingTokens": [
+		"0xac035cb7d39040208e11ce73a93189f7f3c4b290",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "26e07bed-2ab7-43f1-b5dc-3884c9ef39f5",
+	"Chain": "ethereum"
+}

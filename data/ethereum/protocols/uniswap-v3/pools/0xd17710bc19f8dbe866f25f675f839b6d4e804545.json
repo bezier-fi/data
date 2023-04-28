@@ -1,0 +1,27 @@
+{
+	"Id": "0xd17710bc19f8dbe866f25f675f839b6d4e804545",
+	"Protocol": "5908036d-75c7-42a6-81bf-63af14c3cf93",
+	"Outputs": [
+		{
+			"Address": "0xd17710bc19f8dbe866f25f675f839b6d4e804545",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x652c9cac1594a463647a9a2a7151e83266d757ee",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ORDI-USDT (0.30%)",
+	"Chain": "ethereum"
+}

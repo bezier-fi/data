@@ -1,0 +1,27 @@
+{
+	"Id": "0xa9e72eb726b6f02b089019a481a7e46a80733a3b",
+	"Protocol": "26e07bed-2ab7-43f1-b5dc-3884c9ef39f5",
+	"Outputs": [
+		{
+			"Address": "0xa9e72eb726b6f02b089019a481a7e46a80733a3b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6682058840a38c9732b5c65b739c8d1265a07566",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CobraTate -WETH",
+	"Chain": "ethereum"
+}

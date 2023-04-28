@@ -1,0 +1,27 @@
+{
+	"Id": "0xb346336aa93a7a53bd896bc0fd8d1241eb0cc4e8",
+	"Protocol": "26e07bed-2ab7-43f1-b5dc-3884c9ef39f5",
+	"Outputs": [
+		{
+			"Address": "0xb346336aa93a7a53bd896bc0fd8d1241eb0cc4e8",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7028452b339b7a2363eb4dce62d7dee22ccfbb29",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WOLFS-WETH",
+	"Chain": "ethereum"
+}

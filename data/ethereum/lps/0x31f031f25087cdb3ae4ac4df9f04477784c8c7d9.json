@@ -1,0 +1,10 @@
+{
+	"Id": "0x31f031f25087cdb3ae4ac4df9f04477784c8c7d9",
+	"Symbol": "TAURION-WETH",
+	"UnderlyingTokens": [
+		"0x28876e89b9f59c5ac6bfce017de0c91edb1d0a4f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "26e07bed-2ab7-43f1-b5dc-3884c9ef39f5",
+	"Chain": "ethereum"
+}

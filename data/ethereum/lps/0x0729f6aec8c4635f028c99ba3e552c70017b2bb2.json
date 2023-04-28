@@ -1,0 +1,10 @@
+{
+	"Id": "0x0729f6aec8c4635f028c99ba3e552c70017b2bb2",
+	"Symbol": "$DANB-WETH",
+	"UnderlyingTokens": [
+		"0x494a1bdf4b0cbe7ced1a30c28de55502b7942c86",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "26e07bed-2ab7-43f1-b5dc-3884c9ef39f5",
+	"Chain": "ethereum"
+}

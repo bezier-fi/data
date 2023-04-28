@@ -1,0 +1,27 @@
+{
+	"Id": "0x12bb0d5f1532686c87d97dabdec007ab807c2c7b",
+	"Protocol": "26e07bed-2ab7-43f1-b5dc-3884c9ef39f5",
+	"Outputs": [
+		{
+			"Address": "0x12bb0d5f1532686c87d97dabdec007ab807c2c7b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3f832c743b2ee223fc4fec495bb509cd88c63fd6",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MOON-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xf20234decff60a9c1e6007b0343f7629ff6b8816",
+	"Symbol": "WETH-DAPPSAI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc2ce46e43d84320e99f8f8d23a63b65a100e78b9"
+	],
+	"Protocol": "26e07bed-2ab7-43f1-b5dc-3884c9ef39f5",
+	"Chain": "ethereum"
+}

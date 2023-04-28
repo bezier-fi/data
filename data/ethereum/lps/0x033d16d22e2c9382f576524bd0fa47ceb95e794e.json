@@ -1,0 +1,10 @@
+{
+	"Id": "0x033d16d22e2c9382f576524bd0fa47ceb95e794e",
+	"Symbol": "DRAKE-WETH",
+	"UnderlyingTokens": [
+		"0x659379c583672d7554e18712a0aba2d24d427b53",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "26e07bed-2ab7-43f1-b5dc-3884c9ef39f5",
+	"Chain": "ethereum"
+}

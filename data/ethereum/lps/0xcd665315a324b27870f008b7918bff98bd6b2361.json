@@ -1,0 +1,10 @@
+{
+	"Id": "0xcd665315a324b27870f008b7918bff98bd6b2361",
+	"Symbol": "PPIZZA-WETH",
+	"UnderlyingTokens": [
+		"0xab306326bc72c2335bd08f42cbec383691ef8446",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "26e07bed-2ab7-43f1-b5dc-3884c9ef39f5",
+	"Chain": "ethereum"
+}

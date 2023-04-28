@@ -1,0 +1,10 @@
+{
+	"Id": "0x89fe87e11b88f867578b478ff68c4312f499f0cf",
+	"Symbol": "VASH-WETH",
+	"UnderlyingTokens": [
+		"0x41a63b005c908862f7045d19940b1a08cec43d3c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "26e07bed-2ab7-43f1-b5dc-3884c9ef39f5",
+	"Chain": "ethereum"
+}

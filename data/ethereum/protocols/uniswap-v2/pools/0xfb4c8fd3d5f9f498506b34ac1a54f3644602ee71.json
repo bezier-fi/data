@@ -1,0 +1,27 @@
+{
+	"Id": "0xfb4c8fd3d5f9f498506b34ac1a54f3644602ee71",
+	"Protocol": "26e07bed-2ab7-43f1-b5dc-3884c9ef39f5",
+	"Outputs": [
+		{
+			"Address": "0xfb4c8fd3d5f9f498506b34ac1a54f3644602ee71",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x466867f0cdb773452771b927c4636d58d515992b",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "THANOS-WETH",
+	"Chain": "ethereum"
+}

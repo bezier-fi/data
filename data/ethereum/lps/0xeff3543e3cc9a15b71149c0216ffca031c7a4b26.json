@@ -1,0 +1,10 @@
+{
+	"Id": "0xeff3543e3cc9a15b71149c0216ffca031c7a4b26",
+	"Symbol": "PepeBurn-WETH",
+	"UnderlyingTokens": [
+		"0x6de72ee8fa95d36ab1dc9952f17e4359c01a9372",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "26e07bed-2ab7-43f1-b5dc-3884c9ef39f5",
+	"Chain": "ethereum"
+}

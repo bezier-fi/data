@@ -1,0 +1,10 @@
+{
+	"Id": "0xd4883d3e973dd8712dba8d062159d217b476f462",
+	"Symbol": "Parrots-WETH",
+	"UnderlyingTokens": [
+		"0x27c97aa32cbfcc93f32c746fd23c38a217bd509b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "26e07bed-2ab7-43f1-b5dc-3884c9ef39f5",
+	"Chain": "ethereum"
+}

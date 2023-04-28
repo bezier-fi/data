@@ -1,0 +1,27 @@
+{
+	"Id": "0xa37b3aba143f8e85ca157cbf163e913001228523",
+	"Protocol": "26e07bed-2ab7-43f1-b5dc-3884c9ef39f5",
+	"Outputs": [
+		{
+			"Address": "0xa37b3aba143f8e85ca157cbf163e913001228523",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x58852d85edb518686b3e3a3e2780fd86e0ef67bc",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "KAIXOS-WETH",
+	"Chain": "ethereum"
+}

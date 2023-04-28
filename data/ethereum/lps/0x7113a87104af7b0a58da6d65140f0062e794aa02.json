@@ -1,0 +1,10 @@
+{
+	"Id": "0x7113a87104af7b0a58da6d65140f0062e794aa02",
+	"Symbol": "DRIP-WETH",
+	"UnderlyingTokens": [
+		"0x6d427fdcbd1ed72328ccbb2dda2961a54ee37bb0",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "26e07bed-2ab7-43f1-b5dc-3884c9ef39f5",
+	"Chain": "ethereum"
+}

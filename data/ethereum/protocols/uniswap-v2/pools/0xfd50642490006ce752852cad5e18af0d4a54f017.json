@@ -1,0 +1,27 @@
+{
+	"Id": "0xfd50642490006ce752852cad5e18af0d4a54f017",
+	"Protocol": "26e07bed-2ab7-43f1-b5dc-3884c9ef39f5",
+	"Outputs": [
+		{
+			"Address": "0xfd50642490006ce752852cad5e18af0d4a54f017",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb09b66a37960f53ec7ea6aa57e34c00d645ab3e9",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BULLISH-WETH",
+	"Chain": "ethereum"
+}

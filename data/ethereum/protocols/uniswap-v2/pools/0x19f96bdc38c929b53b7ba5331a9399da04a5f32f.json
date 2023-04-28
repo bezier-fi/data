@@ -1,0 +1,27 @@
+{
+	"Id": "0x19f96bdc38c929b53b7ba5331a9399da04a5f32f",
+	"Protocol": "26e07bed-2ab7-43f1-b5dc-3884c9ef39f5",
+	"Outputs": [
+		{
+			"Address": "0x19f96bdc38c929b53b7ba5331a9399da04a5f32f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7bdf3ff2513a4f467bc25b7fd4b8404ad8126cb3",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MUSK-WETH",
+	"Chain": "ethereum"
+}

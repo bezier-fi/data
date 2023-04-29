@@ -1,0 +1,10 @@
+{
+	"Id": "0x16ed181cab3939e87a95664d96943240512f4b35",
+	"Symbol": "JEW-WETH",
+	"UnderlyingTokens": [
+		"0xb05eafd0389c4e1255da474559fa33a20ba92fda",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "8815e675-b4b0-4716-baaa-470c68b5241f",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x4b0d24cc3976f6acfeff88e2f9c70259ae411c74",
+	"Protocol": "8815e675-b4b0-4716-baaa-470c68b5241f",
+	"Outputs": [
+		{
+			"Address": "0x4b0d24cc3976f6acfeff88e2f9c70259ae411c74",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x36a7a93864acc78826135ed2962fa2aff8c31f27",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PEMIC-WETH",
+	"Chain": "ethereum"
+}

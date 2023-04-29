@@ -1,0 +1,27 @@
+{
+	"Id": "0x435f0e875be7b0c237737a32729aad56e24fe4a0",
+	"Protocol": "f405bb77-a06a-4457-a549-8cfaacf07cfc",
+	"Outputs": [
+		{
+			"Address": "0x435f0e875be7b0c237737a32729aad56e24fe4a0",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0b9e0baeae6a65209dbed214cc23a9a2789f837a",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TETRA-WETH (1.00%)",
+	"Chain": "ethereum"
+}

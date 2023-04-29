@@ -1,0 +1,10 @@
+{
+	"Id": "0xc8bc221cdd22ad7ebf6da00ff724a1ff778ad55a",
+	"Symbol": "BOBBY-WETH",
+	"UnderlyingTokens": [
+		"0x76650cec9632b31817a80bce59f5f36574055a79",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "8815e675-b4b0-4716-baaa-470c68b5241f",
+	"Chain": "ethereum"
+}

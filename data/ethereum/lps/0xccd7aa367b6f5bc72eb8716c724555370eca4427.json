@@ -1,0 +1,10 @@
+{
+	"Id": "0xccd7aa367b6f5bc72eb8716c724555370eca4427",
+	"Symbol": "WETH-EVERYPEPE",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xeab3a4318535998878746c6e868117a7a082bae5"
+	],
+	"Protocol": "8815e675-b4b0-4716-baaa-470c68b5241f",
+	"Chain": "ethereum"
+}

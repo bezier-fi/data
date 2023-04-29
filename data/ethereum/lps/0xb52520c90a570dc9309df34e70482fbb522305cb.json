@@ -1,0 +1,10 @@
+{
+	"Id": "0xb52520c90a570dc9309df34e70482fbb522305cb",
+	"Symbol": "POCAHONTAS-WETH",
+	"UnderlyingTokens": [
+		"0x98d4e1ee275ce835bed38706c6b9b769f1821a37",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "8815e675-b4b0-4716-baaa-470c68b5241f",
+	"Chain": "ethereum"
+}

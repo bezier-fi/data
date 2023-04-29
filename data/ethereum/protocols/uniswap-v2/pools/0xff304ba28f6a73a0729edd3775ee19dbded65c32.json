@@ -1,0 +1,27 @@
+{
+	"Id": "0xff304ba28f6a73a0729edd3775ee19dbded65c32",
+	"Protocol": "8815e675-b4b0-4716-baaa-470c68b5241f",
+	"Outputs": [
+		{
+			"Address": "0xff304ba28f6a73a0729edd3775ee19dbded65c32",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xf4aaf18b7dd40bc5a540dfb25cfc3f25354360da",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-FAITH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xf8f540b5c0b23299b8edf6b5d8ad611afe6215f2",
+	"Symbol": "WETH-NUPEPE",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xcc0cb8448f9b9c6efef84dd1672ff877ac4e090a"
+	],
+	"Protocol": "8815e675-b4b0-4716-baaa-470c68b5241f",
+	"Chain": "ethereum"
+}

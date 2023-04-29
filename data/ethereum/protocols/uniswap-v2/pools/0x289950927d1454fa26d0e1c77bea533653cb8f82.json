@@ -1,0 +1,27 @@
+{
+	"Id": "0x289950927d1454fa26d0e1c77bea533653cb8f82",
+	"Protocol": "8815e675-b4b0-4716-baaa-470c68b5241f",
+	"Outputs": [
+		{
+			"Address": "0x289950927d1454fa26d0e1c77bea533653cb8f82",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xcb925c44a7a23d604b7de72e1e23ef3b01d1ae48",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-TISM",
+	"Chain": "ethereum"
+}

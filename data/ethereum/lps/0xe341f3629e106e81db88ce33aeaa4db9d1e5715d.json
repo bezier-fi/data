@@ -1,0 +1,10 @@
+{
+	"Id": "0xe341f3629e106e81db88ce33aeaa4db9d1e5715d",
+	"Symbol": "WETH-BOMER",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe6f2aa4d1b08aada7a29b95f1705ad3cd1c3dd12"
+	],
+	"Protocol": "8815e675-b4b0-4716-baaa-470c68b5241f",
+	"Chain": "ethereum"
+}

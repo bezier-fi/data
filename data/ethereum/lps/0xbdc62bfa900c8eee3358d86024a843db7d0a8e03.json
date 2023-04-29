@@ -1,0 +1,10 @@
+{
+	"Id": "0xbdc62bfa900c8eee3358d86024a843db7d0a8e03",
+	"Symbol": "BURNBOB-WETH",
+	"UnderlyingTokens": [
+		"0xaa15fcbe311b5a15d78bfa24e29c78bd8eeb9248",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "8815e675-b4b0-4716-baaa-470c68b5241f",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x3f3a710d6a8b9d2f6e2fc762c211811dbd580039",
+	"Symbol": "RYOSHI-WETH",
+	"UnderlyingTokens": [
+		"0x97e8e5416a52305cb946bdea7803e792bddef60d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "8815e675-b4b0-4716-baaa-470c68b5241f",
+	"Chain": "ethereum"
+}

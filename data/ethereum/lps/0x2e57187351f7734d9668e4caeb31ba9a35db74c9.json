@@ -1,0 +1,10 @@
+{
+	"Id": "0x2e57187351f7734d9668e4caeb31ba9a35db74c9",
+	"Symbol": "BOPE-WETH",
+	"UnderlyingTokens": [
+		"0x4cf6065156553ec37f7968ed3d20c32d5d06854e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "8815e675-b4b0-4716-baaa-470c68b5241f",
+	"Chain": "ethereum"
+}

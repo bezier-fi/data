@@ -1,0 +1,10 @@
+{
+	"Id": "0xcf93ac86f47a8f041036ffdf685946fd10b13072",
+	"Symbol": "WETH-BOBINU",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc9b83c1ff4f7c5ca265efdebdec43c9120c3871a"
+	],
+	"Protocol": "8815e675-b4b0-4716-baaa-470c68b5241f",
+	"Chain": "ethereum"
+}

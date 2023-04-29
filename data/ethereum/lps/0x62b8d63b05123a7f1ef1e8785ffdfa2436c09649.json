@@ -1,0 +1,10 @@
+{
+	"Id": "0x62b8d63b05123a7f1ef1e8785ffdfa2436c09649",
+	"Symbol": "WETH-THICC",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xdc7368bb8f6a37a2f95edf291f79694ee845c988"
+	],
+	"Protocol": "8815e675-b4b0-4716-baaa-470c68b5241f",
+	"Chain": "ethereum"
+}

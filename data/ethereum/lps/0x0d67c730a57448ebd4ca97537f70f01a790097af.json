@@ -1,0 +1,10 @@
+{
+	"Id": "0x0d67c730a57448ebd4ca97537f70f01a790097af",
+	"Symbol": "WETH-LADY",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xff9cb5e1a85bb89f9372884f04cc1f6a50a69985"
+	],
+	"Protocol": "8815e675-b4b0-4716-baaa-470c68b5241f",
+	"Chain": "ethereum"
+}

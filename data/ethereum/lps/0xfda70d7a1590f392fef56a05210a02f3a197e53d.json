@@ -1,0 +1,10 @@
+{
+	"Id": "0xfda70d7a1590f392fef56a05210a02f3a197e53d",
+	"Symbol": "SLIPPY-WETH",
+	"UnderlyingTokens": [
+		"0x8c9dfdbed3ac1e0fe7aa13621c97cbed04d0e467",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "8815e675-b4b0-4716-baaa-470c68b5241f",
+	"Chain": "ethereum"
+}

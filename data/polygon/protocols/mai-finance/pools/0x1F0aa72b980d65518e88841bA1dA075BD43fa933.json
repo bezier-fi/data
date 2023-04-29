@@ -1,17 +1,17 @@
 {
 	"Id": "0x1F0aa72b980d65518e88841bA1dA075BD43fa933",
-	"Protocol": "9c95c619-1470-41d5-8b23-8f952e7f6116",
+	"Protocol": "1f84b728-87a9-4eb7-bc26-b3b8bd0d98c6",
 	"Outputs": [
 		{
 			"Address": "0xa3fa99a148fa48d14ed51d610c367c61876997f1",
-			"Apr": -25.925928,
+			"Apr": -45.652176,
 			"GroupId": 1,
 			"Key": "minimum-collateral",
 			"RequiredKeyInGroup": null
 		},
 		{
 			"Address": "0xa3fa99a148fa48d14ed51d610c367c61876997f1",
-			"Apr": -37.5,
+			"Apr": -52.15311,
 			"GroupId": 1,
 			"Key": "incentives-collateral",
 			"RequiredKeyInGroup": null

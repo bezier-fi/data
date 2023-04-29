@@ -1,0 +1,27 @@
+{
+	"Id": "0x2bc462a2ddcf68da5c40377db9698cac2d26c55a",
+	"Protocol": "8815e675-b4b0-4716-baaa-470c68b5241f",
+	"Outputs": [
+		{
+			"Address": "0x2bc462a2ddcf68da5c40377db9698cac2d26c55a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5b6aa5b746fa46cdb070de0cfc83b55f7a9b78aa",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FRANK-WETH",
+	"Chain": "ethereum"
+}

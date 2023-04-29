@@ -1,0 +1,27 @@
+{
+	"Id": "0xa63c9ad592616b83ab5ee708b217d847eea29b36",
+	"Protocol": "8815e675-b4b0-4716-baaa-470c68b5241f",
+	"Outputs": [
+		{
+			"Address": "0xa63c9ad592616b83ab5ee708b217d847eea29b36",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1cb3fe3cb6e8c2e2d41baaf45688bf547e3c72d3",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BMUSK-WETH",
+	"Chain": "ethereum"
+}

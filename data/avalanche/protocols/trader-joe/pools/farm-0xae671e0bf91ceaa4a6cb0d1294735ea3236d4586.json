@@ -1,0 +1,23 @@
+{
+	"Id": "farm-0xae671e0bf91ceaa4a6cb0d1294735ea3236d4586",
+	"Protocol": "80a44266-078e-474f-a81e-2cc955124c58",
+	"Outputs": [
+		{
+			"Address": "0xae671e0bf91ceaa4a6cb0d1294735ea3236d4586",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xae671e0bf91ceaa4a6cb0d1294735ea3236d4586",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GGP-WAVAX",
+	"Chain": "avalanche"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0xa78dff03ce151fe86945b4509168a67ff9aae68b",
+	"Protocol": "8815e675-b4b0-4716-baaa-470c68b5241f",
+	"Outputs": [
+		{
+			"Address": "0xa78dff03ce151fe86945b4509168a67ff9aae68b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xe8c922c07096dce4320646d4a5c4c47c2512eb1a",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-CTGPT",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xf9f2e999159a4dba09a5fd336a8c0e17e0eb8a8d",
+	"Symbol": "YANTRA-WETH",
+	"UnderlyingTokens": [
+		"0x8779627a64f880920e5277d2ab67fcfeac7f4dcc",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "8815e675-b4b0-4716-baaa-470c68b5241f",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x4e499e4d1394cbd37383691752762c3319d7aef1",
+	"Protocol": "8815e675-b4b0-4716-baaa-470c68b5241f",
+	"Outputs": [
+		{
+			"Address": "0x4e499e4d1394cbd37383691752762c3319d7aef1",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x39d17faaed0ab8ee5ca8ec0af4523f522f5f3c90",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TALE-WETH",
+	"Chain": "ethereum"
+}

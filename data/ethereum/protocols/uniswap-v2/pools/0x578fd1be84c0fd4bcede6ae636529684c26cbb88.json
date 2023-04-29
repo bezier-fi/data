@@ -1,0 +1,27 @@
+{
+	"Id": "0x578fd1be84c0fd4bcede6ae636529684c26cbb88",
+	"Protocol": "8815e675-b4b0-4716-baaa-470c68b5241f",
+	"Outputs": [
+		{
+			"Address": "0x578fd1be84c0fd4bcede6ae636529684c26cbb88",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9f6998731c1959c37ce1bffc57a92855a5d3563c",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TORMID-WETH",
+	"Chain": "ethereum"
+}

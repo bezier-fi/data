@@ -1,0 +1,10 @@
+{
+	"Id": "0x41a9db5b93a67acc0b0a103ccba838f4e245722c",
+	"Symbol": "ZERO-WETH",
+	"UnderlyingTokens": [
+		"0x085e1d0daa700bea36bbe2a9ff59a0419259e109",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "8815e675-b4b0-4716-baaa-470c68b5241f",
+	"Chain": "ethereum"
+}

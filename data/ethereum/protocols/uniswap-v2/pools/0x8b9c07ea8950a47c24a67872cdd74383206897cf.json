@@ -1,0 +1,27 @@
+{
+	"Id": "0x8b9c07ea8950a47c24a67872cdd74383206897cf",
+	"Protocol": "8815e675-b4b0-4716-baaa-470c68b5241f",
+	"Outputs": [
+		{
+			"Address": "0x8b9c07ea8950a47c24a67872cdd74383206897cf",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2d10e6d11fa798275fd5840845a377832a8c1306",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BOBA-WETH",
+	"Chain": "ethereum"
+}

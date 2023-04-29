@@ -1,0 +1,27 @@
+{
+	"Id": "0x3176777bbcd359b3ee994de925311c1f1696c230",
+	"Protocol": "8815e675-b4b0-4716-baaa-470c68b5241f",
+	"Outputs": [
+		{
+			"Address": "0x3176777bbcd359b3ee994de925311c1f1696c230",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x946e2c3d0a69bf8ddfa9574ca50dc8e1b14384c4",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BATMAN-WETH",
+	"Chain": "ethereum"
+}

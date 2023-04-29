@@ -1,0 +1,10 @@
+{
+	"Id": "0x4d813f64b2eb485540db2b65663f4af74c0e63d1",
+	"Symbol": "WETH-SATOSHI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf6d51418997174ea819a19bcde5b074ee973b1c4"
+	],
+	"Protocol": "8815e675-b4b0-4716-baaa-470c68b5241f",
+	"Chain": "ethereum"
+}

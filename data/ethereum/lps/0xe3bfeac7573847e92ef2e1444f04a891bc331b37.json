@@ -1,0 +1,10 @@
+{
+	"Id": "0xe3bfeac7573847e92ef2e1444f04a891bc331b37",
+	"Symbol": "TAIRYO-WETH",
+	"UnderlyingTokens": [
+		"0x14d4c7a788908fbbbd3c1a4bac4aff86fe1573eb",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7d5bf5d2-4fb2-48b8-b9fd-f3096f269547",
+	"Chain": "ethereum"
+}

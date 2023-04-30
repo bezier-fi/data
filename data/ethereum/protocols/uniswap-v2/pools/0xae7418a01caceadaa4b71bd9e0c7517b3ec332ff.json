@@ -1,0 +1,27 @@
+{
+	"Id": "0xae7418a01caceadaa4b71bd9e0c7517b3ec332ff",
+	"Protocol": "7d5bf5d2-4fb2-48b8-b9fd-f3096f269547",
+	"Outputs": [
+		{
+			"Address": "0xae7418a01caceadaa4b71bd9e0c7517b3ec332ff",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc2988b277613acde8ba5523590cc17252f8a2720",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-VMUSK",
+	"Chain": "ethereum"
+}

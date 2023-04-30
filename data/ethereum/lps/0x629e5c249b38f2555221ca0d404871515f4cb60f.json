@@ -1,0 +1,10 @@
+{
+	"Id": "0x629e5c249b38f2555221ca0d404871515f4cb60f",
+	"Symbol": "WETH-TITAN",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf343541ca934194ebbdb56578bd8778f074d3a23"
+	],
+	"Protocol": "7d5bf5d2-4fb2-48b8-b9fd-f3096f269547",
+	"Chain": "ethereum"
+}

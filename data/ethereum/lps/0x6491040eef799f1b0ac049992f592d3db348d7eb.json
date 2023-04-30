@@ -1,0 +1,10 @@
+{
+	"Id": "0x6491040eef799f1b0ac049992f592d3db348d7eb",
+	"Symbol": "WETH-CUPID",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd59646e7ae89f36a90ec9559861a8d312d3cdf21"
+	],
+	"Protocol": "7d5bf5d2-4fb2-48b8-b9fd-f3096f269547",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x5dc7d59deab82a7d201d7c67eaa0cad2d98e6d3f",
+	"Symbol": "MRSPEPE-WETH",
+	"UnderlyingTokens": [
+		"0xaca55d5a5f58e29bd1e00e4b1bdeda62d2ecf33f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7d5bf5d2-4fb2-48b8-b9fd-f3096f269547",
+	"Chain": "ethereum"
+}

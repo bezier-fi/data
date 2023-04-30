@@ -1,0 +1,27 @@
+{
+	"Id": "0xbcc0a61f913e207609a90336bff6ed921112c01d",
+	"Protocol": "7d5bf5d2-4fb2-48b8-b9fd-f3096f269547",
+	"Outputs": [
+		{
+			"Address": "0xbcc0a61f913e207609a90336bff6ed921112c01d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x22e1fb7ecfab29deba34f443e541330c5a1c76c4",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SHINGHA-WETH",
+	"Chain": "ethereum"
+}

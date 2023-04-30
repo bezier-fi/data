@@ -1,0 +1,10 @@
+{
+	"Id": "0xbe455d8a5ac445c146f831669cb35eac5e6fd0c8",
+	"Symbol": "BEAN-WETH",
+	"UnderlyingTokens": [
+		"0xa08f129ce12ce65c44c2570b4d3cd3ede989e544",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7d5bf5d2-4fb2-48b8-b9fd-f3096f269547",
+	"Chain": "ethereum"
+}

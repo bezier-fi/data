@@ -1,0 +1,10 @@
+{
+	"Id": "0x69eae094d75cba0236aada61d140f1d0c847c46f",
+	"Symbol": "WETH-BALAJI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfaf49fb90e30ba8f86c7a336ab0f6339f4f1a1e3"
+	],
+	"Protocol": "7d5bf5d2-4fb2-48b8-b9fd-f3096f269547",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0xf187fe6faa7db279aa56329147562d90998f637b",
+	"Protocol": "7d5bf5d2-4fb2-48b8-b9fd-f3096f269547",
+	"Outputs": [
+		{
+			"Address": "0xf187fe6faa7db279aa56329147562d90998f637b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x735143b24f646d80559b5f066ed2db14e3d6eea9",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FOMOED-WETH",
+	"Chain": "ethereum"
+}

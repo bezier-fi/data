@@ -1,0 +1,27 @@
+{
+	"Id": "0xe820318dc391b84d8305ad836ce998660f116b43",
+	"Protocol": "3294b290-4036-4cb0-9783-1201d0eb60d2",
+	"Outputs": [
+		{
+			"Address": "0xe820318dc391b84d8305ad836ce998660f116b43",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2ab0e9e4ee70fff1fb9d67031e44f6410170d00e",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc3e8abfa04b0ec442c2a4d65699a40f7fced8055",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "mXEN-mFENIX (1.00%)",
+	"Chain": "polygon"
+}

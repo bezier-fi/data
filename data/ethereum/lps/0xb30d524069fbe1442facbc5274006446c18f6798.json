@@ -1,0 +1,10 @@
+{
+	"Id": "0xb30d524069fbe1442facbc5274006446c18f6798",
+	"Symbol": "WETH-HERO",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xce9caf5f2b3b3ab4cd984e3d55ff3c3290cd4056"
+	],
+	"Protocol": "7d5bf5d2-4fb2-48b8-b9fd-f3096f269547",
+	"Chain": "ethereum"
+}

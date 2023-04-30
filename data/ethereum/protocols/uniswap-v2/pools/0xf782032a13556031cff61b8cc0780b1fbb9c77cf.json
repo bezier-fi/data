@@ -1,0 +1,27 @@
+{
+	"Id": "0xf782032a13556031cff61b8cc0780b1fbb9c77cf",
+	"Protocol": "7d5bf5d2-4fb2-48b8-b9fd-f3096f269547",
+	"Outputs": [
+		{
+			"Address": "0xf782032a13556031cff61b8cc0780b1fbb9c77cf",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x207c3057bc0e0642b2dabb8c32bfba1a387dbb53",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "KASTRO-WETH",
+	"Chain": "ethereum"
+}

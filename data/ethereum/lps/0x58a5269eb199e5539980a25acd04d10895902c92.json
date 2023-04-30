@@ -1,0 +1,10 @@
+{
+	"Id": "0x58a5269eb199e5539980a25acd04d10895902c92",
+	"Symbol": "PUMP-WETH",
+	"UnderlyingTokens": [
+		"0x38b781a1749daeb91ed066ce50306191375942df",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7d5bf5d2-4fb2-48b8-b9fd-f3096f269547",
+	"Chain": "ethereum"
+}

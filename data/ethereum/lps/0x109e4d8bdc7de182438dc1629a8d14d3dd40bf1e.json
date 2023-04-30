@@ -1,0 +1,10 @@
+{
+	"Id": "0x109e4d8bdc7de182438dc1629a8d14d3dd40bf1e",
+	"Symbol": "WETH-MUK",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd1a54229fe87fb813d9852ce041f6e1dd3ffd7d3"
+	],
+	"Protocol": "7d5bf5d2-4fb2-48b8-b9fd-f3096f269547",
+	"Chain": "ethereum"
+}

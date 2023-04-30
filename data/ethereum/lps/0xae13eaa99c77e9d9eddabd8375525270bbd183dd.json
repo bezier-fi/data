@@ -1,0 +1,10 @@
+{
+	"Id": "0xae13eaa99c77e9d9eddabd8375525270bbd183dd",
+	"Symbol": "SOLIXO-WETH",
+	"UnderlyingTokens": [
+		"0x357f6a9898ce2e2018dd6c6db2cac6c4e3efb25e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7d5bf5d2-4fb2-48b8-b9fd-f3096f269547",
+	"Chain": "ethereum"
+}

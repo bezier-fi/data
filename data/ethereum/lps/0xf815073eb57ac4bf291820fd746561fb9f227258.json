@@ -1,0 +1,10 @@
+{
+	"Id": "0xf815073eb57ac4bf291820fd746561fb9f227258",
+	"Symbol": "WETH-bobcoin",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xff3d0229f47f6a9c4563fce5f86e20a47751a215"
+	],
+	"Protocol": "7d5bf5d2-4fb2-48b8-b9fd-f3096f269547",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x781e853256a1df778ae3a64351006c1ef226d911",
+	"Protocol": "7d5bf5d2-4fb2-48b8-b9fd-f3096f269547",
+	"Outputs": [
+		{
+			"Address": "0x781e853256a1df778ae3a64351006c1ef226d911",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4d029b3157ea05b6c696a08101f5755b83716165",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x5f98805a4e8be255a32880fdec7f6728c6568ba0",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TETRA-LUSD",
+	"Chain": "ethereum"
+}

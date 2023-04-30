@@ -1,0 +1,10 @@
+{
+	"Id": "0xff35f05a375d49bc1aef1a202361558bfb85aea1",
+	"Symbol": "PEPETANT-WETH",
+	"UnderlyingTokens": [
+		"0x39b731056a2fff818061b4303d49a8b52fbb61e6",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7d5bf5d2-4fb2-48b8-b9fd-f3096f269547",
+	"Chain": "ethereum"
+}

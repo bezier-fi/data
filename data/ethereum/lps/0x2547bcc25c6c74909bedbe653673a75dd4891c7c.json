@@ -1,0 +1,10 @@
+{
+	"Id": "0x2547bcc25c6c74909bedbe653673a75dd4891c7c",
+	"Symbol": "WETH-BLEPE",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xdaaf59bbe0658bc930f07d090b6cf3d4b2e1deae"
+	],
+	"Protocol": "7d5bf5d2-4fb2-48b8-b9fd-f3096f269547",
+	"Chain": "ethereum"
+}

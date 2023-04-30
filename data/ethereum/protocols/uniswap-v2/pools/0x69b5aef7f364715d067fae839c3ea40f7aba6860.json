@@ -1,0 +1,27 @@
+{
+	"Id": "0x69b5aef7f364715d067fae839c3ea40f7aba6860",
+	"Protocol": "7d5bf5d2-4fb2-48b8-b9fd-f3096f269547",
+	"Outputs": [
+		{
+			"Address": "0x69b5aef7f364715d067fae839c3ea40f7aba6860",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x25c224e29f9ef26ab31a102c4ac6551c2ac8b9a2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "KUSO-WETH",
+	"Chain": "ethereum"
+}

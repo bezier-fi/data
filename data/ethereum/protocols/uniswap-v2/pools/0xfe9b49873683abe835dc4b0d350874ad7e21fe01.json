@@ -1,0 +1,27 @@
+{
+	"Id": "0xfe9b49873683abe835dc4b0d350874ad7e21fe01",
+	"Protocol": "7d5bf5d2-4fb2-48b8-b9fd-f3096f269547",
+	"Outputs": [
+		{
+			"Address": "0xfe9b49873683abe835dc4b0d350874ad7e21fe01",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9eb46fbcc6e7f51529d3ba76a87a544b6ac6e184",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "VEE-WETH",
+	"Chain": "ethereum"
+}

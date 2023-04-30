@@ -1,0 +1,10 @@
+{
+	"Id": "0x67a93e0a773d81f517d1ed3c14ff4c549bd66aaa",
+	"Symbol": "LMFAO-WETH",
+	"UnderlyingTokens": [
+		"0x83056cd2704ec9c3be9b326855b1ae61f1f64997",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7d5bf5d2-4fb2-48b8-b9fd-f3096f269547",
+	"Chain": "ethereum"
+}

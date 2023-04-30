@@ -1,0 +1,10 @@
+{
+	"Id": "0x53307a261e53fe76239d4e520da4867703a3a934",
+	"Symbol": "SFPM-WETH",
+	"UnderlyingTokens": [
+		"0x9d9ec54a7be81691a2c25bed0e10c65fa4e5c339",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7d5bf5d2-4fb2-48b8-b9fd-f3096f269547",
+	"Chain": "ethereum"
+}

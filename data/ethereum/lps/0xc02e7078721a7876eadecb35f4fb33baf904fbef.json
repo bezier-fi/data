@@ -1,0 +1,10 @@
+{
+	"Id": "0xc02e7078721a7876eadecb35f4fb33baf904fbef",
+	"Symbol": "WETH-CR7",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd3ea7be62987ab2e790f5c980de130671da39d48"
+	],
+	"Protocol": "7d5bf5d2-4fb2-48b8-b9fd-f3096f269547",
+	"Chain": "ethereum"
+}

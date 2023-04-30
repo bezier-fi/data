@@ -1,0 +1,27 @@
+{
+	"Id": "0xb45190026879e14f5eb6f10e731e5915c04de5a7",
+	"Protocol": "7d5bf5d2-4fb2-48b8-b9fd-f3096f269547",
+	"Outputs": [
+		{
+			"Address": "0xb45190026879e14f5eb6f10e731e5915c04de5a7",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x10b63293b3af6d1967787973b9a572c7c2b6a9cb",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SUBWAY-WETH",
+	"Chain": "ethereum"
+}

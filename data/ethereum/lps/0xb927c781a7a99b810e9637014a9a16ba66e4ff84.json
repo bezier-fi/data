@@ -1,0 +1,10 @@
+{
+	"Id": "0xb927c781a7a99b810e9637014a9a16ba66e4ff84",
+	"Symbol": "SALORA-WETH",
+	"UnderlyingTokens": [
+		"0xb2389551010761267f7e8454f291d68bf0e5155e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7d5bf5d2-4fb2-48b8-b9fd-f3096f269547",
+	"Chain": "ethereum"
+}

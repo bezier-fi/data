@@ -1,0 +1,10 @@
+{
+	"Id": "0x20bb0da67e44e0bdaa9faed6ee74de043568d737",
+	"Symbol": "TAURIX-WETH",
+	"UnderlyingTokens": [
+		"0x08312c30fcbbcb6471c1898d2dad19c3a1d14637",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "7d5bf5d2-4fb2-48b8-b9fd-f3096f269547",
+	"Chain": "ethereum"
+}

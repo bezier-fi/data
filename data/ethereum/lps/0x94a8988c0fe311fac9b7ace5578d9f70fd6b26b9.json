@@ -1,0 +1,10 @@
+{
+	"Id": "0x94a8988c0fe311fac9b7ace5578d9f70fd6b26b9",
+	"Symbol": "WETH-FKJRD",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd412335d061dca8928d89a5b703cd0e57d013e7a"
+	],
+	"Protocol": "7d5bf5d2-4fb2-48b8-b9fd-f3096f269547",
+	"Chain": "ethereum"
+}

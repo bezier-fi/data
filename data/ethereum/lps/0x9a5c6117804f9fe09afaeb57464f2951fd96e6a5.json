@@ -1,0 +1,10 @@
+{
+	"Id": "0x9a5c6117804f9fe09afaeb57464f2951fd96e6a5",
+	"Symbol": "RAT-WETH",
+	"UnderlyingTokens": [
+		"0x9379ed4bbff4ad4656b428ae948f1f4a6c53f226",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3fc843ff-baf8-439e-b0b1-c421049149d1",
+	"Chain": "ethereum"
+}

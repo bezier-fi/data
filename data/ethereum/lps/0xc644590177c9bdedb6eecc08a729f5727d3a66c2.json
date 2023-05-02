@@ -1,0 +1,10 @@
+{
+	"Id": "0xc644590177c9bdedb6eecc08a729f5727d3a66c2",
+	"Symbol": "PANDA-WETH",
+	"UnderlyingTokens": [
+		"0x1811b049f045b86f5bc0f36644ed17ca98c3c803",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3fc843ff-baf8-439e-b0b1-c421049149d1",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x0aaf2837c231eee89e05ded593655067a09c276e",
+	"Protocol": "3fc843ff-baf8-439e-b0b1-c421049149d1",
+	"Outputs": [
+		{
+			"Address": "0x0aaf2837c231eee89e05ded593655067a09c276e",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xe655699af51a9651a9a47867aedd441646b03217",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-TEDCOIN",
+	"Chain": "ethereum"
+}

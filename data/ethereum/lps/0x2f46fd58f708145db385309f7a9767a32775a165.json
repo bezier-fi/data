@@ -1,0 +1,10 @@
+{
+	"Id": "0x2f46fd58f708145db385309f7a9767a32775a165",
+	"Symbol": "PEPINO-WETH",
+	"UnderlyingTokens": [
+		"0x540428e2db79f4697932d90e5730ce6e503a8ea3",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3fc843ff-baf8-439e-b0b1-c421049149d1",
+	"Chain": "ethereum"
+}

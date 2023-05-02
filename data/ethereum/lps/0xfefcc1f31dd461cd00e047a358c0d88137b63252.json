@@ -1,0 +1,10 @@
+{
+	"Id": "0xfefcc1f31dd461cd00e047a358c0d88137b63252",
+	"Symbol": "ZPEPE-WETH",
+	"UnderlyingTokens": [
+		"0x77351dcb7e7adced437327608abdb3c33a356c24",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3fc843ff-baf8-439e-b0b1-c421049149d1",
+	"Chain": "ethereum"
+}

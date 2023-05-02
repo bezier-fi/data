@@ -1,0 +1,10 @@
+{
+	"Id": "0x576fbcb9afdf9fa2ad4f913c2c49ac606998ae7e",
+	"Symbol": "FURIE-WETH",
+	"UnderlyingTokens": [
+		"0x993a1b91e8d7606ca8210faccc64c053140f73f2",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3fc843ff-baf8-439e-b0b1-c421049149d1",
+	"Chain": "ethereum"
+}

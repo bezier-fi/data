@@ -1,0 +1,10 @@
+{
+	"Id": "0xed3a670ebaf34fe91026315a91526508a4149f0a",
+	"Symbol": "GK-WETH",
+	"UnderlyingTokens": [
+		"0x2829e535b3b90945b5cdbd1ee7e532ca3cbbfade",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3fc843ff-baf8-439e-b0b1-c421049149d1",
+	"Chain": "ethereum"
+}

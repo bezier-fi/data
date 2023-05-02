@@ -1,0 +1,27 @@
+{
+	"Id": "0xe933ea43fcf9b9775c6ea42361ac9c6ca29c5d3d",
+	"Protocol": "16c6ccbe-2885-4305-9af0-d3d55d0da5e9",
+	"Outputs": [
+		{
+			"Address": "0xe933ea43fcf9b9775c6ea42361ac9c6ca29c5d3d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xda7c0810ce6f8329786160bb3d1734cf6661ca6e",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-JAY (1.00%)",
+	"Chain": "ethereum"
+}

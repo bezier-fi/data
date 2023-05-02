@@ -1,0 +1,27 @@
+{
+	"Id": "0x26301c36b46ae60be49216c4ea25c0e8d9ce99a4",
+	"Protocol": "3fc843ff-baf8-439e-b0b1-c421049149d1",
+	"Outputs": [
+		{
+			"Address": "0x26301c36b46ae60be49216c4ea25c0e8d9ce99a4",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x85843c5fb3540874ebe7f15f0b120551e0f11c32",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SADKEANU-WETH",
+	"Chain": "ethereum"
+}

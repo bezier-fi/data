@@ -1,0 +1,10 @@
+{
+	"Id": "0xe2572e70f427f08e068a53d1c494f75241e94842",
+	"Symbol": "WETH-$SHOEY",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf105ea0955316e99556efa5ec681cc6ef1cf2c63"
+	],
+	"Protocol": "3fc843ff-baf8-439e-b0b1-c421049149d1",
+	"Chain": "ethereum"
+}

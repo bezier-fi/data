@@ -1,0 +1,10 @@
+{
+	"Id": "0x9d6dbe542a558e727ce38f61279e6cd5d0f47c6e",
+	"Symbol": "MUSKPEPE-WETH",
+	"UnderlyingTokens": [
+		"0x9f4061a9e78e80b273be6ffdd2a0ac89440d5cac",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3fc843ff-baf8-439e-b0b1-c421049149d1",
+	"Chain": "ethereum"
+}

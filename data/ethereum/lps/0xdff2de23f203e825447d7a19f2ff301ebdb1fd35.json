@@ -1,0 +1,10 @@
+{
+	"Id": "0xdff2de23f203e825447d7a19f2ff301ebdb1fd35",
+	"Symbol": "ROGO-WETH",
+	"UnderlyingTokens": [
+		"0x608f01bb0f3e5327ade2cf4b2f3739a8a914d4fa",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3fc843ff-baf8-439e-b0b1-c421049149d1",
+	"Chain": "ethereum"
+}

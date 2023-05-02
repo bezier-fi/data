@@ -1,0 +1,27 @@
+{
+	"Id": "0x0e91a689a924daf384e7d82577491978267a1d9a",
+	"Protocol": "3fc843ff-baf8-439e-b0b1-c421049149d1",
+	"Outputs": [
+		{
+			"Address": "0x0e91a689a924daf384e7d82577491978267a1d9a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2cd6c5351a63a42ac4b69af88ef3cd0174aa62e0",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GROOT-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xa0d54fcb535f16399b6be0413fdce872f1043c84",
+	"Symbol": "$COPE-WETH",
+	"UnderlyingTokens": [
+		"0x081155930f35bf383864d50c17cc3b92f3c1ad3d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3fc843ff-baf8-439e-b0b1-c421049149d1",
+	"Chain": "ethereum"
+}

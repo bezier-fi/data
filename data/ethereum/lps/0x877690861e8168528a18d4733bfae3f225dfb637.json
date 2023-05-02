@@ -1,0 +1,10 @@
+{
+	"Id": "0x877690861e8168528a18d4733bfae3f225dfb637",
+	"Symbol": "WETH-USAGI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc1e13d4a12610f02ed1ede4e9080bec2e5358d50"
+	],
+	"Protocol": "3fc843ff-baf8-439e-b0b1-c421049149d1",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x7baece5d47f1bc5e1953fbe0e9931d54dab6d810",
+	"Protocol": "16c6ccbe-2885-4305-9af0-d3d55d0da5e9",
+	"Outputs": [
+		{
+			"Address": "0x7baece5d47f1bc5e1953fbe0e9931d54dab6d810",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa35923162c49cf95e6bf26623385eb431ad920d3",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TURBO-WETH (1.00%)",
+	"Chain": "ethereum"
+}

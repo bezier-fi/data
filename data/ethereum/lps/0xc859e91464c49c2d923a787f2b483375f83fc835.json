@@ -1,0 +1,10 @@
+{
+	"Id": "0xc859e91464c49c2d923a787f2b483375f83fc835",
+	"Symbol": "$RUN-WETH",
+	"UnderlyingTokens": [
+		"0x3c5b8b0b39985b289daae62be54788906a176e1d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3fc843ff-baf8-439e-b0b1-c421049149d1",
+	"Chain": "ethereum"
+}

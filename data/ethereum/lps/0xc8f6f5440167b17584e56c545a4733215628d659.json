@@ -1,0 +1,10 @@
+{
+	"Id": "0xc8f6f5440167b17584e56c545a4733215628d659",
+	"Symbol": "TSLA-WETH",
+	"UnderlyingTokens": [
+		"0x795aca3f5d616ef3c2a8fbeb8c883aba58826b8d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3fc843ff-baf8-439e-b0b1-c421049149d1",
+	"Chain": "ethereum"
+}

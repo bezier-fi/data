@@ -1,0 +1,10 @@
+{
+	"Id": "0xb77c2290c5e5acd8ca4778876b3caae593741bab",
+	"Symbol": "REDDIT-WETH",
+	"UnderlyingTokens": [
+		"0x86eab36585eddb7a949a0b4771ba733d942a8aa7",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3fc843ff-baf8-439e-b0b1-c421049149d1",
+	"Chain": "ethereum"
+}

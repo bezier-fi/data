@@ -1,0 +1,10 @@
+{
+	"Id": "0xda53379fc07a4154c584cf34216df65e7c72857d",
+	"Symbol": "PRUMP-WETH",
+	"UnderlyingTokens": [
+		"0x0d827de1eff53c8dcbf8f928c0e02d6e342f1078",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3fc843ff-baf8-439e-b0b1-c421049149d1",
+	"Chain": "ethereum"
+}

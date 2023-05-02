@@ -1,0 +1,10 @@
+{
+	"Id": "0xc12b9c0738458a56109213a18b38e843f525366b",
+	"Symbol": "TNR-WETH",
+	"UnderlyingTokens": [
+		"0x14bfc34b292aa3f8afa0c366244ffb77f72761f6",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3fc843ff-baf8-439e-b0b1-c421049149d1",
+	"Chain": "ethereum"
+}

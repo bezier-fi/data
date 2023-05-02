@@ -1,0 +1,10 @@
+{
+	"Id": "0xc022d817f09e0c3ab27fa4c82b54d664c3744e80",
+	"Symbol": "DYAT-WETH",
+	"UnderlyingTokens": [
+		"0x03a113b7ebb5f671887a52af9d34bb5debe446ed",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3fc843ff-baf8-439e-b0b1-c421049149d1",
+	"Chain": "ethereum"
+}

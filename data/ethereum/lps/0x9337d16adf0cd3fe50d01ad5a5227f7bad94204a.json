@@ -1,0 +1,10 @@
+{
+	"Id": "0x9337d16adf0cd3fe50d01ad5a5227f7bad94204a",
+	"Symbol": "VIBES-WETH",
+	"UnderlyingTokens": [
+		"0x0d4312ae2670bf579948ff4bda2ca7c3cf9086bb",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3fc843ff-baf8-439e-b0b1-c421049149d1",
+	"Chain": "ethereum"
+}

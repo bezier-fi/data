@@ -1,0 +1,27 @@
+{
+	"Id": "0x1b2ab0fd11de991d1f008f9a6a064b325985d84d",
+	"Protocol": "3fc843ff-baf8-439e-b0b1-c421049149d1",
+	"Outputs": [
+		{
+			"Address": "0x1b2ab0fd11de991d1f008f9a6a064b325985d84d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0266a7d8cb2262224a8e96b894dfa01be50000d6",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "LAMBO-WETH",
+	"Chain": "ethereum"
+}

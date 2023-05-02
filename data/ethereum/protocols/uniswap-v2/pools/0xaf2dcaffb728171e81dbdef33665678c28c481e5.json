@@ -1,0 +1,27 @@
+{
+	"Id": "0xaf2dcaffb728171e81dbdef33665678c28c481e5",
+	"Protocol": "3fc843ff-baf8-439e-b0b1-c421049149d1",
+	"Outputs": [
+		{
+			"Address": "0xaf2dcaffb728171e81dbdef33665678c28c481e5",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xdcfb04ed0e46af7dbf69d0856a0402ef5b0d8da1",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-bobCoin",
+	"Chain": "ethereum"
+}

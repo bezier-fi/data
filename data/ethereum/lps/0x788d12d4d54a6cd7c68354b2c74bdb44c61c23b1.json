@@ -1,0 +1,10 @@
+{
+	"Id": "0x788d12d4d54a6cd7c68354b2c74bdb44c61c23b1",
+	"Symbol": "PEPEBULL-WETH",
+	"UnderlyingTokens": [
+		"0x3bef42ac9fe692680dfa402515ef738c65acc657",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3fc843ff-baf8-439e-b0b1-c421049149d1",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x34599304bde06d692563581f35e9cc0955117c6d",
+	"Protocol": "3fc843ff-baf8-439e-b0b1-c421049149d1",
+	"Outputs": [
+		{
+			"Address": "0x34599304bde06d692563581f35e9cc0955117c6d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6535b0e5f4ab698a479f970d36df1526b417123b",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FGARY-WETH",
+	"Chain": "ethereum"
+}

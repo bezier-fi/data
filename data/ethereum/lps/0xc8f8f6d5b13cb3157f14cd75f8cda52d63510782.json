@@ -1,0 +1,10 @@
+{
+	"Id": "0xc8f8f6d5b13cb3157f14cd75f8cda52d63510782",
+	"Symbol": "Jose-WETH",
+	"UnderlyingTokens": [
+		"0x1a8223973ec14b965ec580b92677b4513c112b90",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3fc843ff-baf8-439e-b0b1-c421049149d1",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xd45e94e554905ad35707c869b549863f28cc3513",
+	"Symbol": "WETH-ZEUS FUND",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe6223f5d6258495a16183a4229c7bf6ec1824bb0"
+	],
+	"Protocol": "3fc843ff-baf8-439e-b0b1-c421049149d1",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xe411010ce43112d77d3df3aa8563d18e3c68d120",
+	"Symbol": "MIDILDO-WETH",
+	"UnderlyingTokens": [
+		"0x68de1bc97fe8c50174684a085d0fec552dbf59fa",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3fc843ff-baf8-439e-b0b1-c421049149d1",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x5e7da12448371b77802d172f3e35ff0bd78b36ff",
+	"Symbol": "RARE-WETH",
+	"UnderlyingTokens": [
+		"0x9072b3c9bf36b6583b6f0bcf35193121ff3ecf82",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3fc843ff-baf8-439e-b0b1-c421049149d1",
+	"Chain": "ethereum"
+}

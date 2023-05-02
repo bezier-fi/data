@@ -1,0 +1,27 @@
+{
+	"Id": "0xd2da107b4e28fcf89adbe813968c0f0f2cb65df2",
+	"Protocol": "3fc843ff-baf8-439e-b0b1-c421049149d1",
+	"Outputs": [
+		{
+			"Address": "0xd2da107b4e28fcf89adbe813968c0f0f2cb65df2",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xe8438c23157de97bde8bedd2eeabc8e7e44de18a",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-LunaT",
+	"Chain": "ethereum"
+}

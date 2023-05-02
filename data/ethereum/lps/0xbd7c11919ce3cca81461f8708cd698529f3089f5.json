@@ -1,0 +1,10 @@
+{
+	"Id": "0xbd7c11919ce3cca81461f8708cd698529f3089f5",
+	"Symbol": "WETH-WAIFU",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe60b7ef3f92fcb187e0b7aeebfbdb563973df251"
+	],
+	"Protocol": "3fc843ff-baf8-439e-b0b1-c421049149d1",
+	"Chain": "ethereum"
+}

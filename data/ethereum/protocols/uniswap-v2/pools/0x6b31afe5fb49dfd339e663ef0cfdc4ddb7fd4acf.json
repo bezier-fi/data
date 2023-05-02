@@ -1,0 +1,27 @@
+{
+	"Id": "0x6b31afe5fb49dfd339e663ef0cfdc4ddb7fd4acf",
+	"Protocol": "3fc843ff-baf8-439e-b0b1-c421049149d1",
+	"Outputs": [
+		{
+			"Address": "0x6b31afe5fb49dfd339e663ef0cfdc4ddb7fd4acf",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x881d637877c304b91e9244939cb7d8627f0d1303",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "YUMMY-WETH",
+	"Chain": "ethereum"
+}

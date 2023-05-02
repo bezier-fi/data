@@ -1,0 +1,27 @@
+{
+	"Id": "0xc0f26184eb67e46b847ab107d01025b65e144a7b",
+	"Protocol": "3fc843ff-baf8-439e-b0b1-c421049149d1",
+	"Outputs": [
+		{
+			"Address": "0xc0f26184eb67e46b847ab107d01025b65e144a7b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4bf97322e7779d4f4a85a0444a7da0e99a1c5721",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SMOLCOIN-WETH",
+	"Chain": "ethereum"
+}

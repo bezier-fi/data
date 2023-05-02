@@ -1,0 +1,10 @@
+{
+	"Id": "0x1893f6ad0d727eada9955b4cde18eaf38ee3fac8",
+	"Symbol": "WETH-FADER",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf3a5d72c0ee23655b3f8dc93e021b4b136cf5eb5"
+	],
+	"Protocol": "3fc843ff-baf8-439e-b0b1-c421049149d1",
+	"Chain": "ethereum"
+}

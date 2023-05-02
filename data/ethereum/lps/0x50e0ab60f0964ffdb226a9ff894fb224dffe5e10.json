@@ -1,0 +1,10 @@
+{
+	"Id": "0x50e0ab60f0964ffdb226a9ff894fb224dffe5e10",
+	"Symbol": "SZABO-WETH",
+	"UnderlyingTokens": [
+		"0x8b3bbecdf48002ab2a0fd2894459d8d0737578b2",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3fc843ff-baf8-439e-b0b1-c421049149d1",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xef5af046047e6553a9c052199f3b44cd4dbff4f0",
+	"Symbol": "LAMBO-WETH",
+	"UnderlyingTokens": [
+		"0x3d2b66bc4f9d6388bd2d97b95b565be1686aefb3",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3fc843ff-baf8-439e-b0b1-c421049149d1",
+	"Chain": "ethereum"
+}

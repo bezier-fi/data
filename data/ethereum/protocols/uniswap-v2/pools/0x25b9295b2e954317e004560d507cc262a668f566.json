@@ -1,0 +1,27 @@
+{
+	"Id": "0x25b9295b2e954317e004560d507cc262a668f566",
+	"Protocol": "3fc843ff-baf8-439e-b0b1-c421049149d1",
+	"Outputs": [
+		{
+			"Address": "0x25b9295b2e954317e004560d507cc262a668f566",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x367b4bbcc77f4d0596a366ab93f92f636c3b6bfa",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GAYBOB-WETH",
+	"Chain": "ethereum"
+}

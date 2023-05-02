@@ -1,0 +1,23 @@
+{
+	"Id": "0xa40DEAA277422bFa8F31297f1a394000DA253c51",
+	"Protocol": "7a9853e6-fd22-4c82-a939-a74369ad7567",
+	"Outputs": [
+		{
+			"Address": "0xa40DEAA277422bFa8F31297f1a394000DA253c51",
+			"Apr": 18.721918,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xe9123CBC5d1EA65301D417193c40A72Ac8D53501",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "lvUSD/DAI/USDC/USDT",
+	"Chain": "ethereum"
+}

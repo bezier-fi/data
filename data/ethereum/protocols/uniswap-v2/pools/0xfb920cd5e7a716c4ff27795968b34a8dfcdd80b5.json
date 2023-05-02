@@ -1,0 +1,27 @@
+{
+	"Id": "0xfb920cd5e7a716c4ff27795968b34a8dfcdd80b5",
+	"Protocol": "3fc843ff-baf8-439e-b0b1-c421049149d1",
+	"Outputs": [
+		{
+			"Address": "0xfb920cd5e7a716c4ff27795968b34a8dfcdd80b5",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xe0444c2326d7711bd888c789b0985a8561a6c00a",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-HABIBI",
+	"Chain": "ethereum"
+}

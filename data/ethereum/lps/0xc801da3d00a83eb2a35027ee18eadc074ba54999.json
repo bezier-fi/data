@@ -1,0 +1,10 @@
+{
+	"Id": "0xc801da3d00a83eb2a35027ee18eadc074ba54999",
+	"Symbol": "PLUG-WETH",
+	"UnderlyingTokens": [
+		"0xa0e294c25bfc07257de526c497bcaa83d053adce",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3fc843ff-baf8-439e-b0b1-c421049149d1",
+	"Chain": "ethereum"
+}

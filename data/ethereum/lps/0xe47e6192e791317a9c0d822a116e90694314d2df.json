@@ -1,0 +1,10 @@
+{
+	"Id": "0xe47e6192e791317a9c0d822a116e90694314d2df",
+	"Symbol": "$KENTO-WETH",
+	"UnderlyingTokens": [
+		"0x87000927a202bd955a629fd4bddcd8a8d113557e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3fc843ff-baf8-439e-b0b1-c421049149d1",
+	"Chain": "ethereum"
+}

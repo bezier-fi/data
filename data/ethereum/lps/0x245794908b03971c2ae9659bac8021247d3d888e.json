@@ -1,0 +1,10 @@
+{
+	"Id": "0x245794908b03971c2ae9659bac8021247d3d888e",
+	"Symbol": "WETH-PEPEGA",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xeb624f4055e495fdb0e8bbd35564f454a706b47f"
+	],
+	"Protocol": "3fc843ff-baf8-439e-b0b1-c421049149d1",
+	"Chain": "ethereum"
+}

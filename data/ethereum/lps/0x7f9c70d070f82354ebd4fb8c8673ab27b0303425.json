@@ -1,0 +1,10 @@
+{
+	"Id": "0x7f9c70d070f82354ebd4fb8c8673ab27b0303425",
+	"Symbol": "SNOKI-WETH",
+	"UnderlyingTokens": [
+		"0x3b9e19869a39f5cbf65ae97e2a6df96cf34cbe49",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3fc843ff-baf8-439e-b0b1-c421049149d1",
+	"Chain": "ethereum"
+}

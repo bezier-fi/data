@@ -1,0 +1,10 @@
+{
+	"Id": "0x9c3a2d84a6474b3a7a430065b7e7375c461b96bb",
+	"Symbol": "GUARDIAN-WETH",
+	"UnderlyingTokens": [
+		"0x4ecb6857bc596a4a7f7f1eed72b64c9454f2acb0",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3fc843ff-baf8-439e-b0b1-c421049149d1",
+	"Chain": "ethereum"
+}

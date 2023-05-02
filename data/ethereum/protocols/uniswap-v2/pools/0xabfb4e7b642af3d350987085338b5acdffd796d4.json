@@ -1,0 +1,27 @@
+{
+	"Id": "0xabfb4e7b642af3d350987085338b5acdffd796d4",
+	"Protocol": "3fc843ff-baf8-439e-b0b1-c421049149d1",
+	"Outputs": [
+		{
+			"Address": "0xabfb4e7b642af3d350987085338b5acdffd796d4",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9305f0f2c723eb8c5c770d0436083b5b0cb1ba43",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "KAREN-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x4c14f91f8c2b08712c7f9bc215cc257a772c1995",
+	"Symbol": "$TPEPE-WETH",
+	"UnderlyingTokens": [
+		"0x66be46376e90ea83a1dd05eb0aae1805c778504d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3fc843ff-baf8-439e-b0b1-c421049149d1",
+	"Chain": "ethereum"
+}

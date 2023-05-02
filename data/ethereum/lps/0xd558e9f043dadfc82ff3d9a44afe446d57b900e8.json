@@ -1,0 +1,10 @@
+{
+	"Id": "0xd558e9f043dadfc82ff3d9a44afe446d57b900e8",
+	"Symbol": "WETH-EQUILUM",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xea80bf9286644289d3131c3f21ad3d0b71013702"
+	],
+	"Protocol": "3fc843ff-baf8-439e-b0b1-c421049149d1",
+	"Chain": "ethereum"
+}

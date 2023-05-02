@@ -1,0 +1,10 @@
+{
+	"Id": "0x0d774f95cd67ee4be51e5774e2057f0a255f033b",
+	"Symbol": "WETH-HOSHI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd43987fc086dfc8604d266be247d59068329031f"
+	],
+	"Protocol": "3fc843ff-baf8-439e-b0b1-c421049149d1",
+	"Chain": "ethereum"
+}

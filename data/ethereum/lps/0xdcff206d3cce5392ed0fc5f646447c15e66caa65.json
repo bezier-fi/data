@@ -1,0 +1,10 @@
+{
+	"Id": "0xdcff206d3cce5392ed0fc5f646447c15e66caa65",
+	"Symbol": "GENES-WETH",
+	"UnderlyingTokens": [
+		"0x43b04b83cd86faced44c0ab235397feba37d24eb",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3fc843ff-baf8-439e-b0b1-c421049149d1",
+	"Chain": "ethereum"
+}

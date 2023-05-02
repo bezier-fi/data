@@ -1,0 +1,10 @@
+{
+	"Id": "0xb47d63d0114291e162615013d8dd441d3e7f9c81",
+	"Symbol": "TORX-WETH",
+	"UnderlyingTokens": [
+		"0x82b38c153494e7dc344770841a1994e431db6661",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "3fc843ff-baf8-439e-b0b1-c421049149d1",
+	"Chain": "ethereum"
+}

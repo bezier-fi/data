@@ -1,0 +1,23 @@
+{
+	"Id": "0x03b54a6e9a984069379fae1a4fc4dbae93b3bccd0xa97684ead0e402dc232d5a977953df7ecbab3cdb",
+	"Protocol": "345f1160-2113-426f-b7a2-bf01190dbc90",
+	"Outputs": [
+		{
+			"Address": "0xf59036caebea7dc4b86638dfa2e3c97da9fccd40",
+			"Apr": 0.000008910831,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x03b54a6e9a984069379fae1a4fc4dbae93b3bccd",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "wstETH",
+	"Chain": "polygon"
+}

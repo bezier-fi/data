@@ -1,0 +1,27 @@
+{
+	"Id": "0x5187e425e3bf820a87f286125a3b9d3427027baf",
+	"Protocol": "f61a2d5f-8813-4739-8d5f-2872fcac8eb0",
+	"Outputs": [
+		{
+			"Address": "0x5187e425e3bf820a87f286125a3b9d3427027baf",
+			"Apr": 1443.0891,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xda7c0810ce6f8329786160bb3d1734cf6661ca6e",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC-JAY (1.00%)",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x1c3a986a0314e4524773c94b89dd8425baeb8176",
+	"Symbol": "MELD-WETH (0.30%)",
+	"UnderlyingTokens": [
+		"0x333000333b26ee30214b4af6419d9ab07a450400",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f61a2d5f-8813-4739-8d5f-2872fcac8eb0",
+	"Chain": "ethereum"
+}

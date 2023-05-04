@@ -1,0 +1,27 @@
+{
+	"Id": "0xcf4db5ef4cc3ebee500312e039cb898406a88769",
+	"Protocol": "f61a2d5f-8813-4739-8d5f-2872fcac8eb0",
+	"Outputs": [
+		{
+			"Address": "0xcf4db5ef4cc3ebee500312e039cb898406a88769",
+			"Apr": 951.4528,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x39b448ed2dce5659fa6635bd9a9c380393e583a3",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "JUGGS-WETH (1.00%)",
+	"Chain": "ethereum"
+}

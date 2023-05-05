@@ -1,0 +1,10 @@
+{
+	"Id": "0x6a0951df6e8df17e7f32940103735a2531c24f88",
+	"Symbol": "WETH-Pat",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xdd78b3e430361560a70b9cbb7d98d961f0428b61"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

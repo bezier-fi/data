@@ -1,0 +1,10 @@
+{
+	"Id": "0xf6f7810a88bd8bc007504d54dc30984838ab8f7b",
+	"Symbol": "Simpson-WETH",
+	"UnderlyingTokens": [
+		"0x954240ade2df68afebc55668980e090908fdde37",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

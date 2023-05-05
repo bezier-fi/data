@@ -1,0 +1,27 @@
+{
+	"Id": "0xadc38599ecf9c4af3f75d9690549a19d10201c2c",
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Outputs": [
+		{
+			"Address": "0xadc38599ecf9c4af3f75d9690549a19d10201c2c",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb0aba2f6464427adabda1713a243d490e86e9366",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DARTH PEPE-WETH",
+	"Chain": "ethereum"
+}

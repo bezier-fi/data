@@ -1,0 +1,23 @@
+{
+	"Id": "0xC2272afba34f7BA14364b6e83dFDF966E2DE3D45",
+	"Protocol": "d949bacd-b090-41b4-9a81-629de2f24f5e",
+	"Outputs": [
+		{
+			"Address": "0xC2272afba34f7BA14364b6e83dFDF966E2DE3D45",
+			"Apr": 50.737583,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xE4fF38cee745BF42Df9239Abe671b7bc637E9b4D",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MAI-FRAX sLP",
+	"Chain": "avalanche"
+}

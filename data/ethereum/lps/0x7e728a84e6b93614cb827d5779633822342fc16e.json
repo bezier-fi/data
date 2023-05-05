@@ -1,0 +1,10 @@
+{
+	"Id": "0x7e728a84e6b93614cb827d5779633822342fc16e",
+	"Symbol": "WETH-$Fry",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xcdecdc0d2d21f09bc686d25d8280421ebed5b112"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

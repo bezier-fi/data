@@ -1,0 +1,10 @@
+{
+	"Id": "0x4b5aa4776f8a5068df9c24ba6ca7c3eef0eb7579",
+	"Symbol": "COOKIES-WETH",
+	"UnderlyingTokens": [
+		"0x0c5bd5eacc944131eac93bbb700c54cc93e4fd32",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

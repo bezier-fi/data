@@ -1,0 +1,27 @@
+{
+	"Id": "0x2371ffaf1cb0535347cfb2499a3032c164c383ce",
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Outputs": [
+		{
+			"Address": "0x2371ffaf1cb0535347cfb2499a3032c164c383ce",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xf70459b32ef23041b0134eadface78c7dc4263d6",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-DVD",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x201f1108a5178459807d133826aea9e692dd9a5c",
+	"Symbol": "WETH-Y U NO",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe0493aec130a99b60a8be2ee9cdc2c2410a0f5fa"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

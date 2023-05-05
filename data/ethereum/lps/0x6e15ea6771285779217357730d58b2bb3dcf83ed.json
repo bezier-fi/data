@@ -1,0 +1,10 @@
+{
+	"Id": "0x6e15ea6771285779217357730d58b2bb3dcf83ed",
+	"Symbol": "9TAILS-WETH",
+	"UnderlyingTokens": [
+		"0x9ab225f2c4812218cf0b1afc867907b8181a4d26",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

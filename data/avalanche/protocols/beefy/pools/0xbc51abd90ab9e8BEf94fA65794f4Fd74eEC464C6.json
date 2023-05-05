@@ -1,0 +1,23 @@
+{
+	"Id": "0xbc51abd90ab9e8BEf94fA65794f4Fd74eEC464C6",
+	"Protocol": "d949bacd-b090-41b4-9a81-629de2f24f5e",
+	"Outputs": [
+		{
+			"Address": "0xbc51abd90ab9e8BEf94fA65794f4Fd74eEC464C6",
+			"Apr": 40.83887,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x01d806052D1D3926b4456567144375B192bF41b7",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FRAX-USDC sLP",
+	"Chain": "avalanche"
+}

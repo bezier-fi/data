@@ -1,0 +1,10 @@
+{
+	"Id": "0xa7a921b0afa1e2768ee67055bc72b0cd2b9b4521",
+	"Symbol": "WETH-NYANCAT",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xcec09933a953ce410f1b30ae465381525e8828ae"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

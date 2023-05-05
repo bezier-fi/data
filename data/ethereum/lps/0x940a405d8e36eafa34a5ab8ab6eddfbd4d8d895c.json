@@ -1,0 +1,10 @@
+{
+	"Id": "0x940a405d8e36eafa34a5ab8ab6eddfbd4d8d895c",
+	"Symbol": "JWLS-WETH",
+	"UnderlyingTokens": [
+		"0x34e826f6683e8bacc044206722f245b7c7c429e1",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0xa817798acdef4a20031349ea4fcf6a3823ae0f6e",
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Outputs": [
+		{
+			"Address": "0xa817798acdef4a20031349ea4fcf6a3823ae0f6e",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3eaf6769d5e9832ea94735f29095e9d7a73a1e1c",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PPGROW-WETH",
+	"Chain": "ethereum"
+}

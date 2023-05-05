@@ -1,0 +1,10 @@
+{
+	"Id": "0xd75559ec214bd73ea4c19f3a9ee89a9d2f4c9e19",
+	"Symbol": "KAPPA-WETH",
+	"UnderlyingTokens": [
+		"0x47ee4c71d1f099cf42423650a475a6e2188a75c6",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

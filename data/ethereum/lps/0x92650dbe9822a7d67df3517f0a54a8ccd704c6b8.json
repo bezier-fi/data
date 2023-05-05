@@ -1,0 +1,10 @@
+{
+	"Id": "0x92650dbe9822a7d67df3517f0a54a8ccd704c6b8",
+	"Symbol": "TIGGER-WETH",
+	"UnderlyingTokens": [
+		"0x53f45d7090ec43446906303af96f52c41634e2d9",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

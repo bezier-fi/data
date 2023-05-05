@@ -1,0 +1,10 @@
+{
+	"Id": "0xbeda83fcb4992cf4d80f28d03b6725222e914e8b",
+	"Symbol": "INSHALLAH-WETH",
+	"UnderlyingTokens": [
+		"0x5ccda66ea68e787459ad781dfbbbb5f1fd4171fb",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xf19cc09c1d55f967036211be118cad296323dd96",
+	"Symbol": "WETH-Emoji",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf12ccd17759367cf139776710b47b00c43d1ac2b"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

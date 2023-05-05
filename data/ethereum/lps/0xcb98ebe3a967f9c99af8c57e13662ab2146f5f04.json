@@ -1,0 +1,10 @@
+{
+	"Id": "0xcb98ebe3a967f9c99af8c57e13662ab2146f5f04",
+	"Symbol": "WETH-BBACON",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfadd08c3167af5eab9ba6b7f552f5ad0a1c492eb"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

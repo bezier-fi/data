@@ -1,0 +1,10 @@
+{
+	"Id": "0xcae69e00f4f48359d94cd9cb1ae1b66c09628204",
+	"Symbol": "WETH-GrumpyCat",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd8e2d95c8614f28169757cd6445a71c291dec5bf"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

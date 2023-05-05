@@ -1,0 +1,10 @@
+{
+	"Id": "0xe79bfbbd9f2a7e6578febc18258ad6d4c740295b",
+	"Symbol": "EEYORE-WETH",
+	"UnderlyingTokens": [
+		"0x7b7c7747b489630fe55afac9e3b978dac00b4565",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xef6fec0774cbcd791a8780786c63d0059ce91991",
+	"Symbol": "SNOOPY-WETH",
+	"UnderlyingTokens": [
+		"0x0a6dd5d5a00d6cb0678a4af507ba79a517d5eb64",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

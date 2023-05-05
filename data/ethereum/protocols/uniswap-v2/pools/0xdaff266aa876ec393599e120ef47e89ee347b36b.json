@@ -1,0 +1,27 @@
+{
+	"Id": "0xdaff266aa876ec393599e120ef47e89ee347b36b",
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Outputs": [
+		{
+			"Address": "0xdaff266aa876ec393599e120ef47e89ee347b36b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xcaef619694cc0b857ec39835f01f59d69d6bf7ac",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-PIGGY",
+	"Chain": "ethereum"
+}

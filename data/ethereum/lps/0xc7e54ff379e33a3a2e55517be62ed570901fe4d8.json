@@ -1,0 +1,10 @@
+{
+	"Id": "0xc7e54ff379e33a3a2e55517be62ed570901fe4d8",
+	"Symbol": "BANK-WETH",
+	"UnderlyingTokens": [
+		"0x79684095fa8ceae2c87c5f3ba24e35c43fe74010",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

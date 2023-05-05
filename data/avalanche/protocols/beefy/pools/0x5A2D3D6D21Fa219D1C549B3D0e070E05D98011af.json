@@ -1,0 +1,23 @@
+{
+	"Id": "0x5A2D3D6D21Fa219D1C549B3D0e070E05D98011af",
+	"Protocol": "d949bacd-b090-41b4-9a81-629de2f24f5e",
+	"Outputs": [
+		{
+			"Address": "0x5A2D3D6D21Fa219D1C549B3D0e070E05D98011af",
+			"Apr": 277.6248,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x81d230D1A8A9dB0Ca319a346C1412383F8AF4764",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DEUS-AVAX vLP",
+	"Chain": "avalanche"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x84ed67bf3e1877bd02d1daef999756f4ae384994",
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Outputs": [
+		{
+			"Address": "0x84ed67bf3e1877bd02d1daef999756f4ae384994",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9c11c02a698b1cf9dcc689faa34c858291f543e7",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ZOOMER-WETH",
+	"Chain": "ethereum"
+}

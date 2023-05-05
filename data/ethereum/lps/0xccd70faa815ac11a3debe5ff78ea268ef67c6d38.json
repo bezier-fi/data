@@ -1,0 +1,10 @@
+{
+	"Id": "0xccd70faa815ac11a3debe5ff78ea268ef67c6d38",
+	"Symbol": "WETH-pEGGS",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf0a9e8d4b9cc33858d220b7fe6c4a55919c01207"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

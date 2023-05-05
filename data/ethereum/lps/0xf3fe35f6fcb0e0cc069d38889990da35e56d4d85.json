@@ -1,0 +1,10 @@
+{
+	"Id": "0xf3fe35f6fcb0e0cc069d38889990da35e56d4d85",
+	"Symbol": "OFR-WETH",
+	"UnderlyingTokens": [
+		"0x771b3f82dd062977714d929d35d86358cc5ca332",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

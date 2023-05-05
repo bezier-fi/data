@@ -1,0 +1,10 @@
+{
+	"Id": "0xc8e09cb1c66ae49694fba2f1b6e5ecb98064b377",
+	"Symbol": "BTK-WETH",
+	"UnderlyingTokens": [
+		"0x1926f950f7d81e5f609d2abf257a573262d748a5",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

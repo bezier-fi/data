@@ -1,0 +1,10 @@
+{
+	"Id": "0xcd34b7adca16edd98f5db135bfd45c86026d89c6",
+	"Symbol": "BABYMONG-WETH",
+	"UnderlyingTokens": [
+		"0x83946345b86ee5ccc046de8c2ae4fcf1bad92317",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

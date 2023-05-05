@@ -1,0 +1,10 @@
+{
+	"Id": "0xd4bf26a5b77a3a51868186391caf44f1accf2d71",
+	"Symbol": "IQ-WETH",
+	"UnderlyingTokens": [
+		"0x2c6693389078b6f8b0691e3cb97a85e5e3cfcc04",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

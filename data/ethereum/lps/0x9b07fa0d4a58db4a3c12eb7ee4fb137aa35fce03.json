@@ -1,0 +1,10 @@
+{
+	"Id": "0x9b07fa0d4a58db4a3c12eb7ee4fb137aa35fce03",
+	"Symbol": "PECHU-WETH",
+	"UnderlyingTokens": [
+		"0x84c056acdcfedc1ab79a32993aa3125eecef5d9a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

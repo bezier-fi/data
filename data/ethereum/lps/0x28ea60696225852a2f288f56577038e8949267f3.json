@@ -1,0 +1,10 @@
+{
+	"Id": "0x28ea60696225852a2f288f56577038e8949267f3",
+	"Symbol": "WETH-STONK",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xce83318cbe851be998edde7a96c9c929a35d1c2f"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

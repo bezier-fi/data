@@ -1,0 +1,10 @@
+{
+	"Id": "0xcd606a2cc351c48618a97660141c70a390394d71",
+	"Symbol": "PEPEX-WETH",
+	"UnderlyingTokens": [
+		"0x63f483773c74ac6d7ab89af9ab3b3d3849d554cb",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

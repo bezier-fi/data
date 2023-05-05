@@ -1,0 +1,10 @@
+{
+	"Id": "0xb96df8dcd3d33b7ad43fe5f202798a9bb1c1e004",
+	"Symbol": "UPONLY-WETH",
+	"UnderlyingTokens": [
+		"0xa718b5c51f4d3ee6eaaa286b2e4192d5e8106a29",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xf89ef97e8f634c677c39384c62661645e880a902",
+	"Symbol": "ETE-WETH",
+	"UnderlyingTokens": [
+		"0x954b7997b8bfa9b3d642c477549e284551012f05",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

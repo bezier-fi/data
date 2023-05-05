@@ -1,0 +1,10 @@
+{
+	"Id": "0xd12317898ae4c2bdeee188910613109d5978df8f",
+	"Symbol": "HRMBE-WETH",
+	"UnderlyingTokens": [
+		"0x6802ef8b502bfac0f6effddb01bca2f299ed7875",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

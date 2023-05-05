@@ -1,0 +1,10 @@
+{
+	"Id": "0xdfe78015e7f35fa4c4a1b1f0e86b5f947122a2de",
+	"Symbol": "WETH-CHIRP",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf68e13b269e6872df821d92eaf394f08a169ca17"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

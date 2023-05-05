@@ -1,0 +1,27 @@
+{
+	"Id": "0xe4bad55b3882ea1f22dbba50a107b7172689b7d0",
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Outputs": [
+		{
+			"Address": "0xe4bad55b3882ea1f22dbba50a107b7172689b7d0",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xf0ae80a06b546dc5cd400b4253c7b95715465c95",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-Missor",
+	"Chain": "ethereum"
+}

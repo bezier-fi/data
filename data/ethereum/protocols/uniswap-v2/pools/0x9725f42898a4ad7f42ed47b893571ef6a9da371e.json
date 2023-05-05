@@ -1,0 +1,27 @@
+{
+	"Id": "0x9725f42898a4ad7f42ed47b893571ef6a9da371e",
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Outputs": [
+		{
+			"Address": "0x9725f42898a4ad7f42ed47b893571ef6a9da371e",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x111e9635b1e96f422909794636ba059799b48c76",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "POG-WETH",
+	"Chain": "ethereum"
+}

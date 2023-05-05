@@ -1,0 +1,10 @@
+{
+	"Id": "0xab705006ea257ded4f51e91d0d93a744a47315b8",
+	"Symbol": "IKUN-WETH",
+	"UnderlyingTokens": [
+		"0xb08686f3bf55a1ea172542d161a63350baf9e219",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

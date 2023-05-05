@@ -1,0 +1,23 @@
+{
+	"Id": "0x7f6e2FD400f7fB43Ea8d41cc733eF45f37510C5C",
+	"Protocol": "d949bacd-b090-41b4-9a81-629de2f24f5e",
+	"Outputs": [
+		{
+			"Address": "0x7f6e2FD400f7fB43Ea8d41cc733eF45f37510C5C",
+			"Apr": 63.418404,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xD4df5E012D1af8F5DCeFD0612b27B5E4C51131fE",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DEI-USDC sLP",
+	"Chain": "avalanche"
+}

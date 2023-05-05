@@ -1,0 +1,10 @@
+{
+	"Id": "0xa828937ec53813c9b6c06216c00b30637c2745ca",
+	"Symbol": "MONGPEPE-WETH",
+	"UnderlyingTokens": [
+		"0x1bdf66897436aa3b5c66e0e9848c9842c86b8f16",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

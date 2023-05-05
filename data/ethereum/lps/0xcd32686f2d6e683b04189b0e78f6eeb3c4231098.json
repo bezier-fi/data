@@ -1,0 +1,10 @@
+{
+	"Id": "0xcd32686f2d6e683b04189b0e78f6eeb3c4231098",
+	"Symbol": "CAT-WETH",
+	"UnderlyingTokens": [
+		"0x3514ad5c1289946933a9a1803629d2bafdd1b88d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

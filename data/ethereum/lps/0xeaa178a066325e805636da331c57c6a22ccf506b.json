@@ -1,0 +1,10 @@
+{
+	"Id": "0xeaa178a066325e805636da331c57c6a22ccf506b",
+	"Symbol": "WSJB-WETH",
+	"UnderlyingTokens": [
+		"0x9fbda3c6ed8041ad63cd31004551cc488ea28f13",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

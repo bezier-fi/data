@@ -1,0 +1,10 @@
+{
+	"Id": "0xa6c1ed36a16c0f6e1d2102d3355e8bf426949996",
+	"Symbol": "Wise Old Pepe-WETH",
+	"UnderlyingTokens": [
+		"0x406e0bead39be922fb9c6c569dab1672a146491a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

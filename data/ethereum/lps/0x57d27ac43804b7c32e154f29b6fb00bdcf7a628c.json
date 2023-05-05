@@ -1,0 +1,10 @@
+{
+	"Id": "0x57d27ac43804b7c32e154f29b6fb00bdcf7a628c",
+	"Symbol": "GROOT-WETH",
+	"UnderlyingTokens": [
+		"0x66840a54137a6474fb44c9ad4432a479115e2267",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

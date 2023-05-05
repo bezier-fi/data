@@ -1,0 +1,10 @@
+{
+	"Id": "0x8512259f6b93bd71a80d49f2e859b5cb465b61a7",
+	"Symbol": "THRPY-WETH",
+	"UnderlyingTokens": [
+		"0x391bf9ad9d9c8ae95f7b89e2fada9a29a68ecde8",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

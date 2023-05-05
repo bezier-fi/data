@@ -1,0 +1,10 @@
+{
+	"Id": "0xe4bad55b3882ea1f22dbba50a107b7172689b7d0",
+	"Symbol": "WETH-Missor",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf0ae80a06b546dc5cd400b4253c7b95715465c95"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

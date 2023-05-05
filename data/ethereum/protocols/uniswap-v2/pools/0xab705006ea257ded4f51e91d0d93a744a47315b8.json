@@ -1,0 +1,27 @@
+{
+	"Id": "0xab705006ea257ded4f51e91d0d93a744a47315b8",
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Outputs": [
+		{
+			"Address": "0xab705006ea257ded4f51e91d0d93a744a47315b8",
+			"Apr": 957.3178,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb08686f3bf55a1ea172542d161a63350baf9e219",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "IKUN-WETH",
+	"Chain": "ethereum"
+}

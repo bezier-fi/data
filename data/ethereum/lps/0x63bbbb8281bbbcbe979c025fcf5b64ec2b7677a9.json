@@ -1,0 +1,10 @@
+{
+	"Id": "0x63bbbb8281bbbcbe979c025fcf5b64ec2b7677a9",
+	"Symbol": "DCWOJAK-WETH",
+	"UnderlyingTokens": [
+		"0x3188c01455264e896c4256ed7960b4880c61571d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

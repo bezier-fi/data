@@ -8,10 +8,6 @@
 		"Symbol": "Moo Aave AVAX MAI Vault"
 	},
 	{
-		"Id": "0x0f680790d022BcDf317BF3E97190AcA33A0621b2-0xb0D2EB3C2cA3c6916FAb8DCbf9d9c165649231AE",
-		"Symbol": "miMATIC-av3CRV Qi"
-	},
-	{
 		"Id": "0x13A7fE3Ab741ea6301Db8B164290bE711f546A73",
 		"Symbol": "Stake DAO av3CRV Strategy MAI Vault"
 	},
@@ -22,5 +18,9 @@
 	{
 		"Id": "0x1F8f7a1d38e41eAf0Ed916dEf29bDD13f2a3f11A",
 		"Symbol": "BTC MAI Vault"
+	},
+	{
+		"Id": "0x0f680790d022BcDf317BF3E97190AcA33A0621b2-0xb0D2EB3C2cA3c6916FAb8DCbf9d9c165649231AE",
+		"Symbol": "miMATIC-av3CRV Qi"
 	}
 ]

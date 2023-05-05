@@ -1,0 +1,10 @@
+{
+	"Id": "0x061883cd8a060ef5b8d83cde362c3fdbd8162eee",
+	"Symbol": "WETH-LBR",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf1182229b71e79e504b1d2bf076c15a277311e05"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

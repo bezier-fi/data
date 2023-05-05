@@ -1,0 +1,10 @@
+{
+	"Id": "0xdf92ea0d709d32eb22a2a6d85c98990971305111",
+	"Symbol": "$PAPI-WETH",
+	"UnderlyingTokens": [
+		"0x64a2f3f9a84ff8a60e128f9003c215712b1bf66d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

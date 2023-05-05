@@ -1,0 +1,10 @@
+{
+	"Id": "0xf8ee6f63f26a56bfb146671f27ac5dcd2a63e720",
+	"Symbol": "GROYPER-WETH",
+	"UnderlyingTokens": [
+		"0x2d3a6c4f59632ff6b664119c66714c2d2026e4fb",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

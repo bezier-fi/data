@@ -1,0 +1,10 @@
+{
+	"Id": "0xfdcc6df34cbf5aa2ff6d1357c90ee69646f4137b",
+	"Symbol": "DOGEZA-WETH",
+	"UnderlyingTokens": [
+		"0x6a5bffa2fc7296839c216d3c6ba6c487de7cb52a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

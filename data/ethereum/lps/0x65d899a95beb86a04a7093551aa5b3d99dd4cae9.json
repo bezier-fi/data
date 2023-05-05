@@ -1,0 +1,10 @@
+{
+	"Id": "0x65d899a95beb86a04a7093551aa5b3d99dd4cae9",
+	"Symbol": "DWSB-WETH",
+	"UnderlyingTokens": [
+		"0x4eb9d8da48259a72c7735b810facdc194c44d035",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

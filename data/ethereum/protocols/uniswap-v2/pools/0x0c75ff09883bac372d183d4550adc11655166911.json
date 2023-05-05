@@ -1,0 +1,27 @@
+{
+	"Id": "0x0c75ff09883bac372d183d4550adc11655166911",
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Outputs": [
+		{
+			"Address": "0x0c75ff09883bac372d183d4550adc11655166911",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xbdd04e4967222f3c3553e0014a761aea120511e7",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PYOSHI-WETH",
+	"Chain": "ethereum"
+}

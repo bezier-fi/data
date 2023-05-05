@@ -1,0 +1,10 @@
+{
+	"Id": "0x718414b1b5a25fc62640ad33f55fd5d0cbb9c17a",
+	"Symbol": "BFROKI-WETH",
+	"UnderlyingTokens": [
+		"0x0fb1b28511246019801eef07b80da427cd1ea362",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

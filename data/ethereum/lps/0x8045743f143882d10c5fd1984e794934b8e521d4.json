@@ -1,0 +1,10 @@
+{
+	"Id": "0x8045743f143882d10c5fd1984e794934b8e521d4",
+	"Symbol": "WETH-CRISPY",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd9f18cae702269afe46d271bd99da58a5adfed3b"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

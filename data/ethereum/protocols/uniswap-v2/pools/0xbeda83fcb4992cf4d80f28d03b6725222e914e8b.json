@@ -1,0 +1,27 @@
+{
+	"Id": "0xbeda83fcb4992cf4d80f28d03b6725222e914e8b",
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Outputs": [
+		{
+			"Address": "0xbeda83fcb4992cf4d80f28d03b6725222e914e8b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5ccda66ea68e787459ad781dfbbbb5f1fd4171fb",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "INSHALLAH-WETH",
+	"Chain": "ethereum"
+}

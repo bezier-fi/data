@@ -1,0 +1,27 @@
+{
+	"Id": "0x38c60BcCa6AE0FDBD34466Fe8999BE15ee4e699e",
+	"Protocol": "cecec7ba-4c79-4de2-bb85-de5deb0dcd13",
+	"Outputs": [
+		{
+			"Address": "0xe0A342a97eF07e3c5515DcC7564C4Bd40C405428",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x10978Db3885bA79Bf1Bc823E108085FB88e6F02f",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc55126051B22eBb829D00368f4B12Bde432de5Da",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PXBTRFLY-f",
+	"Chain": "ethereum"
+}

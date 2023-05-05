@@ -1,0 +1,10 @@
+{
+	"Id": "0xbe42fac106acf4302b209e45083682fadd01fdbe",
+	"Symbol": "WETH-PepeCash",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc08e7911ee27169967ed8ec252fee73048cc0dff"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x2b25f23c31a490583ff55fb63cea459c098cc0e8",
+	"Symbol": "PEPPA-WETH",
+	"UnderlyingTokens": [
+		"0x440aeca896009f006eea3df4ba3a236ee8d57d36",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

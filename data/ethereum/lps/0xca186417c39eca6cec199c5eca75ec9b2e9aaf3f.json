@@ -1,0 +1,10 @@
+{
+	"Id": "0xca186417c39eca6cec199c5eca75ec9b2e9aaf3f",
+	"Symbol": "WETH-PEIPEI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd15c850e7d7172c535ae2709f703f40b4f9764c3"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

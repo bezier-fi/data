@@ -1,0 +1,10 @@
+{
+	"Id": "0x8edef29acf0c48b935d905759be4b1373df529a9",
+	"Symbol": "ELSAPO-WETH",
+	"UnderlyingTokens": [
+		"0x0ab59317164c2bb619d5beeb1ebcb628e1aa06c8",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

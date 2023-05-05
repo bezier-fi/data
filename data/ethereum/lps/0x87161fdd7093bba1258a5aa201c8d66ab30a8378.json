@@ -1,0 +1,10 @@
+{
+	"Id": "0x87161fdd7093bba1258a5aa201c8d66ab30a8378",
+	"Symbol": "WETH-GWOJAK",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xcfad6ea9eb51d6288dc15301f8a6872e73ee6b94"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

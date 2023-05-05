@@ -1,0 +1,10 @@
+{
+	"Id": "0x651917d84464aac78d8230075c19016437e5f1b4",
+	"Symbol": "PEEP-WETH",
+	"UnderlyingTokens": [
+		"0x41959b8f247e310db2fb05f66262c9ad040905af",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x8eeae625615ed5acc8b96a8f26c228ff51bf2df9",
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Outputs": [
+		{
+			"Address": "0x8eeae625615ed5acc8b96a8f26c228ff51bf2df9",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x41e1ef16ff3dea3b9c10e99077bc91ef607e0e4e",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FOMC-WETH",
+	"Chain": "ethereum"
+}

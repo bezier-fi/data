@@ -1,0 +1,27 @@
+{
+	"Id": "0xf935f557e06a7d040dea4691f90c9a755301818b",
+	"Protocol": "e36e51b7-6d12-4a63-ab82-4e8d6e2f0de5",
+	"Outputs": [
+		{
+			"Address": "0xf935f557e06a7d040dea4691f90c9a755301818b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x25722cd432d02895d9be45f5deb60fc479c8781e",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SPONGE-WETH (0.30%)",
+	"Chain": "ethereum"
+}

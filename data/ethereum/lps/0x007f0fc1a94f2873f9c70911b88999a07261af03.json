@@ -1,0 +1,10 @@
+{
+	"Id": "0x007f0fc1a94f2873f9c70911b88999a07261af03",
+	"Symbol": "TENDIES-WETH",
+	"UnderlyingTokens": [
+		"0x048ad7853a92dad81e6beb50050b6fd95149ca1f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

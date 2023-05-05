@@ -1,0 +1,10 @@
+{
+	"Id": "0x75a0d3486c3701bdf6fc6f903446ce1ea01ca4d0",
+	"Symbol": "SEND-WETH",
+	"UnderlyingTokens": [
+		"0x26a656435b496a6cf144f67338c4c60c9d949ac1",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

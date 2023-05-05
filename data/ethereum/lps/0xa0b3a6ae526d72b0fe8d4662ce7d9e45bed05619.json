@@ -1,0 +1,10 @@
+{
+	"Id": "0xa0b3a6ae526d72b0fe8d4662ce7d9e45bed05619",
+	"Symbol": "BARNEY-WETH",
+	"UnderlyingTokens": [
+		"0xaf4fc3961725e851ed42a4b0532f4d1c8b5e2769",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x286367b8dcf0aefcfe908a1b35bc40483ed0a904",
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Outputs": [
+		{
+			"Address": "0x286367b8dcf0aefcfe908a1b35bc40483ed0a904",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5360d3b6b6bc50f33fca85452b786f47fb1fa1c5",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TACO-WETH",
+	"Chain": "ethereum"
+}

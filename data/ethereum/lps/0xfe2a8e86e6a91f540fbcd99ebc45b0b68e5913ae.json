@@ -1,0 +1,10 @@
+{
+	"Id": "0xfe2a8e86e6a91f540fbcd99ebc45b0b68e5913ae",
+	"Symbol": "MEDIUM-WETH",
+	"UnderlyingTokens": [
+		"0x199709dc87e42efcfa750260e84da7e12121d12d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

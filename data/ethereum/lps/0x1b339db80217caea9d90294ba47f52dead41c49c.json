@@ -1,0 +1,10 @@
+{
+	"Id": "0x1b339db80217caea9d90294ba47f52dead41c49c",
+	"Symbol": "PEPEFLOKI-WETH",
+	"UnderlyingTokens": [
+		"0x3b88263ee51229406a77c387c2ff6f83dea69a14",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

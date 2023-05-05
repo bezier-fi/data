@@ -1,0 +1,27 @@
+{
+	"Id": "0xaa1cab31f9f06138294ec474dfebe58cb566efb0",
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Outputs": [
+		{
+			"Address": "0xaa1cab31f9f06138294ec474dfebe58cb566efb0",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9b0c67713790ae6cc68fad9ee59eb14456649249",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GLIZZY-WETH",
+	"Chain": "ethereum"
+}

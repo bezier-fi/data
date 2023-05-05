@@ -1,0 +1,10 @@
+{
+	"Id": "0xb25c172a2d2c6c15951ab7ec5c562ef254d0a8f3",
+	"Symbol": "ACKBAR-WETH",
+	"UnderlyingTokens": [
+		"0x19d6b2192aaf67cf29a2e9d0d105271662b69fcc",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

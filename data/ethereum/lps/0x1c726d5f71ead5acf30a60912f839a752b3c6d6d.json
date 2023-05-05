@@ -1,0 +1,10 @@
+{
+	"Id": "0x1c726d5f71ead5acf30a60912f839a752b3c6d6d",
+	"Symbol": "SNIBBU-WETH",
+	"UnderlyingTokens": [
+		"0xaee9ba9ce49fe810417a36408e34d9962b653e78",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

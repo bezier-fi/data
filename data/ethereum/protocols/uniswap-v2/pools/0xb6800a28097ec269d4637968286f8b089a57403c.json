@@ -1,0 +1,27 @@
+{
+	"Id": "0xb6800a28097ec269d4637968286f8b089a57403c",
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Outputs": [
+		{
+			"Address": "0xb6800a28097ec269d4637968286f8b089a57403c",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0c5a17d996697c64c76ccc44ff79c9545eb0f487",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DATBOI-WETH",
+	"Chain": "ethereum"
+}

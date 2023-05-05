@@ -1,0 +1,10 @@
+{
+	"Id": "0x18b5abdf92373413fb49b8c7e316974e383bbdd4",
+	"Symbol": "WIZARD-WETH",
+	"UnderlyingTokens": [
+		"0x1ead7192f1584ecf16eb818aaf913b7157bbcdff",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

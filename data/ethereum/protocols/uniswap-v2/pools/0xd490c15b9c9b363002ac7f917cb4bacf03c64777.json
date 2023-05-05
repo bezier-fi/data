@@ -1,0 +1,27 @@
+{
+	"Id": "0xd490c15b9c9b363002ac7f917cb4bacf03c64777",
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Outputs": [
+		{
+			"Address": "0xd490c15b9c9b363002ac7f917cb4bacf03c64777",
+			"Apr": 212.33864,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa58a1c2fad3cb98b97b14b0b69dd20048aeba3da",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PFISH-WETH",
+	"Chain": "ethereum"
+}

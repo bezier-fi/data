@@ -1,0 +1,10 @@
+{
+	"Id": "0x2dd9a9b5a397ba6d22a7566b65233e7775fa2332",
+	"Symbol": "PIGLET-WETH",
+	"UnderlyingTokens": [
+		"0xa1974e043bb6d31e87cd64dc02acad153f5d53cf",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x4469499ae9353f52332f0bbf3511bde238e64fc3",
+	"Symbol": "WETH-PEPETAMA",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc1f62766674e99cdca1cb8a58c8061133f6814f5"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

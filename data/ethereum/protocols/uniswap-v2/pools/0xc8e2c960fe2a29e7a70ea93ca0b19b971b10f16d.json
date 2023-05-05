@@ -1,0 +1,27 @@
+{
+	"Id": "0xc8e2c960fe2a29e7a70ea93ca0b19b971b10f16d",
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Outputs": [
+		{
+			"Address": "0xc8e2c960fe2a29e7a70ea93ca0b19b971b10f16d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8e5fa3ebfa0c1153521e19cce8d857ed3a12c229",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "KEKISTAN-WETH",
+	"Chain": "ethereum"
+}

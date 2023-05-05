@@ -1,0 +1,10 @@
+{
+	"Id": "0xb95d81d86724bcaf0a06b2e17ac9d4f0469cadd5",
+	"Symbol": "WOJAKG-WETH",
+	"UnderlyingTokens": [
+		"0x11f8ae10795c8814b889bcb6991dea1ebd55fd83",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

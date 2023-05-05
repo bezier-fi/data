@@ -1,0 +1,10 @@
+{
+	"Id": "0xe26b4d006a76d01ed90e127394fd8710a699e5e1",
+	"Symbol": "NYAN-WETH",
+	"UnderlyingTokens": [
+		"0x8968d456e67afd7edf6dfed04f58d6343571f1be",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xc13d97d2d4e441e9a56d71c211e6a8a35ec64a82",
+	"Symbol": "ERC-WETH",
+	"UnderlyingTokens": [
+		"0x179b3bb2e5662707321926be8b671798fa55542e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

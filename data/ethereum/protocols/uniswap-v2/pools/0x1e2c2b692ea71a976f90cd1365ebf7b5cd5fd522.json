@@ -1,0 +1,27 @@
+{
+	"Id": "0x1e2c2b692ea71a976f90cd1365ebf7b5cd5fd522",
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Outputs": [
+		{
+			"Address": "0x1e2c2b692ea71a976f90cd1365ebf7b5cd5fd522",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x426df698386ea0fd51658bd5ea9089309dcb7c6d",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Candy-WETH",
+	"Chain": "ethereum"
+}

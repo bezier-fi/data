@@ -1,0 +1,10 @@
+{
+	"Id": "0x1e809a7ef753017521e289078bca2b0659f278fc",
+	"Symbol": "Rhett-WETH",
+	"UnderlyingTokens": [
+		"0x44bcff2608556a80e3be2d709b576e29c177eb87",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

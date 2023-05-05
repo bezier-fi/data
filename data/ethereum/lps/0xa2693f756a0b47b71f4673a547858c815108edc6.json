@@ -1,0 +1,10 @@
+{
+	"Id": "0xa2693f756a0b47b71f4673a547858c815108edc6",
+	"Symbol": "MIDA-USDC",
+	"UnderlyingTokens": [
+		"0x57d8dc5ef3762395ab1e842473354cec9ab14f5b",
+		"0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x852b90239C5034b5bb7a5e54eF1bEF3Ce3359CC8",
+	"Protocol": "cecec7ba-4c79-4de2-bb85-de5deb0dcd13",
+	"Outputs": [
+		{
+			"Address": "0x852b90239C5034b5bb7a5e54eF1bEF3Ce3359CC8",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x97983236bE88107Cc8998733Ef73D8d969c52E37",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "sdYFIpool-f",
+	"Chain": "ethereum"
+}

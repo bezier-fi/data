@@ -1,0 +1,10 @@
+{
+	"Id": "0xb1664ad55b500510bb4db49780ed87c39ff5997e",
+	"Symbol": "PEK-WETH",
+	"UnderlyingTokens": [
+		"0x395fdfc467481f7aebd8e199a753e859bd4829a9",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

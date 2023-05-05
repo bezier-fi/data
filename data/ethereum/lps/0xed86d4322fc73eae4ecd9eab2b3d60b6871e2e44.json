@@ -1,0 +1,10 @@
+{
+	"Id": "0xed86d4322fc73eae4ecd9eab2b3d60b6871e2e44",
+	"Symbol": "WETH-MEMES",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe6c260c539d835b6f1af2d2608faa9c574f8e761"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

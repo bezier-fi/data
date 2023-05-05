@@ -1,0 +1,10 @@
+{
+	"Id": "0x2e695cd9dc58a64c11b05604c15220d369890f73",
+	"Symbol": "WETH-Ghouls",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd81b8efa3ec9a6af5317505874d8c1c7815a4d5f"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

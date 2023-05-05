@@ -1,0 +1,10 @@
+{
+	"Id": "0x0cfac9be7b1569d95077e1cc7d49c3cd407f03eb",
+	"Symbol": "METAB-WETH",
+	"UnderlyingTokens": [
+		"0xa2f0a263410c4b045f26035190a3fc54215e0ee4",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

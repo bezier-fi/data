@@ -1,0 +1,27 @@
+{
+	"Id": "0x1b472ddc6335c262b1f3f29b77a11d8265d590c8",
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Outputs": [
+		{
+			"Address": "0x1b472ddc6335c262b1f3f29b77a11d8265d590c8",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x09b6e5761ddedbb0e80a3652c83fbc8790842705",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PLEBS-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x380667fed29f00ceb841729b1e5d9b4a55f88bdb",
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Outputs": [
+		{
+			"Address": "0x380667fed29f00ceb841729b1e5d9b4a55f88bdb",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xebd2785f1f72d154c3df418a5eb6bc59d13013f4",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-Hopium",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x554d1fd28336504d2d7d358ec03c6f53d178af1f",
+	"Symbol": "PREPE-WETH",
+	"UnderlyingTokens": [
+		"0x57ef27273eca2df2e0a6a0534e12bbaa26dd315d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

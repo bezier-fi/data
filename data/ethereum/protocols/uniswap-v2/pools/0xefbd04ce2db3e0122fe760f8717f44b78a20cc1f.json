@@ -1,0 +1,27 @@
+{
+	"Id": "0xefbd04ce2db3e0122fe760f8717f44b78a20cc1f",
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Outputs": [
+		{
+			"Address": "0xefbd04ce2db3e0122fe760f8717f44b78a20cc1f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc48cd04b6a9011dad0d4e7acef658f5be03182b7",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-BROS",
+	"Chain": "ethereum"
+}

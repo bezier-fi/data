@@ -1,0 +1,10 @@
+{
+	"Id": "0x590706fc10760f708fe0ee37d33d63d7d5bcd07a",
+	"Symbol": "TRFC-WETH",
+	"UnderlyingTokens": [
+		"0x0b5e01483edaa386ad4f7c86b9433b0eeb7c4f9f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

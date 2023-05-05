@@ -1,0 +1,10 @@
+{
+	"Id": "0x156e69e28dabae561e06efc0c514b0129dd6ff80",
+	"Symbol": "WETH-PEPITO",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe5cf28aac55c70ba4d815dfc65b002221a76aa47"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

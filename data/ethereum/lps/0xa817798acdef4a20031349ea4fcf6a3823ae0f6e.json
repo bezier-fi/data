@@ -1,0 +1,10 @@
+{
+	"Id": "0xa817798acdef4a20031349ea4fcf6a3823ae0f6e",
+	"Symbol": "PPGROW-WETH",
+	"UnderlyingTokens": [
+		"0x3eaf6769d5e9832ea94735f29095e9d7a73a1e1c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

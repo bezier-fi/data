@@ -1,0 +1,10 @@
+{
+	"Id": "0xc8e2c960fe2a29e7a70ea93ca0b19b971b10f16d",
+	"Symbol": "KEKISTAN-WETH",
+	"UnderlyingTokens": [
+		"0x8e5fa3ebfa0c1153521e19cce8d857ed3a12c229",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x2c20eb2e7c591a18f601226626654be8930552b8",
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Outputs": [
+		{
+			"Address": "0x2c20eb2e7c591a18f601226626654be8930552b8",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3871a85b52acffa4eed59023dadd5689421d1fd8",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CHUPA-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xc33adedbecf8a1bb143571f33e4381de4d0c14f4",
+	"Symbol": "WOOFN-WETH",
+	"UnderlyingTokens": [
+		"0xbe87192a982f241f21123b7738797653b3fa7813",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

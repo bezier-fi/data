@@ -1,0 +1,10 @@
+{
+	"Id": "0xf4d76aa63f50bc7143db4f3596cc9cb38dacc7dc",
+	"Symbol": "WETH-KAKA",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf5c43456b67d50dab3f9ca2bfcd8376bb1a414bb"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

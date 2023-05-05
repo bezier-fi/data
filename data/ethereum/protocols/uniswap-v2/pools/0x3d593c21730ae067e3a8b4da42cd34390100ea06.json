@@ -1,0 +1,27 @@
+{
+	"Id": "0x3d593c21730ae067e3a8b4da42cd34390100ea06",
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Outputs": [
+		{
+			"Address": "0x3d593c21730ae067e3a8b4da42cd34390100ea06",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8aa3e5d184e82808e494b5c9322ba3c35ce46a70",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DARE-WETH",
+	"Chain": "ethereum"
+}

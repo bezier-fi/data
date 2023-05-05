@@ -1,0 +1,10 @@
+{
+	"Id": "0xd170e11fd04c64ba7f016fdaaa8939ddf9436580",
+	"Symbol": "TENDIE-WETH",
+	"UnderlyingTokens": [
+		"0xbc81f403f988a42286a9d291d68b7635582025eb",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

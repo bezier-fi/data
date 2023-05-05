@@ -1,0 +1,10 @@
+{
+	"Id": "0x0d4e19f5518bffb92fdfbd6519c6440ed1fac808",
+	"Symbol": "EMOJI-WETH",
+	"UnderlyingTokens": [
+		"0x3bd475f596c0024a37d46ee2ae211148496f102d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xddf22adf6f606005c5d236bcb16d7a356daaddff",
+	"Symbol": "FROKI-WETH",
+	"UnderlyingTokens": [
+		"0x3f7d1c62a8456893c0f55c13e3b5993d2f68287a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

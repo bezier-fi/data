@@ -1,0 +1,10 @@
+{
+	"Id": "0xca674b8c37c20bfc9d5480149aeb67d201ad8037",
+	"Symbol": "CULT-WETH",
+	"UnderlyingTokens": [
+		"0x76ce56d279bf3be948bab9f53a8f51180083cb6d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

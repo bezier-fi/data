@@ -1,0 +1,10 @@
+{
+	"Id": "0xfb792705dbd4039bf276357c9cc31d7751956079",
+	"Symbol": "STICK-WETH",
+	"UnderlyingTokens": [
+		"0x556713e6a6a928af55bf3967f847c62402acbadc",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

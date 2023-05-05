@@ -1,0 +1,27 @@
+{
+	"Id": "0x30b1149fdb6fecf3ca66952dfa58dd0e4af37d10",
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Outputs": [
+		{
+			"Address": "0x30b1149fdb6fecf3ca66952dfa58dd0e4af37d10",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6d9a1d6d3cfe875a092ccae6d4b8b0ae0a327dfa",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "RALPH-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xe786c0da51a21c8f7ec91c9889e2df3f21ee1747",
+	"Symbol": "RAUL-WETH",
+	"UnderlyingTokens": [
+		"0x546f3b64a317ab001a5ac5e882ca28d2a051c20a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b2e2f454-e8cd-46cd-8826-142ac4db9571",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0xa4cb8ed52454140b46e9158d0bdd70f558614dfc",
+	"Protocol": "ddf67519-99fc-43c0-84fc-26b44f60ba98",
+	"Outputs": [
+		{
+			"Address": "0xa4cb8ed52454140b46e9158d0bdd70f558614dfc",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0fbd258eb1e046c9b079a1215d6724c3ecddba2f",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TINA-WETH",
+	"Chain": "ethereum"
+}

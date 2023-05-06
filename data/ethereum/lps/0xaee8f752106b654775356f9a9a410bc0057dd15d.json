@@ -1,0 +1,10 @@
+{
+	"Id": "0xaee8f752106b654775356f9a9a410bc0057dd15d",
+	"Symbol": "BENDZ-WETH",
+	"UnderlyingTokens": [
+		"0x9a3d944b0ce40a3afd5b654f5af1064e88f3a3c8",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ddf67519-99fc-43c0-84fc-26b44f60ba98",
+	"Chain": "ethereum"
+}

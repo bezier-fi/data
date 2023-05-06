@@ -1,0 +1,10 @@
+{
+	"Id": "0x3cd3d28588dec269870b149ea3cb7e34e9f48b4f",
+	"Symbol": "BULLA-WETH",
+	"UnderlyingTokens": [
+		"0x1d8c4bd717693e9786c7867f10ec669dd2a08bbe",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ddf67519-99fc-43c0-84fc-26b44f60ba98",
+	"Chain": "ethereum"
+}

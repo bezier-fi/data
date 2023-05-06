@@ -1,0 +1,10 @@
+{
+	"Id": "0xce0df10ec5e4b605c04f663cf8d5611ea792b52f",
+	"Symbol": "WASSA-WETH",
+	"UnderlyingTokens": [
+		"0x1cf5b1eb9b8721988694dfe95fd34e7bdfddf698",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ddf67519-99fc-43c0-84fc-26b44f60ba98",
+	"Chain": "ethereum"
+}

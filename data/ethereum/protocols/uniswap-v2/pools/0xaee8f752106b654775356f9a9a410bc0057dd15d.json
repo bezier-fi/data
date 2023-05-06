@@ -1,0 +1,27 @@
+{
+	"Id": "0xaee8f752106b654775356f9a9a410bc0057dd15d",
+	"Protocol": "ddf67519-99fc-43c0-84fc-26b44f60ba98",
+	"Outputs": [
+		{
+			"Address": "0xaee8f752106b654775356f9a9a410bc0057dd15d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9a3d944b0ce40a3afd5b654f5af1064e88f3a3c8",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BENDZ-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x465b73a43d147b56d9560917729e8f2284d06d4b",
+	"Protocol": "ddf67519-99fc-43c0-84fc-26b44f60ba98",
+	"Outputs": [
+		{
+			"Address": "0x465b73a43d147b56d9560917729e8f2284d06d4b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9e87cc5f0b09ed034e48b4c7aeb7612b7b628096",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "RCHK-WETH",
+	"Chain": "ethereum"
+}

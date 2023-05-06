@@ -1,0 +1,27 @@
+{
+	"Id": "0x9f61a5f9d3c698b05bd0277cca5ae73d32a5b3dc",
+	"Protocol": "ddf67519-99fc-43c0-84fc-26b44f60ba98",
+	"Outputs": [
+		{
+			"Address": "0x9f61a5f9d3c698b05bd0277cca5ae73d32a5b3dc",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0fb83563eaf7cf04fccb54d9d9e98bf6dc9f81aa",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FRY-WETH",
+	"Chain": "ethereum"
+}

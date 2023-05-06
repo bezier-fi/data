@@ -1,0 +1,10 @@
+{
+	"Id": "0xe9c8b1668bb815bd41bda036aacc5bd76908a7aa",
+	"Symbol": "PUPU-WETH",
+	"UnderlyingTokens": [
+		"0x5a9bfe6b80cb4db587e878b7ff7d3f16d47bfe34",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ddf67519-99fc-43c0-84fc-26b44f60ba98",
+	"Chain": "ethereum"
+}

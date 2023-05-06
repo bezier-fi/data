@@ -1,0 +1,10 @@
+{
+	"Id": "0xed857f9a15192a1c00ba45c138fbcc720463398b",
+	"Symbol": "WETH-DONKE",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xda0f2529843d771313464384ee1ad66e8948a0b5"
+	],
+	"Protocol": "ddf67519-99fc-43c0-84fc-26b44f60ba98",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x7d3e5afdb0e7416b401b17a64d63b63e07197272",
+	"Symbol": "WETH-AMD (0.30%)",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xdef575aea01bfc170d1839b7ebd2e5b8ea58c13e"
+	],
+	"Protocol": "d832413c-ea95-4883-9f2f-5da47702ed6c",
+	"Chain": "ethereum"
+}

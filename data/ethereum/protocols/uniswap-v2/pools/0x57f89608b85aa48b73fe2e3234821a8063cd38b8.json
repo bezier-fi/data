@@ -1,0 +1,27 @@
+{
+	"Id": "0x57f89608b85aa48b73fe2e3234821a8063cd38b8",
+	"Protocol": "ddf67519-99fc-43c0-84fc-26b44f60ba98",
+	"Outputs": [
+		{
+			"Address": "0x57f89608b85aa48b73fe2e3234821a8063cd38b8",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xae38551a9c553028e91b6a2a64d6326e40a8e4e2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PAPU-WETH",
+	"Chain": "ethereum"
+}

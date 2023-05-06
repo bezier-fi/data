@@ -1,0 +1,27 @@
+{
+	"Id": "0xfb2b1adb41387105e5faa5538711f1c5c58b8502",
+	"Protocol": "ddf67519-99fc-43c0-84fc-26b44f60ba98",
+	"Outputs": [
+		{
+			"Address": "0xfb2b1adb41387105e5faa5538711f1c5c58b8502",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xaf991d1c9bd9b7b71fee863c30d8271d60abe4f2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Squidward-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0xa7bfc948d6e5b50cafb868aa75c5cefd7324c902",
+	"Protocol": "ddf67519-99fc-43c0-84fc-26b44f60ba98",
+	"Outputs": [
+		{
+			"Address": "0xa7bfc948d6e5b50cafb868aa75c5cefd7324c902",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x50a69cea809b4afed9a31a72f049a5b0b33bf5e3",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SKID-WETH",
+	"Chain": "ethereum"
+}

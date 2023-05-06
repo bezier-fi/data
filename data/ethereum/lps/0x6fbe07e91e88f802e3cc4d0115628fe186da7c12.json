@@ -1,0 +1,10 @@
+{
+	"Id": "0x6fbe07e91e88f802e3cc4d0115628fe186da7c12",
+	"Symbol": "$FROPE-WETH",
+	"UnderlyingTokens": [
+		"0x3b60d9bb2f1972d41ff171f33d537e38a620907d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ddf67519-99fc-43c0-84fc-26b44f60ba98",
+	"Chain": "ethereum"
+}

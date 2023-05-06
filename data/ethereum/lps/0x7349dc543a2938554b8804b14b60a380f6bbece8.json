@@ -1,0 +1,10 @@
+{
+	"Id": "0x7349dc543a2938554b8804b14b60a380f6bbece8",
+	"Symbol": "WSBRRR-WETH",
+	"UnderlyingTokens": [
+		"0x6ea6768e486ec852bcd5078cf591ac51e9bab052",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ddf67519-99fc-43c0-84fc-26b44f60ba98",
+	"Chain": "ethereum"
+}

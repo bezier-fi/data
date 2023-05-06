@@ -1,0 +1,10 @@
+{
+	"Id": "0x401d06c05e055d5f26240baaf41fd63c1a094bb8",
+	"Symbol": "WETH-SNEED",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc27fadbbfcec1b10b1c5388d7b1c4004aa7c7a08"
+	],
+	"Protocol": "ddf67519-99fc-43c0-84fc-26b44f60ba98",
+	"Chain": "ethereum"
+}

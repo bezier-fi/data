@@ -1,0 +1,10 @@
+{
+	"Id": "0x32c247f5a26f5906cfa62e7f6af539f52f2b5a05",
+	"Symbol": "WETH-BRRRITO",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xedeb9951a1bf0c9936ab192c009de188b09ccf36"
+	],
+	"Protocol": "ddf67519-99fc-43c0-84fc-26b44f60ba98",
+	"Chain": "ethereum"
+}

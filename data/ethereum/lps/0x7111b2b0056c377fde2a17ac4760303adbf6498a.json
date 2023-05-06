@@ -1,0 +1,10 @@
+{
+	"Id": "0x7111b2b0056c377fde2a17ac4760303adbf6498a",
+	"Symbol": "WETH-CLIPS",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xecbee2fae67709f718426ddc3bf770b26b95ed20"
+	],
+	"Protocol": "ddf67519-99fc-43c0-84fc-26b44f60ba98",
+	"Chain": "ethereum"
+}

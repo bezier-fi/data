@@ -1,0 +1,10 @@
+{
+	"Id": "0x01a1cf1910efa85bb91fe1a783d1c6beb4a4755d",
+	"Symbol": "MOAM-WETH",
+	"UnderlyingTokens": [
+		"0xa5bcd14f6be77b9035b5718dfae59ae6421a3401",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ddf67519-99fc-43c0-84fc-26b44f60ba98",
+	"Chain": "ethereum"
+}

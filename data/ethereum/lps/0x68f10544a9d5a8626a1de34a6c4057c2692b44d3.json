@@ -1,0 +1,10 @@
+{
+	"Id": "0x68f10544a9d5a8626a1de34a6c4057c2692b44d3",
+	"Symbol": "DOSHI-WETH",
+	"UnderlyingTokens": [
+		"0x510991322293679953ef8567f53088ec4e00db02",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ddf67519-99fc-43c0-84fc-26b44f60ba98",
+	"Chain": "ethereum"
+}

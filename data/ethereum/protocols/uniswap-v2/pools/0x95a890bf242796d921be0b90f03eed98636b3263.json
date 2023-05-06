@@ -1,0 +1,27 @@
+{
+	"Id": "0x95a890bf242796d921be0b90f03eed98636b3263",
+	"Protocol": "ddf67519-99fc-43c0-84fc-26b44f60ba98",
+	"Outputs": [
+		{
+			"Address": "0x95a890bf242796d921be0b90f03eed98636b3263",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xf42f887b59dd6bcedc13b860fb86490a42a28bc7",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-BOBRRR",
+	"Chain": "ethereum"
+}

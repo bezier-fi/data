@@ -1,0 +1,10 @@
+{
+	"Id": "0x5b539fc9f1c5755e9e6276c6daad8098e5092f59",
+	"Symbol": "WETH-BRIBBIT",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xcc2776a77274fd305877cbe6046ab81d9aaf1ddc"
+	],
+	"Protocol": "ddf67519-99fc-43c0-84fc-26b44f60ba98",
+	"Chain": "ethereum"
+}

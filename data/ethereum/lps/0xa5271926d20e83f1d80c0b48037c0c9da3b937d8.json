@@ -1,0 +1,10 @@
+{
+	"Id": "0xa5271926d20e83f1d80c0b48037c0c9da3b937d8",
+	"Symbol": "WETH-DERPINA",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe66ee0151ba660526269de0efde3987db4257b9c"
+	],
+	"Protocol": "ddf67519-99fc-43c0-84fc-26b44f60ba98",
+	"Chain": "ethereum"
+}

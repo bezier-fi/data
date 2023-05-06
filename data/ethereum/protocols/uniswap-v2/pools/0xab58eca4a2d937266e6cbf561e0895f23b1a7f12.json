@@ -1,0 +1,27 @@
+{
+	"Id": "0xab58eca4a2d937266e6cbf561e0895f23b1a7f12",
+	"Protocol": "ddf67519-99fc-43c0-84fc-26b44f60ba98",
+	"Outputs": [
+		{
+			"Address": "0xab58eca4a2d937266e6cbf561e0895f23b1a7f12",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2999bb9c81509bee4ac6b6ba761950718c53e6d0",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PIMPSONS-WETH",
+	"Chain": "ethereum"
+}

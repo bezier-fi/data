@@ -1,0 +1,10 @@
+{
+	"Id": "0x1b9fd5d7d1168bb6d21504eff2b0330d5c42ce0b",
+	"Symbol": "BILLY-WETH",
+	"UnderlyingTokens": [
+		"0x9cbf044bc535db4c93a9f11205a69631d9dcef26",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ddf67519-99fc-43c0-84fc-26b44f60ba98",
+	"Chain": "ethereum"
+}

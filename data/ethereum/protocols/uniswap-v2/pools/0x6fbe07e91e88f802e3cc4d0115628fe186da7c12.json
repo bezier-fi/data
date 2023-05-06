@@ -1,0 +1,27 @@
+{
+	"Id": "0x6fbe07e91e88f802e3cc4d0115628fe186da7c12",
+	"Protocol": "ddf67519-99fc-43c0-84fc-26b44f60ba98",
+	"Outputs": [
+		{
+			"Address": "0x6fbe07e91e88f802e3cc4d0115628fe186da7c12",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3b60d9bb2f1972d41ff171f33d537e38a620907d",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "$FROPE-WETH",
+	"Chain": "ethereum"
+}

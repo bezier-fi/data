@@ -1,0 +1,10 @@
+{
+	"Id": "0xa169868a8ed8b5ff7e5c64632c964ec3042c1ab9",
+	"Symbol": "WETH-LUXON",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf1efc8a1da3fac49b46a25e710f887790f1b6de7"
+	],
+	"Protocol": "ddf67519-99fc-43c0-84fc-26b44f60ba98",
+	"Chain": "ethereum"
+}

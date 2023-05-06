@@ -1,0 +1,27 @@
+{
+	"Id": "0x1b9fd5d7d1168bb6d21504eff2b0330d5c42ce0b",
+	"Protocol": "ddf67519-99fc-43c0-84fc-26b44f60ba98",
+	"Outputs": [
+		{
+			"Address": "0x1b9fd5d7d1168bb6d21504eff2b0330d5c42ce0b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9cbf044bc535db4c93a9f11205a69631d9dcef26",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BILLY-WETH",
+	"Chain": "ethereum"
+}

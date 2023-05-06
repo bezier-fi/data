@@ -1,0 +1,10 @@
+{
+	"Id": "0xba7f777c6957728762ad021471e79f3c6902f946",
+	"Symbol": "WETH-CINCO",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf6950de46431a12b81f5dfcaa67081f1678613bc"
+	],
+	"Protocol": "ddf67519-99fc-43c0-84fc-26b44f60ba98",
+	"Chain": "ethereum"
+}

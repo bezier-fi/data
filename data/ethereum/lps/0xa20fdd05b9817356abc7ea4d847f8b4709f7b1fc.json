@@ -1,0 +1,10 @@
+{
+	"Id": "0xa20fdd05b9817356abc7ea4d847f8b4709f7b1fc",
+	"Symbol": "BALLOON-WETH",
+	"UnderlyingTokens": [
+		"0x87ee73d811593b06723b69898f21c9ff48ff8697",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ddf67519-99fc-43c0-84fc-26b44f60ba98",
+	"Chain": "ethereum"
+}

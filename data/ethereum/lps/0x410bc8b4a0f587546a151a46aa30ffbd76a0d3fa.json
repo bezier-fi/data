@@ -1,0 +1,10 @@
+{
+	"Id": "0x410bc8b4a0f587546a151a46aa30ffbd76a0d3fa",
+	"Symbol": "WETH-TACO",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf3c815515e776652de941a305c2c0cb941934966"
+	],
+	"Protocol": "ddf67519-99fc-43c0-84fc-26b44f60ba98",
+	"Chain": "ethereum"
+}

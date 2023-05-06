@@ -1,0 +1,10 @@
+{
+	"Id": "0x41f6ba40d60f85476b9456befafcba8289eaed30",
+	"Symbol": "PIXE-WETH",
+	"UnderlyingTokens": [
+		"0x6a26edf3bbc9f154ca9175216ceb9812f5305e6e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ddf67519-99fc-43c0-84fc-26b44f60ba98",
+	"Chain": "ethereum"
+}

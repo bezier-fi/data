@@ -1,0 +1,10 @@
+{
+	"Id": "0xa5397c24efade6f3f63f282b1258e19d44b40e08",
+	"Symbol": "WETH-NUMI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xcb05e0c5adf5abfcbc0259c461068a74883d513c"
+	],
+	"Protocol": "ddf67519-99fc-43c0-84fc-26b44f60ba98",
+	"Chain": "ethereum"
+}

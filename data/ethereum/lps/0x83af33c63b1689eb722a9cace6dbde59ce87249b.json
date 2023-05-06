@@ -1,0 +1,10 @@
+{
+	"Id": "0x83af33c63b1689eb722a9cace6dbde59ce87249b",
+	"Symbol": "WETH-PICKLERI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfa7ec064e84485eab40ea70b4036fb76226de267"
+	],
+	"Protocol": "ddf67519-99fc-43c0-84fc-26b44f60ba98",
+	"Chain": "ethereum"
+}

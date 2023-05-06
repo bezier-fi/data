@@ -1,0 +1,10 @@
+{
+	"Id": "0x196ed73ef2e1fe566724cd521f657b71ac4c8748",
+	"Symbol": "DRPEPE-WETH",
+	"UnderlyingTokens": [
+		"0x752eabec25e47fd085fdf15f6305295a2006318c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ddf67519-99fc-43c0-84fc-26b44f60ba98",
+	"Chain": "ethereum"
+}

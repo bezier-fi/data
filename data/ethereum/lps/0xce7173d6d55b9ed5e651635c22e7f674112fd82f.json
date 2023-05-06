@@ -1,0 +1,10 @@
+{
+	"Id": "0xce7173d6d55b9ed5e651635c22e7f674112fd82f",
+	"Symbol": "CHUD-WETH",
+	"UnderlyingTokens": [
+		"0x144cb5693efd2c191d478991104be021e6e7db30",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ddf67519-99fc-43c0-84fc-26b44f60ba98",
+	"Chain": "ethereum"
+}

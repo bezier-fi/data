@@ -1,0 +1,10 @@
+{
+	"Id": "0xc8a2026f86f3d2565298fb1c2e5f0a4cf035263f",
+	"Symbol": "YUME-WETH",
+	"UnderlyingTokens": [
+		"0x480001f9bea303f4d99842c384f964750275219d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ddf67519-99fc-43c0-84fc-26b44f60ba98",
+	"Chain": "ethereum"
+}

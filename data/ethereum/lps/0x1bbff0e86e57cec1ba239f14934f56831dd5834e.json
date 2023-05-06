@@ -1,0 +1,10 @@
+{
+	"Id": "0x1bbff0e86e57cec1ba239f14934f56831dd5834e",
+	"Symbol": "HEDZ-WETH",
+	"UnderlyingTokens": [
+		"0x148fd1c1cda9051c288ce144bbe69e6360590acf",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ddf67519-99fc-43c0-84fc-26b44f60ba98",
+	"Chain": "ethereum"
+}

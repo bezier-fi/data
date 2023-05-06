@@ -1,0 +1,10 @@
+{
+	"Id": "0xa510bf5dce298f8449c17b30c042d26a67e91472",
+	"Symbol": "WETH-FREDDIE",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd00736f864ecd5bef5996c735f98769ae0d10c7c"
+	],
+	"Protocol": "ddf67519-99fc-43c0-84fc-26b44f60ba98",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xab58eca4a2d937266e6cbf561e0895f23b1a7f12",
+	"Symbol": "PIMPSONS-WETH",
+	"UnderlyingTokens": [
+		"0x2999bb9c81509bee4ac6b6ba761950718c53e6d0",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ddf67519-99fc-43c0-84fc-26b44f60ba98",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x5137288864ee15646cadbb2d6c8b77aa1b1a0ff7",
+	"Symbol": "JMOON-WETH",
+	"UnderlyingTokens": [
+		"0xb03738bad62be923dda89370faec40ebc49868d0",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ddf67519-99fc-43c0-84fc-26b44f60ba98",
+	"Chain": "ethereum"
+}

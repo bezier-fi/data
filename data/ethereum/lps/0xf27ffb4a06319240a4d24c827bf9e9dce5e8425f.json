@@ -1,0 +1,10 @@
+{
+	"Id": "0xf27ffb4a06319240a4d24c827bf9e9dce5e8425f",
+	"Symbol": "EXIT-WETH",
+	"UnderlyingTokens": [
+		"0x28a5b02b9e262794570d38d3397da79f3ee28a04",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ddf67519-99fc-43c0-84fc-26b44f60ba98",
+	"Chain": "ethereum"
+}

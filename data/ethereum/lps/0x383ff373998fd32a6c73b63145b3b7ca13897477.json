@@ -1,0 +1,10 @@
+{
+	"Id": "0x383ff373998fd32a6c73b63145b3b7ca13897477",
+	"Symbol": "PINKY-WETH",
+	"UnderlyingTokens": [
+		"0x7d9c0ecfa0aa329318d2bc61cd0cc6171edee16a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ddf67519-99fc-43c0-84fc-26b44f60ba98",
+	"Chain": "ethereum"
+}

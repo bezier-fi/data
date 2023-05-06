@@ -1,0 +1,10 @@
+{
+	"Id": "0x9db12a7b907f8dcca24c53e452ac04f6bb358376",
+	"Symbol": "WETH-PECROW",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe6e4eefd96ff8c90ec201e704107d697483ee0cd"
+	],
+	"Protocol": "ddf67519-99fc-43c0-84fc-26b44f60ba98",
+	"Chain": "ethereum"
+}

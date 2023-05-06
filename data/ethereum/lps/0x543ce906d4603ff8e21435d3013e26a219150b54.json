@@ -1,0 +1,10 @@
+{
+	"Id": "0x543ce906d4603ff8e21435d3013e26a219150b54",
+	"Symbol": "SBOB-WETH",
+	"UnderlyingTokens": [
+		"0x42f0bf29c1c92f57dcc954ec7c6f1b3e21718b2f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ddf67519-99fc-43c0-84fc-26b44f60ba98",
+	"Chain": "ethereum"
+}

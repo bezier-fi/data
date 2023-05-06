@@ -1,0 +1,10 @@
+{
+	"Id": "0x321166c624541dde00025d2d916d117410ba8421",
+	"Symbol": "WETH-FROGS",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf801db2654e911e922665c4cb885d8cca4c155bf"
+	],
+	"Protocol": "ddf67519-99fc-43c0-84fc-26b44f60ba98",
+	"Chain": "ethereum"
+}

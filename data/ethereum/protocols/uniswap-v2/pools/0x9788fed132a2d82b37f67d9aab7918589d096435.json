@@ -1,0 +1,27 @@
+{
+	"Id": "0x9788fed132a2d82b37f67d9aab7918589d096435",
+	"Protocol": "ddf67519-99fc-43c0-84fc-26b44f60ba98",
+	"Outputs": [
+		{
+			"Address": "0x9788fed132a2d82b37f67d9aab7918589d096435",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9dfe6e5f658eea89ec8cd18cbed034a29aae5d5b",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "KEK-WETH",
+	"Chain": "ethereum"
+}

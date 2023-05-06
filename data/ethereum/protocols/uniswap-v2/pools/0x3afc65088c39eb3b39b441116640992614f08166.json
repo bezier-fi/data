@@ -1,0 +1,27 @@
+{
+	"Id": "0x3afc65088c39eb3b39b441116640992614f08166",
+	"Protocol": "ddf67519-99fc-43c0-84fc-26b44f60ba98",
+	"Outputs": [
+		{
+			"Address": "0x3afc65088c39eb3b39b441116640992614f08166",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x878fcc2bdcccff8c56812607b9a58f29b274c4f0",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DERP-WETH",
+	"Chain": "ethereum"
+}

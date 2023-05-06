@@ -1,0 +1,27 @@
+{
+	"Id": "0x7d3e5afdb0e7416b401b17a64d63b63e07197272",
+	"Protocol": "d832413c-ea95-4883-9f2f-5da47702ed6c",
+	"Outputs": [
+		{
+			"Address": "0x7d3e5afdb0e7416b401b17a64d63b63e07197272",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xdef575aea01bfc170d1839b7ebd2e5b8ea58c13e",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-AMD (0.30%)",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x29c830864930c897efa2b9e9851342187b82010e",
+	"Symbol": "BAD-WETH",
+	"UnderlyingTokens": [
+		"0x32b86b99441480a7e5bd3a26c124ec2373e3f015",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ddf67519-99fc-43c0-84fc-26b44f60ba98",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x480bad60cf5dad46c97af6e728178de8c18dadbd",
+	"Protocol": "ddf67519-99fc-43c0-84fc-26b44f60ba98",
+	"Outputs": [
+		{
+			"Address": "0x480bad60cf5dad46c97af6e728178de8c18dadbd",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6d618d94a818394c599bdc9cad37c8784be67f52",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "AKUMA-WETH",
+	"Chain": "ethereum"
+}

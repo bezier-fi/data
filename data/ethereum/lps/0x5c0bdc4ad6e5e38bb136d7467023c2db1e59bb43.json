@@ -1,0 +1,10 @@
+{
+	"Id": "0x5c0bdc4ad6e5e38bb136d7467023c2db1e59bb43",
+	"Symbol": "WETH-PepeSmurf",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf5faad12a7f599c25b69c341c925aa6ddee69480"
+	],
+	"Protocol": "ddf67519-99fc-43c0-84fc-26b44f60ba98",
+	"Chain": "ethereum"
+}

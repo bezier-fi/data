@@ -1,0 +1,10 @@
+{
+	"Id": "0xf045a3ff91623b1e8a3a2e5f4723890184591188",
+	"Symbol": "KERO-WETH",
+	"UnderlyingTokens": [
+		"0x50267cd56b64944633dcfbebe8fc641fab9d7109",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ddf67519-99fc-43c0-84fc-26b44f60ba98",
+	"Chain": "ethereum"
+}

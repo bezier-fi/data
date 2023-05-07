@@ -1,0 +1,10 @@
+{
+	"Id": "0x3fed3620f2921635fee5c044bbcfbcee09f39412",
+	"Symbol": "MOONER-WETH",
+	"UnderlyingTokens": [
+		"0xa6271662face273f1b91b4827003a62d5e8d7d24",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "94c77575-2592-43c3-96df-0bc4c5c4b7a9",
+	"Chain": "ethereum"
+}

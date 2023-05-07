@@ -1,0 +1,10 @@
+{
+	"Id": "0x7e3ea42bb0a885714678b86b1c1e10545ce91938",
+	"Symbol": "WETH-MNKEE",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf087fee873269f0d466e3271f42a7cb77bf7f897"
+	],
+	"Protocol": "94c77575-2592-43c3-96df-0bc4c5c4b7a9",
+	"Chain": "ethereum"
+}

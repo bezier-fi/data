@@ -1,0 +1,27 @@
+{
+	"Id": "0xc89c8702154eae9637b345dee514bdaf6b7d0e5e",
+	"Protocol": "94c77575-2592-43c3-96df-0bc4c5c4b7a9",
+	"Outputs": [
+		{
+			"Address": "0xc89c8702154eae9637b345dee514bdaf6b7d0e5e",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3e6dc4c22d06a4cbb5d787d96ce7b16b95daae76",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "HAMSTER-WETH",
+	"Chain": "ethereum"
+}

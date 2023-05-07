@@ -1,0 +1,27 @@
+{
+	"Id": "0x65f74d006cc3f676bc7b50123ddf78901052b2b0",
+	"Protocol": "94c77575-2592-43c3-96df-0bc4c5c4b7a9",
+	"Outputs": [
+		{
+			"Address": "0x65f74d006cc3f676bc7b50123ddf78901052b2b0",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4be46dfb021ec9cfcae1ab9a8ff9960c18841d3b",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "8BALL-WETH",
+	"Chain": "ethereum"
+}

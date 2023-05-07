@@ -1,0 +1,27 @@
+{
+	"Id": "0xda33813e16dc0c629924f391a8629e1411359998",
+	"Protocol": "94c77575-2592-43c3-96df-0bc4c5c4b7a9",
+	"Outputs": [
+		{
+			"Address": "0xda33813e16dc0c629924f391a8629e1411359998",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x55e93bcd36e855507aed1935a6b2db1a9256f31e",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PEON-WETH",
+	"Chain": "ethereum"
+}

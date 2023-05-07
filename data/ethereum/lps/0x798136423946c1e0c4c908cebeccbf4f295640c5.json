@@ -1,0 +1,10 @@
+{
+	"Id": "0x798136423946c1e0c4c908cebeccbf4f295640c5",
+	"Symbol": "PEPEFAMILY-WETH",
+	"UnderlyingTokens": [
+		"0x81f16c2b7085fc9deb05e927d7cab5fe5f6587ec",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "94c77575-2592-43c3-96df-0bc4c5c4b7a9",
+	"Chain": "ethereum"
+}

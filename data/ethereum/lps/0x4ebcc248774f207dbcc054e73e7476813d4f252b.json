@@ -1,0 +1,10 @@
+{
+	"Id": "0x4ebcc248774f207dbcc054e73e7476813d4f252b",
+	"Symbol": "WETH-POB",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf198123a32c7980c46d84ba8082958240060b8bd"
+	],
+	"Protocol": "94c77575-2592-43c3-96df-0bc4c5c4b7a9",
+	"Chain": "ethereum"
+}

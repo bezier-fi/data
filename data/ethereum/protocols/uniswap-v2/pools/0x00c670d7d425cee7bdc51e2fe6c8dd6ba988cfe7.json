@@ -1,0 +1,27 @@
+{
+	"Id": "0x00c670d7d425cee7bdc51e2fe6c8dd6ba988cfe7",
+	"Protocol": "94c77575-2592-43c3-96df-0bc4c5c4b7a9",
+	"Outputs": [
+		{
+			"Address": "0x00c670d7d425cee7bdc51e2fe6c8dd6ba988cfe7",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb63d2930a6216b84149ee0112b6b2ace8b9f803d",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DAVE-WETH",
+	"Chain": "ethereum"
+}

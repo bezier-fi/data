@@ -1,0 +1,10 @@
+{
+	"Id": "0x1b6aaeef48b394be860b0a953c622b379c289cec",
+	"Symbol": "SHIPOO-WETH",
+	"UnderlyingTokens": [
+		"0x594716f6f345e6e23f70ce4b34dde4415aec977b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "94c77575-2592-43c3-96df-0bc4c5c4b7a9",
+	"Chain": "ethereum"
+}

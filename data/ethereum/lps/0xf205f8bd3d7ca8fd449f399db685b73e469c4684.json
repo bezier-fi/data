@@ -1,0 +1,10 @@
+{
+	"Id": "0xf205f8bd3d7ca8fd449f399db685b73e469c4684",
+	"Symbol": "PEEN-WETH",
+	"UnderlyingTokens": [
+		"0xb05f12793d4383a5bbd23ccedb76bff543e05abc",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "94c77575-2592-43c3-96df-0bc4c5c4b7a9",
+	"Chain": "ethereum"
+}

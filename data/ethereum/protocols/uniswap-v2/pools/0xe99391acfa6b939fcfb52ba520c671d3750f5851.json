@@ -1,0 +1,27 @@
+{
+	"Id": "0xe99391acfa6b939fcfb52ba520c671d3750f5851",
+	"Protocol": "94c77575-2592-43c3-96df-0bc4c5c4b7a9",
+	"Outputs": [
+		{
+			"Address": "0xe99391acfa6b939fcfb52ba520c671d3750f5851",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x37de6a6d76ec17c20712839fab7fdf969da8423d",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BANGER-WETH",
+	"Chain": "ethereum"
+}

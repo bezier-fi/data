@@ -1,0 +1,10 @@
+{
+	"Id": "0x417e80030a1b091f0cbaebda7476ed1d85823425",
+	"Symbol": "WETH-TURBRRR",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xcacd9e6ff30bd3519cdf1fd80fea23ac10d76ff6"
+	],
+	"Protocol": "94c77575-2592-43c3-96df-0bc4c5c4b7a9",
+	"Chain": "ethereum"
+}

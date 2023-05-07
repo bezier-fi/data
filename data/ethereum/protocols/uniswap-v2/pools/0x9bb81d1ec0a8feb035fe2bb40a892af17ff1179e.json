@@ -1,0 +1,27 @@
+{
+	"Id": "0x9bb81d1ec0a8feb035fe2bb40a892af17ff1179e",
+	"Protocol": "94c77575-2592-43c3-96df-0bc4c5c4b7a9",
+	"Outputs": [
+		{
+			"Address": "0x9bb81d1ec0a8feb035fe2bb40a892af17ff1179e",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc4b0148a1233306848420aaf0ef8f830b28fc190",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DAI-PooP",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x3b26bb81e7f3722e28cf8bfd5d975e389fd3084c",
+	"Protocol": "94c77575-2592-43c3-96df-0bc4c5c4b7a9",
+	"Outputs": [
+		{
+			"Address": "0x3b26bb81e7f3722e28cf8bfd5d975e389fd3084c",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4f7d0dcb336e7bd58552f2a8e34a85d8b00aba5e",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PEPEPATRICK-WETH",
+	"Chain": "ethereum"
+}

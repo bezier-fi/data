@@ -1,415 +1,315 @@
 [
 	{
-		"Id": "0xb093eefe1b5916fb34a71a7dd4b06ab754b7f503",
-		"Symbol": "USDC-VVT (1.00%)"
-	},
-	{
-		"Id": "0x80c3425573bb1c4f947fb9b4b45679c754a88245",
-		"Symbol": "mXEN-WETH (1.00%)"
-	},
-	{
-		"Id": "0xc9d0cae8343a2231b1647ab00e639eabdc766147",
-		"Symbol": "USDC-EURS (0.30%)"
-	},
-	{
-		"Id": "0xbf66132e08f2e7f075ef76e4141f73a26fdfb39a",
-		"Symbol": "WMATIC-BEAT (0.30%)"
-	},
-	{
-		"Id": "0x7ace268663da2cc4fdb807f24cff413237875f58",
-		"Symbol": "WMATIC-UNLOCK (0.30%)"
-	},
-	{
-		"Id": "0x9ab9f658104467604b5afa9a3e1df62f35f7b208",
-		"Symbol": "HOM-WETH (1.00%)"
-	},
-	{
-		"Id": "0xfa0c8c0b2f34070356eccfc3aabac173fb02f617",
-		"Symbol": "WMATIC-EURT (0.05%)"
-	},
-	{
-		"Id": "0xce4ecae580f963cdd371011733fa5d0f9cca1f50",
-		"Symbol": "XED-WETH (1.00%)"
-	},
-	{
-		"Id": "0xfd235245b74ba941bad1392f5be1537800301172",
-		"Symbol": "WMATIC-ROGUE (1.00%)"
-	},
-	{
-		"Id": "0x5f616541c801e2b9556027076b730e0197974f6a",
-		"Symbol": "CIAO-DAI (0.30%)"
-	},
-	{
-		"Id": "0xaa40be3a775451ddccf3aabf36bdea550391341f",
-		"Symbol": "USDC-XDAO (0.01%)"
-	},
-	{
-		"Id": "0x80c5c7d7e94158fd2daac56734889a7cdf8dadfe",
-		"Symbol": "TRADE-USDT (0.05%)"
-	},
-	{
-		"Id": "0x4ff09b032d4a2c7401a0f920ce44623f309f0072",
-		"Symbol": "WMATIC-WRLD (1.00%)"
-	},
-	{
-		"Id": "0x56845fd95c766ecb0ab450fe2d105a19440a6e35",
-		"Symbol": "WMATIC-MANA (0.30%)"
-	},
-	{
-		"Id": "0x3eb82a25f844999339a76ac3c432a3b709687e6d",
-		"Symbol": "WBTC-indexBTC (0.30%)"
-	},
-	{
-		"Id": "0x5f69c2ec01c22843f8273838d570243fd1963014",
-		"Symbol": "USDC-DAI (0.05%)"
-	},
-	{
-		"Id": "0xcca15d926b707119f6b74b559df3aaecc14f2d88",
-		"Symbol": "USDC-PAXG (0.30%)"
-	},
-	{
-		"Id": "0xf699740693850e53e0a28014da1c2bd78bd23838",
-		"Symbol": "USDC-METADEXDAO (0.30%)"
-	},
-	{
-		"Id": "0x3b12801631cf018c2addbc7dbb5e7e75e055f035",
-		"Symbol": "WETH-SAND (1.00%)"
-	},
-	{
-		"Id": "0xde4b2e9c32324a7ed9bdd72886e0371648fa83e4",
-		"Symbol": "WETH-UBT (1.00%)"
-	},
-	{
-		"Id": "0x26770cc2c612e5c97eb70a6531fa9d5098ef74ab",
-		"Symbol": "USDC-stMATIC (0.30%)"
-	},
-	{
-		"Id": "0x781067ef296e5c4a4203f81c593274824b7c185d",
-		"Symbol": "WMATIC-USDT (0.30%)"
-	},
-	{
-		"Id": "0x80101f29476ba9b0b1fb5b592f07f10f9e26b937",
-		"Symbol": "USDC-BEAT (0.30%)"
-	},
-	{
-		"Id": "0xc1dc5605b242a658adfc7d6e693a50aefb49bbae",
-		"Symbol": "USDC-$MECHA (1.00%)"
-	},
-	{
-		"Id": "0x31de1105a5ec7364ae2d189df15b6c1bb0b24320",
-		"Symbol": "MEMO-WETH (0.30%)"
-	},
-	{
-		"Id": "0xabebc245a9a47166ecd10933d43817c8ef6fb825",
-		"Symbol": "NEUY-WETH (1.00%)"
-	},
-	{
-		"Id": "0x9f2b55f290fb1dd0c80d685284dbef91ebeea480",
-		"Symbol": "WMATIC-WETH (1.00%)"
-	},
-	{
-		"Id": "0x54b7707579df82b3ca2079b415c4c2ff77463154",
-		"Symbol": "WMATIC-MYST (1.00%)"
-	},
-	{
-		"Id": "0x480cf0726d832935f977683d891455674878d26e",
-		"Symbol": "DAI-SHARD (0.30%)"
-	},
-	{
-		"Id": "0x98060d3ab8b15bf3cd5d8192ee5fd35db468df27",
-		"Symbol": "WMATIC-TBAC (1.00%)"
-	},
-	{
-		"Id": "0x0c61d1e9bbec03ca9d1ca2db0c94fa08ac91ad5a",
-		"Symbol": "WBTC-LINK (0.30%)"
-	},
-	{
-		"Id": "0x7f9121b4f4e040fd066e9dc5c250cf9b4338d5bc",
-		"Symbol": "WMATIC-UNI (0.30%)"
-	},
-	{
-		"Id": "0xab7e0439aa833e7429c21261d573e14ca86af189",
-		"Symbol": "MOVIE-USDT (0.30%)"
-	},
-	{
-		"Id": "0xabd95b0a93e2fc462d8e38d2966157cb503f1252",
-		"Symbol": "WMATIC-aMATICc (0.01%)"
-	},
-	{
-		"Id": "0xda908c0bf14ad0b61ea5ebe671ac59b2ce091cbf",
-		"Symbol": "WETH-LDO (0.30%)"
-	},
-	{
-		"Id": "0x171dabe5b6c39f09a9f36bb760c83decc752cdc7",
-		"Symbol": "SPACE-USDC (1.00%)"
-	},
-	{
-		"Id": "0x6bad0f9a89ca403bb91d253d385cec1a2b6eca97",
-		"Symbol": "WETH-DAI (0.30%)"
+		"Id": "0x50ac505af93eff6a650531ab001206cfa213bb85",
+		"Symbol": "USDC-EUROe (0.05%)"
 	},
 	{
 		"Id": "0x5ce5c251d66e31e603d4c98c020c5df87c3146be",
 		"Symbol": "WMATIC-NEUY (1.00%)"
 	},
 	{
-		"Id": "0x6a990cbb01df842b00ff34c2b3126b76538cd872",
-		"Symbol": "PAXG-WETH (0.30%)"
+		"Id": "0x4f654de6485e8ab706806147f91c79e28def1ed3",
+		"Symbol": "WMATIC-GoC (0.30%)"
 	},
 	{
-		"Id": "0xb68606a75b117906e06caa0755896ad2b3dd0272",
-		"Symbol": "WMATIC-TSUBASAUT (0.30%)"
+		"Id": "0x7d4324293304797cb662c6ea1b904b6af2b485f5",
+		"Symbol": "EURe-USDC (0.30%)"
 	},
 	{
-		"Id": "0xd051b9500a6e1642c1013e487954dc1fb9f21488",
-		"Symbol": "USDC-COVO (0.30%)"
-	},
-	{
-		"Id": "0xeef1a9507b3d505f0062f2be9453981255b503c8",
-		"Symbol": "WBTC-USDC (0.05%)"
-	},
-	{
-		"Id": "0xa708d430656aa379b6b0b1d570be8ae1095530e5",
-		"Symbol": "MOM-USDT (0.30%)"
-	},
-	{
-		"Id": "0x97ffb2574257280e0fb2fa522345f0e81faae711",
-		"Symbol": "WMATIC-mXEN (1.00%)"
-	},
-	{
-		"Id": "0x61f7d1f537e959d62265a76bf1ac40eb3e338de7",
-		"Symbol": "ICHI-WBTC (0.30%)"
-	},
-	{
-		"Id": "0x6932db5f3d7c24d4f7f39e1a84d4dd1baa996e9d",
-		"Symbol": "USDC-GLORY (1.00%)"
-	},
-	{
-		"Id": "0x4d05f2a005e6f36633778416764e82d1d12e7fbb",
-		"Symbol": "WMATIC-CRV (0.30%)"
-	},
-	{
-		"Id": "0xad2360b59492bacef86d90bcc931dc3835540a76",
-		"Symbol": "WETH-NFTI (1.00%)"
-	},
-	{
-		"Id": "0x75f2a4c87f1e8509ea03f967090d1a18a9414172",
-		"Symbol": "WETH-EUROe (0.30%)"
-	},
-	{
-		"Id": "0x450918694c49df24092dba12d0b58b7a44ebf07b",
-		"Symbol": "USDC-RNDR (1.00%)"
-	},
-	{
-		"Id": "0x6065e615a101cad51c990adbb841b01a9509d919",
-		"Symbol": "WMATIC-stMATIC (0.05%)"
-	},
-	{
-		"Id": "0x57946aa7e94ce4eae0af7cf5852022f749642bbd",
-		"Symbol": "WBTC-xWBTC (0.05%)"
-	},
-	{
-		"Id": "0x9a72fc3fb9e99087d2eae500355e7902c763f9b3",
-		"Symbol": "WMATIC-USDT (1.00%)"
-	},
-	{
-		"Id": "0xe30e4dfdbb10949c27501922f845e20cfa579f09",
-		"Symbol": "WETH-INST (1.00%)"
+		"Id": "0xd64fb39a5681908ad488b487d65f5d8479cb235c",
+		"Symbol": "GLM-WETH (1.00%)"
 	},
 	{
 		"Id": "0x399c01cd004866c0f3280892bac9aab8eb0805ca",
 		"Symbol": "WMATIC-SHIB (1.00%)"
 	},
 	{
-		"Id": "0x47726fe42eabe519437336ce5ddaf4901951dd6a",
-		"Symbol": "USDC-CBY (1.00%)"
+		"Id": "0x6e81a3b1538c98a5df22d417d388544be5082082",
+		"Symbol": "WETH-JERO (0.30%)"
 	},
 	{
-		"Id": "0xf339b93b1d05631d9031d17b6de83b6ca7368ff5",
-		"Symbol": "USDT-LDO (0.30%)"
+		"Id": "0x3ff3ea945a67a13aff115089a6547dd9e9a44cf6",
+		"Symbol": "EURe-USDT (0.30%)"
 	},
 	{
-		"Id": "0xf836be0a6b677404b7eba56339169fc77e82d45f",
-		"Symbol": "USDC-NEX (0.30%)"
+		"Id": "0x08b446353ddb5a1695774bd547703879ff253aea",
+		"Symbol": "USDC-KOLO (0.30%)"
 	},
 	{
-		"Id": "0x6d61f4a857700d51bfc6ad71d3596e3c8f3191df",
-		"Symbol": "WBTC-BTCpx (0.30%)"
+		"Id": "0x24555b1e26407b8b56621da41f175c5e2b80f1b8",
+		"Symbol": "USDC-USDT (0.30%)"
 	},
 	{
-		"Id": "0x9da4dee26ab002521f0cb7ac73dcb91c6e1f2f1c",
-		"Symbol": "EP-WETH (0.30%)"
+		"Id": "0x47afe6797053236587219aec33c2bec1295e8183",
+		"Symbol": "WMATIC-GNS (1.00%)"
 	},
 	{
-		"Id": "0xba0216254163b57af68b7161cf824dbadcad61df",
-		"Symbol": "DAI-GNS (1.00%)"
+		"Id": "0x11ff14f2a27e4fac4c6f174cf679c3e1cdc99ba7",
+		"Symbol": "USDC-jEUR (0.30%)"
 	},
 	{
-		"Id": "0x7814d9a723844ec8a62af3c28ff9dd7c895c1f24",
-		"Symbol": "WETH-GET (1.00%)"
+		"Id": "0x9a72fc3fb9e99087d2eae500355e7902c763f9b3",
+		"Symbol": "WMATIC-USDT (1.00%)"
 	},
 	{
-		"Id": "0x39baac62266af129f24104bc8b1800350563edb9",
-		"Symbol": "WETH-WEB3 (0.30%)"
+		"Id": "0x61f7d1f537e959d62265a76bf1ac40eb3e338de7",
+		"Symbol": "ICHI-WBTC (0.30%)"
 	},
 	{
-		"Id": "0x8f63a17d646e5eb6d008643187651b4cccc9c6d3",
-		"Symbol": "UNIM-WETH (1.00%)"
+		"Id": "0xbeb89416fe362d975fe98099bc463d475ef4cec4",
+		"Symbol": "WMATIC-OVR (1.00%)"
 	},
 	{
-		"Id": "0xa846934be7302304f2a8e5b92b576a3cfe655002",
-		"Symbol": "USDC-ALI (1.00%)"
+		"Id": "0x3fa147d6309abeb5c1316f7d8a7d8bd023e0cd80",
+		"Symbol": "USDC-agEUR (0.01%)"
 	},
 	{
-		"Id": "0xfc704de88db4858419d5d0af080486a95343ba15",
-		"Symbol": "Runy-USDT (0.01%)"
+		"Id": "0x78a750ca5f8dd1ef1c87e29e8a267ff4c8d12b38",
+		"Symbol": "USDT-RIA (0.30%)"
 	},
 	{
-		"Id": "0xea8a6f1e5d53c89a00718b7ecdcef70592a4b3f2",
-		"Symbol": "CRV-USDC (0.30%)"
+		"Id": "0xdb11b39d8acdc877c58392e996a4a88424483705",
+		"Symbol": "USDC-UNIM (1.00%)"
 	},
 	{
-		"Id": "0x7e02ae3f794ebade542c92973eb1c46d7e2e935d",
-		"Symbol": "ICHI-USDC (0.01%)"
+		"Id": "0x635fd65c546e66f73b7a760307ad884916f4c204",
+		"Symbol": "USDC-SWAP (1.00%)"
 	},
 	{
-		"Id": "0x0dab5aedaf25201cce638b9d617d4b8c23d29b8d",
-		"Symbol": "USDC-AMKT (0.30%)"
-	},
-	{
-		"Id": "0xed978fe1236300500dadf25e15d30494ffef3c80",
-		"Symbol": "WMATIC-ASTRAFER (0.30%)"
-	},
-	{
-		"Id": "0x642f28a89fa9d0fa30e664f71804bfdd7341d21f",
-		"Symbol": "WMATIC-WBTC (0.30%)"
-	},
-	{
-		"Id": "0xfe343675878100b344802a6763fd373fdeed07a4",
-		"Symbol": "WBTC-WETH (0.30%)"
-	},
-	{
-		"Id": "0x2c9706d421ddd566fd487628592b2451898eb77f",
-		"Symbol": "USDC-BUSD (0.05%)"
-	},
-	{
-		"Id": "0x6f549f02a991885331aa0843e62b574a4db52218",
-		"Symbol": "aMATICc-ANKR (0.30%)"
-	},
-	{
-		"Id": "0xbbb535c78b899219fdda6fd474157d08e220d6d5",
-		"Symbol": "USDC-IDRT (0.05%)"
-	},
-	{
-		"Id": "0xfe530931da161232ec76a7c3bea7d36cf3811a0d",
-		"Symbol": "WMATIC-DAI (0.30%)"
-	},
-	{
-		"Id": "0x7f567ce133b0b69458fc318af06eee27642865be",
-		"Symbol": "USDC-miMATIC (0.05%)"
-	},
-	{
-		"Id": "0x499277a14d1edb5583dd070a447deda19e7abf85",
-		"Symbol": "ICHI-USDC (1.00%)"
-	},
-	{
-		"Id": "0x1974be910783308c92419b2328ca951c6e8605a5",
-		"Symbol": "WETH-WETH (0.30%)"
-	},
-	{
-		"Id": "0xe98ad3887bfd723dccf2992c9b2e36247f92a7df",
-		"Symbol": "WBTC-AMKT (0.30%)"
+		"Id": "0x2b929337ca83f8cad853cba054f135303cb6793b",
+		"Symbol": "MUF-USDT (0.01%)"
 	},
 	{
 		"Id": "0x9159a880b930aced1080ed4742818362663c8d46",
 		"Symbol": "USDC-CHAMP (1.00%)"
 	},
 	{
-		"Id": "0xbd934a7778771a7e2d9bf80596002a214d8c9304",
-		"Symbol": "USDC-WETH (1.00%)"
+		"Id": "0x3b12801631cf018c2addbc7dbb5e7e75e055f035",
+		"Symbol": "WETH-SAND (1.00%)"
 	},
 	{
-		"Id": "0xefa98fdf168f372e5e9e9b910fcdfd65856f3986",
-		"Symbol": "WMATIC-GNS (0.30%)"
+		"Id": "0x59db5ea66958b19641b6891fc373b44b567ea15c",
+		"Symbol": "WMATIC-stMATIC (0.01%)"
 	},
 	{
-		"Id": "0x362d0401ed74db25219b6d02ac1791cfe3542d68",
-		"Symbol": "TRADE-USDT (1.00%)"
+		"Id": "0xba0216254163b57af68b7161cf824dbadcad61df",
+		"Symbol": "DAI-GNS (1.00%)"
 	},
 	{
-		"Id": "0x6fc7f7959d57285a03bf7adab56c8aa951145b03",
-		"Symbol": "SNX-WETH (0.30%)"
+		"Id": "0x6488adfdbb85ce0302faa6ac72c8693eba81df83",
+		"Symbol": "USDC-TXAU (0.30%)"
 	},
 	{
-		"Id": "0x355a6fe962a8192726515308cec714f9169fa4ba",
-		"Symbol": "WMATIC-ROE (1.00%)"
-	},
-	{
-		"Id": "0x9913a93c082fdc69f9e7d146b0e4ce9070d5a104",
-		"Symbol": "DOM-USDC (0.30%)"
-	},
-	{
-		"Id": "0xe2a5d8dd1309e581d966540a90e0e476daa47aba",
-		"Symbol": "VALUES-DAI (0.30%)"
-	},
-	{
-		"Id": "0x3cc6f5d3cbe52ecf15ccb43d0832ad4f6ef132cf",
-		"Symbol": "USDC-wtPOKT (1.00%)"
-	},
-	{
-		"Id": "0x4fe1269a585b141f11c3e144158f9f8823c7c0e7",
-		"Symbol": "WETH-BAL (0.30%)"
-	},
-	{
-		"Id": "0x941061770214613ba0ca3db9a700c39587bb89b6",
-		"Symbol": "WMATIC-PYR (1.00%)"
-	},
-	{
-		"Id": "0x3a1ea4bb016aea51c88eb768b6a4557c48b6cc18",
-		"Symbol": "WMATIC-RBW (1.00%)"
-	},
-	{
-		"Id": "0x82ee340cfce75dd11efbd90ee4f5d868a5a7192a",
-		"Symbol": "USDC-EURS (0.05%)"
-	},
-	{
-		"Id": "0xbeaf7156ba07c3df8fac42e90188c5a752470db7",
-		"Symbol": "USDC-FRAX (0.05%)"
-	},
-	{
-		"Id": "0xf560128c3306ca4f3bd42f4c101dd76759bbb7ac",
-		"Symbol": "USDC-BRZ (1.00%)"
-	},
-	{
-		"Id": "0xb2f8ba544e4874d4e0f817359d0f4bcff209b87e",
-		"Symbol": "USDC-XSGD (0.05%)"
-	},
-	{
-		"Id": "0x039de30e4901793293a155dc3bcddc1b66fb5707",
-		"Symbol": "CYBR-USDT (0.30%)"
+		"Id": "0xbb98b3d2b18aef63a3178023a920971cf5f29be4",
+		"Symbol": "WETH-USDT (0.05%)"
 	},
 	{
 		"Id": "0x7b3ce2c1df692296470afd159d42332797758563",
 		"Symbol": "XIDR-WETH (0.30%)"
 	},
 	{
-		"Id": "0xe7f8e0281d9c0e11bb396cd105ddf58555b737d2",
-		"Symbol": "WMATIC-HEX (1.00%)"
+		"Id": "0x57946aa7e94ce4eae0af7cf5852022f749642bbd",
+		"Symbol": "WBTC-xWBTC (0.05%)"
 	},
 	{
-		"Id": "0x318c82959fe9d55e8abcf8caaa100ec4a263b36d",
-		"Symbol": "WMATIC-BAL (1.00%)"
+		"Id": "0x0581ef32b9393c5c282517282853267eed69621e",
+		"Symbol": "USDC-WRLD (1.00%)"
 	},
 	{
-		"Id": "0x5884ddb0bb109c02150242edf00d0737d78ed61d",
-		"Symbol": "DAI-miMATIC (0.01%)"
+		"Id": "0xa1cfb393607d1a6888d273b762832ed14c8b56b1",
+		"Symbol": "WBTC-USDT (0.05%)"
 	},
 	{
-		"Id": "0xc50b955731d1c9e7271323fd3cc86d7471431690",
-		"Symbol": "USDC-NEX (1.00%)"
+		"Id": "0x480cf0726d832935f977683d891455674878d26e",
+		"Symbol": "DAI-SHARD (0.30%)"
+	},
+	{
+		"Id": "0x0e44ceb592acfc5d3f09d996302eb4c499ff8c10",
+		"Symbol": "USDC-WETH (0.30%)"
+	},
+	{
+		"Id": "0x1024e71e70c7c26f9f65d56587bb43ecad1491c4",
+		"Symbol": "WMATIC-IOTX (0.30%)"
+	},
+	{
+		"Id": "0xc9d0cae8343a2231b1647ab00e639eabdc766147",
+		"Symbol": "USDC-EURS (0.30%)"
+	},
+	{
+		"Id": "0xfe80b0da1b0e8b8d8878f9f9fc34da99c21f084f",
+		"Symbol": "HDOGE-ODOGE (1.00%)"
+	},
+	{
+		"Id": "0xaf948ca24669f5ca9f5b6f90d9f2cef12f4a0d20",
+		"Symbol": "WMATIC-CIOTX (0.30%)"
+	},
+	{
+		"Id": "0xefa98fdf168f372e5e9e9b910fcdfd65856f3986",
+		"Symbol": "WMATIC-GNS (0.30%)"
+	},
+	{
+		"Id": "0xa846934be7302304f2a8e5b92b576a3cfe655002",
+		"Symbol": "USDC-ALI (1.00%)"
+	},
+	{
+		"Id": "0x74d3c85df4dbd03c7c12f7649faa6457610e7604",
+		"Symbol": "USDC-UNI (0.30%)"
+	},
+	{
+		"Id": "0x9bed7769930e8ef114d9b74eff283181fcb7d815",
+		"Symbol": "USDT-CXO (0.30%)"
+	},
+	{
+		"Id": "0xfa22d298e3b0bc1752e5ef2849cec1149d596674",
+		"Symbol": "USDC-PAR (0.05%)"
+	},
+	{
+		"Id": "0x6932db5f3d7c24d4f7f39e1a84d4dd1baa996e9d",
+		"Symbol": "USDC-GLORY (1.00%)"
+	},
+	{
+		"Id": "0xfe343675878100b344802a6763fd373fdeed07a4",
+		"Symbol": "WBTC-WETH (0.30%)"
+	},
+	{
+		"Id": "0xf9e9526e55a0e1fac1813b2fe88bc9b30eea04f9",
+		"Symbol": "HEX-USDC (1.00%)"
+	},
+	{
+		"Id": "0x6c14fa1b23a245efb97cbad357ca3948052d56df",
+		"Symbol": "WETH-FBX (0.30%)"
+	},
+	{
+		"Id": "0x017e2b71e70537c95ab5a58aecb793323ab0b154",
+		"Symbol": "WETH-WRLD (1.00%)"
+	},
+	{
+		"Id": "0x3a1ea4bb016aea51c88eb768b6a4557c48b6cc18",
+		"Symbol": "WMATIC-RBW (1.00%)"
+	},
+	{
+		"Id": "0x88d6391e22125d8ed820b9ecc03c6e44fb87232a",
+		"Symbol": "POOL-WETH (0.30%)"
+	},
+	{
+		"Id": "0x254aa3a898071d6a2da0db11da73b02b4646078f",
+		"Symbol": "DAI-USDT (0.01%)"
+	},
+	{
+		"Id": "0x2e3f22e9a1c2470b2e293351f48c99e1fd788f32",
+		"Symbol": "USDC-GET (1.00%)"
+	},
+	{
+		"Id": "0x97dce22142d766199aa605181c505be3e0d05d9f",
+		"Symbol": "CENTUS-USDT (0.30%)"
+	},
+	{
+		"Id": "0x41e64a5bc929fa8e6a9c8d7e3b81a13b21ff3045",
+		"Symbol": "WMATIC-DIMO (1.00%)"
+	},
+	{
+		"Id": "0xd67d3f77ad7acab1a75863b094176015df30cd8c",
+		"Symbol": "$ZKP-USDT (0.30%)"
+	},
+	{
+		"Id": "0x3d0acd52ee4a9271a0ffe75f9b91049152bac64b",
+		"Symbol": "USDC-LDO (0.30%)"
+	},
+	{
+		"Id": "0x50eaedb835021e4a108b7290636d62e9765cc6d7",
+		"Symbol": "WBTC-WETH (0.05%)"
 	},
 	{
 		"Id": "0xed5b90d873965fccf063fb0d1b86dc1880306ce4",
 		"Symbol": "USDT-ORARE (1.00%)"
+	},
+	{
+		"Id": "0x36bdec62bea45b9356b4c74d6636b2c3da60e870",
+		"Symbol": "KRED-JED (1.00%)"
+	},
+	{
+		"Id": "0x6feae21e16097faa70afbb12872bdba3c85f4d9f",
+		"Symbol": "TBAC-USDT (1.00%)"
+	},
+	{
+		"Id": "0x0312692e9cadd3ddaace2e112a4e36397bd2f18a",
+		"Symbol": "SUSHI-WETH (0.30%)"
+	},
+	{
+		"Id": "0x8f265255b6c9621c7e393dd218cfd658459379a6",
+		"Symbol": "RT-USDT (0.30%)"
+	},
+	{
+		"Id": "0x30fe5e402139925634430eb88e9c209e4a2d6dec",
+		"Symbol": "USDC-PYR (1.00%)"
+	},
+	{
+		"Id": "0x6fc7f7959d57285a03bf7adab56c8aa951145b03",
+		"Symbol": "SNX-WETH (0.30%)"
+	},
+	{
+		"Id": "0x1f6082db7c8f4b199e17090cd5c8831a1dad1997",
+		"Symbol": "USDC-XSGD (0.05%)"
+	},
+	{
+		"Id": "0x6caf88828a320d3aa2e71392a68d1716076507e8",
+		"Symbol": "WMATIC-EBOX (0.30%)"
+	},
+	{
+		"Id": "0xda908c0bf14ad0b61ea5ebe671ac59b2ce091cbf",
+		"Symbol": "WETH-LDO (0.30%)"
+	},
+	{
+		"Id": "0x941061770214613ba0ca3db9a700c39587bb89b6",
+		"Symbol": "WMATIC-PYR (1.00%)"
+	},
+	{
+		"Id": "0x6bad0f9a89ca403bb91d253d385cec1a2b6eca97",
+		"Symbol": "WETH-DAI (0.30%)"
+	},
+	{
+		"Id": "0x60b009517581b6ddb3f69bce4e558a509d0d4aa2",
+		"Symbol": "UCC-DAI (0.30%)"
+	},
+	{
+		"Id": "0x9b08288c3be4f62bbf8d1c20ac9c5e6f9467d8b7",
+		"Symbol": "WMATIC-USDT (0.05%)"
+	},
+	{
+		"Id": "0x98b9162161164de1ed182a0dfa08f5fbf0f733ca",
+		"Symbol": "WMATIC-LINK (0.30%)"
+	},
+	{
+		"Id": "0xab4b63bd6c214ce8409fa1b31afa50d4e17597f9",
+		"Symbol": "BOB-USDT (0.01%)"
+	},
+	{
+		"Id": "0xa708d430656aa379b6b0b1d570be8ae1095530e5",
+		"Symbol": "MOM-USDT (0.30%)"
+	},
+	{
+		"Id": "0x98060d3ab8b15bf3cd5d8192ee5fd35db468df27",
+		"Symbol": "WMATIC-TBAC (1.00%)"
+	},
+	{
+		"Id": "0x4fe1269a585b141f11c3e144158f9f8823c7c0e7",
+		"Symbol": "WETH-BAL (0.30%)"
+	},
+	{
+		"Id": "0x5f616541c801e2b9556027076b730e0197974f6a",
+		"Symbol": "CIAO-DAI (0.30%)"
+	},
+	{
+		"Id": "0x0a63d3910ffc1529190e80e10855c4216407cc45",
+		"Symbol": "USDC-BOB (0.01%)"
+	},
+	{
+		"Id": "0x3eb82a25f844999339a76ac3c432a3b709687e6d",
+		"Symbol": "WBTC-indexBTC (0.30%)"
+	},
+	{
+		"Id": "0xa6821267ed08bc1bf3f7bc999275e69198026215",
+		"Symbol": "eLunr-USDT (1.00%)"
 	},
 	{
 		"Id": "0xd866fac7db79994d08c0ca2221fee08935595b4b",
@@ -420,424 +320,480 @@
 		"Symbol": "PYM-USDT (1.00%)"
 	},
 	{
-		"Id": "0x845bd6d127d5cfe5fa515fe5f31ffa30da4ff9ac",
-		"Symbol": "WMATIC-LIME (0.30%)"
+		"Id": "0x5f37376e9748eabd0a43f7c50f43a858f4e12eab",
+		"Symbol": "ZIZY-USDT (0.30%)"
 	},
 	{
-		"Id": "0xf7abb7dee889da4300a82c26f8c0c725c64bd493",
-		"Symbol": "USDC-XMT (1.00%)"
+		"Id": "0x9f2b55f290fb1dd0c80d685284dbef91ebeea480",
+		"Symbol": "WMATIC-WETH (1.00%)"
 	},
 	{
-		"Id": "0x156917664027312906a3e977e7f316a29934a37d",
-		"Symbol": "USDC-RBW (1.00%)"
+		"Id": "0xe30e4dfdbb10949c27501922f845e20cfa579f09",
+		"Symbol": "WETH-INST (1.00%)"
 	},
 	{
-		"Id": "0x6caf88828a320d3aa2e71392a68d1716076507e8",
-		"Symbol": "WMATIC-EBOX (0.30%)"
-	},
-	{
-		"Id": "0xaf948ca24669f5ca9f5b6f90d9f2cef12f4a0d20",
-		"Symbol": "WMATIC-CIOTX (0.30%)"
-	},
-	{
-		"Id": "0x45dda9cb7c25131df268515131f647d726f50608",
-		"Symbol": "USDC-WETH (0.05%)"
-	},
-	{
-		"Id": "0x2fccddd1c526d1e76c09998712a55f0995034e06",
-		"Symbol": "WMATIC-MPH (0.30%)"
-	},
-	{
-		"Id": "0xc8beca5d0ee2a80f19fbf67e45942ad257923d0f",
-		"Symbol": "USDC-CGG (1.00%)"
-	},
-	{
-		"Id": "0x41e64a5bc929fa8e6a9c8d7e3b81a13b21ff3045",
-		"Symbol": "WMATIC-DIMO (1.00%)"
-	},
-	{
-		"Id": "0x31c832486573e25fe3c4f03d9c2c28c4a48e9d6f",
-		"Symbol": "WMATIC-GRT (0.30%)"
-	},
-	{
-		"Id": "0x3ff06849fc887cc3ff31460bb37e505dbf860172",
-		"Symbol": "USDC-CXO (0.30%)"
-	},
-	{
-		"Id": "0x190be4d73196ac630abeebaaf69fe77211d54dba",
-		"Symbol": "WMATIC-STG (1.00%)"
-	},
-	{
-		"Id": "0xf6baa539f80679bfad22a3a0d34059deed2e4ed6",
-		"Symbol": "WBTC-XSGD (0.30%)"
-	},
-	{
-		"Id": "0x42f0530351471dab7ec968476d19bd36af9ec52d",
-		"Symbol": "DAI-USDT (0.05%)"
-	},
-	{
-		"Id": "0x33016df701b323c33cc027146c6a9e0997b2a923",
-		"Symbol": "WBTC-USDT (0.30%)"
-	},
-	{
-		"Id": "0x4f28eef4dde2bfa0bdb95a7efe586c3654e6cf07",
-		"Symbol": "WBTC-WETH (1.00%)"
-	},
-	{
-		"Id": "0x2aceda63b5e958c45bd27d916ba701bc1dc08f7a",
-		"Symbol": "WETH-AAVE (0.30%)"
-	},
-	{
-		"Id": "0xab4b63bd6c214ce8409fa1b31afa50d4e17597f9",
-		"Symbol": "BOB-USDT (0.01%)"
-	},
-	{
-		"Id": "0x3d0acd52ee4a9271a0ffe75f9b91049152bac64b",
-		"Symbol": "USDC-LDO (0.30%)"
-	},
-	{
-		"Id": "0x292e3eb0b341ba5346bad9de2100b4f33ae68e08",
-		"Symbol": "RETH-WETH (1.00%)"
-	},
-	{
-		"Id": "0x20c45fd0e79b72ea92cf52dab1ce7d1682a5014f",
-		"Symbol": "WMATIC-ODOGE (1.00%)"
-	},
-	{
-		"Id": "0x8e019016e932a356b964e57a16f8b42f9b664b93",
-		"Symbol": "WMATIC-FTXXX (0.30%)"
-	},
-	{
-		"Id": "0xdb11b39d8acdc877c58392e996a4a88424483705",
-		"Symbol": "USDC-UNIM (1.00%)"
-	},
-	{
-		"Id": "0xbeb89416fe362d975fe98099bc463d475ef4cec4",
-		"Symbol": "WMATIC-OVR (1.00%)"
-	},
-	{
-		"Id": "0xa1cfb393607d1a6888d273b762832ed14c8b56b1",
-		"Symbol": "WBTC-USDT (0.05%)"
-	},
-	{
-		"Id": "0x6e81a3b1538c98a5df22d417d388544be5082082",
-		"Symbol": "WETH-JERO (0.30%)"
-	},
-	{
-		"Id": "0x94ab9e4553ffb839431e37cc79ba8905f45bfbea",
-		"Symbol": "USDC-LINK (0.30%)"
-	},
-	{
-		"Id": "0xfb9caae5a5c0ab91f68542124c05d1efbb97d151",
-		"Symbol": "MVX-WETH (1.00%)"
-	},
-	{
-		"Id": "0x3ff3ea945a67a13aff115089a6547dd9e9a44cf6",
-		"Symbol": "EURe-USDT (0.30%)"
-	},
-	{
-		"Id": "0xc9f22ed5d438eda85ecffbf3f4ee8d00da8ea8b3",
-		"Symbol": "USDC-BRZ (0.05%)"
-	},
-	{
-		"Id": "0x0581ef32b9393c5c282517282853267eed69621e",
-		"Symbol": "USDC-WRLD (1.00%)"
-	},
-	{
-		"Id": "0xde4238d4e3280404cd828acf2b66e5639baf57b3",
-		"Symbol": "indexETH-WETH (0.30%)"
-	},
-	{
-		"Id": "0x3ef7f8fa80e622f358283145172143116c61524d",
-		"Symbol": "USDC-DAVOS (0.01%)"
-	},
-	{
-		"Id": "0x5cd1c9488f1ccc197cf75eb340db38d46ae523db",
-		"Symbol": "WMATIC-SNX (0.30%)"
-	},
-	{
-		"Id": "0x46cf692b24c7492faf3f0424326a9f24da1d61ce",
-		"Symbol": "CIOTX-IOTX (0.01%)"
-	},
-	{
-		"Id": "0x59db5ea66958b19641b6891fc373b44b567ea15c",
-		"Symbol": "WMATIC-stMATIC (0.01%)"
-	},
-	{
-		"Id": "0x1aec019d1a0e3a024fef822a5728940c1d12dcbe",
-		"Symbol": "WMATIC-AGIX (1.00%)"
-	},
-	{
-		"Id": "0x1f6082db7c8f4b199e17090cd5c8831a1dad1997",
-		"Symbol": "USDC-XSGD (0.05%)"
-	},
-	{
-		"Id": "0xd8bd45afc16c2b483826c26ca47e2439880c6beb",
-		"Symbol": "GRT-WETH (0.30%)"
-	},
-	{
-		"Id": "0x98b9162161164de1ed182a0dfa08f5fbf0f733ca",
-		"Symbol": "WMATIC-LINK (0.30%)"
-	},
-	{
-		"Id": "0xfc99d1c02d27de07dfe0dcd878cde86ee59c5f6b",
-		"Symbol": "CRV-WETH (0.30%)"
-	},
-	{
-		"Id": "0x6980e5afafec8c9c5f039d0c1a8ccfa6cefb9393",
-		"Symbol": "ICHI-oneBTC (1.00%)"
-	},
-	{
-		"Id": "0xd67d3f77ad7acab1a75863b094176015df30cd8c",
-		"Symbol": "$ZKP-USDT (0.30%)"
-	},
-	{
-		"Id": "0xed37fda14b9e18898f85a14ff7089680750eb044",
-		"Symbol": "CRV-USDC (1.00%)"
-	},
-	{
-		"Id": "0xe6c36eed27c2e8ecb9a233bf12da06c9730b5955",
-		"Symbol": "WMATIC-NAKA (1.00%)"
-	},
-	{
-		"Id": "0x3b60d952db8cc40b709df5587a6a9f76ff036be7",
-		"Symbol": "CRV-WETH (1.00%)"
-	},
-	{
-		"Id": "0x1985638e89304d670129da4f625d97160a3936b8",
-		"Symbol": "IDRT-USDT (0.05%)"
-	},
-	{
-		"Id": "0x632825fbb336940bb503a8cfba608f55ebbfb5af",
-		"Symbol": "WMATIC-KRED (1.00%)"
-	},
-	{
-		"Id": "0x23b82e529679db0c3da56996f6fa89b6323c8302",
-		"Symbol": "WMATIC-CIV (1.00%)"
-	},
-	{
-		"Id": "0x14653ce9f406ba7f35a7ffa43c81fa7ecd99c788",
-		"Symbol": "WETH-MLN (1.00%)"
-	},
-	{
-		"Id": "0x3f5228d0e7d75467366be7de2c31d0d098ba2c23",
-		"Symbol": "USDC-USDT (0.05%)"
-	},
-	{
-		"Id": "0xa6821267ed08bc1bf3f7bc999275e69198026215",
-		"Symbol": "eLunr-USDT (1.00%)"
-	},
-	{
-		"Id": "0x4ccd010148379ea531d6c587cfdd60180196f9b1",
-		"Symbol": "WETH-USDT (0.30%)"
-	},
-	{
-		"Id": "0x659321f40b13c79ad57690869286d7a48c01602f",
-		"Symbol": "PORTX-USDT (0.30%)"
-	},
-	{
-		"Id": "0x2e3f22e9a1c2470b2e293351f48c99e1fd788f32",
-		"Symbol": "USDC-GET (1.00%)"
-	},
-	{
-		"Id": "0x1e5bd2ab4c308396c06c182e1b7e7ba8b2935b83",
-		"Symbol": "WMATIC-RNDR (1.00%)"
-	},
-	{
-		"Id": "0xeac11fb97726ba4f614c89d8a15086d08a2999d2",
-		"Symbol": "WETH-CXO (1.00%)"
-	},
-	{
-		"Id": "0xcb518d14589c27297b476892343950b2af041a4f",
-		"Symbol": "WMATIC-FACTR (0.30%)"
-	},
-	{
-		"Id": "0x357faf5843c7fd7fb4e34fbeabdac16eabe8a5bc",
-		"Symbol": "WETH-UNI (0.30%)"
-	},
-	{
-		"Id": "0x7c169eadb6a1abade56a20724ea6f03648fa1c4d",
-		"Symbol": "WMATIC-SROCKET (0.30%)"
-	},
-	{
-		"Id": "0x3fa147d6309abeb5c1316f7d8a7d8bd023e0cd80",
-		"Symbol": "USDC-agEUR (0.01%)"
-	},
-	{
-		"Id": "0xce5a1d5caff6bbc27ab94e7cd5cd0eaad5f63d43",
-		"Symbol": "WETH-EMON (0.30%)"
-	},
-	{
-		"Id": "0x7de263d0ad6e5d208844e65118c3a02a9a5d56b6",
-		"Symbol": "USDC-miMATIC (0.01%)"
-	},
-	{
-		"Id": "0x24555b1e26407b8b56621da41f175c5e2b80f1b8",
-		"Symbol": "USDC-USDT (0.30%)"
-	},
-	{
-		"Id": "0x847b64f9d3a95e977d157866447a5c0a5dfa0ee5",
-		"Symbol": "WBTC-USDC (0.30%)"
-	},
-	{
-		"Id": "0x67e708986a809acefde16f2417fa5701241e3935",
-		"Symbol": "WMATIC-USDC (1.00%)"
-	},
-	{
-		"Id": "0xefba86413285584582cbeb556e1b89914b67ed02",
-		"Symbol": "fxAEDY-WETH (0.05%)"
-	},
-	{
-		"Id": "0xcade91e001387bf30d408874c04de707185f7f5e",
-		"Symbol": "xWETH-WETH (0.05%)"
-	},
-	{
-		"Id": "0x6488adfdbb85ce0302faa6ac72c8693eba81df83",
-		"Symbol": "USDC-TXAU (0.30%)"
-	},
-	{
-		"Id": "0x86f1d8390222a3691c28938ec7404a1661e618e0",
-		"Symbol": "WMATIC-WETH (0.05%)"
-	},
-	{
-		"Id": "0x7d4324293304797cb662c6ea1b904b6af2b485f5",
-		"Symbol": "EURe-USDC (0.30%)"
-	},
-	{
-		"Id": "0x16e7ca3eaaf7703b9724301e6fd3d4e2918fec59",
-		"Symbol": "CPLE-USDT (0.30%)"
-	},
-	{
-		"Id": "0x635fd65c546e66f73b7a760307ad884916f4c204",
-		"Symbol": "USDC-SWAP (1.00%)"
-	},
-	{
-		"Id": "0x74d3c85df4dbd03c7c12f7649faa6457610e7604",
-		"Symbol": "USDC-UNI (0.30%)"
-	},
-	{
-		"Id": "0xa9077cdb3d13f45b8b9d87c43e11bce0e73d8631",
-		"Symbol": "WMATIC-AAVE (0.30%)"
-	},
-	{
-		"Id": "0x1024e71e70c7c26f9f65d56587bb43ecad1491c4",
-		"Symbol": "WMATIC-IOTX (0.30%)"
+		"Id": "0xfa0c8c0b2f34070356eccfc3aabac173fb02f617",
+		"Symbol": "WMATIC-EURT (0.05%)"
 	},
 	{
 		"Id": "0x33c4f0043e2e988b3c2e9c77e2c670efe709bfe3",
 		"Symbol": "WMATIC-WETH (0.01%)"
 	},
 	{
-		"Id": "0xd64fb39a5681908ad488b487d65f5d8479cb235c",
-		"Symbol": "GLM-WETH (1.00%)"
+		"Id": "0xed978fe1236300500dadf25e15d30494ffef3c80",
+		"Symbol": "WMATIC-ASTRAFER (0.30%)"
 	},
 	{
-		"Id": "0xc21b964af2b0254580d44981d624335f2b7c6fb6",
-		"Symbol": "WETH-USDT (1.00%)"
+		"Id": "0x781067ef296e5c4a4203f81c593274824b7c185d",
+		"Symbol": "WMATIC-USDT (0.30%)"
 	},
 	{
-		"Id": "0x56fcb902bee19a645f9607cd1e1c0737b6358feb",
-		"Symbol": "KASTA-USDC (0.30%)"
+		"Id": "0x8cff4569723d6b5e40d86d9fb0114ea0e24666d2",
+		"Symbol": "MEX-WETH (1.00%)"
 	},
 	{
-		"Id": "0x3e31ab7f37c048fc6574189135d108df80f0ea26",
-		"Symbol": "LINK-WETH (0.30%)"
+		"Id": "0x67e708986a809acefde16f2417fa5701241e3935",
+		"Symbol": "WMATIC-USDC (1.00%)"
 	},
 	{
-		"Id": "0xde92e7fbe021344ba02d9225792d219d3a2ddd58",
-		"Symbol": "WMATIC-SAND (0.30%)"
+		"Id": "0xd4cd374dff2143dd94a873fccf45f9345e7f3240",
+		"Symbol": "xWETH-xWBTC (0.01%)"
+	},
+	{
+		"Id": "0x9b4376ada200e8dce17bbd58cc875f2312c0de97",
+		"Symbol": "USDT-VIS (1.00%)"
+	},
+	{
+		"Id": "0x3ef7f8fa80e622f358283145172143116c61524d",
+		"Symbol": "USDC-DAVOS (0.01%)"
+	},
+	{
+		"Id": "0x357faf5843c7fd7fb4e34fbeabdac16eabe8a5bc",
+		"Symbol": "WETH-UNI (0.30%)"
+	},
+	{
+		"Id": "0xc1dc5605b242a658adfc7d6e693a50aefb49bbae",
+		"Symbol": "USDC-$MECHA (1.00%)"
+	},
+	{
+		"Id": "0xd524ca1e57ff9420031923661a6c108b32f71ced",
+		"Symbol": "USDT-XSGD (0.05%)"
+	},
+	{
+		"Id": "0xabebc245a9a47166ecd10933d43817c8ef6fb825",
+		"Symbol": "NEUY-WETH (1.00%)"
+	},
+	{
+		"Id": "0x286af3968aec55ec3acd463bf59edc7cbc04102e",
+		"Symbol": "USDC-JPYC (0.05%)"
+	},
+	{
+		"Id": "0xf7abb7dee889da4300a82c26f8c0c725c64bd493",
+		"Symbol": "USDC-XMT (1.00%)"
+	},
+	{
+		"Id": "0x42f0530351471dab7ec968476d19bd36af9ec52d",
+		"Symbol": "DAI-USDT (0.05%)"
+	},
+	{
+		"Id": "0x46cf692b24c7492faf3f0424326a9f24da1d61ce",
+		"Symbol": "CIOTX-IOTX (0.01%)"
 	},
 	{
 		"Id": "0xfc469d13542e70f1512569ebf60c1e8fa01b6931",
 		"Symbol": "WETH-GNS (1.00%)"
 	},
 	{
-		"Id": "0xbb98b3d2b18aef63a3178023a920971cf5f29be4",
-		"Symbol": "WETH-USDT (0.05%)"
+		"Id": "0x3f5228d0e7d75467366be7de2c31d0d098ba2c23",
+		"Symbol": "USDC-USDT (0.05%)"
 	},
 	{
-		"Id": "0x4d8262e0f4b2e6e93fdc2e984ec55e12747249fa",
-		"Symbol": "NXTT-WMATIC (1.00%)"
-	},
-	{
-		"Id": "0x50ac505af93eff6a650531ab001206cfa213bb85",
-		"Symbol": "USDC-EUROe (0.05%)"
-	},
-	{
-		"Id": "0x47afe6797053236587219aec33c2bec1295e8183",
-		"Symbol": "WMATIC-GNS (1.00%)"
-	},
-	{
-		"Id": "0xdd386c1b285626770e7f6eff0225ecfb97a2b599",
-		"Symbol": "EURT-USDT (0.05%)"
-	},
-	{
-		"Id": "0x140ae14be4b5e86aa149f76e84953746e0bc04f1",
-		"Symbol": "USDC-NEUY (1.00%)"
-	},
-	{
-		"Id": "0x3f7cd6c7093d5a783128c926200c1fccb1d36b76",
-		"Symbol": "USDC-THX (0.30%)"
-	},
-	{
-		"Id": "0x4f4b7666d46c1d9fd6a1115c22dcb6ba1271da26",
-		"Symbol": "USDC-indexUSDC (0.30%)"
-	},
-	{
-		"Id": "0x36165b14423425228d7ef62b3ffa799d446347c1",
-		"Symbol": "METAL-USDT (0.30%)"
-	},
-	{
-		"Id": "0x8f265255b6c9621c7e393dd218cfd658459379a6",
-		"Symbol": "RT-USDT (0.30%)"
-	},
-	{
-		"Id": "0x613e24ec04fa61a5967cccc90cdc1d9513f73d5a",
-		"Symbol": "CPLE-USDT (1.00%)"
-	},
-	{
-		"Id": "0xd2165e7a36896f3562a7a03bf753765d4870af33",
-		"Symbol": "WMATIC-BONEZ (0.30%)"
-	},
-	{
-		"Id": "0x0312692e9cadd3ddaace2e112a4e36397bd2f18a",
-		"Symbol": "SUSHI-WETH (0.30%)"
-	},
-	{
-		"Id": "0xfe80b0da1b0e8b8d8878f9f9fc34da99c21f084f",
-		"Symbol": "HDOGE-ODOGE (1.00%)"
-	},
-	{
-		"Id": "0x017e2b71e70537c95ab5a58aecb793323ab0b154",
-		"Symbol": "WETH-WRLD (1.00%)"
+		"Id": "0x355a6fe962a8192726515308cec714f9169fa4ba",
+		"Symbol": "WMATIC-ROE (1.00%)"
 	},
 	{
 		"Id": "0x368a838eb3bce83bb4ce43c9da995d81b04cc4be",
 		"Symbol": "USDC-NTVRK (0.30%)"
 	},
 	{
-		"Id": "0xdac8a8e6dbf8c690ec6815e0ff03491b2770255d",
-		"Symbol": "USDC-USDT (0.01%)"
+		"Id": "0xad2360b59492bacef86d90bcc931dc3835540a76",
+		"Symbol": "WETH-NFTI (1.00%)"
 	},
 	{
-		"Id": "0x339d2bb734bbe105b48a2983d504378cded3093b",
-		"Symbol": "oneBTC-USDC (0.05%)"
+		"Id": "0x5645dcb64c059aa11212707fbf4e7f984440a8cf",
+		"Symbol": "USDC-DAI (0.01%)"
 	},
 	{
-		"Id": "0x32aafb1e99200e1937baafdce875ee927db47d99",
-		"Symbol": "WMATIC-NSFW (1.00%)"
+		"Id": "0x5d2a3152ca15d8b8730ec9f9ef64e72122b1f139",
+		"Symbol": "EURe-DAI (0.30%)"
+	},
+	{
+		"Id": "0xf836be0a6b677404b7eba56339169fc77e82d45f",
+		"Symbol": "USDC-NEX (0.30%)"
+	},
+	{
+		"Id": "0x80c5c7d7e94158fd2daac56734889a7cdf8dadfe",
+		"Symbol": "TRADE-USDT (0.05%)"
+	},
+	{
+		"Id": "0x642f28a89fa9d0fa30e664f71804bfdd7341d21f",
+		"Symbol": "WMATIC-WBTC (0.30%)"
+	},
+	{
+		"Id": "0x9f32237ae1a240dff3be9458606b246ee2b199c4",
+		"Symbol": "NXTT-WMATIC (0.30%)"
+	},
+	{
+		"Id": "0xb5a1fd804342cfb679bd8ada75718bc3ec43097e",
+		"Symbol": "WETH-XSGD (0.30%)"
+	},
+	{
+		"Id": "0xd48cb7ad6a0e2137ea81803c63d2863206ce4700",
+		"Symbol": "USDC-DIMO (1.00%)"
+	},
+	{
+		"Id": "0x2aceda63b5e958c45bd27d916ba701bc1dc08f7a",
+		"Symbol": "WETH-AAVE (0.30%)"
+	},
+	{
+		"Id": "0x4ccd010148379ea531d6c587cfdd60180196f9b1",
+		"Symbol": "WETH-USDT (0.30%)"
+	},
+	{
+		"Id": "0x2c9706d421ddd566fd487628592b2451898eb77f",
+		"Symbol": "USDC-BUSD (0.05%)"
+	},
+	{
+		"Id": "0xbbb535c78b899219fdda6fd474157d08e220d6d5",
+		"Symbol": "USDC-IDRT (0.05%)"
+	},
+	{
+		"Id": "0x0dab5aedaf25201cce638b9d617d4b8c23d29b8d",
+		"Symbol": "USDC-AMKT (0.30%)"
+	},
+	{
+		"Id": "0xe6c36eed27c2e8ecb9a233bf12da06c9730b5955",
+		"Symbol": "WMATIC-NAKA (1.00%)"
+	},
+	{
+		"Id": "0x1e5bd2ab4c308396c06c182e1b7e7ba8b2935b83",
+		"Symbol": "WMATIC-RNDR (1.00%)"
+	},
+	{
+		"Id": "0xb87755e95c391a7ee0378d231078162ff0616803",
+		"Symbol": "USDC-USDV (0.05%)"
+	},
+	{
+		"Id": "0x039de30e4901793293a155dc3bcddc1b66fb5707",
+		"Symbol": "CYBR-USDT (0.30%)"
+	},
+	{
+		"Id": "0x4f28eef4dde2bfa0bdb95a7efe586c3654e6cf07",
+		"Symbol": "WBTC-WETH (1.00%)"
+	},
+	{
+		"Id": "0x3b60d952db8cc40b709df5587a6a9f76ff036be7",
+		"Symbol": "CRV-WETH (1.00%)"
+	},
+	{
+		"Id": "0x7399c6dba80b6f6a36a8f6f20053a1a9a615dab9",
+		"Symbol": "USDC-TRC (1.00%)"
+	},
+	{
+		"Id": "0xb093eefe1b5916fb34a71a7dd4b06ab754b7f503",
+		"Symbol": "USDC-VVT (1.00%)"
+	},
+	{
+		"Id": "0xbc44b606fc6a7b700b1802f8a82eb11aba9100ed",
+		"Symbol": "WMATIC-ARENA (1.00%)"
+	},
+	{
+		"Id": "0xdd386c1b285626770e7f6eff0225ecfb97a2b599",
+		"Symbol": "EURT-USDT (0.05%)"
+	},
+	{
+		"Id": "0xf339b93b1d05631d9031d17b6de83b6ca7368ff5",
+		"Symbol": "USDT-LDO (0.30%)"
+	},
+	{
+		"Id": "0xdc8a5c5975726235402cfac9b28268eeccd42813",
+		"Symbol": "TNGBL-DAI (0.30%)"
+	},
+	{
+		"Id": "0x450918694c49df24092dba12d0b58b7a44ebf07b",
+		"Symbol": "USDC-RNDR (1.00%)"
+	},
+	{
+		"Id": "0x27b63daaa4d48e06c8401e441d568d6ba16d9b63",
+		"Symbol": "USDC-FLY (0.05%)"
+	},
+	{
+		"Id": "0x97ffb2574257280e0fb2fa522345f0e81faae711",
+		"Symbol": "WMATIC-mXEN (1.00%)"
+	},
+	{
+		"Id": "0x1974be910783308c92419b2328ca951c6e8605a5",
+		"Symbol": "WETH-WETH (0.30%)"
+	},
+	{
+		"Id": "0x632825fbb336940bb503a8cfba608f55ebbfb5af",
+		"Symbol": "WMATIC-KRED (1.00%)"
+	},
+	{
+		"Id": "0x318c82959fe9d55e8abcf8caaa100ec4a263b36d",
+		"Symbol": "WMATIC-BAL (1.00%)"
+	},
+	{
+		"Id": "0xde92e7fbe021344ba02d9225792d219d3a2ddd58",
+		"Symbol": "WMATIC-SAND (0.30%)"
+	},
+	{
+		"Id": "0xe2a5d8dd1309e581d966540a90e0e476daa47aba",
+		"Symbol": "VALUES-DAI (0.30%)"
+	},
+	{
+		"Id": "0x9520dbd4c8803f5c6850742120b471cda0aac954",
+		"Symbol": "WMATIC-PODO (0.30%)"
+	},
+	{
+		"Id": "0x4d05f2a005e6f36633778416764e82d1d12e7fbb",
+		"Symbol": "WMATIC-CRV (0.30%)"
+	},
+	{
+		"Id": "0xeef1a9507b3d505f0062f2be9453981255b503c8",
+		"Symbol": "WBTC-USDC (0.05%)"
+	},
+	{
+		"Id": "0x7f567ce133b0b69458fc318af06eee27642865be",
+		"Symbol": "USDC-miMATIC (0.05%)"
+	},
+	{
+		"Id": "0x56268057e362d6ff22189ecf36c5cfacd604e654",
+		"Symbol": "WMATIC-EQL (1.00%)"
+	},
+	{
+		"Id": "0x7ace268663da2cc4fdb807f24cff413237875f58",
+		"Symbol": "WMATIC-UNLOCK (0.30%)"
+	},
+	{
+		"Id": "0x9913a93c082fdc69f9e7d146b0e4ce9070d5a104",
+		"Symbol": "DOM-USDC (0.30%)"
+	},
+	{
+		"Id": "0xfb9caae5a5c0ab91f68542124c05d1efbb97d151",
+		"Symbol": "MVX-WETH (1.00%)"
+	},
+	{
+		"Id": "0x3a5329ee48a06671ad1bf295b8a233ee9b9b975e",
+		"Symbol": "WETH-BOB (0.05%)"
+	},
+	{
+		"Id": "0x0732d5577346b60cd03e974d95e84345e5642fed",
+		"Symbol": "WMATIC-MVX (1.00%)"
+	},
+	{
+		"Id": "0xbeaf7156ba07c3df8fac42e90188c5a752470db7",
+		"Symbol": "USDC-FRAX (0.05%)"
+	},
+	{
+		"Id": "0x7c8d4442a9f36bcb255c950fa8490d1292c50346",
+		"Symbol": "USDT-BIM (0.30%)"
+	},
+	{
+		"Id": "0xce4ecae580f963cdd371011733fa5d0f9cca1f50",
+		"Symbol": "XED-WETH (1.00%)"
+	},
+	{
+		"Id": "0x7c169eadb6a1abade56a20724ea6f03648fa1c4d",
+		"Symbol": "WMATIC-SROCKET (0.30%)"
+	},
+	{
+		"Id": "0xc4734e5d879102b21c9356676f11cbceaf08477c",
+		"Symbol": "WETH-NFTI (0.30%)"
+	},
+	{
+		"Id": "0xce5a1d5caff6bbc27ab94e7cd5cd0eaad5f63d43",
+		"Symbol": "WETH-EMON (0.30%)"
 	},
 	{
 		"Id": "0xb485c3048911225de1ad8b446432aed0fbdef211",
 		"Symbol": "USDC-fxADDY (0.01%)"
 	},
 	{
-		"Id": "0x673fc1c6f5eec81baf3dc14e1049ff020b967b83",
-		"Symbol": "METADEX-USDC (0.30%)"
+		"Id": "0x1985638e89304d670129da4f625d97160a3936b8",
+		"Symbol": "IDRT-USDT (0.05%)"
 	},
 	{
-		"Id": "0xd48cb7ad6a0e2137ea81803c63d2863206ce4700",
-		"Symbol": "USDC-DIMO (1.00%)"
+		"Id": "0x2fccddd1c526d1e76c09998712a55f0995034e06",
+		"Symbol": "WMATIC-MPH (0.30%)"
+	},
+	{
+		"Id": "0x32aafb1e99200e1937baafdce875ee927db47d99",
+		"Symbol": "WMATIC-NSFW (1.00%)"
+	},
+	{
+		"Id": "0x0c61d1e9bbec03ca9d1ca2db0c94fa08ac91ad5a",
+		"Symbol": "WBTC-LINK (0.30%)"
+	},
+	{
+		"Id": "0x26770cc2c612e5c97eb70a6531fa9d5098ef74ab",
+		"Symbol": "USDC-stMATIC (0.30%)"
+	},
+	{
+		"Id": "0xb68606a75b117906e06caa0755896ad2b3dd0272",
+		"Symbol": "WMATIC-TSUBASAUT (0.30%)"
+	},
+	{
+		"Id": "0x3e31ab7f37c048fc6574189135d108df80f0ea26",
+		"Symbol": "LINK-WETH (0.30%)"
+	},
+	{
+		"Id": "0x23b82e529679db0c3da56996f6fa89b6323c8302",
+		"Symbol": "WMATIC-CIV (1.00%)"
+	},
+	{
+		"Id": "0x54b7707579df82b3ca2079b415c4c2ff77463154",
+		"Symbol": "WMATIC-MYST (1.00%)"
+	},
+	{
+		"Id": "0xcca15d926b707119f6b74b559df3aaecc14f2d88",
+		"Symbol": "USDC-PAXG (0.30%)"
+	},
+	{
+		"Id": "0x7de263d0ad6e5d208844e65118c3a02a9a5d56b6",
+		"Symbol": "USDC-miMATIC (0.01%)"
+	},
+	{
+		"Id": "0xa374094527e1673a86de625aa59517c5de346d32",
+		"Symbol": "WMATIC-USDC (0.05%)"
+	},
+	{
+		"Id": "0xabd95b0a93e2fc462d8e38d2966157cb503f1252",
+		"Symbol": "WMATIC-aMATICc (0.01%)"
+	},
+	{
+		"Id": "0x62defa07a6c1c90f660be65405143a4935c021e6",
+		"Symbol": "WETH-DHT (0.30%)"
+	},
+	{
+		"Id": "0x8f63a17d646e5eb6d008643187651b4cccc9c6d3",
+		"Symbol": "UNIM-WETH (1.00%)"
+	},
+	{
+		"Id": "0x167384319b41f7094e62f7506409eb38079abff8",
+		"Symbol": "WMATIC-WETH (0.30%)"
+	},
+	{
+		"Id": "0x845bd6d127d5cfe5fa515fe5f31ffa30da4ff9ac",
+		"Symbol": "WMATIC-LIME (0.30%)"
+	},
+	{
+		"Id": "0x5f69c2ec01c22843f8273838d570243fd1963014",
+		"Symbol": "USDC-DAI (0.05%)"
+	},
+	{
+		"Id": "0xc8beca5d0ee2a80f19fbf67e45942ad257923d0f",
+		"Symbol": "USDC-CGG (1.00%)"
+	},
+	{
+		"Id": "0x94ab9e4553ffb839431e37cc79ba8905f45bfbea",
+		"Symbol": "USDC-LINK (0.30%)"
+	},
+	{
+		"Id": "0x5884ddb0bb109c02150242edf00d0737d78ed61d",
+		"Symbol": "DAI-miMATIC (0.01%)"
+	},
+	{
+		"Id": "0xcb518d14589c27297b476892343950b2af041a4f",
+		"Symbol": "WMATIC-FACTR (0.30%)"
+	},
+	{
+		"Id": "0x8e019016e932a356b964e57a16f8b42f9b664b93",
+		"Symbol": "WMATIC-FTXXX (0.30%)"
+	},
+	{
+		"Id": "0xdac8a8e6dbf8c690ec6815e0ff03491b2770255d",
+		"Symbol": "USDC-USDT (0.01%)"
+	},
+	{
+		"Id": "0xfc704de88db4858419d5d0af080486a95343ba15",
+		"Symbol": "Runy-USDT (0.01%)"
+	},
+	{
+		"Id": "0xce0bbb1e51ee21cde86257593f29cbd9a60ca97a",
+		"Symbol": "WETH-GNS (0.30%)"
+	},
+	{
+		"Id": "0x07a0e5cc33f3f28cf655d7a76334d0b1bab5b704",
+		"Symbol": "SUSHI-WMATIC (0.30%)"
+	},
+	{
+		"Id": "0x75f2a4c87f1e8509ea03f967090d1a18a9414172",
+		"Symbol": "WETH-EUROe (0.30%)"
+	},
+	{
+		"Id": "0xc21b964af2b0254580d44981d624335f2b7c6fb6",
+		"Symbol": "WETH-USDT (1.00%)"
+	},
+	{
+		"Id": "0xd051b9500a6e1642c1013e487954dc1fb9f21488",
+		"Symbol": "USDC-COVO (0.30%)"
+	},
+	{
+		"Id": "0xf6baa539f80679bfad22a3a0d34059deed2e4ed6",
+		"Symbol": "WBTC-XSGD (0.30%)"
+	},
+	{
+		"Id": "0xa236278bec0e0677a48527340cfb567b4e6e9adc",
+		"Symbol": "USDC-AAVE (0.30%)"
+	},
+	{
+		"Id": "0x190be4d73196ac630abeebaaf69fe77211d54dba",
+		"Symbol": "WMATIC-STG (1.00%)"
+	},
+	{
+		"Id": "0x7f9121b4f4e040fd066e9dc5c250cf9b4338d5bc",
+		"Symbol": "WMATIC-UNI (0.30%)"
+	},
+	{
+		"Id": "0x339d2bb734bbe105b48a2983d504378cded3093b",
+		"Symbol": "oneBTC-USDC (0.05%)"
+	},
+	{
+		"Id": "0x14653ce9f406ba7f35a7ffa43c81fa7ecd99c788",
+		"Symbol": "WETH-MLN (1.00%)"
+	},
+	{
+		"Id": "0x13172651efd9da7c9a8f518e7cd5b665a267434d",
+		"Symbol": "NXTT-STAR (1.00%)"
+	},
+	{
+		"Id": "0x39baac62266af129f24104bc8b1800350563edb9",
+		"Symbol": "WETH-WEB3 (0.30%)"
+	},
+	{
+		"Id": "0x4f4b7666d46c1d9fd6a1115c22dcb6ba1271da26",
+		"Symbol": "USDC-indexUSDC (0.30%)"
+	},
+	{
+		"Id": "0x362d0401ed74db25219b6d02ac1791cfe3542d68",
+		"Symbol": "TRADE-USDT (1.00%)"
+	},
+	{
+		"Id": "0xbf66132e08f2e7f075ef76e4141f73a26fdfb39a",
+		"Symbol": "WMATIC-BEAT (0.30%)"
+	},
+	{
+		"Id": "0x292e3eb0b341ba5346bad9de2100b4f33ae68e08",
+		"Symbol": "RETH-WETH (1.00%)"
+	},
+	{
+		"Id": "0x3f7cd6c7093d5a783128c926200c1fccb1d36b76",
+		"Symbol": "USDC-THX (0.30%)"
+	},
+	{
+		"Id": "0x9ab9f658104467604b5afa9a3e1df62f35f7b208",
+		"Symbol": "HOM-WETH (1.00%)"
 	},
 	{
 		"Id": "0x28bdd3749bdea624a726ca153de1cb673f459b9d",
@@ -848,267 +804,279 @@
 		"Symbol": "WMATIC-BAL (0.30%)"
 	},
 	{
-		"Id": "0xbc44b606fc6a7b700b1802f8a82eb11aba9100ed",
-		"Symbol": "WMATIC-ARENA (1.00%)"
+		"Id": "0x80101f29476ba9b0b1fb5b592f07f10f9e26b937",
+		"Symbol": "USDC-BEAT (0.30%)"
 	},
 	{
-		"Id": "0x4f654de6485e8ab706806147f91c79e28def1ed3",
-		"Symbol": "WMATIC-GoC (0.30%)"
+		"Id": "0x3ff06849fc887cc3ff31460bb37e505dbf860172",
+		"Symbol": "USDC-CXO (0.30%)"
 	},
 	{
-		"Id": "0x9b08288c3be4f62bbf8d1c20ac9c5e6f9467d8b7",
-		"Symbol": "WMATIC-USDT (0.05%)"
-	},
-	{
-		"Id": "0x88d6391e22125d8ed820b9ecc03c6e44fb87232a",
-		"Symbol": "POOL-WETH (0.30%)"
-	},
-	{
-		"Id": "0xa374094527e1673a86de625aa59517c5de346d32",
-		"Symbol": "WMATIC-USDC (0.05%)"
-	},
-	{
-		"Id": "0x60b009517581b6ddb3f69bce4e558a509d0d4aa2",
-		"Symbol": "UCC-DAI (0.30%)"
-	},
-	{
-		"Id": "0x5f37376e9748eabd0a43f7c50f43a858f4e12eab",
-		"Symbol": "ZIZY-USDT (0.30%)"
-	},
-	{
-		"Id": "0x5d2a3152ca15d8b8730ec9f9ef64e72122b1f139",
-		"Symbol": "EURe-DAI (0.30%)"
-	},
-	{
-		"Id": "0x27b63daaa4d48e06c8401e441d568d6ba16d9b63",
-		"Symbol": "USDC-FLY (0.05%)"
-	},
-	{
-		"Id": "0x7399c6dba80b6f6a36a8f6f20053a1a9a615dab9",
-		"Symbol": "USDC-TRC (1.00%)"
-	},
-	{
-		"Id": "0x286af3968aec55ec3acd463bf59edc7cbc04102e",
-		"Symbol": "USDC-JPYC (0.05%)"
-	},
-	{
-		"Id": "0x5b946db2af21d5c8a0d50c34f0f11d3a23d199da",
-		"Symbol": "USDC-MIRA (0.05%)"
-	},
-	{
-		"Id": "0x8f16a8e864162ec84a2906646e08a561b5a7f72d",
-		"Symbol": "GHST-WETH (1.00%)"
-	},
-	{
-		"Id": "0x88f3c15523544835ff6c738ddb30995339ad57d6",
-		"Symbol": "WMATIC-USDC (0.30%)"
-	},
-	{
-		"Id": "0x78a750ca5f8dd1ef1c87e29e8a267ff4c8d12b38",
-		"Symbol": "USDT-RIA (0.30%)"
-	},
-	{
-		"Id": "0xdc8a5c5975726235402cfac9b28268eeccd42813",
-		"Symbol": "TNGBL-DAI (0.30%)"
-	},
-	{
-		"Id": "0xf9e9526e55a0e1fac1813b2fe88bc9b30eea04f9",
-		"Symbol": "HEX-USDC (1.00%)"
-	},
-	{
-		"Id": "0x0a63d3910ffc1529190e80e10855c4216407cc45",
-		"Symbol": "USDC-BOB (0.01%)"
-	},
-	{
-		"Id": "0x7c8d4442a9f36bcb255c950fa8490d1292c50346",
-		"Symbol": "USDT-BIM (0.30%)"
-	},
-	{
-		"Id": "0x8eb315dbd94469016e84098184dd55c1af2edabb",
-		"Symbol": "XSGD-WETH (0.05%)"
-	},
-	{
-		"Id": "0x9520dbd4c8803f5c6850742120b471cda0aac954",
-		"Symbol": "WMATIC-PODO (0.30%)"
-	},
-	{
-		"Id": "0x9b4376ada200e8dce17bbd58cc875f2312c0de97",
-		"Symbol": "USDT-VIS (1.00%)"
-	},
-	{
-		"Id": "0xc4734e5d879102b21c9356676f11cbceaf08477c",
-		"Symbol": "WETH-NFTI (0.30%)"
-	},
-	{
-		"Id": "0x67a9fe12fa6082d9d0203c84c6c56d3c4b269f28",
-		"Symbol": "WETH-DAI (0.05%)"
-	},
-	{
-		"Id": "0x2b929337ca83f8cad853cba054f135303cb6793b",
-		"Symbol": "MUF-USDT (0.01%)"
-	},
-	{
-		"Id": "0x3a5329ee48a06671ad1bf295b8a233ee9b9b975e",
-		"Symbol": "WETH-BOB (0.05%)"
-	},
-	{
-		"Id": "0x30f5c777ab316e6878d2b71a32274e4c2842327a",
-		"Symbol": "MVX-USDC (1.00%)"
-	},
-	{
-		"Id": "0x0732d5577346b60cd03e974d95e84345e5642fed",
-		"Symbol": "WMATIC-MVX (1.00%)"
-	},
-	{
-		"Id": "0x3d86a4b8c1b55509792d57e0c038128cc9c14fe7",
-		"Symbol": "WMATIC-ICHI (0.01%)"
-	},
-	{
-		"Id": "0x8cff4569723d6b5e40d86d9fb0114ea0e24666d2",
-		"Symbol": "MEX-WETH (1.00%)"
-	},
-	{
-		"Id": "0x07a0e5cc33f3f28cf655d7a76334d0b1bab5b704",
-		"Symbol": "SUSHI-WMATIC (0.30%)"
-	},
-	{
-		"Id": "0x0e44ceb592acfc5d3f09d996302eb4c499ff8c10",
-		"Symbol": "USDC-WETH (0.30%)"
-	},
-	{
-		"Id": "0xd4cd374dff2143dd94a873fccf45f9345e7f3240",
-		"Symbol": "xWETH-xWBTC (0.01%)"
+		"Id": "0x847b64f9d3a95e977d157866447a5c0a5dfa0ee5",
+		"Symbol": "WBTC-USDC (0.30%)"
 	},
 	{
 		"Id": "0x4f78a9b3015704c1152327e14963f54e4a63c28a",
 		"Symbol": "WBTC-USDC (1.00%)"
 	},
 	{
-		"Id": "0x498da2fb8622682730bb9bb9e68b687955b14d43",
-		"Symbol": "GLM-RLTM (1.00%)"
+		"Id": "0x8f16a8e864162ec84a2906646e08a561b5a7f72d",
+		"Symbol": "GHST-WETH (1.00%)"
 	},
 	{
-		"Id": "0x6717f16b6281348761ce5840275306971d326e86",
-		"Symbol": "USDC-GIDDY (0.05%)"
+		"Id": "0xaa40be3a775451ddccf3aabf36bdea550391341f",
+		"Symbol": "USDC-XDAO (0.01%)"
 	},
 	{
-		"Id": "0x32a222f69d00e717845a3d857d0392d6a25a2acd",
-		"Symbol": "USDC-GNS (0.30%)"
+		"Id": "0xefba86413285584582cbeb556e1b89914b67ed02",
+		"Symbol": "fxAEDY-WETH (0.05%)"
 	},
 	{
-		"Id": "0x5645dcb64c059aa11212707fbf4e7f984440a8cf",
-		"Symbol": "USDC-DAI (0.01%)"
+		"Id": "0x5cd1c9488f1ccc197cf75eb340db38d46ae523db",
+		"Symbol": "WMATIC-SNX (0.30%)"
 	},
 	{
-		"Id": "0x56268057e362d6ff22189ecf36c5cfacd604e654",
-		"Symbol": "WMATIC-EQL (1.00%)"
+		"Id": "0x31de1105a5ec7364ae2d189df15b6c1bb0b24320",
+		"Symbol": "MEMO-WETH (0.30%)"
 	},
 	{
-		"Id": "0x30fe5e402139925634430eb88e9c209e4a2d6dec",
-		"Symbol": "USDC-PYR (1.00%)"
-	},
-	{
-		"Id": "0xcdae70cd7be377fbecb4d12576b59aa2c3433b6b",
-		"Symbol": "ORON-USDT (0.30%)"
-	},
-	{
-		"Id": "0x50eaedb835021e4a108b7290636d62e9765cc6d7",
-		"Symbol": "WBTC-WETH (0.05%)"
-	},
-	{
-		"Id": "0xb87755e95c391a7ee0378d231078162ff0616803",
-		"Symbol": "USDC-USDV (0.05%)"
-	},
-	{
-		"Id": "0xa90c1c009dc8292bd04ced30f9b53a5ff7a806a0",
-		"Symbol": "USDC-W$C (0.30%)"
-	},
-	{
-		"Id": "0x62defa07a6c1c90f660be65405143a4935c021e6",
-		"Symbol": "WETH-DHT (0.30%)"
-	},
-	{
-		"Id": "0xd524ca1e57ff9420031923661a6c108b32f71ced",
-		"Symbol": "USDT-XSGD (0.05%)"
-	},
-	{
-		"Id": "0xa236278bec0e0677a48527340cfb567b4e6e9adc",
-		"Symbol": "USDC-AAVE (0.30%)"
-	},
-	{
-		"Id": "0x167384319b41f7094e62f7506409eb38079abff8",
-		"Symbol": "WMATIC-WETH (0.30%)"
-	},
-	{
-		"Id": "0xb035b6593fcf5ebff11fb16730c6bc023a61f9d3",
-		"Symbol": "ICHI-WETH (0.01%)"
-	},
-	{
-		"Id": "0xb5a1fd804342cfb679bd8ada75718bc3ec43097e",
-		"Symbol": "WETH-XSGD (0.30%)"
-	},
-	{
-		"Id": "0x9bed7769930e8ef114d9b74eff283181fcb7d815",
-		"Symbol": "USDT-CXO (0.30%)"
-	},
-	{
-		"Id": "0x9f32237ae1a240dff3be9458606b246ee2b199c4",
-		"Symbol": "NXTT-WMATIC (0.30%)"
-	},
-	{
-		"Id": "0x713a96308455046a61af91bc220ec83fdc920977",
-		"Symbol": "ICHI-GOVI (0.30%)"
-	},
-	{
-		"Id": "0x08b446353ddb5a1695774bd547703879ff253aea",
-		"Symbol": "USDC-KOLO (0.30%)"
-	},
-	{
-		"Id": "0x11ff14f2a27e4fac4c6f174cf679c3e1cdc99ba7",
-		"Symbol": "USDC-jEUR (0.30%)"
-	},
-	{
-		"Id": "0x3b9a1ee5fb9c923200073a8e7d6720fa91dfbf64",
-		"Symbol": "PAINT-WETH (1.00%)"
-	},
-	{
-		"Id": "0xce0bbb1e51ee21cde86257593f29cbd9a60ca97a",
-		"Symbol": "WETH-GNS (0.30%)"
-	},
-	{
-		"Id": "0x49c7ba43e129dc7872f64c6201cb856ab22ae0bb",
-		"Symbol": "WMATIC-MATIC2x-FLI-P (0.05%)"
-	},
-	{
-		"Id": "0xfa22d298e3b0bc1752e5ef2849cec1149d596674",
-		"Symbol": "USDC-PAR (0.05%)"
-	},
-	{
-		"Id": "0x13172651efd9da7c9a8f518e7cd5b665a267434d",
-		"Symbol": "NXTT-STAR (1.00%)"
-	},
-	{
-		"Id": "0x36bdec62bea45b9356b4c74d6636b2c3da60e870",
-		"Symbol": "KRED-JED (1.00%)"
-	},
-	{
-		"Id": "0x254aa3a898071d6a2da0db11da73b02b4646078f",
-		"Symbol": "DAI-USDT (0.01%)"
+		"Id": "0x82ee340cfce75dd11efbd90ee4f5d868a5a7192a",
+		"Symbol": "USDC-EURS (0.05%)"
 	},
 	{
 		"Id": "0xef9934883b4ca1348c8e8052229fa6eba602f877",
 		"Symbol": "WETH-TRAXX (1.00%)"
 	},
 	{
-		"Id": "0x97dce22142d766199aa605181c505be3e0d05d9f",
-		"Symbol": "CENTUS-USDT (0.30%)"
+		"Id": "0xbd934a7778771a7e2d9bf80596002a214d8c9304",
+		"Symbol": "USDC-WETH (1.00%)"
 	},
 	{
-		"Id": "0x6feae21e16097faa70afbb12872bdba3c85f4d9f",
-		"Symbol": "TBAC-USDT (1.00%)"
+		"Id": "0xed37fda14b9e18898f85a14ff7089680750eb044",
+		"Symbol": "CRV-USDC (1.00%)"
 	},
 	{
-		"Id": "0x6c14fa1b23a245efb97cbad357ca3948052d56df",
-		"Symbol": "WETH-FBX (0.30%)"
+		"Id": "0x673fc1c6f5eec81baf3dc14e1049ff020b967b83",
+		"Symbol": "METADEX-USDC (0.30%)"
+	},
+	{
+		"Id": "0x47726fe42eabe519437336ce5ddaf4901951dd6a",
+		"Symbol": "USDC-CBY (1.00%)"
+	},
+	{
+		"Id": "0x613e24ec04fa61a5967cccc90cdc1d9513f73d5a",
+		"Symbol": "CPLE-USDT (1.00%)"
+	},
+	{
+		"Id": "0xe98ad3887bfd723dccf2992c9b2e36247f92a7df",
+		"Symbol": "WBTC-AMKT (0.30%)"
+	},
+	{
+		"Id": "0x6a990cbb01df842b00ff34c2b3126b76538cd872",
+		"Symbol": "PAXG-WETH (0.30%)"
+	},
+	{
+		"Id": "0x5b946db2af21d5c8a0d50c34f0f11d3a23d199da",
+		"Symbol": "USDC-MIRA (0.05%)"
+	},
+	{
+		"Id": "0xf699740693850e53e0a28014da1c2bd78bd23838",
+		"Symbol": "USDC-METADEXDAO (0.30%)"
+	},
+	{
+		"Id": "0xfd235245b74ba941bad1392f5be1537800301172",
+		"Symbol": "WMATIC-ROGUE (1.00%)"
+	},
+	{
+		"Id": "0x45dda9cb7c25131df268515131f647d726f50608",
+		"Symbol": "USDC-WETH (0.05%)"
+	},
+	{
+		"Id": "0x498da2fb8622682730bb9bb9e68b687955b14d43",
+		"Symbol": "GLM-RLTM (1.00%)"
+	},
+	{
+		"Id": "0x7814d9a723844ec8a62af3c28ff9dd7c895c1f24",
+		"Symbol": "WETH-GET (1.00%)"
+	},
+	{
+		"Id": "0xf560128c3306ca4f3bd42f4c101dd76759bbb7ac",
+		"Symbol": "USDC-BRZ (1.00%)"
+	},
+	{
+		"Id": "0x6d61f4a857700d51bfc6ad71d3596e3c8f3191df",
+		"Symbol": "WBTC-BTCpx (0.30%)"
+	},
+	{
+		"Id": "0x16e7ca3eaaf7703b9724301e6fd3d4e2918fec59",
+		"Symbol": "CPLE-USDT (0.30%)"
+	},
+	{
+		"Id": "0xc9f22ed5d438eda85ecffbf3f4ee8d00da8ea8b3",
+		"Symbol": "USDC-BRZ (0.05%)"
+	},
+	{
+		"Id": "0x67a9fe12fa6082d9d0203c84c6c56d3c4b269f28",
+		"Symbol": "WETH-DAI (0.05%)"
+	},
+	{
+		"Id": "0x36165b14423425228d7ef62b3ffa799d446347c1",
+		"Symbol": "METAL-USDT (0.30%)"
+	},
+	{
+		"Id": "0x86f1d8390222a3691c28938ec7404a1661e618e0",
+		"Symbol": "WMATIC-WETH (0.05%)"
+	},
+	{
+		"Id": "0xe7f8e0281d9c0e11bb396cd105ddf58555b737d2",
+		"Symbol": "WMATIC-HEX (1.00%)"
+	},
+	{
+		"Id": "0xde4b2e9c32324a7ed9bdd72886e0371648fa83e4",
+		"Symbol": "WETH-UBT (1.00%)"
+	},
+	{
+		"Id": "0x9da4dee26ab002521f0cb7ac73dcb91c6e1f2f1c",
+		"Symbol": "EP-WETH (0.30%)"
+	},
+	{
+		"Id": "0xfe530931da161232ec76a7c3bea7d36cf3811a0d",
+		"Symbol": "WMATIC-DAI (0.30%)"
+	},
+	{
+		"Id": "0xb2f8ba544e4874d4e0f817359d0f4bcff209b87e",
+		"Symbol": "USDC-XSGD (0.05%)"
+	},
+	{
+		"Id": "0x3b9a1ee5fb9c923200073a8e7d6720fa91dfbf64",
+		"Symbol": "PAINT-WETH (1.00%)"
+	},
+	{
+		"Id": "0xa9077cdb3d13f45b8b9d87c43e11bce0e73d8631",
+		"Symbol": "WMATIC-AAVE (0.30%)"
+	},
+	{
+		"Id": "0x1aec019d1a0e3a024fef822a5728940c1d12dcbe",
+		"Symbol": "WMATIC-AGIX (1.00%)"
+	},
+	{
+		"Id": "0xc50b955731d1c9e7271323fd3cc86d7471431690",
+		"Symbol": "USDC-NEX (1.00%)"
+	},
+	{
+		"Id": "0x6f549f02a991885331aa0843e62b574a4db52218",
+		"Symbol": "aMATICc-ANKR (0.30%)"
+	},
+	{
+		"Id": "0xd2165e7a36896f3562a7a03bf753765d4870af33",
+		"Symbol": "WMATIC-BONEZ (0.30%)"
+	},
+	{
+		"Id": "0x32a222f69d00e717845a3d857d0392d6a25a2acd",
+		"Symbol": "USDC-GNS (0.30%)"
+	},
+	{
+		"Id": "0x659321f40b13c79ad57690869286d7a48c01602f",
+		"Symbol": "PORTX-USDT (0.30%)"
+	},
+	{
+		"Id": "0x49c7ba43e129dc7872f64c6201cb856ab22ae0bb",
+		"Symbol": "WMATIC-MATIC2x-FLI-P (0.05%)"
+	},
+	{
+		"Id": "0xeac11fb97726ba4f614c89d8a15086d08a2999d2",
+		"Symbol": "WETH-CXO (1.00%)"
+	},
+	{
+		"Id": "0x56845fd95c766ecb0ab450fe2d105a19440a6e35",
+		"Symbol": "WMATIC-MANA (0.30%)"
+	},
+	{
+		"Id": "0xde4238d4e3280404cd828acf2b66e5639baf57b3",
+		"Symbol": "indexETH-WETH (0.30%)"
+	},
+	{
+		"Id": "0x3cc6f5d3cbe52ecf15ccb43d0832ad4f6ef132cf",
+		"Symbol": "USDC-wtPOKT (1.00%)"
+	},
+	{
+		"Id": "0xab7e0439aa833e7429c21261d573e14ca86af189",
+		"Symbol": "MOVIE-USDT (0.30%)"
+	},
+	{
+		"Id": "0x20c45fd0e79b72ea92cf52dab1ce7d1682a5014f",
+		"Symbol": "WMATIC-ODOGE (1.00%)"
+	},
+	{
+		"Id": "0x140ae14be4b5e86aa149f76e84953746e0bc04f1",
+		"Symbol": "USDC-NEUY (1.00%)"
+	},
+	{
+		"Id": "0xcade91e001387bf30d408874c04de707185f7f5e",
+		"Symbol": "xWETH-WETH (0.05%)"
+	},
+	{
+		"Id": "0x33016df701b323c33cc027146c6a9e0997b2a923",
+		"Symbol": "WBTC-USDT (0.30%)"
+	},
+	{
+		"Id": "0x171dabe5b6c39f09a9f36bb760c83decc752cdc7",
+		"Symbol": "SPACE-USDC (1.00%)"
+	},
+	{
+		"Id": "0x6980e5afafec8c9c5f039d0c1a8ccfa6cefb9393",
+		"Symbol": "ICHI-oneBTC (1.00%)"
+	},
+	{
+		"Id": "0x4d8262e0f4b2e6e93fdc2e984ec55e12747249fa",
+		"Symbol": "NXTT-WMATIC (1.00%)"
+	},
+	{
+		"Id": "0x9c0a78b7812884eca7f82f3cf152fb49e7e778b2",
+		"Symbol": "WETH-IDLE (1.00%)"
+	},
+	{
+		"Id": "0x8eb315dbd94469016e84098184dd55c1af2edabb",
+		"Symbol": "XSGD-WETH (0.05%)"
+	},
+	{
+		"Id": "0x88f3c15523544835ff6c738ddb30995339ad57d6",
+		"Symbol": "WMATIC-USDC (0.30%)"
+	},
+	{
+		"Id": "0x6065e615a101cad51c990adbb841b01a9509d919",
+		"Symbol": "WMATIC-stMATIC (0.05%)"
+	},
+	{
+		"Id": "0xa90c1c009dc8292bd04ced30f9b53a5ff7a806a0",
+		"Symbol": "USDC-W$C (0.30%)"
+	},
+	{
+		"Id": "0xfc99d1c02d27de07dfe0dcd878cde86ee59c5f6b",
+		"Symbol": "CRV-WETH (0.30%)"
+	},
+	{
+		"Id": "0x56fcb902bee19a645f9607cd1e1c0737b6358feb",
+		"Symbol": "KASTA-USDC (0.30%)"
+	},
+	{
+		"Id": "0x30f5c777ab316e6878d2b71a32274e4c2842327a",
+		"Symbol": "MVX-USDC (1.00%)"
+	},
+	{
+		"Id": "0x6717f16b6281348761ce5840275306971d326e86",
+		"Symbol": "USDC-GIDDY (0.05%)"
+	},
+	{
+		"Id": "0xcdae70cd7be377fbecb4d12576b59aa2c3433b6b",
+		"Symbol": "ORON-USDT (0.30%)"
+	},
+	{
+		"Id": "0xea8a6f1e5d53c89a00718b7ecdcef70592a4b3f2",
+		"Symbol": "CRV-USDC (0.30%)"
+	},
+	{
+		"Id": "0x156917664027312906a3e977e7f316a29934a37d",
+		"Symbol": "USDC-RBW (1.00%)"
 	}
 ]

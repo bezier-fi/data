@@ -1,0 +1,27 @@
+{
+	"Id": "0xe68a0c1b27415bd59fdb386b28a11ff3181f9051",
+	"Protocol": "f69d6139-d61d-4851-9d7a-6177411c1b17",
+	"Outputs": [
+		{
+			"Address": "0xe68a0c1b27415bd59fdb386b28a11ff3181f9051",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0314c862e572836472cd2b72ff03e9b3dd756e60",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "brcORDI-WBTC (1.00%)",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xfa8045dd94285ddc78d6f20985bc96a463550b71",
+	"Symbol": "LSP-WETH",
+	"UnderlyingTokens": [
+		"0x9150013a217b75693d70e4f3e68cbb306253b443",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "94c77575-2592-43c3-96df-0bc4c5c4b7a9",
+	"Chain": "ethereum"
+}

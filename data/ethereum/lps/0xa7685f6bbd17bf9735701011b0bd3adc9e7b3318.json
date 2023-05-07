@@ -1,0 +1,10 @@
+{
+	"Id": "0xa7685f6bbd17bf9735701011b0bd3adc9e7b3318",
+	"Symbol": "Vitalinci-WETH",
+	"UnderlyingTokens": [
+		"0xb2a60ff2210d6b05ada290c54cbd9898b38bbbfc",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "94c77575-2592-43c3-96df-0bc4c5c4b7a9",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xdfbb47a226b17044592c4e8ecc0819301f9f1e34",
+	"Symbol": "SQUID-WETH",
+	"UnderlyingTokens": [
+		"0xa1a92f15c24ad358c3a4d0a8ba4f7db18fbfab2f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "94c77575-2592-43c3-96df-0bc4c5c4b7a9",
+	"Chain": "ethereum"
+}

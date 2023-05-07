@@ -1,0 +1,10 @@
+{
+	"Id": "0x9702cec9376fa50f33b20db23c976567b39d0b44",
+	"Symbol": "VEPE-WETH",
+	"UnderlyingTokens": [
+		"0xa65e0c681064b33db2a515d40a4ff1918f5305cc",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "94c77575-2592-43c3-96df-0bc4c5c4b7a9",
+	"Chain": "ethereum"
+}

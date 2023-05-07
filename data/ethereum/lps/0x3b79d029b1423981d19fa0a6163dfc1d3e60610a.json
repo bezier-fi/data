@@ -1,0 +1,10 @@
+{
+	"Id": "0x3b79d029b1423981d19fa0a6163dfc1d3e60610a",
+	"Symbol": "SOYJAK-WETH",
+	"UnderlyingTokens": [
+		"0x95772353e4c4c657db557ab95238249ad49a09bc",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "94c77575-2592-43c3-96df-0bc4c5c4b7a9",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x9d5e35b73675b683a584b6db4cdc6c8f1ed2914f",
+	"Symbol": "pepetrades-WETH",
+	"UnderlyingTokens": [
+		"0x729b68da196cb4fe05620e55c498dc06f4fa324a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "94c77575-2592-43c3-96df-0bc4c5c4b7a9",
+	"Chain": "ethereum"
+}

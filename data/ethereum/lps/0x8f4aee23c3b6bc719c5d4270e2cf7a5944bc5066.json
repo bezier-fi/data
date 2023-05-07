@@ -1,0 +1,10 @@
+{
+	"Id": "0x8f4aee23c3b6bc719c5d4270e2cf7a5944bc5066",
+	"Symbol": "FUTURA-WETH",
+	"UnderlyingTokens": [
+		"0x372fbca09662cb41ac3a22dd5127a420abfd03b7",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "94c77575-2592-43c3-96df-0bc4c5c4b7a9",
+	"Chain": "ethereum"
+}

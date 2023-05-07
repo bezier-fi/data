@@ -1,0 +1,10 @@
+{
+	"Id": "0x1a15be6fc5afa285435b0190ba7490bbcdabeede",
+	"Symbol": "IRIX-WETH",
+	"UnderlyingTokens": [
+		"0x02f2b940ed6052c98974a5979ecaec60e4e60418",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "94c77575-2592-43c3-96df-0bc4c5c4b7a9",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x0474e04a7e90a3f5bc5cb067ed5c70b2ab0246b5",
+	"Symbol": "NEOP-WETH",
+	"UnderlyingTokens": [
+		"0x694200db3b335fe5b9661927a73a10647dfa7eb5",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "94c77575-2592-43c3-96df-0bc4c5c4b7a9",
+	"Chain": "ethereum"
+}

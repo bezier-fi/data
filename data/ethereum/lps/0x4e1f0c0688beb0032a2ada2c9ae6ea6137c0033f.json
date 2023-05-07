@@ -1,0 +1,10 @@
+{
+	"Id": "0x4e1f0c0688beb0032a2ada2c9ae6ea6137c0033f",
+	"Symbol": "GARY-WETH",
+	"UnderlyingTokens": [
+		"0x04f518f4bd44c02255625f609bfbcbbf2d018089",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "94c77575-2592-43c3-96df-0bc4c5c4b7a9",
+	"Chain": "ethereum"
+}

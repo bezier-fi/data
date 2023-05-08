@@ -1,0 +1,27 @@
+{
+	"Id": "0xf256a36b03ff5375a2c9b6861d31005efd2b2f8f",
+	"Protocol": "a0395d08-8435-4894-9841-77f1b6c58269",
+	"Outputs": [
+		{
+			"Address": "0xf256a36b03ff5375a2c9b6861d31005efd2b2f8f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb4577d084f289e696ddfac178c11663e573900f1",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CHAD-WETH (1.00%)",
+	"Chain": "ethereum"
+}

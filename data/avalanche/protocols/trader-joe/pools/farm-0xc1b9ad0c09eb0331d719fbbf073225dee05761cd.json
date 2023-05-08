@@ -1,0 +1,23 @@
+{
+	"Id": "farm-0xc1b9ad0c09eb0331d719fbbf073225dee05761cd",
+	"Protocol": "e673d063-2dce-42c4-80e8-6eedc07a8d7c",
+	"Outputs": [
+		{
+			"Address": "0xc1b9ad0c09eb0331d719fbbf073225dee05761cd",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc1b9ad0c09eb0331d719fbbf073225dee05761cd",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WAVAX-RPEPE",
+	"Chain": "avalanche"
+}

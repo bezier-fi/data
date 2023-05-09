@@ -1,0 +1,27 @@
+{
+	"Id": "0xe2a3a86a7a7d222a6d8da0e7b17847de996792cd",
+	"Protocol": "2c42ecb5-0fc0-4427-95af-924043b6f397",
+	"Outputs": [
+		{
+			"Address": "0xe2a3a86a7a7d222a6d8da0e7b17847de996792cd",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC-GHST (1.00%)",
+	"Chain": "polygon"
+}

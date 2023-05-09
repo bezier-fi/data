@@ -1,0 +1,27 @@
+{
+	"Id": "0x206897671e6d44907fa0ab701fd35ea060057473",
+	"Protocol": "2c42ecb5-0fc0-4427-95af-924043b6f397",
+	"Outputs": [
+		{
+			"Address": "0x206897671e6d44907fa0ab701fd35ea060057473",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xd38b5bf25976378b7c33d39f508119545ab90535",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-CrazyPepe (0.01%)",
+	"Chain": "ethereum"
+}

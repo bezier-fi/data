@@ -1,0 +1,27 @@
+{
+	"Id": "0x88a3a6d6d9d22eff5cabd63ce102122d905b2068",
+	"Protocol": "2c42ecb5-0fc0-4427-95af-924043b6f397",
+	"Outputs": [
+		{
+			"Address": "0x88a3a6d6d9d22eff5cabd63ce102122d905b2068",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4332f8a38f14bd3d8d1553af27d7c7ac6c27278d",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "APEFI-WETH (1.00%)",
+	"Chain": "ethereum"
+}

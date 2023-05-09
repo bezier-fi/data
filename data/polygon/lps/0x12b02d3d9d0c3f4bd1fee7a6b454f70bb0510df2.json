@@ -1,0 +1,10 @@
+{
+	"Id": "0x12b02d3d9d0c3f4bd1fee7a6b454f70bb0510df2",
+	"Symbol": "WETH-USDC (0.05%)",
+	"UnderlyingTokens": [
+		"0x11cd37bb86f65419713f30673a480ea33c826872",
+		"0x2791bca1f2de4661ed88a30c99a7a9449aa84174"
+	],
+	"Protocol": "2c42ecb5-0fc0-4427-95af-924043b6f397",
+	"Chain": "polygon"
+}

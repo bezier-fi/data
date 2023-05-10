@@ -1,0 +1,27 @@
+{
+	"Id": "0xd48e29e952e81e35baabdd92df9628c3e148898b",
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Outputs": [
+		{
+			"Address": "0xd48e29e952e81e35baabdd92df9628c3e148898b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xd179aceaa7640a7b0ce8295b8013d453a4b21447",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-ANGELA",
+	"Chain": "ethereum"
+}

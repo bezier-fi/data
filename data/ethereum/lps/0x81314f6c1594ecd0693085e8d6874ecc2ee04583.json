@@ -1,0 +1,10 @@
+{
+	"Id": "0x81314f6c1594ecd0693085e8d6874ecc2ee04583",
+	"Symbol": "SCOOBY-WETH",
+	"UnderlyingTokens": [
+		"0x5e5318dc486d90060380f80423c7e27b60b8f206",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

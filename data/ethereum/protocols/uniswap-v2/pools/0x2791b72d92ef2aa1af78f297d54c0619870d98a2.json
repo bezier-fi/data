@@ -1,0 +1,27 @@
+{
+	"Id": "0x2791b72d92ef2aa1af78f297d54c0619870d98a2",
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Outputs": [
+		{
+			"Address": "0x2791b72d92ef2aa1af78f297d54c0619870d98a2",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x81c37d840567d3ed8dd3946d3f3b6a0300afc794",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PAIN-WETH",
+	"Chain": "ethereum"
+}

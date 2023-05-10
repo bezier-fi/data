@@ -1,0 +1,10 @@
+{
+	"Id": "0xedb1c4e3f67ec377f47177997fad034dd3e5a71d",
+	"Symbol": "BOZO-WETH",
+	"UnderlyingTokens": [
+		"0x9f09bb4d6a1d63767fe9c4fcbd636b458d055123",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

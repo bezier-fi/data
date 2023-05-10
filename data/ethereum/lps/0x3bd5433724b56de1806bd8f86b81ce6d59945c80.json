@@ -1,0 +1,10 @@
+{
+	"Id": "0x3bd5433724b56de1806bd8f86b81ce6d59945c80",
+	"Symbol": "PROXIMA-WETH",
+	"UnderlyingTokens": [
+		"0x03f2ee998a708f21319bfc5f420f6e3ce56bdf18",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

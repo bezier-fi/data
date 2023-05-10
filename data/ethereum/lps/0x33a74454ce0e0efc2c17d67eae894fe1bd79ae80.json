@@ -1,0 +1,10 @@
+{
+	"Id": "0x33a74454ce0e0efc2c17d67eae894fe1bd79ae80",
+	"Symbol": "TONY-WETH",
+	"UnderlyingTokens": [
+		"0xb31a3e3a22ccc764fa52cc7d72e81ed9d2934a9b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

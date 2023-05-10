@@ -1,0 +1,10 @@
+{
+	"Id": "0x66032b26248b058880ce93197688e37948a236c1",
+	"Symbol": "WETH-TORO",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf7f4ac1b0a5afb843cbee6cd83ffd62f026cc32f"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

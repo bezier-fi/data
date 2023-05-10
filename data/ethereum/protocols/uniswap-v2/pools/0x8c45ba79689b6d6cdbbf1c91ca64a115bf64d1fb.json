@@ -1,0 +1,27 @@
+{
+	"Id": "0x8c45ba79689b6d6cdbbf1c91ca64a115bf64d1fb",
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Outputs": [
+		{
+			"Address": "0x8c45ba79689b6d6cdbbf1c91ca64a115bf64d1fb",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x32746873e2578f5ab06357f0f47afa7add078327",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PEPEMORTY-WETH",
+	"Chain": "ethereum"
+}

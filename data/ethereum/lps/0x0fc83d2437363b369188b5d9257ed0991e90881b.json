@@ -1,0 +1,10 @@
+{
+	"Id": "0x0fc83d2437363b369188b5d9257ed0991e90881b",
+	"Symbol": "MOONBAG-WETH",
+	"UnderlyingTokens": [
+		"0x40b0edbe6618d3aab77ce0da8fe1dffe0ab6143a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

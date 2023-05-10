@@ -1,0 +1,10 @@
+{
+	"Id": "0x8bccb9312b9cbd3d631e155f8cde995717a02f6a",
+	"Symbol": "SHEESH-WETH",
+	"UnderlyingTokens": [
+		"0x4774a3da4ee5db1f36d4863c47dd0db05575f547",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

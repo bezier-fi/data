@@ -1,0 +1,27 @@
+{
+	"Id": "0x5de06549818110528fd137d59c30edd57d0846ca",
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Outputs": [
+		{
+			"Address": "0x5de06549818110528fd137d59c30edd57d0846ca",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xe41c99b5ad4a48c21af07ccf65ee85c845a8b7c6",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-ORWELL",
+	"Chain": "ethereum"
+}

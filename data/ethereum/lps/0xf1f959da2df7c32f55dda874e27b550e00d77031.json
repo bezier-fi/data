@@ -1,0 +1,10 @@
+{
+	"Id": "0xf1f959da2df7c32f55dda874e27b550e00d77031",
+	"Symbol": "MrKrabs-WETH",
+	"UnderlyingTokens": [
+		"0x6ecdbc1e3522d76cc31283917d9b9f9bfed0436c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x652464e5c0c1631d4e15d467b60b7117865e1c04",
+	"Symbol": "NAS-WETH",
+	"UnderlyingTokens": [
+		"0xaf57d49fe42b1436e3832e2f721570d28c907be7",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

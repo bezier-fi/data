@@ -1,0 +1,27 @@
+{
+	"Id": "0x9520ad86d9befd58f87499bf4f77679204704322",
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Outputs": [
+		{
+			"Address": "0x9520ad86d9befd58f87499bf4f77679204704322",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb49c444cf5ea582c8934c47ac32c2f69c2c912b1",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "$BETV-WETH",
+	"Chain": "ethereum"
+}

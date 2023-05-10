@@ -1,0 +1,27 @@
+{
+	"Id": "0x101518d16fd65ab308781d4f4e6fdb1a8c44788a",
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Outputs": [
+		{
+			"Address": "0x101518d16fd65ab308781d4f4e6fdb1a8c44788a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa9c670d1dda418c928d03043c9b928d8a956f748",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SUPONJI-WETH",
+	"Chain": "ethereum"
+}

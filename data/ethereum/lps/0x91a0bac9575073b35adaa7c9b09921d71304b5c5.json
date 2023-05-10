@@ -1,0 +1,10 @@
+{
+	"Id": "0x91a0bac9575073b35adaa7c9b09921d71304b5c5",
+	"Symbol": "SMUDGE-WETH",
+	"UnderlyingTokens": [
+		"0x516e2758b044433371076a48127b8cfa7b0bdb43",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

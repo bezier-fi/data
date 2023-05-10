@@ -1,0 +1,10 @@
+{
+	"Id": "0x06972a1b18fd4a7cca2727a8f5c7fab3062acc2a",
+	"Symbol": "BYC-WETH",
+	"UnderlyingTokens": [
+		"0x2c7eec259c4f0d6b2d8c99110b0dbf0273bb06b0",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

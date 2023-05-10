@@ -1,0 +1,10 @@
+{
+	"Id": "0x1d0342586882953b82d0597fc5687a7a289a545c",
+	"Symbol": "PASINC-WETH",
+	"UnderlyingTokens": [
+		"0x9d1ed5c60426d2b6dd0cd8f02eab813832a4d91f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

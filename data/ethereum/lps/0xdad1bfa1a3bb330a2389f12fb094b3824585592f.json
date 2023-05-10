@@ -1,0 +1,10 @@
+{
+	"Id": "0xdad1bfa1a3bb330a2389f12fb094b3824585592f",
+	"Symbol": "GEKE-WETH",
+	"UnderlyingTokens": [
+		"0x471a202f69d6e975da55e363dab1bdb2e86e0c0f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

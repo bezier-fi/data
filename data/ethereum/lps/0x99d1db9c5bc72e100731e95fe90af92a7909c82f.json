@@ -1,0 +1,10 @@
+{
+	"Id": "0x99d1db9c5bc72e100731e95fe90af92a7909c82f",
+	"Symbol": "WETH-PELON",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd73ecafe057b97d42a34f0c4e47244565cf8f968"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

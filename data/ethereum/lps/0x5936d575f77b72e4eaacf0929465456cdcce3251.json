@@ -1,0 +1,10 @@
+{
+	"Id": "0x5936d575f77b72e4eaacf0929465456cdcce3251",
+	"Symbol": "SPEPE-WETH",
+	"UnderlyingTokens": [
+		"0x30c5aa089362237c603f9ea2ed86d19702fb42ba",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

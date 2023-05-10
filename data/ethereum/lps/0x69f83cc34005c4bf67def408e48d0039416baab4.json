@@ -1,0 +1,10 @@
+{
+	"Id": "0x69f83cc34005c4bf67def408e48d0039416baab4",
+	"Symbol": "CHADS-WETH",
+	"UnderlyingTokens": [
+		"0x52f77f8eec21d4399f56ca00471b4c911ad87241",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

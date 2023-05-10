@@ -1,0 +1,27 @@
+{
+	"Id": "0x930bb38a5a277ee0fd5e9b16b9e76512652d3f25",
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Outputs": [
+		{
+			"Address": "0x930bb38a5a277ee0fd5e9b16b9e76512652d3f25",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x971735f49427e56d24d5b5d050760472d9a0fa26",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SQUILLY-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x7eac1efe837093a9bba4df528015ce066f1bb4fa",
+	"Symbol": "PULK-WETH",
+	"UnderlyingTokens": [
+		"0x69dd7ceca2abe60597f6c283b454ab2b544a7d65",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x9c4f41edba8a574d177179bf8810bda55fe4810c",
+	"Symbol": "HUAHUE-WETH",
+	"UnderlyingTokens": [
+		"0x4ca1a47ce1c3254a07c8d5a8808793ca4191aeea",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

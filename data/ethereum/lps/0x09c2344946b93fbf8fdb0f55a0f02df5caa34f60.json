@@ -1,0 +1,10 @@
+{
+	"Id": "0x09c2344946b93fbf8fdb0f55a0f02df5caa34f60",
+	"Symbol": "ARTHUR-WETH",
+	"UnderlyingTokens": [
+		"0xb477f8c1619ef3ec2f5611bad11f95999edbd7e3",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

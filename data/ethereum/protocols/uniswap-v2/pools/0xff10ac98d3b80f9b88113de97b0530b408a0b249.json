@@ -1,0 +1,27 @@
+{
+	"Id": "0xff10ac98d3b80f9b88113de97b0530b408a0b249",
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Outputs": [
+		{
+			"Address": "0xff10ac98d3b80f9b88113de97b0530b408a0b249",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x037d4111b1fc3e65fdeee6170214df552d735eec",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FROGLON-WETH",
+	"Chain": "ethereum"
+}

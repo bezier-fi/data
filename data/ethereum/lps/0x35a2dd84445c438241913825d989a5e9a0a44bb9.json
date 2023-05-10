@@ -1,0 +1,10 @@
+{
+	"Id": "0x35a2dd84445c438241913825d989a5e9a0a44bb9",
+	"Symbol": "COURAGE-WETH",
+	"UnderlyingTokens": [
+		"0xbe5f9d8cfbb5b13cc8944837dd92845fd39b5b1c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

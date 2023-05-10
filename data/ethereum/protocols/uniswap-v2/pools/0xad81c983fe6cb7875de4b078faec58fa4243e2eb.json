@@ -1,0 +1,27 @@
+{
+	"Id": "0xad81c983fe6cb7875de4b078faec58fa4243e2eb",
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Outputs": [
+		{
+			"Address": "0xad81c983fe6cb7875de4b078faec58fa4243e2eb",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1009042de716bf24fbf8340dcc68d862ce2e7d57",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "$WALNUTS-WETH",
+	"Chain": "ethereum"
+}

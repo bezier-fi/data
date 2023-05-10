@@ -1,0 +1,10 @@
+{
+	"Id": "0xe48f16ad7664a43c8163c8aa0ce79ad4b2a6cc04",
+	"Symbol": "FRIB-WETH",
+	"UnderlyingTokens": [
+		"0x073341d5d232f6b816c4dfb85181fcee35d896c3",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x8e249d9c4159bd6bb9e632e6e3f0e8ff8741db34",
+	"Symbol": "SOY-WETH",
+	"UnderlyingTokens": [
+		"0x04673ada788c1326723cf473e579433a2a3bad60",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

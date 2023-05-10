@@ -1,0 +1,10 @@
+{
+	"Id": "0xa824a9b9c480059fdfc721dd0b4556e0f8a7eb16",
+	"Symbol": "$Cronje-WETH",
+	"UnderlyingTokens": [
+		"0x44c01bae0f2321085737b5cdd445325b110b2cff",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

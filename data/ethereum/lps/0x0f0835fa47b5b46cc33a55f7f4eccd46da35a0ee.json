@@ -1,0 +1,10 @@
+{
+	"Id": "0x0f0835fa47b5b46cc33a55f7f4eccd46da35a0ee",
+	"Symbol": "moon();-WETH",
+	"UnderlyingTokens": [
+		"0x9359e0abf1c333e13cc44e2002790f8fa42dcb4c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

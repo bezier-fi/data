@@ -1,0 +1,10 @@
+{
+	"Id": "0x3dce6ba7dcb172df97685d20a5d26f80e4ccacc7",
+	"Symbol": "WETH-PEPET",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe451d7c0d8a126175a9d10a3a9554d47c333fb0f"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

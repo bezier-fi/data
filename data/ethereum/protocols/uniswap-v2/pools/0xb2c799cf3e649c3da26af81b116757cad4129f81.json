@@ -1,0 +1,27 @@
+{
+	"Id": "0xb2c799cf3e649c3da26af81b116757cad4129f81",
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Outputs": [
+		{
+			"Address": "0xb2c799cf3e649c3da26af81b116757cad4129f81",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb02b22718551355f54838c2d070f13bc6c46fb39",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MARLEY-WETH",
+	"Chain": "ethereum"
+}

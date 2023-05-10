@@ -1,0 +1,10 @@
+{
+	"Id": "0x1669b0d319a8415cf2b04a0d90a3aeb4448619e8",
+	"Symbol": "GINGER-WETH",
+	"UnderlyingTokens": [
+		"0xa489c081e3b6ab19bd2e8d2d233221393dbb193b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

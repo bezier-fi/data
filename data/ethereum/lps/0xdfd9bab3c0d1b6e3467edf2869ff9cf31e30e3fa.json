@@ -1,0 +1,10 @@
+{
+	"Id": "0xdfd9bab3c0d1b6e3467edf2869ff9cf31e30e3fa",
+	"Symbol": "GOB-WETH",
+	"UnderlyingTokens": [
+		"0x987add7757543f34716870777e875934606fe60b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

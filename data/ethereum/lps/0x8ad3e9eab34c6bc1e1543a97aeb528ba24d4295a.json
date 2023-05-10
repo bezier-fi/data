@@ -1,0 +1,10 @@
+{
+	"Id": "0x8ad3e9eab34c6bc1e1543a97aeb528ba24d4295a",
+	"Symbol": "BOBEI-WETH",
+	"UnderlyingTokens": [
+		"0x988e4a935ef5cca689a5c080ab9d9b6d9b9a0e11",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

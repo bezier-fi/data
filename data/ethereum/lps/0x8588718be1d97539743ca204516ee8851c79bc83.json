@@ -1,0 +1,10 @@
+{
+	"Id": "0x8588718be1d97539743ca204516ee8851c79bc83",
+	"Symbol": "WETH-BBEN",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe92c3831ce16179e5c6e415387fa8ae07a412a2c"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

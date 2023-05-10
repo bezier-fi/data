@@ -1,0 +1,10 @@
+{
+	"Id": "0x11e2724db67f7e258f7b5fcd29cad05542bec5a3",
+	"Symbol": "SONS-WETH",
+	"UnderlyingTokens": [
+		"0x352be743c2de0fea03dc5f300a1dc1a15df50e97",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x87884bc862aaa155415d8de53b83571169ce2700",
+	"Symbol": "WETH-FRODOG",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe2504f13a989af5dfe12abfe91726289d4b3f93c"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

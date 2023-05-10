@@ -1,0 +1,10 @@
+{
+	"Id": "0xf61f828170ae447310fe3c661bad9b1bce699c93",
+	"Symbol": "WETH-RIZZ",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd4112cb081cefabf3b90d3ba0da0a3a223f18fc2"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

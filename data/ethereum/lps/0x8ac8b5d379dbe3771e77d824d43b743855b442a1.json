@@ -1,0 +1,10 @@
+{
+	"Id": "0x8ac8b5d379dbe3771e77d824d43b743855b442a1",
+	"Symbol": "GWEI-WETH",
+	"UnderlyingTokens": [
+		"0x286641645c2557e22e55bb35177437949349349a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

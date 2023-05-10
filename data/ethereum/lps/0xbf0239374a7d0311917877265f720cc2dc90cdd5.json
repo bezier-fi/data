@@ -1,0 +1,10 @@
+{
+	"Id": "0xbf0239374a7d0311917877265f720cc2dc90cdd5",
+	"Symbol": "SAYLOR-WETH",
+	"UnderlyingTokens": [
+		"0xad0eed17b3ada9621e1ef7139298e355162ea8c2",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

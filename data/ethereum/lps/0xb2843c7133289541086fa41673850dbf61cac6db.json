@@ -1,0 +1,10 @@
+{
+	"Id": "0xb2843c7133289541086fa41673850dbf61cac6db",
+	"Symbol": "WETH-CAPY",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf03d5fc6e08de6ad886fca34abf9a59ef633b78a"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

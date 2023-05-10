@@ -1,0 +1,10 @@
+{
+	"Id": "0x2620dc27a0fb9934fd76171400fdbe4f23e8baea",
+	"Symbol": "MINATO-WETH",
+	"UnderlyingTokens": [
+		"0x86e8a7c15d794f8aff25da6eef611ad5728c0f89",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

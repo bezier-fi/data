@@ -1,0 +1,10 @@
+{
+	"Id": "0x47167caedb1cb4ef2ecaca41f28788fa251b20bb",
+	"Symbol": "BEE-WETH",
+	"UnderlyingTokens": [
+		"0xbee00daf5b9c83d00a2fb684c7668f3088650035",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

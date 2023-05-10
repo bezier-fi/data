@@ -1,0 +1,10 @@
+{
+	"Id": "0xf7678b595abeab4f03b748462a08532d03492347",
+	"Symbol": "GATTI-WETH",
+	"UnderlyingTokens": [
+		"0x89ead74d38235d59c891b9d1c3d32a8c6d4dfe44",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0xc943de3aafe06aaf60cff41fb1f43cf66d64348e",
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Outputs": [
+		{
+			"Address": "0xc943de3aafe06aaf60cff41fb1f43cf66d64348e",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xf3b62184c56a0e6cfe950f60393d2e8039c03dda",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-BUZZ",
+	"Chain": "ethereum"
+}

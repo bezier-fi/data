@@ -1,0 +1,10 @@
+{
+	"Id": "0x9ca685e12aa81a4553071c6abeff1e5fcffd37fc",
+	"Symbol": "DORA-WETH",
+	"UnderlyingTokens": [
+		"0x9dc4a38a1d2f24ecf406fb994b94594ebc1ccb12",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

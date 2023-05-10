@@ -1,0 +1,27 @@
+{
+	"Id": "0x8d6336e0b9b15c6878162ea638e15892ee6bd165",
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Outputs": [
+		{
+			"Address": "0x8d6336e0b9b15c6878162ea638e15892ee6bd165",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3b84125bc381585f45a82691b8347349b1ac5054",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BITTREKT-WETH",
+	"Chain": "ethereum"
+}

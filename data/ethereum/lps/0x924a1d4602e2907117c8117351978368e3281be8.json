@@ -1,0 +1,10 @@
+{
+	"Id": "0x924a1d4602e2907117c8117351978368e3281be8",
+	"Symbol": "BOFA-WETH",
+	"UnderlyingTokens": [
+		"0xacb3f64aa4b8e25c07320b476342cd6152f561ae",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

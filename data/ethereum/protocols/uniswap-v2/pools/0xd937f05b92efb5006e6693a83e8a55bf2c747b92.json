@@ -1,0 +1,27 @@
+{
+	"Id": "0xd937f05b92efb5006e6693a83e8a55bf2c747b92",
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Outputs": [
+		{
+			"Address": "0xd937f05b92efb5006e6693a83e8a55bf2c747b92",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x15faa8a984733078e3715799821de2f37682f28b",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BOOMERANG-WETH",
+	"Chain": "ethereum"
+}

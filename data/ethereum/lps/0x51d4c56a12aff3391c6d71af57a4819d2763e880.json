@@ -1,0 +1,10 @@
+{
+	"Id": "0x51d4c56a12aff3391c6d71af57a4819d2763e880",
+	"Symbol": "KERMIT-WETH",
+	"UnderlyingTokens": [
+		"0x69690040b17ea50e0645b246273d0b15c493ff3b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

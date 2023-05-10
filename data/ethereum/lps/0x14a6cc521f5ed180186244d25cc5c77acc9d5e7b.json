@@ -1,0 +1,10 @@
+{
+	"Id": "0x14a6cc521f5ed180186244d25cc5c77acc9d5e7b",
+	"Symbol": "DROKI-WETH",
+	"UnderlyingTokens": [
+		"0x3e4ad738c3ccc218abbba29e8dc8ef2eeb9d28f0",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

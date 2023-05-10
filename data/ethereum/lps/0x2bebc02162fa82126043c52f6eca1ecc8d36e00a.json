@@ -1,0 +1,10 @@
+{
+	"Id": "0x2bebc02162fa82126043c52f6eca1ecc8d36e00a",
+	"Symbol": "WETH-BIRD",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xeef7b84a94d8d5fbd24616bec56c4c07a64f6cb0"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

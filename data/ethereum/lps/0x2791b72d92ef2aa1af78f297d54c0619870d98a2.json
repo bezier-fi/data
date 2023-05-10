@@ -1,0 +1,10 @@
+{
+	"Id": "0x2791b72d92ef2aa1af78f297d54c0619870d98a2",
+	"Symbol": "PAIN-WETH",
+	"UnderlyingTokens": [
+		"0x81c37d840567d3ed8dd3946d3f3b6a0300afc794",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

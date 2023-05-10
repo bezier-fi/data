@@ -1,0 +1,10 @@
+{
+	"Id": "0xcbb24c0b3551f9ef7fd89e12a1fad2f9ae4e59cc",
+	"Symbol": "WETH-FKLN",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xebfe188f6771415110c391fd0dd12e215fc93d2e"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

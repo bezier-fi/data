@@ -1,0 +1,10 @@
+{
+	"Id": "0x56236b4739587b07206a269197e4bfdfb53d093b",
+	"Symbol": "CJ-WETH",
+	"UnderlyingTokens": [
+		"0xa004a5bf08dff73eee89a5bf10c322f14d0dbf86",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

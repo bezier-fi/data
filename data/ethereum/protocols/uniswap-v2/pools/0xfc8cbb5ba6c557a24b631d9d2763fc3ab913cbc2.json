@@ -1,0 +1,27 @@
+{
+	"Id": "0xfc8cbb5ba6c557a24b631d9d2763fc3ab913cbc2",
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Outputs": [
+		{
+			"Address": "0xfc8cbb5ba6c557a24b631d9d2763fc3ab913cbc2",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5f08448b3cb802819e45048f9ee9980bd6f3efed",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SMURF-WETH",
+	"Chain": "ethereum"
+}

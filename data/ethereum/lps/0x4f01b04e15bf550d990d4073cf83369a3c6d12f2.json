@@ -1,0 +1,10 @@
+{
+	"Id": "0x4f01b04e15bf550d990d4073cf83369a3c6d12f2",
+	"Symbol": "RICK-WETH",
+	"UnderlyingTokens": [
+		"0x2af7dbf59d49b44b149268fb6e346718d4909069",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

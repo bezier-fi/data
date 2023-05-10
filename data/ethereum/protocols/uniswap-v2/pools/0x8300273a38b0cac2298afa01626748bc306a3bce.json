@@ -1,0 +1,27 @@
+{
+	"Id": "0x8300273a38b0cac2298afa01626748bc306a3bce",
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Outputs": [
+		{
+			"Address": "0x8300273a38b0cac2298afa01626748bc306a3bce",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4a80c8e7d500ae5213505ab5960dd2513c422e33",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "COFFEE-WETH",
+	"Chain": "ethereum"
+}

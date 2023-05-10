@@ -1,0 +1,10 @@
+{
+	"Id": "0xd48e29e952e81e35baabdd92df9628c3e148898b",
+	"Symbol": "WETH-ANGELA",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd179aceaa7640a7b0ce8295b8013d453a4b21447"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

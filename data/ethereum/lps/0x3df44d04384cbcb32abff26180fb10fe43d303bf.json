@@ -1,0 +1,10 @@
+{
+	"Id": "0x3df44d04384cbcb32abff26180fb10fe43d303bf",
+	"Symbol": "WETH-TOD",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc7f33913e55a587c6a54b5675b30041d24151628"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

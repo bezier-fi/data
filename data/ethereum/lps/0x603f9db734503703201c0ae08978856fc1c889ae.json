@@ -1,0 +1,10 @@
+{
+	"Id": "0x603f9db734503703201c0ae08978856fc1c889ae",
+	"Symbol": "SIMPSONS-WETH",
+	"UnderlyingTokens": [
+		"0x4ecce51e059419cbfa07d8ef2421fa37164bf0bb",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

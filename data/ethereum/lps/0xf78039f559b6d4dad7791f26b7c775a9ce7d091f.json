@@ -1,0 +1,10 @@
+{
+	"Id": "0xf78039f559b6d4dad7791f26b7c775a9ce7d091f",
+	"Symbol": "WETH-Perry",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xcf6d3a27f397aebef0d17422d45da3879be75424"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

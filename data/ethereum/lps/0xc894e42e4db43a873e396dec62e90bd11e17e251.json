@@ -1,0 +1,10 @@
+{
+	"Id": "0xc894e42e4db43a873e396dec62e90bd11e17e251",
+	"Symbol": "WETH-YESNO",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xcb88cc22092af95421c066b714d835101e998362"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

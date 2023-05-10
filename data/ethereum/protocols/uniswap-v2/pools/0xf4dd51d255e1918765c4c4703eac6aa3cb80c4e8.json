@@ -1,0 +1,27 @@
+{
+	"Id": "0xf4dd51d255e1918765c4c4703eac6aa3cb80c4e8",
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Outputs": [
+		{
+			"Address": "0xf4dd51d255e1918765c4c4703eac6aa3cb80c4e8",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x66666f8f2f6afc55417baf203166e0f93c448888",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PUTIN-WETH",
+	"Chain": "ethereum"
+}

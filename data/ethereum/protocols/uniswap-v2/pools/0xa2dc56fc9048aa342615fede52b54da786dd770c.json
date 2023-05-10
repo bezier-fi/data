@@ -1,0 +1,27 @@
+{
+	"Id": "0xa2dc56fc9048aa342615fede52b54da786dd770c",
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Outputs": [
+		{
+			"Address": "0xa2dc56fc9048aa342615fede52b54da786dd770c",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xfb55e05a6691ba146f1e1152f1fdec5ac7c2a8ae",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-ELONPEPE",
+	"Chain": "ethereum"
+}

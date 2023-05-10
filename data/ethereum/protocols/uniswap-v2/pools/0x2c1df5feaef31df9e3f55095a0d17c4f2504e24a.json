@@ -1,0 +1,27 @@
+{
+	"Id": "0x2c1df5feaef31df9e3f55095a0d17c4f2504e24a",
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Outputs": [
+		{
+			"Address": "0x2c1df5feaef31df9e3f55095a0d17c4f2504e24a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xf25fd77c9d631244b8bc6eb53a7f3caf213430f7",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-LOTUS",
+	"Chain": "ethereum"
+}

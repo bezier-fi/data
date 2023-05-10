@@ -1,0 +1,10 @@
+{
+	"Id": "0xb0144aae0cfaca46522eb5467bc02c625fc86e60",
+	"Symbol": "KAWAII-WETH",
+	"UnderlyingTokens": [
+		"0x169c06b4cfb09bfd73a81e6f2bb1eb514d75bb19",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

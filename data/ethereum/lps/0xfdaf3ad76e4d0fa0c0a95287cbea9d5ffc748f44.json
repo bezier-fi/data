@@ -1,0 +1,10 @@
+{
+	"Id": "0xfdaf3ad76e4d0fa0c0a95287cbea9d5ffc748f44",
+	"Symbol": "BUSSIN-WETH",
+	"UnderlyingTokens": [
+		"0x2cfc08d1ede41492c3238d839ff4ca2c0860414e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

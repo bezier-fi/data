@@ -1,0 +1,27 @@
+{
+	"Id": "0xeb416ad4a6459ac857e0f251efbd8d79497e24a8",
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Outputs": [
+		{
+			"Address": "0xeb416ad4a6459ac857e0f251efbd8d79497e24a8",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xbe4f752cc40d4d4846319a4b0e4b305752457f60",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GUCCI-WETH",
+	"Chain": "ethereum"
+}

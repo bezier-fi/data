@@ -1,0 +1,10 @@
+{
+	"Id": "0x6aa6aec1df31b1ea4c934edfe692a5497b959d4c",
+	"Symbol": "WOLF-WETH",
+	"UnderlyingTokens": [
+		"0x27136d44d63be1072bae4ce4fb033f97aa4f84ab",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x244ff86d6959b3cd4ed520cc74336e9f22a64b20",
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Outputs": [
+		{
+			"Address": "0x244ff86d6959b3cd4ed520cc74336e9f22a64b20",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8bdf5f2df872122b9b056d17282f42cdfe266907",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PEPECRUSH-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xdcf8af086cf22774e19c7f6751e82ac8bca8b05d",
+	"Symbol": "WETH-RYAN",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xcc42fe2775194f0518c5e23bbc591ef013c304a4"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

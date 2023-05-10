@@ -1,0 +1,10 @@
+{
+	"Id": "0x72ba7acf0ecbeeef08802bac3b2fe3e9544fcf0e",
+	"Symbol": "SAUDIPEPE-WETH",
+	"UnderlyingTokens": [
+		"0x8acee0fcee91cedad1c5013f031762c814740587",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

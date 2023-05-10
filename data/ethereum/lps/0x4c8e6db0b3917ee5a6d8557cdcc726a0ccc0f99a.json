@@ -1,0 +1,10 @@
+{
+	"Id": "0x4c8e6db0b3917ee5a6d8557cdcc726a0ccc0f99a",
+	"Symbol": "WILL-WETH",
+	"UnderlyingTokens": [
+		"0x2f188fe264012345c5f1b3f8e625282cb0d66d7d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x7a0dc7205291126469987090c468f60c74529e14",
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Outputs": [
+		{
+			"Address": "0x7a0dc7205291126469987090c468f60c74529e14",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x319e4ded02260a8cb33eb86d15a8d0c44acf5511",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CASPER-WETH",
+	"Chain": "ethereum"
+}

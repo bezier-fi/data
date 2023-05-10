@@ -1,0 +1,27 @@
+{
+	"Id": "0x92f90392d7089ceaba099b6c6df54dd5b7f2bc05",
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Outputs": [
+		{
+			"Address": "0x92f90392d7089ceaba099b6c6df54dd5b7f2bc05",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8a38acb43841633824ad1d1270dcd33c4cb28b94",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CHICKEN-WETH",
+	"Chain": "ethereum"
+}

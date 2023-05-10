@@ -1,0 +1,10 @@
+{
+	"Id": "0x70f87aab5ad8ba060a4293b78f92cfa6aa40783e",
+	"Symbol": "WHY-WETH",
+	"UnderlyingTokens": [
+		"0xa69cfe93d8b725eee7fb8372e9af5289ec4f2a10",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

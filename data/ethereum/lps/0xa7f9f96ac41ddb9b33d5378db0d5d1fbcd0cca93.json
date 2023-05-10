@@ -1,0 +1,10 @@
+{
+	"Id": "0xa7f9f96ac41ddb9b33d5378db0d5d1fbcd0cca93",
+	"Symbol": "$CARTEL-WETH",
+	"UnderlyingTokens": [
+		"0xa381e7073ea828fb963157dcc4b414da4344e3fd",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

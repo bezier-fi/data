@@ -1,0 +1,10 @@
+{
+	"Id": "0x59169e98502b8252175e898bcda0d958c3c8f038",
+	"Symbol": "JAKE-WETH",
+	"UnderlyingTokens": [
+		"0x6ec12aef181c9c858c2b2bd7af831f240ad6bf72",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

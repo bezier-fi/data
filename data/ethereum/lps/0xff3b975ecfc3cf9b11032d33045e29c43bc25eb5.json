@@ -1,0 +1,10 @@
+{
+	"Id": "0xff3b975ecfc3cf9b11032d33045e29c43bc25eb5",
+	"Symbol": "PYC-WETH",
+	"UnderlyingTokens": [
+		"0x98713d3c31f9b89f42e9d8d1dcd2e6f000da9a86",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

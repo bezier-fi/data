@@ -1,0 +1,10 @@
+{
+	"Id": "0xedcd929c1efb3557025cb54ccc7553727eac73c5",
+	"Symbol": "JDB-WETH",
+	"UnderlyingTokens": [
+		"0xbad96ea5d43156a99a94cd1fd36a330aa7e2273e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

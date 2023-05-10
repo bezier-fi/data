@@ -1,0 +1,27 @@
+{
+	"Id": "0x71639a312dd2819427c1f9d68df0011a3962107f",
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Outputs": [
+		{
+			"Address": "0x71639a312dd2819427c1f9d68df0011a3962107f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x728f9027b6bde5123bede96f6a38a32b65417457",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CHIM-WETH",
+	"Chain": "ethereum"
+}

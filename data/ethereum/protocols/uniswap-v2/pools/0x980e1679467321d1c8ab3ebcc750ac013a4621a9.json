@@ -1,0 +1,27 @@
+{
+	"Id": "0x980e1679467321d1c8ab3ebcc750ac013a4621a9",
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Outputs": [
+		{
+			"Address": "0x980e1679467321d1c8ab3ebcc750ac013a4621a9",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x971aabcf9e922e1003969a7662a43765d4527b82",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "DUDES-WETH",
+	"Chain": "ethereum"
+}

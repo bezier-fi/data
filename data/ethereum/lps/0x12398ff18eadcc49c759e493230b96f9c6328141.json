@@ -1,0 +1,10 @@
+{
+	"Id": "0x12398ff18eadcc49c759e493230b96f9c6328141",
+	"Symbol": "GROWTH-WETH",
+	"UnderlyingTokens": [
+		"0x36ce1b30c4eea6882c9435b35274bda3f1ef50fa",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

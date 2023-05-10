@@ -1,0 +1,10 @@
+{
+	"Id": "0x22ea600dacdd7f6dff894fffacfe31a7e5934f39",
+	"Symbol": "WETH-JEBUS",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xcb1f267b6b3c4766d6a6993aeb6dfbb26c7773a1"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

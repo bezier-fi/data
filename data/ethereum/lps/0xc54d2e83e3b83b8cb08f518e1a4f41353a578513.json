@@ -1,0 +1,10 @@
+{
+	"Id": "0xc54d2e83e3b83b8cb08f518e1a4f41353a578513",
+	"Symbol": "TOADKAGE-WETH",
+	"UnderlyingTokens": [
+		"0x56b63010d5ae8addf4d7b7248442f4bdcd63f635",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x5898115a74565ec760b1eb6047352f3d2768bff7",
+	"Symbol": "WETH-MICKEY",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xcf8618f4e9a8f569ed961ba72c9341f1e4ac7400"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

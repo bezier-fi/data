@@ -1,0 +1,10 @@
+{
+	"Id": "0x3a22710dbd18ddcfe64e28ed5a97fa4774fd2c3d",
+	"Symbol": "FOFO-WETH",
+	"UnderlyingTokens": [
+		"0x27f103f86070cc639fef262787a16887d22d8415",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

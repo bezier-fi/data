@@ -1,0 +1,10 @@
+{
+	"Id": "0x1839fb0840e3116f40a6cdc963fe804b1dd9cec8",
+	"Symbol": "JAMAL-WETH",
+	"UnderlyingTokens": [
+		"0x984275be76677ccffa415a61a8173a1d7b530ec3",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

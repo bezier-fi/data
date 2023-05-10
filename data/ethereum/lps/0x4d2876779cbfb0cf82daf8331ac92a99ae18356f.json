@@ -1,0 +1,10 @@
+{
+	"Id": "0x4d2876779cbfb0cf82daf8331ac92a99ae18356f",
+	"Symbol": "Buzz-WETH",
+	"UnderlyingTokens": [
+		"0x927873b0a0c1f54a5e8f3821128c50810b18a4be",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

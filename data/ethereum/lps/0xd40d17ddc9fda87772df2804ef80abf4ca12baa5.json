@@ -1,0 +1,10 @@
+{
+	"Id": "0xd40d17ddc9fda87772df2804ef80abf4ca12baa5",
+	"Symbol": "HODL-WETH",
+	"UnderlyingTokens": [
+		"0xaaa8f49fba9f8cfaeb94a821f4bae28d6070882f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "46213e14-e545-403a-8ad0-a31f10dc6015",
+	"Chain": "ethereum"
+}

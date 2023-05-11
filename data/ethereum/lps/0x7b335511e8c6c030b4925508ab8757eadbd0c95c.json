@@ -1,0 +1,10 @@
+{
+	"Id": "0x7b335511e8c6c030b4925508ab8757eadbd0c95c",
+	"Symbol": "BOOM-WETH",
+	"UnderlyingTokens": [
+		"0x1c079a43aad4e6cd97f891a786292f7c6481df97",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "96af7834-3949-42ff-98e1-2abf6036982b",
+	"Chain": "ethereum"
+}

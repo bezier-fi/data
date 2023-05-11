@@ -1,0 +1,10 @@
+{
+	"Id": "0xd0213b4cc29b1c2e2385212e37c05e554f5e6683",
+	"Symbol": "SONIC-WETH",
+	"UnderlyingTokens": [
+		"0x047f425a04b662a3b2430476596a0fff7b805d73",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "96af7834-3949-42ff-98e1-2abf6036982b",
+	"Chain": "ethereum"
+}

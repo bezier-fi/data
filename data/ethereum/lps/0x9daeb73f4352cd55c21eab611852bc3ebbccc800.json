@@ -1,0 +1,10 @@
+{
+	"Id": "0x9daeb73f4352cd55c21eab611852bc3ebbccc800",
+	"Symbol": "WETH-GUSTA",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe2f668f6166eda65620a01c4c116a5f6e5528614"
+	],
+	"Protocol": "96af7834-3949-42ff-98e1-2abf6036982b",
+	"Chain": "ethereum"
+}

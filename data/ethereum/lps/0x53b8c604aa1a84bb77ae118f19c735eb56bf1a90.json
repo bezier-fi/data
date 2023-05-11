@@ -1,0 +1,10 @@
+{
+	"Id": "0x53b8c604aa1a84bb77ae118f19c735eb56bf1a90",
+	"Symbol": "WETH-AirPEPE",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc9766238447eaf15faf0c77398e9ed74be948351"
+	],
+	"Protocol": "96af7834-3949-42ff-98e1-2abf6036982b",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x4b769f1a95108a44d31525b8be63ebcf7ba5d81b",
+	"Symbol": "WETH-PASCAL",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd3adf7769a4ccb48d1b31e5b33b944239cad2e57"
+	],
+	"Protocol": "96af7834-3949-42ff-98e1-2abf6036982b",
+	"Chain": "ethereum"
+}

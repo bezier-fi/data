@@ -1,0 +1,10 @@
+{
+	"Id": "0x16cde98f1d8aeeb9311ace76799d5b6d597b74c3",
+	"Symbol": "SHAUN-WETH",
+	"UnderlyingTokens": [
+		"0x86e21cf93210e16bcfbd6fbd9f7598cac76e07fc",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "96af7834-3949-42ff-98e1-2abf6036982b",
+	"Chain": "ethereum"
+}

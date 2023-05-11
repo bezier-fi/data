@@ -1,0 +1,10 @@
+{
+	"Id": "0xb9f60ab9c5748c4bf1abef98382aaf29132f9efa",
+	"Symbol": "FATE-WETH",
+	"UnderlyingTokens": [
+		"0x5114616637bec16b023c9e29632286bcea670127",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "96af7834-3949-42ff-98e1-2abf6036982b",
+	"Chain": "ethereum"
+}

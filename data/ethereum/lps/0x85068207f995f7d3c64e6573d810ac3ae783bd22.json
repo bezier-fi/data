@@ -1,0 +1,10 @@
+{
+	"Id": "0x85068207f995f7d3c64e6573d810ac3ae783bd22",
+	"Symbol": "WETH-HODLR",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf1dfd962e1a23bb63214660bb9f883b7457a02dc"
+	],
+	"Protocol": "96af7834-3949-42ff-98e1-2abf6036982b",
+	"Chain": "ethereum"
+}

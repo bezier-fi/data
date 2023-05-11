@@ -1,0 +1,10 @@
+{
+	"Id": "0xc0160f2660b4ef7a46c0dfc7d9c7fbc8f9185f7d",
+	"Symbol": "BAE-WETH",
+	"UnderlyingTokens": [
+		"0x40dce18e9499541a5c5b45f5d8d7ea44e4737c7b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "96af7834-3949-42ff-98e1-2abf6036982b",
+	"Chain": "ethereum"
+}

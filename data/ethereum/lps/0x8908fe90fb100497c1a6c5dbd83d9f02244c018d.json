@@ -1,0 +1,10 @@
+{
+	"Id": "0x8908fe90fb100497c1a6c5dbd83d9f02244c018d",
+	"Symbol": "mesos-WETH",
+	"UnderlyingTokens": [
+		"0x3b7279eae42f2beb14d92bbdf110fd057c79eedb",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "96af7834-3949-42ff-98e1-2abf6036982b",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x41077a6ef117a878ab348754e58f6f365f162bb2",
+	"Symbol": "SIMP-WETH",
+	"UnderlyingTokens": [
+		"0x56f81a87a30eb6130152b1288f4438282939362b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "96af7834-3949-42ff-98e1-2abf6036982b",
+	"Chain": "ethereum"
+}

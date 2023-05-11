@@ -1,0 +1,27 @@
+{
+	"Id": "0x35454fc6afa97d06e476f79941139e433a996fe0",
+	"Protocol": "96af7834-3949-42ff-98e1-2abf6036982b",
+	"Outputs": [
+		{
+			"Address": "0x35454fc6afa97d06e476f79941139e433a996fe0",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb7c6f7b9dcdb0675d3be1cda42476a15bf000a19",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "JIRAIYA-WETH",
+	"Chain": "ethereum"
+}

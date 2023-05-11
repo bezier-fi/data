@@ -1,0 +1,10 @@
+{
+	"Id": "0xbc243bfb83f6b5bec90416b7d8a2b3f3d52f810f",
+	"Symbol": "WETH-$PEPERUNNER",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd41aeaad6385095856049a83576cac4f22003b3e"
+	],
+	"Protocol": "96af7834-3949-42ff-98e1-2abf6036982b",
+	"Chain": "ethereum"
+}

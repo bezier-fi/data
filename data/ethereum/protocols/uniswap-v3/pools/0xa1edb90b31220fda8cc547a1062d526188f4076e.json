@@ -1,0 +1,27 @@
+{
+	"Id": "0xa1edb90b31220fda8cc547a1062d526188f4076e",
+	"Protocol": "414b60ab-3d52-4092-bf89-bb26190e023b",
+	"Outputs": [
+		{
+			"Address": "0xa1edb90b31220fda8cc547a1062d526188f4076e",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x019874305b412dca28c145ad05ce6ac6cab01a2b",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ILY\u003c3-WETH (1.00%)",
+	"Chain": "ethereum"
+}

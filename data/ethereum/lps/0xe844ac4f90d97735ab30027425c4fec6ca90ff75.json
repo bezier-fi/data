@@ -1,0 +1,10 @@
+{
+	"Id": "0xe844ac4f90d97735ab30027425c4fec6ca90ff75",
+	"Symbol": "QUACK-WETH",
+	"UnderlyingTokens": [
+		"0xa2d85b863db3e9354f088da13f16511834fffc4e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "96af7834-3949-42ff-98e1-2abf6036982b",
+	"Chain": "ethereum"
+}

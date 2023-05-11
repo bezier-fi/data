@@ -1,0 +1,10 @@
+{
+	"Id": "0x773950ba4f1237212c6bce66a9b9f00faa70c596",
+	"Symbol": "GBULL-WETH",
+	"UnderlyingTokens": [
+		"0x6e980661654001746ca5b554f056ca95027d22ad",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "96af7834-3949-42ff-98e1-2abf6036982b",
+	"Chain": "ethereum"
+}

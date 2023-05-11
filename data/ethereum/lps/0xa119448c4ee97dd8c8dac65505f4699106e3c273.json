@@ -1,0 +1,10 @@
+{
+	"Id": "0xa119448c4ee97dd8c8dac65505f4699106e3c273",
+	"Symbol": "AILY-WETH",
+	"UnderlyingTokens": [
+		"0x38d782087029715b458f14c0de75ada7957e0e6d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "96af7834-3949-42ff-98e1-2abf6036982b",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xc1252aeb9b35c6f38f29affc5b1e1f88cb6566d2",
+	"Symbol": "PFT-WETH",
+	"UnderlyingTokens": [
+		"0x9ea11a076c333d0bfd31daf29636e156cb37820e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "96af7834-3949-42ff-98e1-2abf6036982b",
+	"Chain": "ethereum"
+}

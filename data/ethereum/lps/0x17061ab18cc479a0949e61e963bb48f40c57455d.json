@@ -1,0 +1,10 @@
+{
+	"Id": "0x17061ab18cc479a0949e61e963bb48f40c57455d",
+	"Symbol": "WETH-ORANGE",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe186e8dcc68f43dc3df439a42590b44b2b8a00c1"
+	],
+	"Protocol": "96af7834-3949-42ff-98e1-2abf6036982b",
+	"Chain": "ethereum"
+}

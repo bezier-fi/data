@@ -1,0 +1,10 @@
+{
+	"Id": "0xef4dd2a1647d308142b5ca5372c714291e6f5593",
+	"Symbol": "ASH-WETH",
+	"UnderlyingTokens": [
+		"0x45c1085f2a8ce7c71b24d4130c2daf9a95d2b196",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "96af7834-3949-42ff-98e1-2abf6036982b",
+	"Chain": "ethereum"
+}

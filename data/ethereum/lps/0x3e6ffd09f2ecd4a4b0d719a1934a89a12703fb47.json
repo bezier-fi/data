@@ -1,0 +1,10 @@
+{
+	"Id": "0x3e6ffd09f2ecd4a4b0d719a1934a89a12703fb47",
+	"Symbol": "Snooge-WETH",
+	"UnderlyingTokens": [
+		"0x51eb775200af14c5e141adb5df9af4bf22de375a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "96af7834-3949-42ff-98e1-2abf6036982b",
+	"Chain": "ethereum"
+}

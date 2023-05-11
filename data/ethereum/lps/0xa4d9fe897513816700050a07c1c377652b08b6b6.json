@@ -1,0 +1,10 @@
+{
+	"Id": "0xa4d9fe897513816700050a07c1c377652b08b6b6",
+	"Symbol": "CRYPTOBROS-WETH",
+	"UnderlyingTokens": [
+		"0x66347efd0deaf30affa79198fc27dd57f83fae8d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "96af7834-3949-42ff-98e1-2abf6036982b",
+	"Chain": "ethereum"
+}

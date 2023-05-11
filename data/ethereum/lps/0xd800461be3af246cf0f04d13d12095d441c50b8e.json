@@ -1,0 +1,10 @@
+{
+	"Id": "0xd800461be3af246cf0f04d13d12095d441c50b8e",
+	"Symbol": "TOAD-WETH",
+	"UnderlyingTokens": [
+		"0x8aecf9e94babce08f1a5f64790f8752a8bd502b2",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "96af7834-3949-42ff-98e1-2abf6036982b",
+	"Chain": "ethereum"
+}

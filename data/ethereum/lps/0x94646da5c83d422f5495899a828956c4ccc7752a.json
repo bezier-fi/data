@@ -1,0 +1,10 @@
+{
+	"Id": "0x94646da5c83d422f5495899a828956c4ccc7752a",
+	"Symbol": "ILY-WETH",
+	"UnderlyingTokens": [
+		"0x3c8232167f22a814bcc87df511d58ee2b360169b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "96af7834-3949-42ff-98e1-2abf6036982b",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x0cc8b9ad0c0e37eb88f0c9c7f74653246f44ab67",
+	"Symbol": "SAFEPRINT-WETH",
+	"UnderlyingTokens": [
+		"0x426693b8ed549edaf3a6a1a618582bc3a44679e7",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "96af7834-3949-42ff-98e1-2abf6036982b",
+	"Chain": "ethereum"
+}

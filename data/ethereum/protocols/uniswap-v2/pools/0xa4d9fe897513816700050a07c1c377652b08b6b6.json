@@ -1,0 +1,27 @@
+{
+	"Id": "0xa4d9fe897513816700050a07c1c377652b08b6b6",
+	"Protocol": "96af7834-3949-42ff-98e1-2abf6036982b",
+	"Outputs": [
+		{
+			"Address": "0xa4d9fe897513816700050a07c1c377652b08b6b6",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x66347efd0deaf30affa79198fc27dd57f83fae8d",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CRYPTOBROS-WETH",
+	"Chain": "ethereum"
+}

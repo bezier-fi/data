@@ -1,0 +1,27 @@
+{
+	"Id": "0xe25a288644ada7a37a8deaadd5b494dc468cef43",
+	"Protocol": "414b60ab-3d52-4092-bf89-bb26190e023b",
+	"Outputs": [
+		{
+			"Address": "0xe25a288644ada7a37a8deaadd5b494dc468cef43",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x66955b36f729564f12eb59444d15ef914b42536a",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FOOD-WETH (1.00%)",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x786fb5409d2b762ef436d40c181e73fef8d45b2c",
+	"Symbol": "WETH-$KARAT",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfc0b44bb3e7cf02cd87eaa77cc8e4dc40464dd93"
+	],
+	"Protocol": "96af7834-3949-42ff-98e1-2abf6036982b",
+	"Chain": "ethereum"
+}

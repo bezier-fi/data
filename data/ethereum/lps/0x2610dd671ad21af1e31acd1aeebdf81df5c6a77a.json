@@ -1,0 +1,10 @@
+{
+	"Id": "0x2610dd671ad21af1e31acd1aeebdf81df5c6a77a",
+	"Symbol": "COBRA-WETH",
+	"UnderlyingTokens": [
+		"0xb26bb674fcf52985b63c5505ababb41e0ecb42bf",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "96af7834-3949-42ff-98e1-2abf6036982b",
+	"Chain": "ethereum"
+}

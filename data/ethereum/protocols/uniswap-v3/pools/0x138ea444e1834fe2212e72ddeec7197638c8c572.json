@@ -1,0 +1,27 @@
+{
+	"Id": "0x138ea444e1834fe2212e72ddeec7197638c8c572",
+	"Protocol": "1ef3e447-a7f7-4f69-bb47-d3bb85ce5b7e",
+	"Outputs": [
+		{
+			"Address": "0x138ea444e1834fe2212e72ddeec7197638c8c572",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0e51903062124e1ba29723fedc811284b6151502",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WorldCoin-WETH (1.00%)",
+	"Chain": "ethereum"
+}

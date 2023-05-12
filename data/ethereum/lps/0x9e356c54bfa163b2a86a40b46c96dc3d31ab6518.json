@@ -1,0 +1,10 @@
+{
+	"Id": "0x9e356c54bfa163b2a86a40b46c96dc3d31ab6518",
+	"Symbol": "WETH-BABYLADYS",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd3e495fbe341ef23bf8e98708ed579a19515216d"
+	],
+	"Protocol": "ad54bcfd-1913-43f0-9130-6d6339d55d70",
+	"Chain": "ethereum"
+}

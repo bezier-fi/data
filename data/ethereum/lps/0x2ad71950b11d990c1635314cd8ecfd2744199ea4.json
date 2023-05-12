@@ -1,0 +1,10 @@
+{
+	"Id": "0x2ad71950b11d990c1635314cd8ecfd2744199ea4",
+	"Symbol": "Elondy-WETH",
+	"UnderlyingTokens": [
+		"0x39c1761fe6f29606c2eb8b86ce18d8cb45c71e35",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ad54bcfd-1913-43f0-9130-6d6339d55d70",
+	"Chain": "ethereum"
+}

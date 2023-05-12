@@ -1,0 +1,10 @@
+{
+	"Id": "0xb21949d46f33feb7b390a00d841bf4af3501500a",
+	"Symbol": "OINK-WETH",
+	"UnderlyingTokens": [
+		"0x1b950deb0b7ec3582441d1792fef7e0630cc65c7",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ad54bcfd-1913-43f0-9130-6d6339d55d70",
+	"Chain": "ethereum"
+}

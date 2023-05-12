@@ -1,0 +1,10 @@
+{
+	"Id": "0xe5fac46e82f5c44b01841dbe9e3f9b98ffd07568",
+	"Symbol": "SAUL-WETH",
+	"UnderlyingTokens": [
+		"0xae8f10136709320e09ad70dfba31c3860743f335",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ad54bcfd-1913-43f0-9130-6d6339d55d70",
+	"Chain": "ethereum"
+}

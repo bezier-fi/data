@@ -1,0 +1,10 @@
+{
+	"Id": "0xb2f3d2bd84753ce71f2de4ebda067a955d75be3e",
+	"Symbol": "COBIE-WETH",
+	"UnderlyingTokens": [
+		"0x9bd52e7df404ebda1552b9900fd17e4faf10315c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ad54bcfd-1913-43f0-9130-6d6339d55d70",
+	"Chain": "ethereum"
+}

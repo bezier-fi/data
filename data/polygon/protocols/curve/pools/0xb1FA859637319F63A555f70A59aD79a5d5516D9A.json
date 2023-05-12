@@ -1,0 +1,27 @@
+{
+	"Id": "0xb1FA859637319F63A555f70A59aD79a5d5516D9A",
+	"Protocol": "b6c08e36-d339-4672-89e6-1ea6a72dd843",
+	"Outputs": [
+		{
+			"Address": "0xFa914622471b21a2b01fC4709b21390C4759fc72",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xdAD97F7713Ae9437fa9249920eC8507e5FbB23d3",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xA486c6BC102f409180cCB8a94ba045D39f8fc7cB",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "crvTriNEX-f",
+	"Chain": "polygon"
+}

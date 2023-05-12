@@ -1,0 +1,10 @@
+{
+	"Id": "0x98e5c324552a68f81388269696fea82d2939f410",
+	"Symbol": "MISATO-WETH",
+	"UnderlyingTokens": [
+		"0x3a0280ba75c6e16b6e0b8e07dcf46b0610c5f279",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ad54bcfd-1913-43f0-9130-6d6339d55d70",
+	"Chain": "ethereum"
+}

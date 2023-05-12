@@ -1,0 +1,27 @@
+{
+	"Id": "0xa23c29ee269dd41dc2f6816b6aff086773dcd8e4",
+	"Protocol": "ad54bcfd-1913-43f0-9130-6d6339d55d70",
+	"Outputs": [
+		{
+			"Address": "0xa23c29ee269dd41dc2f6816b6aff086773dcd8e4",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xd841382aac5782fd9c6a516d6b752ee8e6527559",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-LILY",
+	"Chain": "ethereum"
+}

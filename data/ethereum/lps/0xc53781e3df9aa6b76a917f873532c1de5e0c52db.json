@@ -1,0 +1,10 @@
+{
+	"Id": "0xc53781e3df9aa6b76a917f873532c1de5e0c52db",
+	"Symbol": "WETH-PAN",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xceba2a8f6ec221aeb5f3a7bcd15cbc7e6a387bfb"
+	],
+	"Protocol": "ad54bcfd-1913-43f0-9130-6d6339d55d70",
+	"Chain": "ethereum"
+}

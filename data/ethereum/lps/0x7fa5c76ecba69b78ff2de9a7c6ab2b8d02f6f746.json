@@ -1,0 +1,10 @@
+{
+	"Id": "0x7fa5c76ecba69b78ff2de9a7c6ab2b8d02f6f746",
+	"Symbol": "LOVE-WETH",
+	"UnderlyingTokens": [
+		"0xbc206eb2e256f3cba3146424ef367e40c8b84315",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ad54bcfd-1913-43f0-9130-6d6339d55d70",
+	"Chain": "ethereum"
+}

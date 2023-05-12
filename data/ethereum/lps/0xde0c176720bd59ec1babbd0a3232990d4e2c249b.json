@@ -1,0 +1,10 @@
+{
+	"Id": "0xde0c176720bd59ec1babbd0a3232990d4e2c249b",
+	"Symbol": "ROSS-WETH",
+	"UnderlyingTokens": [
+		"0x32f85499159c0717d5ffa4e5d8be85ec4c8e8f5b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ad54bcfd-1913-43f0-9130-6d6339d55d70",
+	"Chain": "ethereum"
+}

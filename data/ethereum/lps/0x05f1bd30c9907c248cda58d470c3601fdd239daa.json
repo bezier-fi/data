@@ -1,0 +1,10 @@
+{
+	"Id": "0x05f1bd30c9907c248cda58d470c3601fdd239daa",
+	"Symbol": "CGPP-WETH",
+	"UnderlyingTokens": [
+		"0x6e70e8c0316eae9f4e69a3a67e3068bf4773ed27",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ad54bcfd-1913-43f0-9130-6d6339d55d70",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x257fdd87709cf5d0078a7cb16b9b0305fba18e7c",
+	"Symbol": "WETH-POPO",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd1132d26dc3e5ddca6fd79d0d0eb7c5d338b9447"
+	],
+	"Protocol": "ad54bcfd-1913-43f0-9130-6d6339d55d70",
+	"Chain": "ethereum"
+}

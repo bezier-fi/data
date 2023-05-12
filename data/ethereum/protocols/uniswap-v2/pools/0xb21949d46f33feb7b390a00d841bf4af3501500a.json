@@ -1,0 +1,27 @@
+{
+	"Id": "0xb21949d46f33feb7b390a00d841bf4af3501500a",
+	"Protocol": "ad54bcfd-1913-43f0-9130-6d6339d55d70",
+	"Outputs": [
+		{
+			"Address": "0xb21949d46f33feb7b390a00d841bf4af3501500a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1b950deb0b7ec3582441d1792fef7e0630cc65c7",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "OINK-WETH",
+	"Chain": "ethereum"
+}

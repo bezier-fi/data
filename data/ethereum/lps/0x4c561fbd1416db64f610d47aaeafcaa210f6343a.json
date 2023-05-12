@@ -1,0 +1,10 @@
+{
+	"Id": "0x4c561fbd1416db64f610d47aaeafcaa210f6343a",
+	"Symbol": "MESO-WETH",
+	"UnderlyingTokens": [
+		"0x609930a76bbe0b7cdf8c8628ef88c31044322c17",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ad54bcfd-1913-43f0-9130-6d6339d55d70",
+	"Chain": "ethereum"
+}

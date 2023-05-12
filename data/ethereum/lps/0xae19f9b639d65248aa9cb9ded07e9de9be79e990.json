@@ -1,0 +1,10 @@
+{
+	"Id": "0xae19f9b639d65248aa9cb9ded07e9de9be79e990",
+	"Symbol": "WETH-Snek",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xda3c33ba6328bed1a86295b1607bc2cff69c5d18"
+	],
+	"Protocol": "ad54bcfd-1913-43f0-9130-6d6339d55d70",
+	"Chain": "ethereum"
+}

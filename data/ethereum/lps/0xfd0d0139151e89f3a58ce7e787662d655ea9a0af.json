@@ -1,0 +1,10 @@
+{
+	"Id": "0xfd0d0139151e89f3a58ce7e787662d655ea9a0af",
+	"Symbol": "PUTT-WETH",
+	"UnderlyingTokens": [
+		"0xa9ffebb57ae8756de480fcbda3dc2ca80755f86f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ad54bcfd-1913-43f0-9130-6d6339d55d70",
+	"Chain": "ethereum"
+}

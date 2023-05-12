@@ -1,0 +1,27 @@
+{
+	"Id": "0x9b3516c12e8e4ac0e19aee0fd94b02e542280546",
+	"Protocol": "ad54bcfd-1913-43f0-9130-6d6339d55d70",
+	"Outputs": [
+		{
+			"Address": "0x9b3516c12e8e4ac0e19aee0fd94b02e542280546",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x903fe48c7ee4dfc0e1f8e5642358c4f539cde37a",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Remilio-WETH",
+	"Chain": "ethereum"
+}

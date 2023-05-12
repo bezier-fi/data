@@ -1,0 +1,10 @@
+{
+	"Id": "0x0fd30a5511c6984e9a304da80f80fa9bb2b78734",
+	"Symbol": "Appa-WETH",
+	"UnderlyingTokens": [
+		"0xb109883db285b5ea5a07bc9689c70a443b1c339d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ad54bcfd-1913-43f0-9130-6d6339d55d70",
+	"Chain": "ethereum"
+}

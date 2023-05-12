@@ -1,0 +1,10 @@
+{
+	"Id": "0x044501db401398b5262204e45d02c0e7089daa8e",
+	"Symbol": "POKMON-WETH",
+	"UnderlyingTokens": [
+		"0x5bb441fb23263b59e97e20b37a0534e33b9b88e8",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ad54bcfd-1913-43f0-9130-6d6339d55d70",
+	"Chain": "ethereum"
+}

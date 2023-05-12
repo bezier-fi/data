@@ -1,0 +1,10 @@
+{
+	"Id": "0x7296f0a411fddf59efdec1f3a01f8111772f741e",
+	"Symbol": "WETH-MIPEP",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfc0af07fbd1bf89e076900fc8cfef9bcd0e40af3"
+	],
+	"Protocol": "ad54bcfd-1913-43f0-9130-6d6339d55d70",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xff6f5857b97ca75a7e90f24090ebb68944cd79fc",
+	"Symbol": "WETH-ROCK",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc2286770bc6b35a8d83bf60ad8b9890eca305b13"
+	],
+	"Protocol": "ad54bcfd-1913-43f0-9130-6d6339d55d70",
+	"Chain": "ethereum"
+}

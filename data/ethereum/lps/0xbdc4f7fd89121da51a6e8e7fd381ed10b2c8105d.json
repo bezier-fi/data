@@ -1,0 +1,10 @@
+{
+	"Id": "0xbdc4f7fd89121da51a6e8e7fd381ed10b2c8105d",
+	"Symbol": "NUGGET-WETH",
+	"UnderlyingTokens": [
+		"0xb5f5e1f6e815688000fd0e3c72c06109ff796636",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ad54bcfd-1913-43f0-9130-6d6339d55d70",
+	"Chain": "ethereum"
+}

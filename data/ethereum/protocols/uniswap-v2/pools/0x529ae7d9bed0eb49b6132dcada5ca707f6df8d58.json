@@ -1,0 +1,27 @@
+{
+	"Id": "0x529ae7d9bed0eb49b6132dcada5ca707f6df8d58",
+	"Protocol": "ad54bcfd-1913-43f0-9130-6d6339d55d70",
+	"Outputs": [
+		{
+			"Address": "0x529ae7d9bed0eb49b6132dcada5ca707f6df8d58",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc2fd70fc04f7d15e63ff230075741957963b2152",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-MKAT",
+	"Chain": "ethereum"
+}

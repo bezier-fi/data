@@ -1,0 +1,27 @@
+{
+	"Id": "0x94a12ba0a9d7dbbc49084138773c7929bf7bce63",
+	"Protocol": "ad54bcfd-1913-43f0-9130-6d6339d55d70",
+	"Outputs": [
+		{
+			"Address": "0x94a12ba0a9d7dbbc49084138773c7929bf7bce63",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x940b9aa1e8aad59c6971d040f48d4e62ce65c6a6",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PICKLE-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x2dba0211819cabf2fa3e15829c359fd6ff0a4618",
+	"Symbol": "WETH-MELON",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc12d3ee1744a733d95ea7beded98e3f156a29e2e"
+	],
+	"Protocol": "ad54bcfd-1913-43f0-9130-6d6339d55d70",
+	"Chain": "ethereum"
+}

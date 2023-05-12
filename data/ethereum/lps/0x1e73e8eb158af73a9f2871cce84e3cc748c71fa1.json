@@ -1,0 +1,10 @@
+{
+	"Id": "0x1e73e8eb158af73a9f2871cce84e3cc748c71fa1",
+	"Symbol": "BRAVO-WETH",
+	"UnderlyingTokens": [
+		"0x5e86075111f1d3a11270c376e89934e3f43e873a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ad54bcfd-1913-43f0-9130-6d6339d55d70",
+	"Chain": "ethereum"
+}

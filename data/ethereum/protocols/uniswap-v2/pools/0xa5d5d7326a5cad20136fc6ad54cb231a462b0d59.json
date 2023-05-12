@@ -1,0 +1,27 @@
+{
+	"Id": "0xa5d5d7326a5cad20136fc6ad54cb231a462b0d59",
+	"Protocol": "ad54bcfd-1913-43f0-9130-6d6339d55d70",
+	"Outputs": [
+		{
+			"Address": "0xa5d5d7326a5cad20136fc6ad54cb231a462b0d59",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5b22b48905f1ab55f3a7152c54045f9eeef110f2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "LEBRON-WETH",
+	"Chain": "ethereum"
+}

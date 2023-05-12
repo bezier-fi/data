@@ -1,0 +1,10 @@
+{
+	"Id": "0x31c2cdd2e185326e1970a172bef2eeac2a4c6361",
+	"Symbol": "SUN-WETH",
+	"UnderlyingTokens": [
+		"0x3bf3569df1de4c1fcef6d5460f8ebbfc75ba72ae",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ad54bcfd-1913-43f0-9130-6d6339d55d70",
+	"Chain": "ethereum"
+}

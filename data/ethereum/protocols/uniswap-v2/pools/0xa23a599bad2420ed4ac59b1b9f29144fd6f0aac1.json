@@ -1,0 +1,27 @@
+{
+	"Id": "0xa23a599bad2420ed4ac59b1b9f29144fd6f0aac1",
+	"Protocol": "ad54bcfd-1913-43f0-9130-6d6339d55d70",
+	"Outputs": [
+		{
+			"Address": "0xa23a599bad2420ed4ac59b1b9f29144fd6f0aac1",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0ab8f7db7ea4474e32032771e6546cb7f3bf6c64",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "KFC-WETH",
+	"Chain": "ethereum"
+}

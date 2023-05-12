@@ -1,0 +1,10 @@
+{
+	"Id": "0xc828b2a7e3fc4b0545fc40ad95a266fbcd70fa71",
+	"Symbol": "EARL-WETH",
+	"UnderlyingTokens": [
+		"0xbb2962f0b862c8f58bc0b918a13077277fcaf4b4",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ad54bcfd-1913-43f0-9130-6d6339d55d70",
+	"Chain": "ethereum"
+}

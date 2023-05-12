@@ -1,0 +1,27 @@
+{
+	"Id": "0xe8617578893948faa8190435d311b23ada5caca6",
+	"Protocol": "ad54bcfd-1913-43f0-9130-6d6339d55d70",
+	"Outputs": [
+		{
+			"Address": "0xe8617578893948faa8190435d311b23ada5caca6",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x408b7b87dc97b0caebcc6f9028fc06a643e3dec7",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BANNERS-WETH",
+	"Chain": "ethereum"
+}

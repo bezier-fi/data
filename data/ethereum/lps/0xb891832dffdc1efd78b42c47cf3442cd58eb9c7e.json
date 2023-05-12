@@ -1,0 +1,10 @@
+{
+	"Id": "0xb891832dffdc1efd78b42c47cf3442cd58eb9c7e",
+	"Symbol": "SLURP-WETH",
+	"UnderlyingTokens": [
+		"0x7160ce33f30b13972d7051884eaaa882b36388f3",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ad54bcfd-1913-43f0-9130-6d6339d55d70",
+	"Chain": "ethereum"
+}

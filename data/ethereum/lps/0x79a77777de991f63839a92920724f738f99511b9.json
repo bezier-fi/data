@@ -1,0 +1,10 @@
+{
+	"Id": "0x79a77777de991f63839a92920724f738f99511b9",
+	"Symbol": "NEKO-WETH",
+	"UnderlyingTokens": [
+		"0x90a33e3bb36a759a0e6e2688b95da742c71d59ec",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ad54bcfd-1913-43f0-9130-6d6339d55d70",
+	"Chain": "ethereum"
+}

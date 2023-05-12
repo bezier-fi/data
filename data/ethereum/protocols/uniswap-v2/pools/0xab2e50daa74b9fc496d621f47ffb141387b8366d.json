@@ -1,0 +1,27 @@
+{
+	"Id": "0xab2e50daa74b9fc496d621f47ffb141387b8366d",
+	"Protocol": "ad54bcfd-1913-43f0-9130-6d6339d55d70",
+	"Outputs": [
+		{
+			"Address": "0xab2e50daa74b9fc496d621f47ffb141387b8366d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x254e4dc00c191a0e090a08bc3204fe9e06ae95f1",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "KABANERI-WETH",
+	"Chain": "ethereum"
+}

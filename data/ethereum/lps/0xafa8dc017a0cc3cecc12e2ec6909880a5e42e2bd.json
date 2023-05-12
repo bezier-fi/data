@@ -1,0 +1,10 @@
+{
+	"Id": "0xafa8dc017a0cc3cecc12e2ec6909880a5e42e2bd",
+	"Symbol": "PEPETOPIA-WETH",
+	"UnderlyingTokens": [
+		"0xa9e935fe6adb92ee32870650b51836e2e81893a0",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ad54bcfd-1913-43f0-9130-6d6339d55d70",
+	"Chain": "ethereum"
+}

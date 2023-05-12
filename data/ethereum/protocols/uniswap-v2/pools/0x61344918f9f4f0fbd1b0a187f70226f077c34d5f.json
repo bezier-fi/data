@@ -1,0 +1,27 @@
+{
+	"Id": "0x61344918f9f4f0fbd1b0a187f70226f077c34d5f",
+	"Protocol": "ad54bcfd-1913-43f0-9130-6d6339d55d70",
+	"Outputs": [
+		{
+			"Address": "0x61344918f9f4f0fbd1b0a187f70226f077c34d5f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xf601a1c2e3369b5d33d33138191645f16db61202",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-GOOFY",
+	"Chain": "ethereum"
+}

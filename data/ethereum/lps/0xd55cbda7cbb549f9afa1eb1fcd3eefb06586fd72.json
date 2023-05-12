@@ -1,0 +1,10 @@
+{
+	"Id": "0xd55cbda7cbb549f9afa1eb1fcd3eefb06586fd72",
+	"Symbol": "WETH-PIKA",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe7a385867d2d395ba03bf035b51ebf170b35040e"
+	],
+	"Protocol": "ad54bcfd-1913-43f0-9130-6d6339d55d70",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xd1aba0504d3a2f247be21272b929434279e038b2",
+	"Symbol": "FJARED-WETH",
+	"UnderlyingTokens": [
+		"0xb8ec480c8ebba49faed83095cfa661c5806abb94",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ad54bcfd-1913-43f0-9130-6d6339d55d70",
+	"Chain": "ethereum"
+}

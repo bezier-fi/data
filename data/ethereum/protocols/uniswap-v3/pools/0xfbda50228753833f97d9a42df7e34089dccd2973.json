@@ -1,0 +1,27 @@
+{
+	"Id": "0xfbda50228753833f97d9a42df7e34089dccd2973",
+	"Protocol": "1ef3e447-a7f7-4f69-bb47-d3bb85ce5b7e",
+	"Outputs": [
+		{
+			"Address": "0xfbda50228753833f97d9a42df7e34089dccd2973",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x12970e6868f88f6557b76120662c1b3e50a646bf",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "LADYS-WETH (1.00%)",
+	"Chain": "ethereum"
+}

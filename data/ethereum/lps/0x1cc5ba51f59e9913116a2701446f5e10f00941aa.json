@@ -1,0 +1,10 @@
+{
+	"Id": "0x1cc5ba51f59e9913116a2701446f5e10f00941aa",
+	"Symbol": "SAUCE-WETH",
+	"UnderlyingTokens": [
+		"0x9ae1ce02766c865a9fb90336b4e8293ee5f73816",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ad54bcfd-1913-43f0-9130-6d6339d55d70",
+	"Chain": "ethereum"
+}

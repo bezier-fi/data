@@ -1,0 +1,10 @@
+{
+	"Id": "0x26453a5c8eccd37b14c5624afd4ae4a4d6d7d72c",
+	"Symbol": "TIMON-WETH",
+	"UnderlyingTokens": [
+		"0x931fde8ec5c9d48cee17b1fca619928adbd433a4",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "ad54bcfd-1913-43f0-9130-6d6339d55d70",
+	"Chain": "ethereum"
+}

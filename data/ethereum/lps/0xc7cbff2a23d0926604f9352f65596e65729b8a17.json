@@ -1,0 +1,10 @@
+{
+	"Id": "0xc7cbff2a23d0926604f9352f65596e65729b8a17",
+	"Symbol": "SDEX-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x5de8ab7e27f6e7a1fff3e5b337584aa43961beef",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "1ef3e447-a7f7-4f69-bb47-d3bb85ce5b7e",
+	"Chain": "ethereum"
+}

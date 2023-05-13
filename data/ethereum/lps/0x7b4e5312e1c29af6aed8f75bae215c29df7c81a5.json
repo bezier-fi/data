@@ -1,0 +1,10 @@
+{
+	"Id": "0x7b4e5312e1c29af6aed8f75bae215c29df7c81a5",
+	"Symbol": "PunchMeMe-WETH",
+	"UnderlyingTokens": [
+		"0x70485b5d384a7a76ea240877fabc43abbb75d0e8",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "a34cbfad-3bcc-4fa9-b265-07263c61b552",
+	"Chain": "ethereum"
+}

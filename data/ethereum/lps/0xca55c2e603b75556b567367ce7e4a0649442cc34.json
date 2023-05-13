@@ -1,0 +1,10 @@
+{
+	"Id": "0xca55c2e603b75556b567367ce7e4a0649442cc34",
+	"Symbol": "WETH-Llama",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xcc0811671269bc6acc6baa4ce747ef9d2a63a86b"
+	],
+	"Protocol": "a34cbfad-3bcc-4fa9-b265-07263c61b552",
+	"Chain": "ethereum"
+}

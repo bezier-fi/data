@@ -1,0 +1,10 @@
+{
+	"Id": "0xb7904bf0b5bfdf18f2b16d4a61a5880143f52176",
+	"Symbol": "BitDog-E-WETH",
+	"UnderlyingTokens": [
+		"0x8f002345b24125733e1689ce810676eb2ed4f0f0",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "a34cbfad-3bcc-4fa9-b265-07263c61b552",
+	"Chain": "ethereum"
+}

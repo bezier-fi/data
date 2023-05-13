@@ -1,0 +1,27 @@
+{
+	"Id": "0x35e462cd5adde02da41f7f49e156b91b62f9373f",
+	"Protocol": "32dd6967-5404-4ff6-ad5e-f119d27a664a",
+	"Outputs": [
+		{
+			"Address": "0x35e462cd5adde02da41f7f49e156b91b62f9373f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xfc5de26f1452c6ce36099f88a6ac3cd67cb8b279",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-FUKBEN (1.00%)",
+	"Chain": "ethereum"
+}

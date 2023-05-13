@@ -1,0 +1,10 @@
+{
+	"Id": "0x8c908fd167e78029476107b91b3494ccb232ae75",
+	"Symbol": "SLUG-WETH",
+	"UnderlyingTokens": [
+		"0x8fa08dfdd51933cbbc0c880b92e497f3bff14df4",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "a34cbfad-3bcc-4fa9-b265-07263c61b552",
+	"Chain": "ethereum"
+}

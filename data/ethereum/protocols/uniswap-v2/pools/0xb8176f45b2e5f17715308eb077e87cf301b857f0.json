@@ -1,0 +1,27 @@
+{
+	"Id": "0xb8176f45b2e5f17715308eb077e87cf301b857f0",
+	"Protocol": "a34cbfad-3bcc-4fa9-b265-07263c61b552",
+	"Outputs": [
+		{
+			"Address": "0xb8176f45b2e5f17715308eb077e87cf301b857f0",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb00bc6d232cbb63ab2ddef8ee7019c392089525a",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MORTY-WETH",
+	"Chain": "ethereum"
+}

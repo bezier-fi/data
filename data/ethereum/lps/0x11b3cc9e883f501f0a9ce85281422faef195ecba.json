@@ -1,0 +1,10 @@
+{
+	"Id": "0x11b3cc9e883f501f0a9ce85281422faef195ecba",
+	"Symbol": "WETH-MATT",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd3ca9f96b2b7f2edba75d95f1e371cd8b3142ad4"
+	],
+	"Protocol": "a34cbfad-3bcc-4fa9-b265-07263c61b552",
+	"Chain": "ethereum"
+}

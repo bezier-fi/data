@@ -1,0 +1,10 @@
+{
+	"Id": "0x178a276228a8be8e29602736111540d5cc8c20da",
+	"Symbol": "WETH-TPTPTP",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc40d69deb78855c16d2586140aa63b7934154f6b"
+	],
+	"Protocol": "a34cbfad-3bcc-4fa9-b265-07263c61b552",
+	"Chain": "ethereum"
+}

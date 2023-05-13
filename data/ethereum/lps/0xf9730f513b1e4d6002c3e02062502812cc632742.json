@@ -1,0 +1,10 @@
+{
+	"Id": "0xf9730f513b1e4d6002c3e02062502812cc632742",
+	"Symbol": "ACME-WETH",
+	"UnderlyingTokens": [
+		"0x7f92cb0552840ff83bd160ae6516aee76a191afb",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "a34cbfad-3bcc-4fa9-b265-07263c61b552",
+	"Chain": "ethereum"
+}

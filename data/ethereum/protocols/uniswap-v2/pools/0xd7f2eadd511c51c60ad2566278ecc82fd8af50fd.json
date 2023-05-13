@@ -1,0 +1,27 @@
+{
+	"Id": "0xd7f2eadd511c51c60ad2566278ecc82fd8af50fd",
+	"Protocol": "a34cbfad-3bcc-4fa9-b265-07263c61b552",
+	"Outputs": [
+		{
+			"Address": "0xd7f2eadd511c51c60ad2566278ecc82fd8af50fd",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x20364f78385ec4f46f33ee7795330dd815a87b1c",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "$DUCK-WETH",
+	"Chain": "ethereum"
+}

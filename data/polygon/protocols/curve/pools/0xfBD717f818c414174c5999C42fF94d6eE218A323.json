@@ -1,0 +1,27 @@
+{
+	"Id": "0xfBD717f818c414174c5999C42fF94d6eE218A323",
+	"Protocol": "058fff19-6f2d-41ff-b15b-7d8a147afdba",
+	"Outputs": [
+		{
+			"Address": "0x8BFb6C979D6E58cB41f2D67A4632d975827b1b0c",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xaAa5B9e6c589642f98a1cDA99B9D024B8407285A",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xD86b5923F3AD7b585eD81B448170ae026c65ae9a",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "IRONTITs-f",
+	"Chain": "polygon"
+}

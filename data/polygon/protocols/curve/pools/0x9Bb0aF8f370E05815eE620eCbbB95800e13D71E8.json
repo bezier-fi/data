@@ -1,0 +1,27 @@
+{
+	"Id": "0x9Bb0aF8f370E05815eE620eCbbB95800e13D71E8",
+	"Protocol": "058fff19-6f2d-41ff-b15b-7d8a147afdba",
+	"Outputs": [
+		{
+			"Address": "0x9Bb0aF8f370E05815eE620eCbbB95800e13D71E8",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xD86b5923F3AD7b585eD81B448170ae026c65ae9a",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x45c32fA6DF82ead1e2EF74d17b76547EDdFaFF89",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "FraxIron-f",
+	"Chain": "polygon"
+}

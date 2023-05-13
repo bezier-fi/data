@@ -1,0 +1,10 @@
+{
+	"Id": "0x47f6cae32e714d49d688f35b9f074827f90ff7fc",
+	"Symbol": "WETH-LADS",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf82bb9e77febaf8dde3b7e8a4f1f3880a14a191d"
+	],
+	"Protocol": "a34cbfad-3bcc-4fa9-b265-07263c61b552",
+	"Chain": "ethereum"
+}

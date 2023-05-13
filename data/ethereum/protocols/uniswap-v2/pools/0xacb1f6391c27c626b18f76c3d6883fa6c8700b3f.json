@@ -1,0 +1,27 @@
+{
+	"Id": "0xacb1f6391c27c626b18f76c3d6883fa6c8700b3f",
+	"Protocol": "a34cbfad-3bcc-4fa9-b265-07263c61b552",
+	"Outputs": [
+		{
+			"Address": "0xacb1f6391c27c626b18f76c3d6883fa6c8700b3f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x04c8af2c6ec86f8521a64783d9d379738e2ff573",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ELADYS-WETH",
+	"Chain": "ethereum"
+}

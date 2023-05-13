@@ -1,0 +1,10 @@
+{
+	"Id": "0x6563c4d41dea026e2845317638b0d541c2251971",
+	"Symbol": "WETH-thing (1.00%)",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xffd822149fa6749176c7a1424e71a417f26189c8"
+	],
+	"Protocol": "32dd6967-5404-4ff6-ad5e-f119d27a664a",
+	"Chain": "ethereum"
+}

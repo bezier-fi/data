@@ -1,0 +1,27 @@
+{
+	"Id": "0xd8e5ef7514c0cf6612a3a0350205e882d093dbdd",
+	"Protocol": "32dd6967-5404-4ff6-ad5e-f119d27a664a",
+	"Outputs": [
+		{
+			"Address": "0xd8e5ef7514c0cf6612a3a0350205e882d093dbdd",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x33086d87f59b52ca912730bb87d86b10f0f03f26",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CGVET-USDC (0.30%)",
+	"Chain": "ethereum"
+}

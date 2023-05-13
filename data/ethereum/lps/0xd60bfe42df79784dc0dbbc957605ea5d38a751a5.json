@@ -1,0 +1,10 @@
+{
+	"Id": "0xd60bfe42df79784dc0dbbc957605ea5d38a751a5",
+	"Symbol": "WORK-WETH",
+	"UnderlyingTokens": [
+		"0x5b277b2c47351291e39d0c2e48ea0d0b67ed4060",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "a34cbfad-3bcc-4fa9-b265-07263c61b552",
+	"Chain": "ethereum"
+}

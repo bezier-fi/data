@@ -1,0 +1,10 @@
+{
+	"Id": "0xa6eb1299b2eb7ff9541c9fe8ebef5c83f393f03a",
+	"Symbol": "NERD-WETH",
+	"UnderlyingTokens": [
+		"0xbfc3dbb94a344a5b234b3f08d80a68e09f1f248c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "a34cbfad-3bcc-4fa9-b265-07263c61b552",
+	"Chain": "ethereum"
+}

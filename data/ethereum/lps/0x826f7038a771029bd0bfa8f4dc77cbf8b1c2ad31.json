@@ -1,0 +1,10 @@
+{
+	"Id": "0x826f7038a771029bd0bfa8f4dc77cbf8b1c2ad31",
+	"Symbol": "WETH-PBURGER",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd1499a1924df5b76b04aa3b6df838ef787a6e17c"
+	],
+	"Protocol": "a34cbfad-3bcc-4fa9-b265-07263c61b552",
+	"Chain": "ethereum"
+}

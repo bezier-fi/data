@@ -1,0 +1,27 @@
+{
+	"Id": "0x0be35961d4dec0b4a012f3b2fcd4799947704af5",
+	"Protocol": "32dd6967-5404-4ff6-ad5e-f119d27a664a",
+	"Outputs": [
+		{
+			"Address": "0x0be35961d4dec0b4a012f3b2fcd4799947704af5",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x03b54a6e9a984069379fae1a4fc4dbae93b3bccd",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x50b728d8d964fd00c2d0aad81718b71311fef68a",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "wstETH-SNX (0.30%)",
+	"Chain": "polygon"
+}

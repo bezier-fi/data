@@ -1,0 +1,27 @@
+{
+	"Id": "0xb86cd8f5ada90372655103ea6e7684d4bf14e127",
+	"Protocol": "a34cbfad-3bcc-4fa9-b265-07263c61b552",
+	"Outputs": [
+		{
+			"Address": "0xb86cd8f5ada90372655103ea6e7684d4bf14e127",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xd5db3c45c5002158582f85f3192dcde86015eafe",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-TAURAX",
+	"Chain": "ethereum"
+}

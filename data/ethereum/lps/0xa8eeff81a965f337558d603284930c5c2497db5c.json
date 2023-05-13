@@ -1,0 +1,10 @@
+{
+	"Id": "0xa8eeff81a965f337558d603284930c5c2497db5c",
+	"Symbol": "FOXE-WETH",
+	"UnderlyingTokens": [
+		"0x37442227fb5587b9387d39934d85c2192db35f30",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "a34cbfad-3bcc-4fa9-b265-07263c61b552",
+	"Chain": "ethereum"
+}

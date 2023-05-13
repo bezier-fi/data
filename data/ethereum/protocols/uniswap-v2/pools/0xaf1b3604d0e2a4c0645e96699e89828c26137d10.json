@@ -1,0 +1,27 @@
+{
+	"Id": "0xaf1b3604d0e2a4c0645e96699e89828c26137d10",
+	"Protocol": "a34cbfad-3bcc-4fa9-b265-07263c61b552",
+	"Outputs": [
+		{
+			"Address": "0xaf1b3604d0e2a4c0645e96699e89828c26137d10",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x25c3da4155e54eb16071e17f4e315e37d5a34851",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PEPEFLOKI-WETH",
+	"Chain": "ethereum"
+}

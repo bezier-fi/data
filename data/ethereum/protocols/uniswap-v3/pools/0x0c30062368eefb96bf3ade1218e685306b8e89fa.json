@@ -1,0 +1,27 @@
+{
+	"Id": "0x0c30062368eefb96bf3ade1218e685306b8e89fa",
+	"Protocol": "32dd6967-5404-4ff6-ad5e-f119d27a664a",
+	"Outputs": [
+		{
+			"Address": "0x0c30062368eefb96bf3ade1218e685306b8e89fa",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x72e4f9f808c49a2a61de9c5896298920dc4eeea9",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BITCOIN-WETH (1.00%)",
+	"Chain": "ethereum"
+}

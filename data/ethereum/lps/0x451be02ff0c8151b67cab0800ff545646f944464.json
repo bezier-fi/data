@@ -1,0 +1,10 @@
+{
+	"Id": "0x451be02ff0c8151b67cab0800ff545646f944464",
+	"Symbol": "WETH-FIFA (0.01%)",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd6503e00a5ac08f89a969b1041080e556ed97c69"
+	],
+	"Protocol": "9e93cc66-16cb-426c-9eab-442d9ca639ef",
+	"Chain": "ethereum"
+}

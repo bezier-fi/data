@@ -1,0 +1,27 @@
+{
+	"Id": "0xe4e6554026233fad72c069d65eda8094e9fb28a0",
+	"Protocol": "88898fe3-bafb-41cc-911d-8e685a231ce9",
+	"Outputs": [
+		{
+			"Address": "0xe4e6554026233fad72c069d65eda8094e9fb28a0",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa457f6ed097ba18119a9c956c12f43357e6e90f0",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CNG-WETH (0.01%)",
+	"Chain": "ethereum"
+}

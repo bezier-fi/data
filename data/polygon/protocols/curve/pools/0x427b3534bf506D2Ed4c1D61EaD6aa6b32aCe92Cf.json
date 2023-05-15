@@ -1,0 +1,27 @@
+{
+	"Id": "0x427b3534bf506D2Ed4c1D61EaD6aa6b32aCe92Cf",
+	"Protocol": "0ce2d096-e4b9-4cc5-adbd-7ff6e7fea321",
+	"Outputs": [
+		{
+			"Address": "0x3088B3F4191850E4cf5543d1e4a2c33B32D5114d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xacC6DA74d8c0C993d070cfd518Fb86279f3AeAf1",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x875CE7e0565b4C8852CA2a9608F27B7213A90786",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "STARCRV-f",
+	"Chain": "polygon"
+}

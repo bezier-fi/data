@@ -1,0 +1,10 @@
+{
+	"Id": "0x63bb0c63f9d85203dd15f6d364b8054cf0a62b5a",
+	"Symbol": "Lama-WETH (0.01%)",
+	"UnderlyingTokens": [
+		"0x599abe033ebac649076c5cb80624855478e427ab",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f49e8109-c0f8-4e42-88d7-a8d3e1acdfac",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x014847133f6597dac4fec58199a31fc853169e52",
+	"Symbol": "WETH-WHEE (0.01%)",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xdcc78693b1e1d78f5f431d2222b3c426ee13f8cf"
+	],
+	"Protocol": "f49e8109-c0f8-4e42-88d7-a8d3e1acdfac",
+	"Chain": "ethereum"
+}

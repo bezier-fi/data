@@ -1,0 +1,10 @@
+{
+	"Id": "0x694a1b04f5cf37e324aab28c53495efc845cced1",
+	"Symbol": "ANS-WETH (0.30%)",
+	"UnderlyingTokens": [
+		"0x937efa4a5ff9d65785691b70a1136aaf8ada7e62",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "f49e8109-c0f8-4e42-88d7-a8d3e1acdfac",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0xf85445479029cab5190966ea3ca434a1e497ce00",
+	"Protocol": "8d32db2e-c87f-4e8d-88df-ce6b1e23d1da",
+	"Outputs": [
+		{
+			"Address": "0xf85445479029cab5190966ea3ca434a1e497ce00",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x3d939f3aab9af971a9eda1bc63a768d0df386f66",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "HORNY-WETH (0.30%)",
+	"Chain": "ethereum"
+}

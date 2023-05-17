@@ -1,0 +1,27 @@
+{
+	"Id": "0x71f55a6187e58fd4c797b3b07299d05b76beb716",
+	"Protocol": "8d32db2e-c87f-4e8d-88df-ce6b1e23d1da",
+	"Outputs": [
+		{
+			"Address": "0x71f55a6187e58fd4c797b3b07299d05b76beb716",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x5f250ed62cf3e5cf25f4f370d35d04782b0678a3",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SMURFS-WETH (1.00%)",
+	"Chain": "ethereum"
+}

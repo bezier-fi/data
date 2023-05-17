@@ -1,0 +1,27 @@
+{
+	"Id": "0xc093b9145889c0b0f7d559655be750335477e2b3",
+	"Protocol": "8d32db2e-c87f-4e8d-88df-ce6b1e23d1da",
+	"Outputs": [
+		{
+			"Address": "0xc093b9145889c0b0f7d559655be750335477e2b3",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x987b30f2852780524078a87ea72696c2297a8d6e",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GACHIMUCHI-WETH (0.01%)",
+	"Chain": "ethereum"
+}

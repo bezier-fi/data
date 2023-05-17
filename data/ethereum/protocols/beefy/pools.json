@@ -1,302 +1,302 @@
 [
 	{
-		"Id": "0x64b3bc10e834905364178D6e23B296A5395EE111",
-		"Symbol": "Balancer Boosted USD (bb-a-USD)"
-	},
-	{
-		"Id": "0xbc0cF20Ac9Fc670fED9B3f230F2E8A2676451e37",
-		"Symbol": "alETH/ETH"
-	},
-	{
-		"Id": "0xa40DEAA277422bFa8F31297f1a394000DA253c51",
-		"Symbol": "lvUSD/DAI/USDC/USDT"
-	},
-	{
-		"Id": "0x15780E0e9618c26dA679740C43bEc76830Ff187b",
-		"Symbol": "multiBTC/sBTC/WBTC"
-	},
-	{
-		"Id": "0xB9911AB699FD781efDA446e7FD995d375B437c8B",
-		"Symbol": "SOLID-ETH vLP"
-	},
-	{
-		"Id": "0x842B8091dD92A1BB590527B95B9a2915C73BA491",
-		"Symbol": "USDC-ETH vLP"
-	},
-	{
-		"Id": "0xE0d5f9DA3613C047003b77cAa31270aBE3EdA6b0",
-		"Symbol": "wstETH-ETH"
-	},
-	{
-		"Id": "0xC2fea9942506CEF6d18b655Cb2de36d479Dc43bD",
-		"Symbol": "AURA-WETH"
-	},
-	{
-		"Id": "0xd9800EeF1756f156E025859eE0DBE6E5f6a6428b",
-		"Symbol": "WBTC-USDC LP"
-	},
-	{
-		"Id": "0x8affC4591DE6eAEc6836c243b00b80F4339f99f5",
-		"Symbol": "wstETH/rETH/sfrxETH V2"
-	},
-	{
-		"Id": "0x6660fd0a97Af41c6A7b29450D3532FeDdBe0478A",
-		"Symbol": "BIFI-ETH vLP"
-	},
-	{
-		"Id": "0xaa43DFb8fC642Feb9887cDFFff1DAAd1cFA511B4",
-		"Symbol": "clevCVX/CVX"
-	},
-	{
-		"Id": "0xa7739fd3d12ac7F16D8329AF3Ee407e19De10D8D",
-		"Symbol": "stETH/ETH"
-	},
-	{
-		"Id": "0x4dd0cF20237deb5F2bE76340838B9e2D7c70E852",
-		"Symbol": "ETH LP"
-	},
-	{
-		"Id": "0x4115150523599D1F6C6Fa27F5A4C27D578Fd8ce5",
-		"Symbol": "cvxCRV"
-	},
-	{
-		"Id": "0x7f3F33B42b9734e61cb44424D130B5f6e09C9Db3",
-		"Symbol": "USDD/DAI/USDC/USDT"
-	},
-	{
-		"Id": "0xd5bAd7c89028B3F7094e40DcCe83D4e6b3Fd9AA4",
-		"Symbol": "MIM/DAI/USDC/USDT"
-	},
-	{
-		"Id": "0x245186CaA063b13d0025891c0d513aCf552fB38E",
-		"Symbol": "CRV-ETH"
-	},
-	{
-		"Id": "0x17dEc2AF8018f2F940D34787399eA123Ff292963",
-		"Symbol": "OHM-DAI"
-	},
-	{
-		"Id": "0x61cf8d861ff3c939147c2aa1F694f9592Bf51983",
-		"Symbol": "USDT LP"
-	},
-	{
-		"Id": "0xeAa61217fbbaB972fEBFAEa8D62105139D0240E8",
-		"Symbol": "wstETH/rETH/sfrxETH"
-	},
-	{
-		"Id": "0xe6aB93d1c253d16733d52dD40b4929a6a04b2B08",
-		"Symbol": "FRAX/DAI/USDC/USDT"
-	},
-	{
-		"Id": "0xe703ccDE82b2B40AdBdD9E5C674e521468159177",
-		"Symbol": "BIFI Maxi"
-	},
-	{
-		"Id": "0x9E59eb2059B44a0234b8454567482AE516926E8D",
-		"Symbol": "SD-ETH"
-	},
-	{
-		"Id": "0x60a1Cf0D617EeADbB48e488D9Ca3E74F50aB4b71",
-		"Symbol": "cbETH/ETH"
-	},
-	{
-		"Id": "0xDe9aEC2f40c7Bc783974122Ef84c7f1F237F46Dd",
-		"Symbol": "USDC-USDT sLP"
-	},
-	{
-		"Id": "0x3fe43D4ba0a5BAcC800c7E7E782466a27ab108bf",
-		"Symbol": "DOLA/FRAX/USDC"
-	},
-	{
-		"Id": "0x941E1dEAc6c58391b266AB849cB7368d6a60910E",
-		"Symbol": "BLUR-ETH vLP"
-	},
-	{
-		"Id": "0x445BE44783b9B04B27d23b87eD69985aBAb1BeF3",
-		"Symbol": "VERSE-ETH LP"
-	},
-	{
-		"Id": "0x8448758c3Cad93675eACe770847aA9507f8bDe0B",
-		"Symbol": "GEAR-ETH"
-	},
-	{
-		"Id": "0x378416346914a8B530d26b621BdA7AE291ce264A",
-		"Symbol": "pETH/ETH"
-	},
-	{
-		"Id": "0x4a37227BFE2aD5c5126E176e16363d5c79BC1EF5",
-		"Symbol": "frxETH/ETH"
-	},
-	{
-		"Id": "0x8c9754455c6a7F6A3aEfA9a3AdEc0955E83D3606",
-		"Symbol": "ACX-wstETH"
-	},
-	{
-		"Id": "0xb9548238d875fB4e12727B2750D8a0bDbc7171c7",
-		"Symbol": "CVX-ETH"
-	},
-	{
-		"Id": "0xa6b53563a13de4C443FC4fd60d7127Ad54924cd3",
-		"Symbol": "CTR/ETH"
-	},
-	{
-		"Id": "0x03D0F88aDc096259b49079073aED693Ba5f425EE",
-		"Symbol": "T/ETH"
-	},
-	{
-		"Id": "0x0d2846d81099CE35cFB3CF5A81394E7d2f078f37",
-		"Symbol": "LDO/ETH"
-	},
-	{
-		"Id": "0xe50e2fe90745A8510491F89113959a1EF01AD400",
-		"Symbol": "TriCrypto"
-	},
-	{
-		"Id": "0x4742c355711a2790b17CC0Fe48035a1AF9C22432",
-		"Symbol": "LDO-ETH LP"
-	},
-	{
-		"Id": "0x34892e2AcAb7Db584DE000fAa1Ca142040176b26",
-		"Symbol": "eUSD/FRAX/USDC"
-	},
-	{
-		"Id": "0xcAa51337D91d61E0575f3892Cfc6B243a335C0f4",
-		"Symbol": "frxETH-ETH sLP"
-	},
-	{
-		"Id": "0xe17D6212eAa54D98187026A770dee96f7C264feC",
-		"Symbol": "rETH-ETH"
-	},
-	{
-		"Id": "0xb546807794dEdfd196a5d230856190d78cF31d04",
-		"Symbol": "INV-DOLA"
-	},
-	{
 		"Id": "0x6853691Ca8Da03Da16194E468068bE5A80F103b0",
 		"Symbol": "sBTC/WBTC"
-	},
-	{
-		"Id": "0x3f80F7aE80F54DDB31B1211e7d03CF24fCBB8334",
-		"Symbol": "DAI-ETH LP"
-	},
-	{
-		"Id": "0xD6F5BEF9b63bf648EeA43b80B480BE653138D116",
-		"Symbol": "CNC/ETH"
-	},
-	{
-		"Id": "0x4fc424a840B5fB1BAf195963eC3737904440df1D",
-		"Symbol": "FRAX/USDC"
-	},
-	{
-		"Id": "0x572181c7B073966F9FA037Cf1F79a647f5AA9Eb7",
-		"Symbol": "cvxFXS/FXS"
-	},
-	{
-		"Id": "0x83BE6565c0758f746c09f95559B45Cfb9a0FFFc4",
-		"Symbol": "cvxFPIS"
-	},
-	{
-		"Id": "0x8785e892e6C7f1BcE907680cE35B580EEA7Fb24c",
-		"Symbol": "USDC-ETH LP"
-	},
-	{
-		"Id": "0x7eAeA98668f1C062266B4C186F57eAfb6dF6Fbe4",
-		"Symbol": "CLEV/ETH"
-	},
-	{
-		"Id": "0xE79BB6F246a8493AC1D45926ab835FCCCDc32C78",
-		"Symbol": "cbETH-wstETH V2"
-	},
-	{
-		"Id": "0xCc19786F91BB1F3F3Fd9A2eA9fD9a54F7743039E",
-		"Symbol": "cvxFXS"
-	},
-	{
-		"Id": "0x047c41817954b51309a2bd6f60e47bC115C23f1F",
-		"Symbol": "WBTC-ETH LP"
-	},
-	{
-		"Id": "0x9d7b626cb1c07f63A46a8337111b65D6Cb4B8a58",
-		"Symbol": "ETH-USDT LP"
-	},
-	{
-		"Id": "0x4dE81AD42E9651755716177fAe9911c54F5b055B",
-		"Symbol": "rETH/ETH"
-	},
-	{
-		"Id": "0x5Bcd31a28D77a1A5Ef5e0146Ab91e6f43D7100b7",
-		"Symbol": "cvxCRV/CRV"
-	},
-	{
-		"Id": "0xAf59cca8d658fe89e83d78D1d39125E3F4b2a529",
-		"Symbol": "moSOLID-ETH vLP"
-	},
-	{
-		"Id": "0x66F5263d51174bab17Ac2bda31E51F5bcF05a69A",
-		"Symbol": "USDC LP"
-	},
-	{
-		"Id": "0x6e8Aa36716669C575ab308c0F48965A681Db03B4",
-		"Symbol": "MATIC/ETH"
-	},
-	{
-		"Id": "0x44B6A414e73fb7387Ca250F44D7e43cD7d6992c2",
-		"Symbol": "auraBAL"
 	},
 	{
 		"Id": "0xE010B164E54735Bb6401c426E9b4Dc16949c00B8",
 		"Symbol": "SUSHI-ETH LP"
 	},
 	{
-		"Id": "0x86b2D22C92ef56A9434A1b3758cC39a8D7FA8C1F",
-		"Symbol": "auraBAL-BAL/WETH(80-20)"
-	},
-	{
-		"Id": "0x8cB4f56e9bAa398b6F6a6Fb1B2C4E8ca8cda6ae5",
-		"Symbol": "tBTC/sBTC/wBTC"
-	},
-	{
-		"Id": "0xffA54b4bFe0225C9b6A830aE1433516736e9a97a",
-		"Symbol": "sETH/ETH"
-	},
-	{
-		"Id": "0x61F96CA5c79c9753C93244c73f1d4b4a90c1aC8c",
-		"Symbol": "ETH-USDC LP"
-	},
-	{
-		"Id": "0xdE5a3596750e22891352c62f68C86D4cF30256e9",
-		"Symbol": "yCRV/CRV"
-	},
-	{
 		"Id": "0x383F9B2d080C58301D821e9F0EC5a35A17070bE6",
 		"Symbol": "DOLA-USDC"
 	},
 	{
-		"Id": "0xe6cFc9d27f8bfC8ddcB86d75381cD21570A21B20",
-		"Symbol": "rETH-bbaUSD"
+		"Id": "0x4115150523599D1F6C6Fa27F5A4C27D578Fd8ce5",
+		"Symbol": "cvxCRV"
 	},
 	{
-		"Id": "0x1bc48214A6e672FEA1eB115D9DC81B470E5F1173",
-		"Symbol": "ApeUSD/FRAX/USDC"
+		"Id": "0x8785e892e6C7f1BcE907680cE35B580EEA7Fb24c",
+		"Symbol": "USDC-ETH LP"
 	},
 	{
-		"Id": "0x7666FA065e0c44051411A5Ca3e85ad2C210C9e98",
-		"Symbol": "MAI-USDC"
+		"Id": "0xC2fea9942506CEF6d18b655Cb2de36d479Dc43bD",
+		"Symbol": "AURA-WETH"
 	},
 	{
-		"Id": "0xFA72D4083388D2c82A72b073ED4a0954C4079Dc3",
-		"Symbol": "OHM-wstETH"
+		"Id": "0x8affC4591DE6eAEc6836c243b00b80F4339f99f5",
+		"Symbol": "wstETH/rETH/sfrxETH V2"
 	},
 	{
-		"Id": "0x73380F4B3E6F4a8988688d1475D33CB1D46F6de0",
-		"Symbol": "USDD/FRAX/USDC"
+		"Id": "0xCc19786F91BB1F3F3Fd9A2eA9fD9a54F7743039E",
+		"Symbol": "cvxFXS"
 	},
 	{
 		"Id": "0xeb5A443d4b4deF6f81C0Ef0B66Af5168a34A7f38",
 		"Symbol": "FRAX-USDT sLP"
 	},
 	{
+		"Id": "0xD6F5BEF9b63bf648EeA43b80B480BE653138D116",
+		"Symbol": "CNC/ETH"
+	},
+	{
+		"Id": "0x572181c7B073966F9FA037Cf1F79a647f5AA9Eb7",
+		"Symbol": "cvxFXS/FXS"
+	},
+	{
+		"Id": "0xe6aB93d1c253d16733d52dD40b4929a6a04b2B08",
+		"Symbol": "FRAX/DAI/USDC/USDT"
+	},
+	{
+		"Id": "0x7666FA065e0c44051411A5Ca3e85ad2C210C9e98",
+		"Symbol": "MAI-USDC"
+	},
+	{
+		"Id": "0xa7739fd3d12ac7F16D8329AF3Ee407e19De10D8D",
+		"Symbol": "stETH/ETH"
+	},
+	{
+		"Id": "0x941E1dEAc6c58391b266AB849cB7368d6a60910E",
+		"Symbol": "BLUR-ETH vLP"
+	},
+	{
+		"Id": "0x842B8091dD92A1BB590527B95B9a2915C73BA491",
+		"Symbol": "USDC-ETH vLP"
+	},
+	{
+		"Id": "0x445BE44783b9B04B27d23b87eD69985aBAb1BeF3",
+		"Symbol": "VERSE-ETH LP"
+	},
+	{
+		"Id": "0x61F96CA5c79c9753C93244c73f1d4b4a90c1aC8c",
+		"Symbol": "ETH-USDC LP"
+	},
+	{
+		"Id": "0xbc0cF20Ac9Fc670fED9B3f230F2E8A2676451e37",
+		"Symbol": "alETH/ETH"
+	},
+	{
+		"Id": "0xdE5a3596750e22891352c62f68C86D4cF30256e9",
+		"Symbol": "yCRV/CRV"
+	},
+	{
+		"Id": "0x8448758c3Cad93675eACe770847aA9507f8bDe0B",
+		"Symbol": "GEAR-ETH"
+	},
+	{
+		"Id": "0x83BE6565c0758f746c09f95559B45Cfb9a0FFFc4",
+		"Symbol": "cvxFPIS"
+	},
+	{
+		"Id": "0x4fc424a840B5fB1BAf195963eC3737904440df1D",
+		"Symbol": "FRAX/USDC"
+	},
+	{
+		"Id": "0xE0d5f9DA3613C047003b77cAa31270aBE3EdA6b0",
+		"Symbol": "wstETH-ETH"
+	},
+	{
+		"Id": "0xd9800EeF1756f156E025859eE0DBE6E5f6a6428b",
+		"Symbol": "WBTC-USDC LP"
+	},
+	{
+		"Id": "0x047c41817954b51309a2bd6f60e47bC115C23f1F",
+		"Symbol": "WBTC-ETH LP"
+	},
+	{
+		"Id": "0x6660fd0a97Af41c6A7b29450D3532FeDdBe0478A",
+		"Symbol": "BIFI-ETH vLP"
+	},
+	{
+		"Id": "0xe50e2fe90745A8510491F89113959a1EF01AD400",
+		"Symbol": "TriCrypto"
+	},
+	{
+		"Id": "0x0d2846d81099CE35cFB3CF5A81394E7d2f078f37",
+		"Symbol": "LDO/ETH"
+	},
+	{
+		"Id": "0x4a37227BFE2aD5c5126E176e16363d5c79BC1EF5",
+		"Symbol": "frxETH/ETH"
+	},
+	{
+		"Id": "0xe17D6212eAa54D98187026A770dee96f7C264feC",
+		"Symbol": "rETH-ETH"
+	},
+	{
+		"Id": "0x1bc48214A6e672FEA1eB115D9DC81B470E5F1173",
+		"Symbol": "ApeUSD/FRAX/USDC"
+	},
+	{
+		"Id": "0x6e8Aa36716669C575ab308c0F48965A681Db03B4",
+		"Symbol": "MATIC/ETH"
+	},
+	{
+		"Id": "0x4742c355711a2790b17CC0Fe48035a1AF9C22432",
+		"Symbol": "LDO-ETH LP"
+	},
+	{
+		"Id": "0x73380F4B3E6F4a8988688d1475D33CB1D46F6de0",
+		"Symbol": "USDD/FRAX/USDC"
+	},
+	{
+		"Id": "0x61cf8d861ff3c939147c2aa1F694f9592Bf51983",
+		"Symbol": "USDT LP"
+	},
+	{
+		"Id": "0xb9548238d875fB4e12727B2750D8a0bDbc7171c7",
+		"Symbol": "CVX-ETH"
+	},
+	{
+		"Id": "0x5Bcd31a28D77a1A5Ef5e0146Ab91e6f43D7100b7",
+		"Symbol": "cvxCRV/CRV"
+	},
+	{
+		"Id": "0x66F5263d51174bab17Ac2bda31E51F5bcF05a69A",
+		"Symbol": "USDC LP"
+	},
+	{
+		"Id": "0x34892e2AcAb7Db584DE000fAa1Ca142040176b26",
+		"Symbol": "eUSD/FRAX/USDC"
+	},
+	{
+		"Id": "0xe6cFc9d27f8bfC8ddcB86d75381cD21570A21B20",
+		"Symbol": "rETH-bbaUSD"
+	},
+	{
+		"Id": "0x3f80F7aE80F54DDB31B1211e7d03CF24fCBB8334",
+		"Symbol": "DAI-ETH LP"
+	},
+	{
+		"Id": "0x44B6A414e73fb7387Ca250F44D7e43cD7d6992c2",
+		"Symbol": "auraBAL"
+	},
+	{
+		"Id": "0xb546807794dEdfd196a5d230856190d78cF31d04",
+		"Symbol": "INV-DOLA"
+	},
+	{
+		"Id": "0x64b3bc10e834905364178D6e23B296A5395EE111",
+		"Symbol": "Balancer Boosted USD (bb-a-USD)"
+	},
+	{
+		"Id": "0xa6b53563a13de4C443FC4fd60d7127Ad54924cd3",
+		"Symbol": "CTR/ETH"
+	},
+	{
+		"Id": "0x7f3F33B42b9734e61cb44424D130B5f6e09C9Db3",
+		"Symbol": "USDD/DAI/USDC/USDT"
+	},
+	{
+		"Id": "0x9E59eb2059B44a0234b8454567482AE516926E8D",
+		"Symbol": "SD-ETH"
+	},
+	{
+		"Id": "0x4dd0cF20237deb5F2bE76340838B9e2D7c70E852",
+		"Symbol": "ETH LP"
+	},
+	{
+		"Id": "0xFA72D4083388D2c82A72b073ED4a0954C4079Dc3",
+		"Symbol": "OHM-wstETH"
+	},
+	{
+		"Id": "0xB9911AB699FD781efDA446e7FD995d375B437c8B",
+		"Symbol": "SOLID-ETH vLP"
+	},
+	{
+		"Id": "0xffA54b4bFe0225C9b6A830aE1433516736e9a97a",
+		"Symbol": "sETH/ETH"
+	},
+	{
+		"Id": "0xcAa51337D91d61E0575f3892Cfc6B243a335C0f4",
+		"Symbol": "frxETH-ETH sLP"
+	},
+	{
+		"Id": "0x8c9754455c6a7F6A3aEfA9a3AdEc0955E83D3606",
+		"Symbol": "ACX-wstETH"
+	},
+	{
+		"Id": "0x17dEc2AF8018f2F940D34787399eA123Ff292963",
+		"Symbol": "OHM-DAI"
+	},
+	{
+		"Id": "0x378416346914a8B530d26b621BdA7AE291ce264A",
+		"Symbol": "pETH/ETH"
+	},
+	{
+		"Id": "0x03D0F88aDc096259b49079073aED693Ba5f425EE",
+		"Symbol": "T/ETH"
+	},
+	{
+		"Id": "0x245186CaA063b13d0025891c0d513aCf552fB38E",
+		"Symbol": "CRV-ETH"
+	},
+	{
+		"Id": "0x9d7b626cb1c07f63A46a8337111b65D6Cb4B8a58",
+		"Symbol": "ETH-USDT LP"
+	},
+	{
+		"Id": "0x86b2D22C92ef56A9434A1b3758cC39a8D7FA8C1F",
+		"Symbol": "auraBAL-BAL/WETH(80-20)"
+	},
+	{
+		"Id": "0x3fe43D4ba0a5BAcC800c7E7E782466a27ab108bf",
+		"Symbol": "DOLA/FRAX/USDC"
+	},
+	{
+		"Id": "0x7eAeA98668f1C062266B4C186F57eAfb6dF6Fbe4",
+		"Symbol": "CLEV/ETH"
+	},
+	{
+		"Id": "0xAf59cca8d658fe89e83d78D1d39125E3F4b2a529",
+		"Symbol": "moSOLID-ETH vLP"
+	},
+	{
+		"Id": "0xaa43DFb8fC642Feb9887cDFFff1DAAd1cFA511B4",
+		"Symbol": "clevCVX/CVX"
+	},
+	{
+		"Id": "0x15780E0e9618c26dA679740C43bEc76830Ff187b",
+		"Symbol": "multiBTC/sBTC/WBTC"
+	},
+	{
+		"Id": "0xE79BB6F246a8493AC1D45926ab835FCCCDc32C78",
+		"Symbol": "cbETH-wstETH V2"
+	},
+	{
+		"Id": "0xDe9aEC2f40c7Bc783974122Ef84c7f1F237F46Dd",
+		"Symbol": "USDC-USDT sLP"
+	},
+	{
+		"Id": "0xe703ccDE82b2B40AdBdD9E5C674e521468159177",
+		"Symbol": "BIFI Maxi"
+	},
+	{
+		"Id": "0xa40DEAA277422bFa8F31297f1a394000DA253c51",
+		"Symbol": "lvUSD/DAI/USDC/USDT"
+	},
+	{
+		"Id": "0xd5bAd7c89028B3F7094e40DcCe83D4e6b3Fd9AA4",
+		"Symbol": "MIM/DAI/USDC/USDT"
+	},
+	{
+		"Id": "0x60a1Cf0D617EeADbB48e488D9Ca3E74F50aB4b71",
+		"Symbol": "cbETH/ETH"
+	},
+	{
+		"Id": "0x8cB4f56e9bAa398b6F6a6Fb1B2C4E8ca8cda6ae5",
+		"Symbol": "tBTC/sBTC/wBTC"
+	},
+	{
 		"Id": "0x49b562bDcd28dB124f6bA51DEB8Ca483563c067a",
 		"Symbol": "TUSD/DAI/USDC/USDT"
+	},
+	{
+		"Id": "0x4dE81AD42E9651755716177fAe9911c54F5b055B",
+		"Symbol": "rETH/ETH"
+	},
+	{
+		"Id": "0xeAa61217fbbaB972fEBFAEa8D62105139D0240E8",
+		"Symbol": "wstETH/rETH/sfrxETH"
 	}
 ]

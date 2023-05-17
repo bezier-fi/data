@@ -1,0 +1,27 @@
+{
+	"Id": "0x5e431F70690475bADbB88E16D3a49ED8c4434e09",
+	"Protocol": "da9edbf3-cd8d-4f44-be02-2d7241ec1948",
+	"Outputs": [
+		{
+			"Address": "0x598352ee6d080bfcF8689d81865f19dbB6B4c9c6",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x987b30f2852780524078a87ea72696C2297A8d6E",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GACHI/ETH-f",
+	"Chain": "ethereum"
+}

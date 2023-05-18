@@ -1,0 +1,27 @@
+{
+	"Id": "0x5db3d38bd40c862ba1fdb2286c32a62ab954d36d",
+	"Protocol": "9526564d-6f37-4353-ae71-b24cfdc4b5c3",
+	"Outputs": [
+		{
+			"Address": "0x5db3d38bd40c862ba1fdb2286c32a62ab954d36d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x15f74458ae0bfdaa1a96ca1aa779d715cc1eefe4",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GRAI-USDC (0.05%)",
+	"Chain": "ethereum"
+}

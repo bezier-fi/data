@@ -1,0 +1,27 @@
+{
+	"Id": "0xc6832ef0af793336aa44a936e54b992bff47e7cd",
+	"Protocol": "9526564d-6f37-4353-ae71-b24cfdc4b5c3",
+	"Outputs": [
+		{
+			"Address": "0xc6832ef0af793336aa44a936e54b992bff47e7cd",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xef6ab48ef8dfe984fab0d5c4cd6aff2e54dfda14",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC-CRISP-M (0.30%)",
+	"Chain": "polygon"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x215ea98c2a293adee2e33f38c2e18c0564361a2a",
+	"Protocol": "9526564d-6f37-4353-ae71-b24cfdc4b5c3",
+	"Outputs": [
+		{
+			"Address": "0x215ea98c2a293adee2e33f38c2e18c0564361a2a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x11a88f949c0592238959142653bb6847c6523d81",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "fxWEN-WETH (1.00%)",
+	"Chain": "polygon"
+}

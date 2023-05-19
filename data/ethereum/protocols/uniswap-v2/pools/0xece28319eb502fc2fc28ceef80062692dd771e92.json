@@ -1,0 +1,27 @@
+{
+	"Id": "0xece28319eb502fc2fc28ceef80062692dd771e92",
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Outputs": [
+		{
+			"Address": "0xece28319eb502fc2fc28ceef80062692dd771e92",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x76c4f19418cd13428216e5545697776ced01c06b",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SAUDILADYS-WETH",
+	"Chain": "ethereum"
+}

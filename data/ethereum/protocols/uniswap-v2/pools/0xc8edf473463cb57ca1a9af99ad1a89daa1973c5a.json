@@ -1,0 +1,27 @@
+{
+	"Id": "0xc8edf473463cb57ca1a9af99ad1a89daa1973c5a",
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Outputs": [
+		{
+			"Address": "0xc8edf473463cb57ca1a9af99ad1a89daa1973c5a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4298a325036ae3c75aebe5d18485b0f6a22b7bbe",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MILHOUSE-WETH",
+	"Chain": "ethereum"
+}

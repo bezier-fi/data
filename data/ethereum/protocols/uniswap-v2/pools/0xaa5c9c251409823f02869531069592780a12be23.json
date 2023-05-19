@@ -1,0 +1,27 @@
+{
+	"Id": "0xaa5c9c251409823f02869531069592780a12be23",
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Outputs": [
+		{
+			"Address": "0xaa5c9c251409823f02869531069592780a12be23",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa4f3d9dab1ea6b64bca87d7b1ead7f5d6d26c9ff",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CAPYBARA-WETH",
+	"Chain": "ethereum"
+}

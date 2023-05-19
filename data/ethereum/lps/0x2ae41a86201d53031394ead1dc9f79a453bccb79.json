@@ -1,0 +1,10 @@
+{
+	"Id": "0x2ae41a86201d53031394ead1dc9f79a453bccb79",
+	"Symbol": "BOB-WETH",
+	"UnderlyingTokens": [
+		"0x45cdd0013c55c810ab4a6666937abca1f668b553",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

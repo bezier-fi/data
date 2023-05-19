@@ -1,0 +1,10 @@
+{
+	"Id": "0x4030a345ca09fd9e5bf99a9042529f482dedd222",
+	"Symbol": "LISA-WETH",
+	"UnderlyingTokens": [
+		"0x10affebaa3a5f28ab502fa73488070b73f0428e3",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

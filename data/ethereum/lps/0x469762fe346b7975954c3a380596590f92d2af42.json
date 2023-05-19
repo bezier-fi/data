@@ -1,0 +1,10 @@
+{
+	"Id": "0x469762fe346b7975954c3a380596590f92d2af42",
+	"Symbol": "QUILL-WETH",
+	"UnderlyingTokens": [
+		"0x7cfe7a71aa9ac049f713a75524e903e3c297b7b9",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xba44086b8e3e1892692556b67e175c1e9930f447",
+	"Symbol": "Homer Pepe-WETH",
+	"UnderlyingTokens": [
+		"0x66b488f7a2466f56ad832c0a18af22838b81090a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

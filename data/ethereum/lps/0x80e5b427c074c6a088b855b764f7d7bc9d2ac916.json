@@ -1,0 +1,10 @@
+{
+	"Id": "0x80e5b427c074c6a088b855b764f7d7bc9d2ac916",
+	"Symbol": "CHEDDAR-WETH",
+	"UnderlyingTokens": [
+		"0x805c3545df186d77b6bab39641eb821ee8e17399",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

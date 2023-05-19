@@ -1,0 +1,10 @@
+{
+	"Id": "0x20c4c7f9de741f0a96202f59e1055d95e0ef580a",
+	"Symbol": "MDMA-WETH",
+	"UnderlyingTokens": [
+		"0x3587784a212a2e38f92f777c8b336fe70b69ea22",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

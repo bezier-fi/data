@@ -1,0 +1,27 @@
+{
+	"Id": "0xc28b49ba8a88bea7368a94690e2f0186ed569353",
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Outputs": [
+		{
+			"Address": "0xc28b49ba8a88bea7368a94690e2f0186ed569353",
+			"Apr": 253.08083,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8d6482b757f29e7b06440ddeebcceed3af49b4ce",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ROCKET-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x541785db62ac193cda3aff1c1efa95d5b10fb558",
+	"Symbol": "DUFF-WETH",
+	"UnderlyingTokens": [
+		"0x1b2b7534686c331210c5826294f1c68ee217eb3f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

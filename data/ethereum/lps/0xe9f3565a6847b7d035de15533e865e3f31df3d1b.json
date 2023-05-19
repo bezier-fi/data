@@ -1,0 +1,10 @@
+{
+	"Id": "0xe9f3565a6847b7d035de15533e865e3f31df3d1b",
+	"Symbol": "POOPE-WETH",
+	"UnderlyingTokens": [
+		"0x2dd7144b701bd66bc12ec17f1afaad409f0e32cf",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

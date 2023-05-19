@@ -1,0 +1,10 @@
+{
+	"Id": "0x6508d84d9611f288e451d4b64da9e9b8fd88eeec",
+	"Symbol": "Ronin-WETH",
+	"UnderlyingTokens": [
+		"0x299fda09fe316291efb6468235587c3fdbe7869c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

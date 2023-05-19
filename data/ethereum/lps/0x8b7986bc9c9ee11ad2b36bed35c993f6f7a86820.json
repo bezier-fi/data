@@ -1,0 +1,10 @@
+{
+	"Id": "0x8b7986bc9c9ee11ad2b36bed35c993f6f7a86820",
+	"Symbol": "WETH-MARIO",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf2ee60c744f372116574df8c2ff4143034c2b2da"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

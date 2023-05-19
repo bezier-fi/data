@@ -1,0 +1,10 @@
+{
+	"Id": "0xad4d2cc16a312978f04705d256bd61fe8e7c6397",
+	"Symbol": "MILF-WETH",
+	"UnderlyingTokens": [
+		"0x076722146c6c5842d6feded8b08599b1c0295232",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

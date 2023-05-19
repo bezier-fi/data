@@ -1,0 +1,10 @@
+{
+	"Id": "0x44c5d3b8b28af6929447a01260df89028f79ff21",
+	"Symbol": "YUNO-WETH",
+	"UnderlyingTokens": [
+		"0x547224f501a40ccf98c81d98f8dd19cb95f83e2e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

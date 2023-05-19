@@ -1,0 +1,10 @@
+{
+	"Id": "0x7945b0fd56b260d7c81532c37a6b5ee176e094cf",
+	"Symbol": "GLITCH-WETH",
+	"UnderlyingTokens": [
+		"0x1b10df8d02a8ab6d363a01202ef31a4390773c1f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

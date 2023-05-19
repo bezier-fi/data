@@ -1,0 +1,10 @@
+{
+	"Id": "0x5f4b8c325054003003f13188323b49cf735bdbdb",
+	"Symbol": "HALAL-WETH",
+	"UnderlyingTokens": [
+		"0x34abda3fb7cf9e5b15ea8f262167e6dcbd5786b4",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

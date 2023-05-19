@@ -1,0 +1,27 @@
+{
+	"Id": "0x2e8861a0132505500452d63c24abb9b1c43c9c7c",
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Outputs": [
+		{
+			"Address": "0x2e8861a0132505500452d63c24abb9b1c43c9c7c",
+			"Apr": 82.08922,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9cffcad55d78b1370de77e00c47b057ebe44334c",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "KRTEK-WETH",
+	"Chain": "ethereum"
+}

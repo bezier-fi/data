@@ -1,0 +1,10 @@
+{
+	"Id": "0x63e77fc389d7d3a3115dc36b1be720760b358d30",
+	"Symbol": "WETH-Flappy",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xed8b1b36bdc8337c6c4452064b311de46421e95a"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

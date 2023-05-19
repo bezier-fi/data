@@ -1,0 +1,10 @@
+{
+	"Id": "0x46d2341c95b7416859b569d1eac0d74f530d62c0",
+	"Symbol": "$SUCK-WETH",
+	"UnderlyingTokens": [
+		"0x6b28ba1a746cae00f5a02d74160f375ae962e8f6",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

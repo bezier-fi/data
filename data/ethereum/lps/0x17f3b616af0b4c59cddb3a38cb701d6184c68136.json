@@ -1,0 +1,10 @@
+{
+	"Id": "0x17f3b616af0b4c59cddb3a38cb701d6184c68136",
+	"Symbol": "WETH-PEINSTEIN",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd596904efe83c56132f174c29f044125e3233487"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x65132ec731f54eb3ea2c1666587bec357f55a4ba",
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Outputs": [
+		{
+			"Address": "0x65132ec731f54eb3ea2c1666587bec357f55a4ba",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1cea348011ef1f30049f59d53fd99f99caed7f7b",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SLEPE-WETH",
+	"Chain": "ethereum"
+}

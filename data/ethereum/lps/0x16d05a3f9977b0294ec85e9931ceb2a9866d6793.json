@@ -1,0 +1,10 @@
+{
+	"Id": "0x16d05a3f9977b0294ec85e9931ceb2a9866d6793",
+	"Symbol": "WETH-DBay",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf77b213f211e0dc8f4834df18c4f33b17c4cfc62"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

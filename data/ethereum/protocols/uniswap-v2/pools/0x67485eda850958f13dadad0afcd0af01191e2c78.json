@@ -1,0 +1,27 @@
+{
+	"Id": "0x67485eda850958f13dadad0afcd0af01191e2c78",
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Outputs": [
+		{
+			"Address": "0x67485eda850958f13dadad0afcd0af01191e2c78",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6f36eb4be23609b558189e7bed2bb8387d898e57",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "THADDEUS-WETH",
+	"Chain": "ethereum"
+}

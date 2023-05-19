@@ -1,0 +1,10 @@
+{
+	"Id": "0xb5069a0866c778098e721bce2eb480450c5e443c",
+	"Symbol": "SHPEDO-WETH",
+	"UnderlyingTokens": [
+		"0xb38b3f5beb6c06b946a006b658fcf4e26712dd1b",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

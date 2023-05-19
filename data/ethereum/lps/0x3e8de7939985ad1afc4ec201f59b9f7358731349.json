@@ -1,0 +1,10 @@
+{
+	"Id": "0x3e8de7939985ad1afc4ec201f59b9f7358731349",
+	"Symbol": " KEKKO-WETH",
+	"UnderlyingTokens": [
+		"0x3efe192b29696094280a42d6661186b0e4d327d1",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

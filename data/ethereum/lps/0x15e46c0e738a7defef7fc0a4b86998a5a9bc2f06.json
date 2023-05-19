@@ -1,0 +1,10 @@
+{
+	"Id": "0x15e46c0e738a7defef7fc0a4b86998a5a9bc2f06",
+	"Symbol": "SKOLL-DAI",
+	"UnderlyingTokens": [
+		"0x15f2ed83abef5cdc462975310b958c237eae4710",
+		"0x6b175474e89094c44da98b954eedeac495271d0f"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

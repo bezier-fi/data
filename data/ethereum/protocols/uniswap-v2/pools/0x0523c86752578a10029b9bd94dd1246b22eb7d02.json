@@ -1,0 +1,27 @@
+{
+	"Id": "0x0523c86752578a10029b9bd94dd1246b22eb7d02",
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Outputs": [
+		{
+			"Address": "0x0523c86752578a10029b9bd94dd1246b22eb7d02",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x841665b3363422b85b989c70037c2f2d41008f7d",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "$MILOLI-WETH",
+	"Chain": "ethereum"
+}

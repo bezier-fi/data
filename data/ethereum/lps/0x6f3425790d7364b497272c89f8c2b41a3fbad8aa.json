@@ -1,0 +1,10 @@
+{
+	"Id": "0x6f3425790d7364b497272c89f8c2b41a3fbad8aa",
+	"Symbol": "RICKROLL-WETH",
+	"UnderlyingTokens": [
+		"0x65731ecc0d751c4ce938cc2b4b6db37d78be9569",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

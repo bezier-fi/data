@@ -1,0 +1,10 @@
+{
+	"Id": "0xda598ad863f20c652b3a461d1bb7352ad41b4a1a",
+	"Symbol": "GRETA-WETH",
+	"UnderlyingTokens": [
+		"0x7b2562b0ae8c7dd3888b1ac1038148f616a5dc7c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

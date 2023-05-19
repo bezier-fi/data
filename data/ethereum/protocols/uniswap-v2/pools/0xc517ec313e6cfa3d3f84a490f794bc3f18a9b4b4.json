@@ -1,0 +1,27 @@
+{
+	"Id": "0xc517ec313e6cfa3d3f84a490f794bc3f18a9b4b4",
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Outputs": [
+		{
+			"Address": "0xc517ec313e6cfa3d3f84a490f794bc3f18a9b4b4",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xbb1c71bc7a9898f56e0305fcf4fb3d0141f298e0",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MEFI-WETH",
+	"Chain": "ethereum"
+}

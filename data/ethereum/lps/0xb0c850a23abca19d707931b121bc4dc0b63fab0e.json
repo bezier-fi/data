@@ -1,0 +1,10 @@
+{
+	"Id": "0xb0c850a23abca19d707931b121bc4dc0b63fab0e",
+	"Symbol": "WETH-SPBANK",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd44d2683f286720a08cb2989e5fbd48c8d94f861"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

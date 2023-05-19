@@ -1,0 +1,10 @@
+{
+	"Id": "0xcb85371b6bbd5be3d1aa541e30612325ebba1577",
+	"Symbol": "SMUD-WETH",
+	"UnderlyingTokens": [
+		"0x0a28f2dce5917e6824cb8b717cca6d7607c4571c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

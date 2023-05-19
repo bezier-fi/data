@@ -1,0 +1,10 @@
+{
+	"Id": "0xe0d12d9ad18fb38275e3ebd31fea9b3d7b6ac625",
+	"Symbol": "WETH-ELONA",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xed34392773b0846583f16736640574fbd708789c"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

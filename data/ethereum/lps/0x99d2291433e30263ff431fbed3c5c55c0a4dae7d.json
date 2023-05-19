@@ -1,0 +1,10 @@
+{
+	"Id": "0x99d2291433e30263ff431fbed3c5c55c0a4dae7d",
+	"Symbol": "WETH-PSYOP",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd8432e8f1de75daeb640a21ed51e71a3697bab5c"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

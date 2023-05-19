@@ -1,0 +1,27 @@
+{
+	"Id": "0x4dc3717bef2b0a74838a31c8e2502a12c92477f5",
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Outputs": [
+		{
+			"Address": "0x4dc3717bef2b0a74838a31c8e2502a12c92477f5",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc327955412aaee92867f39c6f57ac30ffac7542a",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-BENIS",
+	"Chain": "ethereum"
+}

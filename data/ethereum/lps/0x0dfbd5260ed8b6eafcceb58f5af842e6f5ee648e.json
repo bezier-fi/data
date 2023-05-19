@@ -1,0 +1,10 @@
+{
+	"Id": "0x0dfbd5260ed8b6eafcceb58f5af842e6f5ee648e",
+	"Symbol": "GOOD-WETH",
+	"UnderlyingTokens": [
+		"0x7e42b8ad7a29daf348a674b880858eb46ad3a198",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x48c53305d4ac972e6edef2e3417be6e178acfa43",
+	"Protocol": "c6d63c4d-5d42-4d10-96d6-765fc5babb75",
+	"Outputs": [
+		{
+			"Address": "0x48c53305d4ac972e6edef2e3417be6e178acfa43",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xd38aab242c3a1a05deed24445e501c69777a2311",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-SHIB AI (0.05%)",
+	"Chain": "ethereum"
+}

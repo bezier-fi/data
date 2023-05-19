@@ -1,0 +1,27 @@
+{
+	"Id": "0xd04aa6c33e03160381f306fe5386ffd3291e7ca4",
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Outputs": [
+		{
+			"Address": "0xd04aa6c33e03160381f306fe5386ffd3291e7ca4",
+			"Apr": 33.96095,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7163436b8efffb469f6bb81cc908b1661d4795e6",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "ESCO-WETH",
+	"Chain": "ethereum"
+}

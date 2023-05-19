@@ -1,0 +1,10 @@
+{
+	"Id": "0xd6c2af244dd56db3c9d276808eda8b5fb040007b",
+	"Symbol": "WETH-WAGMI",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xef8e456967122db4c3c160314bde8d2602ad6199"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

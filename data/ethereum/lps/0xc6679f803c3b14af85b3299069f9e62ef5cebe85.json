@@ -1,0 +1,10 @@
+{
+	"Id": "0xc6679f803c3b14af85b3299069f9e62ef5cebe85",
+	"Symbol": "WETH-SHIROSHIKA",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xdba6c36d29474235413ed4450f94069240caf4cb"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

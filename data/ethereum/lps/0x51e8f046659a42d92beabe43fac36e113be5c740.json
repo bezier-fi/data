@@ -1,0 +1,10 @@
+{
+	"Id": "0x51e8f046659a42d92beabe43fac36e113be5c740",
+	"Symbol": "NOCAP-WETH",
+	"UnderlyingTokens": [
+		"0xb069205df5b12e6b53aa49732f676049e18eccf7",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

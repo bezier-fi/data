@@ -1,0 +1,10 @@
+{
+	"Id": "0xf9303cb06385dc4fb278ebcffef1bdea3c7102e5",
+	"Symbol": "DWARF-WETH",
+	"UnderlyingTokens": [
+		"0x99ed6961794af22f6d7c2d76f34216cc96927654",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

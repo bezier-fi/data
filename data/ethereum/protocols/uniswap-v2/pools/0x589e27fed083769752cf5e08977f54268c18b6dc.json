@@ -1,0 +1,27 @@
+{
+	"Id": "0x589e27fed083769752cf5e08977f54268c18b6dc",
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Outputs": [
+		{
+			"Address": "0x589e27fed083769752cf5e08977f54268c18b6dc",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7cca0d8b422e26b1d140ede8a6bcb5f5c4e27e3f",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "STEWIE-WETH",
+	"Chain": "ethereum"
+}

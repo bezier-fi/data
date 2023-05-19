@@ -1,0 +1,10 @@
+{
+	"Id": "0x15cc510a935152012ffb62c5499e68a302d4696c",
+	"Symbol": "WETH-MORTY",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xeb4cf8af8e8b0a9e6e79f0b086f4cc756af4b8e7"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

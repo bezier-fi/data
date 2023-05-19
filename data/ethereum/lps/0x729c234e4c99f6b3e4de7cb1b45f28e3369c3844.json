@@ -1,0 +1,10 @@
+{
+	"Id": "0x729c234e4c99f6b3e4de7cb1b45f28e3369c3844",
+	"Symbol": "Pusey-WETH",
+	"UnderlyingTokens": [
+		"0x02097e5727bff5de6842e084ca7f15726330a744",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0xa3258a64a9c368334e12a66ed0aab6479e969948",
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Outputs": [
+		{
+			"Address": "0xa3258a64a9c368334e12a66ed0aab6479e969948",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x004b0a4ae06f9d5078fda0cbcd897187499a37c8",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xfec1408fa5ef2a57c4f46edb3c105ff3804ac5d6",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CETA-ALIT",
+	"Chain": "ethereum"
+}

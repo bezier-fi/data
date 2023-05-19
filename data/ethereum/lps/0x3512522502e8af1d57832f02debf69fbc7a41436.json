@@ -1,0 +1,10 @@
+{
+	"Id": "0x3512522502e8af1d57832f02debf69fbc7a41436",
+	"Symbol": "BOWSER-WETH",
+	"UnderlyingTokens": [
+		"0x1d1829fd4d887dfb7d55882fe309054cd42e5c80",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

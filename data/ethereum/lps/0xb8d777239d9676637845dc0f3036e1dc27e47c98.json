@@ -1,0 +1,10 @@
+{
+	"Id": "0xb8d777239d9676637845dc0f3036e1dc27e47c98",
+	"Symbol": "BLASTAR-WETH",
+	"UnderlyingTokens": [
+		"0x15e1cf84d2c7dcaa976e7d1f285609a161b74fd4",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

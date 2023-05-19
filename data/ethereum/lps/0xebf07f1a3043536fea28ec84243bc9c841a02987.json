@@ -1,0 +1,10 @@
+{
+	"Id": "0xebf07f1a3043536fea28ec84243bc9c841a02987",
+	"Symbol": "KEN-WETH",
+	"UnderlyingTokens": [
+		"0xbc99be77057d316f3f44f633d5c149f4da977f75",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

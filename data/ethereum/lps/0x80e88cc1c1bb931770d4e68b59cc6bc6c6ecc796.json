@@ -1,0 +1,10 @@
+{
+	"Id": "0x80e88cc1c1bb931770d4e68b59cc6bc6c6ecc796",
+	"Symbol": "MAC-WETH",
+	"UnderlyingTokens": [
+		"0x3a2820ee6c6bcc53a44d9cd0fa01a85dd429e8b1",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

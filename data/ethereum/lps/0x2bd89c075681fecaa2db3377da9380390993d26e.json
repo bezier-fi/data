@@ -1,0 +1,10 @@
+{
+	"Id": "0x2bd89c075681fecaa2db3377da9380390993d26e",
+	"Symbol": "PEOSHI-WETH",
+	"UnderlyingTokens": [
+		"0x31d94bb702aa6206f1c789cd9c9dc4941f82c889",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

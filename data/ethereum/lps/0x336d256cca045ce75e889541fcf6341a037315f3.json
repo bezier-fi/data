@@ -1,0 +1,10 @@
+{
+	"Id": "0x336d256cca045ce75e889541fcf6341a037315f3",
+	"Symbol": "$SLUTS-WETH",
+	"UnderlyingTokens": [
+		"0x70867288a47045e156c5fe2370c33a8900ebea59",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

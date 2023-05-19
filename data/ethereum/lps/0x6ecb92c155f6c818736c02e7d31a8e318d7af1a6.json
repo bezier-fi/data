@@ -1,0 +1,10 @@
+{
+	"Id": "0x6ecb92c155f6c818736c02e7d31a8e318d7af1a6",
+	"Symbol": "PROPC-WETH",
+	"UnderlyingTokens": [
+		"0x01160cdd816f21733b4c7d189b9d0656cf1a7f84",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

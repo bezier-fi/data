@@ -1,0 +1,27 @@
+{
+	"Id": "0x8d0987212851cfb71254a4e0a874aa1944cc48b1",
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Outputs": [
+		{
+			"Address": "0x8d0987212851cfb71254a4e0a874aa1944cc48b1",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2ce125b558537058fec9576f67363112d3dd86bb",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "KAERU-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x11c705519c502b91ea420d9a5f1ff2dd8f3dfe57",
+	"Protocol": "c6d63c4d-5d42-4d10-96d6-765fc5babb75",
+	"Outputs": [
+		{
+			"Address": "0x11c705519c502b91ea420d9a5f1ff2dd8f3dfe57",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc54427bf65e08a5a750d0a177e2b4b9f0b5d50c2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-MONK (1.00%)",
+	"Chain": "ethereum"
+}

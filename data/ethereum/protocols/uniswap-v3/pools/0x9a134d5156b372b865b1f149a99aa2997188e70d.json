@@ -1,0 +1,27 @@
+{
+	"Id": "0x9a134d5156b372b865b1f149a99aa2997188e70d",
+	"Protocol": "c6d63c4d-5d42-4d10-96d6-765fc5babb75",
+	"Outputs": [
+		{
+			"Address": "0x9a134d5156b372b865b1f149a99aa2997188e70d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x36520f6336490088c2455279c59cefac66984b36",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "COPIUM-WETH (0.30%)",
+	"Chain": "ethereum"
+}

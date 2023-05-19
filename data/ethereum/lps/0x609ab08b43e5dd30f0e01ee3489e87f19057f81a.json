@@ -1,0 +1,10 @@
+{
+	"Id": "0x609ab08b43e5dd30f0e01ee3489e87f19057f81a",
+	"Symbol": "PARK-WETH",
+	"UnderlyingTokens": [
+		"0x30fc7b21dff3659d2b7a442434076a83629d4341",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

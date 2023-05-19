@@ -1,0 +1,27 @@
+{
+	"Id": "0xE43b27Da311F25Ac6C0Bd5eF9062f8fE8D54D8F8",
+	"Protocol": "cdf8df0a-6d15-490a-9c7b-2c06822c8e69",
+	"Outputs": [
+		{
+			"Address": "0x597740Fd6cCf8aFa444D61b477df141f3DbB5C8C",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xA486c6BC102f409180cCB8a94ba045D39f8fc7cB",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "NEXETH-f",
+	"Chain": "polygon"
+}

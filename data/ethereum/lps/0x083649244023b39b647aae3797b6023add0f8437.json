@@ -1,0 +1,10 @@
+{
+	"Id": "0x083649244023b39b647aae3797b6023add0f8437",
+	"Symbol": "WETH-MOON",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd35723184b166396f30fa7c7ea8ded996173465a"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

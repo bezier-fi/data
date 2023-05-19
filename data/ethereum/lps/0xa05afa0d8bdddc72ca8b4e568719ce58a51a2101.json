@@ -1,0 +1,10 @@
+{
+	"Id": "0xa05afa0d8bdddc72ca8b4e568719ce58a51a2101",
+	"Symbol": "WETH-MAXWELL",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe5fb1627b4aea2bd0bc0d76dcb75a9cefa6b7b77"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

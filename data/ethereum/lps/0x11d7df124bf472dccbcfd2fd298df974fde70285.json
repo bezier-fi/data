@@ -1,0 +1,10 @@
+{
+	"Id": "0x11d7df124bf472dccbcfd2fd298df974fde70285",
+	"Symbol": "AIPEPE-WETH",
+	"UnderlyingTokens": [
+		"0x3c796a144535a24ea7a3f9a7051a79c8e1f86fea",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

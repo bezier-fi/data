@@ -1,0 +1,10 @@
+{
+	"Id": "0xc6e00b094a2cc60dda3b1c057d7674e105b6eb03",
+	"Symbol": "WICK-WETH",
+	"UnderlyingTokens": [
+		"0x3d19f5a5115bca233800a2910ee63da8633354bd",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

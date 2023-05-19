@@ -1,0 +1,10 @@
+{
+	"Id": "0x5fd30a96c9adce5d19c420c98c21529699e9312d",
+	"Symbol": "WETH-BIGBOB",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf5cc4b70d7cd5caf195124a7c4418feb1e2394d2"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x0031fc3d8c8e6e913c11b54b96accaa39dd3f3e3",
+	"Symbol": "WETH-DODDA",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfe1e439c1c0448aaa136a1f0799bc06d7863a221"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

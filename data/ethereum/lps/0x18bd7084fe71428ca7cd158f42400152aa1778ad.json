@@ -1,0 +1,10 @@
+{
+	"Id": "0x18bd7084fe71428ca7cd158f42400152aa1778ad",
+	"Symbol": "WETH-PIBA",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd4a17899e77237f8137d3f78fee6dc3ce35c27c5"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

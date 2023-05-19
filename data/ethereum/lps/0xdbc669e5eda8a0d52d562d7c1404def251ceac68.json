@@ -1,0 +1,10 @@
+{
+	"Id": "0xdbc669e5eda8a0d52d562d7c1404def251ceac68",
+	"Symbol": "WETH-DNG",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc21ce174b92e73e3337ccca5dec187025a15fa69"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

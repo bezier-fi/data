@@ -1,0 +1,10 @@
+{
+	"Id": "0x0c02c528f1b626aa99911ea2808644caf53c39fc",
+	"Symbol": "Benni-WETH",
+	"UnderlyingTokens": [
+		"0x2759d23109ccd2e85cbb2909b8d4df466ce4e394",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x43eafce3afd7b75eb338b3833b78ccf1009a631b",
+	"Symbol": "COPIUM-WETH",
+	"UnderlyingTokens": [
+		"0x49ec89344b70557e55dbc060d91ced821f472ecf",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

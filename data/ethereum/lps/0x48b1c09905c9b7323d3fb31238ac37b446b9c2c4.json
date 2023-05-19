@@ -1,0 +1,10 @@
+{
+	"Id": "0x48b1c09905c9b7323d3fb31238ac37b446b9c2c4",
+	"Symbol": "STONED-WETH",
+	"UnderlyingTokens": [
+		"0xa29681a78416c689a955e3e9e61348b348b9532d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

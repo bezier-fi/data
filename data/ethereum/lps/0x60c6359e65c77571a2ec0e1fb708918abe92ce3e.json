@@ -1,0 +1,10 @@
+{
+	"Id": "0x60c6359e65c77571a2ec0e1fb708918abe92ce3e",
+	"Symbol": "CETA-WETH",
+	"UnderlyingTokens": [
+		"0x004b0a4ae06f9d5078fda0cbcd897187499a37c8",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

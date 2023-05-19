@@ -1,0 +1,27 @@
+{
+	"Id": "0x1fb2f5576ab871de4bb50e51740358263b244210",
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Outputs": [
+		{
+			"Address": "0x1fb2f5576ab871de4bb50e51740358263b244210",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6cf23899c1bbe128322a89c988547e5b247690e4",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "MFER-WETH",
+	"Chain": "ethereum"
+}

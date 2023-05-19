@@ -1,0 +1,10 @@
+{
+	"Id": "0x9aa30dc05bbb1a632a1ade5a3ef04eb42ed086a0",
+	"Symbol": "PISS-WETH",
+	"UnderlyingTokens": [
+		"0x9c0bd34bebc33a0e898554cfc91e8a84c728bf9f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

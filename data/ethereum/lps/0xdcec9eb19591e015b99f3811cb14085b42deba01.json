@@ -1,0 +1,10 @@
+{
+	"Id": "0xdcec9eb19591e015b99f3811cb14085b42deba01",
+	"Symbol": "BPLZ-WETH",
+	"UnderlyingTokens": [
+		"0x9c192965ec78577226372299a543aef1ebeda1fe",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

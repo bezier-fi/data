@@ -1,0 +1,10 @@
+{
+	"Id": "0x76544ef543a0763d8dca8d21a2c5b846d6f31a68",
+	"Symbol": "WETH-UFCP",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfd6e7fe2d46ac8c9015e49beb3ecb5f6a82e38ab"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

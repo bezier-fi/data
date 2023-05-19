@@ -1,0 +1,10 @@
+{
+	"Id": "0xdb9950950ca75deac2d28afe9e6d17e02f497820",
+	"Symbol": "WETH-ASTORA",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xcb8cb90077f23426022be3cabe617457145498c0"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

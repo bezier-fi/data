@@ -1,13 +1,5 @@
 [
 	{
-		"Id": "0xcc61Ee649A95F2E2f0830838681f839BDb7CB823",
-		"Symbol": "StakeDAO Curve stETH Ethereum MAI Vault"
-	},
-	{
-		"Id": "0x82E90EB7034C1DF646bD06aFb9E67281AAb5ed28",
-		"Symbol": "Yearn Curve stETH Ethereum MAI Vault"
-	},
-	{
 		"Id": "0x60d133c666919B54a3254E0d3F14332cB783B733",
 		"Symbol": "Yearn LINK Ethereum MAI Vault"
 	},
@@ -22,5 +14,13 @@
 	{
 		"Id": "0x8C45969aD19D297c9B85763e90D0344C6E2ac9d1",
 		"Symbol": "Wrapped Bitcoin MAI Vault"
+	},
+	{
+		"Id": "0xcc61Ee649A95F2E2f0830838681f839BDb7CB823",
+		"Symbol": "StakeDAO Curve stETH Ethereum MAI Vault"
+	},
+	{
+		"Id": "0x82E90EB7034C1DF646bD06aFb9E67281AAb5ed28",
+		"Symbol": "Yearn Curve stETH Ethereum MAI Vault"
 	}
 ]

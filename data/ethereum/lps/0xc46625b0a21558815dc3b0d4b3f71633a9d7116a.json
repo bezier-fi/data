@@ -1,0 +1,10 @@
+{
+	"Id": "0xc46625b0a21558815dc3b0d4b3f71633a9d7116a",
+	"Symbol": "PUDGY-WETH",
+	"UnderlyingTokens": [
+		"0xa846921e8da723bfc3052c531fb86d36915fdff7",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x5178da40fe148d4d58b7c38a9c27613149bf2259",
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Outputs": [
+		{
+			"Address": "0x5178da40fe148d4d58b7c38a9c27613149bf2259",
+			"Apr": 279.94247,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x787bc2844cbf5420ba536cd672a51856cb173d99",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PSYOP-WETH",
+	"Chain": "ethereum"
+}

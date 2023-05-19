@@ -1,0 +1,10 @@
+{
+	"Id": "0xce1730bfddef98ee6661e02ff04e1510f57c25ce",
+	"Symbol": "EINSTEIN-WETH",
+	"UnderlyingTokens": [
+		"0xb83734fa68fc5301ce00f138a04a985edafadf61",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

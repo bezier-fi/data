@@ -1,0 +1,10 @@
+{
+	"Id": "0xe94163509932244b563e0f45fe6127a7446d370c",
+	"Symbol": "BUNNY-WETH",
+	"UnderlyingTokens": [
+		"0xb9b4a26a720430f956593c4a8c2e3f28878f4964",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

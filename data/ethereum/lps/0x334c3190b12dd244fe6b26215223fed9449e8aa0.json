@@ -1,0 +1,10 @@
+{
+	"Id": "0x334c3190b12dd244fe6b26215223fed9449e8aa0",
+	"Symbol": "SAUDILADYS-WETH",
+	"UnderlyingTokens": [
+		"0x3257b0da89b99b7643365fa36322da6299256ec8",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

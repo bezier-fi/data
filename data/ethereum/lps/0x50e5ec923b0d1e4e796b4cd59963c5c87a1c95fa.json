@@ -1,0 +1,10 @@
+{
+	"Id": "0x50e5ec923b0d1e4e796b4cd59963c5c87a1c95fa",
+	"Symbol": "SLEEP-WETH",
+	"UnderlyingTokens": [
+		"0xbbbee62523bcb2d54740996e5b94bdb367e4817f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

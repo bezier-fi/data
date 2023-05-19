@@ -1,0 +1,10 @@
+{
+	"Id": "0xfa919d0cf456f30d4b7478bf14f52d8a2152c2a7",
+	"Symbol": "ZION-WETH",
+	"UnderlyingTokens": [
+		"0x3da434f76226b9489ed4277eb6fdccdf03ff190e",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

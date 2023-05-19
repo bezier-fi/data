@@ -1,0 +1,10 @@
+{
+	"Id": "0x79f165487b49f8c7ab29ca6dd42b192d55850308",
+	"Symbol": "WETH-SKELE",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xf0994613ec37e8baa65740820186b7ea68015b0b"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

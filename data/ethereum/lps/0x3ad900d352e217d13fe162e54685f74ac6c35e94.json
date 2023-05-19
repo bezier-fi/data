@@ -1,0 +1,10 @@
+{
+	"Id": "0x3ad900d352e217d13fe162e54685f74ac6c35e94",
+	"Symbol": "WETH-$KITTEN",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xdd88def04f0a7f91867b741823d52373f4033b9d"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x1c1d940cffa6586c5e3b1d36d308e93a49d84399",
+	"Symbol": "FUKBITBOY-WETH",
+	"UnderlyingTokens": [
+		"0x10b9e5cd182d4b3d65f0b053fe0a82f9af00b6b9",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

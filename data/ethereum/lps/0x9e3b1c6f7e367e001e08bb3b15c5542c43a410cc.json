@@ -1,0 +1,10 @@
+{
+	"Id": "0x9e3b1c6f7e367e001e08bb3b15c5542c43a410cc",
+	"Symbol": "WETH-JEET",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xdc812542793be36bc44e856abd832fa5e49b47c3"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

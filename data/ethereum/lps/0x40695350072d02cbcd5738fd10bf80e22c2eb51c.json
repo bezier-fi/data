@@ -1,0 +1,10 @@
+{
+	"Id": "0x40695350072d02cbcd5738fd10bf80e22c2eb51c",
+	"Symbol": "OSAMA-WETH",
+	"UnderlyingTokens": [
+		"0x239ca331c4f0c5c3ddc6339056c6a35d89d46963",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Chain": "ethereum"
+}

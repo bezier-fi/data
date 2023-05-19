@@ -1,0 +1,27 @@
+{
+	"Id": "0x6d277654f347e9b36c11789001697a2b7284414d",
+	"Protocol": "69f3f755-67b5-45c2-abd0-4023540d4dd6",
+	"Outputs": [
+		{
+			"Address": "0x6d277654f347e9b36c11789001697a2b7284414d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x56d5cade6bd04f1656251d941727c8009fa0e117",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BCINU-WETH",
+	"Chain": "ethereum"
+}

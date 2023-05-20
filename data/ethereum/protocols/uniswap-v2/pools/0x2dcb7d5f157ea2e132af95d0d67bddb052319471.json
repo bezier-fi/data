@@ -1,0 +1,27 @@
+{
+	"Id": "0x2dcb7d5f157ea2e132af95d0d67bddb052319471",
+	"Protocol": "dc80344f-05ca-49bc-8d39-51c2604c8a95",
+	"Outputs": [
+		{
+			"Address": "0x2dcb7d5f157ea2e132af95d0d67bddb052319471",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xb485159ac569b444c2a786f9029c7d585c2e1f4e",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CROCIN-WETH",
+	"Chain": "ethereum"
+}

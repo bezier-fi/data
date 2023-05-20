@@ -1,0 +1,10 @@
+{
+	"Id": "0xb4bc5f9280714ab0404b548ba8231dbd8637efe8",
+	"Symbol": "WETH-BULLA",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xdf733d5be80a3ba0975afef4d7d7631161ae7640"
+	],
+	"Protocol": "dc80344f-05ca-49bc-8d39-51c2604c8a95",
+	"Chain": "ethereum"
+}

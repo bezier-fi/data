@@ -1,0 +1,10 @@
+{
+	"Id": "0xcd0fd2274ebd254a7e5c73ac009cfb4040c2e0a7",
+	"Symbol": "WETH-SEXY",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd64820317d3ec0caf139b69ff77a4bca5a26b020"
+	],
+	"Protocol": "dc80344f-05ca-49bc-8d39-51c2604c8a95",
+	"Chain": "ethereum"
+}

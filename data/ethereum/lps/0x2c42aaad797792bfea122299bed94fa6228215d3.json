@@ -1,0 +1,10 @@
+{
+	"Id": "0x2c42aaad797792bfea122299bed94fa6228215d3",
+	"Symbol": "BLUSH-WETH",
+	"UnderlyingTokens": [
+		"0xbc7e71707eb51a4d9483dae9c71bcdbcd2e6b1ab",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "dc80344f-05ca-49bc-8d39-51c2604c8a95",
+	"Chain": "ethereum"
+}

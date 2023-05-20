@@ -1,0 +1,10 @@
+{
+	"Id": "0xa978442b02e8c845b39176a4a6f6e100275270f1",
+	"Symbol": "OPPS-WETH",
+	"UnderlyingTokens": [
+		"0xa34c15706d8cc92c7b2bd08e2d1b310c56da4840",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "dc80344f-05ca-49bc-8d39-51c2604c8a95",
+	"Chain": "ethereum"
+}

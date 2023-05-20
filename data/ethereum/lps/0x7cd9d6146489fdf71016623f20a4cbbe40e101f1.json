@@ -1,0 +1,10 @@
+{
+	"Id": "0x7cd9d6146489fdf71016623f20a4cbbe40e101f1",
+	"Symbol": "WETH-COVID",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xcda63c270e4c9948429ef2224a0883df00f7802d"
+	],
+	"Protocol": "dc80344f-05ca-49bc-8d39-51c2604c8a95",
+	"Chain": "ethereum"
+}

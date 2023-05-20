@@ -1,0 +1,27 @@
+{
+	"Id": "0x1517ba8f1a1b192ac62f824d6e10f88ae99391b3",
+	"Protocol": "05253145-4d22-4b59-bbe3-755f1d698246",
+	"Outputs": [
+		{
+			"Address": "0x1517ba8f1a1b192ac62f824d6e10f88ae99391b3",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x628a3b2e302c7e896acc432d2d0dd22b6cb9bc88",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "LMWR-USDC (1.00%)",
+	"Chain": "ethereum"
+}

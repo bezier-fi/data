@@ -1,0 +1,10 @@
+{
+	"Id": "0xc95807a4ad27ae53f1ad9bdf2e458a01dfb3b93d",
+	"Symbol": "MUSK-WETH",
+	"UnderlyingTokens": [
+		"0xb1e8df7e585b1ffed100843ea99b54324db49d67",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "dc80344f-05ca-49bc-8d39-51c2604c8a95",
+	"Chain": "ethereum"
+}

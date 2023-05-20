@@ -1,0 +1,10 @@
+{
+	"Id": "0x45c919bd5cd7c4180dde10ab4e0f7332c88b2538",
+	"Symbol": "RAKKA-WETH",
+	"UnderlyingTokens": [
+		"0x913b723a2b3b41fc57fb33f48c2d2aede0feb5f7",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "dc80344f-05ca-49bc-8d39-51c2604c8a95",
+	"Chain": "ethereum"
+}

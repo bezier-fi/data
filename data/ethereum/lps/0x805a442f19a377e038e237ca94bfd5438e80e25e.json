@@ -1,0 +1,10 @@
+{
+	"Id": "0x805a442f19a377e038e237ca94bfd5438e80e25e",
+	"Symbol": "WETH-HASBULLA",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfffff2330a6e11aaebdf4e4be1a816077ef5967e"
+	],
+	"Protocol": "dc80344f-05ca-49bc-8d39-51c2604c8a95",
+	"Chain": "ethereum"
+}

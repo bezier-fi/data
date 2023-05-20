@@ -1,0 +1,30 @@
+{
+	"Id": "0xFF01EA43B164452754968B362E8FBD876bF57FDB",
+	"Protocol": "cb851612-b841-48c0-8fba-3c7454ff64b1",
+	"Outputs": [
+		{
+			"Address": "0x73968b9a57c6e53d41345fd57a6e6ae27d6cdb2f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		},
+		{
+			"Address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+			"Apr": 0.07992726,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x94b17476a93b3262d87b9a326965d1e91f9c13e7",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "OETH",
+	"Chain": "ethereum"
+}

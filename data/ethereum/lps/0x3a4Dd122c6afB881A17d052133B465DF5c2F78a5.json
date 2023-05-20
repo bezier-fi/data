@@ -1,0 +1,10 @@
+{
+	"Id": "0x3a4Dd122c6afB881A17d052133B465DF5c2F78a5",
+	"Symbol": "WETH/INGOT-f",
+	"UnderlyingTokens": [
+		"0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+		"0x2f65AAc617D2AeB822C4a5A61BEB5e17872F4B18"
+	],
+	"Protocol": "a4415a0c-2ce7-40be-9ee1-750268f618c8",
+	"Chain": "ethereum"
+}

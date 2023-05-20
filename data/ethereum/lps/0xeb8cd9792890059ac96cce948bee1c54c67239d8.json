@@ -1,0 +1,10 @@
+{
+	"Id": "0xeb8cd9792890059ac96cce948bee1c54c67239d8",
+	"Symbol": "$BRAIN-WETH",
+	"UnderlyingTokens": [
+		"0xbf97ec0024c32dfee2ac181c49fcbd1f1f0970a3",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "dc80344f-05ca-49bc-8d39-51c2604c8a95",
+	"Chain": "ethereum"
+}

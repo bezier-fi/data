@@ -1,0 +1,10 @@
+{
+	"Id": "0xfafc1ed56154bfe25a98c21ec20ac95a61eb11c5",
+	"Symbol": "BEETLE-WETH",
+	"UnderlyingTokens": [
+		"0xb5a6f3191818c403b38708d6babac9af233b035d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "dc80344f-05ca-49bc-8d39-51c2604c8a95",
+	"Chain": "ethereum"
+}

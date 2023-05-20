@@ -1,0 +1,10 @@
+{
+	"Id": "0x28d714c51ada49f591a02881adfe02e7b011b052",
+	"Symbol": "LARRYPEPE-WETH",
+	"UnderlyingTokens": [
+		"0x4c21c63013b1d3cf70137766f120b3d317e0b621",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "dc80344f-05ca-49bc-8d39-51c2604c8a95",
+	"Chain": "ethereum"
+}

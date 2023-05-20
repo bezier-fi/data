@@ -1,0 +1,10 @@
+{
+	"Id": "0xf8270e903b50f3ac1ba5de9f1333ce363e8ea4f4",
+	"Symbol": "WETH-SPIDERPIG",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe1f756788ac2a53bf01c7ff36f9d00848ebe0aa8"
+	],
+	"Protocol": "dc80344f-05ca-49bc-8d39-51c2604c8a95",
+	"Chain": "ethereum"
+}

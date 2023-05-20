@@ -1,0 +1,10 @@
+{
+	"Id": "0x361878515402d5e85838aee9d594a0560a67aa12",
+	"Symbol": "PSYDUCK-WETH",
+	"UnderlyingTokens": [
+		"0x2df3834d0db3d3fb6979203b844a60979290ca98",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "dc80344f-05ca-49bc-8d39-51c2604c8a95",
+	"Chain": "ethereum"
+}

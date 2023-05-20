@@ -1,0 +1,10 @@
+{
+	"Id": "0x98bcff16d6acf256668a4033de4d073b4e1f57c2",
+	"Symbol": "MTRAIN-WETH",
+	"UnderlyingTokens": [
+		"0x3228024b4878283920d259e7ee97a69fd2d4b8a7",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "dc80344f-05ca-49bc-8d39-51c2604c8a95",
+	"Chain": "ethereum"
+}

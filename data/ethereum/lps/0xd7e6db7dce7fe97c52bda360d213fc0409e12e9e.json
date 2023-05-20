@@ -1,0 +1,10 @@
+{
+	"Id": "0xd7e6db7dce7fe97c52bda360d213fc0409e12e9e",
+	"Symbol": "PepeDubai-WETH",
+	"UnderlyingTokens": [
+		"0xbf6eb2001ac4fcd7a4a1f512ffc51ca4a585bf44",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "dc80344f-05ca-49bc-8d39-51c2604c8a95",
+	"Chain": "ethereum"
+}

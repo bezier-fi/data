@@ -1,0 +1,10 @@
+{
+	"Id": "0x81a330e4e669bfbbad6d14b3c8b37260ab7c63f6",
+	"Symbol": "YGMI-WETH",
+	"UnderlyingTokens": [
+		"0x9cb33334b2ff1c00502eecdfbb8be2d492cb98aa",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "dc80344f-05ca-49bc-8d39-51c2604c8a95",
+	"Chain": "ethereum"
+}

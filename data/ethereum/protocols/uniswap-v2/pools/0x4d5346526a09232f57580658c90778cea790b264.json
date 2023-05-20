@@ -1,0 +1,27 @@
+{
+	"Id": "0x4d5346526a09232f57580658c90778cea790b264",
+	"Protocol": "dc80344f-05ca-49bc-8d39-51c2604c8a95",
+	"Outputs": [
+		{
+			"Address": "0x4d5346526a09232f57580658c90778cea790b264",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1ce270557c1f68cfb577b856766310bf8b47fd9c",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xd5359dc12cf3c993000b5b6e1e00797cdb8a2bc3",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "$MONG-CHFB",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xcd53c75f732a777b9b45dd8edbf16ef79b6d7abe",
+	"Symbol": "RUNNER-WETH",
+	"UnderlyingTokens": [
+		"0x3f6186c488080868b6213ac3687dc26aee3529d4",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "dc80344f-05ca-49bc-8d39-51c2604c8a95",
+	"Chain": "ethereum"
+}

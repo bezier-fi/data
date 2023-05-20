@@ -1,0 +1,10 @@
+{
+	"Id": "0x1710264245306aeaf55985e49ac0894038d0ef0a",
+	"Symbol": "PSYOFF-WETH",
+	"UnderlyingTokens": [
+		"0x15c146c539a59cb09b20e043469f912ff8640ed0",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "dc80344f-05ca-49bc-8d39-51c2604c8a95",
+	"Chain": "ethereum"
+}

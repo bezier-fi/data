@@ -1,0 +1,10 @@
+{
+	"Id": "0xd69befc48fdd9a2940b8cb6be829d2b31f0f111d",
+	"Symbol": "QGMR-WETH",
+	"UnderlyingTokens": [
+		"0x543372ba1496b6b6e07205aecdb4f661ef8a7b67",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "dc80344f-05ca-49bc-8d39-51c2604c8a95",
+	"Chain": "ethereum"
+}

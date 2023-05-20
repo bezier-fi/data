@@ -1,0 +1,10 @@
+{
+	"Id": "0x9d4b38aa4b3b1966efaac8e784e17e7e04757b72",
+	"Symbol": "WETH-PUNK",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfa8234d0d44e64819ceec4da738c03832056db3b"
+	],
+	"Protocol": "dc80344f-05ca-49bc-8d39-51c2604c8a95",
+	"Chain": "ethereum"
+}

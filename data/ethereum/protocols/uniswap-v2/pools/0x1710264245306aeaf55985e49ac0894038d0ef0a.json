@@ -1,0 +1,27 @@
+{
+	"Id": "0x1710264245306aeaf55985e49ac0894038d0ef0a",
+	"Protocol": "dc80344f-05ca-49bc-8d39-51c2604c8a95",
+	"Outputs": [
+		{
+			"Address": "0x1710264245306aeaf55985e49ac0894038d0ef0a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x15c146c539a59cb09b20e043469f912ff8640ed0",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PSYOFF-WETH",
+	"Chain": "ethereum"
+}

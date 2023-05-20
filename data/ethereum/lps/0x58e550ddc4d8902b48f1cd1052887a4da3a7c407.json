@@ -1,0 +1,10 @@
+{
+	"Id": "0x58e550ddc4d8902b48f1cd1052887a4da3a7c407",
+	"Symbol": "JUMBO-WETH",
+	"UnderlyingTokens": [
+		"0x977039c88ca52fc5b470f60acc62e07d39fd1c81",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "dc80344f-05ca-49bc-8d39-51c2604c8a95",
+	"Chain": "ethereum"
+}

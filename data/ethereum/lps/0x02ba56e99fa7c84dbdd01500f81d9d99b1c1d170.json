@@ -1,0 +1,10 @@
+{
+	"Id": "0x02ba56e99fa7c84dbdd01500f81d9d99b1c1d170",
+	"Symbol": "FELLAS-WETH",
+	"UnderlyingTokens": [
+		"0x58d2cc639e0b2a570e4cb2ea37f0f479fd3bd07c",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "dc80344f-05ca-49bc-8d39-51c2604c8a95",
+	"Chain": "ethereum"
+}

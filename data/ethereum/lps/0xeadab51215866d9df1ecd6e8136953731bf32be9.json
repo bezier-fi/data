@@ -1,0 +1,10 @@
+{
+	"Id": "0xeadab51215866d9df1ecd6e8136953731bf32be9",
+	"Symbol": "VAL-WETH",
+	"UnderlyingTokens": [
+		"0x891c203609866791dce93644476344e8a9892a4f",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "dc80344f-05ca-49bc-8d39-51c2604c8a95",
+	"Chain": "ethereum"
+}

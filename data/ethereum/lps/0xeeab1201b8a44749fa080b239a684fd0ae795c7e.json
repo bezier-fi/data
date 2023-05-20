@@ -1,0 +1,10 @@
+{
+	"Id": "0xeeab1201b8a44749fa080b239a684fd0ae795c7e",
+	"Symbol": "WETH-Opepe",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc7f8a4884f5163567f655ca8d3015536b0e12022"
+	],
+	"Protocol": "dc80344f-05ca-49bc-8d39-51c2604c8a95",
+	"Chain": "ethereum"
+}

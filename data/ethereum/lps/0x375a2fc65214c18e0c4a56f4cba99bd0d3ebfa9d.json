@@ -1,0 +1,10 @@
+{
+	"Id": "0x375a2fc65214c18e0c4a56f4cba99bd0d3ebfa9d",
+	"Symbol": "RAIDEN-WETH",
+	"UnderlyingTokens": [
+		"0xb250910e203521b7f417ac588a2f8e44133bb7d4",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "dc80344f-05ca-49bc-8d39-51c2604c8a95",
+	"Chain": "ethereum"
+}

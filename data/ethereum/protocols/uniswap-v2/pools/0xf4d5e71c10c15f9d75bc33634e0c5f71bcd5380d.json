@@ -1,0 +1,27 @@
+{
+	"Id": "0xf4d5e71c10c15f9d75bc33634e0c5f71bcd5380d",
+	"Protocol": "dc80344f-05ca-49bc-8d39-51c2604c8a95",
+	"Outputs": [
+		{
+			"Address": "0xf4d5e71c10c15f9d75bc33634e0c5f71bcd5380d",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xed162ec0591b862e93ceb75a0eb23662caebfd8a",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-BILLION",
+	"Chain": "ethereum"
+}

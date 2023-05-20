@@ -1,0 +1,10 @@
+{
+	"Id": "0x991c19eca55120d258fcd43e0e5df4b0b3d50ae4",
+	"Symbol": "ALPACA-WETH",
+	"UnderlyingTokens": [
+		"0xaf86c6033dbad89f42ca7cfb72964a53a52d440a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "dc80344f-05ca-49bc-8d39-51c2604c8a95",
+	"Chain": "ethereum"
+}

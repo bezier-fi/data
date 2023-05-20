@@ -1,0 +1,27 @@
+{
+	"Id": "0x9b19032d515c791dfd51f40b6b77fa7c29b512bb",
+	"Protocol": "dc80344f-05ca-49bc-8d39-51c2604c8a95",
+	"Outputs": [
+		{
+			"Address": "0x9b19032d515c791dfd51f40b6b77fa7c29b512bb",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x903cd964f214e47d86ffb0e8fbd27024ba7075bc",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "HYPE-WETH",
+	"Chain": "ethereum"
+}

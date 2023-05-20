@@ -1,0 +1,10 @@
+{
+	"Id": "0x0c61aa4c6f7f1ccd4fa872ac0f1a6d63775a5413",
+	"Symbol": "WETH-ZOOTOPIA",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xfce0029519c0de87a32192564b1ca9ea58f10b36"
+	],
+	"Protocol": "dc80344f-05ca-49bc-8d39-51c2604c8a95",
+	"Chain": "ethereum"
+}

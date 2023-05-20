@@ -1,0 +1,27 @@
+{
+	"Id": "0xc2661550b7c7b669f0034fe59895efe5487673c2",
+	"Protocol": "05253145-4d22-4b59-bbe3-755f1d698246",
+	"Outputs": [
+		{
+			"Address": "0xc2661550b7c7b669f0034fe59895efe5487673c2",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x689f8e5913c158ffb5ac5aeb83b3c875f5d20309",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDC-SNK (1.00%)",
+	"Chain": "polygon"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x52e0541e3336a27efe10896cbcce6abddd2f10d2",
+	"Protocol": "dc80344f-05ca-49bc-8d39-51c2604c8a95",
+	"Outputs": [
+		{
+			"Address": "0x52e0541e3336a27efe10896cbcce6abddd2f10d2",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6f07b5c92e6e9cfa3986fa21952c40c603842c5e",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "AIKO-WETH",
+	"Chain": "ethereum"
+}

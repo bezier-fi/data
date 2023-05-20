@@ -1,0 +1,10 @@
+{
+	"Id": "0xb46352927beeef581cc772f2d470956df60e37b8",
+	"Symbol": "WALT-WETH",
+	"UnderlyingTokens": [
+		"0x2584d6d45308ac4fc2eb4d32d2cde579cfda667a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "dc80344f-05ca-49bc-8d39-51c2604c8a95",
+	"Chain": "ethereum"
+}

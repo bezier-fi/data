@@ -1,0 +1,10 @@
+{
+	"Id": "0x5b61ae870e6be0ed078ef5dc262c65d1924f84e2",
+	"Symbol": "YOLO-WETH",
+	"UnderlyingTokens": [
+		"0x6dbda7db9272d444320ee7d48bb805f9ddacada9",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "dc80344f-05ca-49bc-8d39-51c2604c8a95",
+	"Chain": "ethereum"
+}

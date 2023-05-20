@@ -1,0 +1,10 @@
+{
+	"Id": "0xcde461ee419e0e844218a5b7e51ddc6d5a8e9a69",
+	"Symbol": "WSPE-WETH",
+	"UnderlyingTokens": [
+		"0x79e868d29ba5908777a5501f07c1c3b994120b53",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "dc80344f-05ca-49bc-8d39-51c2604c8a95",
+	"Chain": "ethereum"
+}

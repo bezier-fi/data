@@ -1,0 +1,10 @@
+{
+	"Id": "0x09c9bf443d44e46e0139eb2e6f5d508085e2c09e",
+	"Symbol": "GOAT-WETH",
+	"UnderlyingTokens": [
+		"0x38607bff5678d202ee6b34afbc05b0e04a412f56",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "dc80344f-05ca-49bc-8d39-51c2604c8a95",
+	"Chain": "ethereum"
+}

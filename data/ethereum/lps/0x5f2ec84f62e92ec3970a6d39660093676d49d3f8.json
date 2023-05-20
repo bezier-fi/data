@@ -1,0 +1,10 @@
+{
+	"Id": "0x5f2ec84f62e92ec3970a6d39660093676d49d3f8",
+	"Symbol": "CaDog-WETH",
+	"UnderlyingTokens": [
+		"0x77aefdda57d67b37422f31260343acc87a247e23",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "dc80344f-05ca-49bc-8d39-51c2604c8a95",
+	"Chain": "ethereum"
+}

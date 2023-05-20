@@ -1,0 +1,10 @@
+{
+	"Id": "0xb51b1f366be7cfbd4758179bca22097bb63991b2",
+	"Symbol": "EGG-WETH",
+	"UnderlyingTokens": [
+		"0x7e85b369d170ebf127367400b1f399cb18027309",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "dc80344f-05ca-49bc-8d39-51c2604c8a95",
+	"Chain": "ethereum"
+}

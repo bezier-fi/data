@@ -1,0 +1,10 @@
+{
+	"Id": "0xb14a19da1254260de20a301e9fe0a27c4e05df83",
+	"Symbol": "PSYBOB-WETH",
+	"UnderlyingTokens": [
+		"0x52b68bb5a7a6d026d34fb1d61aebb918b30bc7f2",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "dc80344f-05ca-49bc-8d39-51c2604c8a95",
+	"Chain": "ethereum"
+}

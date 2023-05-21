@@ -1,0 +1,10 @@
+{
+	"Id": "0xc27b138c3e157759d8eea6c1272007b4d1b6fc34",
+	"Symbol": "PREZ-WETH",
+	"UnderlyingTokens": [
+		"0x5a9977c88bd4ce1440f13445b3455b573d8dcd72",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "1c16deb1-919b-42c8-a42d-859977d4ebdf",
+	"Chain": "ethereum"
+}

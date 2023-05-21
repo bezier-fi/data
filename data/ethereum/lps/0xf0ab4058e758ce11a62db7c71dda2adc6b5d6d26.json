@@ -1,0 +1,10 @@
+{
+	"Id": "0xf0ab4058e758ce11a62db7c71dda2adc6b5d6d26",
+	"Symbol": "YUKKY-WETH",
+	"UnderlyingTokens": [
+		"0x37f678ad6221a0fd71cda0eca19c8802f4cabf44",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "1c16deb1-919b-42c8-a42d-859977d4ebdf",
+	"Chain": "ethereum"
+}

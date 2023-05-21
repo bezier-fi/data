@@ -1,0 +1,27 @@
+{
+	"Id": "0x85a4af4c4273cbeb823776b04ab624b6b8cd130c",
+	"Protocol": "1c16deb1-919b-42c8-a42d-859977d4ebdf",
+	"Outputs": [
+		{
+			"Address": "0x85a4af4c4273cbeb823776b04ab624b6b8cd130c",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x436825018f6947ec71468aa33ef0d32bd80ab099",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "$RALLY-WETH",
+	"Chain": "ethereum"
+}

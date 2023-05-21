@@ -1,0 +1,10 @@
+{
+	"Id": "0x398c4bedad007a490bd23c9ef590a0cb3dc5e485",
+	"Symbol": "BABYWAGMI-WETH",
+	"UnderlyingTokens": [
+		"0x475a33ca92792fde72ba333b4af264547937a153",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "1c16deb1-919b-42c8-a42d-859977d4ebdf",
+	"Chain": "ethereum"
+}

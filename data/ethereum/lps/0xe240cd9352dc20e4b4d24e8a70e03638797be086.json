@@ -1,0 +1,10 @@
+{
+	"Id": "0xe240cd9352dc20e4b4d24e8a70e03638797be086",
+	"Symbol": "WIFE-WETH",
+	"UnderlyingTokens": [
+		"0x7bfd545614b5e91709510257b3664e919d68ba57",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "1c16deb1-919b-42c8-a42d-859977d4ebdf",
+	"Chain": "ethereum"
+}

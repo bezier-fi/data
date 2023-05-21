@@ -1,0 +1,10 @@
+{
+	"Id": "0x2228bfcb5ec0ea991afac8878d43deb02fb9cafa",
+	"Symbol": "HONK-WETH",
+	"UnderlyingTokens": [
+		"0xa8b3be4ba18406db879083c08b9a3bf70f98ad40",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "1c16deb1-919b-42c8-a42d-859977d4ebdf",
+	"Chain": "ethereum"
+}

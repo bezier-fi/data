@@ -1,0 +1,10 @@
+{
+	"Id": "0x76c62bc8ac306fcbf79e2c1f3aa50d902ec5b05a",
+	"Symbol": "BROKE-WETH",
+	"UnderlyingTokens": [
+		"0x7a0269405f7b3ff2d56da526e14343ce9003007a",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "1c16deb1-919b-42c8-a42d-859977d4ebdf",
+	"Chain": "ethereum"
+}

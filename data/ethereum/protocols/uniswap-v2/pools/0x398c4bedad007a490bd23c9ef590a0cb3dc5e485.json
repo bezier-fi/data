@@ -1,0 +1,27 @@
+{
+	"Id": "0x398c4bedad007a490bd23c9ef590a0cb3dc5e485",
+	"Protocol": "1c16deb1-919b-42c8-a42d-859977d4ebdf",
+	"Outputs": [
+		{
+			"Address": "0x398c4bedad007a490bd23c9ef590a0cb3dc5e485",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x475a33ca92792fde72ba333b4af264547937a153",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BABYWAGMI-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0xd8f04f6ba26f8411612e58a5848950febb86e0ab",
+	"Symbol": "SADGE-WETH",
+	"UnderlyingTokens": [
+		"0x242c3830bc617b3860c3bbad55917901a59a5529",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "1c16deb1-919b-42c8-a42d-859977d4ebdf",
+	"Chain": "ethereum"
+}

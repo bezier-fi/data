@@ -1,0 +1,10 @@
+{
+	"Id": "0x592db94de401fbc9221e31d10cb83f522bdba2dd",
+	"Symbol": "TOM-WETH",
+	"UnderlyingTokens": [
+		"0xafcf828fe1f5a8fb404a340f8c5016b24814d09d",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "1c16deb1-919b-42c8-a42d-859977d4ebdf",
+	"Chain": "ethereum"
+}

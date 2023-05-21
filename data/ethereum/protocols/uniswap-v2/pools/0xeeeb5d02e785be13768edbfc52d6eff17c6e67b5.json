@@ -1,0 +1,27 @@
+{
+	"Id": "0xeeeb5d02e785be13768edbfc52d6eff17c6e67b5",
+	"Protocol": "1c16deb1-919b-42c8-a42d-859977d4ebdf",
+	"Outputs": [
+		{
+			"Address": "0xeeeb5d02e785be13768edbfc52d6eff17c6e67b5",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xa40fe522fdeaf66e1a2273c31cef032d670b65b3",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "RAGE-WETH",
+	"Chain": "ethereum"
+}

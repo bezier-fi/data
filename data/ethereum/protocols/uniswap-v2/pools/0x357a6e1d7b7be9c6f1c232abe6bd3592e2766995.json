@@ -1,0 +1,27 @@
+{
+	"Id": "0x357a6e1d7b7be9c6f1c232abe6bd3592e2766995",
+	"Protocol": "1c16deb1-919b-42c8-a42d-859977d4ebdf",
+	"Outputs": [
+		{
+			"Address": "0x357a6e1d7b7be9c6f1c232abe6bd3592e2766995",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x4cd5331522ce2dcab0854c6f6e1d9a38f86c584f",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "crvUSD-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0xD2dbD1206507b5Ccde42f125844F77A9e4A42423",
+	"Protocol": "069119aa-7d4f-4ab1-bb9f-e1061edf1643",
+	"Outputs": [
+		{
+			"Address": "0xD2dbD1206507b5Ccde42f125844F77A9e4A42423",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc43BA7E17CFAB825c106b66e07C623B8E6372634",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "CCKETH-f",
+	"Chain": "polygon"
+}

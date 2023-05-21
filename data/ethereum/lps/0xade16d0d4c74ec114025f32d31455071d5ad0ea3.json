@@ -1,0 +1,10 @@
+{
+	"Id": "0xade16d0d4c74ec114025f32d31455071d5ad0ea3",
+	"Symbol": "$PEPELON-WETH",
+	"UnderlyingTokens": [
+		"0xa752482e8a368118e7a4cd05d1130ea61249aa05",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "1c16deb1-919b-42c8-a42d-859977d4ebdf",
+	"Chain": "ethereum"
+}

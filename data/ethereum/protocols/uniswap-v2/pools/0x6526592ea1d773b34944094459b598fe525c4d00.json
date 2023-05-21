@@ -1,0 +1,27 @@
+{
+	"Id": "0x6526592ea1d773b34944094459b598fe525c4d00",
+	"Protocol": "1c16deb1-919b-42c8-a42d-859977d4ebdf",
+	"Outputs": [
+		{
+			"Address": "0x6526592ea1d773b34944094459b598fe525c4d00",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x6f4f9c37916981da54e9103f20096000442a66ec",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "LGR-WETH",
+	"Chain": "ethereum"
+}

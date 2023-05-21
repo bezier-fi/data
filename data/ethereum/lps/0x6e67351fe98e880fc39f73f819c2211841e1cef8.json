@@ -1,0 +1,10 @@
+{
+	"Id": "0x6e67351fe98e880fc39f73f819c2211841e1cef8",
+	"Symbol": "DPHI-WETH",
+	"UnderlyingTokens": [
+		"0x372ab75b51cab03b8a1aa10b1cfbe180583c4c79",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "1c16deb1-919b-42c8-a42d-859977d4ebdf",
+	"Chain": "ethereum"
+}

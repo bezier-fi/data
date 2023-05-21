@@ -1,0 +1,27 @@
+{
+	"Id": "0x026ec158224cc0c1191c3aa52cbaefed92fb970b",
+	"Protocol": "1c16deb1-919b-42c8-a42d-859977d4ebdf",
+	"Outputs": [
+		{
+			"Address": "0x026ec158224cc0c1191c3aa52cbaefed92fb970b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x9ee916364c609846cb8c5fc3118cd96415a08f85",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GIGAREKT-WETH",
+	"Chain": "ethereum"
+}

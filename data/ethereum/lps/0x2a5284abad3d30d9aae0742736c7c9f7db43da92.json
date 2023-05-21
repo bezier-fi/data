@@ -1,0 +1,10 @@
+{
+	"Id": "0x2a5284abad3d30d9aae0742736c7c9f7db43da92",
+	"Symbol": "WETH-BERNIE",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xe9c82dfeb667642fd50806e4cdb7377ae91ec4eb"
+	],
+	"Protocol": "1c16deb1-919b-42c8-a42d-859977d4ebdf",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x54cfa3433715ca3a2e176f7046de4819bd124aa8",
+	"Symbol": "RALPH-WETH",
+	"UnderlyingTokens": [
+		"0x766d6e77bb6db1a72c6bc8551df781825fed4846",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "1c16deb1-919b-42c8-a42d-859977d4ebdf",
+	"Chain": "ethereum"
+}

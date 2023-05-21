@@ -1,0 +1,10 @@
+{
+	"Id": "0x65e1ca2f5685b140e6d94c4686758cc2ad4af732",
+	"Symbol": "GLHF-WETH",
+	"UnderlyingTokens": [
+		"0x568300259955ef6cc2fd301f00a6dc693d2466c6",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "1c16deb1-919b-42c8-a42d-859977d4ebdf",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x93bc7fca5a41ee573671963abdf28f4cb49906a0",
+	"Symbol": "WETH-SHEPE  ",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xc03d36407d78b2115cf2e5337382329ddef41580"
+	],
+	"Protocol": "1c16deb1-919b-42c8-a42d-859977d4ebdf",
+	"Chain": "ethereum"
+}

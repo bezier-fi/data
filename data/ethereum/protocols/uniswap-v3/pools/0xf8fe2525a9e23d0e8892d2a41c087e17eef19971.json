@@ -1,0 +1,27 @@
+{
+	"Id": "0xf8fe2525a9e23d0e8892d2a41c087e17eef19971",
+	"Protocol": "1056f952-c9c4-4d6f-bba0-ebe34b0135fc",
+	"Outputs": [
+		{
+			"Address": "0xf8fe2525a9e23d0e8892d2a41c087e17eef19971",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xbacacd83b68c92ae07ef382d0c0277d1bd1c7c4d",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PSALE-WETH (1.00%)",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x936e0f87e42f418f22e5d99fe929dfbd78243bd0",
+	"Symbol": "WETH-MEWOP",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xed19effe983d7b8bc6478d988c0833776c2f3904"
+	],
+	"Protocol": "1c16deb1-919b-42c8-a42d-859977d4ebdf",
+	"Chain": "ethereum"
+}

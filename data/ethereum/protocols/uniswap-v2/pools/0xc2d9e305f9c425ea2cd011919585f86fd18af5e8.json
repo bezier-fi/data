@@ -1,0 +1,27 @@
+{
+	"Id": "0xc2d9e305f9c425ea2cd011919585f86fd18af5e8",
+	"Protocol": "1c16deb1-919b-42c8-a42d-859977d4ebdf",
+	"Outputs": [
+		{
+			"Address": "0xc2d9e305f9c425ea2cd011919585f86fd18af5e8",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x70fb00c547abda3918e30714b210ba16d323b4f3",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "neuralNetX-WETH",
+	"Chain": "ethereum"
+}

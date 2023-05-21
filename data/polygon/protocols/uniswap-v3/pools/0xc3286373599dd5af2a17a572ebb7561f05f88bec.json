@@ -1,0 +1,27 @@
+{
+	"Id": "0xc3286373599dd5af2a17a572ebb7561f05f88bec",
+	"Protocol": "1056f952-c9c4-4d6f-bba0-ebe34b0135fc",
+	"Outputs": [
+		{
+			"Address": "0xc3286373599dd5af2a17a572ebb7561f05f88bec",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x0308a3a9c433256ad7ef24dbef9c49c8cb01300a",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GPO-USDC (1.00%)",
+	"Chain": "polygon"
+}

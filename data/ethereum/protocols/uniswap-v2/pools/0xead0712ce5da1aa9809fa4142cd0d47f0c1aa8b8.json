@@ -1,0 +1,27 @@
+{
+	"Id": "0xead0712ce5da1aa9809fa4142cd0d47f0c1aa8b8",
+	"Protocol": "1c16deb1-919b-42c8-a42d-859977d4ebdf",
+	"Outputs": [
+		{
+			"Address": "0xead0712ce5da1aa9809fa4142cd0d47f0c1aa8b8",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x816b5b89def7f746801812a74c48567e64449657",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "LEYA-WETH",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,10 @@
+{
+	"Id": "0x80c99894141a88592fd98fd24d2a268821f39d5e",
+	"Symbol": "DAD-WETH",
+	"UnderlyingTokens": [
+		"0xac313b5f3ea704f7aa806c2605d12c87eab4caa7",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "1c16deb1-919b-42c8-a42d-859977d4ebdf",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x5e2b4536bfdc6312ceb0297d908c9df062231d2c",
+	"Protocol": "1c16deb1-919b-42c8-a42d-859977d4ebdf",
+	"Outputs": [
+		{
+			"Address": "0x5e2b4536bfdc6312ceb0297d908c9df062231d2c",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x734313f35243d7627b7e309cf6c26441fd45dd95",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PEONY-WETH",
+	"Chain": "ethereum"
+}

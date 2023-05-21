@@ -1,0 +1,10 @@
+{
+	"Id": "0x82e40021f6fe5bb2d95503dd7f3af8bc78edbc5a",
+	"Symbol": "JARED-WETH",
+	"UnderlyingTokens": [
+		"0xb01486b4460f4e2e8ae70ddc401a1e6834fa6b33",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "1c16deb1-919b-42c8-a42d-859977d4ebdf",
+	"Chain": "ethereum"
+}

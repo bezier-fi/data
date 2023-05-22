@@ -1,0 +1,27 @@
+{
+	"Id": "0xd80debf02401e3170aae5313cb5762b3648edf0f",
+	"Protocol": "41251626-33f5-4add-b6e9-6851678f6641",
+	"Outputs": [
+		{
+			"Address": "0xd80debf02401e3170aae5313cb5762b3648edf0f",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x77777feddddffc19ff86db637967013e6c6a116c",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "TORN-USDT (1.00%)",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0xce201c047bcdc5aa171532ad2a2e3cbec1724e69",
+	"Protocol": "41251626-33f5-4add-b6e9-6851678f6641",
+	"Outputs": [
+		{
+			"Address": "0xce201c047bcdc5aa171532ad2a2e3cbec1724e69",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x65dc7fc3e7a718cecc6a45a2183b99ded1b26d07",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "4ELONE-WETH (1.00%)",
+	"Chain": "ethereum"
+}

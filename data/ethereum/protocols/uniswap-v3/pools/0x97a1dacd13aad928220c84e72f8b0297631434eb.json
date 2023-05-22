@@ -1,0 +1,27 @@
+{
+	"Id": "0x97a1dacd13aad928220c84e72f8b0297631434eb",
+	"Protocol": "41251626-33f5-4add-b6e9-6851678f6641",
+	"Outputs": [
+		{
+			"Address": "0x97a1dacd13aad928220c84e72f8b0297631434eb",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x73648315fbe69f7bd36a917802e4f19314009def",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "RIBBIT-WETH (0.30%)",
+	"Chain": "ethereum"
+}

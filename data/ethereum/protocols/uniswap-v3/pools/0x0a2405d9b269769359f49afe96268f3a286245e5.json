@@ -1,0 +1,27 @@
+{
+	"Id": "0x0a2405d9b269769359f49afe96268f3a286245e5",
+	"Protocol": "41251626-33f5-4add-b6e9-6851678f6641",
+	"Outputs": [
+		{
+			"Address": "0x0a2405d9b269769359f49afe96268f3a286245e5",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x88bd2e84e81c09cc18a27a447333ce99d6f17cc7",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "SHELON-WETH (1.00%)",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0x9cd0d20ca1db098d85b553a19d8816104f9878bf",
+	"Protocol": "b8da711b-4f3e-4ebf-9ed5-4fe88cba554f",
+	"Outputs": [
+		{
+			"Address": "0x9cd0d20ca1db098d85b553a19d8816104f9878bf",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xff8c479134a18918059493243943150776cf8cf2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "USDT-RENQ (1.00%)",
+	"Chain": "ethereum"
+}

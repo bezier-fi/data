@@ -1,0 +1,27 @@
+{
+	"Id": "0x2da1eae7f7260ae69ea393ee84955359c6f020fd",
+	"Protocol": "b8da711b-4f3e-4ebf-9ed5-4fe88cba554f",
+	"Outputs": [
+		{
+			"Address": "0x2da1eae7f7260ae69ea393ee84955359c6f020fd",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8718b8eb796ead111c0af9ce05387e6c741d8e3e",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "PLOUTΩS-WETH (1.00%)",
+	"Chain": "ethereum"
+}

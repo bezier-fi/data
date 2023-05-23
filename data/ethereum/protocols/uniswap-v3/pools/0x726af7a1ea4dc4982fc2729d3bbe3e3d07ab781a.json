@@ -1,0 +1,27 @@
+{
+	"Id": "0x726af7a1ea4dc4982fc2729d3bbe3e3d07ab781a",
+	"Protocol": "b8da711b-4f3e-4ebf-9ed5-4fe88cba554f",
+	"Outputs": [
+		{
+			"Address": "0x726af7a1ea4dc4982fc2729d3bbe3e3d07ab781a",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x63e35fc7580e14a79fa6b6d2de04356c8d728d3a",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "GALXE-WETH (0.01%)",
+	"Chain": "ethereum"
+}

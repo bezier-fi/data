@@ -1,0 +1,27 @@
+{
+	"Id": "0xe8f50fda73db47fdbddf4eb4f7a8c1e5f73dbdae",
+	"Protocol": "b8da711b-4f3e-4ebf-9ed5-4fe88cba554f",
+	"Outputs": [
+		{
+			"Address": "0xe8f50fda73db47fdbddf4eb4f7a8c1e5f73dbdae",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x3b9128ddd834ce06a60b0ec31ccfb11582d8ee18",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WBTC-oWBTC (1.00%)",
+	"Chain": "polygon"
+}

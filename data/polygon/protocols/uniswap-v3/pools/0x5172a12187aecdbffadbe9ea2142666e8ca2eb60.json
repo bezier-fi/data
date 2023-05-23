@@ -1,0 +1,27 @@
+{
+	"Id": "0x5172a12187aecdbffadbe9ea2142666e8ca2eb60",
+	"Protocol": "b8da711b-4f3e-4ebf-9ed5-4fe88cba554f",
+	"Outputs": [
+		{
+			"Address": "0x5172a12187aecdbffadbe9ea2142666e8ca2eb60",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x03b54a6e9a984069379fae1a4fc4dbae93b3bccd",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "wstETH-USDT (0.30%)",
+	"Chain": "polygon"
+}

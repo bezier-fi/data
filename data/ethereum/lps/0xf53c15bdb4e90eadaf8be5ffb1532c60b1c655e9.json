@@ -1,0 +1,10 @@
+{
+	"Id": "0xf53c15bdb4e90eadaf8be5ffb1532c60b1c655e9",
+	"Symbol": "GRAI-WETH (0.30%)",
+	"UnderlyingTokens": [
+		"0x15f74458ae0bfdaa1a96ca1aa779d715cc1eefe4",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "b8da711b-4f3e-4ebf-9ed5-4fe88cba554f",
+	"Chain": "ethereum"
+}

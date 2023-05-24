@@ -1,0 +1,27 @@
+{
+	"Id": "0x92575b36a3d65ed3636b97ac6eeff220e3c30b8b",
+	"Protocol": "49b3e9b5-79ef-46f5-ace4-4112fce615b8",
+	"Outputs": [
+		{
+			"Address": "0x92575b36a3d65ed3636b97ac6eeff220e3c30b8b",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x8edf9f879c83e53b961188d4e96d8a304ecbed65",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "Frik-WETH (0.30%)",
+	"Chain": "ethereum"
+}

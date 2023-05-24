@@ -1,0 +1,10 @@
+{
+	"Id": "0x92575b36a3d65ed3636b97ac6eeff220e3c30b8b",
+	"Symbol": "Frik-WETH (0.30%)",
+	"UnderlyingTokens": [
+		"0x8edf9f879c83e53b961188d4e96d8a304ecbed65",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "49b3e9b5-79ef-46f5-ace4-4112fce615b8",
+	"Chain": "ethereum"
+}

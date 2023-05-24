@@ -1,0 +1,27 @@
+{
+	"Id": "0x964d6d6a072b8df063e1ffd253bdd3ebacf2b6a2",
+	"Protocol": "49b3e9b5-79ef-46f5-ace4-4112fce615b8",
+	"Outputs": [
+		{
+			"Address": "0x964d6d6a072b8df063e1ffd253bdd3ebacf2b6a2",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0x52e7b23e1faba6d83376725e2ccad75efbd8736e",
+			"GroupId": 0
+		},
+		{
+			"Address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "BURN-PEPE (1.00%)",
+	"Chain": "ethereum"
+}

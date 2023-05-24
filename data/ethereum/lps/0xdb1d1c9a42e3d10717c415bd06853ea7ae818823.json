@@ -1,0 +1,10 @@
+{
+	"Id": "0xdb1d1c9a42e3d10717c415bd06853ea7ae818823",
+	"Symbol": "MRF-WETH (1.00%)",
+	"UnderlyingTokens": [
+		"0x3d5d3dcd01469ef8c6bc9c45665835814635c725",
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	],
+	"Protocol": "49b3e9b5-79ef-46f5-ace4-4112fce615b8",
+	"Chain": "ethereum"
+}

@@ -1,0 +1,27 @@
+{
+	"Id": "0xa1463f71c2bf0672eb424e606234026a19157aac",
+	"Protocol": "49b3e9b5-79ef-46f5-ace4-4112fce615b8",
+	"Outputs": [
+		{
+			"Address": "0xa1463f71c2bf0672eb424e606234026a19157aac",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xbe9895146f7af43049ca1c1ae358b0541ea49704",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xd82b365f821e42009c217ec103941b5f1532da53",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "cbETH-BURN (0.01%)",
+	"Chain": "ethereum"
+}

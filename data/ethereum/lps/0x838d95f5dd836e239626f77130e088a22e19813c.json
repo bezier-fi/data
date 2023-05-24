@@ -1,0 +1,10 @@
+{
+	"Id": "0x838d95f5dd836e239626f77130e088a22e19813c",
+	"Symbol": "WETH-BURN (0.01%)",
+	"UnderlyingTokens": [
+		"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"0xd82b365f821e42009c217ec103941b5f1532da53"
+	],
+	"Protocol": "49b3e9b5-79ef-46f5-ace4-4112fce615b8",
+	"Chain": "ethereum"
+}

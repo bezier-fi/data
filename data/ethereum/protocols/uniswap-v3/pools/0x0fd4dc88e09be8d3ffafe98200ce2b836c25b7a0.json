@@ -1,0 +1,27 @@
+{
+	"Id": "0x0fd4dc88e09be8d3ffafe98200ce2b836c25b7a0",
+	"Protocol": "49b3e9b5-79ef-46f5-ace4-4112fce615b8",
+	"Outputs": [
+		{
+			"Address": "0x0fd4dc88e09be8d3ffafe98200ce2b836c25b7a0",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xf4962b42202501830374a583bf9fd01a3e973a31",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-MEKI (1.00%)",
+	"Chain": "ethereum"
+}

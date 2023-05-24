@@ -1,0 +1,27 @@
+{
+	"Id": "0x4b74f870e38d8c65bafeb80bb111bf49f049dbcc",
+	"Protocol": "49b3e9b5-79ef-46f5-ace4-4112fce615b8",
+	"Outputs": [
+		{
+			"Address": "0x4b74f870e38d8c65bafeb80bb111bf49f049dbcc",
+			"Apr": 0,
+			"GroupId": 0,
+			"Key": "",
+			"RequiredKeyInGroup": null
+		}
+	],
+	"Inputs": [
+		{
+			"Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+			"GroupId": 0
+		},
+		{
+			"Address": "0xd602148105b76e85e223620be78f9c7ffd96835e",
+			"GroupId": 0
+		}
+	],
+	"MinimumInputs": 0,
+	"RequiredInputs": null,
+	"Symbol": "WETH-Twilight (1.00%)",
+	"Chain": "ethereum"
+}
